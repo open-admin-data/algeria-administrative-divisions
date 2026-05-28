@@ -1,0 +1,45 @@
+{
+  "id": "DZ006036",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Metkaouak",
+    "en": "Metkaouak",
+    "slug": "metkaouak-dz006036"
+  },
+  "code": {
+    "id": "DZ006036",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.328",
+    "lon": "5.014"
+  },
+  "metadata": {},
+  "source": {}
+}

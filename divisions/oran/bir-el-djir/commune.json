@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ031_bir-el-djir_bir-el-djir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر الجير",
+      "en": "Bir El Djir",
+      "slug": "bir-el-djir"
+    },
+    "code": {
+      "id": "DZ031_bir-el-djir_bir-el-djir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bir-el-djir",
+      "level": 2,
+      "name": {
+        "local": "بئر الجير",
+        "en": "Bir El Djir",
+        "slug": "bir-el-djir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bir-el-djir",
+        "level": 2,
+        "name": {
+          "local": "بئر الجير",
+          "en": "Bir El Djir",
+          "slug": "bir-el-djir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31001"
+    ],
+    "geo": {
+      "lat": "35.737",
+      "lon": "-0.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bir-el-djir_hassi-ben-okba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي بن عقبة",
+      "en": "Hassi Ben Okba",
+      "slug": "hassi-ben-okba"
+    },
+    "code": {
+      "id": "DZ031_bir-el-djir_hassi-ben-okba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bir-el-djir",
+      "level": 2,
+      "name": {
+        "local": "بئر الجير",
+        "en": "Bir El Djir",
+        "slug": "bir-el-djir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bir-el-djir",
+        "level": 2,
+        "name": {
+          "local": "بئر الجير",
+          "en": "Bir El Djir",
+          "slug": "bir-el-djir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31049"
+    ],
+    "geo": {
+      "lat": "35.749",
+      "lon": "-0.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bir-el-djir_hassi-bounif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي بونيف",
+      "en": "Hassi Bounif",
+      "slug": "hassi-bounif"
+    },
+    "code": {
+      "id": "DZ031_bir-el-djir_hassi-bounif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bir-el-djir",
+      "level": 2,
+      "name": {
+        "local": "بئر الجير",
+        "en": "Bir El Djir",
+        "slug": "bir-el-djir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bir-el-djir",
+        "level": 2,
+        "name": {
+          "local": "بئر الجير",
+          "en": "Bir El Djir",
+          "slug": "bir-el-djir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31028"
+    ],
+    "geo": {
+      "lat": "35.7",
+      "lon": "-0.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

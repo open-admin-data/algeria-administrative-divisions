@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_dar-chioukh_dar-chioukh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دار الشيوخ",
+      "en": "Dar Chioukh",
+      "slug": "dar-chioukh"
+    },
+    "code": {
+      "id": "DZ017_dar-chioukh_dar-chioukh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_dar-chioukh",
+      "level": 2,
+      "name": {
+        "local": "دار الشيوخ",
+        "en": "Dar Chioukh",
+        "slug": "dar-chioukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_dar-chioukh",
+        "level": 2,
+        "name": {
+          "local": "دار الشيوخ",
+          "en": "Dar Chioukh",
+          "slug": "dar-chioukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17006"
+    ],
+    "geo": {
+      "lat": "34.883",
+      "lon": "3.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_dar-chioukh_mliliha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مليليحة",
+      "en": "M'liliha",
+      "slug": "mliliha"
+    },
+    "code": {
+      "id": "DZ017_dar-chioukh_mliliha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_dar-chioukh",
+      "level": 2,
+      "name": {
+        "local": "دار الشيوخ",
+        "en": "Dar Chioukh",
+        "slug": "dar-chioukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_dar-chioukh",
+        "level": 2,
+        "name": {
+          "local": "دار الشيوخ",
+          "en": "Dar Chioukh",
+          "slug": "dar-chioukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17036"
+    ],
+    "geo": {
+      "lat": "34.952",
+      "lon": "3.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_dar-chioukh_sidi-baizid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بايزيد",
+      "en": "Sidi Baizid",
+      "slug": "sidi-baizid"
+    },
+    "code": {
+      "id": "DZ017_dar-chioukh_sidi-baizid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_dar-chioukh",
+      "level": 2,
+      "name": {
+        "local": "دار الشيوخ",
+        "en": "Dar Chioukh",
+        "slug": "dar-chioukh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_dar-chioukh",
+        "level": 2,
+        "name": {
+          "local": "دار الشيوخ",
+          "en": "Dar Chioukh",
+          "slug": "dar-chioukh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17052"
+    ],
+    "geo": {
+      "lat": "35.021",
+      "lon": "3.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

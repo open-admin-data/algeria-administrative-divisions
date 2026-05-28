@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "DZ021001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Ben Beida",
+      "en": "Ain Ben Beida",
+      "slug": "ain-ben-beida-dz021001"
+    },
+    "code": {
+      "id": "DZ021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.589",
+      "lon": "7.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Larbi",
+      "en": "Ain Larbi",
+      "slug": "ain-larbi-dz021002"
+    },
+    "code": {
+      "id": "DZ021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.288",
+      "lon": "7.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Makhlouf",
+      "en": "Ain Makhlouf",
+      "slug": "ain-makhlouf-dz021003"
+    },
+    "code": {
+      "id": "DZ021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.23",
+      "lon": "7.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Reggada",
+      "en": "Ain Reggada",
+      "slug": "ain-reggada-dz021004"
+    },
+    "code": {
+      "id": "DZ021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.284",
+      "lon": "7.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Sandel",
+      "en": "Ain Sandel",
+      "slug": "ain-sandel-dz021005"
+    },
+    "code": {
+      "id": "DZ021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.267",
+      "lon": "7.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belkheir",
+      "en": "Belkheir",
+      "slug": "belkheir-dz021006"
+    },
+    "code": {
+      "id": "DZ021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.447",
+      "lon": "7.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bendjerrah",
+      "en": "Bendjerrah",
+      "slug": "bendjerrah-dz021007"
+    },
+    "code": {
+      "id": "DZ021007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.4",
+      "lon": "7.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Mezline",
+      "en": "Beni Mezline",
+      "slug": "beni-mezline-dz021008"
+    },
+    "code": {
+      "id": "DZ021008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.473",
+      "lon": "7.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Sabath",
+      "en": "Bordj Sabath",
+      "slug": "bordj-sabath-dz021009"
+    },
+    "code": {
+      "id": "DZ021009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.408",
+      "lon": "7.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouati Mahmoud",
+      "en": "Bouati Mahmoud",
+      "slug": "bouati-mahmoud-dz021010"
+    },
+    "code": {
+      "id": "DZ021010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.609",
+      "lon": "7.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouchegouf",
+      "en": "Bouchegouf",
+      "slug": "bouchegouf-dz021011"
+    },
+    "code": {
+      "id": "DZ021011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.484",
+      "lon": "7.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhachana",
+      "en": "Bouhachana",
+      "slug": "bouhachana-dz021012"
+    },
+    "code": {
+      "id": "DZ021012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.303",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhamdane",
+      "en": "Bouhamdane",
+      "slug": "bouhamdane-dz021013"
+    },
+    "code": {
+      "id": "DZ021013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.468",
+      "lon": "7.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumahra Ahmed",
+      "en": "Boumahra Ahmed",
+      "slug": "boumahra-ahmed-dz021014"
+    },
+    "code": {
+      "id": "DZ021014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.431",
+      "lon": "7.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dahouara",
+      "en": "Dahouara",
+      "slug": "dahouara-dz021015"
+    },
+    "code": {
+      "id": "DZ021015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.319",
+      "lon": "7.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djeballah Khemissi",
+      "en": "Djeballah Khemissi",
+      "slug": "djeballah-khemissi-dz021016"
+    },
+    "code": {
+      "id": "DZ021016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.502",
+      "lon": "7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Fedjoudj",
+      "en": "El Fedjoudj",
+      "slug": "el-fedjoudj-dz021017"
+    },
+    "code": {
+      "id": "DZ021017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.524",
+      "lon": "7.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guelaat Bousbaa",
+      "en": "Guelaat Bousbaa",
+      "slug": "guelaat-bousbaa-dz021018"
+    },
+    "code": {
+      "id": "DZ021018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.553",
+      "lon": "7.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guelma",
+      "en": "Guelma",
+      "slug": "guelma-dz021019"
+    },
+    "code": {
+      "id": "DZ021019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.456",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Debagh",
+      "en": "Hammam Debagh",
+      "slug": "hammam-debagh-dz021020"
+    },
+    "code": {
+      "id": "DZ021020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.485",
+      "lon": "7.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam N'Bail",
+      "en": "Hammam N'Bail",
+      "slug": "hammam-nbail-dz021021"
+    },
+    "code": {
+      "id": "DZ021021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.326",
+      "lon": "7.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Heliopolis",
+      "en": "Heliopolis",
+      "slug": "heliopolis-dz021022"
+    },
+    "code": {
+      "id": "DZ021022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.534",
+      "lon": "7.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Houari Boumediene",
+      "en": "Houari Boumediene",
+      "slug": "houari-boumediene-dz021023"
+    },
+    "code": {
+      "id": "DZ021023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.425",
+      "lon": "7.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khezara",
+      "en": "Khezara",
+      "slug": "khezara-dz021024"
+    },
+    "code": {
+      "id": "DZ021024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.362",
+      "lon": "7.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medjez Amar",
+      "en": "Medjez Amar",
+      "slug": "medjez-amar-dz021025"
+    },
+    "code": {
+      "id": "DZ021025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.486",
+      "lon": "7.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medjez Sfa",
+      "en": "Medjez Sfa",
+      "slug": "medjez-sfa-dz021026"
+    },
+    "code": {
+      "id": "DZ021026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.448",
+      "lon": "7.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nechmaya",
+      "en": "Nechmaya",
+      "slug": "nechmaya-dz021027"
+    },
+    "code": {
+      "id": "DZ021027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.614",
+      "lon": "7.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Cheham",
+      "en": "Oued Cheham",
+      "slug": "oued-cheham-dz021028"
+    },
+    "code": {
+      "id": "DZ021028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.356",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Fragha",
+      "en": "Oued Fragha",
+      "slug": "oued-fragha-dz021029"
+    },
+    "code": {
+      "id": "DZ021029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.543",
+      "lon": "7.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Zenati",
+      "en": "Oued Zenati",
+      "slug": "oued-zenati-dz021030"
+    },
+    "code": {
+      "id": "DZ021030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.302",
+      "lon": "7.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Agba",
+      "en": "Ras El Agba",
+      "slug": "ras-el-agba-dz021031"
+    },
+    "code": {
+      "id": "DZ021031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.371",
+      "lon": "7.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Roknia",
+      "en": "Roknia",
+      "slug": "roknia-dz021032"
+    },
+    "code": {
+      "id": "DZ021032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.585",
+      "lon": "7.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seliaoua Announa",
+      "en": "Seliaoua Announa",
+      "slug": "seliaoua-announa-dz021033"
+    },
+    "code": {
+      "id": "DZ021033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.352",
+      "lon": "7.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamlouka",
+      "en": "Tamlouka",
+      "slug": "tamlouka-dz021034"
+    },
+    "code": {
+      "id": "DZ021034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma-dz021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.127",
+      "lon": "7.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

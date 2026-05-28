@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_mekla_ait-khellili",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت خليلي",
+      "en": "Ait Khellili",
+      "slug": "ait-khellili"
+    },
+    "code": {
+      "id": "DZ015_mekla_ait-khellili",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_mekla",
+      "level": 2,
+      "name": {
+        "local": "مقلع",
+        "en": "Mekla",
+        "slug": "mekla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_mekla",
+        "level": 2,
+        "name": {
+          "local": "مقلع",
+          "en": "Mekla",
+          "slug": "mekla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15079"
+    ],
+    "geo": {
+      "lat": "36.679",
+      "lon": "4.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_mekla_mekla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مقــلع",
+      "en": "Mekla",
+      "slug": "mekla"
+    },
+    "code": {
+      "id": "DZ015_mekla_mekla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_mekla",
+      "level": 2,
+      "name": {
+        "local": "مقلع",
+        "en": "Mekla",
+        "slug": "mekla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_mekla",
+        "level": 2,
+        "name": {
+          "local": "مقلع",
+          "en": "Mekla",
+          "slug": "mekla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15014"
+    ],
+    "geo": {
+      "lat": "36.679",
+      "lon": "4.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_mekla_souama",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صوامـــع",
+      "en": "Souama",
+      "slug": "souama"
+    },
+    "code": {
+      "id": "DZ015_mekla_souama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_mekla",
+      "level": 2,
+      "name": {
+        "local": "مقلع",
+        "en": "Mekla",
+        "slug": "mekla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_mekla",
+        "level": 2,
+        "name": {
+          "local": "مقلع",
+          "en": "Mekla",
+          "slug": "mekla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15043"
+    ],
+    "geo": {
+      "lat": "36.679",
+      "lon": "4.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

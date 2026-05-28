@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ044_el-attaf_el-attaf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العطاف",
+      "en": "El-Attaf",
+      "slug": "el-attaf"
+    },
+    "code": {
+      "id": "DZ044_el-attaf_el-attaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_el-attaf",
+      "level": 2,
+      "name": {
+        "local": "العطاف",
+        "en": "El Attaf",
+        "slug": "el-attaf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_el-attaf",
+        "level": 2,
+        "name": {
+          "local": "العطاف",
+          "en": "El Attaf",
+          "slug": "el-attaf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44002"
+    ],
+    "geo": {
+      "lat": "36.217",
+      "lon": "1.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-attaf_tiberkanine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تبركانين",
+      "en": "Tiberkanine",
+      "slug": "tiberkanine"
+    },
+    "code": {
+      "id": "DZ044_el-attaf_tiberkanine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_el-attaf",
+      "level": 2,
+      "name": {
+        "local": "العطاف",
+        "en": "El Attaf",
+        "slug": "el-attaf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_el-attaf",
+        "level": 2,
+        "name": {
+          "local": "العطاف",
+          "en": "El Attaf",
+          "slug": "el-attaf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44030"
+    ],
+    "geo": {
+      "lat": "36.153",
+      "lon": "1.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

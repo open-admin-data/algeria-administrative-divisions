@@ -1,0 +1,992 @@
+[
+  {
+    "id": "DZ046001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ammari",
+      "en": "Ammari",
+      "slug": "ammari-dz046001"
+    },
+    "code": {
+      "id": "DZ046001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.617",
+      "lon": "1.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Chaib",
+      "en": "Beni Chaib",
+      "slug": "beni-chaib-dz046002"
+    },
+    "code": {
+      "id": "DZ046002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.827",
+      "lon": "1.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Lahcene",
+      "en": "Beni Lahcene",
+      "slug": "beni-lahcene-dz046003"
+    },
+    "code": {
+      "id": "DZ046003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.793",
+      "lon": "1.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Bounaama",
+      "en": "Bordj Bounaama",
+      "slug": "bordj-bounaama-dz046004"
+    },
+    "code": {
+      "id": "DZ046004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.855",
+      "lon": "1.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj El Emir Abdelkader",
+      "en": "Bordj El Emir Abdelkader",
+      "slug": "bordj-el-emir-abdelkader-dz046005"
+    },
+    "code": {
+      "id": "DZ046005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.824",
+      "lon": "2.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boucaid",
+      "en": "Boucaid",
+      "slug": "boucaid-dz046006"
+    },
+    "code": {
+      "id": "DZ046006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.905",
+      "lon": "1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khemisti",
+      "en": "Khemisti",
+      "slug": "khemisti-dz046007"
+    },
+    "code": {
+      "id": "DZ046007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.688",
+      "lon": "1.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larbaa",
+      "en": "Larbaa",
+      "slug": "larbaa-dz046008"
+    },
+    "code": {
+      "id": "DZ046008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.914",
+      "lon": "1.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lardjem",
+      "en": "Lardjem",
+      "slug": "lardjem-dz046009"
+    },
+    "code": {
+      "id": "DZ046009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.79",
+      "lon": "1.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Layoune",
+      "en": "Layoune",
+      "slug": "layoune-dz046010"
+    },
+    "code": {
+      "id": "DZ046010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.668",
+      "lon": "2.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lazharia",
+      "en": "Lazharia",
+      "slug": "lazharia-dz046011"
+    },
+    "code": {
+      "id": "DZ046011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.961",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maacem",
+      "en": "Maacem",
+      "slug": "maacem-dz046012"
+    },
+    "code": {
+      "id": "DZ046012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.644",
+      "lon": "1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Melaab",
+      "en": "Melaab",
+      "slug": "melaab-dz046013"
+    },
+    "code": {
+      "id": "DZ046013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.719",
+      "lon": "1.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Bessem",
+      "en": "Ouled Bessem",
+      "slug": "ouled-bessem-dz046014"
+    },
+    "code": {
+      "id": "DZ046014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.7",
+      "lon": "1.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abed",
+      "en": "Sidi Abed",
+      "slug": "sidi-abed-dz046015"
+    },
+    "code": {
+      "id": "DZ046015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.713",
+      "lon": "1.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Boutouchent",
+      "en": "Sidi Boutouchent",
+      "slug": "sidi-boutouchent-dz046016"
+    },
+    "code": {
+      "id": "DZ046016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.825",
+      "lon": "1.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Lantri",
+      "en": "Sidi Lantri",
+      "slug": "sidi-lantri-dz046017"
+    },
+    "code": {
+      "id": "DZ046017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.708",
+      "lon": "1.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Slimane",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane-dz046018"
+    },
+    "code": {
+      "id": "DZ046018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.857",
+      "lon": "1.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamalaht",
+      "en": "Tamalaht",
+      "slug": "tamalaht-dz046019"
+    },
+    "code": {
+      "id": "DZ046019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.802",
+      "lon": "1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Theniet El Had",
+      "en": "Theniet El Had",
+      "slug": "theniet-el-had-dz046020"
+    },
+    "code": {
+      "id": "DZ046020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.85",
+      "lon": "2.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tissemsilt",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046021"
+    },
+    "code": {
+      "id": "DZ046021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.614",
+      "lon": "1.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Youssoufia",
+      "en": "Youssoufia",
+      "slug": "youssoufia-dz046022"
+    },
+    "code": {
+      "id": "DZ046022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "تسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt-dz046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.899",
+      "lon": "2.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

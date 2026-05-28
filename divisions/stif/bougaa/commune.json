@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ019_bougaa_ain-roua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الروى",
+      "en": "Ain-Roua",
+      "slug": "ain-roua"
+    },
+    "code": {
+      "id": "DZ019_bougaa_ain-roua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bougaa",
+      "level": 2,
+      "name": {
+        "local": "بوقاعة",
+        "en": "Bougaa",
+        "slug": "bougaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bougaa",
+        "level": 2,
+        "name": {
+          "local": "بوقاعة",
+          "en": "Bougaa",
+          "slug": "bougaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19019"
+    ],
+    "geo": {
+      "lat": "36.322",
+      "lon": "5.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bougaa_beni-oussine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني وسين",
+      "en": "Beni Oussine",
+      "slug": "beni-oussine"
+    },
+    "code": {
+      "id": "DZ019_bougaa_beni-oussine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bougaa",
+      "level": 2,
+      "name": {
+        "local": "بوقاعة",
+        "en": "Bougaa",
+        "slug": "bougaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bougaa",
+        "level": 2,
+        "name": {
+          "local": "بوقاعة",
+          "en": "Bougaa",
+          "slug": "bougaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19037"
+    ],
+    "geo": {
+      "lat": "36.333",
+      "lon": "5.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bougaa_bougaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقاعة",
+      "en": "Bougaa",
+      "slug": "bougaa"
+    },
+    "code": {
+      "id": "DZ019_bougaa_bougaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bougaa",
+      "level": 2,
+      "name": {
+        "local": "بوقاعة",
+        "en": "Bougaa",
+        "slug": "bougaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bougaa",
+        "level": 2,
+        "name": {
+          "local": "بوقاعة",
+          "en": "Bougaa",
+          "slug": "bougaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19003"
+    ],
+    "geo": {
+      "lat": "36.344",
+      "lon": "5.114"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

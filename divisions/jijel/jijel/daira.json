@@ -1,0 +1,47 @@
+{
+  "id": "DZ018_jijel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "جيجل",
+    "en": "Jijel",
+    "slug": "jijel"
+  },
+  "code": {
+    "id": "DZ018_jijel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.798",
+    "lon": "5.745"
+  },
+  "metadata": {},
+  "source": {}
+}

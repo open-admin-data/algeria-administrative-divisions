@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ045_mekmen-ben-amar_kasdir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصدير",
+      "en": "Kasdir",
+      "slug": "kasdir"
+    },
+    "code": {
+      "id": "DZ045_mekmen-ben-amar_kasdir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_mekmen-ben-amar",
+      "level": 2,
+      "name": {
+        "local": "مكمن بن عمار",
+        "en": "Mekmen Ben Amar",
+        "slug": "mekmen-ben-amar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_mekmen-ben-amar",
+        "level": 2,
+        "name": {
+          "local": "مكمن بن عمار",
+          "en": "Mekmen Ben Amar",
+          "slug": "mekmen-ben-amar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45024"
+    ],
+    "geo": {
+      "lat": "33.642",
+      "lon": "-1.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045_mekmen-ben-amar_makmen-ben-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مكمن بن عمار",
+      "en": "Makmen Ben Amar",
+      "slug": "makmen-ben-amar"
+    },
+    "code": {
+      "id": "DZ045_mekmen-ben-amar_makmen-ben-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_mekmen-ben-amar",
+      "level": 2,
+      "name": {
+        "local": "مكمن بن عمار",
+        "en": "Mekmen Ben Amar",
+        "slug": "mekmen-ben-amar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_mekmen-ben-amar",
+        "level": 2,
+        "name": {
+          "local": "مكمن بن عمار",
+          "en": "Mekmen Ben Amar",
+          "slug": "mekmen-ben-amar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45005"
+    ],
+    "geo": {
+      "lat": "33.642",
+      "lon": "-1.393"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

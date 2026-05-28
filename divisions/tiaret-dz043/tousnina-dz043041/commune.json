@@ -1,0 +1,45 @@
+{
+  "id": "DZ043041",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tousnina",
+    "en": "Tousnina",
+    "slug": "tousnina-dz043041"
+  },
+  "code": {
+    "id": "DZ043041",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.097",
+    "lon": "1.32"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_bouzina_bouzina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزينة",
+      "en": "Bouzina",
+      "slug": "bouzina"
+    },
+    "code": {
+      "id": "DZ005_bouzina_bouzina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_bouzina",
+      "level": 2,
+      "name": {
+        "local": "بوزينة",
+        "en": "Bouzina",
+        "slug": "bouzina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_bouzina",
+        "level": 2,
+        "name": {
+          "local": "بوزينة",
+          "en": "Bouzina",
+          "slug": "bouzina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05041"
+    ],
+    "geo": {
+      "lat": "35.28",
+      "lon": "6.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_bouzina_larbaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لارباع",
+      "en": "Larbaa",
+      "slug": "larbaa"
+    },
+    "code": {
+      "id": "DZ005_bouzina_larbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_bouzina",
+      "level": 2,
+      "name": {
+        "local": "بوزينة",
+        "en": "Bouzina",
+        "slug": "bouzina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_bouzina",
+        "level": 2,
+        "name": {
+          "local": "بوزينة",
+          "en": "Bouzina",
+          "slug": "bouzina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09002"
+    ],
+    "geo": {
+      "lat": "35.914",
+      "lon": "1.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ027_achaacha",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عشعاشة",
+      "en": "Achaacha",
+      "slug": "achaacha"
+    },
+    "code": {
+      "id": "DZ027_achaacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.244",
+      "lon": "0.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-nouicy",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين نويسي",
+      "en": "Ain Nouicy",
+      "slug": "ain-nouicy"
+    },
+    "code": {
+      "id": "DZ027_ain-nouicy",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-tedeles",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين تادلس",
+      "en": "Ain Tedeles",
+      "slug": "ain-tedeles"
+    },
+    "code": {
+      "id": "DZ027_ain-tedeles",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.957",
+      "lon": "0.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_bouguirat",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوقيراط",
+      "en": "Bouguirat",
+      "slug": "bouguirat"
+    },
+    "code": {
+      "id": "DZ027_bouguirat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.807",
+      "lon": "0.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_hassi-mameche",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حاسي ماماش",
+      "en": "Hassi Mameche",
+      "slug": "hassi-mameche"
+    },
+    "code": {
+      "id": "DZ027_hassi-mameche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.821",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_kheir-eddine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خير الدين",
+      "en": "Kheir Eddine",
+      "slug": "kheir-eddine"
+    },
+    "code": {
+      "id": "DZ027_kheir-eddine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.961",
+      "lon": "0.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_mesra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ماسرة",
+      "en": "Mesra",
+      "slug": "mesra"
+    },
+    "code": {
+      "id": "DZ027_mesra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.587",
+      "lon": "-0.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_mostaganem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    },
+    "code": {
+      "id": "DZ027_mostaganem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.978",
+      "lon": "0.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-ali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي علي",
+      "en": "Sidi Ali",
+      "slug": "sidi-ali"
+    },
+    "code": {
+      "id": "DZ027_sidi-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.08",
+      "lon": "0.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-lakhdar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي لخضر",
+      "en": "Sidi Lakhdar",
+      "slug": "sidi-lakhdar"
+    },
+    "code": {
+      "id": "DZ027_sidi-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.153",
+      "lon": "0.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

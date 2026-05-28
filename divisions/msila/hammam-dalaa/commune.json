@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ028_hammam-dalaa_hammam-dalaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام الضلعة",
+      "en": "Hammam Dalaa",
+      "slug": "hammam-dalaa"
+    },
+    "code": {
+      "id": "DZ028_hammam-dalaa_hammam-dalaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_hammam-dalaa",
+      "level": 2,
+      "name": {
+        "local": "حمام الضلعة",
+        "en": "Hammam Dalaa",
+        "slug": "hammam-dalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_hammam-dalaa",
+        "level": 2,
+        "name": {
+          "local": "حمام الضلعة",
+          "en": "Hammam Dalaa",
+          "slug": "hammam-dalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28005"
+    ],
+    "geo": {
+      "lat": "35.776",
+      "lon": "4.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_hammam-dalaa_ouanougha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ونوغة",
+      "en": "Ouanougha",
+      "slug": "ouanougha"
+    },
+    "code": {
+      "id": "DZ028_hammam-dalaa_ouanougha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_hammam-dalaa",
+      "level": 2,
+      "name": {
+        "local": "حمام الضلعة",
+        "en": "Hammam Dalaa",
+        "slug": "hammam-dalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_hammam-dalaa",
+        "level": 2,
+        "name": {
+          "local": "حمام الضلعة",
+          "en": "Hammam Dalaa",
+          "slug": "hammam-dalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28017"
+    ],
+    "geo": {
+      "lat": "35.776",
+      "lon": "4.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_hammam-dalaa_ouled-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد منصور",
+      "en": "Ouled Mansour",
+      "slug": "ouled-mansour"
+    },
+    "code": {
+      "id": "DZ028_hammam-dalaa_ouled-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_hammam-dalaa",
+      "level": 2,
+      "name": {
+        "local": "حمام الضلعة",
+        "en": "Hammam Dalaa",
+        "slug": "hammam-dalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_hammam-dalaa",
+        "level": 2,
+        "name": {
+          "local": "حمام الضلعة",
+          "en": "Hammam Dalaa",
+          "slug": "hammam-dalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28060"
+    ],
+    "geo": {
+      "lat": "35.733",
+      "lon": "4.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_hammam-dalaa_tarmount",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تارمونت",
+      "en": "Tarmount",
+      "slug": "tarmount"
+    },
+    "code": {
+      "id": "DZ028_hammam-dalaa_tarmount",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_hammam-dalaa",
+      "level": 2,
+      "name": {
+        "local": "حمام الضلعة",
+        "en": "Hammam Dalaa",
+        "slug": "hammam-dalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_hammam-dalaa",
+        "level": 2,
+        "name": {
+          "local": "حمام الضلعة",
+          "en": "Hammam Dalaa",
+          "slug": "hammam-dalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28038"
+    ],
+    "geo": {
+      "lat": "35.82",
+      "lon": "4.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

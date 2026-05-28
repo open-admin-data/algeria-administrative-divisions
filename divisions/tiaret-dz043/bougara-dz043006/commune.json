@@ -1,0 +1,45 @@
+{
+  "id": "DZ043006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bougara",
+    "en": "Bougara",
+    "slug": "bougara-dz043006"
+  },
+  "code": {
+    "id": "DZ043006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.548",
+    "lon": "1.988"
+  },
+  "metadata": {},
+  "source": {}
+}

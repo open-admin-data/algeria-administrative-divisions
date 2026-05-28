@@ -1,0 +1,45 @@
+{
+  "id": "DZ009026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oughlal",
+    "en": "Oughlal",
+    "slug": "oughlal-dz009026"
+  },
+  "code": {
+    "id": "DZ009026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.583",
+    "lon": "5.526"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ041_bir-bouhouche",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر بوحوش",
+    "en": "Bir Bouhouche",
+    "slug": "bir-bouhouche"
+  },
+  "code": {
+    "id": "DZ041_bir-bouhouche",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.05",
+    "lon": "7.437"
+  },
+  "metadata": {},
+  "source": {}
+}

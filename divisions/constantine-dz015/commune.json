@@ -1,0 +1,542 @@
+[
+  {
+    "id": "DZ015001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Abid",
+      "en": "Ain Abid",
+      "slug": "ain-abid-dz015001"
+    },
+    "code": {
+      "id": "DZ015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.252",
+      "lon": "6.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Smara",
+      "en": "Ain Smara",
+      "slug": "ain-smara-dz015002"
+    },
+    "code": {
+      "id": "DZ015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.295",
+      "lon": "6.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Badis",
+      "en": "Ben Badis",
+      "slug": "ben-badis-dz015003"
+    },
+    "code": {
+      "id": "DZ015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.351",
+      "lon": "6.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Hamidene",
+      "en": "Beni Hamidene",
+      "slug": "beni-hamidene-dz015004"
+    },
+    "code": {
+      "id": "DZ015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.523",
+      "lon": "6.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Constantine",
+      "en": "Constantine",
+      "slug": "constantine-dz015005"
+    },
+    "code": {
+      "id": "DZ015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.356",
+      "lon": "6.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Didouche Mourad",
+      "en": "Didouche Mourad",
+      "slug": "didouche-mourad-dz015006"
+    },
+    "code": {
+      "id": "DZ015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.467",
+      "lon": "6.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Khroub",
+      "en": "El Khroub",
+      "slug": "el-khroub-dz015007"
+    },
+    "code": {
+      "id": "DZ015007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.285",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamma Bouziane",
+      "en": "Hamma Bouziane",
+      "slug": "hamma-bouziane-dz015008"
+    },
+    "code": {
+      "id": "DZ015008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.43",
+      "lon": "6.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ibn Ziad",
+      "en": "Ibn Ziad",
+      "slug": "ibn-ziad-dz015009"
+    },
+    "code": {
+      "id": "DZ015009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.374",
+      "lon": "6.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mesaoud Boudjeriou",
+      "en": "Mesaoud Boudjeriou",
+      "slug": "mesaoud-boudjeriou-dz015010"
+    },
+    "code": {
+      "id": "DZ015010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.45",
+      "lon": "6.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Rahmoun",
+      "en": "Ouled Rahmoun",
+      "slug": "ouled-rahmoun-dz015011"
+    },
+    "code": {
+      "id": "DZ015011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "6.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zighoud Youcef",
+      "en": "Zighoud Youcef",
+      "slug": "zighoud-youcef-dz015012"
+    },
+    "code": {
+      "id": "DZ015012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine-dz015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.532",
+      "lon": "6.74"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

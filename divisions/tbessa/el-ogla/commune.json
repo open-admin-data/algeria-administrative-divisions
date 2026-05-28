@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ012_el-ogla_bedjene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بجن",
+      "en": "Bedjene",
+      "slug": "bedjene"
+    },
+    "code": {
+      "id": "DZ012_el-ogla_bedjene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-ogla",
+      "level": 2,
+      "name": {
+        "local": "العقلة",
+        "en": "El Ogla",
+        "slug": "el-ogla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-ogla",
+        "level": 2,
+        "name": {
+          "local": "العقلة",
+          "en": "El Ogla",
+          "slug": "el-ogla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12035"
+    ],
+    "geo": {
+      "lat": "35.341",
+      "lon": "7.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-ogla_el-mezeraa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المزرعة",
+      "en": "El Mezeraa",
+      "slug": "el-mezeraa"
+    },
+    "code": {
+      "id": "DZ012_el-ogla_el-mezeraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-ogla",
+      "level": 2,
+      "name": {
+        "local": "العقلة",
+        "en": "El Ogla",
+        "slug": "el-ogla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-ogla",
+        "level": 2,
+        "name": {
+          "local": "العقلة",
+          "en": "El Ogla",
+          "slug": "el-ogla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12042"
+    ],
+    "geo": {
+      "lat": "35.14",
+      "lon": "7.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-ogla_el-ogla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العقلة",
+      "en": "El Ogla",
+      "slug": "el-ogla"
+    },
+    "code": {
+      "id": "DZ012_el-ogla_el-ogla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-ogla",
+      "level": 2,
+      "name": {
+        "local": "العقلة",
+        "en": "El Ogla",
+        "slug": "el-ogla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-ogla",
+        "level": 2,
+        "name": {
+          "local": "العقلة",
+          "en": "El Ogla",
+          "slug": "el-ogla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12015"
+    ],
+    "geo": {
+      "lat": "35.243",
+      "lon": "7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-ogla_stah-guentis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سطح قنطيس",
+      "en": "Stah Guentis",
+      "slug": "stah-guentis"
+    },
+    "code": {
+      "id": "DZ012_el-ogla_stah-guentis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-ogla",
+      "level": 2,
+      "name": {
+        "local": "العقلة",
+        "en": "El Ogla",
+        "slug": "el-ogla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-ogla",
+        "level": 2,
+        "name": {
+          "local": "العقلة",
+          "en": "El Ogla",
+          "slug": "el-ogla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12032"
+    ],
+    "geo": {
+      "lat": "34.835",
+      "lon": "7.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

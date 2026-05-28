@@ -1,0 +1,167 @@
+# Biskra — Algeria Administrative Divisions
+
+> 10 dairas, 27 communes
+> Code: DZ007
+> Coordinates: 34.323, 4.714
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بسكرة (Biskra)
+
+Code: DZ007_biskra, Coordinates: 34.852, 5.726
+Communes: 2
+
+#### بسكرة (Biskra)
+
+Code: DZ007_biskra_biskra, Postal: 07000, Coordinates: 34.852, 5.726
+
+#### الحاجب (El Hadjab)
+
+Code: DZ007_biskra_el-hadjab, Postal: 07037, Coordinates: 34.852, 5.726
+
+### جمورة (Djemorah)
+
+Code: DZ007_djemorah, Coordinates: 35.038, 5.742
+Communes: 2
+
+#### برانيس (Branis)
+
+Code: DZ007_djemorah_branis, Postal: 07023, Coordinates: 34.974, 5.786
+
+#### جمورة (Djemorah)
+
+Code: DZ007_djemorah_djemorah, Postal: 07025, Coordinates: 35.102, 5.697
+
+### القنطرة (El Kantara)
+
+Code: DZ007_el-kantara, Coordinates: 35.189, 5.764
+Communes: 2
+
+#### عين زعطوط (Ain Zaatout)
+
+Code: DZ007_el-kantara_ain-zaatout, Postal: 07013, Coordinates: 35.171, 5.834
+
+#### القنطرة (El Kantara)
+
+Code: DZ007_el-kantara_el-kantara, Postal: 07008, Coordinates: 35.206, 5.695
+
+### الوطاية (El Outaya)
+
+Code: DZ007_el-outaya, Coordinates: 34.98, 5.553
+Communes: 1
+
+#### الوطاية (El Outaya)
+
+Code: DZ007_el-outaya_el-outaya, Postal: 07030, Coordinates: 34.98, 5.553
+
+### فوغالة (Foughala)
+
+Code: DZ007_foughala, Coordinates: 34.743, 5.273
+Communes: 2
+
+#### الغروس (El Ghrous)
+
+Code: DZ007_foughala_el-ghrous, Postal: 07027, Coordinates: 34.722, 5.242
+
+#### فوغالة (Foughala)
+
+Code: DZ007_foughala_foughala, Postal: 07031, Coordinates: 34.764, 5.304
+
+### مشونش (Mechouneche)
+
+Code: DZ007_mechouneche, Coordinates: 34.909, 6.001
+Communes: 1
+
+#### مشونش (M&#39;chouneche)
+
+Code: DZ007_mechouneche_mchouneche, Postal: 07010, Coordinates: 34.909, 6.001
+
+### أورلال (Ourlal)
+
+Code: DZ007_ourlal, Coordinates: 34.57, 5.532
+Communes: 5
+
+#### ليوة (Lioua)
+
+Code: DZ007_ourlal_lioua, Postal: 07033, Coordinates: 34.564, 5.356
+
+#### مليلي (M&#39;lili)
+
+Code: DZ007_ourlal_mlili, Postal: 07068, Coordinates: 34.57, 5.532
+
+#### مخادمة (Mekhadma)
+
+Code: DZ007_ourlal_mekhadma, Postal: 07034, Coordinates: 34.559, 5.455
+
+#### أوماش (Oumache)
+
+Code: DZ007_ourlal_oumache, Postal: 07035, Coordinates: 34.587, 5.786
+
+#### أورلال (Ourlal)
+
+Code: DZ007_ourlal_ourlal, Postal: 07011, Coordinates: 34.57, 5.532
+
+### سيدي عقبة (Sidi Okba)
+
+Code: DZ007_sidi-okba, Coordinates: 34.714, 5.985
+Communes: 4
+
+#### عين الناقة (Ain Naga)
+
+Code: DZ007_sidi-okba_ain-naga, Postal: 07039, Coordinates: 34.65, 6.146
+
+#### شتمة (Chetma)
+
+Code: DZ007_sidi-okba_chetma, Postal: 07024, Coordinates: 34.868, 5.839
+
+#### الحوش (El Haouch)
+
+Code: DZ007_sidi-okba_el-haouch, Postal: 07028, Coordinates: 34.558, 6.045
+
+#### سيدي عقبة (Sidi Okba)
+
+Code: DZ007_sidi-okba_sidi-okba, Postal: 07005, Coordinates: 34.779, 5.908
+
+### طولقة (Tolga)
+
+Code: DZ007_tolga, Coordinates: 34.794, 5.34
+Communes: 4
+
+#### برج بن عزوز (Bordj Ben Azzouz)
+
+Code: DZ007_tolga_bordj-ben-azzouz, Postal: 07021, Coordinates: 34.731, 5.348
+
+#### بوشقرون (Bouchakroun)
+
+Code: DZ007_tolga_bouchakroun, Postal: 07022, Coordinates: 34.794, 5.34
+
+#### ليشانة (Lichana)
+
+Code: DZ007_tolga_lichana, Postal: 07009, Coordinates: 34.762, 5.43
+
+#### طولقة (Tolga)
+
+Code: DZ007_tolga_tolga, Postal: 07003, Coordinates: 34.889, 5.242
+
+### زريبة الوادي (Zeribet El Oued)
+
+Code: DZ007_zeribet-el-oued, Coordinates: 34.593, 6.491
+Communes: 4
+
+#### الفيض (El Feidh)
+
+Code: DZ007_zeribet-el-oued_el-feidh, Postal: 07026, Coordinates: 34.501, 6.465
+
+#### خنقة سيدي ناجي (Khenguet Sidi Nadji)
+
+Code: DZ007_zeribet-el-oued_khenguet-sidi-nadji, Postal: 07032, Coordinates: 34.593, 6.491
+
+#### المزيرعة (Meziraa)
+
+Code: DZ007_zeribet-el-oued_meziraa, Postal: 07043, Coordinates: 34.593, 6.491
+
+#### زريبة الوادي (Zeribet El Oued)
+
+Code: DZ007_zeribet-el-oued_zeribet-el-oued, Postal: 07012, Coordinates: 34.684, 6.517
+

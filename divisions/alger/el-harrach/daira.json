@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_el-harrach",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحراش",
+    "en": "El Harrach",
+    "slug": "el-harrach"
+  },
+  "code": {
+    "id": "DZ016_el-harrach",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.714",
+    "lon": "3.153"
+  },
+  "metadata": {},
+  "source": {}
+}

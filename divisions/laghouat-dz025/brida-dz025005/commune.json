@@ -1,0 +1,45 @@
+{
+  "id": "DZ025005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Brida",
+    "en": "Brida",
+    "slug": "brida-dz025005"
+  },
+  "code": {
+    "id": "DZ025005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.996",
+    "lon": "1.779"
+  },
+  "metadata": {},
+  "source": {}
+}

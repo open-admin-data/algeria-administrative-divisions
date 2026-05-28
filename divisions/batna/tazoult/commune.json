@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_tazoult_ouyoun-el-assafir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عيون العصافير",
+      "en": "Ouyoun El Assafir",
+      "slug": "ouyoun-el-assafir"
+    },
+    "code": {
+      "id": "DZ005_tazoult_ouyoun-el-assafir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_tazoult",
+      "level": 2,
+      "name": {
+        "local": "تازولت",
+        "en": "Tazoult",
+        "slug": "tazoult"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_tazoult",
+        "level": 2,
+        "name": {
+          "local": "تازولت",
+          "en": "Tazoult",
+          "slug": "tazoult"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05069"
+    ],
+    "geo": {
+      "lat": "35.55",
+      "lon": "6.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_tazoult_tazoult",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تازولت",
+      "en": "Tazoult",
+      "slug": "tazoult"
+    },
+    "code": {
+      "id": "DZ005_tazoult_tazoult",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_tazoult",
+      "level": 2,
+      "name": {
+        "local": "تازولت",
+        "en": "Tazoult",
+        "slug": "tazoult"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_tazoult",
+        "level": 2,
+        "name": {
+          "local": "تازولت",
+          "en": "Tazoult",
+          "slug": "tazoult"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05011"
+    ],
+    "geo": {
+      "lat": "35.47",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

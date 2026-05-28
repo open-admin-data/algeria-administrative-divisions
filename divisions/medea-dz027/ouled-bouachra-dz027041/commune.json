@@ -1,0 +1,45 @@
+{
+  "id": "DZ027041",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Bouachra",
+    "en": "Ouled Bouachra",
+    "slug": "ouled-bouachra-dz027041"
+  },
+  "code": {
+    "id": "DZ027041",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.102",
+    "lon": "2.705"
+  },
+  "metadata": {},
+  "source": {}
+}

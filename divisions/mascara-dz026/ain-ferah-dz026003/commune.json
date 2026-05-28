@@ -1,0 +1,45 @@
+{
+  "id": "DZ026003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Ferah",
+    "en": "Ain Ferah",
+    "slug": "ain-ferah-dz026003"
+  },
+  "code": {
+    "id": "DZ026003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.373",
+    "lon": "0.795"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ021017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Fedjoudj",
+    "en": "El Fedjoudj",
+    "slug": "el-fedjoudj-dz021017"
+  },
+  "code": {
+    "id": "DZ021017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.524",
+    "lon": "7.381"
+  },
+  "metadata": {},
+  "source": {}
+}

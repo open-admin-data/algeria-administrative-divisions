@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ030_ouargla_ouargla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    },
+    "code": {
+      "id": "DZ030_ouargla_ouargla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_ouargla",
+      "level": 2,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_ouargla",
+        "level": 2,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30000"
+    ],
+    "geo": {
+      "lat": "32.187",
+      "lon": "4.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_ouargla_rouissat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرويسات",
+      "en": "Rouissat",
+      "slug": "rouissat"
+    },
+    "code": {
+      "id": "DZ030_ouargla_rouissat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_ouargla",
+      "level": 2,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_ouargla",
+        "level": 2,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30013"
+    ],
+    "geo": {
+      "lat": "31.724",
+      "lon": "4.87"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

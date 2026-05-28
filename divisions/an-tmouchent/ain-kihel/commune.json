@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ046_ain-kihel_aghlal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أغلال",
+      "en": "Aghlal",
+      "slug": "aghlal"
+    },
+    "code": {
+      "id": "DZ046_ain-kihel_aghlal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-kihel",
+      "level": 2,
+      "name": {
+        "local": "عين الكيحل",
+        "en": "Ain Kihel",
+        "slug": "ain-kihel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-kihel",
+        "level": 2,
+        "name": {
+          "local": "عين الكيحل",
+          "en": "Ain Kihel",
+          "slug": "ain-kihel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46016"
+    ],
+    "geo": {
+      "lat": "35.204",
+      "lon": "-1.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-kihel_ain-kihal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الكيحل",
+      "en": "Ain Kihal",
+      "slug": "ain-kihal"
+    },
+    "code": {
+      "id": "DZ046_ain-kihel_ain-kihal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-kihel",
+      "level": 2,
+      "name": {
+        "local": "عين الكيحل",
+        "en": "Ain Kihel",
+        "slug": "ain-kihel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-kihel",
+        "level": 2,
+        "name": {
+          "local": "عين الكيحل",
+          "en": "Ain Kihel",
+          "slug": "ain-kihel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46008"
+    ],
+    "geo": {
+      "lat": "35.224",
+      "lon": "-1.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-kihel_ain-tolba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الطلبة",
+      "en": "Ain Tolba",
+      "slug": "ain-tolba"
+    },
+    "code": {
+      "id": "DZ046_ain-kihel_ain-tolba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-kihel",
+      "level": 2,
+      "name": {
+        "local": "عين الكيحل",
+        "en": "Ain Kihel",
+        "slug": "ain-kihel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-kihel",
+        "level": 2,
+        "name": {
+          "local": "عين الكيحل",
+          "en": "Ain Kihel",
+          "slug": "ain-kihel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46010"
+    ],
+    "geo": {
+      "lat": "35.243",
+      "lon": "-1.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-kihel_aoubellil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عقب الليل",
+      "en": "Aoubellil",
+      "slug": "aoubellil"
+    },
+    "code": {
+      "id": "DZ046_ain-kihel_aoubellil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-kihel",
+      "level": 2,
+      "name": {
+        "local": "عين الكيحل",
+        "en": "Ain Kihel",
+        "slug": "ain-kihel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-kihel",
+        "level": 2,
+        "name": {
+          "local": "عين الكيحل",
+          "en": "Ain Kihel",
+          "slug": "ain-kihel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46017"
+    ],
+    "geo": {
+      "lat": "35.224",
+      "lon": "-1.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ009002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Zaatout",
+    "en": "Ain Zaatout",
+    "slug": "ain-zaatout-dz009002"
+  },
+  "code": {
+    "id": "DZ009002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.171",
+    "lon": "5.834"
+  },
+  "metadata": {},
+  "source": {}
+}

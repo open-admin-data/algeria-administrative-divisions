@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_ouled-antar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد عنتر",
+    "en": "Ouled Antar",
+    "slug": "ouled-antar"
+  },
+  "code": {
+    "id": "DZ026_ouled-antar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.968",
+    "lon": "2.611"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ026006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Aouf",
+    "en": "Aouf",
+    "slug": "aouf-dz026006"
+  },
+  "code": {
+    "id": "DZ026006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.127",
+    "lon": "0.357"
+  },
+  "metadata": {},
+  "source": {}
+}

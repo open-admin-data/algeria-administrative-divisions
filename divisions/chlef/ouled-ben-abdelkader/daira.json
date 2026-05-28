@@ -1,0 +1,47 @@
+{
+  "id": "DZ002_ouled-ben-abdelkader",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد بن عبد القادر",
+    "en": "Ouled Ben Abdelkader",
+    "slug": "ouled-ben-abdelkader"
+  },
+  "code": {
+    "id": "DZ002_ouled-ben-abdelkader",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": " الشلف",
+      "en": "Chlef",
+      "slug": "chlef"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": " الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.989",
+    "lon": "1.354"
+  },
+  "metadata": {},
+  "source": {}
+}

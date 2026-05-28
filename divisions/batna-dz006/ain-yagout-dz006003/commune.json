@@ -1,0 +1,45 @@
+{
+  "id": "DZ006003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Yagout",
+    "en": "Ain Yagout",
+    "slug": "ain-yagout-dz006003"
+  },
+  "code": {
+    "id": "DZ006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.788",
+    "lon": "6.418"
+  },
+  "metadata": {},
+  "source": {}
+}

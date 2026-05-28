@@ -1,0 +1,45 @@
+{
+  "id": "DZ020007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ghardaia",
+    "en": "Ghardaia",
+    "slug": "ghardaia-dz020007"
+  },
+  "code": {
+    "id": "DZ020007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.602",
+    "lon": "3.721"
+  },
+  "metadata": {},
+  "source": {}
+}

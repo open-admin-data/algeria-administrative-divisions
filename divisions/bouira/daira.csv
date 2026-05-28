@@ -1,0 +1,13 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ010_ain-bessem,عين بسام,Ain Bessem,ain-bessem,DZ010_ain-bessem,3,35.536,1.885
+DZ010_bechloul,بشلول,Bechloul,bechloul,DZ010_bechloul,5,36.315,4.082
+DZ010_bir-ghbalou,بئر غبالو,Bir Ghbalou,bir-ghbalou,DZ010_bir-ghbalou,3,36.268,3.602
+DZ010_bordj-okhriss,برج أوخريص,Bordj Okhriss,bordj-okhriss,DZ010_bordj-okhriss,4,36.012,3.941
+DZ010_bouira,البويرة,Bouira,bouira,DZ010_bouira,3,36.187,2.332
+DZ010_el-hachimia,الهاشمية,El Hachimia,el-hachimia,DZ010_el-hachimia,2,36.242,3.864
+DZ010_haizer,الحيزر,Haizer,haizer,DZ010_haizer,2,34.954,5.298
+DZ010_kadiria,القادرية,Kadiria,kadiria,DZ010_kadiria,3,36.498,3.704
+DZ010_lakhdaria,الأخضرية,Lakhdaria,lakhdaria,DZ010_lakhdaria,6,36.524,3.49
+DZ010_mchedallah,مشد الله,M'chedallah,mchedallah,DZ010_mchedallah,6,36.171,3.385
+DZ010_souk-el-khemis,سوق الخميس,Souk El Khemis,souk-el-khemis,DZ010_souk-el-khemis,2,36.413,3.622
+DZ010_sour-el-ghozlane,سور الغزلان,Sour El Ghozlane,sour-el-ghozlane,DZ010_sour-el-ghozlane,6,35.848,3.133

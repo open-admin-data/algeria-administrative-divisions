@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_ain-deheb_ain-deheb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الذهب",
+      "en": "Ain Deheb",
+      "slug": "ain-deheb"
+    },
+    "code": {
+      "id": "DZ014_ain-deheb_ain-deheb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-deheb",
+      "level": 2,
+      "name": {
+        "local": "عين الذهب",
+        "en": "Ain Deheb",
+        "slug": "ain-deheb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-deheb",
+        "level": 2,
+        "name": {
+          "local": "عين الذهب",
+          "en": "Ain Deheb",
+          "slug": "ain-deheb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14007"
+    ],
+    "geo": {
+      "lat": "34.623",
+      "lon": "1.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-deheb_chehaima",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شحيمة",
+      "en": "Chehaima",
+      "slug": "chehaima"
+    },
+    "code": {
+      "id": "DZ014_ain-deheb_chehaima",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-deheb",
+      "level": 2,
+      "name": {
+        "local": "عين الذهب",
+        "en": "Ain Deheb",
+        "slug": "ain-deheb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-deheb",
+        "level": 2,
+        "name": {
+          "local": "عين الذهب",
+          "en": "Ain Deheb",
+          "slug": "ain-deheb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14046"
+    ],
+    "geo": {
+      "lat": "34.542",
+      "lon": "1.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-deheb_naima",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "النعيمة",
+      "en": "Naima",
+      "slug": "naima"
+    },
+    "code": {
+      "id": "DZ014_ain-deheb_naima",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-deheb",
+      "level": 2,
+      "name": {
+        "local": "عين الذهب",
+        "en": "Ain Deheb",
+        "slug": "ain-deheb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-deheb",
+        "level": 2,
+        "name": {
+          "local": "عين الذهب",
+          "en": "Ain Deheb",
+          "slug": "ain-deheb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14060"
+    ],
+    "geo": {
+      "lat": "34.812",
+      "lon": "1.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

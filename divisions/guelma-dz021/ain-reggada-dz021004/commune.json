@@ -1,0 +1,45 @@
+{
+  "id": "DZ021004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Reggada",
+    "en": "Ain Reggada",
+    "slug": "ain-reggada-dz021004"
+  },
+  "code": {
+    "id": "DZ021004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.284",
+    "lon": "7.079"
+  },
+  "metadata": {},
+  "source": {}
+}

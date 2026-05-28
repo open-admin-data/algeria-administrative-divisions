@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_el-bordj_el-bordj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البرج",
+      "en": "El Bordj",
+      "slug": "el-bordj"
+    },
+    "code": {
+      "id": "DZ029_el-bordj_el-bordj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_el-bordj",
+      "level": 2,
+      "name": {
+        "local": "البرج",
+        "en": "El Bordj",
+        "slug": "el-bordj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_el-bordj",
+        "level": 2,
+        "name": {
+          "local": "البرج",
+          "en": "El Bordj",
+          "slug": "el-bordj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29012"
+    ],
+    "geo": {
+      "lat": "35.507",
+      "lon": "0.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_el-bordj_el-menaouer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المنور",
+      "en": "El Menaouer",
+      "slug": "el-menaouer"
+    },
+    "code": {
+      "id": "DZ029_el-bordj_el-menaouer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_el-bordj",
+      "level": 2,
+      "name": {
+        "local": "البرج",
+        "en": "El Bordj",
+        "slug": "el-bordj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_el-bordj",
+        "level": 2,
+        "name": {
+          "local": "البرج",
+          "en": "El Bordj",
+          "slug": "el-bordj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29044"
+    ],
+    "geo": {
+      "lat": "35.53",
+      "lon": "0.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_el-bordj_khalouia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خلوية",
+      "en": "Khalouia",
+      "slug": "khalouia"
+    },
+    "code": {
+      "id": "DZ029_el-bordj_khalouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_el-bordj",
+      "level": 2,
+      "name": {
+        "local": "البرج",
+        "en": "El Bordj",
+        "slug": "el-bordj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_el-bordj",
+        "level": 2,
+        "name": {
+          "local": "البرج",
+          "en": "El Bordj",
+          "slug": "el-bordj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29025"
+    ],
+    "geo": {
+      "lat": "35.462",
+      "lon": "0.298"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

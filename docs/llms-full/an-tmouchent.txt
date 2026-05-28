@@ -1,0 +1,161 @@
+# Aïn Témouchent — Algeria Administrative Divisions
+
+> 8 dairas, 28 communes
+> Code: DZ046
+> Coordinates: 35.429, -0.732
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الكيحل (Ain Kihel)
+
+Code: DZ046_ain-kihel, Coordinates: 35.224, -1.167
+Communes: 4
+
+#### أغلال (Aghlal)
+
+Code: DZ046_ain-kihel_aghlal, Postal: 46016, Coordinates: 35.204, -1.083
+
+#### عين الكيحل (Ain Kihal)
+
+Code: DZ046_ain-kihel_ain-kihal, Postal: 46008, Coordinates: 35.224, -1.167
+
+#### عين الطلبة (Ain Tolba)
+
+Code: DZ046_ain-kihel_ain-tolba, Postal: 46010, Coordinates: 35.243, -1.251
+
+#### عقب الليل (Aoubellil)
+
+Code: DZ046_ain-kihel_aoubellil, Postal: 46017, Coordinates: 35.224, -1.167
+
+### عين الأربعاء (Ain Larbaa)
+
+Code: DZ046_ain-larbaa, Coordinates: 35.389, -0.862
+Communes: 4
+
+#### عين الأربعاء (Ain El Arbaa)
+
+Code: DZ046_ain-larbaa_ain-el-arbaa, Postal: 46009, Coordinates: 35.419, -0.897
+
+#### وادي الصباح (Oued Sebbah)
+
+Code: DZ046_ain-larbaa_oued-sebbah, Postal: 46023, Coordinates: 35.408, -0.799
+
+#### سيدي بومدين (Sidi Boumediene)
+
+Code: DZ046_ain-larbaa_sidi-boumediene, Postal: 46051, Coordinates: 35.341, -0.889
+
+#### تامزورة (Tamzoura)
+
+Code: DZ046_ain-larbaa_tamzoura, Postal: 46026, Coordinates: 35.389, -0.862
+
+### عين تموشنت (Ain Temouchent)
+
+Code: DZ046_ain-temouchent, Coordinates: 35.297, -1.204
+Communes: 2
+
+#### عين تموشنت (Ain Temouchent)
+
+Code: DZ046_ain-temouchent_ain-temouchent, Postal: 46000, Coordinates: 35.269, -1.151
+
+#### سيدي بن عدة (Sidi Ben Adda)
+
+Code: DZ046_ain-temouchent_sidi-ben-adda, Postal: 46013, Coordinates: 35.325, -1.257
+
+### بني صاف (Beni Saf)
+
+Code: DZ046_beni-saf, Coordinates: 35.78, 1.047
+Communes: 3
+
+#### بني صاف (Beni Saf)
+
+Code: DZ046_beni-saf_beni-saf, Postal: 46001, Coordinates: 35.29, -1.405
+
+#### الأمير عبد القادر (Emir Abdelkader)
+
+Code: DZ046_beni-saf_emir-abdelkader, Postal: 18010, Coordinates: 36.756, 5.849
+
+#### سيدي صافي (Sidi Safi)
+
+Code: DZ046_beni-saf_sidi-safi, Postal: 46025, Coordinates: 35.293, -1.302
+
+### العامرية (El Amria)
+
+Code: DZ046_el-amria, Coordinates: 35.516, -1.085
+Communes: 5
+
+#### بوزجار (Bouzedjar)
+
+Code: DZ046_el-amria_bouzedjar, Postal: 46033, Coordinates: 35.598, -1.103
+
+#### العامرية (El Amria)
+
+Code: DZ046_el-amria_el-amria, Postal: 46006, Coordinates: 35.54, -1.004
+
+#### المساعيد (El Messaid)
+
+Code: DZ046_el-amria_el-messaid, Postal: 46035, Coordinates: 35.516, -1.085
+
+#### حاسي الغلة (Hassi El Ghella)
+
+Code: DZ046_el-amria_hassi-el-ghella, Postal: 46012, Coordinates: 35.445, -1.064
+
+#### أولاد بوجمعة (Ouled Boudjemaa)
+
+Code: DZ046_el-amria_ouled-boudjemaa, Postal: 46043, Coordinates: 35.482, -1.167
+
+### المالح (El Maleh)
+
+Code: DZ046_el-maleh, Coordinates: 35.386, -1.214
+Communes: 4
+
+#### شعبة اللحم (Chaabat El Ham)
+
+Code: DZ046_el-maleh_chaabat-el-ham, Postal: 46011, Coordinates: 35.386, -1.214
+
+#### المالح (El Maleh)
+
+Code: DZ046_el-maleh_el-maleh, Postal: 46067, Coordinates: 35.386, -1.214
+
+#### أولاد الكيحل (Ouled Kihal)
+
+Code: DZ046_el-maleh_ouled-kihal, Postal: 46038, Coordinates: 35.366, -1.231
+
+#### تارقة (Terga)
+
+Code: DZ046_el-maleh_terga, Postal: 46015, Coordinates: 35.405, -1.196
+
+### حمام بوحجر (Hammam Bou Hadjar)
+
+Code: DZ046_hammam-bou-hadjar, Coordinates: 35.253, -0.985
+Communes: 4
+
+#### شنتوف (Chentouf)
+
+Code: DZ046_hammam-bou-hadjar_chentouf, Coordinates: 35.296, -1.036
+
+#### حمام بوحجر (Hammam Bou Hadjar)
+
+Code: DZ046_hammam-bou-hadjar_hammam-bou-hadjar, Postal: 46005, Coordinates: 35.253, -0.985
+
+#### الحساسنة (Hassasna)
+
+Code: DZ046_hammam-bou-hadjar_hassasna, Coordinates: 35.25, -0.947
+
+#### وادي برقش (Oued Berkeche)
+
+Code: DZ046_hammam-bou-hadjar_oued-berkeche, Postal: 46022, Coordinates: 35.213, -0.971
+
+### ولهاصة الغرابة (Oulhassa Gheraba)
+
+Code: DZ046_oulhassa-gheraba, Coordinates: 35.429, -0.732
+Communes: 2
+
+#### ولهاصة الغرابة (Oulhaca El Gheraba)
+
+Code: DZ046_oulhassa-gheraba_oulhaca-el-gheraba, Postal: 46053, Coordinates: 35.429, -0.732
+
+#### سيدي ورياش (Sidi Ouriache)
+
+Code: DZ046_oulhassa-gheraba_sidi-ouriache, Postal: 46024, Coordinates: 35.429, -0.732
+

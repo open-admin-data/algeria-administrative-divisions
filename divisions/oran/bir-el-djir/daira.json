@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_bir-el-djir",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر الجير",
+    "en": "Bir El Djir",
+    "slug": "bir-el-djir"
+  },
+  "code": {
+    "id": "DZ031_bir-el-djir",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.729",
+    "lon": "-0.508"
+  },
+  "metadata": {},
+  "source": {}
+}

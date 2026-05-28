@@ -1,0 +1,45 @@
+{
+  "id": "DZ043031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Abdelghani",
+    "en": "Sidi Abdelghani",
+    "slug": "sidi-abdelghani-dz043031"
+  },
+  "code": {
+    "id": "DZ043031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.21",
+    "lon": "1.675"
+  },
+  "metadata": {},
+  "source": {}
+}

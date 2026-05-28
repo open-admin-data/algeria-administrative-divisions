@@ -1,0 +1,139 @@
+# Souk-Ahras — Algeria Administrative Divisions
+
+> 26 communes
+> Code: DZ040
+> Coordinates: 36.139, 7.825
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Soltane
+
+Code: DZ040001, Coordinates: 36.182, 7.36
+
+
+### Ain Zana
+
+Code: DZ040002, Coordinates: 36.401, 8.215
+
+
+### Bir Bou Haouch
+
+Code: DZ040003, Coordinates: 36.035, 7.443
+
+
+### Drea
+
+Code: DZ040004, Coordinates: 36.061, 7.965
+
+
+### Haddada
+
+Code: DZ040005, Coordinates: 36.184, 8.274
+
+
+### Hanancha
+
+Code: DZ040006, Coordinates: 36.254, 7.802
+
+
+### Khedara
+
+Code: DZ040007, Coordinates: 36.292, 8.257
+
+
+### Khemissa
+
+Code: DZ040008, Coordinates: 36.189, 7.618
+
+
+### M&#39;Daourouche
+
+Code: DZ040009, Coordinates: 36.066, 7.82
+
+
+### Mechroha
+
+Code: DZ040010, Coordinates: 36.384, 7.901
+
+
+### Merahna
+
+Code: DZ040011, Coordinates: 36.198, 8.154
+
+
+### Oued Keberit
+
+Code: DZ040012, Coordinates: 35.979, 7.854
+
+
+### Ouled Driss
+
+Code: DZ040013, Coordinates: 36.376, 8.058
+
+
+### Ouled Moumen
+
+Code: DZ040014, Coordinates: 36.375, 8.32
+
+
+### Oum El Adhaim
+
+Code: DZ040015, Coordinates: 35.994, 7.667
+
+
+### Quillen
+
+Code: DZ040016, Coordinates: 36.274, 8.074
+
+
+### Raggouba
+
+Code: DZ040017, Coordinates: 36.119, 7.707
+
+
+### Safel El Ouiden
+
+Code: DZ040018, Coordinates: 35.975, 7.475
+
+
+### Sedrata
+
+Code: DZ040019, Coordinates: 36.148, 7.538
+
+
+### Sidi Fredj
+
+Code: DZ040020, Coordinates: 36.078, 8.233
+
+
+### Souk-Ahras
+
+Code: DZ040021, Coordinates: 36.286, 7.962
+
+
+### Taoura
+
+Code: DZ040022, Coordinates: 36.095, 8.043
+
+
+### Terraguelt
+
+Code: DZ040023, Coordinates: 35.905, 7.612
+
+
+### Tiffech
+
+Code: DZ040024, Coordinates: 36.172, 7.799
+
+
+### Zaarouria
+
+Code: DZ040025, Coordinates: 36.196, 7.959
+
+
+### Zouabi
+
+Code: DZ040026, Coordinates: 36.124, 7.399
+
+

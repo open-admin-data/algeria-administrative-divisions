@@ -1,0 +1,45 @@
+{
+  "id": "DZ006032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Maafa",
+    "en": "Maafa",
+    "slug": "maafa-dz006032"
+  },
+  "code": {
+    "id": "DZ006032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.279",
+    "lon": "5.882"
+  },
+  "metadata": {},
+  "source": {}
+}

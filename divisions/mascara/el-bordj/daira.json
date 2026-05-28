@@ -1,0 +1,47 @@
+{
+  "id": "DZ029_el-bordj",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "البرج",
+    "en": "El Bordj",
+    "slug": "el-bordj"
+  },
+  "code": {
+    "id": "DZ029_el-bordj",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.5",
+    "lon": "0.354"
+  },
+  "metadata": {},
+  "source": {}
+}

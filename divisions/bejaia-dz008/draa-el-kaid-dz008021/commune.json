@@ -1,0 +1,45 @@
+{
+  "id": "DZ008021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Draa El Kaid",
+    "en": "Draa El Kaid",
+    "slug": "draa-el-kaid-dz008021"
+  },
+  "code": {
+    "id": "DZ008021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.443",
+    "lon": "5.236"
+  },
+  "metadata": {},
+  "source": {}
+}

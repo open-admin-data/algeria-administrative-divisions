@@ -1,0 +1,45 @@
+{
+  "id": "DZ041007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "In Salah",
+    "en": "In Salah",
+    "slug": "in-salah-dz041007"
+  },
+  "code": {
+    "id": "DZ041007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.225",
+    "lon": "2.443"
+  },
+  "metadata": {},
+  "source": {}
+}

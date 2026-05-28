@@ -1,0 +1,29 @@
+{
+  "id": "DZ040",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سوق أهراس",
+    "en": "Souk-Ahras",
+    "slug": "souk-ahras-dz040"
+  },
+  "code": {
+    "id": "DZ040",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.139",
+    "lon": "7.825"
+  },
+  "metadata": {},
+  "source": {}
+}

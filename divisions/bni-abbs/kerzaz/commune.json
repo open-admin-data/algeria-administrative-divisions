@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ052_kerzaz_beni-ikhlef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن يخلف",
+      "en": "Beni-Ikhlef",
+      "slug": "beni-ikhlef"
+    },
+    "code": {
+      "id": "DZ052_kerzaz_beni-ikhlef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_kerzaz",
+      "level": 2,
+      "name": {
+        "local": "كرزاز",
+        "en": "Kerzaz",
+        "slug": "kerzaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_kerzaz",
+        "level": 2,
+        "name": {
+          "local": "كرزاز",
+          "en": "Kerzaz",
+          "slug": "kerzaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08025"
+    ],
+    "geo": {
+      "lat": "29.714",
+      "lon": "-1.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ052_kerzaz_kerzaz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "كرزاز",
+      "en": "Kerzaz",
+      "slug": "kerzaz"
+    },
+    "code": {
+      "id": "DZ052_kerzaz_kerzaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_kerzaz",
+      "level": 2,
+      "name": {
+        "local": "كرزاز",
+        "en": "Kerzaz",
+        "slug": "kerzaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_kerzaz",
+        "level": 2,
+        "name": {
+          "local": "كرزاز",
+          "en": "Kerzaz",
+          "slug": "kerzaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08022"
+    ],
+    "geo": {
+      "lat": "29.839",
+      "lon": "-0.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ052_kerzaz_timoudi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمودي",
+      "en": "Timoudi",
+      "slug": "timoudi"
+    },
+    "code": {
+      "id": "DZ052_kerzaz_timoudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_kerzaz",
+      "level": 2,
+      "name": {
+        "local": "كرزاز",
+        "en": "Kerzaz",
+        "slug": "kerzaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_kerzaz",
+        "level": 2,
+        "name": {
+          "local": "كرزاز",
+          "en": "Kerzaz",
+          "slug": "kerzaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08031"
+    ],
+    "geo": {
+      "lat": "29.776",
+      "lon": "-1.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

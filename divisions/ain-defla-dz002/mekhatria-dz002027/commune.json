@@ -1,0 +1,45 @@
+{
+  "id": "DZ002027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mekhatria",
+    "en": "Mekhatria",
+    "slug": "mekhatria-dz002027"
+  },
+  "code": {
+    "id": "DZ002027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.358",
+    "lon": "1.963"
+  },
+  "metadata": {},
+  "source": {}
+}

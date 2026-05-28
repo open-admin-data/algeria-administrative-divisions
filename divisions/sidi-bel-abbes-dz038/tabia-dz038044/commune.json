@@ -1,0 +1,45 @@
+{
+  "id": "DZ038044",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tabia",
+    "en": "Tabia",
+    "slug": "tabia-dz038044"
+  },
+  "code": {
+    "id": "DZ038044",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.02",
+    "lon": "-0.741"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ044_khemis_khemis-miliana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خميس مليانة",
+      "en": "Khemis-Miliana",
+      "slug": "khemis-miliana"
+    },
+    "code": {
+      "id": "DZ044_khemis_khemis-miliana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_khemis",
+      "level": 2,
+      "name": {
+        "local": "خميس",
+        "en": "Khemis",
+        "slug": "khemis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_khemis",
+        "level": 2,
+        "name": {
+          "local": "خميس",
+          "en": "Khemis",
+          "slug": "khemis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44001"
+    ],
+    "geo": {
+      "lat": "36.259",
+      "lon": "2.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_khemis_sidi-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي الأخضر",
+      "en": "Sidi-Lakhdar",
+      "slug": "sidi-lakhdar"
+    },
+    "code": {
+      "id": "DZ044_khemis_sidi-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_khemis",
+      "level": 2,
+      "name": {
+        "local": "خميس",
+        "en": "Khemis",
+        "slug": "khemis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_khemis",
+        "level": 2,
+        "name": {
+          "local": "خميس",
+          "en": "Khemis",
+          "slug": "khemis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27007"
+    ],
+    "geo": {
+      "lat": "36.181",
+      "lon": "0.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

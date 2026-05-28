@@ -1,0 +1,30 @@
+{
+  "id": "DZ029",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "معسكر",
+    "en": "Mascara",
+    "slug": "mascara"
+  },
+  "code": {
+    "id": "DZ029",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 16,
+    "commune": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.4",
+    "lon": "0.241"
+  },
+  "metadata": {},
+  "source": {}
+}

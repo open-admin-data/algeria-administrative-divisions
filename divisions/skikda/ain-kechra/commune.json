@@ -1,0 +1,112 @@
+[
+  {
+    "id": "DZ021_ain-kechra_ain-kechra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين قشرة",
+      "en": "Ain Kechra",
+      "slug": "ain-kechra"
+    },
+    "code": {
+      "id": "DZ021_ain-kechra_ain-kechra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ain-kechra",
+      "level": 2,
+      "name": {
+        "local": "عين قشرة",
+        "en": "Ain Kechra",
+        "slug": "ain-kechra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ain-kechra",
+        "level": 2,
+        "name": {
+          "local": "عين قشرة",
+          "en": "Ain Kechra",
+          "slug": "ain-kechra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21007"
+    ],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ain-kechra_ouldja-boulbalout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الولجة بولبلوط",
+      "en": "Ouldja Boulbalout",
+      "slug": "ouldja-boulbalout"
+    },
+    "code": {
+      "id": "DZ021_ain-kechra_ouldja-boulbalout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ain-kechra",
+      "level": 2,
+      "name": {
+        "local": "عين قشرة",
+        "en": "Ain Kechra",
+        "slug": "ain-kechra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ain-kechra",
+        "level": 2,
+        "name": {
+          "local": "عين قشرة",
+          "en": "Ain Kechra",
+          "slug": "ain-kechra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_bouhatem",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوحاتم",
+    "en": "Bouhatem",
+    "slug": "bouhatem"
+  },
+  "code": {
+    "id": "DZ043_bouhatem",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.317",
+    "lon": "6.053"
+  },
+  "metadata": {},
+  "source": {}
+}

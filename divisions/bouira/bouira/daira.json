@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_bouira",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "البويرة",
+    "en": "Bouira",
+    "slug": "bouira"
+  },
+  "code": {
+    "id": "DZ010_bouira",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.187",
+    "lon": "2.332"
+  },
+  "metadata": {},
+  "source": {}
+}

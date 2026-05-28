@@ -1,0 +1,45 @@
+{
+  "id": "DZ001004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Aoulef",
+    "en": "Aoulef",
+    "slug": "aoulef-dz001004"
+  },
+  "code": {
+    "id": "DZ001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.624",
+    "lon": "0.862"
+  },
+  "metadata": {},
+  "source": {}
+}

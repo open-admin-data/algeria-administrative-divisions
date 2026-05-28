@@ -1,0 +1,30 @@
+{
+  "id": "DZ046",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عين تيموشنت",
+    "en": "Aïn Témouchent",
+    "slug": "an-tmouchent"
+  },
+  "code": {
+    "id": "DZ046",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 8,
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.429",
+    "lon": "-0.732"
+  },
+  "metadata": {},
+  "source": {}
+}

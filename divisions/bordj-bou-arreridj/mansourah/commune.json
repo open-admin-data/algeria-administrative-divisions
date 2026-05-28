@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ034_mansourah_ben-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن داود",
+      "en": "Ben Daoud",
+      "slug": "ben-daoud"
+    },
+    "code": {
+      "id": "DZ034_mansourah_ben-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34073"
+    ],
+    "geo": {
+      "lat": "35.652",
+      "lon": "0.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_mansourah_el-mhir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المهير",
+      "en": "El M'hir",
+      "slug": "el-mhir"
+    },
+    "code": {
+      "id": "DZ034_mansourah_el-mhir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34019"
+    ],
+    "geo": {
+      "lat": "36.096",
+      "lon": "4.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_mansourah_haraza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حرازة",
+      "en": "Haraza",
+      "slug": "haraza"
+    },
+    "code": {
+      "id": "DZ034_mansourah_haraza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34047"
+    ],
+    "geo": {
+      "lat": "36.165",
+      "lon": "4.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_mansourah_mansoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoura",
+      "slug": "mansoura"
+    },
+    "code": {
+      "id": "DZ034_mansourah_mansoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34008"
+    ],
+    "geo": {
+      "lat": "36.103",
+      "lon": "4.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_mansourah_ouled-sidi-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سيدي ابراهيم",
+      "en": "Ouled Sidi-Brahim",
+      "slug": "ouled-sidi-brahim"
+    },
+    "code": {
+      "id": "DZ034_mansourah_ouled-sidi-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34052"
+    ],
+    "geo": {
+      "lat": "35.356",
+      "lon": "4.138"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

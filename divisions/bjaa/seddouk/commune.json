@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ006_seddouk_amalou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أمالو",
+      "en": "Amalou",
+      "slug": "amalou"
+    },
+    "code": {
+      "id": "DZ006_seddouk_amalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_seddouk",
+      "level": 2,
+      "name": {
+        "local": "صدوق",
+        "en": "Seddouk",
+        "slug": "seddouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_seddouk",
+        "level": 2,
+        "name": {
+          "local": "صدوق",
+          "en": "Seddouk",
+          "slug": "seddouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06034"
+    ],
+    "geo": {
+      "lat": "36.479",
+      "lon": "4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_seddouk_bouhamza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحمزة",
+      "en": "Bouhamza",
+      "slug": "bouhamza"
+    },
+    "code": {
+      "id": "DZ006_seddouk_bouhamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_seddouk",
+      "level": 2,
+      "name": {
+        "local": "صدوق",
+        "en": "Seddouk",
+        "slug": "seddouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_seddouk",
+        "level": 2,
+        "name": {
+          "local": "صدوق",
+          "en": "Seddouk",
+          "slug": "seddouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06031"
+    ],
+    "geo": {
+      "lat": "36.441",
+      "lon": "4.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_seddouk_mcisna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسيسنة",
+      "en": "M'cisna",
+      "slug": "mcisna"
+    },
+    "code": {
+      "id": "DZ006_seddouk_mcisna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_seddouk",
+      "level": 2,
+      "name": {
+        "local": "صدوق",
+        "en": "Seddouk",
+        "slug": "seddouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_seddouk",
+        "level": 2,
+        "name": {
+          "local": "صدوق",
+          "en": "Seddouk",
+          "slug": "seddouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06038"
+    ],
+    "geo": {
+      "lat": "36.486",
+      "lon": "4.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_seddouk_seddouk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صدوق",
+      "en": "Seddouk",
+      "slug": "seddouk"
+    },
+    "code": {
+      "id": "DZ006_seddouk_seddouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_seddouk",
+      "level": 2,
+      "name": {
+        "local": "صدوق",
+        "en": "Seddouk",
+        "slug": "seddouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_seddouk",
+        "level": 2,
+        "name": {
+          "local": "صدوق",
+          "en": "Seddouk",
+          "slug": "seddouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06011"
+    ],
+    "geo": {
+      "lat": "36.539",
+      "lon": "4.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ024_ain-hessainia_houari-boumedienne",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هواري بومدين",
+      "en": "Houari Boumedienne",
+      "slug": "houari-boumedienne"
+    },
+    "code": {
+      "id": "DZ024_ain-hessainia_houari-boumedienne",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-hessainia",
+      "level": 2,
+      "name": {
+        "local": "عين حساينية",
+        "en": "Ain Hessainia",
+        "slug": "ain-hessainia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-hessainia",
+        "level": 2,
+        "name": {
+          "local": "عين حساينية",
+          "en": "Ain Hessainia",
+          "slug": "ain-hessainia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24025"
+    ],
+    "geo": {
+      "lat": "36.428",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-hessainia_medjez-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجاز عمار",
+      "en": "Medjez Amar",
+      "slug": "medjez-amar"
+    },
+    "code": {
+      "id": "DZ024_ain-hessainia_medjez-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-hessainia",
+      "level": 2,
+      "name": {
+        "local": "عين حساينية",
+        "en": "Ain Hessainia",
+        "slug": "ain-hessainia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-hessainia",
+        "level": 2,
+        "name": {
+          "local": "عين حساينية",
+          "en": "Ain Hessainia",
+          "slug": "ain-hessainia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24043"
+    ],
+    "geo": {
+      "lat": "36.486",
+      "lon": "7.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-hessainia_ras-el-agba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رأس العقبة",
+      "en": "Ras El Agba",
+      "slug": "ras-el-agba"
+    },
+    "code": {
+      "id": "DZ024_ain-hessainia_ras-el-agba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-hessainia",
+      "level": 2,
+      "name": {
+        "local": "عين حساينية",
+        "en": "Ain Hessainia",
+        "slug": "ain-hessainia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-hessainia",
+        "level": 2,
+        "name": {
+          "local": "عين حساينية",
+          "en": "Ain Hessainia",
+          "slug": "ain-hessainia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24049"
+    ],
+    "geo": {
+      "lat": "36.371",
+      "lon": "7.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-hessainia_sellaoua-announa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سلاوة عنونة",
+      "en": "Sellaoua Announa",
+      "slug": "sellaoua-announa"
+    },
+    "code": {
+      "id": "DZ024_ain-hessainia_sellaoua-announa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-hessainia",
+      "level": 2,
+      "name": {
+        "local": "عين حساينية",
+        "en": "Ain Hessainia",
+        "slug": "ain-hessainia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-hessainia",
+        "level": 2,
+        "name": {
+          "local": "عين حساينية",
+          "en": "Ain Hessainia",
+          "slug": "ain-hessainia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24029"
+    ],
+    "geo": {
+      "lat": "36.428",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

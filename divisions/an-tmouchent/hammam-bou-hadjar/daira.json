@@ -1,0 +1,47 @@
+{
+  "id": "DZ046_hammam-bou-hadjar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حمام بوحجر",
+    "en": "Hammam Bou Hadjar",
+    "slug": "hammam-bou-hadjar"
+  },
+  "code": {
+    "id": "DZ046_hammam-bou-hadjar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "عين تيموشنت",
+      "en": "Aïn Témouchent",
+      "slug": "an-tmouchent"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.253",
+    "lon": "-0.985"
+  },
+  "metadata": {},
+  "source": {}
+}

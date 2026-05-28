@@ -1,0 +1,45 @@
+{
+  "id": "DZ038029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Taourira",
+    "en": "Oued Taourira",
+    "slug": "oued-taourira-dz038029"
+  },
+  "code": {
+    "id": "DZ038029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.614",
+    "lon": "-0.3"
+  },
+  "metadata": {},
+  "source": {}
+}

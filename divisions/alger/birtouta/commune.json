@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ016_birtouta_bir-touta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر توتة",
+      "en": "Bir Touta",
+      "slug": "bir-touta"
+    },
+    "code": {
+      "id": "DZ016_birtouta_bir-touta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_birtouta",
+      "level": 2,
+      "name": {
+        "local": "بئر توتة",
+        "en": "Birtouta",
+        "slug": "birtouta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_birtouta",
+        "level": 2,
+        "name": {
+          "local": "بئر توتة",
+          "en": "Birtouta",
+          "slug": "birtouta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16045"
+    ],
+    "geo": {
+      "lat": "36.612",
+      "lon": "2.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_birtouta_ouled-chebel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اولاد شبل",
+      "en": "Ouled Chebel",
+      "slug": "ouled-chebel"
+    },
+    "code": {
+      "id": "DZ016_birtouta_ouled-chebel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_birtouta",
+      "level": 2,
+      "name": {
+        "local": "بئر توتة",
+        "en": "Birtouta",
+        "slug": "birtouta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_birtouta",
+        "level": 2,
+        "name": {
+          "local": "بئر توتة",
+          "en": "Birtouta",
+          "slug": "birtouta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16118"
+    ],
+    "geo": {
+      "lat": "36.612",
+      "lon": "2.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_birtouta_tessala-el-merdja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسالة المرجة",
+      "en": "Tessala El Merdja",
+      "slug": "tessala-el-merdja"
+    },
+    "code": {
+      "id": "DZ016_birtouta_tessala-el-merdja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_birtouta",
+      "level": 2,
+      "name": {
+        "local": "بئر توتة",
+        "en": "Birtouta",
+        "slug": "birtouta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_birtouta",
+        "level": 2,
+        "name": {
+          "local": "بئر توتة",
+          "en": "Birtouta",
+          "slug": "birtouta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16099"
+    ],
+    "geo": {
+      "lat": "36.612",
+      "lon": "2.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

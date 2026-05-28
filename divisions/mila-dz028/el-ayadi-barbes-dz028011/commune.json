@@ -1,0 +1,45 @@
+{
+  "id": "DZ028011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ayadi Barbes",
+    "en": "El Ayadi Barbes",
+    "slug": "el-ayadi-barbes-dz028011"
+  },
+  "code": {
+    "id": "DZ028011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.44",
+    "lon": "5.824"
+  },
+  "metadata": {},
+  "source": {}
+}

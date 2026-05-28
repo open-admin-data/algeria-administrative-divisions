@@ -1,0 +1,45 @@
+{
+  "id": "DZ014030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sobha",
+    "en": "Sobha",
+    "slug": "sobha-dz014030"
+  },
+  "code": {
+    "id": "DZ014030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.108",
+    "lon": "1.032"
+  },
+  "metadata": {},
+  "source": {}
+}

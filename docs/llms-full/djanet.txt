@@ -1,0 +1,22 @@
+# Djanet — Algeria Administrative Divisions
+
+> 1 dairas, 2 communes
+> Code: DZ056
+> Coordinates: 23.78, 10.135
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### جانت (Djanet)
+
+Code: DZ056_djanet, Coordinates: 23.78, 10.135
+Communes: 2
+
+#### برج الحواس (Bordj El Haouass)
+
+Code: DZ056_djanet_bordj-el-haouass, Postal: 33008, Coordinates: 23.78, 10.135
+
+#### جانت (Djanet)
+
+Code: DZ056_djanet_djanet, Postal: 33002, Coordinates: 23.78, 10.135
+

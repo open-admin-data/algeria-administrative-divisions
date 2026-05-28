@@ -1,0 +1,45 @@
+{
+  "id": "DZ043016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Machraa Sfa",
+    "en": "Machraa Sfa",
+    "slug": "machraa-sfa-dz043016"
+  },
+  "code": {
+    "id": "DZ043016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.377",
+    "lon": "1.02"
+  },
+  "metadata": {},
+  "source": {}
+}

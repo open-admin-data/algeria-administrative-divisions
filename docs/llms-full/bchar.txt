@@ -1,0 +1,92 @@
+# Béchar — Algeria Administrative Divisions
+
+> 7 dairas, 12 communes
+> Code: DZ008
+> Coordinates: 31.202, -2.453
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### العبادلة (Abadla)
+
+Code: DZ008_abadla, Coordinates: 30.965, -2.961
+Communes: 3
+
+#### العبادلة (Abadla)
+
+Code: DZ008_abadla_abadla, Postal: 08003, Coordinates: 31.028, -2.596
+
+#### عرق فراج (Erg-Ferradj)
+
+Code: DZ008_abadla_erg-ferradj, Postal: 08023, Coordinates: 30.901, -3.325
+
+#### مشرع هواري بومدين (Machraa-Houari-Boumediene)
+
+Code: DZ008_abadla_machraa-houari-boumediene, Postal: 08027, Coordinates: 30.965, -2.961
+
+### بشار (Bechar)
+
+Code: DZ008_bechar, Coordinates: 31.615, -1.92
+Communes: 1
+
+#### بشار (Bechar)
+
+Code: DZ008_bechar_bechar, Postal: 08000, Coordinates: 31.615, -1.92
+
+### بني ونيف (Beni Ounif)
+
+Code: DZ008_beni-ounif, Coordinates: 31.556, -0.904
+Communes: 1
+
+#### بني ونيف (Beni-Ounif)
+
+Code: DZ008_beni-ounif_beni-ounif, Postal: 08010, Coordinates: 31.556, -0.904
+
+### القنادسة (Kenadsa)
+
+Code: DZ008_kenadsa, Coordinates: 31.522, -2.901
+Communes: 2
+
+#### القنادسة (Kenadsa)
+
+Code: DZ008_kenadsa_kenadsa, Postal: 08011, Coordinates: 31.497, -2.566
+
+#### المريجة (Meridja)
+
+Code: DZ008_kenadsa_meridja, Postal: 08041, Coordinates: 31.547, -3.236
+
+### لحمر (Lahmar)
+
+Code: DZ008_lahmar, Coordinates: 31.917, -2.444
+Communes: 3
+
+#### بوكايس (Boukais)
+
+Code: DZ008_lahmar_boukais, Postal: 08034, Coordinates: 31.969, -2.617
+
+#### لحمر (Lahmar)
+
+Code: DZ008_lahmar_lahmar, Postal: 08026, Coordinates: 31.865, -2.27
+
+#### موغل (Mogheul)
+
+Code: DZ008_lahmar_mogheul, Postal: 08042, Coordinates: 31.917, -2.444
+
+### تبلبالة (Tabelbala)
+
+Code: DZ008_tabelbala, Coordinates: 28.961, -3.42
+Communes: 1
+
+#### تبلبالة (Tabelbala)
+
+Code: DZ008_tabelbala_tabelbala, Postal: 08029, Coordinates: 28.961, -3.42
+
+### تاغيت (Taghit)
+
+Code: DZ008_taghit, Coordinates: 31.077, -1.677
+Communes: 1
+
+#### تاغيت (Taghit)
+
+Code: DZ008_taghit_taghit, Postal: 08030, Coordinates: 31.077, -1.677
+

@@ -1,0 +1,45 @@
+{
+  "id": "DZ002031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rouina",
+    "en": "Rouina",
+    "slug": "rouina-dz002031"
+  },
+  "code": {
+    "id": "DZ002031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.233",
+    "lon": "1.821"
+  },
+  "metadata": {},
+  "source": {}
+}

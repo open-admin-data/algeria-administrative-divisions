@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ014_ain-kermes_ain-kermes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين كرمس",
+      "en": "Ain Kermes",
+      "slug": "ain-kermes"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes_ain-kermes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-kermes",
+      "level": 2,
+      "name": {
+        "local": "عين كرمس",
+        "en": "Ain Kermes",
+        "slug": "ain-kermes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-kermes",
+        "level": 2,
+        "name": {
+          "local": "عين كرمس",
+          "en": "Ain Kermes",
+          "slug": "ain-kermes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14009"
+    ],
+    "geo": {
+      "lat": "34.941",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-kermes_djebilet-rosfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جبيلات الرصفاء",
+      "en": "Djebilet Rosfa",
+      "slug": "djebilet-rosfa"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes_djebilet-rosfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-kermes",
+      "level": 2,
+      "name": {
+        "local": "عين كرمس",
+        "en": "Ain Kermes",
+        "slug": "ain-kermes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-kermes",
+        "level": 2,
+        "name": {
+          "local": "عين كرمس",
+          "en": "Ain Kermes",
+          "slug": "ain-kermes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14061"
+    ],
+    "geo": {
+      "lat": "34.851",
+      "lon": "0.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-kermes_madna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مادنة",
+      "en": "Madna",
+      "slug": "madna"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes_madna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-kermes",
+      "level": 2,
+      "name": {
+        "local": "عين كرمس",
+        "en": "Ain Kermes",
+        "slug": "ain-kermes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-kermes",
+        "level": 2,
+        "name": {
+          "local": "عين كرمس",
+          "en": "Ain Kermes",
+          "slug": "ain-kermes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14055"
+    ],
+    "geo": {
+      "lat": "34.759",
+      "lon": "0.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-kermes_medrissa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مدريسة",
+      "en": "Medrissa",
+      "slug": "medrissa"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes_medrissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-kermes",
+      "level": 2,
+      "name": {
+        "local": "عين كرمس",
+        "en": "Ain Kermes",
+        "slug": "ain-kermes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-kermes",
+        "level": 2,
+        "name": {
+          "local": "عين كرمس",
+          "en": "Ain Kermes",
+          "slug": "ain-kermes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14013"
+    ],
+    "geo": {
+      "lat": "34.835",
+      "lon": "1.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-kermes_sidi-abderrahmane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عبد الرحمن",
+      "en": "Sidi Abderrahmane",
+      "slug": "sidi-abderrahmane"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes_sidi-abderrahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ain-kermes",
+      "level": 2,
+      "name": {
+        "local": "عين كرمس",
+        "en": "Ain Kermes",
+        "slug": "ain-kermes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ain-kermes",
+        "level": 2,
+        "name": {
+          "local": "عين كرمس",
+          "en": "Ain Kermes",
+          "slug": "ain-kermes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02066"
+    ],
+    "geo": {
+      "lat": "34.543",
+      "lon": "1.055"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

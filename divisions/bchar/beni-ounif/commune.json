@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ008_beni-ounif_beni-ounif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني ونيف",
+      "en": "Beni-Ounif",
+      "slug": "beni-ounif"
+    },
+    "code": {
+      "id": "DZ008_beni-ounif_beni-ounif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_beni-ounif",
+      "level": 2,
+      "name": {
+        "local": "بني ونيف",
+        "en": "Beni Ounif",
+        "slug": "beni-ounif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_beni-ounif",
+        "level": 2,
+        "name": {
+          "local": "بني ونيف",
+          "en": "Beni Ounif",
+          "slug": "beni-ounif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08010"
+    ],
+    "geo": {
+      "lat": "31.556",
+      "lon": "-0.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

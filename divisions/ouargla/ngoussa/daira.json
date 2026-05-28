@@ -1,0 +1,47 @@
+{
+  "id": "DZ030_ngoussa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "انقوسة",
+    "en": "N'goussa",
+    "slug": "ngoussa"
+  },
+  "code": {
+    "id": "DZ030_ngoussa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.358",
+    "lon": "5.328"
+  },
+  "metadata": {},
+  "source": {}
+}

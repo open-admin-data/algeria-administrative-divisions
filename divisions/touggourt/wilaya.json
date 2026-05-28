@@ -1,0 +1,30 @@
+{
+  "id": "DZ055",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تقرت",
+    "en": "Touggourt",
+    "slug": "touggourt"
+  },
+  "code": {
+    "id": "DZ055",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 5,
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.312",
+    "lon": "5.693"
+  },
+  "metadata": {},
+  "source": {}
+}

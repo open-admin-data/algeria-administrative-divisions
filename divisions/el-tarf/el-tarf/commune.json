@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ036_el-tarf_ain-el-assel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين العسل",
+      "en": "Ain El Assel",
+      "slug": "ain-el-assel"
+    },
+    "code": {
+      "id": "DZ036_el-tarf_ain-el-assel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-tarf",
+      "level": 2,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-tarf",
+        "level": 2,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36010"
+    ],
+    "geo": {
+      "lat": "36.806",
+      "lon": "8.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-tarf_bougous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقوس",
+      "en": "Bougous",
+      "slug": "bougous"
+    },
+    "code": {
+      "id": "DZ036_el-tarf_bougous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-tarf",
+      "level": 2,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-tarf",
+        "level": 2,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36029"
+    ],
+    "geo": {
+      "lat": "36.672",
+      "lon": "8.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-tarf_el-tarf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    },
+    "code": {
+      "id": "DZ036_el-tarf_el-tarf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-tarf",
+      "level": 2,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-tarf",
+        "level": 2,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36000"
+    ],
+    "geo": {
+      "lat": "36.757",
+      "lon": "8.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-tarf_zitouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزيتونة",
+      "en": "Zitouna",
+      "slug": "zitouna"
+    },
+    "code": {
+      "id": "DZ036_el-tarf_zitouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-tarf",
+      "level": 2,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-tarf",
+        "level": 2,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21028"
+    ],
+    "geo": {
+      "lat": "36.991",
+      "lon": "6.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

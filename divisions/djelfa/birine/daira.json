@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_birine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بيرين",
+    "en": "Birine",
+    "slug": "birine"
+  },
+  "code": {
+    "id": "DZ017_birine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.579",
+    "lon": "3.155"
+  },
+  "metadata": {},
+  "source": {}
+}

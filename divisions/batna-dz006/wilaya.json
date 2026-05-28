@@ -1,0 +1,29 @@
+{
+  "id": "DZ006",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "باتنة",
+    "en": "Batna",
+    "slug": "batna-dz006"
+  },
+  "code": {
+    "id": "DZ006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.341",
+    "lon": "5.731"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ012_ouenza_ain-zerga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الزرقاء",
+      "en": "Ain Zerga",
+      "slug": "ain-zerga"
+    },
+    "code": {
+      "id": "DZ012_ouenza_ain-zerga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_ouenza",
+      "level": 2,
+      "name": {
+        "local": "الونزة",
+        "en": "Ouenza",
+        "slug": "ouenza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_ouenza",
+        "level": 2,
+        "name": {
+          "local": "الونزة",
+          "en": "Ouenza",
+          "slug": "ouenza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12008"
+    ],
+    "geo": {
+      "lat": "35.633",
+      "lon": "8.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_ouenza_el-meridj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المريج",
+      "en": "El Meridj",
+      "slug": "el-meridj"
+    },
+    "code": {
+      "id": "DZ012_ouenza_el-meridj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_ouenza",
+      "level": 2,
+      "name": {
+        "local": "الونزة",
+        "en": "Ouenza",
+        "slug": "ouenza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_ouenza",
+        "level": 2,
+        "name": {
+          "local": "الونزة",
+          "en": "Ouenza",
+          "slug": "ouenza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12023"
+    ],
+    "geo": {
+      "lat": "35.824",
+      "lon": "8.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_ouenza_ouenza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الونزة",
+      "en": "Ouenza",
+      "slug": "ouenza"
+    },
+    "code": {
+      "id": "DZ012_ouenza_ouenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_ouenza",
+      "level": 2,
+      "name": {
+        "local": "الونزة",
+        "en": "Ouenza",
+        "slug": "ouenza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_ouenza",
+        "level": 2,
+        "name": {
+          "local": "الونزة",
+          "en": "Ouenza",
+          "slug": "ouenza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12003"
+    ],
+    "geo": {
+      "lat": "35.728",
+      "lon": "8.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

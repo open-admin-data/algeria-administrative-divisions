@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ046_ain-larbaa_ain-el-arbaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الأربعاء",
+      "en": "Ain El Arbaa",
+      "slug": "ain-el-arbaa"
+    },
+    "code": {
+      "id": "DZ046_ain-larbaa_ain-el-arbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-larbaa",
+      "level": 2,
+      "name": {
+        "local": "عين الأربعاء",
+        "en": "Ain Larbaa",
+        "slug": "ain-larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-larbaa",
+        "level": 2,
+        "name": {
+          "local": "عين الأربعاء",
+          "en": "Ain Larbaa",
+          "slug": "ain-larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46009"
+    ],
+    "geo": {
+      "lat": "35.419",
+      "lon": "-0.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-larbaa_oued-sebbah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الصباح",
+      "en": "Oued Sebbah",
+      "slug": "oued-sebbah"
+    },
+    "code": {
+      "id": "DZ046_ain-larbaa_oued-sebbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-larbaa",
+      "level": 2,
+      "name": {
+        "local": "عين الأربعاء",
+        "en": "Ain Larbaa",
+        "slug": "ain-larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-larbaa",
+        "level": 2,
+        "name": {
+          "local": "عين الأربعاء",
+          "en": "Ain Larbaa",
+          "slug": "ain-larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46023"
+    ],
+    "geo": {
+      "lat": "35.408",
+      "lon": "-0.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-larbaa_sidi-boumediene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بومدين",
+      "en": "Sidi Boumediene",
+      "slug": "sidi-boumediene"
+    },
+    "code": {
+      "id": "DZ046_ain-larbaa_sidi-boumediene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-larbaa",
+      "level": 2,
+      "name": {
+        "local": "عين الأربعاء",
+        "en": "Ain Larbaa",
+        "slug": "ain-larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-larbaa",
+        "level": 2,
+        "name": {
+          "local": "عين الأربعاء",
+          "en": "Ain Larbaa",
+          "slug": "ain-larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46051"
+    ],
+    "geo": {
+      "lat": "35.341",
+      "lon": "-0.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-larbaa_tamzoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامزورة",
+      "en": "Tamzoura",
+      "slug": "tamzoura"
+    },
+    "code": {
+      "id": "DZ046_ain-larbaa_tamzoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-larbaa",
+      "level": 2,
+      "name": {
+        "local": "عين الأربعاء",
+        "en": "Ain Larbaa",
+        "slug": "ain-larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-larbaa",
+        "level": 2,
+        "name": {
+          "local": "عين الأربعاء",
+          "en": "Ain Larbaa",
+          "slug": "ain-larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46026"
+    ],
+    "geo": {
+      "lat": "35.389",
+      "lon": "-0.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

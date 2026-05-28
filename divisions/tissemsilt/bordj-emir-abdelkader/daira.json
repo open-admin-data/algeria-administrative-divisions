@@ -1,0 +1,47 @@
+{
+  "id": "DZ038_bordj-emir-abdelkader",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج الأمير عبد القادر",
+    "en": "Bordj Emir Abdelkader",
+    "slug": "bordj-emir-abdelkader"
+  },
+  "code": {
+    "id": "DZ038_bordj-emir-abdelkader",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.861",
+    "lon": "2.181"
+  },
+  "metadata": {},
+  "source": {}
+}

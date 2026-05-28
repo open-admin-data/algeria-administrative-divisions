@@ -1,0 +1,542 @@
+[
+  {
+    "id": "DZ005001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Berda",
+      "en": "Ain Berda",
+      "slug": "ain-berda-dz005001"
+    },
+    "code": {
+      "id": "DZ005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.673",
+      "lon": "7.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Annaba",
+      "en": "Annaba",
+      "slug": "annaba-dz005002"
+    },
+    "code": {
+      "id": "DZ005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.92",
+      "lon": "7.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berrahel",
+      "en": "Berrahel",
+      "slug": "berrahel-dz005003"
+    },
+    "code": {
+      "id": "DZ005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.813",
+      "lon": "7.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chetaibi",
+      "en": "Chetaibi",
+      "slug": "chetaibi-dz005004"
+    },
+    "code": {
+      "id": "DZ005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.012",
+      "lon": "7.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cheurfa",
+      "en": "Cheurfa",
+      "slug": "cheurfa-dz005005"
+    },
+    "code": {
+      "id": "DZ005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.723",
+      "lon": "7.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Bouni",
+      "en": "El Bouni",
+      "slug": "el-bouni-dz005006"
+    },
+    "code": {
+      "id": "DZ005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.843",
+      "lon": "7.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hadjar",
+      "en": "El Hadjar",
+      "slug": "el-hadjar-dz005007"
+    },
+    "code": {
+      "id": "DZ005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.777",
+      "lon": "7.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Eulma",
+      "en": "Eulma",
+      "slug": "eulma-dz005008"
+    },
+    "code": {
+      "id": "DZ005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.714",
+      "lon": "7.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Aneb",
+      "en": "Oued El Aneb",
+      "slug": "oued-el-aneb-dz005009"
+    },
+    "code": {
+      "id": "DZ005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.937",
+      "lon": "7.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seraidi",
+      "en": "Seraidi",
+      "slug": "seraidi-dz005010"
+    },
+    "code": {
+      "id": "DZ005010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.945",
+      "lon": "7.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Amer",
+      "en": "Sidi Amer",
+      "slug": "sidi-amer-dz005011"
+    },
+    "code": {
+      "id": "DZ005011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.81",
+      "lon": "7.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Treat",
+      "en": "Treat",
+      "slug": "treat-dz005012"
+    },
+    "code": {
+      "id": "DZ005012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba-dz005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.935",
+      "lon": "7.406"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

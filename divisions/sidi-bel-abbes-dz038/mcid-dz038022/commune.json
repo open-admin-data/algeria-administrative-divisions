@@ -1,0 +1,45 @@
+{
+  "id": "DZ038022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "M'Cid",
+    "en": "M'Cid",
+    "slug": "mcid-dz038022"
+  },
+  "code": {
+    "id": "DZ038022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.147",
+    "lon": "-0.264"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ001014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Aissa",
+    "en": "Ouled Aissa",
+    "slug": "ouled-aissa-dz001014"
+  },
+  "code": {
+    "id": "DZ001014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.649",
+    "lon": "-0.172"
+  },
+  "metadata": {},
+  "source": {}
+}

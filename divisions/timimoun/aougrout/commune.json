@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ049_aougrout_aougrout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أوقروت",
+      "en": "Aougrout",
+      "slug": "aougrout"
+    },
+    "code": {
+      "id": "DZ049_aougrout_aougrout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_aougrout",
+      "level": 2,
+      "name": {
+        "local": "أوقروت",
+        "en": "Aougrout",
+        "slug": "aougrout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_aougrout",
+        "level": 2,
+        "name": {
+          "local": "أوقروت",
+          "en": "Aougrout",
+          "slug": "aougrout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01012"
+    ],
+    "geo": {
+      "lat": "28.937",
+      "lon": "1.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049_aougrout_deldoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دلدول",
+      "en": "Deldoul",
+      "slug": "deldoul"
+    },
+    "code": {
+      "id": "DZ049_aougrout_deldoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_aougrout",
+      "level": 2,
+      "name": {
+        "local": "أوقروت",
+        "en": "Aougrout",
+        "slug": "aougrout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_aougrout",
+        "level": 2,
+        "name": {
+          "local": "أوقروت",
+          "en": "Aougrout",
+          "slug": "aougrout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17046"
+    ],
+    "geo": {
+      "lat": "34.05",
+      "lon": "3.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049_aougrout_metarfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المطارفة",
+      "en": "Metarfa",
+      "slug": "metarfa"
+    },
+    "code": {
+      "id": "DZ049_aougrout_metarfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_aougrout",
+      "level": 2,
+      "name": {
+        "local": "أوقروت",
+        "en": "Aougrout",
+        "slug": "aougrout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_aougrout",
+        "level": 2,
+        "name": {
+          "local": "أوقروت",
+          "en": "Aougrout",
+          "slug": "aougrout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01033"
+    ],
+    "geo": {
+      "lat": "28.571",
+      "lon": "0.044"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

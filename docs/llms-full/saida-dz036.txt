@@ -1,0 +1,89 @@
+# Saida — Algeria Administrative Divisions
+
+> 16 communes
+> Code: DZ036
+> Coordinates: 34.746, 0.239
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain El Hadjar
+
+Code: DZ036001, Coordinates: 34.763, 0.018
+
+
+### Ain Skhouna
+
+Code: DZ036002, Coordinates: 34.543, 0.784
+
+
+### Ain Soltane
+
+Code: DZ036003, Coordinates: 34.982, 0.323
+
+
+### Doui Thabet
+
+Code: DZ036004, Coordinates: 34.897, -0.011
+
+
+### El Hassasna
+
+Code: DZ036005, Coordinates: 34.754, 0.338
+
+
+### Hounet
+
+Code: DZ036006, Coordinates: 35.091, -0.158
+
+
+### Maamora
+
+Code: DZ036007, Coordinates: 34.606, 0.524
+
+
+### Moulay Larbi
+
+Code: DZ036008, Coordinates: 34.598, -0.202
+
+
+### Ouled Brahim
+
+Code: DZ036009, Coordinates: 35.037, 0.515
+
+
+### Ouled Khaled
+
+Code: DZ036010, Coordinates: 34.924, 0.175
+
+
+### Saida
+
+Code: DZ036011, Coordinates: 34.847, 0.127
+
+
+### Sidi Ahmed
+
+Code: DZ036012, Coordinates: 34.54, 0.224
+
+
+### Sidi Amar
+
+Code: DZ036013, Coordinates: 35.003, 0.133
+
+
+### Sidi Boubekeur
+
+Code: DZ036014, Coordinates: 35.002, -0.027
+
+
+### Tircine
+
+Code: DZ036015, Coordinates: 34.973, 0.615
+
+
+### Youb
+
+Code: DZ036016, Coordinates: 34.888, -0.224
+
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ001_fenoughil_fenoughil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فنوغيل",
+      "en": "Fenoughil",
+      "slug": "fenoughil"
+    },
+    "code": {
+      "id": "DZ001_fenoughil_fenoughil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_fenoughil",
+      "level": 2,
+      "name": {
+        "local": "فنوغيل",
+        "en": "Fenoughil",
+        "slug": "fenoughil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_fenoughil",
+        "level": 2,
+        "name": {
+          "local": "فنوغيل",
+          "en": "Fenoughil",
+          "slug": "fenoughil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01008"
+    ],
+    "geo": {
+      "lat": "27.611",
+      "lon": "-1.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_fenoughil_tamantit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامنطيط",
+      "en": "Tamantit",
+      "slug": "tamantit"
+    },
+    "code": {
+      "id": "DZ001_fenoughil_tamantit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_fenoughil",
+      "level": 2,
+      "name": {
+        "local": "فنوغيل",
+        "en": "Fenoughil",
+        "slug": "fenoughil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_fenoughil",
+        "level": 2,
+        "name": {
+          "local": "فنوغيل",
+          "en": "Fenoughil",
+          "slug": "fenoughil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01021"
+    ],
+    "geo": {
+      "lat": "27.529",
+      "lon": "-1.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_fenoughil_tamest",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامست",
+      "en": "Tamest",
+      "slug": "tamest"
+    },
+    "code": {
+      "id": "DZ001_fenoughil_tamest",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_fenoughil",
+      "level": 2,
+      "name": {
+        "local": "فنوغيل",
+        "en": "Fenoughil",
+        "slug": "fenoughil"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_fenoughil",
+        "level": 2,
+        "name": {
+          "local": "فنوغيل",
+          "en": "Fenoughil",
+          "slug": "fenoughil"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01020"
+    ],
+    "geo": {
+      "lat": "27.448",
+      "lon": "-1.409"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

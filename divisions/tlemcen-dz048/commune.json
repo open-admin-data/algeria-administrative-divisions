@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "DZ048001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fetah",
+      "en": "Ain Fetah",
+      "slug": "ain-fetah-dz048001"
+    },
+    "code": {
+      "id": "DZ048001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.975",
+      "lon": "-1.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fezza",
+      "en": "Ain Fezza",
+      "slug": "ain-fezza-dz048002"
+    },
+    "code": {
+      "id": "DZ048002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.887",
+      "lon": "-1.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Ghoraba",
+      "en": "Ain Ghoraba",
+      "slug": "ain-ghoraba-dz048003"
+    },
+    "code": {
+      "id": "DZ048003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.739",
+      "lon": "-1.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kebira",
+      "en": "Ain Kebira",
+      "slug": "ain-kebira-dz048004"
+    },
+    "code": {
+      "id": "DZ048004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.03",
+      "lon": "-1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Nehala",
+      "en": "Ain Nehala",
+      "slug": "ain-nehala-dz048005"
+    },
+    "code": {
+      "id": "DZ048005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.035",
+      "lon": "-0.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tallout",
+      "en": "Ain Tallout",
+      "slug": "ain-tallout-dz048006"
+    },
+    "code": {
+      "id": "DZ048006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.765",
+      "lon": "-0.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Youcef",
+      "en": "Ain Youcef",
+      "slug": "ain-youcef-dz048007"
+    },
+    "code": {
+      "id": "DZ048007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.075",
+      "lon": "-1.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amieur",
+      "en": "Amieur",
+      "slug": "amieur-dz048008"
+    },
+    "code": {
+      "id": "DZ048008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.007",
+      "lon": "-1.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azails",
+      "en": "Azails",
+      "slug": "azails-dz048009"
+    },
+    "code": {
+      "id": "DZ048009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.659",
+      "lon": "-1.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bab El Assa",
+      "en": "Bab El Assa",
+      "slug": "bab-el-assa-dz048010"
+    },
+    "code": {
+      "id": "DZ048010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.977",
+      "lon": "-2.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Bahdel",
+      "en": "Beni Bahdel",
+      "slug": "beni-bahdel-dz048011"
+    },
+    "code": {
+      "id": "DZ048011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.713",
+      "lon": "-1.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Boussaid",
+      "en": "Beni Boussaid",
+      "slug": "beni-boussaid-dz048012"
+    },
+    "code": {
+      "id": "DZ048012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.636",
+      "lon": "-1.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Khellad",
+      "en": "Beni Khellad",
+      "slug": "beni-khellad-dz048013"
+    },
+    "code": {
+      "id": "DZ048013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.184",
+      "lon": "-1.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Mester",
+      "en": "Beni Mester",
+      "slug": "beni-mester-dz048014"
+    },
+    "code": {
+      "id": "DZ048014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.892",
+      "lon": "-1.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ouarsous",
+      "en": "Beni Ouarsous",
+      "slug": "beni-ouarsous-dz048015"
+    },
+    "code": {
+      "id": "DZ048015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.095",
+      "lon": "-1.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Semiel",
+      "en": "Beni Semiel",
+      "slug": "beni-semiel-dz048016"
+    },
+    "code": {
+      "id": "DZ048016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.789",
+      "lon": "-1.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Snous",
+      "en": "Beni Snous",
+      "slug": "beni-snous-dz048017"
+    },
+    "code": {
+      "id": "DZ048017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.628",
+      "lon": "-1.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bensekrane",
+      "en": "Bensekrane",
+      "slug": "bensekrane-dz048018"
+    },
+    "code": {
+      "id": "DZ048018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.114",
+      "lon": "-1.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhlou",
+      "en": "Bouhlou",
+      "slug": "bouhlou-dz048019"
+    },
+    "code": {
+      "id": "DZ048019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "-1.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chetouane",
+      "en": "Chetouane",
+      "slug": "chetouane-dz048020"
+    },
+    "code": {
+      "id": "DZ048020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.938",
+      "lon": "-1.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar Yaghmourassene",
+      "en": "Dar Yaghmourassene",
+      "slug": "dar-yaghmourassene-dz048021"
+    },
+    "code": {
+      "id": "DZ048021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.104",
+      "lon": "-1.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebala",
+      "en": "Djebala",
+      "slug": "djebala-dz048022"
+    },
+    "code": {
+      "id": "DZ048022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.963",
+      "lon": "-1.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Aricha",
+      "en": "El Aricha",
+      "slug": "el-aricha-dz048023"
+    },
+    "code": {
+      "id": "DZ048023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.394",
+      "lon": "-1.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Bouihi",
+      "en": "El Bouihi",
+      "slug": "el-bouihi-dz048024"
+    },
+    "code": {
+      "id": "DZ048024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.309",
+      "lon": "-1.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Fehoul",
+      "en": "El Fehoul",
+      "slug": "el-fehoul-dz048025"
+    },
+    "code": {
+      "id": "DZ048025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.141",
+      "lon": "-1.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Gor",
+      "en": "El Gor",
+      "slug": "el-gor-dz048026"
+    },
+    "code": {
+      "id": "DZ048026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.552",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fellaoucene",
+      "en": "Fellaoucene",
+      "slug": "fellaoucene-dz048027"
+    },
+    "code": {
+      "id": "DZ048027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.017",
+      "lon": "-1.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghazaouet",
+      "en": "Ghazaouet",
+      "slug": "ghazaouet-dz048028"
+    },
+    "code": {
+      "id": "DZ048028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.085",
+      "lon": "-1.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Boughrara",
+      "en": "Hammam Boughrara",
+      "slug": "hammam-boughrara-dz048029"
+    },
+    "code": {
+      "id": "DZ048029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.925",
+      "lon": "-1.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Henaya",
+      "en": "Henaya",
+      "slug": "henaya-dz048030"
+    },
+    "code": {
+      "id": "DZ048030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.964",
+      "lon": "-1.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Honaine",
+      "en": "Honaine",
+      "slug": "honaine-dz048031"
+    },
+    "code": {
+      "id": "DZ048031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.159",
+      "lon": "-1.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Sirda Fouaga",
+      "en": "M'Sirda Fouaga",
+      "slug": "msirda-fouaga-dz048035"
+    },
+    "code": {
+      "id": "DZ048035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.023",
+      "lon": "-2.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maghnia",
+      "en": "Maghnia",
+      "slug": "maghnia-dz048032"
+    },
+    "code": {
+      "id": "DZ048032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.838",
+      "lon": "-1.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mansourah",
+      "en": "Mansourah",
+      "slug": "mansourah-dz048033"
+    },
+    "code": {
+      "id": "DZ048033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.873",
+      "lon": "-1.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mersa Ben M'Hidi",
+      "en": "Mersa Ben M'Hidi",
+      "slug": "mersa-ben-mhidi-dz048034"
+    },
+    "code": {
+      "id": "DZ048034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.06",
+      "lon": "-2.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nedroma",
+      "en": "Nedroma",
+      "slug": "nedroma-dz048036"
+    },
+    "code": {
+      "id": "DZ048036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.047",
+      "lon": "-1.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Chouly",
+      "en": "Oued Chouly",
+      "slug": "oued-chouly-dz048037"
+    },
+    "code": {
+      "id": "DZ048037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.822",
+      "lon": "-1.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Mimoun",
+      "en": "Ouled Mimoun",
+      "slug": "ouled-mimoun-dz048038"
+    },
+    "code": {
+      "id": "DZ048038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.901",
+      "lon": "-1.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Riah",
+      "en": "Ouled Riah",
+      "slug": "ouled-riah-dz048039"
+    },
+    "code": {
+      "id": "DZ048039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.954",
+      "lon": "-1.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Remchi",
+      "en": "Remchi",
+      "slug": "remchi-dz048040"
+    },
+    "code": {
+      "id": "DZ048040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.113",
+      "lon": "-1.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabra",
+      "en": "Sabra",
+      "slug": "sabra-dz048041"
+    },
+    "code": {
+      "id": "DZ048041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.849",
+      "lon": "-1.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebaa Chioukh",
+      "en": "Sebaa Chioukh",
+      "slug": "sebaa-chioukh-dz048042"
+    },
+    "code": {
+      "id": "DZ048042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.157",
+      "lon": "-1.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebdou",
+      "en": "Sebdou",
+      "slug": "sebdou-dz048043"
+    },
+    "code": {
+      "id": "DZ048043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.644",
+      "lon": "-1.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abdelli",
+      "en": "Sidi Abdelli",
+      "slug": "sidi-abdelli-dz048044"
+    },
+    "code": {
+      "id": "DZ048044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.048",
+      "lon": "-1.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Djillali",
+      "en": "Sidi Djillali",
+      "slug": "sidi-djillali-dz048045"
+    },
+    "code": {
+      "id": "DZ048045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.421",
+      "lon": "-1.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Medjahed",
+      "en": "Sidi Medjahed",
+      "slug": "sidi-medjahed-dz048046"
+    },
+    "code": {
+      "id": "DZ048046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.757",
+      "lon": "-1.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souahlia",
+      "en": "Souahlia",
+      "slug": "souahlia-dz048047"
+    },
+    "code": {
+      "id": "DZ048047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.03",
+      "lon": "-1.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souani",
+      "en": "Souani",
+      "slug": "souani-dz048048"
+    },
+    "code": {
+      "id": "DZ048048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.931",
+      "lon": "-1.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk Thlata",
+      "en": "Souk Thlata",
+      "slug": "souk-thlata-dz048049"
+    },
+    "code": {
+      "id": "DZ048049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.028",
+      "lon": "-1.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terni Beni Hediel",
+      "en": "Terni Beni Hediel",
+      "slug": "terni-beni-hediel-dz048050"
+    },
+    "code": {
+      "id": "DZ048050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.783",
+      "lon": "-1.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tienet",
+      "en": "Tienet",
+      "slug": "tienet-dz048051"
+    },
+    "code": {
+      "id": "DZ048051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.041",
+      "lon": "-1.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tlemcen",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048052"
+    },
+    "code": {
+      "id": "DZ048052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.898",
+      "lon": "-1.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048053",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zenata",
+      "en": "Zenata",
+      "slug": "zenata-dz048053"
+    },
+    "code": {
+      "id": "DZ048053",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen-dz048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.993",
+      "lon": "-1.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

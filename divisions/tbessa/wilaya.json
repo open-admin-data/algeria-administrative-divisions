@@ -1,0 +1,30 @@
+{
+  "id": "DZ012",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تبسة",
+    "en": "Tébessa",
+    "slug": "tbessa"
+  },
+  "code": {
+    "id": "DZ012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 12,
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.284",
+    "lon": "7.944"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_amoucha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عموشة",
+    "en": "Amoucha",
+    "slug": "amoucha"
+  },
+  "code": {
+    "id": "DZ019_amoucha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.438",
+    "lon": "5.397"
+  },
+  "metadata": {},
+  "source": {}
+}

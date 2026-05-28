@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ029_ghriss_ghriss",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غريس",
+      "en": "Ghriss",
+      "slug": "ghriss"
+    },
+    "code": {
+      "id": "DZ029_ghriss_ghriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ghriss",
+      "level": 2,
+      "name": {
+        "local": "غريس",
+        "en": "Ghriss",
+        "slug": "ghriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ghriss",
+        "level": 2,
+        "name": {
+          "local": "غريس",
+          "en": "Ghriss",
+          "slug": "ghriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29006"
+    ],
+    "geo": {
+      "lat": "35.232",
+      "lon": "0.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ghriss_makhda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ماقضة",
+      "en": "Makhda",
+      "slug": "makhda"
+    },
+    "code": {
+      "id": "DZ029_ghriss_makhda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ghriss",
+      "level": 2,
+      "name": {
+        "local": "غريس",
+        "en": "Ghriss",
+        "slug": "ghriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ghriss",
+        "level": 2,
+        "name": {
+          "local": "غريس",
+          "en": "Ghriss",
+          "slug": "ghriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29055"
+    ],
+    "geo": {
+      "lat": "35.296",
+      "lon": "0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ghriss_maoussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ماوسة",
+      "en": "Maoussa",
+      "slug": "maoussa"
+    },
+    "code": {
+      "id": "DZ029_ghriss_maoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ghriss",
+      "level": 2,
+      "name": {
+        "local": "غريس",
+        "en": "Ghriss",
+        "slug": "ghriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ghriss",
+        "level": 2,
+        "name": {
+          "local": "غريس",
+          "en": "Ghriss",
+          "slug": "ghriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29015"
+    ],
+    "geo": {
+      "lat": "35.379",
+      "lon": "0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ghriss_matemore",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المطمور",
+      "en": "Matemore",
+      "slug": "matemore"
+    },
+    "code": {
+      "id": "DZ029_ghriss_matemore",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ghriss",
+      "level": 2,
+      "name": {
+        "local": "غريس",
+        "en": "Ghriss",
+        "slug": "ghriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ghriss",
+        "level": 2,
+        "name": {
+          "local": "غريس",
+          "en": "Ghriss",
+          "slug": "ghriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29026"
+    ],
+    "geo": {
+      "lat": "35.296",
+      "lon": "0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ghriss_sidi-boussaid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بوسعيد",
+      "en": "Sidi Boussaid",
+      "slug": "sidi-boussaid"
+    },
+    "code": {
+      "id": "DZ029_ghriss_sidi-boussaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ghriss",
+      "level": 2,
+      "name": {
+        "local": "غريس",
+        "en": "Ghriss",
+        "slug": "ghriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ghriss",
+        "level": 2,
+        "name": {
+          "local": "غريس",
+          "en": "Ghriss",
+          "slug": "ghriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29069"
+    ],
+    "geo": {
+      "lat": "35.276",
+      "lon": "0.297"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,181 @@
+# Tébessa — Algeria Administrative Divisions
+
+> 12 dairas, 28 communes
+> Code: DZ012
+> Coordinates: 35.284, 7.944
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بئر العاتر (Bir El Ater)
+
+Code: DZ012_bir-el-ater, Coordinates: 34.913, 8.017
+Communes: 2
+
+#### بئر العاتر (Bir-El-Ater)
+
+Code: DZ012_bir-el-ater_bir-el-ater, Postal: 12001, Coordinates: 34.685, 8.028
+
+#### العقلة المالحة (El Ogla El Malha)
+
+Code: DZ012_bir-el-ater_el-ogla-el-malha, Postal: 12043, Coordinates: 35.141, 8.005
+
+### بئر مقدم (Bir Mokadem)
+
+Code: DZ012_bir-mokadem, Coordinates: 35.476, 7.954
+Communes: 3
+
+#### بئر مقدم (Bir Mokkadem)
+
+Code: DZ012_bir-mokadem_bir-mokkadem, Postal: 12011, Coordinates: 35.476, 7.954
+
+#### قريقر (Guorriguer)
+
+Code: DZ012_bir-mokadem_guorriguer, Postal: 12046, Coordinates: 35.476, 7.954
+
+#### الحمامات (Hammamet)
+
+Code: DZ012_bir-mokadem_hammamet, Postal: 12016, Coordinates: 35.476, 7.954
+
+### الشريعة (Cheria)
+
+Code: DZ012_cheria, Coordinates: 35.251, 7.771
+Communes: 2
+
+#### الشريعة (Cheria)
+
+Code: DZ012_cheria_cheria, Postal: 12002, Coordinates: 35.251, 7.771
+
+#### ثليجان (Telidjen)
+
+Code: DZ012_cheria_telidjen, Postal: 12053, Coordinates: 35.251, 7.771
+
+### العوينات (El Aouinet)
+
+Code: DZ012_el-aouinet, Coordinates: 35.83, 7.992
+Communes: 2
+
+#### بوخضرة (Boukhadra)
+
+Code: DZ012_el-aouinet_boukhadra, Postal: 12012, Coordinates: 35.792, 8.051
+
+#### العوينات (El-Aouinet)
+
+Code: DZ012_el-aouinet_el-aouinet, Postal: 12005, Coordinates: 35.868, 7.932
+
+### الكويف (El Kouif)
+
+Code: DZ012_el-kouif, Coordinates: 35.468, 8.21
+Communes: 3
+
+#### بكارية (Bekkaria)
+
+Code: DZ012_el-kouif_bekkaria, Postal: 12019, Coordinates: 35.381, 8.254
+
+#### بولحاف الدير (Boulhaf Dyr)
+
+Code: DZ012_el-kouif_boulhaf-dyr, Postal: 12039, Coordinates: 35.524, 8.095
+
+#### الكويف (El Kouif)
+
+Code: DZ012_el-kouif_el-kouif, Postal: 12006, Coordinates: 35.498, 8.282
+
+### الماء الابيض (El Malabiod)
+
+Code: DZ012_el-malabiod, Coordinates: 35.24, 8.336
+Communes: 2
+
+#### الماء الابيض (El Malabiod)
+
+Code: DZ012_el-malabiod_el-malabiod, Postal: 12014, Coordinates: 35.24, 8.336
+
+#### الحويجبات (El-Houidjbet)
+
+Code: DZ012_el-malabiod_el-houidjbet, Postal: 12038, Coordinates: 35.24, 8.336
+
+### العقلة (El Ogla)
+
+Code: DZ012_el-ogla, Coordinates: 35.14, 7.475
+Communes: 4
+
+#### بجن (Bedjene)
+
+Code: DZ012_el-ogla_bedjene, Postal: 12035, Coordinates: 35.341, 7.482
+
+#### المزرعة (El Mezeraa)
+
+Code: DZ012_el-ogla_el-mezeraa, Postal: 12042, Coordinates: 35.14, 7.475
+
+#### العقلة (El Ogla)
+
+Code: DZ012_el-ogla_el-ogla, Postal: 12015, Coordinates: 35.243, 7.448
+
+#### سطح قنطيس (Stah Guentis)
+
+Code: DZ012_el-ogla_stah-guentis, Postal: 12032, Coordinates: 34.835, 7.496
+
+### مرسط (Morsott)
+
+Code: DZ012_morsott, Coordinates: 35.562, 7.915
+Communes: 2
+
+#### بئر الذهب (Bir Dheheb)
+
+Code: DZ012_morsott_bir-dheheb, Postal: 12031, Coordinates: 35.562, 7.915
+
+#### مرسط (Morsott)
+
+Code: DZ012_morsott_morsott, Postal: 12017, Coordinates: 35.562, 7.915
+
+### نقرين (Negrine)
+
+Code: DZ012_negrine, Coordinates: 34.446, 7.505
+Communes: 2
+
+#### فركان (Ferkane)
+
+Code: DZ012_negrine_ferkane, Postal: 12044, Coordinates: 34.495, 7.361
+
+#### نقرين (Negrine)
+
+Code: DZ012_negrine_negrine, Postal: 12024, Coordinates: 34.397, 7.65
+
+### الونزة (Ouenza)
+
+Code: DZ012_ouenza, Coordinates: 35.728, 8.22
+Communes: 3
+
+#### عين الزرقاء (Ain Zerga)
+
+Code: DZ012_ouenza_ain-zerga, Postal: 12008, Coordinates: 35.633, 8.238
+
+#### المريج (El Meridj)
+
+Code: DZ012_ouenza_el-meridj, Postal: 12023, Coordinates: 35.824, 8.203
+
+#### الونزة (Ouenza)
+
+Code: DZ012_ouenza_ouenza, Postal: 12003, Coordinates: 35.728, 8.22
+
+### أم علي (Oum Ali)
+
+Code: DZ012_oum-ali, Coordinates: 35.087, 8.294
+Communes: 2
+
+#### أم علي (Oum Ali)
+
+Code: DZ012_oum-ali_oum-ali, Postal: 12027, Coordinates: 35.087, 8.294
+
+#### صفصاف الوسرى (Saf Saf El Ouesra)
+
+Code: DZ012_oum-ali_saf-saf-el-ouesra, Postal: 12037, Coordinates: 35.087, 8.294
+
+### تبسة (Tebessa)
+
+Code: DZ012_tebessa, Coordinates: 35.403, 8.091
+Communes: 1
+
+#### تبسة (Tebessa)
+
+Code: DZ012_tebessa_tebessa, Postal: 12000, Coordinates: 35.403, 8.091
+

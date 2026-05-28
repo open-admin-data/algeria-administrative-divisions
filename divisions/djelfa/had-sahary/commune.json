@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_had-sahary_ain-fekka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فقه",
+      "en": "Ain Fekka",
+      "slug": "ain-fekka"
+    },
+    "code": {
+      "id": "DZ017_had-sahary_ain-fekka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_had-sahary",
+      "level": 2,
+      "name": {
+        "local": "حد الصحاري",
+        "en": "Had Sahary",
+        "slug": "had-sahary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_had-sahary",
+        "level": 2,
+        "name": {
+          "local": "حد الصحاري",
+          "en": "Had Sahary",
+          "slug": "had-sahary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17040"
+    ],
+    "geo": {
+      "lat": "35.426",
+      "lon": "3.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_had-sahary_bouira-lahdab",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بويرة الأحداب",
+      "en": "Bouira Lahdab",
+      "slug": "bouira-lahdab"
+    },
+    "code": {
+      "id": "DZ017_had-sahary_bouira-lahdab",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_had-sahary",
+      "level": 2,
+      "name": {
+        "local": "حد الصحاري",
+        "en": "Had Sahary",
+        "slug": "had-sahary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_had-sahary",
+        "level": 2,
+        "name": {
+          "local": "حد الصحاري",
+          "en": "Had Sahary",
+          "slug": "had-sahary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17044"
+    ],
+    "geo": {
+      "lat": "35.218",
+      "lon": "3.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_had-sahary_had-sahary",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حد الصحاري",
+      "en": "Had Sahary",
+      "slug": "had-sahary"
+    },
+    "code": {
+      "id": "DZ017_had-sahary_had-sahary",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_had-sahary",
+      "level": 2,
+      "name": {
+        "local": "حد الصحاري",
+        "en": "Had Sahary",
+        "slug": "had-sahary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_had-sahary",
+        "level": 2,
+        "name": {
+          "local": "حد الصحاري",
+          "en": "Had Sahary",
+          "slug": "had-sahary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17022"
+    ],
+    "geo": {
+      "lat": "35.348",
+      "lon": "3.352"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

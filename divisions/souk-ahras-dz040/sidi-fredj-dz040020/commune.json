@@ -1,0 +1,45 @@
+{
+  "id": "DZ040020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Fredj",
+    "en": "Sidi Fredj",
+    "slug": "sidi-fredj-dz040020"
+  },
+  "code": {
+    "id": "DZ040020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.078",
+    "lon": "8.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ034018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Fkirina",
+    "en": "Fkirina",
+    "slug": "fkirina-dz034018"
+  },
+  "code": {
+    "id": "DZ034018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.709",
+    "lon": "7.333"
+  },
+  "metadata": {},
+  "source": {}
+}

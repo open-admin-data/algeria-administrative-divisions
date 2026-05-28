@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_ouled-si-slimane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد سي سليمان",
+    "en": "Ouled Si Slimane",
+    "slug": "ouled-si-slimane"
+  },
+  "code": {
+    "id": "DZ005_ouled-si-slimane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.567",
+    "lon": "5.742"
+  },
+  "metadata": {},
+  "source": {}
+}

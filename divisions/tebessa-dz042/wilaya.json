@@ -1,0 +1,29 @@
+{
+  "id": "DZ042",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تبسة",
+    "en": "Tebessa",
+    "slug": "tebessa-dz042"
+  },
+  "code": {
+    "id": "DZ042",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.12",
+    "lon": "7.894"
+  },
+  "metadata": {},
+  "source": {}
+}

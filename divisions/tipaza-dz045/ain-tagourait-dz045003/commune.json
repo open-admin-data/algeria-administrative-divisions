@@ -1,0 +1,45 @@
+{
+  "id": "DZ045003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Tagourait",
+    "en": "Ain Tagourait",
+    "slug": "ain-tagourait-dz045003"
+  },
+  "code": {
+    "id": "DZ045003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.596",
+    "lon": "2.61"
+  },
+  "metadata": {},
+  "source": {}
+}

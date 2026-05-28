@@ -1,0 +1,45 @@
+{
+  "id": "DZ002026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khemis Miliana",
+    "en": "Khemis Miliana",
+    "slug": "khemis-miliana-dz002026"
+  },
+  "code": {
+    "id": "DZ002026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.259",
+    "lon": "2.221"
+  },
+  "metadata": {},
+  "source": {}
+}

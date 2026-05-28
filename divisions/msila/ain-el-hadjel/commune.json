@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ028_ain-el-hadjel_ain-el-hadjel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحجل",
+      "en": "Ain El Hadjel",
+      "slug": "ain-el-hadjel"
+    },
+    "code": {
+      "id": "DZ028_ain-el-hadjel_ain-el-hadjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-hadjel",
+      "level": 2,
+      "name": {
+        "local": "عين الحجل",
+        "en": "Ain El Hadjel",
+        "slug": "ain-el-hadjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-hadjel",
+        "level": 2,
+        "name": {
+          "local": "عين الحجل",
+          "en": "Ain El Hadjel",
+          "slug": "ain-el-hadjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28003"
+    ],
+    "geo": {
+      "lat": "35.62",
+      "lon": "3.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-hadjel_sidi-hadjeres",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي هجرس",
+      "en": "Sidi Hadjeres",
+      "slug": "sidi-hadjeres"
+    },
+    "code": {
+      "id": "DZ028_ain-el-hadjel_sidi-hadjeres",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-hadjel",
+      "level": 2,
+      "name": {
+        "local": "عين الحجل",
+        "en": "Ain El Hadjel",
+        "slug": "ain-el-hadjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-hadjel",
+        "level": 2,
+        "name": {
+          "local": "عين الحجل",
+          "en": "Ain El Hadjel",
+          "slug": "ain-el-hadjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28036"
+    ],
+    "geo": {
+      "lat": "35.703",
+      "lon": "4.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

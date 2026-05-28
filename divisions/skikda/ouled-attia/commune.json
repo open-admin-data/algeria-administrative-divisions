@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_ouled-attia_khenag-maoune",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خناق مايو",
+      "en": "Khenag Maoune",
+      "slug": "khenag-maoune"
+    },
+    "code": {
+      "id": "DZ021_ouled-attia_khenag-maoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ouled-attia",
+      "level": 2,
+      "name": {
+        "local": "أولاد عطية",
+        "en": "Ouled Attia",
+        "slug": "ouled-attia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ouled-attia",
+        "level": 2,
+        "name": {
+          "local": "أولاد عطية",
+          "en": "Ouled Attia",
+          "slug": "ouled-attia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21059"
+    ],
+    "geo": {
+      "lat": "36.957",
+      "lon": "6.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ouled-attia_oued-zhour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الزهور",
+      "en": "Oued Zhour",
+      "slug": "oued-zhour"
+    },
+    "code": {
+      "id": "DZ021_ouled-attia_oued-zhour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ouled-attia",
+      "level": 2,
+      "name": {
+        "local": "أولاد عطية",
+        "en": "Ouled Attia",
+        "slug": "ouled-attia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ouled-attia",
+        "level": 2,
+        "name": {
+          "local": "أولاد عطية",
+          "en": "Ouled Attia",
+          "slug": "ouled-attia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21040"
+    ],
+    "geo": {
+      "lat": "36.91",
+      "lon": "6.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ouled-attia_ouled-attia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عطية",
+      "en": "Ouled Attia",
+      "slug": "ouled-attia"
+    },
+    "code": {
+      "id": "DZ021_ouled-attia_ouled-attia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ouled-attia",
+      "level": 2,
+      "name": {
+        "local": "أولاد عطية",
+        "en": "Ouled Attia",
+        "slug": "ouled-attia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ouled-attia",
+        "level": 2,
+        "name": {
+          "local": "أولاد عطية",
+          "en": "Ouled Attia",
+          "slug": "ouled-attia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21012"
+    ],
+    "geo": {
+      "lat": "37.005",
+      "lon": "6.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

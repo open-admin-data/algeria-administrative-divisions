@@ -1,0 +1,895 @@
+[
+  {
+    "id": "DZ026_ain-boucif",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين بوسيف",
+      "en": "Ain Boucif",
+      "slug": "ain-boucif"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.884",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_aziz",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عزيز",
+      "en": "Aziz",
+      "slug": "aziz"
+    },
+    "code": {
+      "id": "DZ026_aziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.8",
+      "lon": "2.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_beni-slimane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني سليمان",
+      "en": "Beni Slimane",
+      "slug": "beni-slimane"
+    },
+    "code": {
+      "id": "DZ026_beni-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.209",
+      "lon": "3.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_berrouaghia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البرواقية",
+      "en": "Berrouaghia",
+      "slug": "berrouaghia"
+    },
+    "code": {
+      "id": "DZ026_berrouaghia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.092",
+      "lon": "3.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chahbounia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الشهبونية",
+      "en": "Chahbounia",
+      "slug": "chahbounia"
+    },
+    "code": {
+      "id": "DZ026_chahbounia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.649",
+      "lon": "2.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chellalat-el-adhaoura",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شلالة العذاورة",
+      "en": "Chellalat El Adhaoura",
+      "slug": "chellalat-el-adhaoura"
+    },
+    "code": {
+      "id": "DZ026_chellalat-el-adhaoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.914",
+      "lon": "3.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_el-azizia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العزيزية",
+      "en": "El Azizia",
+      "slug": "el-azizia"
+    },
+    "code": {
+      "id": "DZ026_el-azizia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.364",
+      "lon": "3.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_el-omaria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العمارية",
+      "en": "El Omaria",
+      "slug": "el-omaria"
+    },
+    "code": {
+      "id": "DZ026_el-omaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.906",
+      "lon": "2.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_guelb-el-kebir",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القلب الكبير",
+      "en": "Guelb El Kebir",
+      "slug": "guelb-el-kebir"
+    },
+    "code": {
+      "id": "DZ026_guelb-el-kebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.252",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ksar-el-boukhari",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قصر البخاري",
+      "en": "Ksar El Boukhari",
+      "slug": "ksar-el-boukhari"
+    },
+    "code": {
+      "id": "DZ026_ksar-el-boukhari",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.869",
+      "lon": "2.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_medea",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea"
+    },
+    "code": {
+      "id": "DZ026_medea",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.306",
+      "lon": "2.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouamri",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عوامري",
+      "en": "Ouamri",
+      "slug": "ouamri"
+    },
+    "code": {
+      "id": "DZ026_ouamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.225",
+      "lon": "2.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouled-antar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد عنتر",
+      "en": "Ouled Antar",
+      "slug": "ouled-antar"
+    },
+    "code": {
+      "id": "DZ026_ouled-antar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.968",
+      "lon": "2.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouzera",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وزرة",
+      "en": "Ouzera",
+      "slug": "ouzera"
+    },
+    "code": {
+      "id": "DZ026_ouzera",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.255",
+      "lon": "2.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_seghouane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سغوان",
+      "en": "Seghouane",
+      "slug": "seghouane"
+    },
+    "code": {
+      "id": "DZ026_seghouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.035",
+      "lon": "2.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_si-mahdjoub",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سي المحجوب",
+      "en": "Si Mahdjoub",
+      "slug": "si-mahdjoub"
+    },
+    "code": {
+      "id": "DZ026_si-mahdjoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.139",
+      "lon": "2.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_sidi-naamane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي نعمان",
+      "en": "Sidi Naamane",
+      "slug": "sidi-naamane"
+    },
+    "code": {
+      "id": "DZ026_sidi-naamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.403",
+      "lon": "3.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_souaghi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "السواقي",
+      "en": "Souaghi",
+      "slug": "souaghi"
+    },
+    "code": {
+      "id": "DZ026_souaghi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.084",
+      "lon": "3.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_tablat",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تابلاط",
+      "en": "Tablat",
+      "slug": "tablat"
+    },
+    "code": {
+      "id": "DZ026_tablat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.42",
+      "lon": "3.279"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

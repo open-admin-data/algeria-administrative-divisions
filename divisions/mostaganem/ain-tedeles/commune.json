@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ027_ain-tedeles_ain-tedles",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تادلس",
+      "en": "Ain-Tedles",
+      "slug": "ain-tedles"
+    },
+    "code": {
+      "id": "DZ027_ain-tedeles_ain-tedles",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-tedeles",
+      "level": 2,
+      "name": {
+        "local": "عين تادلس",
+        "en": "Ain Tedeles",
+        "slug": "ain-tedeles"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-tedeles",
+        "level": 2,
+        "name": {
+          "local": "عين تادلس",
+          "en": "Ain Tedeles",
+          "slug": "ain-tedeles"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27001"
+    ],
+    "geo": {
+      "lat": "35.966",
+      "lon": "0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-tedeles_oued-el-kheir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الخير",
+      "en": "Oued El Kheir",
+      "slug": "oued-el-kheir"
+    },
+    "code": {
+      "id": "DZ027_ain-tedeles_oued-el-kheir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-tedeles",
+      "level": 2,
+      "name": {
+        "local": "عين تادلس",
+        "en": "Ain Tedeles",
+        "slug": "ain-tedeles"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-tedeles",
+        "level": 2,
+        "name": {
+          "local": "عين تادلس",
+          "en": "Ain Tedeles",
+          "slug": "ain-tedeles"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27020"
+    ],
+    "geo": {
+      "lat": "35.944",
+      "lon": "0.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-tedeles_sidi-belaattar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بلعطار",
+      "en": "Sidi Belaattar",
+      "slug": "sidi-belaattar"
+    },
+    "code": {
+      "id": "DZ027_ain-tedeles_sidi-belaattar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-tedeles",
+      "level": 2,
+      "name": {
+        "local": "عين تادلس",
+        "en": "Ain Tedeles",
+        "slug": "ain-tedeles"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-tedeles",
+        "level": 2,
+        "name": {
+          "local": "عين تادلس",
+          "en": "Ain Tedeles",
+          "slug": "ain-tedeles"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27029"
+    ],
+    "geo": {
+      "lat": "35.957",
+      "lon": "0.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-tedeles_sour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سور",
+      "en": "Sour",
+      "slug": "sour"
+    },
+    "code": {
+      "id": "DZ027_ain-tedeles_sour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-tedeles",
+      "level": 2,
+      "name": {
+        "local": "عين تادلس",
+        "en": "Ain Tedeles",
+        "slug": "ain-tedeles"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-tedeles",
+        "level": 2,
+        "name": {
+          "local": "عين تادلس",
+          "en": "Ain Tedeles",
+          "slug": "ain-tedeles"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27022"
+    ],
+    "geo": {
+      "lat": "35.962",
+      "lon": "0.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

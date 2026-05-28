@@ -1,0 +1,45 @@
+{
+  "id": "DZ001024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Timokten",
+    "en": "Timokten",
+    "slug": "timokten-dz001024"
+  },
+  "code": {
+    "id": "DZ001024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.75",
+    "lon": "1.163"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ030_el-borma_el-borma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البرمة",
+      "en": "El Borma",
+      "slug": "el-borma"
+    },
+    "code": {
+      "id": "DZ030_el-borma_el-borma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_el-borma",
+      "level": 2,
+      "name": {
+        "local": "البرمة",
+        "en": "El Borma",
+        "slug": "el-borma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_el-borma",
+        "level": 2,
+        "name": {
+          "local": "البرمة",
+          "en": "El Borma",
+          "slug": "el-borma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30025"
+    ],
+    "geo": {
+      "lat": "31.325",
+      "lon": "7.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

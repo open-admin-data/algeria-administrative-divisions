@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ023_el-bouni_el-bouni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البوني",
+      "en": "El Bouni",
+      "slug": "el-bouni"
+    },
+    "code": {
+      "id": "DZ023_el-bouni_el-bouni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_el-bouni",
+      "level": 2,
+      "name": {
+        "local": "البوني",
+        "en": "El Bouni",
+        "slug": "el-bouni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_el-bouni",
+        "level": 2,
+        "name": {
+          "local": "البوني",
+          "en": "El Bouni",
+          "slug": "el-bouni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23010"
+    ],
+    "geo": {
+      "lat": "36.843",
+      "lon": "7.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

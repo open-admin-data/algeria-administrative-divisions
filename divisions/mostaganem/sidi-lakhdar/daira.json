@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_sidi-lakhdar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي لخضر",
+    "en": "Sidi Lakhdar",
+    "slug": "sidi-lakhdar"
+  },
+  "code": {
+    "id": "DZ027_sidi-lakhdar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.153",
+    "lon": "0.387"
+  },
+  "metadata": {},
+  "source": {}
+}

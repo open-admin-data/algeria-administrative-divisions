@@ -1,0 +1,45 @@
+{
+  "id": "DZ036003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Soltane",
+    "en": "Ain Soltane",
+    "slug": "ain-soltane-dz036003"
+  },
+  "code": {
+    "id": "DZ036003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.982",
+    "lon": "0.323"
+  },
+  "metadata": {},
+  "source": {}
+}

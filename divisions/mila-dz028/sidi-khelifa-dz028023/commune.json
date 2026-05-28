@@ -1,0 +1,45 @@
+{
+  "id": "DZ028023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Khelifa",
+    "en": "Sidi Khelifa",
+    "slug": "sidi-khelifa-dz028023"
+  },
+  "code": {
+    "id": "DZ028023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.367",
+    "lon": "6.262"
+  },
+  "metadata": {},
+  "source": {}
+}

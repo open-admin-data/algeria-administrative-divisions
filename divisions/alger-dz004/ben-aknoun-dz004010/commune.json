@@ -1,0 +1,45 @@
+{
+  "id": "DZ004010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ben Aknoun",
+    "en": "Ben Aknoun",
+    "slug": "ben-aknoun-dz004010"
+  },
+  "code": {
+    "id": "DZ004010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.76",
+    "lon": "3.013"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ007008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Erg Ferradj",
+    "en": "Erg Ferradj",
+    "slug": "erg-ferradj-dz007008"
+  },
+  "code": {
+    "id": "DZ007008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.901",
+    "lon": "-3.325"
+  },
+  "metadata": {},
+  "source": {}
+}

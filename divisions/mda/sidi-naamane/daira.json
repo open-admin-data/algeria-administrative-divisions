@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_sidi-naamane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي نعمان",
+    "en": "Sidi Naamane",
+    "slug": "sidi-naamane"
+  },
+  "code": {
+    "id": "DZ026_sidi-naamane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.403",
+    "lon": "3.444"
+  },
+  "metadata": {},
+  "source": {}
+}

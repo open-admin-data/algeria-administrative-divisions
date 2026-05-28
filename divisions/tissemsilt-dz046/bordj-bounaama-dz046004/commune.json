@@ -1,0 +1,45 @@
+{
+  "id": "DZ046004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj Bounaama",
+    "en": "Bordj Bounaama",
+    "slug": "bordj-bounaama-dz046004"
+  },
+  "code": {
+    "id": "DZ046004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.855",
+    "lon": "1.623"
+  },
+  "metadata": {},
+  "source": {}
+}

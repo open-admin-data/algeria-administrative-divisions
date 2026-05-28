@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ039_bayadha",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البياضة",
+      "en": "Bayadha",
+      "slug": "bayadha"
+    },
+    "code": {
+      "id": "DZ039_bayadha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.326",
+      "lon": "6.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_debila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الدبيلة",
+      "en": "Debila",
+      "slug": "debila"
+    },
+    "code": {
+      "id": "DZ039_debila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.467",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_el-oued",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    },
+    "code": {
+      "id": "DZ039_el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.382",
+      "lon": "6.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_guemar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قمار",
+      "en": "Guemar",
+      "slug": "guemar"
+    },
+    "code": {
+      "id": "DZ039_guemar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.558",
+      "lon": "6.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_hassi-khalifa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حاسي خليفة",
+      "en": "Hassi Khalifa",
+      "slug": "hassi-khalifa"
+    },
+    "code": {
+      "id": "DZ039_hassi-khalifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.258",
+      "lon": "7.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_magrane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المقرن",
+      "en": "Magrane",
+      "slug": "magrane"
+    },
+    "code": {
+      "id": "DZ039_magrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.849",
+      "lon": "6.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_mih-ouensa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "اميه وانسة",
+      "en": "Mih Ouensa",
+      "slug": "mih-ouensa"
+    },
+    "code": {
+      "id": "DZ039_mih-ouensa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.03",
+      "lon": "6.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_reguiba",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرقيبة",
+      "en": "Reguiba",
+      "slug": "reguiba"
+    },
+    "code": {
+      "id": "DZ039_reguiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.977",
+      "lon": "6.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_robbah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرباح",
+      "en": "Robbah",
+      "slug": "robbah"
+    },
+    "code": {
+      "id": "DZ039_robbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.784",
+      "lon": "7.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_taleb-larbi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الطالب العربي",
+      "en": "Taleb Larbi",
+      "slug": "taleb-larbi"
+    },
+    "code": {
+      "id": "DZ039_taleb-larbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.708",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

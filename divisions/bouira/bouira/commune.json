@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ010_bouira_ain-turk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الترك",
+      "en": "Ain Turk",
+      "slug": "ain-turk"
+    },
+    "code": {
+      "id": "DZ010_bouira_ain-turk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bouira",
+      "level": 2,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bouira",
+        "level": 2,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10033"
+    ],
+    "geo": {
+      "lat": "35.74",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bouira_ait-laaziz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت لعزيز",
+      "en": "Ait Laaziz",
+      "slug": "ait-laaziz"
+    },
+    "code": {
+      "id": "DZ010_bouira_ait-laaziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bouira",
+      "level": 2,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bouira",
+        "level": 2,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10034"
+    ],
+    "geo": {
+      "lat": "36.446",
+      "lon": "3.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bouira_bouira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    },
+    "code": {
+      "id": "DZ010_bouira_bouira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bouira",
+      "level": 2,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bouira",
+        "level": 2,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10000"
+    ],
+    "geo": {
+      "lat": "36.375",
+      "lon": "3.891"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ006_chemini_akfadou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أكفادو",
+      "en": "Akfadou",
+      "slug": "akfadou"
+    },
+    "code": {
+      "id": "DZ006_chemini_akfadou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_chemini",
+      "level": 2,
+      "name": {
+        "local": "شميني",
+        "en": "Chemini",
+        "slug": "chemini"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_chemini",
+        "level": 2,
+        "name": {
+          "local": "شميني",
+          "en": "Chemini",
+          "slug": "chemini"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06025"
+    ],
+    "geo": {
+      "lat": "36.66",
+      "lon": "4.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_chemini_chemini",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شميني",
+      "en": "Chemini",
+      "slug": "chemini"
+    },
+    "code": {
+      "id": "DZ006_chemini_chemini",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_chemini",
+      "level": 2,
+      "name": {
+        "local": "شميني",
+        "en": "Chemini",
+        "slug": "chemini"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_chemini",
+        "level": 2,
+        "name": {
+          "local": "شميني",
+          "en": "Chemini",
+          "slug": "chemini"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06022"
+    ],
+    "geo": {
+      "lat": "36.595",
+      "lon": "4.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_chemini_souk-oufella",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق اوفلا",
+      "en": "Souk Oufella",
+      "slug": "souk-oufella"
+    },
+    "code": {
+      "id": "DZ006_chemini_souk-oufella",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_chemini",
+      "level": 2,
+      "name": {
+        "local": "شميني",
+        "en": "Chemini",
+        "slug": "chemini"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_chemini",
+        "level": 2,
+        "name": {
+          "local": "شميني",
+          "en": "Chemini",
+          "slug": "chemini"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06036"
+    ],
+    "geo": {
+      "lat": "36.589",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_chemini_tibane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طيبان",
+      "en": "Tibane",
+      "slug": "tibane"
+    },
+    "code": {
+      "id": "DZ006_chemini_tibane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_chemini",
+      "level": 2,
+      "name": {
+        "local": "شميني",
+        "en": "Chemini",
+        "slug": "chemini"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_chemini",
+        "level": 2,
+        "name": {
+          "local": "شميني",
+          "en": "Chemini",
+          "slug": "chemini"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06087"
+    ],
+    "geo": {
+      "lat": "36.615",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

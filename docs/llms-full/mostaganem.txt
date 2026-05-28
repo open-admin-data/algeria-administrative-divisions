@@ -1,0 +1,187 @@
+# Mostaganem — Algeria Administrative Divisions
+
+> 10 dairas, 32 communes
+> Code: DZ027
+> Coordinates: 36.004, 0.368
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عشعاشة (Achaacha)
+
+Code: DZ027_achaacha, Coordinates: 36.244, 0.631
+Communes: 4
+
+#### عشعاشة (Achaacha)
+
+Code: DZ027_achaacha_achaacha, Postal: 27009, Coordinates: 36.264, 0.642
+
+#### خضرة (Khadra)
+
+Code: DZ027_achaacha_khadra, Postal: 27005, Coordinates: 36.235, 0.556
+
+#### نكمارية (Nekmaria)
+
+Code: DZ027_achaacha_nekmaria, Postal: 27026, Coordinates: 36.182, 0.63
+
+#### أولاد بوغالم (Ouled Boughalem)
+
+Code: DZ027_achaacha_ouled-boughalem, Postal: 27027, Coordinates: 36.294, 0.698
+
+### عين نويسي (Ain Nouicy)
+
+Code: DZ027_ain-nouicy, Coordinates: 35.758, -0.041
+Communes: 3
+
+#### عين نويسي (Ain-Nouissy)
+
+Code: DZ027_ain-nouicy_ain-nouissy, Postal: 27010, Coordinates: 35.758, -0.041
+
+#### فرناقة (Fornaka)
+
+Code: DZ027_ain-nouicy_fornaka, Postal: 27014, Coordinates: 35.758, -0.041
+
+#### الحسيان (بني ياحي (Hassiane)
+
+Code: DZ027_ain-nouicy_hassiane, Postal: 27033, Coordinates: 35.758, -0.041
+
+### عين تادلس (Ain Tedeles)
+
+Code: DZ027_ain-tedeles, Coordinates: 35.957, 0.318
+Communes: 4
+
+#### عين تادلس (Ain-Tedles)
+
+Code: DZ027_ain-tedeles_ain-tedles, Postal: 27001, Coordinates: 35.966, 0.252
+
+#### وادي الخير (Oued El Kheir)
+
+Code: DZ027_ain-tedeles_oued-el-kheir, Postal: 27020, Coordinates: 35.944, 0.385
+
+#### سيدي بلعطار (Sidi Belaattar)
+
+Code: DZ027_ain-tedeles_sidi-belaattar, Postal: 27029, Coordinates: 35.957, 0.318
+
+#### سور (Sour)
+
+Code: DZ027_ain-tedeles_sour, Postal: 27022, Coordinates: 35.962, 0.316
+
+### بوقيراط (Bouguirat)
+
+Code: DZ027_bouguirat, Coordinates: 35.807, 0.284
+Communes: 4
+
+#### بوقيراط (Bouguirat)
+
+Code: DZ027_bouguirat_bouguirat, Postal: 27003, Coordinates: 35.77, 0.248
+
+#### صفصاف (Safsaf)
+
+Code: DZ027_bouguirat_safsaf, Coordinates: 35.87, 0.404
+
+#### سيرات (Sirat)
+
+Code: DZ027_bouguirat_sirat, Postal: 27021, Coordinates: 35.737, 0.172
+
+#### السوافلية (Souaflia)
+
+Code: DZ027_bouguirat_souaflia, Postal: 27046, Coordinates: 35.85, 0.313
+
+### حاسي ماماش (Hassi Mameche)
+
+Code: DZ027_hassi-mameche, Coordinates: 35.821, -0.008
+Communes: 3
+
+#### حاسي ماماش (Hassi Mameche)
+
+Code: DZ027_hassi-mameche_hassi-mameche, Postal: 27004, Coordinates: 35.821, -0.008
+
+#### مزغران (Mazagran)
+
+Code: DZ027_hassi-mameche_mazagran, Postal: 27017, Coordinates: 35.821, -0.008
+
+#### ستيدية (Stidia)
+
+Code: DZ027_hassi-mameche_stidia, Postal: 27023, Coordinates: 35.821, -0.008
+
+### خير الدين (Kheir Eddine)
+
+Code: DZ027_kheir-eddine, Coordinates: 35.961, 0.177
+Communes: 3
+
+#### عين بودينار (Ain-Boudinar)
+
+Code: DZ027_kheir-eddine_ain-boudinar, Postal: 27031, Coordinates: 35.993, 0.215
+
+#### خير الدين (Kheir-Eddine)
+
+Code: DZ027_kheir-eddine_kheir-eddine, Postal: 27016, Coordinates: 35.954, 0.181
+
+#### صيادة (Sayada)
+
+Code: DZ027_kheir-eddine_sayada, Postal: 27045, Coordinates: 35.937, 0.136
+
+### ماسرة (Mesra)
+
+Code: DZ027_mesra, Coordinates: 35.587, -0.205
+Communes: 4
+
+#### عين سيدي الشريف (Ain-Sidi Cherif)
+
+Code: DZ027_mesra_ain-sidi-cherif, Postal: 27024, Coordinates: 35.818, 0.141
+
+#### منصورة (Mansourah)
+
+Code: DZ027_mesra_mansourah, Postal: 13100, Coordinates: 34.873, -1.358
+
+#### ماسرة (Mesra)
+
+Code: DZ027_mesra_mesra, Postal: 27018, Coordinates: 35.846, 0.177
+
+#### الطواهرية (Touahria)
+
+Code: DZ027_mesra_touahria, Postal: 27013, Coordinates: 35.812, 0.219
+
+### مستغانم (Mostaganem)
+
+Code: DZ027_mostaganem, Coordinates: 35.978, 0.109
+Communes: 1
+
+#### مستغانم (Mostaganem)
+
+Code: DZ027_mostaganem_mostaganem, Postal: 27000, Coordinates: 35.978, 0.109
+
+### سيدي علي (Sidi Ali)
+
+Code: DZ027_sidi-ali, Coordinates: 36.08, 0.529
+Communes: 3
+
+#### أولاد مع الله (Ouled-Maalah)
+
+Code: DZ027_sidi-ali_ouled-maalah, Postal: 27028, Coordinates: 36.046, 0.592
+
+#### سيدي علي (Sidi Ali)
+
+Code: DZ027_sidi-ali_sidi-ali, Postal: 27032, Coordinates: 36.063, 0.45
+
+#### تزقايت (Tazgait)
+
+Code: DZ027_sidi-ali_tazgait, Postal: 27047, Coordinates: 36.131, 0.544
+
+### سيدي لخضر (Sidi Lakhdar)
+
+Code: DZ027_sidi-lakhdar, Coordinates: 36.153, 0.387
+Communes: 3
+
+#### بن عبد المالك رمضان (Benabdelmalek Ramdane)
+
+Code: DZ027_sidi-lakhdar_benabdelmalek-ramdane, Postal: 27008, Coordinates: 36.153, 0.387
+
+#### حجاج (Hadjadj)
+
+Code: DZ027_sidi-lakhdar_hadjadj, Postal: 27015, Coordinates: 36.126, 0.33
+
+#### سيدي لخضر (Sidi-Lakhdar)
+
+Code: DZ027_sidi-lakhdar_sidi-lakhdar, Postal: 27007, Coordinates: 36.181, 0.444
+

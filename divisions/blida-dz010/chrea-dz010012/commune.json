@@ -1,0 +1,45 @@
+{
+  "id": "DZ010012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chrea",
+    "en": "Chrea",
+    "slug": "chrea-dz010012"
+  },
+  "code": {
+    "id": "DZ010012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.429",
+    "lon": "2.883"
+  },
+  "metadata": {},
+  "source": {}
+}

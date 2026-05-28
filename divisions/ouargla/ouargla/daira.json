@@ -1,0 +1,47 @@
+{
+  "id": "DZ030_ouargla",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ورقلة",
+    "en": "Ouargla",
+    "slug": "ouargla"
+  },
+  "code": {
+    "id": "DZ030_ouargla",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.956",
+    "lon": "4.849"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ011_tamanrasset",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تمنراست",
+    "en": "Tamanrasset",
+    "slug": "tamanrasset"
+  },
+  "code": {
+    "id": "DZ011_tamanrasset",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.271",
+    "lon": "5.775"
+  },
+  "metadata": {},
+  "source": {}
+}

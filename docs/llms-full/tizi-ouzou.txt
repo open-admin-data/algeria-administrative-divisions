@@ -1,0 +1,382 @@
+# Tizi Ouzou — Algeria Administrative Divisions
+
+> 21 dairas, 67 communes
+> Code: DZ015
+> Coordinates: 36.683, 4.239
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الحمام (Ain El Hammam)
+
+Code: DZ015_ain-el-hammam, Coordinates: 36.553, 4.32
+Communes: 4
+
+#### أبي يوسف (Abi-Youcef)
+
+Code: DZ015_ain-el-hammam_abi-youcef, Coordinates: 36.525, 4.346
+
+#### عين الحمام (Ain-El-Hammam)
+
+Code: DZ015_ain-el-hammam_ain-el-hammam, Postal: 15002, Coordinates: 36.576, 4.28
+
+#### أيت يحيى (Ait-Yahia)
+
+Code: DZ015_ain-el-hammam_ait-yahia, Postal: 15072, Coordinates: 36.603, 4.344
+
+#### اقبيل (Akbil)
+
+Code: DZ015_ain-el-hammam_akbil, Postal: 15092, Coordinates: 36.507, 4.311
+
+### عزازقة (Azazga)
+
+Code: DZ015_azazga, Coordinates: 36.742, 4.423
+Communes: 5
+
+#### عزازقة (Azazga)
+
+Code: DZ015_azazga_azazga, Postal: 15001, Coordinates: 36.744, 4.367
+
+#### فريحة (Freha)
+
+Code: DZ015_azazga_freha, Postal: 15012, Coordinates: 36.764, 4.298
+
+#### إيفيغاء (Ifigha)
+
+Code: DZ015_azazga_ifigha, Postal: 15034, Coordinates: 36.667, 4.425
+
+#### إعــكورن (Yakourene)
+
+Code: DZ015_azazga_yakourene, Postal: 15051, Coordinates: 36.742, 4.423
+
+#### زكري (Zekri)
+
+Code: DZ015_azazga_zekri, Postal: 15076, Coordinates: 36.792, 4.602
+
+### أزفون (Azeffoun)
+
+Code: DZ015_azeffoun, Coordinates: 36.84, 4.421
+Communes: 4
+
+#### أغريب (Aghribs)
+
+Code: DZ015_azeffoun_aghribs, Postal: 15021, Coordinates: 36.84, 4.421
+
+#### أيت شافع (Ait-Chafaa)
+
+Code: DZ015_azeffoun_ait-chafaa, Postal: 15059, Coordinates: 36.84, 4.421
+
+#### أقرو (Akerrou)
+
+Code: DZ015_azeffoun_akerrou, Postal: 15027, Coordinates: 36.811, 4.445
+
+#### أزفون (Azeffoun)
+
+Code: DZ015_azeffoun_azeffoun, Postal: 15010, Coordinates: 36.87, 4.398
+
+### بني دوالة (Beni Douala)
+
+Code: DZ015_beni-douala, Coordinates: 36.635, 4.083
+Communes: 4
+
+#### أيت محمود (Ait-Mahmoud)
+
+Code: DZ015_beni-douala_ait-mahmoud, Postal: 15044, Coordinates: 36.613, 4.121
+
+#### بنــــي زمنزار (Beni Zmenzer)
+
+Code: DZ015_beni-douala_beni-zmenzer, Postal: 15028, Coordinates: 36.642, 4.04
+
+#### بني عيسي (Beni-Aissi)
+
+Code: DZ015_beni-douala_beni-aissi, Postal: 15069, Coordinates: 36.661, 4.089
+
+#### بني دوالة (Beni-Douala)
+
+Code: DZ015_beni-douala_beni-douala, Postal: 15011, Coordinates: 36.625, 4.083
+
+### بني يني (Benni Yenni)
+
+Code: DZ015_benni-yenni, Coordinates: 36.581, 4.201
+Communes: 3
+
+#### بني يني (Beni-Yenni)
+
+Code: DZ015_benni-yenni_beni-yenni, Postal: 15029, Coordinates: 36.581, 4.201
+
+#### إبودرارن (Iboudrarene)
+
+Code: DZ015_benni-yenni_iboudrarene, Postal: 15073, Coordinates: 36.581, 4.201
+
+#### يطــافن (Yatafene)
+
+Code: DZ015_benni-yenni_yatafene, Postal: 15052, Coordinates: 36.581, 4.201
+
+### بوغني (Boghni)
+
+Code: DZ015_boghni, Coordinates: 36.505, 3.978
+Communes: 4
+
+#### أسي يوسف (Assi-Youcef)
+
+Code: DZ015_boghni_assi-youcef, Postal: 15025, Coordinates: 36.502, 4.016
+
+#### بوغني (Boghni)
+
+Code: DZ015_boghni_boghni, Postal: 15003, Coordinates: 36.517, 3.979
+
+#### بونوح (Bounouh)
+
+Code: DZ015_boghni_bounouh, Postal: 15031, Coordinates: 36.495, 3.938
+
+#### مشطراس (Mechtras)
+
+Code: DZ015_boghni_mechtras, Postal: 15041, Coordinates: 36.505, 3.978
+
+### بوزقن (Bouzeguene)
+
+Code: DZ015_bouzeguene, Coordinates: 36.677, 4.538
+Communes: 4
+
+#### بني زيكــي (Beni-Zikki)
+
+Code: DZ015_bouzeguene_beni-zikki, Postal: 15118, Coordinates: 36.677, 4.538
+
+#### بوزقــن (Bouzeguene)
+
+Code: DZ015_bouzeguene_bouzeguene, Postal: 15009, Coordinates: 36.677, 4.538
+
+#### إيجــار (Idjeur)
+
+Code: DZ015_bouzeguene_idjeur, Postal: 15035, Coordinates: 36.677, 4.538
+
+#### إيلولة أومـــالو (Illoula Oumalou)
+
+Code: DZ015_bouzeguene_illoula-oumalou, Postal: 15037, Coordinates: 36.677, 4.538
+
+### ذراع بن خدة (Draa Ben Khedda)
+
+Code: DZ015_draa-ben-khedda, Coordinates: 36.705, 3.936
+Communes: 4
+
+#### ذراع بن خدة (Draa-Ben-Khedda)
+
+Code: DZ015_draa-ben-khedda_draa-ben-khedda, Postal: 15004, Coordinates: 36.724, 3.959
+
+#### سيدي نعمان (Sidi Namane)
+
+Code: DZ015_draa-ben-khedda_sidi-namane, Postal: 15042, Coordinates: 36.705, 3.936
+
+#### تادمايت (Tadmait)
+
+Code: DZ015_draa-ben-khedda_tadmait, Postal: 15018, Coordinates: 36.721, 3.883
+
+#### تيرمتين (Tirmitine)
+
+Code: DZ015_draa-ben-khedda_tirmitine, Postal: 15048, Coordinates: 36.671, 3.966
+
+### ذراع الميزان (Draa El Mizan)
+
+Code: DZ015_draa-el-mizan, Coordinates: 36.568, 3.872
+Communes: 4
+
+#### عين الزاوية (Ain-Zaouia)
+
+Code: DZ015_draa-el-mizan_ain-zaouia, Postal: 15055, Coordinates: 36.578, 3.906
+
+#### أيت يحي موسى (Ait Yahia Moussa)
+
+Code: DZ015_draa-el-mizan_ait-yahia-moussa, Postal: 15026, Coordinates: 36.644, 3.877
+
+#### ذراع الميزان (Draa-El-Mizan)
+
+Code: DZ015_draa-el-mizan_draa-el-mizan, Postal: 15005, Coordinates: 36.549, 3.814
+
+#### فريقات (Frikat)
+
+Code: DZ015_draa-el-mizan_frikat, Postal: 15067, Coordinates: 36.5, 3.89
+
+### إفرحونان (Iferhounene)
+
+Code: DZ015_iferhounene, Coordinates: 36.54, 4.389
+Communes: 3
+
+#### إفــرحــونان (Iferhounene)
+
+Code: DZ015_iferhounene_iferhounene, Postal: 15013, Coordinates: 36.524, 4.371
+
+#### إيلـيــلتـن (Illilten)
+
+Code: DZ015_iferhounene_illilten, Postal: 15036, Coordinates: 36.513, 4.402
+
+#### إمســوحال (Imsouhal)
+
+Code: DZ015_iferhounene_imsouhal, Postal: 15023, Coordinates: 36.583, 4.394
+
+### الأربعاء ناث إيراثن (Larbaa Nath Iraten)
+
+Code: DZ015_larbaa-nath-iraten, Coordinates: 36.648, 4.197
+Communes: 3
+
+#### أيت عقـواشة (Ait Aggouacha)
+
+Code: DZ015_larbaa-nath-iraten_ait-aggouacha, Postal: 15058, Coordinates: 36.624, 4.247
+
+#### إيرجـــن (Irdjen)
+
+Code: DZ015_larbaa-nath-iraten_irdjen, Postal: 15038, Coordinates: 36.671, 4.146
+
+#### الأربعــاء ناث إيراثن (Larbaa Nath Irathen)
+
+Code: DZ015_larbaa-nath-iraten_larbaa-nath-irathen, Postal: 15100, Coordinates: 36.648, 4.197
+
+### معاتقة (Maatkas)
+
+Code: DZ015_maatkas, Coordinates: 36.605, 4.015
+Communes: 2
+
+#### معـــاتقة (Maatkas)
+
+Code: DZ015_maatkas_maatkas, Postal: 15017, Coordinates: 36.605, 4.015
+
+#### سوق الإثنين (Souk-El-Tenine)
+
+Code: DZ015_maatkas_souk-el-tenine, Postal: 15123, Coordinates: 36.605, 4.015
+
+### ماكودة (Makouda)
+
+Code: DZ015_makouda, Coordinates: 36.802, 4.105
+Communes: 2
+
+#### بوجيمة (Boudjima)
+
+Code: DZ015_makouda_boudjima, Postal: 15030, Coordinates: 36.807, 4.151
+
+#### ماكودة (Makouda)
+
+Code: DZ015_makouda_makouda, Postal: 15040, Coordinates: 36.796, 4.059
+
+### مقلع (Mekla)
+
+Code: DZ015_mekla, Coordinates: 36.679, 4.267
+Communes: 3
+
+#### أيت خليلي (Ait Khellili)
+
+Code: DZ015_mekla_ait-khellili, Postal: 15079, Coordinates: 36.679, 4.267
+
+#### مقــلع (Mekla)
+
+Code: DZ015_mekla_mekla, Postal: 15014, Coordinates: 36.679, 4.267
+
+#### صوامـــع (Souama)
+
+Code: DZ015_mekla_souama, Postal: 15043, Coordinates: 36.679, 4.267
+
+### واسيف (Ouacif)
+
+Code: DZ015_ouacif, Coordinates: 36.514, 4.193
+Communes: 3
+
+#### أيت بومهدي (Ait Boumahdi)
+
+Code: DZ015_ouacif_ait-boumahdi, Postal: 15084, Coordinates: 36.49, 4.19
+
+#### أيت تودرت (Ait-Toudert)
+
+Code: DZ015_ouacif_ait-toudert, Postal: 15062, Coordinates: 36.533, 4.168
+
+#### واسيف (Ouacif)
+
+Code: DZ015_ouacif_ouacif, Postal: 15015, Coordinates: 36.52, 4.22
+
+### واضية (Ouadhias)
+
+Code: DZ015_ouadhias, Coordinates: 36.683, 4.239
+Communes: 4
+
+#### أقني قغران (Agouni-Gueghrane)
+
+Code: DZ015_ouadhias_agouni-gueghrane, Postal: 15022, Coordinates: 36.683, 4.239
+
+#### أيت بــوادو (Ait Bouaddou)
+
+Code: DZ015_ouadhias_ait-bouaddou, Postal: 15024, Coordinates: 36.683, 4.239
+
+#### واضية (Ouadhias)
+
+Code: DZ015_ouadhias_ouadhias, Postal: 15016, Coordinates: 36.683, 4.239
+
+#### تيزي نثلاثة (Tizi N&#39;tleta)
+
+Code: DZ015_ouadhias_tizi-ntleta, Postal: 15049, Coordinates: 36.683, 4.239
+
+### واقنون (Ouaguenoun)
+
+Code: DZ015_ouaguenoun, Coordinates: 36.772, 4.177
+Communes: 3
+
+#### أيت عيسى ميمون (Ait-Aissa-Mimoun)
+
+Code: DZ015_ouaguenoun_ait-aissa-mimoun, Postal: 15032, Coordinates: 36.754, 4.112
+
+#### واقنون (Ouaguenoun)
+
+Code: DZ015_ouaguenoun_ouaguenoun, Postal: 15045, Coordinates: 36.762, 4.186
+
+#### تيمـيزار (Timizart)
+
+Code: DZ015_ouaguenoun_timizart, Postal: 15039, Coordinates: 36.8, 4.233
+
+### تيقزيرت (Tigzirt)
+
+Code: DZ015_tigzirt, Coordinates: 36.867, 4.15
+Communes: 3
+
+#### إفليـــسن (Iflissen)
+
+Code: DZ015_tigzirt_iflissen, Postal: 15068, Coordinates: 36.873, 4.225
+
+#### ميزرانـــة (Mizrana)
+
+Code: DZ015_tigzirt_mizrana, Postal: 15061, Coordinates: 36.863, 4.078
+
+#### تيقـزيرت (Tigzirt)
+
+Code: DZ015_tigzirt_tigzirt, Postal: 15019, Coordinates: 36.864, 4.146
+
+### تيزي وزو (Tizi Ouzou)
+
+Code: DZ015_tizi-ouzou, Coordinates: 36.702, 4.056
+Communes: 1
+
+#### تيزي وزو (Tizi-Ouzou)
+
+Code: DZ015_tizi-ouzou_tizi-ouzou, Postal: 15000, Coordinates: 36.702, 4.056
+
+### تيزي راشد (Tizi Rached)
+
+Code: DZ015_tizi-rached, Coordinates: 36.674, 4.21
+Communes: 2
+
+#### أيت  أومالو (Ait-Oumalou)
+
+Code: DZ015_tizi-rached_ait-oumalou, Coordinates: 36.658, 4.23
+
+#### تيزي راشد (Tizi-Rached)
+
+Code: DZ015_tizi-rached_tizi-rached, Postal: 15050, Coordinates: 36.69, 4.189
+
+### تيزي غنيف (Tizi-Ghenif)
+
+Code: DZ015_tizi-ghenif, Coordinates: 36.634, 3.784
+Communes: 2
+
+#### مكيرة (M&#39;kira)
+
+Code: DZ015_tizi-ghenif_mkira, Postal: 15046, Coordinates: 36.634, 3.784
+
+#### تيزي غنيف (Tizi-Gheniff)
+
+Code: DZ015_tizi-ghenif_tizi-gheniff, Postal: 15020, Coordinates: 36.634, 3.784
+

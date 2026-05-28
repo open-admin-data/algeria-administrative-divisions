@@ -1,0 +1,30 @@
+# El Menia — Algeria Administrative Divisions
+
+> 2 dairas, 3 communes
+> Code: DZ058
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### المنيعة (El Menia)
+
+Code: DZ058_el-menia
+Communes: 2
+
+#### المنيعة (El Meniaa)
+
+Code: DZ058_el-menia_el-meniaa, Postal: 47001
+
+#### حاسي القارة (Hassi Gara)
+
+Code: DZ058_el-menia_hassi-gara, Postal: 47006
+
+### المنصورة (Mansourah)
+
+Code: DZ058_mansourah
+Communes: 1
+
+#### حاسي الفحل (Hassi Fehal)
+
+Code: DZ058_mansourah_hassi-fehal, Postal: 47021
+

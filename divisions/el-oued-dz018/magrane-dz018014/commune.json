@@ -1,0 +1,45 @@
+{
+  "id": "DZ018014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Magrane",
+    "en": "Magrane",
+    "slug": "magrane-dz018014"
+  },
+  "code": {
+    "id": "DZ018014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.797",
+    "lon": "6.916"
+  },
+  "metadata": {},
+  "source": {}
+}

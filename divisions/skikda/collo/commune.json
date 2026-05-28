@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_collo_beni-zid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني زيد",
+      "en": "Beni Zid",
+      "slug": "beni-zid"
+    },
+    "code": {
+      "id": "DZ021_collo_beni-zid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_collo",
+      "level": 2,
+      "name": {
+        "local": "القل",
+        "en": "Collo",
+        "slug": "collo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_collo",
+        "level": 2,
+        "name": {
+          "local": "القل",
+          "en": "Collo",
+          "slug": "collo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21016"
+    ],
+    "geo": {
+      "lat": "36.915",
+      "lon": "6.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_collo_cheraia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشرايع",
+      "en": "Cheraia",
+      "slug": "cheraia"
+    },
+    "code": {
+      "id": "DZ021_collo_cheraia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_collo",
+      "level": 2,
+      "name": {
+        "local": "القل",
+        "en": "Collo",
+        "slug": "collo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_collo",
+        "level": 2,
+        "name": {
+          "local": "القل",
+          "en": "Collo",
+          "slug": "collo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21030"
+    ],
+    "geo": {
+      "lat": "37.015",
+      "lon": "6.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_collo_collo",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القل",
+      "en": "Collo",
+      "slug": "collo"
+    },
+    "code": {
+      "id": "DZ021_collo_collo",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_collo",
+      "level": 2,
+      "name": {
+        "local": "القل",
+        "en": "Collo",
+        "slug": "collo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_collo",
+        "level": 2,
+        "name": {
+          "local": "القل",
+          "en": "Collo",
+          "slug": "collo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21002"
+    ],
+    "geo": {
+      "lat": "37.005",
+      "lon": "6.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

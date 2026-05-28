@@ -1,0 +1,45 @@
+{
+  "id": "DZ039019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Marsa",
+    "en": "El Marsa",
+    "slug": "el-marsa-dz039019"
+  },
+  "code": {
+    "id": "DZ039019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.008",
+    "lon": "7.291"
+  },
+  "metadata": {},
+  "source": {}
+}

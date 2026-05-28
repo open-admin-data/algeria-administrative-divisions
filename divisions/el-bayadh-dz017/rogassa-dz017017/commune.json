@@ -1,0 +1,45 @@
+{
+  "id": "DZ017017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rogassa",
+    "en": "Rogassa",
+    "slug": "rogassa-dz017017"
+  },
+  "code": {
+    "id": "DZ017017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.04",
+    "lon": "0.832"
+  },
+  "metadata": {},
+  "source": {}
+}

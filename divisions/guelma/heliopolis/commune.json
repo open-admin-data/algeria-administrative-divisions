@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ024_heliopolis_bouati-mahmoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعاتي محمود",
+      "en": "Bouati Mahmoud",
+      "slug": "bouati-mahmoud"
+    },
+    "code": {
+      "id": "DZ024_heliopolis_bouati-mahmoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_heliopolis",
+      "level": 2,
+      "name": {
+        "local": "هيليوبوليس",
+        "en": "Heliopolis",
+        "slug": "heliopolis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_heliopolis",
+        "level": 2,
+        "name": {
+          "local": "هيليوبوليس",
+          "en": "Heliopolis",
+          "slug": "heliopolis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24018"
+    ],
+    "geo": {
+      "lat": "36.609",
+      "lon": "7.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_heliopolis_el-fedjoudj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الفجوج",
+      "en": "El Fedjoudj",
+      "slug": "el-fedjoudj"
+    },
+    "code": {
+      "id": "DZ024_heliopolis_el-fedjoudj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_heliopolis",
+      "level": 2,
+      "name": {
+        "local": "هيليوبوليس",
+        "en": "Heliopolis",
+        "slug": "heliopolis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_heliopolis",
+        "level": 2,
+        "name": {
+          "local": "هيليوبوليس",
+          "en": "Heliopolis",
+          "slug": "heliopolis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24019"
+    ],
+    "geo": {
+      "lat": "36.524",
+      "lon": "7.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_heliopolis_heliopolis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هيليوبوليس",
+      "en": "Heliopolis",
+      "slug": "heliopolis"
+    },
+    "code": {
+      "id": "DZ024_heliopolis_heliopolis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_heliopolis",
+      "level": 2,
+      "name": {
+        "local": "هيليوبوليس",
+        "en": "Heliopolis",
+        "slug": "heliopolis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_heliopolis",
+        "level": 2,
+        "name": {
+          "local": "هيليوبوليس",
+          "en": "Heliopolis",
+          "slug": "heliopolis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24008"
+    ],
+    "geo": {
+      "lat": "36.534",
+      "lon": "7.438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

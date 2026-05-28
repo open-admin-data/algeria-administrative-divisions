@@ -1,0 +1,45 @@
+{
+  "id": "DZ030003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Errich",
+    "en": "Ain Errich",
+    "slug": "ain-errich-dz030003"
+  },
+  "code": {
+    "id": "DZ030003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.499",
+    "lon": "4.043"
+  },
+  "metadata": {},
+  "source": {}
+}

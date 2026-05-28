@@ -1,0 +1,45 @@
+{
+  "id": "DZ009006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouchagroun",
+    "en": "Bouchagroun",
+    "slug": "bouchagroun-dz009006"
+  },
+  "code": {
+    "id": "DZ009006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.741",
+    "lon": "5.475"
+  },
+  "metadata": {},
+  "source": {}
+}

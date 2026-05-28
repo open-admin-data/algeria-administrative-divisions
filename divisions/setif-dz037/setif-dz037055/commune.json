@@ -1,0 +1,45 @@
+{
+  "id": "DZ037055",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Setif",
+    "en": "Setif",
+    "slug": "setif-dz037055"
+  },
+  "code": {
+    "id": "DZ037055",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.192",
+    "lon": "5.418"
+  },
+  "metadata": {},
+  "source": {}
+}

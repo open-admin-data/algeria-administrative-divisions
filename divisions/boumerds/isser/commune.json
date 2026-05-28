@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ035_isser_chabet-el-ameur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شعبة العامر",
+      "en": "Chabet El Ameur",
+      "slug": "chabet-el-ameur"
+    },
+    "code": {
+      "id": "DZ035_isser_chabet-el-ameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_isser",
+      "level": 2,
+      "name": {
+        "local": "يسر",
+        "en": "Isser",
+        "slug": "isser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_isser",
+        "level": 2,
+        "name": {
+          "local": "يسر",
+          "en": "Isser",
+          "slug": "isser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35008"
+    ],
+    "geo": {
+      "lat": "36.636",
+      "lon": "3.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_isser_isser",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يسر",
+      "en": "Isser",
+      "slug": "isser"
+    },
+    "code": {
+      "id": "DZ035_isser_isser",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_isser",
+      "level": 2,
+      "name": {
+        "local": "يسر",
+        "en": "Isser",
+        "slug": "isser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_isser",
+        "level": 2,
+        "name": {
+          "local": "يسر",
+          "en": "Isser",
+          "slug": "isser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35009"
+    ],
+    "geo": {
+      "lat": "36.697",
+      "lon": "3.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_isser_si-mustapha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سي مصطفى",
+      "en": "Si Mustapha",
+      "slug": "si-mustapha"
+    },
+    "code": {
+      "id": "DZ035_isser_si-mustapha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_isser",
+      "level": 2,
+      "name": {
+        "local": "يسر",
+        "en": "Isser",
+        "slug": "isser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_isser",
+        "level": 2,
+        "name": {
+          "local": "يسر",
+          "en": "Isser",
+          "slug": "isser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35028"
+    ],
+    "geo": {
+      "lat": "36.736",
+      "lon": "3.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_isser_timezrit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمزريت",
+      "en": "Timezrit",
+      "slug": "timezrit"
+    },
+    "code": {
+      "id": "DZ035_isser_timezrit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_isser",
+      "level": 2,
+      "name": {
+        "local": "يسر",
+        "en": "Isser",
+        "slug": "isser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_isser",
+        "level": 2,
+        "name": {
+          "local": "يسر",
+          "en": "Isser",
+          "slug": "isser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06019"
+    ],
+    "geo": {
+      "lat": "36.666",
+      "lon": "3.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

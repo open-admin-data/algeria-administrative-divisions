@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_kheir-eddine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "خير الدين",
+    "en": "Kheir Eddine",
+    "slug": "kheir-eddine"
+  },
+  "code": {
+    "id": "DZ027_kheir-eddine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.961",
+    "lon": "0.177"
+  },
+  "metadata": {},
+  "source": {}
+}

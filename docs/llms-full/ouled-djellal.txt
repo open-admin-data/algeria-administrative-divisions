@@ -1,0 +1,43 @@
+# Ouled Djellal — Algeria Administrative Divisions
+
+> 2 dairas, 6 communes
+> Code: DZ051
+> Coordinates: 35.5, 4.012
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أولاد جلال (Ouled Djellal)
+
+Code: DZ051_ouled-djellal, Coordinates: 35.218, 4.316
+Communes: 3
+
+#### الشعيبة (Chaiba)
+
+Code: DZ051_ouled-djellal_chaiba, Postal: 42047, Coordinates: 36.613, 2.733
+
+#### الدوسن (Doucen)
+
+Code: DZ051_ouled-djellal_doucen, Postal: 07007, Coordinates: 34.615, 5.113
+
+#### أولاد جلال (Ouled Djellal)
+
+Code: DZ051_ouled-djellal_ouled-djellal, Postal: 07002, Coordinates: 34.425, 5.101
+
+### سيدي  خالد (Sidi Khaled)
+
+Code: DZ051_sidi-khaled, Coordinates: 35.924, 3.555
+Communes: 3
+
+#### بسباس (Besbes)
+
+Code: DZ051_sidi-khaled_besbes, Postal: 36017, Coordinates: 36.723, 7.821
+
+#### رأس الميعاد (Ras El Miad)
+
+Code: DZ051_sidi-khaled_ras-el-miad, Postal: 07062, Coordinates: 35.924, 3.555
+
+#### سيدي  خالد (Sidi Khaled)
+
+Code: DZ051_sidi-khaled_sidi-khaled, Postal: 07004, Coordinates: 35.124, -0.71
+

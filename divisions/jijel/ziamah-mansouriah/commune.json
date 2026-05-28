@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_ziamah-mansouriah_erraguene-souissi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أراقن سويسي",
+      "en": "Erraguene Souissi",
+      "slug": "erraguene-souissi"
+    },
+    "code": {
+      "id": "DZ018_ziamah-mansouriah_erraguene-souissi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_ziamah-mansouriah",
+      "level": 2,
+      "name": {
+        "local": "زيامة منصورية",
+        "en": "Ziamah Mansouriah",
+        "slug": "ziamah-mansouriah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_ziamah-mansouriah",
+        "level": 2,
+        "name": {
+          "local": "زيامة منصورية",
+          "en": "Ziamah Mansouriah",
+          "slug": "ziamah-mansouriah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18032"
+    ],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_ziamah-mansouriah_ziama-mansouriah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زيامة منصورية",
+      "en": "Ziama Mansouriah",
+      "slug": "ziama-mansouriah"
+    },
+    "code": {
+      "id": "DZ018_ziamah-mansouriah_ziama-mansouriah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_ziamah-mansouriah",
+      "level": 2,
+      "name": {
+        "local": "زيامة منصورية",
+        "en": "Ziamah Mansouriah",
+        "slug": "ziamah-mansouriah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_ziamah-mansouriah",
+        "level": 2,
+        "name": {
+          "local": "زيامة منصورية",
+          "en": "Ziamah Mansouriah",
+          "slug": "ziamah-mansouriah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18007"
+    ],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

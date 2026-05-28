@@ -1,0 +1,47 @@
+{
+  "id": "DZ049_aougrout",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أوقروت",
+    "en": "Aougrout",
+    "slug": "aougrout"
+  },
+  "code": {
+    "id": "DZ049_aougrout",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ049",
+    "level": 1,
+    "name": {
+      "local": "تيميمون",
+      "en": "Timimoun",
+      "slug": "timimoun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ049",
+      "level": 1,
+      "name": {
+        "local": "تيميمون",
+        "en": "Timimoun",
+        "slug": "timimoun"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.519",
+    "lon": "1.516"
+  },
+  "metadata": {},
+  "source": {}
+}

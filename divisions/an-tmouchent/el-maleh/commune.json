@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ046_el-maleh_chaabat-el-ham",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شعبة اللحم",
+      "en": "Chaabat El Ham",
+      "slug": "chaabat-el-ham"
+    },
+    "code": {
+      "id": "DZ046_el-maleh_chaabat-el-ham",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-maleh",
+      "level": 2,
+      "name": {
+        "local": "المالح",
+        "en": "El Maleh",
+        "slug": "el-maleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-maleh",
+        "level": 2,
+        "name": {
+          "local": "المالح",
+          "en": "El Maleh",
+          "slug": "el-maleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46011"
+    ],
+    "geo": {
+      "lat": "35.386",
+      "lon": "-1.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-maleh_el-maleh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المالح",
+      "en": "El Maleh",
+      "slug": "el-maleh"
+    },
+    "code": {
+      "id": "DZ046_el-maleh_el-maleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-maleh",
+      "level": 2,
+      "name": {
+        "local": "المالح",
+        "en": "El Maleh",
+        "slug": "el-maleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-maleh",
+        "level": 2,
+        "name": {
+          "local": "المالح",
+          "en": "El Maleh",
+          "slug": "el-maleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46067"
+    ],
+    "geo": {
+      "lat": "35.386",
+      "lon": "-1.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-maleh_ouled-kihal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد الكيحل",
+      "en": "Ouled Kihal",
+      "slug": "ouled-kihal"
+    },
+    "code": {
+      "id": "DZ046_el-maleh_ouled-kihal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-maleh",
+      "level": 2,
+      "name": {
+        "local": "المالح",
+        "en": "El Maleh",
+        "slug": "el-maleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-maleh",
+        "level": 2,
+        "name": {
+          "local": "المالح",
+          "en": "El Maleh",
+          "slug": "el-maleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46038"
+    ],
+    "geo": {
+      "lat": "35.366",
+      "lon": "-1.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-maleh_terga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تارقة",
+      "en": "Terga",
+      "slug": "terga"
+    },
+    "code": {
+      "id": "DZ046_el-maleh_terga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-maleh",
+      "level": 2,
+      "name": {
+        "local": "المالح",
+        "en": "El Maleh",
+        "slug": "el-maleh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-maleh",
+        "level": 2,
+        "name": {
+          "local": "المالح",
+          "en": "El Maleh",
+          "slug": "el-maleh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46015"
+    ],
+    "geo": {
+      "lat": "35.405",
+      "lon": "-1.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

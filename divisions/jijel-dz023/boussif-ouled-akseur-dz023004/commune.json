@@ -1,0 +1,45 @@
+{
+  "id": "DZ023004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boussif Ouled Akseur",
+    "en": "Boussif Ouled Akseur",
+    "slug": "boussif-ouled-akseur-dz023004"
+  },
+  "code": {
+    "id": "DZ023004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.668",
+    "lon": "6.022"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ024019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tamza",
+    "en": "Tamza",
+    "slug": "tamza-dz024019"
+  },
+  "code": {
+    "id": "DZ024019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela-dz024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.297",
+    "lon": "6.923"
+  },
+  "metadata": {},
+  "source": {}
+}

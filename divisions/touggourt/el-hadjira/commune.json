@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ055_el-hadjira_el-alia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العالية",
+      "en": "El Alia",
+      "slug": "el-alia"
+    },
+    "code": {
+      "id": "DZ055_el-hadjira_el-alia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_el-hadjira",
+      "level": 2,
+      "name": {
+        "local": "الحجيرة",
+        "en": "El-Hadjira",
+        "slug": "el-hadjira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_el-hadjira",
+        "level": 2,
+        "name": {
+          "local": "الحجيرة",
+          "en": "El-Hadjira",
+          "slug": "el-hadjira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30023"
+    ],
+    "geo": {
+      "lat": "32.749",
+      "lon": "5.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_el-hadjira_el-hadjira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحجيرة",
+      "en": "El-Hadjira",
+      "slug": "el-hadjira"
+    },
+    "code": {
+      "id": "DZ055_el-hadjira_el-hadjira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_el-hadjira",
+      "level": 2,
+      "name": {
+        "local": "الحجيرة",
+        "en": "El-Hadjira",
+        "slug": "el-hadjira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_el-hadjira",
+        "level": 2,
+        "name": {
+          "local": "الحجيرة",
+          "en": "El-Hadjira",
+          "slug": "el-hadjira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30006"
+    ],
+    "geo": {
+      "lat": "32.749",
+      "lon": "5.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

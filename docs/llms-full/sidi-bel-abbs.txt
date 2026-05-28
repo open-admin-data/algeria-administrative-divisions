@@ -1,0 +1,292 @@
+# Sidi Bel Abbès — Algeria Administrative Divisions
+
+> 15 dairas, 52 communes
+> Code: DZ022
+> Coordinates: 35.018, -0.59
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين البرد (Ain El Berd)
+
+Code: DZ022_ain-el-berd, Coordinates: 35.345, -0.511
+Communes: 4
+
+#### عين البرد (Ain El Berd)
+
+Code: DZ022_ain-el-berd_ain-el-berd, Postal: 22022, Coordinates: 35.386, -0.513
+
+#### مكدرة (Makedra)
+
+Code: DZ022_ain-el-berd_makedra, Postal: 22051, Coordinates: 35.418, -0.444
+
+#### سيدي ابراهيم (Sidi Brahim)
+
+Code: DZ022_ain-el-berd_sidi-brahim, Postal: 22029, Coordinates: 35.263, -0.569
+
+#### سيدي حمادوش (Sidi Hamadouche)
+
+Code: DZ022_ain-el-berd_sidi-hamadouche, Postal: 22019, Coordinates: 35.314, -0.52
+
+### بن باديس (Ben Badis)
+
+Code: DZ022_ben-badis, Coordinates: 34.98, -0.871
+Communes: 4
+
+#### بضرابين المقراني (Bedrabine El Mokrani)
+
+Code: DZ022_ben-badis_bedrabine-el-mokrani, Postal: 22038, Coordinates: 35.003, -0.836
+
+#### بن باديس (Ben Badis)
+
+Code: DZ022_ben-badis_ben-badis, Postal: 22004, Coordinates: 34.928, -0.913
+
+#### شيطوان البلايلة (Chetouane Belaila)
+
+Code: DZ022_ben-badis_chetouane-belaila, Postal: 22039, Coordinates: 34.956, -0.83
+
+#### حاسي زهانة (Hassi Zahana)
+
+Code: DZ022_ben-badis_hassi-zahana, Postal: 22010, Coordinates: 35.031, -0.903
+
+### مرحوم (Marhoum)
+
+Code: DZ022_marhoum, Coordinates: 34.452, -0.352
+Communes: 3
+
+#### بئر الحمام (Bir El Hammam)
+
+Code: DZ022_marhoum_bir-el-hammam, Postal: 22041, Coordinates: 34.452, -0.352
+
+#### مرحوم (Marhoum)
+
+Code: DZ022_marhoum_marhoum, Postal: 22011, Coordinates: 34.332, -0.156
+
+#### سيدي شعيب (Sidi Chaib)
+
+Code: DZ022_marhoum_sidi-chaib, Postal: 22061, Coordinates: 34.572, -0.547
+
+### مرين (Merine)
+
+Code: DZ022_merine, Coordinates: 34.674, -0.266
+Communes: 4
+
+#### مرين (Merine)
+
+Code: DZ022_merine_merine, Postal: 22012, Coordinates: 34.795, -0.375
+
+#### وادي تاوريرة (Oued Taourira)
+
+Code: DZ022_merine_oued-taourira, Postal: 22056, Coordinates: 34.614, -0.3
+
+#### تاودموت (Taoudmout)
+
+Code: DZ022_merine_taoudmout, Postal: 22064, Coordinates: 34.614, -0.122
+
+#### تفسور (Tefessour)
+
+Code: DZ022_merine_tefessour, Postal: 22065, Coordinates: 34.674, -0.266
+
+### مصطفى بن ابراهيم (Mostefa  Ben Brahim)
+
+Code: DZ022_mostefa-ben-brahim, Coordinates: 35.186, -0.44
+Communes: 4
+
+#### بلعربي (Belarbi)
+
+Code: DZ022_mostefa-ben-brahim_belarbi, Postal: 22023, Coordinates: 35.134, -0.451
+
+#### مصطفى بن ابراهيم (Mostefa  Ben Brahim)
+
+Code: DZ022_mostefa-ben-brahim_mostefa-ben-brahim, Postal: 22013, Coordinates: 35.176, -0.34
+
+#### تلموني (Tilmouni)
+
+Code: DZ022_mostefa-ben-brahim_tilmouni, Postal: 22044, Coordinates: 35.188, -0.515
+
+#### زروالة (Zerouala)
+
+Code: DZ022_mostefa-ben-brahim_zerouala, Postal: 22068, Coordinates: 35.246, -0.452
+
+### مولاي سليسن (Moulay Slissen)
+
+Code: DZ022_moulay-slissen, Coordinates: 34.753, -0.748
+Communes: 3
+
+#### عين تندمين (Ain Tindamine)
+
+Code: DZ022_moulay-slissen_ain-tindamine, Postal: 22036, Coordinates: 34.705, -0.695
+
+#### الحصيبة (El Hacaiba)
+
+Code: DZ022_moulay-slissen_el-hacaiba, Postal: 22047, Coordinates: 34.719, -0.745
+
+#### مولاي سليسن (Moulay Slissen)
+
+Code: DZ022_moulay-slissen_moulay-slissen, Postal: 22026, Coordinates: 34.834, -0.805
+
+### راس الماء (Ras El Ma)
+
+Code: DZ022_ras-el-ma, Coordinates: 34.504, -0.789
+Communes: 3
+
+#### وادي السبع (Oued Sebaa)
+
+Code: DZ022_ras-el-ma_oued-sebaa, Postal: 22054, Coordinates: 34.504, -0.789
+
+#### راس الماء (Ras El Ma)
+
+Code: DZ022_ras-el-ma_ras-el-ma, Postal: 22069, Coordinates: 34.504, -0.789
+
+#### رجم دموش (Redjem Demouche)
+
+Code: DZ022_ras-el-ma_redjem-demouche, Postal: 22058, Coordinates: 34.504, -0.789
+
+### سفيزف (Sfisef)
+
+Code: DZ022_sfisef, Coordinates: 35.262, -0.285
+Communes: 4
+
+#### عين أدن (Ain- Adden)
+
+Code: DZ022_sfisef_ain--adden, Postal: 22034, Coordinates: 35.33, -0.24
+
+#### بوجبهة البرج (Boudjebaa El Bordj)
+
+Code: DZ022_sfisef_boudjebaa-el-bordj, Postal: 22043, Coordinates: 35.325, -0.362
+
+#### مسيد (M&#39;cid)
+
+Code: DZ022_sfisef_mcid, Postal: 22052, Coordinates: 35.147, -0.264
+
+#### سفيزف (Sfisef)
+
+Code: DZ022_sfisef_sfisef, Postal: 22001, Coordinates: 35.246, -0.274
+
+### سيدي علي بن يوب (Sidi Ali Ben Youb)
+
+Code: DZ022_sidi-ali-ben-youb, Coordinates: 34.986, -0.736
+Communes: 3
+
+#### بوخنفيس (Boukhanefis)
+
+Code: DZ022_sidi-ali-ben-youb_boukhanefis, Postal: 22008, Coordinates: 34.986, -0.736
+
+#### سيدي علي بن يوب (Sidi Ali Benyoub)
+
+Code: DZ022_sidi-ali-ben-youb_sidi-ali-benyoub, Postal: 22028, Coordinates: 34.951, -0.73
+
+#### طابية (Tabia)
+
+Code: DZ022_sidi-ali-ben-youb_tabia, Postal: 22032, Coordinates: 35.02, -0.741
+
+### سيدي علي بوسيدي (Sidi Ali Boussidi)
+
+Code: DZ022_sidi-ali-boussidi, Coordinates: 35.108, -0.829
+Communes: 4
+
+#### عين قادة (Ain Kada)
+
+Code: DZ022_sidi-ali-boussidi_ain-kada, Postal: 22035, Coordinates: 35.159, -0.846
+
+#### لمطار (Lamtar)
+
+Code: DZ022_sidi-ali-boussidi_lamtar, Postal: 22024, Coordinates: 35.059, -0.808
+
+#### سيدي علي بوسيدي (Sidi Ali Boussidi)
+
+Code: DZ022_sidi-ali-boussidi_sidi-ali-boussidi, Postal: 22014, Coordinates: 35.107, -0.832
+
+#### سيدي دحو الزاير (Sidi Dahou Zairs)
+
+Code: DZ022_sidi-ali-boussidi_sidi-dahou-zairs, Postal: 22062, Coordinates: 35.108, -0.829
+
+### سيدي بلعباس (Sidi Bel Abbes)
+
+Code: DZ022_sidi-bel-abbes, Coordinates: 35.21, -0.631
+Communes: 1
+
+#### سيدي بلعباس (Sidi Bel-Abbes)
+
+Code: DZ022_sidi-bel-abbes_sidi-bel-abbes, Postal: 22000, Coordinates: 35.21, -0.631
+
+### سيدي لحسن (Sidi Lahcene)
+
+Code: DZ022_sidi-lahcene, Coordinates: 35.146, -0.714
+Communes: 4
+
+#### العمارنة (Amarnas)
+
+Code: DZ022_sidi-lahcene_amarnas, Postal: 22074, Coordinates: 35.103, -0.613
+
+#### سيدي خالد (Sidi Khaled)
+
+Code: DZ022_sidi-lahcene_sidi-khaled, Postal: 07004, Coordinates: 35.124, -0.71
+
+#### سيدي لحسن (Sidi Lahcene)
+
+Code: DZ022_sidi-lahcene_sidi-lahcene, Postal: 22020, Coordinates: 35.197, -0.758
+
+#### سيدي يعقوب (Sidi Yacoub)
+
+Code: DZ022_sidi-lahcene_sidi-yacoub, Postal: 22063, Coordinates: 35.159, -0.776
+
+### تلاغ (Telagh)
+
+Code: DZ022_telagh, Coordinates: 34.797, -0.578
+Communes: 4
+
+#### الضاية (Dhaya)
+
+Code: DZ022_telagh_dhaya, Postal: 22009, Coordinates: 34.639, -0.639
+
+#### مزاورو (Mezaourou)
+
+Code: DZ022_telagh_mezaourou, Postal: 22025, Coordinates: 34.839, -0.656
+
+#### تغاليمت (Teghalimet)
+
+Code: DZ022_telagh_teghalimet, Postal: 22066, Coordinates: 34.904, -0.484
+
+#### تلاغ (Telagh)
+
+Code: DZ022_telagh_telagh, Postal: 22007, Coordinates: 34.806, -0.532
+
+### تنيرة (Tenira)
+
+Code: DZ022_tenira, Coordinates: 34.989, -0.499
+Communes: 4
+
+#### بن عشيبة شلية (Benachiba Chelia)
+
+Code: DZ022_tenira_benachiba-chelia, Postal: 22040, Coordinates: 34.964, -0.614
+
+#### حاسي دحو (Hassi Dahou)
+
+Code: DZ022_tenira_hassi-dahou, Postal: 22049, Coordinates: 34.989, -0.499
+
+#### وادي سفيون (Oued Sefioun)
+
+Code: DZ022_tenira_oued-sefioun, Postal: 22055, Coordinates: 34.997, -0.368
+
+#### تنيرة (Tenira)
+
+Code: DZ022_tenira_tenira, Postal: 22021, Coordinates: 35.006, -0.515
+
+### تسالة (Tessala)
+
+Code: DZ022_tessala, Coordinates: 35.267, -0.779
+Communes: 3
+
+#### عين الثريد (Ain Thrid)
+
+Code: DZ022_tessala_ain-thrid, Postal: 22037, Coordinates: 35.297, -0.676
+
+#### السهالة الثورة (Sehala Thaoura)
+
+Code: DZ022_tessala_sehala-thaoura, Postal: 22060, Coordinates: 35.228, -0.861
+
+#### تسالة (Tessala)
+
+Code: DZ022_tessala_tessala, Postal: 22033, Coordinates: 35.276, -0.8
+

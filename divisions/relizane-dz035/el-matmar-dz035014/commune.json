@@ -1,0 +1,45 @@
+{
+  "id": "DZ035014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Matmar",
+    "en": "El Matmar",
+    "slug": "el-matmar-dz035014"
+  },
+  "code": {
+    "id": "DZ035014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.722",
+    "lon": "0.454"
+  },
+  "metadata": {},
+  "source": {}
+}

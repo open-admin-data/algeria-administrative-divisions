@@ -1,0 +1,47 @@
+{
+  "id": "DZ004_sigus",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيقوس",
+    "en": "Sigus",
+    "slug": "sigus"
+  },
+  "code": {
+    "id": "DZ004_sigus",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.092",
+    "lon": "6.832"
+  },
+  "metadata": {},
+  "source": {}
+}

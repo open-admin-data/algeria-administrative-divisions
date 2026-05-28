@@ -1,0 +1,49 @@
+[
+  {
+    "id": "DZ050_bordj-badji-mokhtar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج باجي مختار",
+      "en": "Bordj Badji Mokhtar",
+      "slug": "bordj-badji-mokhtar"
+    },
+    "code": {
+      "id": "DZ050_bordj-badji-mokhtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ050",
+      "level": 1,
+      "name": {
+        "local": "برج باجي مختار",
+        "en": "Bordj Badji Mokhtar",
+        "slug": "bordj-badji-mokhtar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ050",
+        "level": 1,
+        "name": {
+          "local": "برج باجي مختار",
+          "en": "Bordj Badji Mokhtar",
+          "slug": "bordj-badji-mokhtar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.025",
+      "lon": "0.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

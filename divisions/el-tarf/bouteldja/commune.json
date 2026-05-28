@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ036_bouteldja_bouteldja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوثلجة",
+      "en": "Bouteldja",
+      "slug": "bouteldja"
+    },
+    "code": {
+      "id": "DZ036_bouteldja_bouteldja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouteldja",
+      "level": 2,
+      "name": {
+        "local": "بوثلجة",
+        "en": "Bouteldja",
+        "slug": "bouteldja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouteldja",
+        "level": 2,
+        "name": {
+          "local": "بوثلجة",
+          "en": "Bouteldja",
+          "slug": "bouteldja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36006"
+    ],
+    "geo": {
+      "lat": "36.784",
+      "lon": "8.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouteldja_chefia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشافية",
+      "en": "Chefia",
+      "slug": "chefia"
+    },
+    "code": {
+      "id": "DZ036_bouteldja_chefia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouteldja",
+      "level": 2,
+      "name": {
+        "local": "بوثلجة",
+        "en": "Bouteldja",
+        "slug": "bouteldja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouteldja",
+        "level": 2,
+        "name": {
+          "local": "بوثلجة",
+          "en": "Bouteldja",
+          "slug": "bouteldja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36032"
+    ],
+    "geo": {
+      "lat": "36.674",
+      "lon": "8.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouteldja_lac-des-oiseaux",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بحيرة الطيور",
+      "en": "Lac Des Oiseaux",
+      "slug": "lac-des-oiseaux"
+    },
+    "code": {
+      "id": "DZ036_bouteldja_lac-des-oiseaux",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouteldja",
+      "level": 2,
+      "name": {
+        "local": "بوثلجة",
+        "en": "Bouteldja",
+        "slug": "bouteldja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouteldja",
+        "level": 2,
+        "name": {
+          "local": "بوثلجة",
+          "en": "Bouteldja",
+          "slug": "bouteldja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36019"
+    ],
+    "geo": {
+      "lat": "36.763",
+      "lon": "8.097"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

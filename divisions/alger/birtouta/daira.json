@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_birtouta",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر توتة",
+    "en": "Birtouta",
+    "slug": "birtouta"
+  },
+  "code": {
+    "id": "DZ016_birtouta",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.612",
+    "lon": "2.994"
+  },
+  "metadata": {},
+  "source": {}
+}

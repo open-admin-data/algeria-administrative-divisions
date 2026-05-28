@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ004_souk-naamane_bir-chouhada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر الشهداء",
+      "en": "Bir Chouhada",
+      "slug": "bir-chouhada"
+    },
+    "code": {
+      "id": "DZ004_souk-naamane_bir-chouhada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_souk-naamane",
+      "level": 2,
+      "name": {
+        "local": "سوق نعمان",
+        "en": "Souk Naamane",
+        "slug": "souk-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_souk-naamane",
+        "level": 2,
+        "name": {
+          "local": "سوق نعمان",
+          "en": "Souk Naamane",
+          "slug": "souk-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04021"
+    ],
+    "geo": {
+      "lat": "35.915",
+      "lon": "6.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_souk-naamane_ouled-zouai",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد زواي",
+      "en": "Ouled Zouai",
+      "slug": "ouled-zouai"
+    },
+    "code": {
+      "id": "DZ004_souk-naamane_ouled-zouai",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_souk-naamane",
+      "level": 2,
+      "name": {
+        "local": "سوق نعمان",
+        "en": "Souk Naamane",
+        "slug": "souk-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_souk-naamane",
+        "level": 2,
+        "name": {
+          "local": "سوق نعمان",
+          "en": "Souk Naamane",
+          "slug": "souk-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.877",
+      "lon": "6.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_souk-naamane_souk-naamane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق نعمان",
+      "en": "Souk Naamane",
+      "slug": "souk-naamane"
+    },
+    "code": {
+      "id": "DZ004_souk-naamane_souk-naamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_souk-naamane",
+      "level": 2,
+      "name": {
+        "local": "سوق نعمان",
+        "en": "Souk Naamane",
+        "slug": "souk-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_souk-naamane",
+        "level": 2,
+        "name": {
+          "local": "سوق نعمان",
+          "en": "Souk Naamane",
+          "slug": "souk-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04010"
+    ],
+    "geo": {
+      "lat": "35.942",
+      "lon": "6.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

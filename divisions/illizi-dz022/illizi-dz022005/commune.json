@@ -1,0 +1,45 @@
+{
+  "id": "DZ022005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Illizi",
+    "en": "Illizi",
+    "slug": "illizi-dz022005"
+  },
+  "code": {
+    "id": "DZ022005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "اليزي",
+      "en": "Illizi",
+      "slug": "illizi-dz022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.491",
+    "lon": "8.349"
+  },
+  "metadata": {},
+  "source": {}
+}

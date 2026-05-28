@@ -1,0 +1,45 @@
+{
+  "id": "DZ013027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Souk El Had",
+    "en": "Souk El Had",
+    "slug": "souk-el-had-dz013027"
+  },
+  "code": {
+    "id": "DZ013027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.696",
+    "lon": "3.587"
+  },
+  "metadata": {},
+  "source": {}
+}

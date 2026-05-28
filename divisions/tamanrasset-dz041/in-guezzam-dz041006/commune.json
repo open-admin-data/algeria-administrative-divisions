@@ -1,0 +1,45 @@
+{
+  "id": "DZ041006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "In Guezzam",
+    "en": "In Guezzam",
+    "slug": "in-guezzam-dz041006"
+  },
+  "code": {
+    "id": "DZ041006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.382",
+    "lon": "5.463"
+  },
+  "metadata": {},
+  "source": {}
+}

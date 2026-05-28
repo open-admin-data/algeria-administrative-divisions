@@ -1,0 +1,169 @@
+# Boumerdes — Algeria Administrative Divisions
+
+> 32 communes
+> Code: DZ013
+> Coordinates: 36.736, 3.62
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Afir
+
+Code: DZ013001, Coordinates: 36.857, 4.002
+
+
+### Ammal
+
+Code: DZ013002, Coordinates: 36.622, 3.587
+
+
+### Baghlia
+
+Code: DZ013003, Coordinates: 36.799, 3.87
+
+
+### Ben Choud
+
+Code: DZ013004, Coordinates: 36.854, 3.905
+
+
+### Beni Amrane
+
+Code: DZ013005, Coordinates: 36.662, 3.573
+
+
+### Bordj Menaiel
+
+Code: DZ013006, Coordinates: 36.752, 3.731
+
+
+### Boudouaou
+
+Code: DZ013007, Coordinates: 36.712, 3.418
+
+
+### Boudouaou El Bahri
+
+Code: DZ013008, Coordinates: 36.763, 3.402
+
+
+### Boumerdes
+
+Code: DZ013009, Coordinates: 36.761, 3.495
+
+
+### Bouzegza Keddara
+
+Code: DZ013010, Coordinates: 36.636, 3.488
+
+
+### Chabet El Ameur
+
+Code: DZ013011, Coordinates: 36.636, 3.68
+
+
+### Corso
+
+Code: DZ013012, Coordinates: 36.731, 3.444
+
+
+### Dellys
+
+Code: DZ013013, Coordinates: 36.871, 3.941
+
+
+### Djinet
+
+Code: DZ013014, Coordinates: 36.847, 3.742
+
+
+### El Kharrouba
+
+Code: DZ013015, Coordinates: 36.612, 3.427
+
+
+### Hammedi
+
+Code: DZ013016, Coordinates: 36.681, 3.262
+
+
+### Isser
+
+Code: DZ013017, Coordinates: 36.697, 3.69
+
+
+### Khemis El Khechna
+
+Code: DZ013018, Coordinates: 36.635, 3.323
+
+
+### Laghata
+
+Code: DZ013019, Coordinates: 36.792, 3.687
+
+
+### Larbatache
+
+Code: DZ013020, Coordinates: 36.611, 3.369
+
+
+### Naciria
+
+Code: DZ013021, Coordinates: 36.73, 3.822
+
+
+### Ouled Aissa
+
+Code: DZ013022, Coordinates: 36.81, 3.812
+
+
+### Ouled Hadjadj
+
+Code: DZ013023, Coordinates: 36.713, 3.338
+
+
+### Ouled Moussa
+
+Code: DZ013024, Coordinates: 36.688, 3.379
+
+
+### Si Mustapha
+
+Code: DZ013025, Coordinates: 36.736, 3.618
+
+
+### Sidi Daoud
+
+Code: DZ013026, Coordinates: 36.866, 3.827
+
+
+### Souk El Had
+
+Code: DZ013027, Coordinates: 36.696, 3.587
+
+
+### Taourga
+
+Code: DZ013028, Coordinates: 36.796, 3.942
+
+
+### Thenia
+
+Code: DZ013029, Coordinates: 36.737, 3.554
+
+
+### Tidjelabine
+
+Code: DZ013030, Coordinates: 36.718, 3.496
+
+
+### Timezrit
+
+Code: DZ013031, Coordinates: 36.666, 3.79
+
+
+### Zemmouri
+
+Code: DZ013032, Coordinates: 36.786, 3.603
+
+

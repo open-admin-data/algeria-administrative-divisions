@@ -1,0 +1,45 @@
+{
+  "id": "DZ019021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Raml Souk",
+    "en": "Raml Souk",
+    "slug": "raml-souk-dz019021"
+  },
+  "code": {
+    "id": "DZ019021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.815",
+    "lon": "8.544"
+  },
+  "metadata": {},
+  "source": {}
+}

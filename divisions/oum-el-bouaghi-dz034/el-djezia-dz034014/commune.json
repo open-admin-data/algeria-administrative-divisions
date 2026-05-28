@@ -1,0 +1,45 @@
+{
+  "id": "DZ034014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Djezia",
+    "en": "El Djezia",
+    "slug": "el-djezia-dz034014"
+  },
+  "code": {
+    "id": "DZ034014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.664",
+    "lon": "7.551"
+  },
+  "metadata": {},
+  "source": {}
+}

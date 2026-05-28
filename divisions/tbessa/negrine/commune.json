@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_negrine_ferkane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فركان",
+      "en": "Ferkane",
+      "slug": "ferkane"
+    },
+    "code": {
+      "id": "DZ012_negrine_ferkane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_negrine",
+      "level": 2,
+      "name": {
+        "local": "نقرين",
+        "en": "Negrine",
+        "slug": "negrine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_negrine",
+        "level": 2,
+        "name": {
+          "local": "نقرين",
+          "en": "Negrine",
+          "slug": "negrine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12044"
+    ],
+    "geo": {
+      "lat": "34.495",
+      "lon": "7.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_negrine_negrine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "نقرين",
+      "en": "Negrine",
+      "slug": "negrine"
+    },
+    "code": {
+      "id": "DZ012_negrine_negrine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_negrine",
+      "level": 2,
+      "name": {
+        "local": "نقرين",
+        "en": "Negrine",
+        "slug": "negrine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_negrine",
+        "level": 2,
+        "name": {
+          "local": "نقرين",
+          "en": "Negrine",
+          "slug": "negrine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12024"
+    ],
+    "geo": {
+      "lat": "34.397",
+      "lon": "7.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

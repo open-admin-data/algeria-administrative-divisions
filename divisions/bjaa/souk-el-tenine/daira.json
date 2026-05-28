@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_souk-el-tenine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سوق الإثنين",
+    "en": "Souk El Tenine",
+    "slug": "souk-el-tenine"
+  },
+  "code": {
+    "id": "DZ006_souk-el-tenine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.601",
+    "lon": "4.939"
+  },
+  "metadata": {},
+  "source": {}
+}

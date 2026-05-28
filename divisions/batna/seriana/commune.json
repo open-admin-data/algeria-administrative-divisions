@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_seriana_lazrou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لازرو",
+      "en": "Lazrou",
+      "slug": "lazrou"
+    },
+    "code": {
+      "id": "DZ005_seriana_lazrou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_seriana",
+      "level": 2,
+      "name": {
+        "local": "سريانة",
+        "en": "Seriana",
+        "slug": "seriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_seriana",
+        "level": 2,
+        "name": {
+          "local": "سريانة",
+          "en": "Seriana",
+          "slug": "seriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05117"
+    ],
+    "geo": {
+      "lat": "35.808",
+      "lon": "6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_seriana_seriana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سريانة",
+      "en": "Seriana",
+      "slug": "seriana"
+    },
+    "code": {
+      "id": "DZ005_seriana_seriana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_seriana",
+      "level": 2,
+      "name": {
+        "local": "سريانة",
+        "en": "Seriana",
+        "slug": "seriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_seriana",
+        "level": 2,
+        "name": {
+          "local": "سريانة",
+          "en": "Seriana",
+          "slug": "seriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05025"
+    ],
+    "geo": {
+      "lat": "35.719",
+      "lon": "6.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_seriana_zanet-el-beida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زانة البيضاء",
+      "en": "Zanet El Beida",
+      "slug": "zanet-el-beida"
+    },
+    "code": {
+      "id": "DZ005_seriana_zanet-el-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_seriana",
+      "level": 2,
+      "name": {
+        "local": "سريانة",
+        "en": "Seriana",
+        "slug": "seriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_seriana",
+        "level": 2,
+        "name": {
+          "local": "سريانة",
+          "en": "Seriana",
+          "slug": "seriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05071"
+    ],
+    "geo": {
+      "lat": "35.764",
+      "lon": "6.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

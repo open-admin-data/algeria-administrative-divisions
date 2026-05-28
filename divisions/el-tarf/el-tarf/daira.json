@@ -1,0 +1,47 @@
+{
+  "id": "DZ036_el-tarf",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الطارف",
+    "en": "El Tarf",
+    "slug": "el-tarf"
+  },
+  "code": {
+    "id": "DZ036_el-tarf",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.806",
+    "lon": "7.904"
+  },
+  "metadata": {},
+  "source": {}
+}

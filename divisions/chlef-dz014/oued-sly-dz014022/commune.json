@@ -1,0 +1,45 @@
+{
+  "id": "DZ014022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Sly",
+    "en": "Oued Sly",
+    "slug": "oued-sly-dz014022"
+  },
+  "code": {
+    "id": "DZ014022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.082",
+    "lon": "1.228"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ019001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Assel",
+    "en": "Ain El Assel",
+    "slug": "ain-el-assel-dz019001"
+  },
+  "code": {
+    "id": "DZ019001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.806",
+    "lon": "8.453"
+  },
+  "metadata": {},
+  "source": {}
+}

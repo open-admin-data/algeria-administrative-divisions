@@ -1,0 +1,45 @@
+{
+  "id": "DZ006017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hassi",
+    "en": "El Hassi",
+    "slug": "el-hassi-dz006017"
+  },
+  "code": {
+    "id": "DZ006017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.783",
+    "lon": "5.951"
+  },
+  "metadata": {},
+  "source": {}
+}

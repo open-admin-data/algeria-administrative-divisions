@@ -1,0 +1,45 @@
+{
+  "id": "DZ027026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hamdania",
+    "en": "El Hamdania",
+    "slug": "el-hamdania-dz027026"
+  },
+  "code": {
+    "id": "DZ027026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.35",
+    "lon": "2.858"
+  },
+  "metadata": {},
+  "source": {}
+}

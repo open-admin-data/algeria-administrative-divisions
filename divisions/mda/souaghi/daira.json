@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_souaghi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "السواقي",
+    "en": "Souaghi",
+    "slug": "souaghi"
+  },
+  "code": {
+    "id": "DZ026_souaghi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.084",
+    "lon": "3.316"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,26 @@
+# In Guezzam — Algeria Administrative Divisions
+
+> 2 dairas, 2 communes
+> Code: DZ054
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين قزام (In Guezzam)
+
+Code: DZ054_in-guezzam
+Communes: 1
+
+#### عين قزام (Ain Guezzam)
+
+Code: DZ054_in-guezzam_ain-guezzam, Postal: 11005
+
+### تين زواتين (Tin Zouatine)
+
+Code: DZ054_tin-zouatine
+Communes: 1
+
+#### تين زواتين (Tin Zouatine)
+
+Code: DZ054_tin-zouatine_tin-zouatine, Postal: 11011
+

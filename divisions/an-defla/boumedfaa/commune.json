@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ044_boumedfaa_boumedfaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بومدفع",
+      "en": "Boumedfaa",
+      "slug": "boumedfaa"
+    },
+    "code": {
+      "id": "DZ044_boumedfaa_boumedfaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_boumedfaa",
+      "level": 2,
+      "name": {
+        "local": "بومدفع",
+        "en": "Boumedfaa",
+        "slug": "boumedfaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_boumedfaa",
+        "level": 2,
+        "name": {
+          "local": "بومدفع",
+          "en": "Boumedfaa",
+          "slug": "boumedfaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44004"
+    ],
+    "geo": {
+      "lat": "36.354",
+      "lon": "2.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_boumedfaa_hoceinia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحسينية",
+      "en": "Hoceinia",
+      "slug": "hoceinia"
+    },
+    "code": {
+      "id": "DZ044_boumedfaa_hoceinia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_boumedfaa",
+      "level": 2,
+      "name": {
+        "local": "بومدفع",
+        "en": "Boumedfaa",
+        "slug": "boumedfaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_boumedfaa",
+        "level": 2,
+        "name": {
+          "local": "بومدفع",
+          "en": "Boumedfaa",
+          "slug": "boumedfaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44048"
+    ],
+    "geo": {
+      "lat": "36.354",
+      "lon": "2.498"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

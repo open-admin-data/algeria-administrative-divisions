@@ -1,0 +1,45 @@
+{
+  "id": "DZ048052",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tlemcen",
+    "en": "Tlemcen",
+    "slug": "tlemcen-dz048052"
+  },
+  "code": {
+    "id": "DZ048052",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.898",
+    "lon": "-1.316"
+  },
+  "metadata": {},
+  "source": {}
+}

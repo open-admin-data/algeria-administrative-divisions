@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ044_miliana_ben-allal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن علال",
+      "en": "Ben Allal",
+      "slug": "ben-allal"
+    },
+    "code": {
+      "id": "DZ044_miliana_ben-allal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_miliana",
+      "level": 2,
+      "name": {
+        "local": "مليانة",
+        "en": "Miliana",
+        "slug": "miliana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_miliana",
+        "level": 2,
+        "name": {
+          "local": "مليانة",
+          "en": "Miliana",
+          "slug": "miliana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44040"
+    ],
+    "geo": {
+      "lat": "36.353",
+      "lon": "2.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_miliana_miliana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مليانة",
+      "en": "Miliana",
+      "slug": "miliana"
+    },
+    "code": {
+      "id": "DZ044_miliana_miliana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_miliana",
+      "level": 2,
+      "name": {
+        "local": "مليانة",
+        "en": "Miliana",
+        "slug": "miliana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_miliana",
+        "level": 2,
+        "name": {
+          "local": "مليانة",
+          "en": "Miliana",
+          "slug": "miliana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44003"
+    ],
+    "geo": {
+      "lat": "36.315",
+      "lon": "2.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_tenes_sidi-abderrahmane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عبد الرحمن",
+      "en": "Sidi Abderrahmane",
+      "slug": "sidi-abderrahmane"
+    },
+    "code": {
+      "id": "DZ002_tenes_sidi-abderrahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_tenes",
+      "level": 2,
+      "name": {
+        "local": "تنس",
+        "en": "Tenes",
+        "slug": "tenes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_tenes",
+        "level": 2,
+        "name": {
+          "local": "تنس",
+          "en": "Tenes",
+          "slug": "tenes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02066"
+    ],
+    "geo": {
+      "lat": "34.543",
+      "lon": "1.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_tenes_sidi-akkacha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عكاشة",
+      "en": "Sidi Akkacha",
+      "slug": "sidi-akkacha"
+    },
+    "code": {
+      "id": "DZ002_tenes_sidi-akkacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_tenes",
+      "level": 2,
+      "name": {
+        "local": "تنس",
+        "en": "Tenes",
+        "slug": "tenes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_tenes",
+        "level": 2,
+        "name": {
+          "local": "تنس",
+          "en": "Tenes",
+          "slug": "tenes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02009"
+    ],
+    "geo": {
+      "lat": "36.439",
+      "lon": "1.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_tenes_tenes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تنس",
+      "en": "Tenes",
+      "slug": "tenes"
+    },
+    "code": {
+      "id": "DZ002_tenes_tenes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_tenes",
+      "level": 2,
+      "name": {
+        "local": "تنس",
+        "en": "Tenes",
+        "slug": "tenes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_tenes",
+        "level": 2,
+        "name": {
+          "local": "تنس",
+          "en": "Tenes",
+          "slug": "tenes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02006"
+    ],
+    "geo": {
+      "lat": "36.508",
+      "lon": "1.349"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

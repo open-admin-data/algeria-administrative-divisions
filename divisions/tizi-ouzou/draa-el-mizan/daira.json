@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_draa-el-mizan",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ذراع الميزان",
+    "en": "Draa El Mizan",
+    "slug": "draa-el-mizan"
+  },
+  "code": {
+    "id": "DZ015_draa-el-mizan",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.568",
+    "lon": "3.872"
+  },
+  "metadata": {},
+  "source": {}
+}

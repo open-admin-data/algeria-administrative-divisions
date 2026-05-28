@@ -1,0 +1,45 @@
+{
+  "id": "DZ016013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Deldoul",
+    "en": "Deldoul",
+    "slug": "deldoul-dz016013"
+  },
+  "code": {
+    "id": "DZ016013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.05",
+    "lon": "3.364"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ028008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chelghoum Laid",
+    "en": "Chelghoum Laid",
+    "slug": "chelghoum-laid-dz028008"
+  },
+  "code": {
+    "id": "DZ028008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.165",
+    "lon": "6.174"
+  },
+  "metadata": {},
+  "source": {}
+}

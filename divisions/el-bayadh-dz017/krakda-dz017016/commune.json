@@ -1,0 +1,45 @@
+{
+  "id": "DZ017016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Krakda",
+    "en": "Krakda",
+    "slug": "krakda-dz017016"
+  },
+  "code": {
+    "id": "DZ017016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.367",
+    "lon": "1.035"
+  },
+  "metadata": {},
+  "source": {}
+}

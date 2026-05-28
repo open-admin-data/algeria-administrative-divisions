@@ -1,0 +1,45 @@
+{
+  "id": "DZ039029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Attia",
+    "en": "Ouled Attia",
+    "slug": "ouled-attia-dz039029"
+  },
+  "code": {
+    "id": "DZ039029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.005",
+    "lon": "6.361"
+  },
+  "metadata": {},
+  "source": {}
+}

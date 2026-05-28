@@ -1,0 +1,29 @@
+{
+  "id": "DZ036",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سعيدة",
+    "en": "Saida",
+    "slug": "saida-dz036"
+  },
+  "code": {
+    "id": "DZ036",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.746",
+    "lon": "0.239"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ046_ain-kihel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الكيحل",
+    "en": "Ain Kihel",
+    "slug": "ain-kihel"
+  },
+  "code": {
+    "id": "DZ046_ain-kihel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "عين تيموشنت",
+      "en": "Aïn Témouchent",
+      "slug": "an-tmouchent"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.224",
+    "lon": "-1.167"
+  },
+  "metadata": {},
+  "source": {}
+}

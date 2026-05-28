@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_cheria_cheria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشريعة",
+      "en": "Cheria",
+      "slug": "cheria"
+    },
+    "code": {
+      "id": "DZ012_cheria_cheria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_cheria",
+      "level": 2,
+      "name": {
+        "local": "الشريعة",
+        "en": "Cheria",
+        "slug": "cheria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_cheria",
+        "level": 2,
+        "name": {
+          "local": "الشريعة",
+          "en": "Cheria",
+          "slug": "cheria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12002"
+    ],
+    "geo": {
+      "lat": "35.251",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_cheria_telidjen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ثليجان",
+      "en": "Telidjen",
+      "slug": "telidjen"
+    },
+    "code": {
+      "id": "DZ012_cheria_telidjen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_cheria",
+      "level": 2,
+      "name": {
+        "local": "الشريعة",
+        "en": "Cheria",
+        "slug": "cheria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_cheria",
+        "level": 2,
+        "name": {
+          "local": "الشريعة",
+          "en": "Cheria",
+          "slug": "cheria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12053"
+    ],
+    "geo": {
+      "lat": "35.251",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ024_guelma_bendjarah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن جراح",
+      "en": "Bendjarah",
+      "slug": "bendjarah"
+    },
+    "code": {
+      "id": "DZ024_guelma_bendjarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelma",
+      "level": 2,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelma",
+        "level": 2,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24034"
+    ],
+    "geo": {
+      "lat": "36.456",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelma_guelma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    },
+    "code": {
+      "id": "DZ024_guelma_guelma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelma",
+      "level": 2,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelma",
+        "level": 2,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24000"
+    ],
+    "geo": {
+      "lat": "36.456",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

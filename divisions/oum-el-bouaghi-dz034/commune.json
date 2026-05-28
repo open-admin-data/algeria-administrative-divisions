@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "DZ034001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Babouche",
+      "en": "Ain Babouche",
+      "slug": "ain-babouche-dz034001"
+    },
+    "code": {
+      "id": "DZ034001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.983",
+      "lon": "7.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Beida",
+      "en": "Ain Beida",
+      "slug": "ain-beida-dz034002"
+    },
+    "code": {
+      "id": "DZ034002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.795",
+      "lon": "7.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Diss",
+      "en": "Ain Diss",
+      "slug": "ain-diss-dz034003"
+    },
+    "code": {
+      "id": "DZ034003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.016",
+      "lon": "7.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fakroun",
+      "en": "Ain Fakroun",
+      "slug": "ain-fakroun-dz034004"
+    },
+    "code": {
+      "id": "DZ034004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.946",
+      "lon": "6.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kercha",
+      "en": "Ain Kercha",
+      "slug": "ain-kercha-dz034005"
+    },
+    "code": {
+      "id": "DZ034005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.884",
+      "lon": "6.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain M'Lila",
+      "en": "Ain M'Lila",
+      "slug": "ain-mlila-dz034006"
+    },
+    "code": {
+      "id": "DZ034006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.028",
+      "lon": "6.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zitoun",
+      "en": "Ain Zitoun",
+      "slug": "ain-zitoun-dz034007"
+    },
+    "code": {
+      "id": "DZ034007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.715",
+      "lon": "7.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behir Chergui",
+      "en": "Behir Chergui",
+      "slug": "behir-chergui-dz034008"
+    },
+    "code": {
+      "id": "DZ034008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.819",
+      "lon": "7.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berriche",
+      "en": "Berriche",
+      "slug": "berriche-dz034009"
+    },
+    "code": {
+      "id": "DZ034009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.913",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Chouhada",
+      "en": "Bir Chouhada",
+      "slug": "bir-chouhada-dz034010"
+    },
+    "code": {
+      "id": "DZ034010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.915",
+      "lon": "6.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dhalaa",
+      "en": "Dhalaa",
+      "slug": "dhalaa-dz034011"
+    },
+    "code": {
+      "id": "DZ034011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.513",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Amiria",
+      "en": "El Amiria",
+      "slug": "el-amiria-dz034012"
+    },
+    "code": {
+      "id": "DZ034012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.073",
+      "lon": "6.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Belala",
+      "en": "El Belala",
+      "slug": "el-belala-dz034013"
+    },
+    "code": {
+      "id": "DZ034013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.669",
+      "lon": "7.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Djezia",
+      "en": "El Djezia",
+      "slug": "el-djezia-dz034014"
+    },
+    "code": {
+      "id": "DZ034014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.664",
+      "lon": "7.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Fedjoudj Boughrara Sao",
+      "en": "El Fedjoudj Boughrara Sao",
+      "slug": "el-fedjoudj-boughrara-sao-dz034015"
+    },
+    "code": {
+      "id": "DZ034015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.775",
+      "lon": "6.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Harmilia",
+      "en": "El Harmilia",
+      "slug": "el-harmilia-dz034016"
+    },
+    "code": {
+      "id": "DZ034016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.889",
+      "lon": "6.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Zorg",
+      "en": "El Zorg",
+      "slug": "el-zorg-dz034017"
+    },
+    "code": {
+      "id": "DZ034017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.814",
+      "lon": "7.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fkirina",
+      "en": "Fkirina",
+      "slug": "fkirina-dz034018"
+    },
+    "code": {
+      "id": "DZ034018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.709",
+      "lon": "7.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hanchir Toumghani",
+      "en": "Hanchir Toumghani",
+      "slug": "hanchir-toumghani-dz034019"
+    },
+    "code": {
+      "id": "DZ034019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.939",
+      "lon": "6.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar Sbahi",
+      "en": "Ksar Sbahi",
+      "slug": "ksar-sbahi-dz034020"
+    },
+    "code": {
+      "id": "DZ034020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.066",
+      "lon": "7.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Meskiana",
+      "en": "Meskiana",
+      "slug": "meskiana-dz034021"
+    },
+    "code": {
+      "id": "DZ034021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.627",
+      "lon": "7.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Nini",
+      "en": "Oued Nini",
+      "slug": "oued-nini-dz034022"
+    },
+    "code": {
+      "id": "DZ034022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.584",
+      "lon": "7.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Gacem",
+      "en": "Ouled Gacem",
+      "slug": "ouled-gacem-dz034023"
+    },
+    "code": {
+      "id": "DZ034023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.038",
+      "lon": "6.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Hamla",
+      "en": "Ouled Hamla",
+      "slug": "ouled-hamla-dz034024"
+    },
+    "code": {
+      "id": "DZ034024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.083",
+      "lon": "6.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Zouai",
+      "en": "Ouled Zouai",
+      "slug": "ouled-zouai-dz034025"
+    },
+    "code": {
+      "id": "DZ034025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.877",
+      "lon": "6.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum El Bouaghi",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034026"
+    },
+    "code": {
+      "id": "DZ034026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.84",
+      "lon": "7.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rehia",
+      "en": "Rehia",
+      "slug": "rehia-dz034027"
+    },
+    "code": {
+      "id": "DZ034027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.758",
+      "lon": "7.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sigus",
+      "en": "Sigus",
+      "slug": "sigus-dz034028"
+    },
+    "code": {
+      "id": "DZ034028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.111",
+      "lon": "6.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk Naamane",
+      "en": "Souk Naamane",
+      "slug": "souk-naamane-dz034029"
+    },
+    "code": {
+      "id": "DZ034029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi-dz034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.942",
+      "lon": "6.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

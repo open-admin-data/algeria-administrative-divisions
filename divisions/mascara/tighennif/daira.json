@@ -1,0 +1,47 @@
+{
+  "id": "DZ029_tighennif",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيغنيف",
+    "en": "Tighennif",
+    "slug": "tighennif"
+  },
+  "code": {
+    "id": "DZ029_tighennif",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.402",
+    "lon": "0.358"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_mazouna",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مازونة",
+    "en": "Mazouna",
+    "slug": "mazouna"
+  },
+  "code": {
+    "id": "DZ048_mazouna",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.097",
+    "lon": "0.86"
+  },
+  "metadata": {},
+  "source": {}
+}

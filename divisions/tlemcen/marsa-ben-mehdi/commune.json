@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_marsa-ben-mehdi_msirda-fouaga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسيردة الفواقة",
+      "en": "M'sirda Fouaga",
+      "slug": "msirda-fouaga"
+    },
+    "code": {
+      "id": "DZ013_marsa-ben-mehdi_msirda-fouaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_marsa-ben-mehdi",
+      "level": 2,
+      "name": {
+        "local": "مرسى بن مهيدي",
+        "en": "Marsa Ben Mehdi",
+        "slug": "marsa-ben-mehdi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_marsa-ben-mehdi",
+        "level": 2,
+        "name": {
+          "local": "مرسى بن مهيدي",
+          "en": "Marsa Ben Mehdi",
+          "slug": "marsa-ben-mehdi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13024"
+    ],
+    "geo": {
+      "lat": "35.023",
+      "lon": "-2.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_marsa-ben-mehdi_marsa-ben-mhidi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرسى بن مهيدي",
+      "en": "Marsa Ben M'hidi",
+      "slug": "marsa-ben-mhidi"
+    },
+    "code": {
+      "id": "DZ013_marsa-ben-mehdi_marsa-ben-mhidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_marsa-ben-mehdi",
+      "level": 2,
+      "name": {
+        "local": "مرسى بن مهيدي",
+        "en": "Marsa Ben Mehdi",
+        "slug": "marsa-ben-mehdi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_marsa-ben-mehdi",
+        "level": 2,
+        "name": {
+          "local": "مرسى بن مهيدي",
+          "en": "Marsa Ben Mehdi",
+          "slug": "marsa-ben-mehdi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13017"
+    ],
+    "geo": {
+      "lat": "35.023",
+      "lon": "-2.088"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

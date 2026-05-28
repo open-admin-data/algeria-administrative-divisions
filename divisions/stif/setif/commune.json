@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ019_setif_setif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif"
+    },
+    "code": {
+      "id": "DZ019_setif_setif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_setif",
+      "level": 2,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_setif",
+        "level": 2,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19000"
+    ],
+    "geo": {
+      "lat": "36.192",
+      "lon": "5.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

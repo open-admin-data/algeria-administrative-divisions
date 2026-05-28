@@ -1,0 +1,45 @@
+{
+  "id": "DZ009029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ras El Miaad",
+    "en": "Ras El Miaad",
+    "slug": "ras-el-miaad-dz009029"
+  },
+  "code": {
+    "id": "DZ009029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.014",
+    "lon": "4.583"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+# In Salah — Algeria Administrative Divisions
+
+> 2 dairas, 3 communes
+> Code: DZ053
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### إينغر (In Ghar)
+
+Code: DZ053_in-ghar
+Communes: 1
+
+#### إينغر (Inghar)
+
+Code: DZ053_in-ghar_inghar, Postal: 11004
+
+### عين صالح (In Salah)
+
+Code: DZ053_in-salah
+Communes: 2
+
+#### عين صالح (Ain Salah)
+
+Code: DZ053_in-salah_ain-salah, Postal: 11001
+
+#### فقارة الزوى (Foggaret Ezzoua)
+
+Code: DZ053_in-salah_foggaret-ezzoua, Postal: 11016
+

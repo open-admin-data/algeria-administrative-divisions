@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_el-aouana_el-aouana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العوانة",
+      "en": "El Aouana",
+      "slug": "el-aouana"
+    },
+    "code": {
+      "id": "DZ018_el-aouana_el-aouana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-aouana",
+      "level": 2,
+      "name": {
+        "local": "العوانة",
+        "en": "El Aouana",
+        "slug": "el-aouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-aouana",
+        "level": 2,
+        "name": {
+          "local": "العوانة",
+          "en": "El Aouana",
+          "slug": "el-aouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18005"
+    ],
+    "geo": {
+      "lat": "36.742",
+      "lon": "5.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-aouana_selma-benziada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سلمى بن زيادة",
+      "en": "Selma Benziada",
+      "slug": "selma-benziada"
+    },
+    "code": {
+      "id": "DZ018_el-aouana_selma-benziada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-aouana",
+      "level": 2,
+      "name": {
+        "local": "العوانة",
+        "en": "El Aouana",
+        "slug": "el-aouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-aouana",
+        "level": 2,
+        "name": {
+          "local": "العوانة",
+          "en": "El Aouana",
+          "slug": "el-aouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18049"
+    ],
+    "geo": {
+      "lat": "36.742",
+      "lon": "5.634"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

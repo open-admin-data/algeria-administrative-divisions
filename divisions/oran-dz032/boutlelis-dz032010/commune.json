@@ -1,0 +1,45 @@
+{
+  "id": "DZ032010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boutlelis",
+    "en": "Boutlelis",
+    "slug": "boutlelis-dz032010"
+  },
+  "code": {
+    "id": "DZ032010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.609",
+    "lon": "-0.862"
+  },
+  "metadata": {},
+  "source": {}
+}

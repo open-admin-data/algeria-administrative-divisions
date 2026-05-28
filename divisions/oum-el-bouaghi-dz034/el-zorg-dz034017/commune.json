@@ -1,0 +1,45 @@
+{
+  "id": "DZ034017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Zorg",
+    "en": "El Zorg",
+    "slug": "el-zorg-dz034017"
+  },
+  "code": {
+    "id": "DZ034017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.814",
+    "lon": "7.491"
+  },
+  "metadata": {},
+  "source": {}
+}

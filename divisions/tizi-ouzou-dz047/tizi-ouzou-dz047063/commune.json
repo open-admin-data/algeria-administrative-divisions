@@ -1,0 +1,45 @@
+{
+  "id": "DZ047063",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tizi Ouzou",
+    "en": "Tizi Ouzou",
+    "slug": "tizi-ouzou-dz047063"
+  },
+  "code": {
+    "id": "DZ047063",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.702",
+    "lon": "4.056"
+  },
+  "metadata": {},
+  "source": {}
+}

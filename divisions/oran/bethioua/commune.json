@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ031_bethioua_ain-biya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين البية",
+      "en": "Ain Biya",
+      "slug": "ain-biya"
+    },
+    "code": {
+      "id": "DZ031_bethioua_ain-biya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bethioua",
+      "level": 2,
+      "name": {
+        "local": "بطيوة",
+        "en": "Bethioua",
+        "slug": "bethioua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bethioua",
+        "level": 2,
+        "name": {
+          "local": "بطيوة",
+          "en": "Bethioua",
+          "slug": "bethioua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31040"
+    ],
+    "geo": {
+      "lat": "35.783",
+      "lon": "-0.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bethioua_bethioua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بطيوة",
+      "en": "Bethioua",
+      "slug": "bethioua"
+    },
+    "code": {
+      "id": "DZ031_bethioua_bethioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bethioua",
+      "level": 2,
+      "name": {
+        "local": "بطيوة",
+        "en": "Bethioua",
+        "slug": "bethioua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bethioua",
+        "level": 2,
+        "name": {
+          "local": "بطيوة",
+          "en": "Bethioua",
+          "slug": "bethioua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31015"
+    ],
+    "geo": {
+      "lat": "35.739",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bethioua_marsat-el-hadjadj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرسى الحجاج",
+      "en": "Marsat El Hadjadj",
+      "slug": "marsat-el-hadjadj"
+    },
+    "code": {
+      "id": "DZ031_bethioua_marsat-el-hadjadj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_bethioua",
+      "level": 2,
+      "name": {
+        "local": "بطيوة",
+        "en": "Bethioua",
+        "slug": "bethioua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_bethioua",
+        "level": 2,
+        "name": {
+          "local": "بطيوة",
+          "en": "Bethioua",
+          "slug": "bethioua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31030"
+    ],
+    "geo": {
+      "lat": "35.752",
+      "lon": "-0.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ024_hammam-nbails_dahouara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدهوارة",
+      "en": "Dahouara",
+      "slug": "dahouara"
+    },
+    "code": {
+      "id": "DZ024_hammam-nbails_dahouara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-nbails",
+      "level": 2,
+      "name": {
+        "local": "حمام النبايل",
+        "en": "Hammam N'bails",
+        "slug": "hammam-nbails"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-nbails",
+        "level": 2,
+        "name": {
+          "local": "حمام النبايل",
+          "en": "Hammam N'bails",
+          "slug": "hammam-nbails"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24031"
+    ],
+    "geo": {
+      "lat": "36.319",
+      "lon": "7.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-nbails_hammam-nbail",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام النبايل",
+      "en": "Hammam N'bail",
+      "slug": "hammam-nbail"
+    },
+    "code": {
+      "id": "DZ024_hammam-nbails_hammam-nbail",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-nbails",
+      "level": 2,
+      "name": {
+        "local": "حمام النبايل",
+        "en": "Hammam N'bails",
+        "slug": "hammam-nbails"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-nbails",
+        "level": 2,
+        "name": {
+          "local": "حمام النبايل",
+          "en": "Hammam N'bails",
+          "slug": "hammam-nbails"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24024"
+    ],
+    "geo": {
+      "lat": "36.326",
+      "lon": "7.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-nbails_oued-cheham",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الشحم",
+      "en": "Oued Cheham",
+      "slug": "oued-cheham"
+    },
+    "code": {
+      "id": "DZ024_hammam-nbails_oued-cheham",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-nbails",
+      "level": 2,
+      "name": {
+        "local": "حمام النبايل",
+        "en": "Hammam N'bails",
+        "slug": "hammam-nbails"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-nbails",
+        "level": 2,
+        "name": {
+          "local": "حمام النبايل",
+          "en": "Hammam N'bails",
+          "slug": "hammam-nbails"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24009"
+    ],
+    "geo": {
+      "lat": "36.356",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

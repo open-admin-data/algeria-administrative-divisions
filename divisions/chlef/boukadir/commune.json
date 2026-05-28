@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_boukadir_boukadir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقادير",
+      "en": "Boukadir",
+      "slug": "boukadir"
+    },
+    "code": {
+      "id": "DZ002_boukadir_boukadir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_boukadir",
+      "level": 2,
+      "name": {
+        "local": "بوقادير",
+        "en": "Boukadir",
+        "slug": "boukadir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_boukadir",
+        "level": 2,
+        "name": {
+          "local": "بوقادير",
+          "en": "Boukadir",
+          "slug": "boukadir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02002"
+    ],
+    "geo": {
+      "lat": "36.026",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_boukadir_oued-sly",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي سلي",
+      "en": "Oued Sly",
+      "slug": "oued-sly"
+    },
+    "code": {
+      "id": "DZ002_boukadir_oued-sly",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_boukadir",
+      "level": 2,
+      "name": {
+        "local": "بوقادير",
+        "en": "Boukadir",
+        "slug": "boukadir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_boukadir",
+        "level": 2,
+        "name": {
+          "local": "بوقادير",
+          "en": "Boukadir",
+          "slug": "boukadir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02011"
+    ],
+    "geo": {
+      "lat": "36.082",
+      "lon": "1.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_boukadir_sobha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الصبحة",
+      "en": "Sobha",
+      "slug": "sobha"
+    },
+    "code": {
+      "id": "DZ002_boukadir_sobha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_boukadir",
+      "level": 2,
+      "name": {
+        "local": "بوقادير",
+        "en": "Boukadir",
+        "slug": "boukadir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_boukadir",
+        "level": 2,
+        "name": {
+          "local": "بوقادير",
+          "en": "Boukadir",
+          "slug": "boukadir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02030"
+    ],
+    "geo": {
+      "lat": "36.108",
+      "lon": "1.032"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

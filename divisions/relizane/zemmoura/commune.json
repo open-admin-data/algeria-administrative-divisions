@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ048_zemmoura_beni-dergoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني درقن",
+      "en": "Beni Dergoun",
+      "slug": "beni-dergoun"
+    },
+    "code": {
+      "id": "DZ048_zemmoura_beni-dergoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_zemmoura",
+      "level": 2,
+      "name": {
+        "local": "زمورة",
+        "en": "Zemmoura",
+        "slug": "zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_zemmoura",
+        "level": 2,
+        "name": {
+          "local": "زمورة",
+          "en": "Zemmoura",
+          "slug": "zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48039"
+    ],
+    "geo": {
+      "lat": "35.816",
+      "lon": "0.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_zemmoura_dar-ben-abdelah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دار بن عبد الله",
+      "en": "Dar Ben Abdelah",
+      "slug": "dar-ben-abdelah"
+    },
+    "code": {
+      "id": "DZ048_zemmoura_dar-ben-abdelah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_zemmoura",
+      "level": 2,
+      "name": {
+        "local": "زمورة",
+        "en": "Zemmoura",
+        "slug": "zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_zemmoura",
+        "level": 2,
+        "name": {
+          "local": "زمورة",
+          "en": "Zemmoura",
+          "slug": "zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48044"
+    ],
+    "geo": {
+      "lat": "35.792",
+      "lon": "0.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_zemmoura_zemmoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زمورة",
+      "en": "Zemmoura",
+      "slug": "zemmoura"
+    },
+    "code": {
+      "id": "DZ048_zemmoura_zemmoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_zemmoura",
+      "level": 2,
+      "name": {
+        "local": "زمورة",
+        "en": "Zemmoura",
+        "slug": "zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_zemmoura",
+        "level": 2,
+        "name": {
+          "local": "زمورة",
+          "en": "Zemmoura",
+          "slug": "zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48008"
+    ],
+    "geo": {
+      "lat": "35.768",
+      "lon": "0.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

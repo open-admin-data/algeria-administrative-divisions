@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ007_biskra,بسكرة,Biskra,biskra,DZ007_biskra,2,34.852,5.726
+DZ007_djemorah,جمورة,Djemorah,djemorah,DZ007_djemorah,2,35.038,5.742
+DZ007_el-kantara,القنطرة,El Kantara,el-kantara,DZ007_el-kantara,2,35.189,5.764
+DZ007_el-outaya,الوطاية,El Outaya,el-outaya,DZ007_el-outaya,1,34.98,5.553
+DZ007_foughala,فوغالة,Foughala,foughala,DZ007_foughala,2,34.743,5.273
+DZ007_mechouneche,مشونش,Mechouneche,mechouneche,DZ007_mechouneche,1,34.909,6.001
+DZ007_ourlal,أورلال,Ourlal,ourlal,DZ007_ourlal,5,34.57,5.532
+DZ007_sidi-okba,سيدي عقبة,Sidi Okba,sidi-okba,DZ007_sidi-okba,4,34.714,5.985
+DZ007_tolga,طولقة,Tolga,tolga,DZ007_tolga,4,34.794,5.34
+DZ007_zeribet-el-oued,زريبة الوادي,Zeribet El Oued,zeribet-el-oued,DZ007_zeribet-el-oued,4,34.593,6.491

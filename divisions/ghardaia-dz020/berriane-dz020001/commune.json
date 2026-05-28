@@ -1,0 +1,45 @@
+{
+  "id": "DZ020001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Berriane",
+    "en": "Berriane",
+    "slug": "berriane-dz020001"
+  },
+  "code": {
+    "id": "DZ020001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.892",
+    "lon": "3.753"
+  },
+  "metadata": {},
+  "source": {}
+}

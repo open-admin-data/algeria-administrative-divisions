@@ -1,0 +1,45 @@
+{
+  "id": "DZ020003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Dhayet Bendahoua",
+    "en": "Dhayet Bendahoua",
+    "slug": "dhayet-bendahoua-dz020003"
+  },
+  "code": {
+    "id": "DZ020003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.679",
+    "lon": "3.332"
+  },
+  "metadata": {},
+  "source": {}
+}

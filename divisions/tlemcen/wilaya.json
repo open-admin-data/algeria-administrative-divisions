@@ -1,0 +1,30 @@
+{
+  "id": "DZ013",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تلمسان",
+    "en": "Tlemcen",
+    "slug": "tlemcen"
+  },
+  "code": {
+    "id": "DZ013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 20,
+    "commune": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.673",
+    "lon": "-1.299"
+  },
+  "metadata": {},
+  "source": {}
+}

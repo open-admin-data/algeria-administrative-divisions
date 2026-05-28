@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_barika",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بريكة",
+    "en": "Barika",
+    "slug": "barika"
+  },
+  "code": {
+    "id": "DZ005_barika",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.276",
+    "lon": "5.319"
+  },
+  "metadata": {},
+  "source": {}
+}

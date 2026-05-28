@@ -1,0 +1,45 @@
+{
+  "id": "DZ039008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Bachir",
+    "en": "Beni Bachir",
+    "slug": "beni-bachir-dz039008"
+  },
+  "code": {
+    "id": "DZ039008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.803",
+    "lon": "6.985"
+  },
+  "metadata": {},
+  "source": {}
+}

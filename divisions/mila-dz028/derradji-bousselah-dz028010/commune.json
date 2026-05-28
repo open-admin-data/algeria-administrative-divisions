@@ -1,0 +1,45 @@
+{
+  "id": "DZ028010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Derradji Bousselah",
+    "en": "Derradji Bousselah",
+    "slug": "derradji-bousselah-dz028010"
+  },
+  "code": {
+    "id": "DZ028010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.302",
+    "lon": "5.931"
+  },
+  "metadata": {},
+  "source": {}
+}

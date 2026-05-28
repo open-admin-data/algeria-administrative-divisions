@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ014_meghila_meghila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مغيلة",
+      "en": "Meghila",
+      "slug": "meghila"
+    },
+    "code": {
+      "id": "DZ014_meghila_meghila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_meghila",
+      "level": 2,
+      "name": {
+        "local": "مغيلة",
+        "en": "Meghila",
+        "slug": "meghila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_meghila",
+        "level": 2,
+        "name": {
+          "local": "مغيلة",
+          "en": "Meghila",
+          "slug": "meghila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14024"
+    ],
+    "geo": {
+      "lat": "35.609",
+      "lon": "1.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_meghila_sebt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السبت",
+      "en": "Sebt",
+      "slug": "sebt"
+    },
+    "code": {
+      "id": "DZ014_meghila_sebt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_meghila",
+      "level": 2,
+      "name": {
+        "local": "مغيلة",
+        "en": "Meghila",
+        "slug": "meghila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_meghila",
+        "level": 2,
+        "name": {
+          "local": "مغيلة",
+          "en": "Meghila",
+          "slug": "meghila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.649",
+      "lon": "1.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_meghila_sidi-hosni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي حسني",
+      "en": "Sidi Hosni",
+      "slug": "sidi-hosni"
+    },
+    "code": {
+      "id": "DZ014_meghila_sidi-hosni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_meghila",
+      "level": 2,
+      "name": {
+        "local": "مغيلة",
+        "en": "Meghila",
+        "slug": "meghila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_meghila",
+        "level": 2,
+        "name": {
+          "local": "مغيلة",
+          "en": "Meghila",
+          "slug": "meghila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14029"
+    ],
+    "geo": {
+      "lat": "35.531",
+      "lon": "1.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ052_igli",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "إقلي",
+    "en": "Igli",
+    "slug": "igli"
+  },
+  "code": {
+    "id": "DZ052_igli",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ052",
+    "level": 1,
+    "name": {
+      "local": "بني عباس",
+      "en": "Béni Abbès",
+      "slug": "bni-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ052",
+      "level": 1,
+      "name": {
+        "local": "بني عباس",
+        "en": "Béni Abbès",
+        "slug": "bni-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.479",
+    "lon": "-2.553"
+  },
+  "metadata": {},
+  "source": {}
+}

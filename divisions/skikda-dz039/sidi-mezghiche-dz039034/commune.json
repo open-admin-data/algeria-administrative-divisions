@@ -1,0 +1,45 @@
+{
+  "id": "DZ039034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Mezghiche",
+    "en": "Sidi Mezghiche",
+    "slug": "sidi-mezghiche-dz039034"
+  },
+  "code": {
+    "id": "DZ039034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.712",
+    "lon": "6.708"
+  },
+  "metadata": {},
+  "source": {}
+}

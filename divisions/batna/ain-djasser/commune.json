@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_ain-djasser_ain-djasser",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين جاسر",
+      "en": "Ain Djasser",
+      "slug": "ain-djasser"
+    },
+    "code": {
+      "id": "DZ005_ain-djasser_ain-djasser",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-djasser",
+      "level": 2,
+      "name": {
+        "local": "عين جاسر",
+        "en": "Ain Djasser",
+        "slug": "ain-djasser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-djasser",
+        "level": 2,
+        "name": {
+          "local": "عين جاسر",
+          "en": "Ain Djasser",
+          "slug": "ain-djasser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05032"
+    ],
+    "geo": {
+      "lat": "35.835",
+      "lon": "5.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ain-djasser_el-hassi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحاسي",
+      "en": "El Hassi",
+      "slug": "el-hassi"
+    },
+    "code": {
+      "id": "DZ005_ain-djasser_el-hassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-djasser",
+      "level": 2,
+      "name": {
+        "local": "عين جاسر",
+        "en": "Ain Djasser",
+        "slug": "ain-djasser"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-djasser",
+        "level": 2,
+        "name": {
+          "local": "عين جاسر",
+          "en": "Ain Djasser",
+          "slug": "ain-djasser"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05116"
+    ],
+    "geo": {
+      "lat": "35.741",
+      "lon": "1.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

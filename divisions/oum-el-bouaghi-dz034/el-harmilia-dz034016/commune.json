@@ -1,0 +1,45 @@
+{
+  "id": "DZ034016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Harmilia",
+    "en": "El Harmilia",
+    "slug": "el-harmilia-dz034016"
+  },
+  "code": {
+    "id": "DZ034016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.889",
+    "lon": "6.603"
+  },
+  "metadata": {},
+  "source": {}
+}

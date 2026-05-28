@@ -1,0 +1,45 @@
+{
+  "id": "DZ048039",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Riah",
+    "en": "Ouled Riah",
+    "slug": "ouled-riah-dz048039"
+  },
+  "code": {
+    "id": "DZ048039",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.954",
+    "lon": "-1.546"
+  },
+  "metadata": {},
+  "source": {}
+}

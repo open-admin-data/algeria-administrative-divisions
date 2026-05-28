@@ -1,0 +1,45 @@
+{
+  "id": "DZ043034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Bakhti",
+    "en": "Sidi Bakhti",
+    "slug": "sidi-bakhti-dz043034"
+  },
+  "code": {
+    "id": "DZ043034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.24",
+    "lon": "0.995"
+  },
+  "metadata": {},
+  "source": {}
+}

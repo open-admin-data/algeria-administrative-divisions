@@ -1,0 +1,45 @@
+{
+  "id": "DZ038050",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tessala",
+    "en": "Tessala",
+    "slug": "tessala-dz038050"
+  },
+  "code": {
+    "id": "DZ038050",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.276",
+    "lon": "-0.8"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ044_ain-lechiakh",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الاشياخ",
+    "en": "Ain Lechiakh",
+    "slug": "ain-lechiakh"
+  },
+  "code": {
+    "id": "DZ044_ain-lechiakh",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ044",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلة",
+      "en": "Aïn Defla",
+      "slug": "an-defla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.117",
+    "lon": "4.047"
+  },
+  "metadata": {},
+  "source": {}
+}

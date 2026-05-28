@@ -1,0 +1,30 @@
+{
+  "id": "DZ052",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "بني عباس",
+    "en": "Béni Abbès",
+    "slug": "bni-abbs"
+  },
+  "code": {
+    "id": "DZ052",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 5,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.887",
+    "lon": "-1.671"
+  },
+  "metadata": {},
+  "source": {}
+}

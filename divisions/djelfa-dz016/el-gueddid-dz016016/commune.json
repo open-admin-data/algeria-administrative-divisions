@@ -1,0 +1,45 @@
+{
+  "id": "DZ016016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Gueddid",
+    "en": "El Gueddid",
+    "slug": "el-gueddid-dz016016"
+  },
+  "code": {
+    "id": "DZ016016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.679",
+    "lon": "2.531"
+  },
+  "metadata": {},
+  "source": {}
+}

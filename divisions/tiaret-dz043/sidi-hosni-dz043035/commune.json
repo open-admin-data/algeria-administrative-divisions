@@ -1,0 +1,45 @@
+{
+  "id": "DZ043035",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Hosni",
+    "en": "Sidi Hosni",
+    "slug": "sidi-hosni-dz043035"
+  },
+  "code": {
+    "id": "DZ043035",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.531",
+    "lon": "1.505"
+  },
+  "metadata": {},
+  "source": {}
+}

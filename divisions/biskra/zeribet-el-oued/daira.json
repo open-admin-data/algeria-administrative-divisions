@@ -1,0 +1,47 @@
+{
+  "id": "DZ007_zeribet-el-oued",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "زريبة الوادي",
+    "en": "Zeribet El Oued",
+    "slug": "zeribet-el-oued"
+  },
+  "code": {
+    "id": "DZ007_zeribet-el-oued",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.593",
+    "lon": "6.491"
+  },
+  "metadata": {},
+  "source": {}
+}

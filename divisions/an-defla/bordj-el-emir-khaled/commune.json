@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_bordj-el-emir-khaled_bir-ould-khelifa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر ولد خليفة",
+      "en": "Bir-Ould-Khelifa",
+      "slug": "bir-ould-khelifa"
+    },
+    "code": {
+      "id": "DZ044_bordj-el-emir-khaled_bir-ould-khelifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bordj-el-emir-khaled",
+      "level": 2,
+      "name": {
+        "local": "برج الأمير خالد",
+        "en": "Bordj El Emir Khaled",
+        "slug": "bordj-el-emir-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bordj-el-emir-khaled",
+        "level": 2,
+        "name": {
+          "local": "برج الأمير خالد",
+          "en": "Bordj El Emir Khaled",
+          "slug": "bordj-el-emir-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44043"
+    ],
+    "geo": {
+      "lat": "36.044",
+      "lon": "2.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bordj-el-emir-khaled_bordj-emir-khaled",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الأمير خالد",
+      "en": "Bordj-Emir-Khaled",
+      "slug": "bordj-emir-khaled"
+    },
+    "code": {
+      "id": "DZ044_bordj-el-emir-khaled_bordj-emir-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bordj-el-emir-khaled",
+      "level": 2,
+      "name": {
+        "local": "برج الأمير خالد",
+        "en": "Bordj El Emir Khaled",
+        "slug": "bordj-el-emir-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bordj-el-emir-khaled",
+        "level": 2,
+        "name": {
+          "local": "برج الأمير خالد",
+          "en": "Bordj El Emir Khaled",
+          "slug": "bordj-el-emir-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44021"
+    ],
+    "geo": {
+      "lat": "36.104",
+      "lon": "2.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bordj-el-emir-khaled_tarik-ibn-ziad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طارق بن زياد",
+      "en": "Tarik-Ibn-Ziad",
+      "slug": "tarik-ibn-ziad"
+    },
+    "code": {
+      "id": "DZ044_bordj-el-emir-khaled_tarik-ibn-ziad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bordj-el-emir-khaled",
+      "level": 2,
+      "name": {
+        "local": "برج الأمير خالد",
+        "en": "Bordj El Emir Khaled",
+        "slug": "bordj-el-emir-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bordj-el-emir-khaled",
+        "level": 2,
+        "name": {
+          "local": "برج الأمير خالد",
+          "en": "Bordj El Emir Khaled",
+          "slug": "bordj-el-emir-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44029"
+    ],
+    "geo": {
+      "lat": "35.984",
+      "lon": "2.153"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

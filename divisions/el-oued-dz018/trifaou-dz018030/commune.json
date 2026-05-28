@@ -1,0 +1,45 @@
+{
+  "id": "DZ018030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Trifaou",
+    "en": "Trifaou",
+    "slug": "trifaou-dz018030"
+  },
+  "code": {
+    "id": "DZ018030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.461",
+    "lon": "7.066"
+  },
+  "metadata": {},
+  "source": {}
+}

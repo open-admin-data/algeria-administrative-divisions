@@ -1,0 +1,45 @@
+{
+  "id": "DZ006053",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taxlent",
+    "en": "Taxlent",
+    "slug": "taxlent-dz006053"
+  },
+  "code": {
+    "id": "DZ006053",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.564",
+    "lon": "5.799"
+  },
+  "metadata": {},
+  "source": {}
+}

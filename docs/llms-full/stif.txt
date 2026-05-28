@@ -1,0 +1,349 @@
+# Sétif — Algeria Administrative Divisions
+
+> 20 dairas, 60 communes
+> Code: DZ019
+> Coordinates: 36.23, 5.41
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين أرنات (Ain Arnat)
+
+Code: DZ019_ain-arnat, Coordinates: 36.217, 5.317
+Communes: 4
+
+#### عين عباسة (Ain Abessa)
+
+Code: DZ019_ain-arnat_ain-abessa, Postal: 19016, Coordinates: 36.311, 5.3
+
+#### عين أرنات (Ain Arnat)
+
+Code: DZ019_ain-arnat_ain-arnat, Postal: 19017, Coordinates: 36.18, 5.253
+
+#### أوريسيا (El Ouricia)
+
+Code: DZ019_ain-arnat_el-ouricia, Postal: 19047, Coordinates: 36.272, 5.402
+
+#### مزلوق (Mezloug)
+
+Code: DZ019_ain-arnat_mezloug, Postal: 19056, Coordinates: 36.104, 5.315
+
+### عين أزال (Ain Azel)
+
+Code: DZ019_ain-azel, Coordinates: 35.923, 5.562
+Communes: 4
+
+#### عين أزال (Ain Azel)
+
+Code: DZ019_ain-azel_ain-azel, Postal: 19007, Coordinates: 35.923, 5.562
+
+#### عين الحجر (Ain Lahdjar)
+
+Code: DZ019_ain-azel_ain-lahdjar, Postal: 19018, Coordinates: 35.963, 5.594
+
+#### بيضاء برج (Beidha Bordj)
+
+Code: DZ019_ain-azel_beidha-bordj, Postal: 19021, Coordinates: 35.841, 5.631
+
+#### بئر حدادة (Bir Haddada)
+
+Code: DZ019_ain-azel_bir-haddada, Postal: 19039, Coordinates: 35.964, 5.461
+
+### عين الكبيرة (Ain El Kebira)
+
+Code: DZ019_ain-el-kebira, Coordinates: 36.366, 5.532
+Communes: 3
+
+#### عين الكبيرة (Ain El Kebira)
+
+Code: DZ019_ain-el-kebira_ain-el-kebira, Postal: 19008, Coordinates: 36.381, 5.52
+
+#### الدهامشة (Dehamcha)
+
+Code: DZ019_ain-el-kebira_dehamcha, Postal: 19041, Coordinates: 36.381, 5.62
+
+#### أولاد عدوان (Ouled Addouane)
+
+Code: DZ019_ain-el-kebira_ouled-addouane, Postal: 19053, Coordinates: 36.336, 5.456
+
+### عين ولمان (Ain Oulmene)
+
+Code: DZ019_ain-oulmene, Coordinates: 36.039, 5.28
+Communes: 4
+
+#### عين ولمان (Ain Oulmene)
+
+Code: DZ019_ain-oulmene_ain-oulmene, Postal: 19002, Coordinates: 36.039, 5.28
+
+#### قلال (Guellal)
+
+Code: DZ019_ain-oulmene_guellal, Postal: 19050, Coordinates: 36.039, 5.28
+
+#### قصر الابطال (Kasr El Abtal)
+
+Code: DZ019_ain-oulmene_kasr-el-abtal, Postal: 19054, Coordinates: 36.039, 5.28
+
+#### أولاد سي أحمد (Ouled Si Ahmed)
+
+Code: DZ019_ain-oulmene_ouled-si-ahmed, Postal: 19121, Coordinates: 36.039, 5.28
+
+### عموشة (Amoucha)
+
+Code: DZ019_amoucha, Coordinates: 36.438, 5.397
+Communes: 3
+
+#### عموشة (Amoucha)
+
+Code: DZ019_amoucha_amoucha, Postal: 19009, Coordinates: 36.379, 5.42
+
+#### واد البارد (Oued El Bared)
+
+Code: DZ019_amoucha_oued-el-bared, Postal: 19115, Coordinates: 36.5, 5.405
+
+#### تيزي نبشار (Tizi N&#39;bechar)
+
+Code: DZ019_amoucha_tizi-nbechar, Postal: 19068, Coordinates: 36.434, 5.365
+
+### بابور (Babor)
+
+Code: DZ019_babor, Coordinates: 36.491, 5.559
+Communes: 2
+
+#### بابور (Babor)
+
+Code: DZ019_babor_babor, Postal: 19020, Coordinates: 36.504, 5.535
+
+#### سرج الغول (Serdj-El-Ghoul)
+
+Code: DZ019_babor_serdj-el-ghoul, Postal: 19086, Coordinates: 36.478, 5.583
+
+### بني عزيز (Beni Aziz)
+
+Code: DZ019_beni-aziz, Coordinates: 36.451, 5.697
+Communes: 3
+
+#### عين السبت (Ain-Sebt)
+
+Code: DZ019_beni-aziz_ain-sebt, Postal: 19033, Coordinates: 36.497, 5.722
+
+#### بني عزيز (Beni-Aziz)
+
+Code: DZ019_beni-aziz_beni-aziz, Postal: 19010, Coordinates: 36.478, 5.656
+
+#### معاوية (Maaouia)
+
+Code: DZ019_beni-aziz_maaouia, Postal: 19055, Coordinates: 36.377, 5.713
+
+### بني ورتيلان (Beni Ourtilane)
+
+Code: DZ019_beni-ourtilane, Coordinates: 36.493, 4.905
+Communes: 4
+
+#### عين لقراج (Ain-Legradj)
+
+Code: DZ019_beni-ourtilane_ain-legradj, Postal: 19035, Coordinates: 36.493, 4.905
+
+#### بني شبانة (Beni Chebana)
+
+Code: DZ019_beni-ourtilane_beni-chebana, Postal: 19031, Coordinates: 36.47, 4.913
+
+#### بني ورتيلان (Beni Ourtilane)
+
+Code: DZ019_beni-ourtilane_beni-ourtilane, Postal: 19011, Coordinates: 36.493, 4.905
+
+#### بني موحلي (Beni-Mouhli)
+
+Code: DZ019_beni-ourtilane_beni-mouhli, Postal: 19038, Coordinates: 36.516, 4.896
+
+### بئر العرش (Bir El Arch)
+
+Code: DZ019_bir-el-arch, Coordinates: 36.198, 5.805
+Communes: 4
+
+#### بلاعة (Bellaa)
+
+Code: DZ019_bir-el-arch_bellaa, Postal: 19022, Coordinates: 36.222, 5.873
+
+#### بئر العرش (Bir-El-Arch)
+
+Code: DZ019_bir-el-arch_bir-el-arch, Postal: 19024, Coordinates: 36.103, 5.801
+
+#### الولجة (El-Ouldja)
+
+Code: DZ019_bir-el-arch_el-ouldja, Postal: 19046, Coordinates: 36.198, 5.805
+
+#### تاشودة (Tachouda)
+
+Code: DZ019_bir-el-arch_tachouda, Postal: 19125, Coordinates: 36.268, 5.741
+
+### بوعنداس (Bouandas)
+
+Code: DZ019_bouandas, Coordinates: 36.513, 5.09
+Communes: 4
+
+#### أيت نوال مزادة (Ait Naoual Mezada)
+
+Code: DZ019_bouandas_ait-naoual-mezada, Postal: 19076, Coordinates: 36.513, 5.09
+
+#### ايت تيزي (Ait-Tizi)
+
+Code: DZ019_bouandas_ait-tizi, Postal: 19077, Coordinates: 36.538, 5.157
+
+#### بوعنداس (Bouandas)
+
+Code: DZ019_bouandas_bouandas, Postal: 19012, Coordinates: 36.506, 5.105
+
+#### بوسلام (Bousselam)
+
+Code: DZ019_bouandas_bousselam, Postal: 19052, Coordinates: 36.496, 5.009
+
+### بوقاعة (Bougaa)
+
+Code: DZ019_bougaa, Coordinates: 36.333, 5.161
+Communes: 3
+
+#### عين الروى (Ain-Roua)
+
+Code: DZ019_bougaa_ain-roua, Postal: 19019, Coordinates: 36.322, 5.208
+
+#### بني وسين (Beni Oussine)
+
+Code: DZ019_bougaa_beni-oussine, Postal: 19037, Coordinates: 36.333, 5.161
+
+#### بوقاعة (Bougaa)
+
+Code: DZ019_bougaa_bougaa, Postal: 19003, Coordinates: 36.344, 5.114
+
+### جميلة (Djemila)
+
+Code: DZ019_djemila, Coordinates: 36.317, 5.659
+Communes: 2
+
+#### بني فودة (Beni Fouda)
+
+Code: DZ019_djemila_beni-fouda, Postal: 19023, Coordinates: 36.283, 5.554
+
+#### جميلة (Djemila)
+
+Code: DZ019_djemila_djemila, Postal: 19025, Coordinates: 36.351, 5.765
+
+### العلمة (El Eulma)
+
+Code: DZ019_el-eulma, Coordinates: 36.126, 5.688
+Communes: 3
+
+#### بازر سكرة (Bazer-Sakra)
+
+Code: DZ019_el-eulma_bazer-sakra, Postal: 19036, Coordinates: 36.083, 5.678
+
+#### العلمة (El Eulma)
+
+Code: DZ019_el-eulma_el-eulma, Postal: 19001, Coordinates: 36.169, 5.699
+
+#### قلتة زرقاء (Guelta Zerka)
+
+Code: DZ019_el-eulma_guelta-zerka, Coordinates: 36.126, 5.688
+
+### قنزات (Guenzet)
+
+Code: DZ019_guenzet, Coordinates: 36.349, 4.925
+Communes: 2
+
+#### قنزات (Guenzet)
+
+Code: DZ019_guenzet_guenzet, Postal: 19026, Coordinates: 36.349, 4.925
+
+#### حربيل (Harbil)
+
+Code: DZ019_guenzet_harbil, Postal: 19032, Coordinates: 36.349, 4.925
+
+### قجال (Guidjel)
+
+Code: DZ019_guidjel, Coordinates: 36.134, 5.517
+Communes: 2
+
+#### قجال (Guidjel)
+
+Code: DZ019_guidjel_guidjel, Postal: 19027, Coordinates: 36.083, 5.492
+
+#### أولاد صابر (Ouled Sabor)
+
+Code: DZ019_guidjel_ouled-sabor, Postal: 19120, Coordinates: 36.185, 5.541
+
+### حمام قرقور (Hammam Guergour)
+
+Code: DZ019_hammam-guergour, Coordinates: 36.387, 5.016
+Communes: 2
+
+#### ذراع قبيلة (Draa-Kebila)
+
+Code: DZ019_hammam-guergour_draa-kebila, Postal: 19029, Coordinates: 36.424, 4.999
+
+#### حمام قرقور (Hammam Guergour)
+
+Code: DZ019_hammam-guergour_hammam-guergour, Postal: 19051, Coordinates: 36.35, 5.033
+
+### حمام السخنة (Hammam Sokhna)
+
+Code: DZ019_hammam-sokhna, Coordinates: 35.946, 5.829
+Communes: 3
+
+#### حمام السخنة (Hamam Soukhna)
+
+Code: DZ019_hammam-sokhna_hamam-soukhna, Postal: 19059, Coordinates: 35.946, 5.829
+
+#### الطاية (Taya)
+
+Code: DZ019_hammam-sokhna_taya, Postal: 19067, Coordinates: 35.926, 5.948
+
+#### التلة (Tella)
+
+Code: DZ019_hammam-sokhna_tella, Postal: 19087, Coordinates: 35.965, 5.709
+
+### ماوكلان (Maoklane)
+
+Code: DZ019_maoklane, Coordinates: 36.455, 5.119
+Communes: 2
+
+#### ماوكلان (Maouaklane)
+
+Code: DZ019_maoklane_maouaklane, Postal: 19028, Coordinates: 36.455, 5.119
+
+#### تالة إيفاسن (Tala-Ifacene)
+
+Code: DZ019_maoklane_tala-ifacene, Postal: 19069, Coordinates: 36.455, 5.119
+
+### صالح باي (Salah Bey)
+
+Code: DZ019_salah-bey, Coordinates: 35.755, 5.269
+Communes: 5
+
+#### بوطالب (Boutaleb)
+
+Code: DZ019_salah-bey_boutaleb, Postal: 19089, Coordinates: 35.684, 5.247
+
+#### الحامة (Hamma)
+
+Code: DZ019_salah-bey_hamma, Postal: 19015, Coordinates: 35.69, 5.385
+
+#### أولاد تبان (Ouled Tebben)
+
+Code: DZ019_salah-bey_ouled-tebben, Postal: 19030, Coordinates: 35.791, 5.101
+
+#### الرصفة (Rosfa)
+
+Code: DZ019_salah-bey_rosfa, Postal: 19060, Coordinates: 35.782, 5.254
+
+#### صالح باي (Salah Bey)
+
+Code: DZ019_salah-bey_salah-bey, Postal: 19013, Coordinates: 35.826, 5.36
+
+### سطيف (Setif)
+
+Code: DZ019_setif, Coordinates: 36.192, 5.418
+Communes: 1
+
+#### سطيف (Setif)
+
+Code: DZ019_setif_setif, Postal: 19000, Coordinates: 36.192, 5.418
+

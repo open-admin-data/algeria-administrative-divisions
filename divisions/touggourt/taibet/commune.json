@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ055_taibet_benaceur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن ناصر",
+      "en": "Benaceur",
+      "slug": "benaceur"
+    },
+    "code": {
+      "id": "DZ055_taibet_benaceur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_taibet",
+      "level": 2,
+      "name": {
+        "local": "الطيبات",
+        "en": "Taibet",
+        "slug": "taibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_taibet",
+        "level": 2,
+        "name": {
+          "local": "الطيبات",
+          "en": "Taibet",
+          "slug": "taibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30020"
+    ],
+    "geo": {
+      "lat": "32.61",
+      "lon": "6.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_taibet_mnaguer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المنقر",
+      "en": "M'naguer",
+      "slug": "mnaguer"
+    },
+    "code": {
+      "id": "DZ055_taibet_mnaguer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_taibet",
+      "level": 2,
+      "name": {
+        "local": "الطيبات",
+        "en": "Taibet",
+        "slug": "taibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_taibet",
+        "level": 2,
+        "name": {
+          "local": "الطيبات",
+          "en": "Taibet",
+          "slug": "taibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30029"
+    ],
+    "geo": {
+      "lat": "33.128",
+      "lon": "6.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_taibet_taibet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطيبات",
+      "en": "Taibet",
+      "slug": "taibet"
+    },
+    "code": {
+      "id": "DZ055_taibet_taibet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_taibet",
+      "level": 2,
+      "name": {
+        "local": "الطيبات",
+        "en": "Taibet",
+        "slug": "taibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_taibet",
+        "level": 2,
+        "name": {
+          "local": "الطيبات",
+          "en": "Taibet",
+          "slug": "taibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30015"
+    ],
+    "geo": {
+      "lat": "33.093",
+      "lon": "6.377"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

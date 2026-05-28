@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ036_drean_chebaita-mokhtar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شبيطة مختار",
+      "en": "Chebaita Mokhtar",
+      "slug": "chebaita-mokhtar"
+    },
+    "code": {
+      "id": "DZ036_drean_chebaita-mokhtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_drean",
+      "level": 2,
+      "name": {
+        "local": "الذرعان",
+        "en": "Drean",
+        "slug": "drean"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_drean",
+        "level": 2,
+        "name": {
+          "local": "الذرعان",
+          "en": "Drean",
+          "slug": "drean"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36013"
+    ],
+    "geo": {
+      "lat": "36.65",
+      "lon": "7.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_drean_chihani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شحاني",
+      "en": "Chihani",
+      "slug": "chihani"
+    },
+    "code": {
+      "id": "DZ036_drean_chihani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_drean",
+      "level": 2,
+      "name": {
+        "local": "الذرعان",
+        "en": "Drean",
+        "slug": "drean"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_drean",
+        "level": 2,
+        "name": {
+          "local": "الذرعان",
+          "en": "Drean",
+          "slug": "drean"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36014"
+    ],
+    "geo": {
+      "lat": "36.611",
+      "lon": "7.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_drean_drean",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الذرعـان",
+      "en": "Drean",
+      "slug": "drean"
+    },
+    "code": {
+      "id": "DZ036_drean_drean",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_drean",
+      "level": 2,
+      "name": {
+        "local": "الذرعان",
+        "en": "Drean",
+        "slug": "drean"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_drean",
+        "level": 2,
+        "name": {
+          "local": "الذرعان",
+          "en": "Drean",
+          "slug": "drean"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36001"
+    ],
+    "geo": {
+      "lat": "36.688",
+      "lon": "7.724"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

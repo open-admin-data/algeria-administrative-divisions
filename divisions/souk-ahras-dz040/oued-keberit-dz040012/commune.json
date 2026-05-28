@@ -1,0 +1,45 @@
+{
+  "id": "DZ040012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Keberit",
+    "en": "Oued Keberit",
+    "slug": "oued-keberit-dz040012"
+  },
+  "code": {
+    "id": "DZ040012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.979",
+    "lon": "7.854"
+  },
+  "metadata": {},
+  "source": {}
+}

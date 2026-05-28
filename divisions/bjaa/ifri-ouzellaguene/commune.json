@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ006_ifri-ouzellaguene_ouzellaguen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أوزلاقن",
+      "en": "Ouzellaguen",
+      "slug": "ouzellaguen"
+    },
+    "code": {
+      "id": "DZ006_ifri-ouzellaguene_ouzellaguen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_ifri-ouzellaguene",
+      "level": 2,
+      "name": {
+        "local": "إفري أوزلاقن",
+        "en": "Ifri Ouzellaguene",
+        "slug": "ifri-ouzellaguene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_ifri-ouzellaguene",
+        "level": 2,
+        "name": {
+          "local": "إفري أوزلاقن",
+          "en": "Ifri Ouzellaguene",
+          "slug": "ifri-ouzellaguene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06010"
+    ],
+    "geo": {
+      "lat": "36.549",
+      "lon": "4.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

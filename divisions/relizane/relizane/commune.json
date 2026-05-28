@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ048_relizane_bendaoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن داود",
+      "en": "Bendaoud",
+      "slug": "bendaoud"
+    },
+    "code": {
+      "id": "DZ048_relizane_bendaoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_relizane",
+      "level": 2,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_relizane",
+        "level": 2,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48053"
+    ],
+    "geo": {
+      "lat": "36.056",
+      "lon": "4.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_relizane_relizane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    },
+    "code": {
+      "id": "DZ048_relizane_relizane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_relizane",
+      "level": 2,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_relizane",
+        "level": 2,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48000"
+    ],
+    "geo": {
+      "lat": "35.728",
+      "lon": "0.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

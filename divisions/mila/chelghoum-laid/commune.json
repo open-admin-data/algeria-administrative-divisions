@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_chelghoum-laid_ain-mellouk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الملوك",
+      "en": "Ain Mellouk",
+      "slug": "ain-mellouk"
+    },
+    "code": {
+      "id": "DZ043_chelghoum-laid_ain-mellouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_chelghoum-laid",
+      "level": 2,
+      "name": {
+        "local": "شلغوم العيد",
+        "en": "Chelghoum Laid",
+        "slug": "chelghoum-laid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_chelghoum-laid",
+        "level": 2,
+        "name": {
+          "local": "شلغوم العيد",
+          "en": "Chelghoum Laid",
+          "slug": "chelghoum-laid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43015"
+    ],
+    "geo": {
+      "lat": "36.275",
+      "lon": "6.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_chelghoum-laid_chelghoum-laid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلغوم العيد",
+      "en": "Chelghoum Laid",
+      "slug": "chelghoum-laid"
+    },
+    "code": {
+      "id": "DZ043_chelghoum-laid_chelghoum-laid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_chelghoum-laid",
+      "level": 2,
+      "name": {
+        "local": "شلغوم العيد",
+        "en": "Chelghoum Laid",
+        "slug": "chelghoum-laid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_chelghoum-laid",
+        "level": 2,
+        "name": {
+          "local": "شلغوم العيد",
+          "en": "Chelghoum Laid",
+          "slug": "chelghoum-laid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43001"
+    ],
+    "geo": {
+      "lat": "36.165",
+      "lon": "6.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_chelghoum-laid_oued-athmenia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي العثمانية",
+      "en": "Oued Athmenia",
+      "slug": "oued-athmenia"
+    },
+    "code": {
+      "id": "DZ043_chelghoum-laid_oued-athmenia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_chelghoum-laid",
+      "level": 2,
+      "name": {
+        "local": "شلغوم العيد",
+        "en": "Chelghoum Laid",
+        "slug": "chelghoum-laid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_chelghoum-laid",
+        "level": 2,
+        "name": {
+          "local": "شلغوم العيد",
+          "en": "Chelghoum Laid",
+          "slug": "chelghoum-laid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43005"
+    ],
+    "geo": {
+      "lat": "36.22",
+      "lon": "6.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

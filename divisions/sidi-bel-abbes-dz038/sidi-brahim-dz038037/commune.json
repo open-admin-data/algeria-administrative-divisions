@@ -1,0 +1,45 @@
+{
+  "id": "DZ038037",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Brahim",
+    "en": "Sidi Brahim",
+    "slug": "sidi-brahim-dz038037"
+  },
+  "code": {
+    "id": "DZ038037",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.263",
+    "lon": "-0.569"
+  },
+  "metadata": {},
+  "source": {}
+}

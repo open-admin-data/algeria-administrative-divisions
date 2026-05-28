@@ -1,0 +1,45 @@
+{
+  "id": "DZ018016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "M'Rara",
+    "en": "M'Rara",
+    "slug": "mrara-dz018016"
+  },
+  "code": {
+    "id": "DZ018016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.596",
+    "lon": "5.432"
+  },
+  "metadata": {},
+  "source": {}
+}

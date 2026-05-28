@@ -1,0 +1,45 @@
+{
+  "id": "DZ016018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Khemis",
+    "en": "El Khemis",
+    "slug": "el-khemis-dz016018"
+  },
+  "code": {
+    "id": "DZ016018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.401",
+    "lon": "2.695"
+  },
+  "metadata": {},
+  "source": {}
+}

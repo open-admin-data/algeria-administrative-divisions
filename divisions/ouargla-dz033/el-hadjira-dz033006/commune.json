@@ -1,0 +1,45 @@
+{
+  "id": "DZ033006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hadjira",
+    "en": "El Hadjira",
+    "slug": "el-hadjira-dz033006"
+  },
+  "code": {
+    "id": "DZ033006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.749",
+    "lon": "5.835"
+  },
+  "metadata": {},
+  "source": {}
+}

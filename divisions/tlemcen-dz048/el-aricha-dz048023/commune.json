@@ -1,0 +1,45 @@
+{
+  "id": "DZ048023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Aricha",
+    "en": "El Aricha",
+    "slug": "el-aricha-dz048023"
+  },
+  "code": {
+    "id": "DZ048023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.394",
+    "lon": "-1.202"
+  },
+  "metadata": {},
+  "source": {}
+}

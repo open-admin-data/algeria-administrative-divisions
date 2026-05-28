@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ026_chellalat-el-adhaoura_ain-ouksir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين اقصير",
+      "en": "Ain Ouksir",
+      "slug": "ain-ouksir"
+    },
+    "code": {
+      "id": "DZ026_chellalat-el-adhaoura_ain-ouksir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chellalat-el-adhaoura",
+      "level": 2,
+      "name": {
+        "local": "شلالة العذاورة",
+        "en": "Chellalat El Adhaoura",
+        "slug": "chellalat-el-adhaoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chellalat-el-adhaoura",
+        "level": 2,
+        "name": {
+          "local": "شلالة العذاورة",
+          "en": "Chellalat El Adhaoura",
+          "slug": "chellalat-el-adhaoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26048"
+    ],
+    "geo": {
+      "lat": "35.78",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chellalat-el-adhaoura_chelalet-el-adhaoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلالة العذاورة",
+      "en": "Chelalet El Adhaoura",
+      "slug": "chelalet-el-adhaoura"
+    },
+    "code": {
+      "id": "DZ026_chellalat-el-adhaoura_chelalet-el-adhaoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chellalat-el-adhaoura",
+      "level": 2,
+      "name": {
+        "local": "شلالة العذاورة",
+        "en": "Chellalat El Adhaoura",
+        "slug": "chellalat-el-adhaoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chellalat-el-adhaoura",
+        "level": 2,
+        "name": {
+          "local": "شلالة العذاورة",
+          "en": "Chellalat El Adhaoura",
+          "slug": "chellalat-el-adhaoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26007"
+    ],
+    "geo": {
+      "lat": "35.914",
+      "lon": "3.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chellalat-el-adhaoura_cheniguel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شنيقل",
+      "en": "Cheniguel",
+      "slug": "cheniguel"
+    },
+    "code": {
+      "id": "DZ026_chellalat-el-adhaoura_cheniguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chellalat-el-adhaoura",
+      "level": 2,
+      "name": {
+        "local": "شلالة العذاورة",
+        "en": "Chellalat El Adhaoura",
+        "slug": "chellalat-el-adhaoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chellalat-el-adhaoura",
+        "level": 2,
+        "name": {
+          "local": "شلالة العذاورة",
+          "en": "Chellalat El Adhaoura",
+          "slug": "chellalat-el-adhaoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26057"
+    ],
+    "geo": {
+      "lat": "35.962",
+      "lon": "3.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chellalat-el-adhaoura_tafraout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تفراوت",
+      "en": "Tafraout",
+      "slug": "tafraout"
+    },
+    "code": {
+      "id": "DZ026_chellalat-el-adhaoura_tafraout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chellalat-el-adhaoura",
+      "level": 2,
+      "name": {
+        "local": "شلالة العذاورة",
+        "en": "Chellalat El Adhaoura",
+        "slug": "chellalat-el-adhaoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chellalat-el-adhaoura",
+        "level": 2,
+        "name": {
+          "local": "شلالة العذاورة",
+          "en": "Chellalat El Adhaoura",
+          "slug": "chellalat-el-adhaoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26074"
+    ],
+    "geo": {
+      "lat": "35.999",
+      "lon": "3.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

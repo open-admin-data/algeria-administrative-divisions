@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_ksar-el-hirane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قصر الحيران",
+    "en": "Ksar El Hirane",
+    "slug": "ksar-el-hirane"
+  },
+  "code": {
+    "id": "DZ003_ksar-el-hirane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.707",
+    "lon": "3.221"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_theniet-el-abed",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ثنية العابد",
+    "en": "Theniet El Abed",
+    "slug": "theniet-el-abed"
+  },
+  "code": {
+    "id": "DZ005_theniet-el-abed",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.321",
+    "lon": "6.263"
+  },
+  "metadata": {},
+  "source": {}
+}

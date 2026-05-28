@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ050_bordj-badji-mokhtar_bordj-badji-mokhtar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج باجي مختار",
+      "en": "Bordj Badji Mokhtar",
+      "slug": "bordj-badji-mokhtar"
+    },
+    "code": {
+      "id": "DZ050_bordj-badji-mokhtar_bordj-badji-mokhtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ050_bordj-badji-mokhtar",
+      "level": 2,
+      "name": {
+        "local": "برج باجي مختار",
+        "en": "Bordj Badji Mokhtar",
+        "slug": "bordj-badji-mokhtar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ050",
+        "level": 1,
+        "name": {
+          "local": "برج باجي مختار",
+          "en": "Bordj Badji Mokhtar",
+          "slug": "bordj-badji-mokhtar"
+        }
+      },
+      {
+        "id": "DZ050_bordj-badji-mokhtar",
+        "level": 2,
+        "name": {
+          "local": "برج باجي مختار",
+          "en": "Bordj Badji Mokhtar",
+          "slug": "bordj-badji-mokhtar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01010"
+    ],
+    "geo": {
+      "lat": "23.142",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ050_bordj-badji-mokhtar_timiaouine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمياوين",
+      "en": "Timiaouine",
+      "slug": "timiaouine"
+    },
+    "code": {
+      "id": "DZ050_bordj-badji-mokhtar_timiaouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ050_bordj-badji-mokhtar",
+      "level": 2,
+      "name": {
+        "local": "برج باجي مختار",
+        "en": "Bordj Badji Mokhtar",
+        "slug": "bordj-badji-mokhtar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ050",
+        "level": 1,
+        "name": {
+          "local": "برج باجي مختار",
+          "en": "Bordj Badji Mokhtar",
+          "slug": "bordj-badji-mokhtar"
+        }
+      },
+      {
+        "id": "DZ050_bordj-badji-mokhtar",
+        "level": 2,
+        "name": {
+          "local": "برج باجي مختار",
+          "en": "Bordj Badji Mokhtar",
+          "slug": "bordj-badji-mokhtar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01042"
+    ],
+    "geo": {
+      "lat": "20.908",
+      "lon": "1.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

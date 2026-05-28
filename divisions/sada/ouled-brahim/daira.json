@@ -1,0 +1,47 @@
+{
+  "id": "DZ020_ouled-brahim",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد ابراهيم",
+    "en": "Ouled Brahim",
+    "slug": "ouled-brahim"
+  },
+  "code": {
+    "id": "DZ020_ouled-brahim",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.397",
+    "lon": "2.83"
+  },
+  "metadata": {},
+  "source": {}
+}

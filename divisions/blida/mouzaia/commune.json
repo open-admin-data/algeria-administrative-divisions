@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ009_mouzaia_ain-romana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الرمانة",
+      "en": "Ain Romana",
+      "slug": "ain-romana"
+    },
+    "code": {
+      "id": "DZ009_mouzaia_ain-romana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_mouzaia",
+      "level": 2,
+      "name": {
+        "local": "موزاية",
+        "en": "Mouzaia",
+        "slug": "mouzaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_mouzaia",
+        "level": 2,
+        "name": {
+          "local": "موزاية",
+          "en": "Mouzaia",
+          "slug": "mouzaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09023"
+    ],
+    "geo": {
+      "lat": "36.391",
+      "lon": "2.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_mouzaia_chiffa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشفة",
+      "en": "Chiffa",
+      "slug": "chiffa"
+    },
+    "code": {
+      "id": "DZ009_mouzaia_chiffa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_mouzaia",
+      "level": 2,
+      "name": {
+        "local": "موزاية",
+        "en": "Mouzaia",
+        "slug": "mouzaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_mouzaia",
+        "level": 2,
+        "name": {
+          "local": "موزاية",
+          "en": "Mouzaia",
+          "slug": "mouzaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09010"
+    ],
+    "geo": {
+      "lat": "36.45",
+      "lon": "2.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_mouzaia_mouzaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "موزاية",
+      "en": "Mouzaia",
+      "slug": "mouzaia"
+    },
+    "code": {
+      "id": "DZ009_mouzaia_mouzaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_mouzaia",
+      "level": 2,
+      "name": {
+        "local": "موزاية",
+        "en": "Mouzaia",
+        "slug": "mouzaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_mouzaia",
+        "level": 2,
+        "name": {
+          "local": "موزاية",
+          "en": "Mouzaia",
+          "slug": "mouzaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09013"
+    ],
+    "geo": {
+      "lat": "36.507",
+      "lon": "2.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

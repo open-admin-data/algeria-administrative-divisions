@@ -1,0 +1,45 @@
+{
+  "id": "DZ034025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Zouai",
+    "en": "Ouled Zouai",
+    "slug": "ouled-zouai-dz034025"
+  },
+  "code": {
+    "id": "DZ034025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.877",
+    "lon": "6.506"
+  },
+  "metadata": {},
+  "source": {}
+}

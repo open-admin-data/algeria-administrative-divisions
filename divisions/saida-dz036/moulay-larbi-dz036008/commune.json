@@ -1,0 +1,45 @@
+{
+  "id": "DZ036008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Moulay Larbi",
+    "en": "Moulay Larbi",
+    "slug": "moulay-larbi-dz036008"
+  },
+  "code": {
+    "id": "DZ036008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.598",
+    "lon": "-0.202"
+  },
+  "metadata": {},
+  "source": {}
+}

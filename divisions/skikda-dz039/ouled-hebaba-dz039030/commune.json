@@ -1,0 +1,45 @@
+{
+  "id": "DZ039030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Hebaba",
+    "en": "Ouled Hebaba",
+    "slug": "ouled-hebaba-dz039030"
+  },
+  "code": {
+    "id": "DZ039030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.494",
+    "lon": "6.943"
+  },
+  "metadata": {},
+  "source": {}
+}

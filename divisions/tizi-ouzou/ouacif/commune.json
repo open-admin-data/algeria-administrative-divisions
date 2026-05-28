@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_ouacif_ait-boumahdi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت بومهدي",
+      "en": "Ait Boumahdi",
+      "slug": "ait-boumahdi"
+    },
+    "code": {
+      "id": "DZ015_ouacif_ait-boumahdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouacif",
+      "level": 2,
+      "name": {
+        "local": "واسيف",
+        "en": "Ouacif",
+        "slug": "ouacif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouacif",
+        "level": 2,
+        "name": {
+          "local": "واسيف",
+          "en": "Ouacif",
+          "slug": "ouacif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15084"
+    ],
+    "geo": {
+      "lat": "36.49",
+      "lon": "4.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouacif_ait-toudert",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت تودرت",
+      "en": "Ait-Toudert",
+      "slug": "ait-toudert"
+    },
+    "code": {
+      "id": "DZ015_ouacif_ait-toudert",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouacif",
+      "level": 2,
+      "name": {
+        "local": "واسيف",
+        "en": "Ouacif",
+        "slug": "ouacif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouacif",
+        "level": 2,
+        "name": {
+          "local": "واسيف",
+          "en": "Ouacif",
+          "slug": "ouacif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15062"
+    ],
+    "geo": {
+      "lat": "36.533",
+      "lon": "4.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouacif_ouacif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واسيف",
+      "en": "Ouacif",
+      "slug": "ouacif"
+    },
+    "code": {
+      "id": "DZ015_ouacif_ouacif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouacif",
+      "level": 2,
+      "name": {
+        "local": "واسيف",
+        "en": "Ouacif",
+        "slug": "ouacif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouacif",
+        "level": 2,
+        "name": {
+          "local": "واسيف",
+          "en": "Ouacif",
+          "slug": "ouacif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15015"
+    ],
+    "geo": {
+      "lat": "36.52",
+      "lon": "4.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

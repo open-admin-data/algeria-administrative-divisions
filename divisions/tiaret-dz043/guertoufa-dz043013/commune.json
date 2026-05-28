@@ -1,0 +1,45 @@
+{
+  "id": "DZ043013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Guertoufa",
+    "en": "Guertoufa",
+    "slug": "guertoufa-dz043013"
+  },
+  "code": {
+    "id": "DZ043013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.452",
+    "lon": "1.166"
+  },
+  "metadata": {},
+  "source": {}
+}

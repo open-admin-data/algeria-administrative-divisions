@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ048_mendes_mendes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "منداس",
+      "en": "Mendes",
+      "slug": "mendes"
+    },
+    "code": {
+      "id": "DZ048_mendes_mendes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_mendes",
+      "level": 2,
+      "name": {
+        "local": "منداس",
+        "en": "Mendes",
+        "slug": "mendes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_mendes",
+        "level": 2,
+        "name": {
+          "local": "منداس",
+          "en": "Mendes",
+          "slug": "mendes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48012"
+    ],
+    "geo": {
+      "lat": "35.672",
+      "lon": "0.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_mendes_oued-essalem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي السلام",
+      "en": "Oued Essalem",
+      "slug": "oued-essalem"
+    },
+    "code": {
+      "id": "DZ048_mendes_oued-essalem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_mendes",
+      "level": 2,
+      "name": {
+        "local": "منداس",
+        "en": "Mendes",
+        "slug": "mendes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_mendes",
+        "level": 2,
+        "name": {
+          "local": "منداس",
+          "en": "Mendes",
+          "slug": "mendes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48022"
+    ],
+    "geo": {
+      "lat": "35.544",
+      "lon": "0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_mendes_sidi-lazreg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي لزرق",
+      "en": "Sidi Lazreg",
+      "slug": "sidi-lazreg"
+    },
+    "code": {
+      "id": "DZ048_mendes_sidi-lazreg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_mendes",
+      "level": 2,
+      "name": {
+        "local": "منداس",
+        "en": "Mendes",
+        "slug": "mendes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_mendes",
+        "level": 2,
+        "name": {
+          "local": "منداس",
+          "en": "Mendes",
+          "slug": "mendes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48065"
+    ],
+    "geo": {
+      "lat": "35.617",
+      "lon": "0.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

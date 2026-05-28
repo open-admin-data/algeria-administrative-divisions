@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_ouled-antar_boghar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوغار",
+      "en": "Boghar",
+      "slug": "boghar"
+    },
+    "code": {
+      "id": "DZ026_ouled-antar_boghar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouled-antar",
+      "level": 2,
+      "name": {
+        "local": "أولاد عنتر",
+        "en": "Ouled Antar",
+        "slug": "ouled-antar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouled-antar",
+        "level": 2,
+        "name": {
+          "local": "أولاد عنتر",
+          "en": "Ouled Antar",
+          "slug": "ouled-antar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26013"
+    ],
+    "geo": {
+      "lat": "35.94",
+      "lon": "2.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouled-antar_ouled-antar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عنتر",
+      "en": "Ouled Antar",
+      "slug": "ouled-antar"
+    },
+    "code": {
+      "id": "DZ026_ouled-antar_ouled-antar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouled-antar",
+      "level": 2,
+      "name": {
+        "local": "أولاد عنتر",
+        "en": "Ouled Antar",
+        "slug": "ouled-antar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouled-antar",
+        "level": 2,
+        "name": {
+          "local": "أولاد عنتر",
+          "en": "Ouled Antar",
+          "slug": "ouled-antar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26035"
+    ],
+    "geo": {
+      "lat": "35.957",
+      "lon": "2.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouled-antar_ouled-hellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد هلال",
+      "en": "Ouled Hellal",
+      "slug": "ouled-hellal"
+    },
+    "code": {
+      "id": "DZ026_ouled-antar_ouled-hellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouled-antar",
+      "level": 2,
+      "name": {
+        "local": "أولاد عنتر",
+        "en": "Ouled Antar",
+        "slug": "ouled-antar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouled-antar",
+        "level": 2,
+        "name": {
+          "local": "أولاد عنتر",
+          "en": "Ouled Antar",
+          "slug": "ouled-antar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26037"
+    ],
+    "geo": {
+      "lat": "36.006",
+      "lon": "2.524"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

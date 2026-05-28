@@ -1,0 +1,45 @@
+{
+  "id": "DZ008008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Aokas",
+    "en": "Aokas",
+    "slug": "aokas-dz008008"
+  },
+  "code": {
+    "id": "DZ008008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.62",
+    "lon": "5.262"
+  },
+  "metadata": {},
+  "source": {}
+}

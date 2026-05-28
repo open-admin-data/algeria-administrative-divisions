@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ016_cheraga_ain-benian",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بنيان",
+      "en": "Ain Benian",
+      "slug": "ain-benian"
+    },
+    "code": {
+      "id": "DZ016_cheraga_ain-benian",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_cheraga",
+      "level": 2,
+      "name": {
+        "local": "الشراقة",
+        "en": "Cheraga",
+        "slug": "cheraga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_cheraga",
+        "level": 2,
+        "name": {
+          "local": "الشراقة",
+          "en": "Cheraga",
+          "slug": "cheraga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16018"
+    ],
+    "geo": {
+      "lat": "36.796",
+      "lon": "2.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_cheraga_cheraga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشراقة",
+      "en": "Cheraga",
+      "slug": "cheraga"
+    },
+    "code": {
+      "id": "DZ016_cheraga_cheraga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_cheraga",
+      "level": 2,
+      "name": {
+        "local": "الشراقة",
+        "en": "Cheraga",
+        "slug": "cheraga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_cheraga",
+        "level": 2,
+        "name": {
+          "local": "الشراقة",
+          "en": "Cheraga",
+          "slug": "cheraga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16014"
+    ],
+    "geo": {
+      "lat": "36.57",
+      "lon": "6.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_cheraga_dely-ibrahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دالي ابراهيم",
+      "en": "Dely Ibrahim",
+      "slug": "dely-ibrahim"
+    },
+    "code": {
+      "id": "DZ016_cheraga_dely-ibrahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_cheraga",
+      "level": 2,
+      "name": {
+        "local": "الشراقة",
+        "en": "Cheraga",
+        "slug": "cheraga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_cheraga",
+        "level": 2,
+        "name": {
+          "local": "الشراقة",
+          "en": "Cheraga",
+          "slug": "cheraga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16047"
+    ],
+    "geo": {
+      "lat": "36.392",
+      "lon": "5.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_cheraga_hammamet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمامات",
+      "en": "Hammamet",
+      "slug": "hammamet"
+    },
+    "code": {
+      "id": "DZ016_cheraga_hammamet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_cheraga",
+      "level": 2,
+      "name": {
+        "local": "الشراقة",
+        "en": "Cheraga",
+        "slug": "cheraga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_cheraga",
+        "level": 2,
+        "name": {
+          "local": "الشراقة",
+          "en": "Cheraga",
+          "slug": "cheraga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12016"
+    ],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_cheraga_ouled-fayet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اولاد فايت",
+      "en": "Ouled Fayet",
+      "slug": "ouled-fayet"
+    },
+    "code": {
+      "id": "DZ016_cheraga_ouled-fayet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_cheraga",
+      "level": 2,
+      "name": {
+        "local": "الشراقة",
+        "en": "Cheraga",
+        "slug": "cheraga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_cheraga",
+        "level": 2,
+        "name": {
+          "local": "الشراقة",
+          "en": "Cheraga",
+          "slug": "cheraga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16094"
+    ],
+    "geo": {
+      "lat": "36.726",
+      "lon": "2.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ001_aoulef",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولف",
+    "en": "Aoulef",
+    "slug": "aoulef"
+  },
+  "code": {
+    "id": "DZ001_aoulef",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.826",
+    "lon": "1.16"
+  },
+  "metadata": {},
+  "source": {}
+}

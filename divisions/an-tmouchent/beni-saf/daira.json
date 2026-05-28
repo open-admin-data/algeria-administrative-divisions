@@ -1,0 +1,47 @@
+{
+  "id": "DZ046_beni-saf",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني صاف",
+    "en": "Beni Saf",
+    "slug": "beni-saf"
+  },
+  "code": {
+    "id": "DZ046_beni-saf",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "عين تيموشنت",
+      "en": "Aïn Témouchent",
+      "slug": "an-tmouchent"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.78",
+    "lon": "1.047"
+  },
+  "metadata": {},
+  "source": {}
+}

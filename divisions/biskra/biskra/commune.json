@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ007_biskra_biskra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    },
+    "code": {
+      "id": "DZ007_biskra_biskra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_biskra",
+      "level": 2,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_biskra",
+        "level": 2,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07000"
+    ],
+    "geo": {
+      "lat": "34.852",
+      "lon": "5.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_biskra_el-hadjab",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحاجب",
+      "en": "El Hadjab",
+      "slug": "el-hadjab"
+    },
+    "code": {
+      "id": "DZ007_biskra_el-hadjab",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_biskra",
+      "level": 2,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_biskra",
+        "level": 2,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07037"
+    ],
+    "geo": {
+      "lat": "34.852",
+      "lon": "5.726"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

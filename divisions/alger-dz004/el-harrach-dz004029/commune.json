@@ -1,0 +1,45 @@
+{
+  "id": "DZ004029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Harrach",
+    "en": "El Harrach",
+    "slug": "el-harrach-dz004029"
+  },
+  "code": {
+    "id": "DZ004029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.714",
+    "lon": "3.14"
+  },
+  "metadata": {},
+  "source": {}
+}

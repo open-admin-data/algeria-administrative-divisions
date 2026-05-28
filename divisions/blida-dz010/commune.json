@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "DZ010001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Romana",
+      "en": "Ain Romana",
+      "slug": "ain-romana-dz010001"
+    },
+    "code": {
+      "id": "DZ010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.391",
+      "lon": "2.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Khelil",
+      "en": "Ben Khelil",
+      "slug": "ben-khelil-dz010002"
+    },
+    "code": {
+      "id": "DZ010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.601",
+      "lon": "2.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Mered",
+      "en": "Beni Mered",
+      "slug": "beni-mered-dz010003"
+    },
+    "code": {
+      "id": "DZ010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.536",
+      "lon": "2.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Tamou",
+      "en": "Beni Tamou",
+      "slug": "beni-tamou-dz010004"
+    },
+    "code": {
+      "id": "DZ010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.543",
+      "lon": "2.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Blida",
+      "en": "Blida",
+      "slug": "blida-dz010005"
+    },
+    "code": {
+      "id": "DZ010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.483",
+      "lon": "2.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouarfa",
+      "en": "Bouarfa",
+      "slug": "bouarfa-dz010006"
+    },
+    "code": {
+      "id": "DZ010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.417",
+      "lon": "2.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boufarik",
+      "en": "Boufarik",
+      "slug": "boufarik-dz010007"
+    },
+    "code": {
+      "id": "DZ010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.582",
+      "lon": "2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougara",
+      "en": "Bougara",
+      "slug": "bougara-dz010008"
+    },
+    "code": {
+      "id": "DZ010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.497",
+      "lon": "3.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouinan",
+      "en": "Bouinan",
+      "slug": "bouinan-dz010009"
+    },
+    "code": {
+      "id": "DZ010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.519",
+      "lon": "2.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chebli",
+      "en": "Chebli",
+      "slug": "chebli-dz010010"
+    },
+    "code": {
+      "id": "DZ010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.572",
+      "lon": "3.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiffa",
+      "en": "Chiffa",
+      "slug": "chiffa-dz010011"
+    },
+    "code": {
+      "id": "DZ010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.45",
+      "lon": "2.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chrea",
+      "en": "Chrea",
+      "slug": "chrea-dz010012"
+    },
+    "code": {
+      "id": "DZ010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.429",
+      "lon": "2.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebabra",
+      "en": "Djebabra",
+      "slug": "djebabra-dz010013"
+    },
+    "code": {
+      "id": "DZ010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.586",
+      "lon": "3.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Affroun",
+      "en": "El Affroun",
+      "slug": "el-affroun-dz010014"
+    },
+    "code": {
+      "id": "DZ010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.45",
+      "lon": "2.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guerrouaou",
+      "en": "Guerrouaou",
+      "slug": "guerrouaou-dz010015"
+    },
+    "code": {
+      "id": "DZ010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.505",
+      "lon": "2.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Melouane",
+      "en": "Hammam Melouane",
+      "slug": "hammam-melouane-dz010016"
+    },
+    "code": {
+      "id": "DZ010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.439",
+      "lon": "2.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larbaa",
+      "en": "Larbaa",
+      "slug": "larbaa-dz010017"
+    },
+    "code": {
+      "id": "DZ010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.581",
+      "lon": "3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Meftah",
+      "en": "Meftah",
+      "slug": "meftah-dz010018"
+    },
+    "code": {
+      "id": "DZ010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.626",
+      "lon": "3.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mouzaia",
+      "en": "Mouzaia",
+      "slug": "mouzaia-dz010019"
+    },
+    "code": {
+      "id": "DZ010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.507",
+      "lon": "2.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Djer",
+      "en": "Oued Djer",
+      "slug": "oued-djer-dz010020"
+    },
+    "code": {
+      "id": "DZ010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.426",
+      "lon": "2.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Alleug",
+      "en": "Oued El Alleug",
+      "slug": "oued-el-alleug-dz010021"
+    },
+    "code": {
+      "id": "DZ010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.554",
+      "lon": "2.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Slama",
+      "en": "Ouled Slama",
+      "slug": "ouled-slama-dz010022"
+    },
+    "code": {
+      "id": "DZ010022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.517",
+      "lon": "3.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Yaich",
+      "en": "Ouled Yaich",
+      "slug": "ouled-yaich-dz010023"
+    },
+    "code": {
+      "id": "DZ010023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.489",
+      "lon": "2.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souhane",
+      "en": "Souhane",
+      "slug": "souhane-dz010024"
+    },
+    "code": {
+      "id": "DZ010024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.531",
+      "lon": "3.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soumaa",
+      "en": "Soumaa",
+      "slug": "soumaa-dz010025"
+    },
+    "code": {
+      "id": "DZ010025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida-dz010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.509",
+      "lon": "2.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

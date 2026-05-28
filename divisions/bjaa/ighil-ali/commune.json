@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ006_ighil-ali_ait-rzine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت رزين",
+      "en": "Ait R'zine",
+      "slug": "ait-rzine"
+    },
+    "code": {
+      "id": "DZ006_ighil-ali_ait-rzine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_ighil-ali",
+      "level": 2,
+      "name": {
+        "local": "إغيل علي",
+        "en": "Ighil Ali",
+        "slug": "ighil-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_ighil-ali",
+        "level": 2,
+        "name": {
+          "local": "إغيل علي",
+          "en": "Ighil Ali",
+          "slug": "ighil-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06013"
+    ],
+    "geo": {
+      "lat": "36.388",
+      "lon": "4.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_ighil-ali_ighil-ali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إغيل علي",
+      "en": "Ighil-Ali",
+      "slug": "ighil-ali"
+    },
+    "code": {
+      "id": "DZ006_ighil-ali_ighil-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_ighil-ali",
+      "level": 2,
+      "name": {
+        "local": "إغيل علي",
+        "en": "Ighil Ali",
+        "slug": "ighil-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_ighil-ali",
+        "level": 2,
+        "name": {
+          "local": "إغيل علي",
+          "en": "Ighil Ali",
+          "slug": "ighil-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06014"
+    ],
+    "geo": {
+      "lat": "36.293",
+      "lon": "4.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

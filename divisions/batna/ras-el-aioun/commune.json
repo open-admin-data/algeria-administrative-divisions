@@ -1,0 +1,336 @@
+[
+  {
+    "id": "DZ005_ras-el-aioun_gosbat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصبات",
+      "en": "Gosbat",
+      "slug": "gosbat"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_gosbat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05090"
+    ],
+    "geo": {
+      "lat": "35.623",
+      "lon": "5.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ras-el-aioun_guigba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القيقبة",
+      "en": "Guigba",
+      "slug": "guigba"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_guigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05067"
+    ],
+    "geo": {
+      "lat": "35.744",
+      "lon": "5.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ras-el-aioun_ouled-sellem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سلام",
+      "en": "Ouled Sellem",
+      "slug": "ouled-sellem"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_ouled-sellem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05044"
+    ],
+    "geo": {
+      "lat": "35.688",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ras-el-aioun_rahbat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرحبات",
+      "en": "Rahbat",
+      "slug": "rahbat"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_rahbat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05091"
+    ],
+    "geo": {
+      "lat": "35.727",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ras-el-aioun_ras-el-aioun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رأس العيون",
+      "en": "Ras El Aioun",
+      "slug": "ras-el-aioun"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_ras-el-aioun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05009"
+    ],
+    "geo": {
+      "lat": "35.656",
+      "lon": "5.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ras-el-aioun_talkhamt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تالخمت",
+      "en": "Talkhamt",
+      "slug": "talkhamt"
+    },
+    "code": {
+      "id": "DZ005_ras-el-aioun_talkhamt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ras-el-aioun",
+      "level": 2,
+      "name": {
+        "local": "رأس العيون",
+        "en": "Ras El Aioun",
+        "slug": "ras-el-aioun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ras-el-aioun",
+        "level": 2,
+        "name": {
+          "local": "رأس العيون",
+          "en": "Ras El Aioun",
+          "slug": "ras-el-aioun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.688",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

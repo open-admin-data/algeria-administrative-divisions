@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_bab-el-oued",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "باب الوادي",
+    "en": "Bab El Oued",
+    "slug": "bab-el-oued"
+  },
+  "code": {
+    "id": "DZ016_bab-el-oued",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.794",
+    "lon": "3.04"
+  },
+  "metadata": {},
+  "source": {}
+}

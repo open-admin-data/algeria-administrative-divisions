@@ -1,0 +1,45 @@
+{
+  "id": "DZ037053",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Salah Bey",
+    "en": "Salah Bey",
+    "slug": "salah-bey-dz037053"
+  },
+  "code": {
+    "id": "DZ037053",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.826",
+    "lon": "5.36"
+  },
+  "metadata": {},
+  "source": {}
+}

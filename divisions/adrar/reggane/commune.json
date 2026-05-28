@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ001_reggane_reggane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رقان",
+      "en": "Reggane",
+      "slug": "reggane"
+    },
+    "code": {
+      "id": "DZ001_reggane_reggane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_reggane",
+      "level": 2,
+      "name": {
+        "local": "رقان",
+        "en": "Reggane",
+        "slug": "reggane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_reggane",
+        "level": 2,
+        "name": {
+          "local": "رقان",
+          "en": "Reggane",
+          "slug": "reggane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01004"
+    ],
+    "geo": {
+      "lat": "25.383",
+      "lon": "-2.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_reggane_sali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سالي",
+      "en": "Sali",
+      "slug": "sali"
+    },
+    "code": {
+      "id": "DZ001_reggane_sali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_reggane",
+      "level": 2,
+      "name": {
+        "local": "رقان",
+        "en": "Reggane",
+        "slug": "reggane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_reggane",
+        "level": 2,
+        "name": {
+          "local": "رقان",
+          "en": "Reggane",
+          "slug": "reggane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01009"
+    ],
+    "geo": {
+      "lat": "26.74",
+      "lon": "-2.039"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

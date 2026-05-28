@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ012_tebessa_tebessa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa"
+    },
+    "code": {
+      "id": "DZ012_tebessa_tebessa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_tebessa",
+      "level": 2,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_tebessa",
+        "level": 2,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12000"
+    ],
+    "geo": {
+      "lat": "35.403",
+      "lon": "8.091"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

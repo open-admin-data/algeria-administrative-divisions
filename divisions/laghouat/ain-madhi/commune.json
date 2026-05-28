@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ003_ain-madhi_ain-madhi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين ماضي",
+      "en": "Ain Madhi",
+      "slug": "ain-madhi"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi_ain-madhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ain-madhi",
+      "level": 2,
+      "name": {
+        "local": "عين ماضي",
+        "en": "Ain Madhi",
+        "slug": "ain-madhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ain-madhi",
+        "level": 2,
+        "name": {
+          "local": "عين ماضي",
+          "en": "Ain Madhi",
+          "slug": "ain-madhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03012"
+    ],
+    "geo": {
+      "lat": "33.34",
+      "lon": "2.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ain-madhi_el-haouaita",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحويطة",
+      "en": "El Haouaita",
+      "slug": "el-haouaita"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi_el-haouaita",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ain-madhi",
+      "level": 2,
+      "name": {
+        "local": "عين ماضي",
+        "en": "Ain Madhi",
+        "slug": "ain-madhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ain-madhi",
+        "level": 2,
+        "name": {
+          "local": "عين ماضي",
+          "en": "Ain Madhi",
+          "slug": "ain-madhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03040"
+    ],
+    "geo": {
+      "lat": "33.55",
+      "lon": "2.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ain-madhi_kheneg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخنق",
+      "en": "Kheneg",
+      "slug": "kheneg"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi_kheneg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ain-madhi",
+      "level": 2,
+      "name": {
+        "local": "عين ماضي",
+        "en": "Ain Madhi",
+        "slug": "ain-madhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ain-madhi",
+        "level": 2,
+        "name": {
+          "local": "عين ماضي",
+          "en": "Ain Madhi",
+          "slug": "ain-madhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03010"
+    ],
+    "geo": {
+      "lat": "33.442",
+      "lon": "2.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ain-madhi_tadjemout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاجموت",
+      "en": "Tadjemout",
+      "slug": "tadjemout"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi_tadjemout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ain-madhi",
+      "level": 2,
+      "name": {
+        "local": "عين ماضي",
+        "en": "Ain Madhi",
+        "slug": "ain-madhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ain-madhi",
+        "level": 2,
+        "name": {
+          "local": "عين ماضي",
+          "en": "Ain Madhi",
+          "slug": "ain-madhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03007"
+    ],
+    "geo": {
+      "lat": "34.143",
+      "lon": "2.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ain-madhi_tadjrouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاجرونة",
+      "en": "Tadjrouna",
+      "slug": "tadjrouna"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi_tadjrouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ain-madhi",
+      "level": 2,
+      "name": {
+        "local": "عين ماضي",
+        "en": "Ain Madhi",
+        "slug": "ain-madhi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ain-madhi",
+        "level": 2,
+        "name": {
+          "local": "عين ماضي",
+          "en": "Ain Madhi",
+          "slug": "ain-madhi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03011"
+    ],
+    "geo": {
+      "lat": "33.556",
+      "lon": "2.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

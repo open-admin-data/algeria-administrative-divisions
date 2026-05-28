@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ027_hassi-mameche_hassi-mameche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي ماماش",
+      "en": "Hassi Mameche",
+      "slug": "hassi-mameche"
+    },
+    "code": {
+      "id": "DZ027_hassi-mameche_hassi-mameche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_hassi-mameche",
+      "level": 2,
+      "name": {
+        "local": "حاسي ماماش",
+        "en": "Hassi Mameche",
+        "slug": "hassi-mameche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_hassi-mameche",
+        "level": 2,
+        "name": {
+          "local": "حاسي ماماش",
+          "en": "Hassi Mameche",
+          "slug": "hassi-mameche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27004"
+    ],
+    "geo": {
+      "lat": "35.821",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_hassi-mameche_mazagran",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مزغران",
+      "en": "Mazagran",
+      "slug": "mazagran"
+    },
+    "code": {
+      "id": "DZ027_hassi-mameche_mazagran",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_hassi-mameche",
+      "level": 2,
+      "name": {
+        "local": "حاسي ماماش",
+        "en": "Hassi Mameche",
+        "slug": "hassi-mameche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_hassi-mameche",
+        "level": 2,
+        "name": {
+          "local": "حاسي ماماش",
+          "en": "Hassi Mameche",
+          "slug": "hassi-mameche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27017"
+    ],
+    "geo": {
+      "lat": "35.821",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_hassi-mameche_stidia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ستيدية",
+      "en": "Stidia",
+      "slug": "stidia"
+    },
+    "code": {
+      "id": "DZ027_hassi-mameche_stidia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_hassi-mameche",
+      "level": 2,
+      "name": {
+        "local": "حاسي ماماش",
+        "en": "Hassi Mameche",
+        "slug": "hassi-mameche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_hassi-mameche",
+        "level": 2,
+        "name": {
+          "local": "حاسي ماماش",
+          "en": "Hassi Mameche",
+          "slug": "hassi-mameche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27023"
+    ],
+    "geo": {
+      "lat": "35.821",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

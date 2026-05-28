@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ016_rouiba_herraoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هراوة",
+      "en": "Herraoua",
+      "slug": "herraoua"
+    },
+    "code": {
+      "id": "DZ016_rouiba_herraoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_rouiba",
+      "level": 2,
+      "name": {
+        "local": "الرويبة",
+        "en": "Rouiba",
+        "slug": "rouiba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_rouiba",
+        "level": 2,
+        "name": {
+          "local": "الرويبة",
+          "en": "Rouiba",
+          "slug": "rouiba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16116"
+    ],
+    "geo": {
+      "lat": "36.746",
+      "lon": "3.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_rouiba_reghaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رغاية",
+      "en": "Reghaia",
+      "slug": "reghaia"
+    },
+    "code": {
+      "id": "DZ016_rouiba_reghaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_rouiba",
+      "level": 2,
+      "name": {
+        "local": "الرويبة",
+        "en": "Rouiba",
+        "slug": "rouiba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_rouiba",
+        "level": 2,
+        "name": {
+          "local": "الرويبة",
+          "en": "Rouiba",
+          "slug": "rouiba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16036"
+    ],
+    "geo": {
+      "lat": "36.752",
+      "lon": "3.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_rouiba_rouiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرويبة",
+      "en": "Rouiba",
+      "slug": "rouiba"
+    },
+    "code": {
+      "id": "DZ016_rouiba_rouiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_rouiba",
+      "level": 2,
+      "name": {
+        "local": "الرويبة",
+        "en": "Rouiba",
+        "slug": "rouiba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_rouiba",
+        "level": 2,
+        "name": {
+          "local": "الرويبة",
+          "en": "Rouiba",
+          "slug": "rouiba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16017"
+    ],
+    "geo": {
+      "lat": "36.741",
+      "lon": "3.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

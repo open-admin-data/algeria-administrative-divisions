@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ035_boumerdes_boumerdes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes"
+    },
+    "code": {
+      "id": "DZ035_boumerdes_boumerdes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boumerdes",
+      "level": 2,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boumerdes",
+        "level": 2,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35000"
+    ],
+    "geo": {
+      "lat": "36.761",
+      "lon": "3.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boumerdes_corso",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قورصو",
+      "en": "Corso",
+      "slug": "corso"
+    },
+    "code": {
+      "id": "DZ035_boumerdes_corso",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boumerdes",
+      "level": 2,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boumerdes",
+        "level": 2,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35014"
+    ],
+    "geo": {
+      "lat": "36.731",
+      "lon": "3.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boumerdes_tidjelabine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيجلابين",
+      "en": "Tidjelabine",
+      "slug": "tidjelabine"
+    },
+    "code": {
+      "id": "DZ035_boumerdes_tidjelabine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boumerdes",
+      "level": 2,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boumerdes",
+        "level": 2,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35021"
+    ],
+    "geo": {
+      "lat": "36.718",
+      "lon": "3.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

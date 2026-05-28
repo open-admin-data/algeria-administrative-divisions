@@ -1,0 +1,45 @@
+{
+  "id": "DZ004021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Cheraga",
+    "en": "Cheraga",
+    "slug": "cheraga-dz004021"
+  },
+  "code": {
+    "id": "DZ004021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.764",
+    "lon": "2.935"
+  },
+  "metadata": {},
+  "source": {}
+}

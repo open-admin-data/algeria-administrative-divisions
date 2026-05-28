@@ -1,0 +1,45 @@
+{
+  "id": "DZ030025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "M'Cif",
+    "en": "M'Cif",
+    "slug": "mcif-dz030025"
+  },
+  "code": {
+    "id": "DZ030025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.328",
+    "lon": "4.735"
+  },
+  "metadata": {},
+  "source": {}
+}

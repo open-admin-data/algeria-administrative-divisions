@@ -1,0 +1,45 @@
+{
+  "id": "DZ040022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taoura",
+    "en": "Taoura",
+    "slug": "taoura-dz040022"
+  },
+  "code": {
+    "id": "DZ040022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.095",
+    "lon": "8.043"
+  },
+  "metadata": {},
+  "source": {}
+}

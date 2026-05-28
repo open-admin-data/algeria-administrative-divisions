@@ -1,0 +1,30 @@
+{
+  "id": "DZ056",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "جانت",
+    "en": "Djanet",
+    "slug": "djanet"
+  },
+  "code": {
+    "id": "DZ056",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 1,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.78",
+    "lon": "10.135"
+  },
+  "metadata": {},
+  "source": {}
+}

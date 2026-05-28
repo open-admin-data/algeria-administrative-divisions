@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_hassi-bahbah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حاسي بحبح",
+    "en": "Hassi Bahbah",
+    "slug": "hassi-bahbah"
+  },
+  "code": {
+    "id": "DZ017_hassi-bahbah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.93",
+    "lon": "3.054"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ027_ain-nouicy_ain-nouissy",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين نويسي",
+      "en": "Ain-Nouissy",
+      "slug": "ain-nouissy"
+    },
+    "code": {
+      "id": "DZ027_ain-nouicy_ain-nouissy",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-nouicy",
+      "level": 2,
+      "name": {
+        "local": "عين نويسي",
+        "en": "Ain Nouicy",
+        "slug": "ain-nouicy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-nouicy",
+        "level": 2,
+        "name": {
+          "local": "عين نويسي",
+          "en": "Ain Nouicy",
+          "slug": "ain-nouicy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27010"
+    ],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-nouicy_fornaka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فرناقة",
+      "en": "Fornaka",
+      "slug": "fornaka"
+    },
+    "code": {
+      "id": "DZ027_ain-nouicy_fornaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-nouicy",
+      "level": 2,
+      "name": {
+        "local": "عين نويسي",
+        "en": "Ain Nouicy",
+        "slug": "ain-nouicy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-nouicy",
+        "level": 2,
+        "name": {
+          "local": "عين نويسي",
+          "en": "Ain Nouicy",
+          "slug": "ain-nouicy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27014"
+    ],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_ain-nouicy_hassiane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحسيان (بني ياحي",
+      "en": "Hassiane",
+      "slug": "hassiane"
+    },
+    "code": {
+      "id": "DZ027_ain-nouicy_hassiane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_ain-nouicy",
+      "level": 2,
+      "name": {
+        "local": "عين نويسي",
+        "en": "Ain Nouicy",
+        "slug": "ain-nouicy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_ain-nouicy",
+        "level": 2,
+        "name": {
+          "local": "عين نويسي",
+          "en": "Ain Nouicy",
+          "slug": "ain-nouicy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27033"
+    ],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

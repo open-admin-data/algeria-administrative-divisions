@@ -1,0 +1,30 @@
+{
+  "id": "DZ054",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عين قزام",
+    "en": "In Guezzam",
+    "slug": "in-guezzam"
+  },
+  "code": {
+    "id": "DZ054",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

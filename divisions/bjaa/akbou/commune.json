@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ006_akbou_akbou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أقبو",
+      "en": "Akbou",
+      "slug": "akbou"
+    },
+    "code": {
+      "id": "DZ006_akbou_akbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_akbou",
+      "level": 2,
+      "name": {
+        "local": "أقبو",
+        "en": "Akbou",
+        "slug": "akbou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_akbou",
+        "level": 2,
+        "name": {
+          "local": "أقبو",
+          "en": "Akbou",
+          "slug": "akbou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06001"
+    ],
+    "geo": {
+      "lat": "36.461",
+      "lon": "4.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_akbou_chellata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلاطة",
+      "en": "Chellata",
+      "slug": "chellata"
+    },
+    "code": {
+      "id": "DZ006_akbou_chellata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_akbou",
+      "level": 2,
+      "name": {
+        "local": "أقبو",
+        "en": "Akbou",
+        "slug": "akbou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_akbou",
+        "level": 2,
+        "name": {
+          "local": "أقبو",
+          "en": "Akbou",
+          "slug": "akbou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06052"
+    ],
+    "geo": {
+      "lat": "36.445",
+      "lon": "4.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_akbou_ighram",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اغرم",
+      "en": "Ighram",
+      "slug": "ighram"
+    },
+    "code": {
+      "id": "DZ006_akbou_ighram",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_akbou",
+      "level": 2,
+      "name": {
+        "local": "أقبو",
+        "en": "Akbou",
+        "slug": "akbou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_akbou",
+        "level": 2,
+        "name": {
+          "local": "أقبو",
+          "en": "Akbou",
+          "slug": "akbou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06048"
+    ],
+    "geo": {
+      "lat": "36.48",
+      "lon": "4.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_akbou_tamokra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامقرة",
+      "en": "Tamokra",
+      "slug": "tamokra"
+    },
+    "code": {
+      "id": "DZ006_akbou_tamokra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_akbou",
+      "level": 2,
+      "name": {
+        "local": "أقبو",
+        "en": "Akbou",
+        "slug": "akbou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_akbou",
+        "level": 2,
+        "name": {
+          "local": "أقبو",
+          "en": "Akbou",
+          "slug": "akbou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06053"
+    ],
+    "geo": {
+      "lat": "36.393",
+      "lon": "4.648"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

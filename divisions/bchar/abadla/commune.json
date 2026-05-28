@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ008_abadla_abadla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العبادلة",
+      "en": "Abadla",
+      "slug": "abadla"
+    },
+    "code": {
+      "id": "DZ008_abadla_abadla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_abadla",
+      "level": 2,
+      "name": {
+        "local": "العبادلة",
+        "en": "Abadla",
+        "slug": "abadla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_abadla",
+        "level": 2,
+        "name": {
+          "local": "العبادلة",
+          "en": "Abadla",
+          "slug": "abadla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08003"
+    ],
+    "geo": {
+      "lat": "31.028",
+      "lon": "-2.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_abadla_erg-ferradj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عرق فراج",
+      "en": "Erg-Ferradj",
+      "slug": "erg-ferradj"
+    },
+    "code": {
+      "id": "DZ008_abadla_erg-ferradj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_abadla",
+      "level": 2,
+      "name": {
+        "local": "العبادلة",
+        "en": "Abadla",
+        "slug": "abadla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_abadla",
+        "level": 2,
+        "name": {
+          "local": "العبادلة",
+          "en": "Abadla",
+          "slug": "abadla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08023"
+    ],
+    "geo": {
+      "lat": "30.901",
+      "lon": "-3.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_abadla_machraa-houari-boumediene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مشرع هواري بومدين",
+      "en": "Machraa-Houari-Boumediene",
+      "slug": "machraa-houari-boumediene"
+    },
+    "code": {
+      "id": "DZ008_abadla_machraa-houari-boumediene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_abadla",
+      "level": 2,
+      "name": {
+        "local": "العبادلة",
+        "en": "Abadla",
+        "slug": "abadla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_abadla",
+        "level": 2,
+        "name": {
+          "local": "العبادلة",
+          "en": "Abadla",
+          "slug": "abadla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08027"
+    ],
+    "geo": {
+      "lat": "30.965",
+      "lon": "-2.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

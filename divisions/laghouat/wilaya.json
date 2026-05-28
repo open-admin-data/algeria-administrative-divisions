@@ -1,0 +1,30 @@
+{
+  "id": "DZ003",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الأغواط",
+    "en": "Laghouat",
+    "slug": "laghouat"
+  },
+  "code": {
+    "id": "DZ003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 10,
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.75",
+    "lon": "2.639"
+  },
+  "metadata": {},
+  "source": {}
+}

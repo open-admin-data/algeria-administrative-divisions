@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ040_bouhmama_bouhmama",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحمامة",
+      "en": "Bouhmama",
+      "slug": "bouhmama"
+    },
+    "code": {
+      "id": "DZ040_bouhmama_bouhmama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_bouhmama",
+      "level": 2,
+      "name": {
+        "local": "بوحمامة",
+        "en": "Bouhmama",
+        "slug": "bouhmama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_bouhmama",
+        "level": 2,
+        "name": {
+          "local": "بوحمامة",
+          "en": "Bouhmama",
+          "slug": "bouhmama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40007"
+    ],
+    "geo": {
+      "lat": "35.213",
+      "lon": "6.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_bouhmama_chelia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلية",
+      "en": "Chelia",
+      "slug": "chelia"
+    },
+    "code": {
+      "id": "DZ040_bouhmama_chelia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_bouhmama",
+      "level": 2,
+      "name": {
+        "local": "بوحمامة",
+        "en": "Bouhmama",
+        "slug": "bouhmama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_bouhmama",
+        "level": 2,
+        "name": {
+          "local": "بوحمامة",
+          "en": "Bouhmama",
+          "slug": "bouhmama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40030"
+    ],
+    "geo": {
+      "lat": "35.412",
+      "lon": "6.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_bouhmama_msara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مصارة",
+      "en": "M'sara",
+      "slug": "msara"
+    },
+    "code": {
+      "id": "DZ040_bouhmama_msara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_bouhmama",
+      "level": 2,
+      "name": {
+        "local": "بوحمامة",
+        "en": "Bouhmama",
+        "slug": "bouhmama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_bouhmama",
+        "level": 2,
+        "name": {
+          "local": "بوحمامة",
+          "en": "Bouhmama",
+          "slug": "bouhmama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40039"
+    ],
+    "geo": {
+      "lat": "35.156",
+      "lon": "6.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_bouhmama_yabous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يابوس",
+      "en": "Yabous",
+      "slug": "yabous"
+    },
+    "code": {
+      "id": "DZ040_bouhmama_yabous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_bouhmama",
+      "level": 2,
+      "name": {
+        "local": "بوحمامة",
+        "en": "Bouhmama",
+        "slug": "bouhmama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_bouhmama",
+        "level": 2,
+        "name": {
+          "local": "بوحمامة",
+          "en": "Bouhmama",
+          "slug": "bouhmama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40023"
+    ],
+    "geo": {
+      "lat": "35.395",
+      "lon": "6.644"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

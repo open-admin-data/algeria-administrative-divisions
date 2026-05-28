@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ007_djemorah_branis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برانيس",
+      "en": "Branis",
+      "slug": "branis"
+    },
+    "code": {
+      "id": "DZ007_djemorah_branis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_djemorah",
+      "level": 2,
+      "name": {
+        "local": "جمورة",
+        "en": "Djemorah",
+        "slug": "djemorah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_djemorah",
+        "level": 2,
+        "name": {
+          "local": "جمورة",
+          "en": "Djemorah",
+          "slug": "djemorah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07023"
+    ],
+    "geo": {
+      "lat": "34.974",
+      "lon": "5.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_djemorah_djemorah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جمورة",
+      "en": "Djemorah",
+      "slug": "djemorah"
+    },
+    "code": {
+      "id": "DZ007_djemorah_djemorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_djemorah",
+      "level": 2,
+      "name": {
+        "local": "جمورة",
+        "en": "Djemorah",
+        "slug": "djemorah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_djemorah",
+        "level": 2,
+        "name": {
+          "local": "جمورة",
+          "en": "Djemorah",
+          "slug": "djemorah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07025"
+    ],
+    "geo": {
+      "lat": "35.102",
+      "lon": "5.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

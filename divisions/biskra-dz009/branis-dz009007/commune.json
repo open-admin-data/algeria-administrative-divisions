@@ -1,0 +1,45 @@
+{
+  "id": "DZ009007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Branis",
+    "en": "Branis",
+    "slug": "branis-dz009007"
+  },
+  "code": {
+    "id": "DZ009007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.974",
+    "lon": "5.786"
+  },
+  "metadata": {},
+  "source": {}
+}

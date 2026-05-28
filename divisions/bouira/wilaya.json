@@ -1,0 +1,30 @@
+{
+  "id": "DZ010",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "البويرة",
+    "en": "Bouira",
+    "slug": "bouira"
+  },
+  "code": {
+    "id": "DZ010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 12,
+    "commune": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.233",
+    "lon": "3.908"
+  },
+  "metadata": {},
+  "source": {}
+}

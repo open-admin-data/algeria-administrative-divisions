@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+DZ036_el-kala_el-aioun,العيون,El Aioun,el-aioun,DZ036_el-kala_el-aioun,36018,36.823,8.628
+DZ036_el-kala_el-kala,القالة,El Kala,el-kala,DZ036_el-kala_el-kala,36002,36.877,8.384
+DZ036_el-kala_raml-souk,رمل السوق,Raml Souk,raml-souk,DZ036_el-kala_raml-souk,36021,36.815,8.544
+DZ036_el-kala_souarekh,السوارخ,Souarekh,souarekh,DZ036_el-kala_souarekh,36020,36.89,8.582

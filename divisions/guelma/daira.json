@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ024_ain-hessainia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين حساينية",
+      "en": "Ain Hessainia",
+      "slug": "ain-hessainia"
+    },
+    "code": {
+      "id": "DZ024_ain-hessainia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.428",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-makhlouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين مخلوف",
+      "en": "Ain Makhlouf",
+      "slug": "ain-makhlouf"
+    },
+    "code": {
+      "id": "DZ024_ain-makhlouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.215",
+      "lon": "7.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_bouchegouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوشقوف",
+      "en": "Bouchegouf",
+      "slug": "bouchegouf"
+    },
+    "code": {
+      "id": "DZ024_bouchegouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.507",
+      "lon": "7.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قلعة بوصبع",
+      "en": "Guelaat Bousbaa",
+      "slug": "guelaat-bousbaa"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.493",
+      "lon": "7.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    },
+    "code": {
+      "id": "DZ024_guelma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.456",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-debagh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام دباغ",
+      "en": "Hammam Debagh",
+      "slug": "hammam-debagh"
+    },
+    "code": {
+      "id": "DZ024_hammam-debagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.535",
+      "lon": "7.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-nbails",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام النبايل",
+      "en": "Hammam N'bails",
+      "slug": "hammam-nbails"
+    },
+    "code": {
+      "id": "DZ024_hammam-nbails",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.334",
+      "lon": "7.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_heliopolis",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "هيليوبوليس",
+      "en": "Heliopolis",
+      "slug": "heliopolis"
+    },
+    "code": {
+      "id": "DZ024_heliopolis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.556",
+      "lon": "7.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_khezaras",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خزارة",
+      "en": "Khezaras",
+      "slug": "khezaras"
+    },
+    "code": {
+      "id": "DZ024_khezaras",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.267",
+      "lon": "7.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_oued-zenati",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي الزناتي",
+      "en": "Oued Zenati",
+      "slug": "oued-zenati"
+    },
+    "code": {
+      "id": "DZ024_oued-zenati",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.355",
+      "lon": "7.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ007020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tamert",
+    "en": "Tamert",
+    "slug": "tamert-dz007020"
+  },
+  "code": {
+    "id": "DZ007020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.127",
+    "lon": "-1.918"
+  },
+  "metadata": {},
+  "source": {}
+}

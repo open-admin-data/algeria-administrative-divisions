@@ -1,0 +1,45 @@
+{
+  "id": "DZ048014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Mester",
+    "en": "Beni Mester",
+    "slug": "beni-mester-dz048014"
+  },
+  "code": {
+    "id": "DZ048014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.892",
+    "lon": "-1.425"
+  },
+  "metadata": {},
+  "source": {}
+}

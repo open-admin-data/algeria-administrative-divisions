@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_oued-endja",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "وادي النجاء",
+    "en": "Oued Endja",
+    "slug": "oued-endja"
+  },
+  "code": {
+    "id": "DZ043_oued-endja",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.468",
+    "lon": "6.139"
+  },
+  "metadata": {},
+  "source": {}
+}

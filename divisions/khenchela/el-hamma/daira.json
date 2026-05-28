@@ -1,0 +1,47 @@
+{
+  "id": "DZ040_el-hamma",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحامة",
+    "en": "El Hamma",
+    "slug": "el-hamma"
+  },
+  "code": {
+    "id": "DZ040_el-hamma",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.407",
+    "lon": "7.063"
+  },
+  "metadata": {},
+  "source": {}
+}

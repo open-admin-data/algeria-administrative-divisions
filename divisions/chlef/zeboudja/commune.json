@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_zeboudja_benairia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بنايرية",
+      "en": "Benairia",
+      "slug": "benairia"
+    },
+    "code": {
+      "id": "DZ002_zeboudja_benairia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_zeboudja",
+      "level": 2,
+      "name": {
+        "local": "الزبوجة",
+        "en": "Zeboudja",
+        "slug": "zeboudja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_zeboudja",
+        "level": 2,
+        "name": {
+          "local": "الزبوجة",
+          "en": "Zeboudja",
+          "slug": "zeboudja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02039"
+    ],
+    "geo": {
+      "lat": "36.388",
+      "lon": "1.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_zeboudja_bouzeghaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزغاية",
+      "en": "Bouzeghaia",
+      "slug": "bouzeghaia"
+    },
+    "code": {
+      "id": "DZ002_zeboudja_bouzeghaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_zeboudja",
+      "level": 2,
+      "name": {
+        "local": "الزبوجة",
+        "en": "Zeboudja",
+        "slug": "zeboudja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_zeboudja",
+        "level": 2,
+        "name": {
+          "local": "الزبوجة",
+          "en": "Zeboudja",
+          "slug": "zeboudja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02019"
+    ],
+    "geo": {
+      "lat": "36.365",
+      "lon": "1.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_zeboudja_zeboudja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزبوجة",
+      "en": "Zeboudja",
+      "slug": "zeboudja"
+    },
+    "code": {
+      "id": "DZ002_zeboudja_zeboudja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_zeboudja",
+      "level": 2,
+      "name": {
+        "local": "الزبوجة",
+        "en": "Zeboudja",
+        "slug": "zeboudja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_zeboudja",
+        "level": 2,
+        "name": {
+          "local": "الزبوجة",
+          "en": "Zeboudja",
+          "slug": "zeboudja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02014"
+    ],
+    "geo": {
+      "lat": "36.393",
+      "lon": "1.48"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ029_ain-fekan_ain-fekan",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فكان",
+      "en": "Ain Fekan",
+      "slug": "ain-fekan"
+    },
+    "code": {
+      "id": "DZ029_ain-fekan_ain-fekan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ain-fekan",
+      "level": 2,
+      "name": {
+        "local": "عين فكان",
+        "en": "Ain Fekan",
+        "slug": "ain-fekan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ain-fekan",
+        "level": 2,
+        "name": {
+          "local": "عين فكان",
+          "en": "Ain Fekan",
+          "slug": "ain-fekan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29011"
+    ],
+    "geo": {
+      "lat": "35.183",
+      "lon": "-0.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ain-fekan_ain-frass",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين أفرص",
+      "en": "Ain Frass",
+      "slug": "ain-frass"
+    },
+    "code": {
+      "id": "DZ029_ain-fekan_ain-frass",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ain-fekan",
+      "level": 2,
+      "name": {
+        "local": "عين فكان",
+        "en": "Ain Fekan",
+        "slug": "ain-fekan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ain-fekan",
+        "level": 2,
+        "name": {
+          "local": "عين فكان",
+          "en": "Ain Fekan",
+          "slug": "ain-fekan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29034"
+    ],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-0.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

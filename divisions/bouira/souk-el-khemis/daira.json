@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_souk-el-khemis",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سوق الخميس",
+    "en": "Souk El Khemis",
+    "slug": "souk-el-khemis"
+  },
+  "code": {
+    "id": "DZ010_souk-el-khemis",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.413",
+    "lon": "3.622"
+  },
+  "metadata": {},
+  "source": {}
+}

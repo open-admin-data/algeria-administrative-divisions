@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_chlef_chlef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef"
+    },
+    "code": {
+      "id": "DZ002_chlef_chlef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_chlef",
+      "level": 2,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_chlef",
+        "level": 2,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02100"
+    ],
+    "geo": {
+      "lat": "36.174",
+      "lon": "1.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_chlef_oum-drou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم الدروع",
+      "en": "Oum Drou",
+      "slug": "oum-drou"
+    },
+    "code": {
+      "id": "DZ002_chlef_oum-drou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_chlef",
+      "level": 2,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_chlef",
+        "level": 2,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02024"
+    ],
+    "geo": {
+      "lat": "36.207",
+      "lon": "1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_chlef_sendjas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سنجاس",
+      "en": "Sendjas",
+      "slug": "sendjas"
+    },
+    "code": {
+      "id": "DZ002_chlef_sendjas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_chlef",
+      "level": 2,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_chlef",
+        "level": 2,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02025"
+    ],
+    "geo": {
+      "lat": "36.043",
+      "lon": "1.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

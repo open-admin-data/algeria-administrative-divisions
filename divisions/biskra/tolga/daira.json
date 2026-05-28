@@ -1,0 +1,47 @@
+{
+  "id": "DZ007_tolga",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "طولقة",
+    "en": "Tolga",
+    "slug": "tolga"
+  },
+  "code": {
+    "id": "DZ007_tolga",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.794",
+    "lon": "5.34"
+  },
+  "metadata": {},
+  "source": {}
+}

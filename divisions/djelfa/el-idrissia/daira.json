@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_el-idrissia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الادريسية",
+    "en": "El Idrissia",
+    "slug": "el-idrissia"
+  },
+  "code": {
+    "id": "DZ017_el-idrissia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.305",
+    "lon": "2.611"
+  },
+  "metadata": {},
+  "source": {}
+}

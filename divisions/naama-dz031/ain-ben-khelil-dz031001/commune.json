@@ -1,0 +1,45 @@
+{
+  "id": "DZ031001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Ben Khelil",
+    "en": "Ain Ben Khelil",
+    "slug": "ain-ben-khelil-dz031001"
+  },
+  "code": {
+    "id": "DZ031001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.164",
+    "lon": "-0.95"
+  },
+  "metadata": {},
+  "source": {}
+}

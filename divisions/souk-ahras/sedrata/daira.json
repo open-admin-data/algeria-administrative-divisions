@@ -1,0 +1,47 @@
+{
+  "id": "DZ041_sedrata",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سدراتة",
+    "en": "Sedrata",
+    "slug": "sedrata"
+  },
+  "code": {
+    "id": "DZ041_sedrata",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.173",
+    "lon": "7.505"
+  },
+  "metadata": {},
+  "source": {}
+}

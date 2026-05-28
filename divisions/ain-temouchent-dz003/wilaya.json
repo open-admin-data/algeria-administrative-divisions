@@ -1,0 +1,29 @@
+{
+  "id": "DZ003",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عين تموشنت",
+    "en": "Ain-Temouchent",
+    "slug": "ain-temouchent-dz003"
+  },
+  "code": {
+    "id": "DZ003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.367",
+    "lon": "-0.947"
+  },
+  "metadata": {},
+  "source": {}
+}

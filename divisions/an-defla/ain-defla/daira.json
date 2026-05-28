@@ -1,0 +1,47 @@
+{
+  "id": "DZ044_ain-defla",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الدفلى",
+    "en": "Ain Defla",
+    "slug": "ain-defla"
+  },
+  "code": {
+    "id": "DZ044_ain-defla",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ044",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلة",
+      "en": "Aïn Defla",
+      "slug": "an-defla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.257",
+    "lon": "1.955"
+  },
+  "metadata": {},
+  "source": {}
+}

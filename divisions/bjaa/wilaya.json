@@ -1,0 +1,30 @@
+{
+  "id": "DZ006",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": " بجاية",
+    "en": "Béjaïa",
+    "slug": "bjaa"
+  },
+  "code": {
+    "id": "DZ006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 19,
+    "commune": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.575",
+    "lon": "4.791"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ010018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Meftah",
+    "en": "Meftah",
+    "slug": "meftah-dz010018"
+  },
+  "code": {
+    "id": "DZ010018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.626",
+    "lon": "3.229"
+  },
+  "metadata": {},
+  "source": {}
+}

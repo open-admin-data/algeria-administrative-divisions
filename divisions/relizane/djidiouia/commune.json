@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ048_djidiouia_djidiouia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جديوية",
+      "en": "Djidiouia",
+      "slug": "djidiouia"
+    },
+    "code": {
+      "id": "DZ048_djidiouia_djidiouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_djidiouia",
+      "level": 2,
+      "name": {
+        "local": "جديوية",
+        "en": "Djidiouia",
+        "slug": "djidiouia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_djidiouia",
+        "level": 2,
+        "name": {
+          "local": "جديوية",
+          "en": "Djidiouia",
+          "slug": "djidiouia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48005"
+    ],
+    "geo": {
+      "lat": "35.953",
+      "lon": "0.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_djidiouia_hamri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمري",
+      "en": "Hamri",
+      "slug": "hamri"
+    },
+    "code": {
+      "id": "DZ048_djidiouia_hamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_djidiouia",
+      "level": 2,
+      "name": {
+        "local": "جديوية",
+        "en": "Djidiouia",
+        "slug": "djidiouia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_djidiouia",
+        "level": 2,
+        "name": {
+          "local": "جديوية",
+          "en": "Djidiouia",
+          "slug": "djidiouia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48051"
+    ],
+    "geo": {
+      "lat": "35.96",
+      "lon": "0.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_djidiouia_ouled-sidi-mihoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سيدي الميهوب",
+      "en": "Ouled Sidi Mihoub",
+      "slug": "ouled-sidi-mihoub"
+    },
+    "code": {
+      "id": "DZ048_djidiouia_ouled-sidi-mihoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_djidiouia",
+      "level": 2,
+      "name": {
+        "local": "جديوية",
+        "en": "Djidiouia",
+        "slug": "djidiouia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_djidiouia",
+        "level": 2,
+        "name": {
+          "local": "جديوية",
+          "en": "Djidiouia",
+          "slug": "djidiouia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48061"
+    ],
+    "geo": {
+      "lat": "35.967",
+      "lon": "0.682"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

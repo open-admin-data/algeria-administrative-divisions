@@ -1,0 +1,45 @@
+{
+  "id": "DZ028024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Merouane",
+    "en": "Sidi Merouane",
+    "slug": "sidi-merouane-dz028024"
+  },
+  "code": {
+    "id": "DZ028024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.515",
+    "lon": "6.26"
+  },
+  "metadata": {},
+  "source": {}
+}

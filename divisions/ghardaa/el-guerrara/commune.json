@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_el-guerrara_el-guerrara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القرارة",
+      "en": "El Guerrara",
+      "slug": "el-guerrara"
+    },
+    "code": {
+      "id": "DZ047_el-guerrara_el-guerrara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_el-guerrara",
+      "level": 2,
+      "name": {
+        "local": "القرارة",
+        "en": "El Guerrara",
+        "slug": "el-guerrara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_el-guerrara",
+        "level": 2,
+        "name": {
+          "local": "القرارة",
+          "en": "El Guerrara",
+          "slug": "el-guerrara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47004"
+    ],
+    "geo": {
+      "lat": "32.78",
+      "lon": "4.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

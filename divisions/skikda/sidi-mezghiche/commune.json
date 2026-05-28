@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_sidi-mezghiche_ain-bouziane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بوزيان",
+      "en": "Ain Bouziane",
+      "slug": "ain-bouziane"
+    },
+    "code": {
+      "id": "DZ021_sidi-mezghiche_ain-bouziane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_sidi-mezghiche",
+      "level": 2,
+      "name": {
+        "local": "سيدي مزغيش",
+        "en": "Sidi Mezghiche",
+        "slug": "sidi-mezghiche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_sidi-mezghiche",
+        "level": 2,
+        "name": {
+          "local": "سيدي مزغيش",
+          "en": "Sidi Mezghiche",
+          "slug": "sidi-mezghiche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21031"
+    ],
+    "geo": {
+      "lat": "36.606",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_sidi-mezghiche_beni-oulbane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني ولبان",
+      "en": "Beni Oulbane",
+      "slug": "beni-oulbane"
+    },
+    "code": {
+      "id": "DZ021_sidi-mezghiche_beni-oulbane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_sidi-mezghiche",
+      "level": 2,
+      "name": {
+        "local": "سيدي مزغيش",
+        "en": "Sidi Mezghiche",
+        "slug": "sidi-mezghiche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_sidi-mezghiche",
+        "level": 2,
+        "name": {
+          "local": "سيدي مزغيش",
+          "en": "Sidi Mezghiche",
+          "slug": "sidi-mezghiche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21011"
+    ],
+    "geo": {
+      "lat": "36.646",
+      "lon": "6.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_sidi-mezghiche_sidi-mezghiche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي مزغيش",
+      "en": "Sidi Mezghiche",
+      "slug": "sidi-mezghiche"
+    },
+    "code": {
+      "id": "DZ021_sidi-mezghiche_sidi-mezghiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_sidi-mezghiche",
+      "level": 2,
+      "name": {
+        "local": "سيدي مزغيش",
+        "en": "Sidi Mezghiche",
+        "slug": "sidi-mezghiche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_sidi-mezghiche",
+        "level": 2,
+        "name": {
+          "local": "سيدي مزغيش",
+          "en": "Sidi Mezghiche",
+          "slug": "sidi-mezghiche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21023"
+    ],
+    "geo": {
+      "lat": "36.712",
+      "lon": "6.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

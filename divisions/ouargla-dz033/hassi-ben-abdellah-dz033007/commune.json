@@ -1,0 +1,45 @@
+{
+  "id": "DZ033007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi Ben Abdellah",
+    "en": "Hassi Ben Abdellah",
+    "slug": "hassi-ben-abdellah-dz033007"
+  },
+  "code": {
+    "id": "DZ033007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.225",
+    "lon": "5.859"
+  },
+  "metadata": {},
+  "source": {}
+}

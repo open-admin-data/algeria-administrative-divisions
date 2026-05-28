@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_djezzar_azil-abedelkader",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عزيل عبد القادر",
+      "en": "Azil Abedelkader",
+      "slug": "azil-abedelkader"
+    },
+    "code": {
+      "id": "DZ005_djezzar_azil-abedelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_djezzar",
+      "level": 2,
+      "name": {
+        "local": "الجزار",
+        "en": "Djezzar",
+        "slug": "djezzar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_djezzar",
+        "level": 2,
+        "name": {
+          "local": "الجزار",
+          "en": "Djezzar",
+          "slug": "djezzar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05087"
+    ],
+    "geo": {
+      "lat": "35.492",
+      "lon": "5.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_djezzar_djezzar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الجزار",
+      "en": "Djezzar",
+      "slug": "djezzar"
+    },
+    "code": {
+      "id": "DZ005_djezzar_djezzar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_djezzar",
+      "level": 2,
+      "name": {
+        "local": "الجزار",
+        "en": "Djezzar",
+        "slug": "djezzar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_djezzar",
+        "level": 2,
+        "name": {
+          "local": "الجزار",
+          "en": "Djezzar",
+          "slug": "djezzar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05046"
+    ],
+    "geo": {
+      "lat": "35.517",
+      "lon": "5.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_djezzar_ouled-ammar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عمار",
+      "en": "Ouled Ammar",
+      "slug": "ouled-ammar"
+    },
+    "code": {
+      "id": "DZ005_djezzar_ouled-ammar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_djezzar",
+      "level": 2,
+      "name": {
+        "local": "الجزار",
+        "en": "Djezzar",
+        "slug": "djezzar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_djezzar",
+        "level": 2,
+        "name": {
+          "local": "الجزار",
+          "en": "Djezzar",
+          "slug": "djezzar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05121"
+    ],
+    "geo": {
+      "lat": "35.466",
+      "lon": "5.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

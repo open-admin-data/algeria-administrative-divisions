@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_merouana",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مروانة",
+    "en": "Merouana",
+    "slug": "merouana"
+  },
+  "code": {
+    "id": "DZ005_merouana",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.615",
+    "lon": "5.95"
+  },
+  "metadata": {},
+  "source": {}
+}

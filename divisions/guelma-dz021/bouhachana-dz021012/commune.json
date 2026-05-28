@@ -1,0 +1,45 @@
+{
+  "id": "DZ021012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouhachana",
+    "en": "Bouhachana",
+    "slug": "bouhachana-dz021012"
+  },
+  "code": {
+    "id": "DZ021012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.303",
+    "lon": "7.477"
+  },
+  "metadata": {},
+  "source": {}
+}

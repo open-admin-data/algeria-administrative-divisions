@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "DZ012001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghbalou",
+      "en": "Aghbalou",
+      "slug": "aghbalou-dz012001"
+    },
+    "code": {
+      "id": "DZ012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.429",
+      "lon": "4.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ahl El Ksar",
+      "en": "Ahl El Ksar",
+      "slug": "ahl-el-ksar-dz012002"
+    },
+    "code": {
+      "id": "DZ012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.245",
+      "lon": "4.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Bessam",
+      "en": "Ain Bessam",
+      "slug": "ain-bessam-dz012003"
+    },
+    "code": {
+      "id": "DZ012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.339",
+      "lon": "3.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Hadjar",
+      "en": "Ain El Hadjar",
+      "slug": "ain-el-hadjar-dz012004"
+    },
+    "code": {
+      "id": "DZ012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.365",
+      "lon": "3.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Laloui",
+      "en": "Ain Laloui",
+      "slug": "ain-laloui-dz012005"
+    },
+    "code": {
+      "id": "DZ012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.309",
+      "lon": "3.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Turk",
+      "en": "Ain Turk",
+      "slug": "ain-turk-dz012006"
+    },
+    "code": {
+      "id": "DZ012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.409",
+      "lon": "3.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Laaziz",
+      "en": "Ait Laaziz",
+      "slug": "ait-laaziz-dz012007"
+    },
+    "code": {
+      "id": "DZ012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.446",
+      "lon": "3.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aomar",
+      "en": "Aomar",
+      "slug": "aomar-dz012008"
+    },
+    "code": {
+      "id": "DZ012008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.503",
+      "lon": "3.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ath Mansour",
+      "en": "Ath Mansour",
+      "slug": "ath-mansour-dz012009"
+    },
+    "code": {
+      "id": "DZ012009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.302",
+      "lon": "4.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bechloul",
+      "en": "Bechloul",
+      "slug": "bechloul-dz012010"
+    },
+    "code": {
+      "id": "DZ012010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.377",
+      "lon": "4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Ghbalou",
+      "en": "Bir Ghbalou",
+      "slug": "bir-ghbalou-dz012011"
+    },
+    "code": {
+      "id": "DZ012011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.272",
+      "lon": "3.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Oukhriss",
+      "en": "Bordj Oukhriss",
+      "slug": "bordj-oukhriss-dz012012"
+    },
+    "code": {
+      "id": "DZ012012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.096",
+      "lon": "3.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouderbala",
+      "en": "Bouderbala",
+      "slug": "bouderbala-dz012013"
+    },
+    "code": {
+      "id": "DZ012013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.57",
+      "lon": "3.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouira",
+      "en": "Bouira",
+      "slug": "bouira-dz012014"
+    },
+    "code": {
+      "id": "DZ012014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.375",
+      "lon": "3.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukram",
+      "en": "Boukram",
+      "slug": "boukram-dz012015"
+    },
+    "code": {
+      "id": "DZ012015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.521",
+      "lon": "3.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chorfa",
+      "en": "Chorfa",
+      "slug": "chorfa-dz012016"
+    },
+    "code": {
+      "id": "DZ012016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.381",
+      "lon": "4.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dechmia",
+      "en": "Dechmia",
+      "slug": "dechmia-dz012017"
+    },
+    "code": {
+      "id": "DZ012017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.139",
+      "lon": "3.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dirah",
+      "en": "Dirah",
+      "slug": "dirah-dz012018"
+    },
+    "code": {
+      "id": "DZ012018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.004",
+      "lon": "3.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebahia",
+      "en": "Djebahia",
+      "slug": "djebahia-dz012019"
+    },
+    "code": {
+      "id": "DZ012019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.463",
+      "lon": "3.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Adjiba",
+      "en": "El Adjiba",
+      "slug": "el-adjiba-dz012020"
+    },
+    "code": {
+      "id": "DZ012020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.374",
+      "lon": "4.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Asnam",
+      "en": "El Asnam",
+      "slug": "el-asnam-dz012021"
+    },
+    "code": {
+      "id": "DZ012021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.373",
+      "lon": "4.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hachimia",
+      "en": "El Hachimia",
+      "slug": "el-hachimia-dz012022"
+    },
+    "code": {
+      "id": "DZ012022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.225",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hakimia",
+      "en": "El Hakimia",
+      "slug": "el-hakimia-dz012023"
+    },
+    "code": {
+      "id": "DZ012023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.093",
+      "lon": "3.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Khabouzia",
+      "en": "El Khabouzia",
+      "slug": "el-khabouzia-dz012024"
+    },
+    "code": {
+      "id": "DZ012024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.313",
+      "lon": "3.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mokrani",
+      "en": "El Mokrani",
+      "slug": "el-mokrani-dz012025"
+    },
+    "code": {
+      "id": "DZ012025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.429",
+      "lon": "3.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guerrouma",
+      "en": "Guerrouma",
+      "slug": "guerrouma-dz012026"
+    },
+    "code": {
+      "id": "DZ012026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.471",
+      "lon": "3.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadjera Zerga",
+      "en": "Hadjera Zerga",
+      "slug": "hadjera-zerga-dz012027"
+    },
+    "code": {
+      "id": "DZ012027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.949",
+      "lon": "3.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haizer",
+      "en": "Haizer",
+      "slug": "haizer-dz012028"
+    },
+    "code": {
+      "id": "DZ012028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.409",
+      "lon": "4.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hanif",
+      "en": "Hanif",
+      "slug": "hanif-dz012029"
+    },
+    "code": {
+      "id": "DZ012029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.266",
+      "lon": "4.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kadiria",
+      "en": "Kadiria",
+      "slug": "kadiria-dz012030"
+    },
+    "code": {
+      "id": "DZ012030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.527",
+      "lon": "3.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lakhdaria",
+      "en": "Lakhdaria",
+      "slug": "lakhdaria-dz012031"
+    },
+    "code": {
+      "id": "DZ012031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.564",
+      "lon": "3.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Chedallah",
+      "en": "M'Chedallah",
+      "slug": "mchedallah-dz012034"
+    },
+    "code": {
+      "id": "DZ012034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.368",
+      "lon": "4.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maala",
+      "en": "Maala",
+      "slug": "maala-dz012032"
+    },
+    "code": {
+      "id": "DZ012032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.496",
+      "lon": "3.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maamora",
+      "en": "Maamora",
+      "slug": "maamora-dz012033"
+    },
+    "code": {
+      "id": "DZ012033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.002",
+      "lon": "3.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mezdour",
+      "en": "Mezdour",
+      "slug": "mezdour-dz012035"
+    },
+    "code": {
+      "id": "DZ012035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.075",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Berdi",
+      "en": "Oued El Berdi",
+      "slug": "oued-el-berdi-dz012036"
+    },
+    "code": {
+      "id": "DZ012036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.258",
+      "lon": "3.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Rached",
+      "en": "Ouled Rached",
+      "slug": "ouled-rached-dz012037"
+    },
+    "code": {
+      "id": "DZ012037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.206",
+      "lon": "4.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Raouraoua",
+      "en": "Raouraoua",
+      "slug": "raouraoua-dz012038"
+    },
+    "code": {
+      "id": "DZ012038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.218",
+      "lon": "3.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ridane",
+      "en": "Ridane",
+      "slug": "ridane-dz012039"
+    },
+    "code": {
+      "id": "DZ012039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.072",
+      "lon": "3.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saharidj",
+      "en": "Saharidj",
+      "slug": "saharidj-dz012040"
+    },
+    "code": {
+      "id": "DZ012040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.433",
+      "lon": "4.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk El Khemis",
+      "en": "Souk El Khemis",
+      "slug": "souk-el-khemis-dz012041"
+    },
+    "code": {
+      "id": "DZ012041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.396",
+      "lon": "3.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sour El Ghozlane",
+      "en": "Sour El Ghozlane",
+      "slug": "sour-el-ghozlane-dz012042"
+    },
+    "code": {
+      "id": "DZ012042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.171",
+      "lon": "3.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taghzout",
+      "en": "Taghzout",
+      "slug": "taghzout-dz012043"
+    },
+    "code": {
+      "id": "DZ012043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.417",
+      "lon": "3.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taguedit",
+      "en": "Taguedit",
+      "slug": "taguedit-dz012044"
+    },
+    "code": {
+      "id": "DZ012044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.956",
+      "lon": "3.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zbarbar",
+      "en": "Zbarbar",
+      "slug": "zbarbar-dz012045"
+    },
+    "code": {
+      "id": "DZ012045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira-dz012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.474",
+      "lon": "3.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

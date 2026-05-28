@@ -1,0 +1,425 @@
+[
+  {
+    "id": "DZ035_baghlia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بغلية",
+      "en": "Baghlia",
+      "slug": "baghlia"
+    },
+    "code": {
+      "id": "DZ035_baghlia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.82",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_bordj-menaiel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج منايل",
+      "en": "Bordj Menaiel",
+      "slug": "bordj-menaiel"
+    },
+    "code": {
+      "id": "DZ035_bordj-menaiel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.795",
+      "lon": "3.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boudouaou",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بودواو",
+      "en": "Boudouaou",
+      "slug": "boudouaou"
+    },
+    "code": {
+      "id": "DZ035_boudouaou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.681",
+      "lon": "3.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boumerdes",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes"
+    },
+    "code": {
+      "id": "DZ035_boumerdes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.737",
+      "lon": "3.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_dellys",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "دلس",
+      "en": "Dellys",
+      "slug": "dellys"
+    },
+    "code": {
+      "id": "DZ035_dellys",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.861",
+      "lon": "3.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_isser",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "يسر",
+      "en": "Isser",
+      "slug": "isser"
+    },
+    "code": {
+      "id": "DZ035_isser",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.684",
+      "lon": "3.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_khemis-el-khechna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خميس الخشنة",
+      "en": "Khemis El Khechna",
+      "slug": "khemis-el-khechna"
+    },
+    "code": {
+      "id": "DZ035_khemis-el-khechna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.654",
+      "lon": "3.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_naciria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الناصرية",
+      "en": "Naciria",
+      "slug": "naciria"
+    },
+    "code": {
+      "id": "DZ035_naciria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.77",
+      "lon": "3.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_thenia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الثنية",
+      "en": "Thenia",
+      "slug": "thenia"
+    },
+    "code": {
+      "id": "DZ035_thenia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.49",
+      "lon": "2.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ007003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Abbes",
+    "en": "Beni Abbes",
+    "slug": "beni-abbes-dz007003"
+  },
+  "code": {
+    "id": "DZ007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.071",
+    "lon": "-2.58"
+  },
+  "metadata": {},
+  "source": {}
+}

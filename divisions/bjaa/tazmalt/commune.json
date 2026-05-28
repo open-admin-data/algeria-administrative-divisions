@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ006_tazmalt_beni-mallikeche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني مليكش",
+      "en": "Beni-Mallikeche",
+      "slug": "beni-mallikeche"
+    },
+    "code": {
+      "id": "DZ006_tazmalt_beni-mallikeche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tazmalt",
+      "level": 2,
+      "name": {
+        "local": "تازملت",
+        "en": "Tazmalt",
+        "slug": "tazmalt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tazmalt",
+        "level": 2,
+        "name": {
+          "local": "تازملت",
+          "en": "Tazmalt",
+          "slug": "tazmalt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06039"
+    ],
+    "geo": {
+      "lat": "36.362",
+      "lon": "4.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tazmalt_boudjellil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بو جليل",
+      "en": "Boudjellil",
+      "slug": "boudjellil"
+    },
+    "code": {
+      "id": "DZ006_tazmalt_boudjellil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tazmalt",
+      "level": 2,
+      "name": {
+        "local": "تازملت",
+        "en": "Tazmalt",
+        "slug": "tazmalt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tazmalt",
+        "level": 2,
+        "name": {
+          "local": "تازملت",
+          "en": "Tazmalt",
+          "slug": "tazmalt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06018"
+    ],
+    "geo": {
+      "lat": "36.325",
+      "lon": "4.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tazmalt_tazmalt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تازمالت",
+      "en": "Tazmalt",
+      "slug": "tazmalt"
+    },
+    "code": {
+      "id": "DZ006_tazmalt_tazmalt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tazmalt",
+      "level": 2,
+      "name": {
+        "local": "تازملت",
+        "en": "Tazmalt",
+        "slug": "tazmalt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tazmalt",
+        "level": 2,
+        "name": {
+          "local": "تازملت",
+          "en": "Tazmalt",
+          "slug": "tazmalt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06006"
+    ],
+    "geo": {
+      "lat": "36.4",
+      "lon": "4.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

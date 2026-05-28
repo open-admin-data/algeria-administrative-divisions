@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ049_charouine_charouine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شروين",
+      "en": "Charouine",
+      "slug": "charouine"
+    },
+    "code": {
+      "id": "DZ049_charouine_charouine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_charouine",
+      "level": 2,
+      "name": {
+        "local": "شروين",
+        "en": "Charouine",
+        "slug": "charouine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_charouine",
+        "level": 2,
+        "name": {
+          "local": "شروين",
+          "en": "Charouine",
+          "slug": "charouine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01014"
+    ],
+    "geo": {
+      "lat": "33.118",
+      "lon": "1.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049_charouine_ouled-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عيسى",
+      "en": "Ouled Aissa",
+      "slug": "ouled-aissa"
+    },
+    "code": {
+      "id": "DZ049_charouine_ouled-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_charouine",
+      "level": 2,
+      "name": {
+        "local": "شروين",
+        "en": "Charouine",
+        "slug": "charouine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_charouine",
+        "level": 2,
+        "name": {
+          "local": "شروين",
+          "en": "Charouine",
+          "slug": "charouine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01051"
+    ],
+    "geo": {
+      "lat": "36.81",
+      "lon": "3.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049_charouine_talmine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طالمين",
+      "en": "Talmine",
+      "slug": "talmine"
+    },
+    "code": {
+      "id": "DZ049_charouine_talmine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_charouine",
+      "level": 2,
+      "name": {
+        "local": "شروين",
+        "en": "Charouine",
+        "slug": "charouine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_charouine",
+        "level": 2,
+        "name": {
+          "local": "شروين",
+          "en": "Charouine",
+          "slug": "charouine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01034"
+    ],
+    "geo": {
+      "lat": "29.426",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

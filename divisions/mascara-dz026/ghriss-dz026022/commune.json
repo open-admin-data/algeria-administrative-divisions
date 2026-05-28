@@ -1,0 +1,45 @@
+{
+  "id": "DZ026022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ghriss",
+    "en": "Ghriss",
+    "slug": "ghriss-dz026022"
+  },
+  "code": {
+    "id": "DZ026022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.232",
+    "lon": "0.167"
+  },
+  "metadata": {},
+  "source": {}
+}

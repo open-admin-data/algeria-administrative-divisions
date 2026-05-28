@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ002_ouled-ben-abdelkader_el-hadjadj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحجاج",
+      "en": "El Hadjadj",
+      "slug": "el-hadjadj"
+    },
+    "code": {
+      "id": "DZ002_ouled-ben-abdelkader_el-hadjadj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ouled-ben-abdelkader",
+      "level": 2,
+      "name": {
+        "local": "أولاد بن عبد القادر",
+        "en": "Ouled Ben Abdelkader",
+        "slug": "ouled-ben-abdelkader"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ouled-ben-abdelkader",
+        "level": 2,
+        "name": {
+          "local": "أولاد بن عبد القادر",
+          "en": "Ouled Ben Abdelkader",
+          "slug": "ouled-ben-abdelkader"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02050"
+    ],
+    "geo": {
+      "lat": "36.007",
+      "lon": "1.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_ouled-ben-abdelkader_ouled-ben-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد بن عبد القادر",
+      "en": "Ouled Ben Abdelkader",
+      "slug": "ouled-ben-abdelkader"
+    },
+    "code": {
+      "id": "DZ002_ouled-ben-abdelkader_ouled-ben-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ouled-ben-abdelkader",
+      "level": 2,
+      "name": {
+        "local": "أولاد بن عبد القادر",
+        "en": "Ouled Ben Abdelkader",
+        "slug": "ouled-ben-abdelkader"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ouled-ben-abdelkader",
+        "level": 2,
+        "name": {
+          "local": "أولاد بن عبد القادر",
+          "en": "Ouled Ben Abdelkader",
+          "slug": "ouled-ben-abdelkader"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02037"
+    ],
+    "geo": {
+      "lat": "35.97",
+      "lon": "1.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

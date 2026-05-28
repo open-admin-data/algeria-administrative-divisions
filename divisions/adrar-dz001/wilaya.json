@@ -1,0 +1,29 @@
+{
+  "id": "DZ001",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "أدرا",
+    "en": "Adrar",
+    "slug": "adrar-dz001"
+  },
+  "code": {
+    "id": "DZ001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.91",
+    "lon": "-1.916"
+  },
+  "metadata": {},
+  "source": {}
+}

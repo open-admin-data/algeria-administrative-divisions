@@ -1,0 +1,45 @@
+{
+  "id": "DZ041005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "In Ghar",
+    "en": "In Ghar",
+    "slug": "in-ghar-dz041005"
+  },
+  "code": {
+    "id": "DZ041005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.565",
+    "lon": "1.845"
+  },
+  "metadata": {},
+  "source": {}
+}

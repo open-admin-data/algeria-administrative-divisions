@@ -1,0 +1,29 @@
+{
+  "id": "DZ024",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "خنشلة",
+    "en": "Khenchela",
+    "slug": "khenchela-dz024"
+  },
+  "code": {
+    "id": "DZ024",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.916",
+    "lon": "6.904"
+  },
+  "metadata": {},
+  "source": {}
+}

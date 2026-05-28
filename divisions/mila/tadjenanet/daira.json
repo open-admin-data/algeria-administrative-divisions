@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_tadjenanet",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تاجنانت",
+    "en": "Tadjenanet",
+    "slug": "tadjenanet"
+  },
+  "code": {
+    "id": "DZ043_tadjenanet",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.133",
+    "lon": "6.02"
+  },
+  "metadata": {},
+  "source": {}
+}

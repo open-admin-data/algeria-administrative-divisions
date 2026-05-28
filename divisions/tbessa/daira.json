@@ -1,0 +1,566 @@
+[
+  {
+    "id": "DZ012_bir-el-ater",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر العاتر",
+      "en": "Bir El Ater",
+      "slug": "bir-el-ater"
+    },
+    "code": {
+      "id": "DZ012_bir-el-ater",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.913",
+      "lon": "8.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_bir-mokadem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر مقدم",
+      "en": "Bir Mokadem",
+      "slug": "bir-mokadem"
+    },
+    "code": {
+      "id": "DZ012_bir-mokadem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_cheria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الشريعة",
+      "en": "Cheria",
+      "slug": "cheria"
+    },
+    "code": {
+      "id": "DZ012_cheria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.251",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-aouinet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العوينات",
+      "en": "El Aouinet",
+      "slug": "el-aouinet"
+    },
+    "code": {
+      "id": "DZ012_el-aouinet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.83",
+      "lon": "7.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-kouif",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الكويف",
+      "en": "El Kouif",
+      "slug": "el-kouif"
+    },
+    "code": {
+      "id": "DZ012_el-kouif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.468",
+      "lon": "8.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-malabiod",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الماء الابيض",
+      "en": "El Malabiod",
+      "slug": "el-malabiod"
+    },
+    "code": {
+      "id": "DZ012_el-malabiod",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "8.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-ogla",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العقلة",
+      "en": "El Ogla",
+      "slug": "el-ogla"
+    },
+    "code": {
+      "id": "DZ012_el-ogla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.14",
+      "lon": "7.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_morsott",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مرسط",
+      "en": "Morsott",
+      "slug": "morsott"
+    },
+    "code": {
+      "id": "DZ012_morsott",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.562",
+      "lon": "7.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_negrine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "نقرين",
+      "en": "Negrine",
+      "slug": "negrine"
+    },
+    "code": {
+      "id": "DZ012_negrine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.446",
+      "lon": "7.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_ouenza",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الونزة",
+      "en": "Ouenza",
+      "slug": "ouenza"
+    },
+    "code": {
+      "id": "DZ012_ouenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.728",
+      "lon": "8.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_oum-ali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أم علي",
+      "en": "Oum Ali",
+      "slug": "oum-ali"
+    },
+    "code": {
+      "id": "DZ012_oum-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.087",
+      "lon": "8.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_tebessa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa"
+    },
+    "code": {
+      "id": "DZ012_tebessa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.403",
+      "lon": "8.091"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

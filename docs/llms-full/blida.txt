@@ -1,0 +1,159 @@
+# Blida — Algeria Administrative Divisions
+
+> 10 dairas, 25 communes
+> Code: DZ009
+> Coordinates: 36.504, 2.956
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### البليدة (Blida)
+
+Code: DZ009_blida, Coordinates: 36.45, 2.8
+Communes: 2
+
+#### البليدة (Blida)
+
+Code: DZ009_blida_blida, Postal: 09000, Coordinates: 36.483, 2.808
+
+#### بوعرفة (Bouarfa)
+
+Code: DZ009_blida_bouarfa, Postal: 09019, Coordinates: 36.417, 2.793
+
+### بوفاريك (Boufarik)
+
+Code: DZ009_boufarik, Coordinates: 36.192, 3.529
+Communes: 3
+
+#### بوفاريك (Boufarik)
+
+Code: DZ009_boufarik_boufarik, Postal: 09001, Coordinates: 36.582, 2.921
+
+#### قرواو (Guerrouaou)
+
+Code: DZ009_boufarik_guerrouaou, Postal: 09029, Coordinates: 36.505, 2.891
+
+#### الصومعة (Soumaa)
+
+Code: DZ009_boufarik_soumaa, Postal: 09022, Coordinates: 35.49, 4.776
+
+### بوقرة (Bougara)
+
+Code: DZ009_bougara, Coordinates: 36.032, 2.558
+Communes: 3
+
+#### بوقرة (Bougara)
+
+Code: DZ009_bougara_bougara, Postal: 09008, Coordinates: 35.548, 1.988
+
+#### حمام ملوان (Hammam Elouane)
+
+Code: DZ009_bougara_hammam-elouane, Postal: 09030, Coordinates: 36.032, 2.558
+
+#### اولاد سلامة (Ouled Slama)
+
+Code: DZ009_bougara_ouled-slama, Postal: 09033, Coordinates: 36.517, 3.127
+
+### بوعينان (Bouinan)
+
+Code: DZ009_bouinan, Coordinates: 36.546, 3.004
+Communes: 2
+
+#### بوعينان (Bouinan)
+
+Code: DZ009_bouinan_bouinan, Postal: 09020, Coordinates: 36.519, 2.99
+
+#### الشبلي (Chebli)
+
+Code: DZ009_bouinan_chebli, Postal: 09009, Coordinates: 36.572, 3.018
+
+### العفرون (El Affroun)
+
+Code: DZ009_el-affroun, Coordinates: 36.438, 2.582
+Communes: 2
+
+#### العفرون (El-Affroun)
+
+Code: DZ009_el-affroun_el-affroun, Postal: 09011, Coordinates: 36.45, 2.623
+
+#### وادي جر (Oued  Djer)
+
+Code: DZ009_el-affroun_oued-djer, Postal: 09032, Coordinates: 36.426, 2.541
+
+### الأربعاء (Larbaa)
+
+Code: DZ009_larbaa, Coordinates: 36.222, 2.356
+Communes: 2
+
+#### الأربعاء (Larbaa)
+
+Code: DZ009_larbaa_larbaa, Postal: 09002, Coordinates: 35.914, 1.462
+
+#### صوحان (Souhane)
+
+Code: DZ009_larbaa_souhane, Postal: 09034, Coordinates: 36.531, 3.25
+
+### مفتاح (Meftah)
+
+Code: DZ009_meftah, Coordinates: 36.606, 3.244
+Communes: 2
+
+#### جبابرة (Djebabra)
+
+Code: DZ009_meftah_djebabra, Postal: 09028, Coordinates: 36.586, 3.258
+
+#### مفتاح (Meftah)
+
+Code: DZ009_meftah_meftah, Postal: 09012, Coordinates: 36.626, 3.229
+
+### موزاية (Mouzaia)
+
+Code: DZ009_mouzaia, Coordinates: 36.449, 2.693
+Communes: 3
+
+#### عين الرمانة (Ain Romana)
+
+Code: DZ009_mouzaia_ain-romana, Postal: 09023, Coordinates: 36.391, 2.672
+
+#### الشفة (Chiffa)
+
+Code: DZ009_mouzaia_chiffa, Postal: 09010, Coordinates: 36.45, 2.73
+
+#### موزاية (Mouzaia)
+
+Code: DZ009_mouzaia_mouzaia, Postal: 09013, Coordinates: 36.507, 2.678
+
+### وادي العلايق (Oued El Alleug)
+
+Code: DZ009_oued-el-alleug, Coordinates: 36.549, 2.795
+Communes: 3
+
+#### بني تامو (Beni-Tamou)
+
+Code: DZ009_oued-el-alleug_beni-tamou, Postal: 09024, Coordinates: 36.543, 2.818
+
+#### بن خليل (Benkhelil)
+
+Code: DZ009_oued-el-alleug_benkhelil, Postal: 09025, Coordinates: 36.549, 2.795
+
+#### وادي العلايق (Oued El Alleug)
+
+Code: DZ009_oued-el-alleug_oued-el-alleug, Postal: 09014, Coordinates: 36.554, 2.771
+
+### أولاد يعيش (Ouled Yaich)
+
+Code: DZ009_ouled-yaich, Coordinates: 36.257, 2.238
+Communes: 3
+
+#### بني مراد (Beni Mered)
+
+Code: DZ009_ouled-yaich_beni-mered, Postal: 09003, Coordinates: 36.536, 2.86
+
+#### الشريعة (Chrea)
+
+Code: DZ009_ouled-yaich_chrea, Postal: 09027, Coordinates: 36.429, 2.883
+
+#### أولاد يعيش (Ouled Yaich)
+
+Code: DZ009_ouled-yaich_ouled-yaich, Postal: 09015, Coordinates: 35.807, 0.971
+

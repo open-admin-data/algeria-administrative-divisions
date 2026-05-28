@@ -1,0 +1,47 @@
+{
+  "id": "DZ038_khemisti",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "خميستي",
+    "en": "Khemisti",
+    "slug": "khemisti"
+  },
+  "code": {
+    "id": "DZ038_khemisti",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.678",
+    "lon": "2.002"
+  },
+  "metadata": {},
+  "source": {}
+}

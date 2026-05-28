@@ -1,0 +1,331 @@
+[
+  {
+    "id": "DZ036_ben-mhidi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بن مهيدي",
+      "en": "Ben M'hidi",
+      "slug": "ben-mhidi"
+    },
+    "code": {
+      "id": "DZ036_ben-mhidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.825",
+      "lon": "7.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_besbes",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البسباس",
+      "en": "Besbes",
+      "slug": "besbes"
+    },
+    "code": {
+      "id": "DZ036_besbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.698",
+      "lon": "7.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouhadjar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوحجار",
+      "en": "Bouhadjar",
+      "slug": "bouhadjar"
+    },
+    "code": {
+      "id": "DZ036_bouhadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "5.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouteldja",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوثلجة",
+      "en": "Bouteldja",
+      "slug": "bouteldja"
+    },
+    "code": {
+      "id": "DZ036_bouteldja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.74",
+      "lon": "8.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_drean",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الذرعان",
+      "en": "Drean",
+      "slug": "drean"
+    },
+    "code": {
+      "id": "DZ036_drean",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.65",
+      "lon": "7.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-kala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القالة",
+      "en": "El Kala",
+      "slug": "el-kala"
+    },
+    "code": {
+      "id": "DZ036_el-kala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.851",
+      "lon": "8.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-tarf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    },
+    "code": {
+      "id": "DZ036_el-tarf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.806",
+      "lon": "7.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

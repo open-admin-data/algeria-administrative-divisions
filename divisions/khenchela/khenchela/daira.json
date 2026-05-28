@@ -1,0 +1,47 @@
+{
+  "id": "DZ040_khenchela",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "خنشلة",
+    "en": "Khenchela",
+    "slug": "khenchela"
+  },
+  "code": {
+    "id": "DZ040_khenchela",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.439",
+    "lon": "7.138"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_azeffoun_aghribs",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أغريب",
+      "en": "Aghribs",
+      "slug": "aghribs"
+    },
+    "code": {
+      "id": "DZ015_azeffoun_aghribs",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azeffoun",
+      "level": 2,
+      "name": {
+        "local": "أزفون",
+        "en": "Azeffoun",
+        "slug": "azeffoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azeffoun",
+        "level": 2,
+        "name": {
+          "local": "أزفون",
+          "en": "Azeffoun",
+          "slug": "azeffoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15021"
+    ],
+    "geo": {
+      "lat": "36.84",
+      "lon": "4.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azeffoun_ait-chafaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت شافع",
+      "en": "Ait-Chafaa",
+      "slug": "ait-chafaa"
+    },
+    "code": {
+      "id": "DZ015_azeffoun_ait-chafaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azeffoun",
+      "level": 2,
+      "name": {
+        "local": "أزفون",
+        "en": "Azeffoun",
+        "slug": "azeffoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azeffoun",
+        "level": 2,
+        "name": {
+          "local": "أزفون",
+          "en": "Azeffoun",
+          "slug": "azeffoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15059"
+    ],
+    "geo": {
+      "lat": "36.84",
+      "lon": "4.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azeffoun_akerrou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أقرو",
+      "en": "Akerrou",
+      "slug": "akerrou"
+    },
+    "code": {
+      "id": "DZ015_azeffoun_akerrou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azeffoun",
+      "level": 2,
+      "name": {
+        "local": "أزفون",
+        "en": "Azeffoun",
+        "slug": "azeffoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azeffoun",
+        "level": 2,
+        "name": {
+          "local": "أزفون",
+          "en": "Azeffoun",
+          "slug": "azeffoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15027"
+    ],
+    "geo": {
+      "lat": "36.811",
+      "lon": "4.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azeffoun_azeffoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أزفون",
+      "en": "Azeffoun",
+      "slug": "azeffoun"
+    },
+    "code": {
+      "id": "DZ015_azeffoun_azeffoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azeffoun",
+      "level": 2,
+      "name": {
+        "local": "أزفون",
+        "en": "Azeffoun",
+        "slug": "azeffoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azeffoun",
+        "level": 2,
+        "name": {
+          "local": "أزفون",
+          "en": "Azeffoun",
+          "slug": "azeffoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15010"
+    ],
+    "geo": {
+      "lat": "36.87",
+      "lon": "4.398"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ025_hamma-bouziane_didouche-mourad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ديدوش مراد",
+      "en": "Didouche Mourad",
+      "slug": "didouche-mourad"
+    },
+    "code": {
+      "id": "DZ025_hamma-bouziane_didouche-mourad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_hamma-bouziane",
+      "level": 2,
+      "name": {
+        "local": "حامة بوزيان",
+        "en": "Hamma Bouziane",
+        "slug": "hamma-bouziane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_hamma-bouziane",
+        "level": 2,
+        "name": {
+          "local": "حامة بوزيان",
+          "en": "Hamma Bouziane",
+          "slug": "hamma-bouziane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25024"
+    ],
+    "geo": {
+      "lat": "36.467",
+      "lon": "6.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_hamma-bouziane_hamma-bouziane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حامة بوزيان",
+      "en": "Hamma Bouziane",
+      "slug": "hamma-bouziane"
+    },
+    "code": {
+      "id": "DZ025_hamma-bouziane_hamma-bouziane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_hamma-bouziane",
+      "level": 2,
+      "name": {
+        "local": "حامة بوزيان",
+        "en": "Hamma Bouziane",
+        "slug": "hamma-bouziane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_hamma-bouziane",
+        "level": 2,
+        "name": {
+          "local": "حامة بوزيان",
+          "en": "Hamma Bouziane",
+          "slug": "hamma-bouziane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25013"
+    ],
+    "geo": {
+      "lat": "36.43",
+      "lon": "6.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

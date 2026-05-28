@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ039_robbah_el-ogla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العقلة",
+      "en": "El Ogla",
+      "slug": "el-ogla"
+    },
+    "code": {
+      "id": "DZ039_robbah_el-ogla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_robbah",
+      "level": 2,
+      "name": {
+        "local": "الرباح",
+        "en": "Robbah",
+        "slug": "robbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_robbah",
+        "level": 2,
+        "name": {
+          "local": "الرباح",
+          "en": "Robbah",
+          "slug": "robbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12015"
+    ],
+    "geo": {
+      "lat": "35.243",
+      "lon": "7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_robbah_nakhla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "النخلة",
+      "en": "Nakhla",
+      "slug": "nakhla"
+    },
+    "code": {
+      "id": "DZ039_robbah_nakhla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_robbah",
+      "level": 2,
+      "name": {
+        "local": "الرباح",
+        "en": "Robbah",
+        "slug": "robbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_robbah",
+        "level": 2,
+        "name": {
+          "local": "الرباح",
+          "en": "Robbah",
+          "slug": "robbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39031"
+    ],
+    "geo": {
+      "lat": "33.174",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_robbah_robbah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرباح",
+      "en": "Robbah",
+      "slug": "robbah"
+    },
+    "code": {
+      "id": "DZ039_robbah_robbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_robbah",
+      "level": 2,
+      "name": {
+        "local": "الرباح",
+        "en": "Robbah",
+        "slug": "robbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_robbah",
+        "level": 2,
+        "name": {
+          "local": "الرباح",
+          "en": "Robbah",
+          "slug": "robbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39017"
+    ],
+    "geo": {
+      "lat": "32.935",
+      "lon": "6.886"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

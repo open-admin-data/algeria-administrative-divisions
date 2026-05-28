@@ -1,0 +1,45 @@
+{
+  "id": "DZ045007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bourkika",
+    "en": "Bourkika",
+    "slug": "bourkika-dz045007"
+  },
+  "code": {
+    "id": "DZ045007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.482",
+    "lon": "2.505"
+  },
+  "metadata": {},
+  "source": {}
+}

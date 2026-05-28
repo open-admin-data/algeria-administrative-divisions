@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_ferdjioua",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "فرجيوة",
+    "en": "Ferdjioua",
+    "slug": "ferdjioua"
+  },
+  "code": {
+    "id": "DZ043_ferdjioua",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.408",
+    "lon": "5.939"
+  },
+  "metadata": {},
+  "source": {}
+}

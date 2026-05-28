@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ001_tsabit_sebaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السبع",
+      "en": "Sebaa",
+      "slug": "sebaa"
+    },
+    "code": {
+      "id": "DZ001_tsabit_sebaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_tsabit",
+      "level": 2,
+      "name": {
+        "local": "تسابيت",
+        "en": "Tsabit",
+        "slug": "tsabit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_tsabit",
+        "level": 2,
+        "name": {
+          "local": "تسابيت",
+          "en": "Tsabit",
+          "slug": "tsabit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01022"
+    ],
+    "geo": {
+      "lat": "28.255",
+      "lon": "-0.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_tsabit_tsabit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسابيت",
+      "en": "Tsabit",
+      "slug": "tsabit"
+    },
+    "code": {
+      "id": "DZ001_tsabit_tsabit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_tsabit",
+      "level": 2,
+      "name": {
+        "local": "تسابيت",
+        "en": "Tsabit",
+        "slug": "tsabit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_tsabit",
+        "level": 2,
+        "name": {
+          "local": "تسابيت",
+          "en": "Tsabit",
+          "slug": "tsabit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01011"
+    ],
+    "geo": {
+      "lat": "28.679",
+      "lon": "-1.284"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

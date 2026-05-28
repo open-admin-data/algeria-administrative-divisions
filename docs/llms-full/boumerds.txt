@@ -1,0 +1,182 @@
+# Boumerdès — Algeria Administrative Divisions
+
+> 9 dairas, 32 communes
+> Code: DZ035
+> Coordinates: 36.707, 3.549
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بغلية (Baghlia)
+
+Code: DZ035_baghlia, Coordinates: 36.82, 3.88
+Communes: 3
+
+#### بغلية (Baghlia)
+
+Code: DZ035_baghlia_baghlia, Postal: 35013, Coordinates: 36.799, 3.87
+
+#### سيدي داود (Sidi Daoud)
+
+Code: DZ035_baghlia_sidi-daoud, Postal: 35019, Coordinates: 36.866, 3.827
+
+#### تاورقة (Taourga)
+
+Code: DZ035_baghlia_taourga, Postal: 35029, Coordinates: 36.796, 3.942
+
+### برج منايل (Bordj Menaiel)
+
+Code: DZ035_bordj-menaiel, Coordinates: 36.795, 3.692
+Communes: 4
+
+#### برج منايل (Bordj Menaiel)
+
+Code: DZ035_bordj-menaiel_bordj-menaiel, Postal: 35001, Coordinates: 36.752, 3.731
+
+#### جنات (Djinet)
+
+Code: DZ035_bordj-menaiel_djinet, Postal: 35024, Coordinates: 36.847, 3.742
+
+#### لقاطة (Leghata)
+
+Code: DZ035_bordj-menaiel_leghata, Postal: 35026, Coordinates: 36.795, 3.692
+
+#### زموري (Zemmouri)
+
+Code: DZ035_bordj-menaiel_zemmouri, Postal: 35012, Coordinates: 36.786, 3.603
+
+### بودواو (Boudouaou)
+
+Code: DZ035_boudouaou, Coordinates: 36.681, 3.434
+Communes: 5
+
+#### بودواو (Boudouaou)
+
+Code: DZ035_boudouaou_boudouaou, Postal: 35003, Coordinates: 36.712, 3.418
+
+#### بودواو البحري (Boudouaou El Bahri)
+
+Code: DZ035_boudouaou_boudouaou-el-bahri, Postal: 35023, Coordinates: 36.763, 3.402
+
+#### بوزقزة قدارة (Bouzegza Keddara)
+
+Code: DZ035_boudouaou_bouzegza-keddara, Postal: 35038, Coordinates: 36.636, 3.488
+
+#### الخروبة (El Kharrouba)
+
+Code: DZ035_boudouaou_el-kharrouba, Coordinates: 36.612, 3.427
+
+#### أولاد هداج (Ouled Hedadj)
+
+Code: DZ035_boudouaou_ouled-hedadj, Postal: 35052, Coordinates: 36.681, 3.434
+
+### بومرداس (Boumerdes)
+
+Code: DZ035_boumerdes, Coordinates: 36.737, 3.478
+Communes: 3
+
+#### بومرداس (Boumerdes)
+
+Code: DZ035_boumerdes_boumerdes, Postal: 35000, Coordinates: 36.761, 3.495
+
+#### قورصو (Corso)
+
+Code: DZ035_boumerdes_corso, Postal: 35014, Coordinates: 36.731, 3.444
+
+#### تيجلابين (Tidjelabine)
+
+Code: DZ035_boumerdes_tidjelabine, Postal: 35021, Coordinates: 36.718, 3.496
+
+### دلس (Dellys)
+
+Code: DZ035_dellys, Coordinates: 36.861, 3.949
+Communes: 3
+
+#### أعفير (Afir)
+
+Code: DZ035_dellys_afir, Postal: 35022, Coordinates: 36.857, 4.002
+
+#### بن شود (Ben Choud)
+
+Code: DZ035_dellys_ben-choud, Postal: 35033, Coordinates: 36.854, 3.905
+
+#### دلس (Dellys)
+
+Code: DZ035_dellys_dellys, Postal: 35004, Coordinates: 36.871, 3.941
+
+### يسر (Isser)
+
+Code: DZ035_isser, Coordinates: 36.684, 3.695
+Communes: 4
+
+#### شعبة العامر (Chabet El Ameur)
+
+Code: DZ035_isser_chabet-el-ameur, Postal: 35008, Coordinates: 36.636, 3.68
+
+#### يسر (Isser)
+
+Code: DZ035_isser_isser, Postal: 35009, Coordinates: 36.697, 3.69
+
+#### سي مصطفى (Si Mustapha)
+
+Code: DZ035_isser_si-mustapha, Postal: 35028, Coordinates: 36.736, 3.618
+
+#### تيمزريت (Timezrit)
+
+Code: DZ035_isser_timezrit, Postal: 06019, Coordinates: 36.666, 3.79
+
+### خميس الخشنة (Khemis El Khechna)
+
+Code: DZ035_khemis-el-khechna, Coordinates: 36.654, 3.333
+Communes: 4
+
+#### حمادي (Hammedi)
+
+Code: DZ035_khemis-el-khechna_hammedi, Postal: 35015, Coordinates: 36.681, 3.262
+
+#### خميس الخشنة (Khemis El Khechna)
+
+Code: DZ035_khemis-el-khechna_khemis-el-khechna, Postal: 35010, Coordinates: 36.635, 3.323
+
+#### الاربعطاش (Larbatache)
+
+Code: DZ035_khemis-el-khechna_larbatache, Postal: 35017, Coordinates: 36.611, 3.369
+
+#### أولاد موسى (Ouled Moussa)
+
+Code: DZ035_khemis-el-khechna_ouled-moussa, Postal: 35011, Coordinates: 36.688, 3.379
+
+### الناصرية (Naciria)
+
+Code: DZ035_naciria, Coordinates: 36.77, 3.817
+Communes: 2
+
+#### الناصرية (Naciria)
+
+Code: DZ035_naciria_naciria, Postal: 35018, Coordinates: 36.73, 3.822
+
+#### أولاد عيسى (Ouled Aissa)
+
+Code: DZ035_naciria_ouled-aissa, Postal: 01051, Coordinates: 36.81, 3.812
+
+### الثنية (Thenia)
+
+Code: DZ035_thenia, Coordinates: 36.49, 2.996
+Communes: 4
+
+#### عمال (Ammal)
+
+Code: DZ035_thenia_ammal, Postal: 35031, Coordinates: 36.622, 3.587
+
+#### بني عمران (Beni Amrane)
+
+Code: DZ035_thenia_beni-amrane, Postal: 35006, Coordinates: 36.662, 3.573
+
+#### سوق الحد (Souk El Had)
+
+Code: DZ035_thenia_souk-el-had, Coordinates: 35.938, 1.269
+
+#### الثنية (Thenia)
+
+Code: DZ035_thenia_thenia, Postal: 35005, Coordinates: 36.737, 3.554
+

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ040_el-hamma_baghai",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بغاي",
+      "en": "Baghai",
+      "slug": "baghai"
+    },
+    "code": {
+      "id": "DZ040_el-hamma_baghai",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_el-hamma",
+      "level": 2,
+      "name": {
+        "local": "الحامة",
+        "en": "El Hamma",
+        "slug": "el-hamma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_el-hamma",
+        "level": 2,
+        "name": {
+          "local": "الحامة",
+          "en": "El Hamma",
+          "slug": "el-hamma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40014"
+    ],
+    "geo": {
+      "lat": "35.52",
+      "lon": "7.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_el-hamma_el-hamma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحامة",
+      "en": "El Hamma",
+      "slug": "el-hamma"
+    },
+    "code": {
+      "id": "DZ040_el-hamma_el-hamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_el-hamma",
+      "level": 2,
+      "name": {
+        "local": "الحامة",
+        "en": "El Hamma",
+        "slug": "el-hamma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_el-hamma",
+        "level": 2,
+        "name": {
+          "local": "الحامة",
+          "en": "El Hamma",
+          "slug": "el-hamma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40031"
+    ],
+    "geo": {
+      "lat": "35.473",
+      "lon": "7.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_el-hamma_ensigha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "انسيغة",
+      "en": "Ensigha",
+      "slug": "ensigha"
+    },
+    "code": {
+      "id": "DZ040_el-hamma_ensigha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_el-hamma",
+      "level": 2,
+      "name": {
+        "local": "الحامة",
+        "en": "El Hamma",
+        "slug": "el-hamma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_el-hamma",
+        "level": 2,
+        "name": {
+          "local": "الحامة",
+          "en": "El Hamma",
+          "slug": "el-hamma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40043"
+    ],
+    "geo": {
+      "lat": "35.339",
+      "lon": "7.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_el-hamma_tamza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طامزة",
+      "en": "Tamza",
+      "slug": "tamza"
+    },
+    "code": {
+      "id": "DZ040_el-hamma_tamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_el-hamma",
+      "level": 2,
+      "name": {
+        "local": "الحامة",
+        "en": "El Hamma",
+        "slug": "el-hamma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_el-hamma",
+        "level": 2,
+        "name": {
+          "local": "الحامة",
+          "en": "El Hamma",
+          "slug": "el-hamma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40024"
+    ],
+    "geo": {
+      "lat": "35.297",
+      "lon": "6.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

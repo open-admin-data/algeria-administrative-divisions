@@ -1,0 +1,47 @@
+{
+  "id": "DZ001_tsabit",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تسابيت",
+    "en": "Tsabit",
+    "slug": "tsabit"
+  },
+  "code": {
+    "id": "DZ001_tsabit",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.467",
+    "lon": "-0.661"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ018028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taleb Larbi",
+    "en": "Taleb Larbi",
+    "slug": "taleb-larbi-dz018028"
+  },
+  "code": {
+    "id": "DZ018028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.708",
+    "lon": "7.451"
+  },
+  "metadata": {},
+  "source": {}
+}

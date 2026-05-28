@@ -1,0 +1,45 @@
+{
+  "id": "DZ010021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued El Alleug",
+    "en": "Oued El Alleug",
+    "slug": "oued-el-alleug-dz010021"
+  },
+  "code": {
+    "id": "DZ010021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.554",
+    "lon": "2.771"
+  },
+  "metadata": {},
+  "source": {}
+}

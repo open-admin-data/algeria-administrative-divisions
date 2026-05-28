@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ010_bordj-okhriss_bordj-okhriss",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج أوخريص",
+      "en": "Bordj Okhriss",
+      "slug": "bordj-okhriss"
+    },
+    "code": {
+      "id": "DZ010_bordj-okhriss_bordj-okhriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bordj-okhriss",
+      "level": 2,
+      "name": {
+        "local": "برج أوخريص",
+        "en": "Bordj Okhriss",
+        "slug": "bordj-okhriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bordj-okhriss",
+        "level": 2,
+        "name": {
+          "local": "برج أوخريص",
+          "en": "Bordj Okhriss",
+          "slug": "bordj-okhriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10014"
+    ],
+    "geo": {
+      "lat": "36.012",
+      "lon": "3.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bordj-okhriss_hadjera-zerga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحجرة الزرقاء",
+      "en": "Hadjera Zerga",
+      "slug": "hadjera-zerga"
+    },
+    "code": {
+      "id": "DZ010_bordj-okhriss_hadjera-zerga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bordj-okhriss",
+      "level": 2,
+      "name": {
+        "local": "برج أوخريص",
+        "en": "Bordj Okhriss",
+        "slug": "bordj-okhriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bordj-okhriss",
+        "level": 2,
+        "name": {
+          "local": "برج أوخريص",
+          "en": "Bordj Okhriss",
+          "slug": "bordj-okhriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10065"
+    ],
+    "geo": {
+      "lat": "35.949",
+      "lon": "3.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bordj-okhriss_mezdour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مزدور",
+      "en": "Mezdour",
+      "slug": "mezdour"
+    },
+    "code": {
+      "id": "DZ010_bordj-okhriss_mezdour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bordj-okhriss",
+      "level": 2,
+      "name": {
+        "local": "برج أوخريص",
+        "en": "Bordj Okhriss",
+        "slug": "bordj-okhriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bordj-okhriss",
+        "level": 2,
+        "name": {
+          "local": "برج أوخريص",
+          "en": "Bordj Okhriss",
+          "slug": "bordj-okhriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10040"
+    ],
+    "geo": {
+      "lat": "36.075",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bordj-okhriss_taguedite",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاقديت",
+      "en": "Taguedite",
+      "slug": "taguedite"
+    },
+    "code": {
+      "id": "DZ010_bordj-okhriss_taguedite",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bordj-okhriss",
+      "level": 2,
+      "name": {
+        "local": "برج أوخريص",
+        "en": "Bordj Okhriss",
+        "slug": "bordj-okhriss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bordj-okhriss",
+        "level": 2,
+        "name": {
+          "local": "برج أوخريص",
+          "en": "Bordj Okhriss",
+          "slug": "bordj-okhriss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10045"
+    ],
+    "geo": {
+      "lat": "36.012",
+      "lon": "3.941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

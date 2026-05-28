@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_tadjenanet_benyahia-abderrahmane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن يحي عبد الرحمن",
+      "en": "Benyahia Abderrahmane",
+      "slug": "benyahia-abderrahmane"
+    },
+    "code": {
+      "id": "DZ043_tadjenanet_benyahia-abderrahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_tadjenanet",
+      "level": 2,
+      "name": {
+        "local": "تاجنانت",
+        "en": "Tadjenanet",
+        "slug": "tadjenanet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_tadjenanet",
+        "level": 2,
+        "name": {
+          "local": "تاجنانت",
+          "en": "Tadjenanet",
+          "slug": "tadjenanet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43020"
+    ],
+    "geo": {
+      "lat": "36.217",
+      "lon": "6.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_tadjenanet_ouled-khalouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد اخلوف",
+      "en": "Ouled Khalouf",
+      "slug": "ouled-khalouf"
+    },
+    "code": {
+      "id": "DZ043_tadjenanet_ouled-khalouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_tadjenanet",
+      "level": 2,
+      "name": {
+        "local": "تاجنانت",
+        "en": "Tadjenanet",
+        "slug": "tadjenanet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_tadjenanet",
+        "level": 2,
+        "name": {
+          "local": "تاجنانت",
+          "en": "Tadjenanet",
+          "slug": "tadjenanet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43032"
+    ],
+    "geo": {
+      "lat": "36.133",
+      "lon": "6.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_tadjenanet_tadjenanet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاجنانت",
+      "en": "Tadjenanet",
+      "slug": "tadjenanet"
+    },
+    "code": {
+      "id": "DZ043_tadjenanet_tadjenanet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_tadjenanet",
+      "level": 2,
+      "name": {
+        "local": "تاجنانت",
+        "en": "Tadjenanet",
+        "slug": "tadjenanet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_tadjenanet",
+        "level": 2,
+        "name": {
+          "local": "تاجنانت",
+          "en": "Tadjenanet",
+          "slug": "tadjenanet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43007"
+    ],
+    "geo": {
+      "lat": "36.049",
+      "lon": "6.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

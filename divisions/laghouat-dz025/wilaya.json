@@ -1,0 +1,29 @@
+{
+  "id": "DZ025",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الأغواط",
+    "en": "Laghouat",
+    "slug": "laghouat-dz025"
+  },
+  "code": {
+    "id": "DZ025",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.75",
+    "lon": "2.639"
+  },
+  "metadata": {},
+  "source": {}
+}

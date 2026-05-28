@@ -1,0 +1,45 @@
+{
+  "id": "DZ023009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djmila",
+    "en": "Djmila",
+    "slug": "djmila-dz023009"
+  },
+  "code": {
+    "id": "DZ023009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.582",
+    "lon": "5.898"
+  },
+  "metadata": {},
+  "source": {}
+}

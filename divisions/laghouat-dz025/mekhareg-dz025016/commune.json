@@ -1,0 +1,45 @@
+{
+  "id": "DZ025016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mekhareg",
+    "en": "Mekhareg",
+    "slug": "mekhareg-dz025016"
+  },
+  "code": {
+    "id": "DZ025016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.526",
+    "lon": "3.039"
+  },
+  "metadata": {},
+  "source": {}
+}

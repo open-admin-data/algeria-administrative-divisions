@@ -1,0 +1,47 @@
+{
+  "id": "DZ024_oued-zenati",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "وادي الزناتي",
+    "en": "Oued Zenati",
+    "slug": "oued-zenati"
+  },
+  "code": {
+    "id": "DZ024_oued-zenati",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.355",
+    "lon": "7.119"
+  },
+  "metadata": {},
+  "source": {}
+}

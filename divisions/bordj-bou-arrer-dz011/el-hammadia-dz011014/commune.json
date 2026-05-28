@@ -1,0 +1,45 @@
+{
+  "id": "DZ011014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hammadia",
+    "en": "El Hammadia",
+    "slug": "el-hammadia-dz011014"
+  },
+  "code": {
+    "id": "DZ011014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.977",
+    "lon": "4.769"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ008023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ferraoun",
+    "en": "Ferraoun",
+    "slug": "ferraoun-dz008023"
+  },
+  "code": {
+    "id": "DZ008023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.568",
+    "lon": "4.884"
+  },
+  "metadata": {},
+  "source": {}
+}

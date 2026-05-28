@@ -1,0 +1,30 @@
+{
+  "id": "DZ033",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "إليزي",
+    "en": "Illizi",
+    "slug": "illizi"
+  },
+  "code": {
+    "id": "DZ033",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 2,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.526",
+    "lon": "8.07"
+  },
+  "metadata": {},
+  "source": {}
+}

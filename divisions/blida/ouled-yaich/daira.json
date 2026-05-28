@@ -1,0 +1,47 @@
+{
+  "id": "DZ009_ouled-yaich",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد يعيش",
+    "en": "Ouled Yaich",
+    "slug": "ouled-yaich"
+  },
+  "code": {
+    "id": "DZ009_ouled-yaich",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.257",
+    "lon": "2.238"
+  },
+  "metadata": {},
+  "source": {}
+}

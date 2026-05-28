@@ -1,0 +1,45 @@
+{
+  "id": "DZ046022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Youssoufia",
+    "en": "Youssoufia",
+    "slug": "youssoufia-dz046022"
+  },
+  "code": {
+    "id": "DZ046022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.899",
+    "lon": "2.126"
+  },
+  "metadata": {},
+  "source": {}
+}

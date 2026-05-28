@@ -1,0 +1,45 @@
+{
+  "id": "DZ013007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boudouaou",
+    "en": "Boudouaou",
+    "slug": "boudouaou-dz013007"
+  },
+  "code": {
+    "id": "DZ013007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.712",
+    "lon": "3.418"
+  },
+  "metadata": {},
+  "source": {}
+}

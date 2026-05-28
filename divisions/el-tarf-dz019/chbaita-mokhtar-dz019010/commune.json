@@ -1,0 +1,45 @@
+{
+  "id": "DZ019010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chbaita Mokhtar",
+    "en": "Chbaita Mokhtar",
+    "slug": "chbaita-mokhtar-dz019010"
+  },
+  "code": {
+    "id": "DZ019010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.745",
+    "lon": "7.735"
+  },
+  "metadata": {},
+  "source": {}
+}

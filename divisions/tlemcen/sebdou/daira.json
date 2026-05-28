@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_sebdou",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سبدو",
+    "en": "Sebdou",
+    "slug": "sebdou"
+  },
+  "code": {
+    "id": "DZ013_sebdou",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.53",
+    "lon": "-1.18"
+  },
+  "metadata": {},
+  "source": {}
+}

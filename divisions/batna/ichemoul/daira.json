@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_ichemoul",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "إشمول",
+    "en": "Ichemoul",
+    "slug": "ichemoul"
+  },
+  "code": {
+    "id": "DZ005_ichemoul",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.349",
+    "lon": "6.49"
+  },
+  "metadata": {},
+  "source": {}
+}

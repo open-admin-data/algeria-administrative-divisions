@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ004_ain-babouche_ain-babouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين ببوش",
+      "en": "Ain Babouche",
+      "slug": "ain-babouche"
+    },
+    "code": {
+      "id": "DZ004_ain-babouche_ain-babouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-babouche",
+      "level": 2,
+      "name": {
+        "local": "عين ببوش",
+        "en": "Ain Babouche",
+        "slug": "ain-babouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-babouche",
+        "level": 2,
+        "name": {
+          "local": "عين ببوش",
+          "en": "Ain Babouche",
+          "slug": "ain-babouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04020"
+    ],
+    "geo": {
+      "lat": "35.983",
+      "lon": "7.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-babouche_ain-diss",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الديس",
+      "en": "Ain Diss",
+      "slug": "ain-diss"
+    },
+    "code": {
+      "id": "DZ004_ain-babouche_ain-diss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-babouche",
+      "level": 2,
+      "name": {
+        "local": "عين ببوش",
+        "en": "Ain Babouche",
+        "slug": "ain-babouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-babouche",
+        "level": 2,
+        "name": {
+          "local": "عين ببوش",
+          "en": "Ain Babouche",
+          "slug": "ain-babouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04025"
+    ],
+    "geo": {
+      "lat": "36.016",
+      "lon": "7.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

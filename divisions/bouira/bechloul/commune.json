@@ -1,0 +1,280 @@
+[
+  {
+    "id": "DZ010_bechloul_ahl-el-ksar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أهل القصر",
+      "en": "Ahl El Ksar",
+      "slug": "ahl-el-ksar"
+    },
+    "code": {
+      "id": "DZ010_bechloul_ahl-el-ksar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bechloul",
+      "level": 2,
+      "name": {
+        "local": "بشلول",
+        "en": "Bechloul",
+        "slug": "bechloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bechloul",
+        "level": 2,
+        "name": {
+          "local": "بشلول",
+          "en": "Bechloul",
+          "slug": "bechloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10008"
+    ],
+    "geo": {
+      "lat": "36.245",
+      "lon": "4.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bechloul_bechloul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بشلول",
+      "en": "Bechloul",
+      "slug": "bechloul"
+    },
+    "code": {
+      "id": "DZ010_bechloul_bechloul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bechloul",
+      "level": 2,
+      "name": {
+        "local": "بشلول",
+        "en": "Bechloul",
+        "slug": "bechloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bechloul",
+        "level": 2,
+        "name": {
+          "local": "بشلول",
+          "en": "Bechloul",
+          "slug": "bechloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10012"
+    ],
+    "geo": {
+      "lat": "36.377",
+      "lon": "4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bechloul_el-adjiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العجيبة",
+      "en": "El Adjiba",
+      "slug": "el-adjiba"
+    },
+    "code": {
+      "id": "DZ010_bechloul_el-adjiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bechloul",
+      "level": 2,
+      "name": {
+        "local": "بشلول",
+        "en": "Bechloul",
+        "slug": "bechloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bechloul",
+        "level": 2,
+        "name": {
+          "local": "بشلول",
+          "en": "Bechloul",
+          "slug": "bechloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10021"
+    ],
+    "geo": {
+      "lat": "36.374",
+      "lon": "4.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bechloul_el-asnam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأسنام",
+      "en": "El Asnam",
+      "slug": "el-asnam"
+    },
+    "code": {
+      "id": "DZ010_bechloul_el-asnam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bechloul",
+      "level": 2,
+      "name": {
+        "local": "بشلول",
+        "en": "Bechloul",
+        "slug": "bechloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bechloul",
+        "level": 2,
+        "name": {
+          "local": "بشلول",
+          "en": "Bechloul",
+          "slug": "bechloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10022"
+    ],
+    "geo": {
+      "lat": "36.373",
+      "lon": "4.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bechloul_ouled-rached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد راشد",
+      "en": "Ouled Rached",
+      "slug": "ouled-rached"
+    },
+    "code": {
+      "id": "DZ010_bechloul_ouled-rached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bechloul",
+      "level": 2,
+      "name": {
+        "local": "بشلول",
+        "en": "Bechloul",
+        "slug": "bechloul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bechloul",
+        "level": 2,
+        "name": {
+          "local": "بشلول",
+          "en": "Bechloul",
+          "slug": "bechloul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.206",
+      "lon": "4.117"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

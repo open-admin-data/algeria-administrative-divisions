@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_beni-snous_azail",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العزايل",
+      "en": "Azail",
+      "slug": "azail"
+    },
+    "code": {
+      "id": "DZ013_beni-snous_azail",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_beni-snous",
+      "level": 2,
+      "name": {
+        "local": "بني سنوس",
+        "en": "Beni Snous",
+        "slug": "beni-snous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_beni-snous",
+        "level": 2,
+        "name": {
+          "local": "بني سنوس",
+          "en": "Beni Snous",
+          "slug": "beni-snous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13080"
+    ],
+    "geo": {
+      "lat": "34.671",
+      "lon": "-1.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_beni-snous_beni-bahdel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني بهدل",
+      "en": "Beni Bahdel",
+      "slug": "beni-bahdel"
+    },
+    "code": {
+      "id": "DZ013_beni-snous_beni-bahdel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_beni-snous",
+      "level": 2,
+      "name": {
+        "local": "بني سنوس",
+        "en": "Beni Snous",
+        "slug": "beni-snous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_beni-snous",
+        "level": 2,
+        "name": {
+          "local": "بني سنوس",
+          "en": "Beni Snous",
+          "slug": "beni-snous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13060"
+    ],
+    "geo": {
+      "lat": "34.713",
+      "lon": "-1.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_beni-snous_beni-snous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني سنوس",
+      "en": "Beni Snous",
+      "slug": "beni-snous"
+    },
+    "code": {
+      "id": "DZ013_beni-snous_beni-snous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_beni-snous",
+      "level": 2,
+      "name": {
+        "local": "بني سنوس",
+        "en": "Beni Snous",
+        "slug": "beni-snous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_beni-snous",
+        "level": 2,
+        "name": {
+          "local": "بني سنوس",
+          "en": "Beni Snous",
+          "slug": "beni-snous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13037"
+    ],
+    "geo": {
+      "lat": "34.628",
+      "lon": "-1.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

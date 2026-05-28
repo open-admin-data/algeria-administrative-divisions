@@ -1,0 +1,47 @@
+{
+  "id": "DZ025_constantine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قسنطينة",
+    "en": "Constantine",
+    "slug": "constantine"
+  },
+  "code": {
+    "id": "DZ025_constantine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.356",
+    "lon": "6.61"
+  },
+  "metadata": {},
+  "source": {}
+}

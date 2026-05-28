@@ -1,0 +1,45 @@
+{
+  "id": "DZ028031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Yahia Beni Guecha",
+    "en": "Yahia Beni Guecha",
+    "slug": "yahia-beni-guecha-dz028031"
+  },
+  "code": {
+    "id": "DZ028031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.396",
+    "lon": "5.995"
+  },
+  "metadata": {},
+  "source": {}
+}

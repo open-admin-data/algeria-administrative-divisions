@@ -1,0 +1,312 @@
+# Béjaïa — Algeria Administrative Divisions
+
+> 19 dairas, 52 communes
+> Code: DZ006
+> Coordinates: 36.575, 4.791
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أدكار (Adekar)
+
+Code: DZ006_adekar, Coordinates: 36.737, 4.566
+Communes: 3
+
+#### أدكار (Adekar)
+
+Code: DZ006_adekar_adekar, Postal: 06021, Coordinates: 36.737, 4.566
+
+#### بني كسيلة (Beni K&#39;sila)
+
+Code: DZ006_adekar_beni-ksila, Postal: 06027, Coordinates: 36.737, 4.566
+
+#### تاوريرت إغيل (Taourit Ighil)
+
+Code: DZ006_adekar_taourit-ighil, Postal: 06035, Coordinates: 36.737, 4.566
+
+### أقبو (Akbou)
+
+Code: DZ006_akbou, Coordinates: 36.445, 4.548
+Communes: 4
+
+#### أقبو (Akbou)
+
+Code: DZ006_akbou_akbou, Postal: 06001, Coordinates: 36.461, 4.537
+
+#### شلاطة (Chellata)
+
+Code: DZ006_akbou_chellata, Postal: 06052, Coordinates: 36.445, 4.548
+
+#### اغرم (Ighram)
+
+Code: DZ006_akbou_ighram, Postal: 06048, Coordinates: 36.48, 4.46
+
+#### تامقرة (Tamokra)
+
+Code: DZ006_akbou_tamokra, Postal: 06053, Coordinates: 36.393, 4.648
+
+### أميزور (Amizour)
+
+Code: DZ006_amizour, Coordinates: 36.606, 4.866
+Communes: 4
+
+#### أميزور (Amizour)
+
+Code: DZ006_amizour_amizour, Postal: 06008, Coordinates: 36.648, 4.929
+
+#### بني جليل (Beni Djellil)
+
+Code: DZ006_amizour_beni-djellil, Postal: 06067, Coordinates: 36.565, 4.803
+
+#### فرعون (Feraoun)
+
+Code: DZ006_amizour_feraoun, Postal: 06100, Coordinates: 36.606, 4.866
+
+#### سمعون (Smaoun)
+
+Code: DZ006_amizour_smaoun, Postal: 06020, Coordinates: 36.606, 4.866
+
+### أوقاس (Aokas)
+
+Code: DZ006_aokas, Coordinates: 36.606, 5.237
+Communes: 2
+
+#### أوقاس (Aokas)
+
+Code: DZ006_aokas_aokas, Postal: 06007, Coordinates: 36.62, 5.262
+
+#### تيزي نبربر (Tizi-N&#39;berber)
+
+Code: DZ006_aokas_tizi-nberber, Postal: 06058, Coordinates: 36.593, 5.213
+
+### برباشة (Barbacha)
+
+Code: DZ006_barbacha, Coordinates: 36.564, 4.991
+Communes: 2
+
+#### برباشة (Barbacha)
+
+Code: DZ006_barbacha_barbacha, Postal: 06009, Coordinates: 36.568, 4.959
+
+#### كنديرة (Kendira)
+
+Code: DZ006_barbacha_kendira, Postal: 06032, Coordinates: 36.56, 5.023
+
+### بجاية (Bejaia)
+
+Code: DZ006_bejaia, Coordinates: 36.745, 5.007
+Communes: 2
+
+#### بجاية (Bejaia)
+
+Code: DZ006_bejaia_bejaia, Postal: 06000, Coordinates: 36.772, 5.026
+
+#### وادي غير (Oued Ghir)
+
+Code: DZ006_bejaia_oued-ghir, Postal: 06017, Coordinates: 36.717, 4.988
+
+### بني معوش (Beni Maouche)
+
+Code: DZ006_beni-maouche, Coordinates: 36.575, 4.791
+Communes: 1
+
+#### بني معوش (Benimaouche)
+
+Code: DZ006_beni-maouche_benimaouche, Postal: 06024, Coordinates: 36.575, 4.791
+
+### شميني (Chemini)
+
+Code: DZ006_chemini, Coordinates: 36.615, 4.63
+Communes: 4
+
+#### أكفادو (Akfadou)
+
+Code: DZ006_chemini_akfadou, Postal: 06025, Coordinates: 36.66, 4.609
+
+#### شميني (Chemini)
+
+Code: DZ006_chemini_chemini, Postal: 06022, Coordinates: 36.595, 4.595
+
+#### سوق اوفلا (Souk Oufella)
+
+Code: DZ006_chemini_souk-oufella, Postal: 06036, Coordinates: 36.589, 4.657
+
+#### طيبان (Tibane)
+
+Code: DZ006_chemini_tibane, Postal: 06087, Coordinates: 36.615, 4.657
+
+### درقينة (Darguina)
+
+Code: DZ006_darguina, Coordinates: 36.557, 5.295
+Communes: 3
+
+#### أيت إسماعيل (Ait-Smail)
+
+Code: DZ006_darguina_ait-smail, Postal: 06044, Coordinates: 36.558, 5.231
+
+#### درقينة (Darguina)
+
+Code: DZ006_darguina_darguina, Postal: 06016, Coordinates: 36.555, 5.372
+
+#### تاسكريوت (Taskriout)
+
+Code: DZ006_darguina_taskriout, Postal: 06015, Coordinates: 36.557, 5.282
+
+### القصر (El Kseur)
+
+Code: DZ006_el-kseur, Coordinates: 36.755, 4.845
+Communes: 3
+
+#### القصر (El Kseur)
+
+Code: DZ006_el-kseur_el-kseur, Postal: 06003, Coordinates: 36.721, 4.839
+
+#### فناية الماثن (Fenaia Il Maten)
+
+Code: DZ006_el-kseur_fenaia-il-maten, Postal: 06041, Coordinates: 36.755, 4.845
+
+#### توجة (Toudja)
+
+Code: DZ006_el-kseur_toudja, Postal: 06030, Coordinates: 36.79, 4.85
+
+### إفري أوزلاقن (Ifri Ouzellaguene)
+
+Code: DZ006_ifri-ouzellaguene, Coordinates: 36.549, 4.578
+Communes: 1
+
+#### أوزلاقن (Ouzellaguen)
+
+Code: DZ006_ifri-ouzellaguene_ouzellaguen, Postal: 06010, Coordinates: 36.549, 4.578
+
+### إغيل علي (Ighil Ali)
+
+Code: DZ006_ighil-ali, Coordinates: 36.34, 4.522
+Communes: 2
+
+#### أيت رزين (Ait R&#39;zine)
+
+Code: DZ006_ighil-ali_ait-rzine, Postal: 06013, Coordinates: 36.388, 4.525
+
+#### إغيل علي (Ighil-Ali)
+
+Code: DZ006_ighil-ali_ighil-ali, Postal: 06014, Coordinates: 36.293, 4.519
+
+### خراطة (Kherrata)
+
+Code: DZ006_kherrata, Coordinates: 36.474, 5.286
+Communes: 2
+
+#### ذراع القايد (Dra El Caid)
+
+Code: DZ006_kherrata_dra-el-caid, Postal: 06070, Coordinates: 36.474, 5.286
+
+#### خراطة (Kherrata)
+
+Code: DZ006_kherrata_kherrata, Postal: 06004, Coordinates: 36.474, 5.286
+
+### صدوق (Seddouk)
+
+Code: DZ006_seddouk, Coordinates: 36.486, 4.659
+Communes: 4
+
+#### أمالو (Amalou)
+
+Code: DZ006_seddouk_amalou, Postal: 06034, Coordinates: 36.479, 4.645
+
+#### بوحمزة (Bouhamza)
+
+Code: DZ006_seddouk_bouhamza, Postal: 06031, Coordinates: 36.441, 4.643
+
+#### مسيسنة (M&#39;cisna)
+
+Code: DZ006_seddouk_mcisna, Postal: 06038, Coordinates: 36.486, 4.659
+
+#### صدوق (Seddouk)
+
+Code: DZ006_seddouk_seddouk, Postal: 06011, Coordinates: 36.539, 4.688
+
+### سيدي عيش (Sidi Aich)
+
+Code: DZ006_sidi-aich, Coordinates: 36.627, 4.7
+Communes: 5
+
+#### الفلاي (Leflaye)
+
+Code: DZ006_sidi-aich_leflaye, Postal: 06043, Coordinates: 36.6, 4.68
+
+#### سيدي عياد (Sidi Ayad)
+
+Code: DZ006_sidi-aich_sidi-ayad, Postal: 06085, Coordinates: 36.611, 4.721
+
+#### سيدي عيش (Sidi-Aich)
+
+Code: DZ006_sidi-aich_sidi-aich, Postal: 06005, Coordinates: 36.624, 4.711
+
+#### تيفرة (Tifra)
+
+Code: DZ006_sidi-aich_tifra, Postal: 06028, Coordinates: 36.662, 4.692
+
+#### تينبدار (Tinebdar)
+
+Code: DZ006_sidi-aich_tinebdar, Postal: 06037, Coordinates: 36.636, 4.696
+
+### سوق الإثنين (Souk El Tenine)
+
+Code: DZ006_souk-el-tenine, Coordinates: 36.601, 4.939
+Communes: 3
+
+#### مالبو (Melbou)
+
+Code: DZ006_souk-el-tenine_melbou, Postal: 06076, Coordinates: 36.622, 5.385
+
+#### سوق لإثنين (Souk El Tenine)
+
+Code: DZ006_souk-el-tenine_souk-el-tenine, Postal: 06012, Coordinates: 36.605, 4.015
+
+#### تامريجت (Tamridjet)
+
+Code: DZ006_souk-el-tenine_tamridjet, Postal: 06077, Coordinates: 36.575, 5.416
+
+### تازملت (Tazmalt)
+
+Code: DZ006_tazmalt, Coordinates: 36.362, 4.42
+Communes: 3
+
+#### بني مليكش (Beni-Mallikeche)
+
+Code: DZ006_tazmalt_beni-mallikeche, Postal: 06039, Coordinates: 36.362, 4.42
+
+#### بو جليل (Boudjellil)
+
+Code: DZ006_tazmalt_boudjellil, Postal: 06018, Coordinates: 36.325, 4.413
+
+#### تازمالت (Tazmalt)
+
+Code: DZ006_tazmalt_tazmalt, Postal: 06006, Coordinates: 36.4, 4.427
+
+### تيشي (Tichy)
+
+Code: DZ006_tichy, Coordinates: 36.667, 5.046
+Communes: 3
+
+#### بوخليفة (Boukhelifa)
+
+Code: DZ006_tichy_boukhelifa, Postal: 06059, Coordinates: 36.641, 5.077
+
+#### تالة حمزة (Tala Hamza)
+
+Code: DZ006_tichy_tala-hamza, Postal: 06066, Coordinates: 36.693, 5.016
+
+#### تيشي (Tichy)
+
+Code: DZ006_tichy_tichy, Postal: 06023, Coordinates: 36.667, 5.046
+
+### تيمزريت (Timezrit)
+
+Code: DZ006_timezrit, Coordinates: 36.666, 3.79
+Communes: 1
+
+#### تيمزريت (Timezrit)
+
+Code: DZ006_timezrit_timezrit, Postal: 06019, Coordinates: 36.666, 3.79
+

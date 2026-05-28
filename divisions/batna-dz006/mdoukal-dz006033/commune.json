@@ -1,0 +1,45 @@
+{
+  "id": "DZ006033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "M'Doukal",
+    "en": "M'Doukal",
+    "slug": "mdoukal-dz006033"
+  },
+  "code": {
+    "id": "DZ006033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.115",
+    "lon": "5.143"
+  },
+  "metadata": {},
+  "source": {}
+}

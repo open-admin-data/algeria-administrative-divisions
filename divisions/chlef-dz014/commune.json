@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "DZ014001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abou El Hassen",
+      "en": "Abou El Hassen",
+      "slug": "abou-el-hassen-dz014001"
+    },
+    "code": {
+      "id": "DZ014001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.412",
+      "lon": "1.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Merane",
+      "en": "Ain Merane",
+      "slug": "ain-merane-dz014002"
+    },
+    "code": {
+      "id": "DZ014002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.179",
+      "lon": "0.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benairia",
+      "en": "Benairia",
+      "slug": "benairia-dz014003"
+    },
+    "code": {
+      "id": "DZ014003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.388",
+      "lon": "1.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Bouattab",
+      "en": "Beni Bouattab",
+      "slug": "beni-bouattab-dz014004"
+    },
+    "code": {
+      "id": "DZ014004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.992",
+      "lon": "1.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Haoua",
+      "en": "Beni Haoua",
+      "slug": "beni-haoua-dz014005"
+    },
+    "code": {
+      "id": "DZ014005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.494",
+      "lon": "1.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Rached",
+      "en": "Beni Rached",
+      "slug": "beni-rached-dz014006"
+    },
+    "code": {
+      "id": "DZ014006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.296",
+      "lon": "1.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukadir",
+      "en": "Boukadir",
+      "slug": "boukadir-dz014007"
+    },
+    "code": {
+      "id": "DZ014007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.026",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouzeghaia",
+      "en": "Bouzeghaia",
+      "slug": "bouzeghaia-dz014008"
+    },
+    "code": {
+      "id": "DZ014008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.365",
+      "lon": "1.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Breira",
+      "en": "Breira",
+      "slug": "breira-dz014009"
+    },
+    "code": {
+      "id": "DZ014009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.451",
+      "lon": "1.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chettia",
+      "en": "Chettia",
+      "slug": "chettia-dz014010"
+    },
+    "code": {
+      "id": "DZ014010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "1.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chlef",
+      "en": "Chlef",
+      "slug": "chlef-dz014011"
+    },
+    "code": {
+      "id": "DZ014011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.174",
+      "lon": "1.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dahra",
+      "en": "Dahra",
+      "slug": "dahra-dz014012"
+    },
+    "code": {
+      "id": "DZ014012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.279",
+      "lon": "0.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hadjadj",
+      "en": "El Hadjadj",
+      "slug": "el-hadjadj-dz014013"
+    },
+    "code": {
+      "id": "DZ014013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.007",
+      "lon": "1.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Karimia",
+      "en": "El Karimia",
+      "slug": "el-karimia-dz014014"
+    },
+    "code": {
+      "id": "DZ014014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.079",
+      "lon": "1.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Marsa",
+      "en": "El Marsa",
+      "slug": "el-marsa-dz014015"
+    },
+    "code": {
+      "id": "DZ014015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.401",
+      "lon": "0.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Harchoun",
+      "en": "Harchoun",
+      "slug": "harchoun-dz014016"
+    },
+    "code": {
+      "id": "DZ014016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.122",
+      "lon": "1.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Herenfa",
+      "en": "Herenfa",
+      "slug": "herenfa-dz014017"
+    },
+    "code": {
+      "id": "DZ014017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.245",
+      "lon": "1.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Labiodh Medjadja",
+      "en": "Labiodh Medjadja",
+      "slug": "labiodh-medjadja-dz014018"
+    },
+    "code": {
+      "id": "DZ014018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.271",
+      "lon": "1.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moussadek",
+      "en": "Moussadek",
+      "slug": "moussadek-dz014019"
+    },
+    "code": {
+      "id": "DZ014019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.353",
+      "lon": "1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Fodda",
+      "en": "Oued Fodda",
+      "slug": "oued-fodda-dz014020"
+    },
+    "code": {
+      "id": "DZ014020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.204",
+      "lon": "1.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Ghoussine",
+      "en": "Oued Ghoussine",
+      "slug": "oued-ghoussine-dz014021"
+    },
+    "code": {
+      "id": "DZ014021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.496",
+      "lon": "1.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Sly",
+      "en": "Oued Sly",
+      "slug": "oued-sly-dz014022"
+    },
+    "code": {
+      "id": "DZ014022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.082",
+      "lon": "1.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Abbes",
+      "en": "Ouled Abbes",
+      "slug": "ouled-abbes-dz014023"
+    },
+    "code": {
+      "id": "DZ014023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.216",
+      "lon": "1.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Ben Abdelkader",
+      "en": "Ouled Ben Abdelkader",
+      "slug": "ouled-ben-abdelkader-dz014024"
+    },
+    "code": {
+      "id": "DZ014024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.97",
+      "lon": "1.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Fares",
+      "en": "Ouled Fares",
+      "slug": "ouled-fares-dz014025"
+    },
+    "code": {
+      "id": "DZ014025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.233",
+      "lon": "1.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Drou",
+      "en": "Oum Drou",
+      "slug": "oum-drou-dz014026"
+    },
+    "code": {
+      "id": "DZ014026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.207",
+      "lon": "1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sendjas",
+      "en": "Sendjas",
+      "slug": "sendjas-dz014027"
+    },
+    "code": {
+      "id": "DZ014027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.043",
+      "lon": "1.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abderrahmane",
+      "en": "Sidi Abderrahmane",
+      "slug": "sidi-abderrahmane-dz014028"
+    },
+    "code": {
+      "id": "DZ014028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.48",
+      "lon": "1.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Akkacha",
+      "en": "Sidi Akkacha",
+      "slug": "sidi-akkacha-dz014029"
+    },
+    "code": {
+      "id": "DZ014029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.439",
+      "lon": "1.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sobha",
+      "en": "Sobha",
+      "slug": "sobha-dz014030"
+    },
+    "code": {
+      "id": "DZ014030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.108",
+      "lon": "1.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadjena",
+      "en": "Tadjena",
+      "slug": "tadjena-dz014031"
+    },
+    "code": {
+      "id": "DZ014031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.339",
+      "lon": "1.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talassa",
+      "en": "Talassa",
+      "slug": "talassa-dz014032"
+    },
+    "code": {
+      "id": "DZ014032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.422",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taougrite",
+      "en": "Taougrite",
+      "slug": "taougrite-dz014033"
+    },
+    "code": {
+      "id": "DZ014033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.288",
+      "lon": "0.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tenes",
+      "en": "Tenes",
+      "slug": "tenes-dz014034"
+    },
+    "code": {
+      "id": "DZ014034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.508",
+      "lon": "1.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zeboudja",
+      "en": "Zeboudja",
+      "slug": "zeboudja-dz014035"
+    },
+    "code": {
+      "id": "DZ014035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "الشلف",
+          "en": "Chlef",
+          "slug": "chlef-dz014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.393",
+      "lon": "1.48"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

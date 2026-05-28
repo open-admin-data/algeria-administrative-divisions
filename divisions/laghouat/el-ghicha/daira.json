@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_el-ghicha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الغيشة",
+    "en": "El Ghicha",
+    "slug": "el-ghicha"
+  },
+  "code": {
+    "id": "DZ003_el-ghicha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.877",
+    "lon": "2.134"
+  },
+  "metadata": {},
+  "source": {}
+}

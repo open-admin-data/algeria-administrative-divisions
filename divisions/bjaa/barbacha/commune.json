@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ006_barbacha_barbacha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برباشة",
+      "en": "Barbacha",
+      "slug": "barbacha"
+    },
+    "code": {
+      "id": "DZ006_barbacha_barbacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_barbacha",
+      "level": 2,
+      "name": {
+        "local": "برباشة",
+        "en": "Barbacha",
+        "slug": "barbacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_barbacha",
+        "level": 2,
+        "name": {
+          "local": "برباشة",
+          "en": "Barbacha",
+          "slug": "barbacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06009"
+    ],
+    "geo": {
+      "lat": "36.568",
+      "lon": "4.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_barbacha_kendira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "كنديرة",
+      "en": "Kendira",
+      "slug": "kendira"
+    },
+    "code": {
+      "id": "DZ006_barbacha_kendira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_barbacha",
+      "level": 2,
+      "name": {
+        "local": "برباشة",
+        "en": "Barbacha",
+        "slug": "barbacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_barbacha",
+        "level": 2,
+        "name": {
+          "local": "برباشة",
+          "en": "Barbacha",
+          "slug": "barbacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06032"
+    ],
+    "geo": {
+      "lat": "36.56",
+      "lon": "5.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

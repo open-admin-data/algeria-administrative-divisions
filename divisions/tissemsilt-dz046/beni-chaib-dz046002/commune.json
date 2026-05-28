@@ -1,0 +1,45 @@
+{
+  "id": "DZ046002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Chaib",
+    "en": "Beni Chaib",
+    "slug": "beni-chaib-dz046002"
+  },
+  "code": {
+    "id": "DZ046002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.827",
+    "lon": "1.795"
+  },
+  "metadata": {},
+  "source": {}
+}

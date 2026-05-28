@@ -1,0 +1,45 @@
+{
+  "id": "DZ012045",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zbarbar",
+    "en": "Zbarbar",
+    "slug": "zbarbar-dz012045"
+  },
+  "code": {
+    "id": "DZ012045",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira-dz012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.474",
+    "lon": "3.515"
+  },
+  "metadata": {},
+  "source": {}
+}

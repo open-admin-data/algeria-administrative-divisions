@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ008_taghit_taghit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاغيت",
+      "en": "Taghit",
+      "slug": "taghit"
+    },
+    "code": {
+      "id": "DZ008_taghit_taghit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_taghit",
+      "level": 2,
+      "name": {
+        "local": "تاغيت",
+        "en": "Taghit",
+        "slug": "taghit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_taghit",
+        "level": 2,
+        "name": {
+          "local": "تاغيت",
+          "en": "Taghit",
+          "slug": "taghit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08030"
+    ],
+    "geo": {
+      "lat": "31.077",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

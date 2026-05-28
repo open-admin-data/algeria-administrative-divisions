@@ -1,0 +1,45 @@
+{
+  "id": "DZ006019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Fesdis",
+    "en": "Fesdis",
+    "slug": "fesdis-dz006019"
+  },
+  "code": {
+    "id": "DZ006019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.62",
+    "lon": "6.223"
+  },
+  "metadata": {},
+  "source": {}
+}

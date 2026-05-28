@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_mila_ain-tine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين التين",
+      "en": "Ain Tine",
+      "slug": "ain-tine"
+    },
+    "code": {
+      "id": "DZ043_mila_ain-tine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_mila",
+      "level": 2,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_mila",
+        "level": 2,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43016"
+    ],
+    "geo": {
+      "lat": "36.416",
+      "lon": "6.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_mila_mila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    },
+    "code": {
+      "id": "DZ043_mila_mila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_mila",
+      "level": 2,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_mila",
+        "level": 2,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43000"
+    ],
+    "geo": {
+      "lat": "36.44",
+      "lon": "6.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_mila_sidi-khelifa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي خليفة",
+      "en": "Sidi Khelifa",
+      "slug": "sidi-khelifa"
+    },
+    "code": {
+      "id": "DZ043_mila_sidi-khelifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_mila",
+      "level": 2,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_mila",
+        "level": 2,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43058"
+    ],
+    "geo": {
+      "lat": "36.367",
+      "lon": "6.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

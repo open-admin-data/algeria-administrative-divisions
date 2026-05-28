@@ -1,0 +1,45 @@
+{
+  "id": "DZ008005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Akfadou",
+    "en": "Akfadou",
+    "slug": "akfadou-dz008005"
+  },
+  "code": {
+    "id": "DZ008005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.66",
+    "lon": "4.609"
+  },
+  "metadata": {},
+  "source": {}
+}

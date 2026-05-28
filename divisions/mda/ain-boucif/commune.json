@@ -1,0 +1,280 @@
+[
+  {
+    "id": "DZ026_ain-boucif_ain-boucif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بوسيف",
+      "en": "Ain Boucif",
+      "slug": "ain-boucif"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif_ain-boucif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ain-boucif",
+      "level": 2,
+      "name": {
+        "local": "عين بوسيف",
+        "en": "Ain Boucif",
+        "slug": "ain-boucif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ain-boucif",
+        "level": 2,
+        "name": {
+          "local": "عين بوسيف",
+          "en": "Ain Boucif",
+          "slug": "ain-boucif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26005"
+    ],
+    "geo": {
+      "lat": "35.838",
+      "lon": "3.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ain-boucif_el-ouinet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العوينات",
+      "en": "El Ouinet",
+      "slug": "el-ouinet"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif_el-ouinet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ain-boucif",
+      "level": 2,
+      "name": {
+        "local": "عين بوسيف",
+        "en": "Ain Boucif",
+        "slug": "ain-boucif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ain-boucif",
+        "level": 2,
+        "name": {
+          "local": "عين بوسيف",
+          "en": "Ain Boucif",
+          "slug": "ain-boucif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.884",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ain-boucif_kef-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكاف الاخضر",
+      "en": "Kef Lakhdar",
+      "slug": "kef-lakhdar"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif_kef-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ain-boucif",
+      "level": 2,
+      "name": {
+        "local": "عين بوسيف",
+        "en": "Ain Boucif",
+        "slug": "ain-boucif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ain-boucif",
+        "level": 2,
+        "name": {
+          "local": "عين بوسيف",
+          "en": "Ain Boucif",
+          "slug": "ain-boucif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26051"
+    ],
+    "geo": {
+      "lat": "35.93",
+      "lon": "3.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ain-boucif_ouled-emaaraf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد امعرف",
+      "en": "Ouled Emaaraf",
+      "slug": "ouled-emaaraf"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif_ouled-emaaraf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ain-boucif",
+      "level": 2,
+      "name": {
+        "local": "عين بوسيف",
+        "en": "Ain Boucif",
+        "slug": "ain-boucif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ain-boucif",
+        "level": 2,
+        "name": {
+          "local": "عين بوسيف",
+          "en": "Ain Boucif",
+          "slug": "ain-boucif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26038"
+    ],
+    "geo": {
+      "lat": "35.884",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ain-boucif_sidi-demed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي دامد",
+      "en": "Sidi Demed",
+      "slug": "sidi-demed"
+    },
+    "code": {
+      "id": "DZ026_ain-boucif_sidi-demed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ain-boucif",
+      "level": 2,
+      "name": {
+        "local": "عين بوسيف",
+        "en": "Ain Boucif",
+        "slug": "ain-boucif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ain-boucif",
+        "level": 2,
+        "name": {
+          "local": "عين بوسيف",
+          "en": "Ain Boucif",
+          "slug": "ain-boucif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26069"
+    ],
+    "geo": {
+      "lat": "35.884",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

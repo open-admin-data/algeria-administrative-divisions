@@ -1,0 +1,45 @@
+{
+  "id": "DZ030032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Addi Guebala",
+    "en": "Ouled Addi Guebala",
+    "slug": "ouled-addi-guebala-dz030032"
+  },
+  "code": {
+    "id": "DZ030032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.677",
+    "lon": "4.906"
+  },
+  "metadata": {},
+  "source": {}
+}

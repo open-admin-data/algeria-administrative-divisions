@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_yellel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "يلل",
+    "en": "Yellel",
+    "slug": "yellel"
+  },
+  "code": {
+    "id": "DZ048_yellel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.675",
+    "lon": "0.35"
+  },
+  "metadata": {},
+  "source": {}
+}

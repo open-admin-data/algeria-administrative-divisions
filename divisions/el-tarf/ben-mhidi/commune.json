@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ036_ben-mhidi_ben-m-hidi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن مهيدي",
+      "en": "Ben M Hidi",
+      "slug": "ben-m-hidi"
+    },
+    "code": {
+      "id": "DZ036_ben-mhidi_ben-m-hidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_ben-mhidi",
+      "level": 2,
+      "name": {
+        "local": "بن مهيدي",
+        "en": "Ben M'hidi",
+        "slug": "ben-mhidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_ben-mhidi",
+        "level": 2,
+        "name": {
+          "local": "بن مهيدي",
+          "en": "Ben M'hidi",
+          "slug": "ben-mhidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36003"
+    ],
+    "geo": {
+      "lat": "36.825",
+      "lon": "7.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_ben-mhidi_berrihane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريحان",
+      "en": "Berrihane",
+      "slug": "berrihane"
+    },
+    "code": {
+      "id": "DZ036_ben-mhidi_berrihane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_ben-mhidi",
+      "level": 2,
+      "name": {
+        "local": "بن مهيدي",
+        "en": "Ben M'hidi",
+        "slug": "ben-mhidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_ben-mhidi",
+        "level": 2,
+        "name": {
+          "local": "بن مهيدي",
+          "en": "Ben M'hidi",
+          "slug": "ben-mhidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36027"
+    ],
+    "geo": {
+      "lat": "36.838",
+      "lon": "8.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_ben-mhidi_echatt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشط",
+      "en": "Echatt",
+      "slug": "echatt"
+    },
+    "code": {
+      "id": "DZ036_ben-mhidi_echatt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_ben-mhidi",
+      "level": 2,
+      "name": {
+        "local": "بن مهيدي",
+        "en": "Ben M'hidi",
+        "slug": "ben-mhidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_ben-mhidi",
+        "level": 2,
+        "name": {
+          "local": "بن مهيدي",
+          "en": "Ben M'hidi",
+          "slug": "ben-mhidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36025"
+    ],
+    "geo": {
+      "lat": "36.811",
+      "lon": "7.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

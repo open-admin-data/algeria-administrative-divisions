@@ -1,0 +1,45 @@
+{
+  "id": "DZ001025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tinerkouk",
+    "en": "Tinerkouk",
+    "slug": "tinerkouk-dz001025"
+  },
+  "code": {
+    "id": "DZ001025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.464",
+    "lon": "1.346"
+  },
+  "metadata": {},
+  "source": {}
+}

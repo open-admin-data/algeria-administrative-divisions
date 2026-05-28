@@ -1,0 +1,45 @@
+{
+  "id": "DZ005008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Eulma",
+    "en": "Eulma",
+    "slug": "eulma-dz005008"
+  },
+  "code": {
+    "id": "DZ005008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba-dz005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.714",
+    "lon": "7.436"
+  },
+  "metadata": {},
+  "source": {}
+}

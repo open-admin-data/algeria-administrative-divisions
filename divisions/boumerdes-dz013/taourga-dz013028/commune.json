@@ -1,0 +1,45 @@
+{
+  "id": "DZ013028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taourga",
+    "en": "Taourga",
+    "slug": "taourga-dz013028"
+  },
+  "code": {
+    "id": "DZ013028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.796",
+    "lon": "3.942"
+  },
+  "metadata": {},
+  "source": {}
+}

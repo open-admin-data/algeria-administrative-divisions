@@ -1,0 +1,45 @@
+{
+  "id": "DZ028026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tassadane Haddada",
+    "en": "Tassadane Haddada",
+    "slug": "tassadane-haddada-dz028026"
+  },
+  "code": {
+    "id": "DZ028026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.518",
+    "lon": "5.825"
+  },
+  "metadata": {},
+  "source": {}
+}

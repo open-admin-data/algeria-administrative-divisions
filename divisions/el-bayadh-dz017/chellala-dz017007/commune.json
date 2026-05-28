@@ -1,0 +1,45 @@
+{
+  "id": "DZ017007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chellala",
+    "en": "Chellala",
+    "slug": "chellala-dz017007"
+  },
+  "code": {
+    "id": "DZ017007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.028",
+    "lon": "0.085"
+  },
+  "metadata": {},
+  "source": {}
+}

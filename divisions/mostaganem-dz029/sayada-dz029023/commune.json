@@ -1,0 +1,45 @@
+{
+  "id": "DZ029023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sayada",
+    "en": "Sayada",
+    "slug": "sayada-dz029023"
+  },
+  "code": {
+    "id": "DZ029023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.937",
+    "lon": "0.136"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ039009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Oulbane",
+    "en": "Beni Oulbane",
+    "slug": "beni-oulbane-dz039009"
+  },
+  "code": {
+    "id": "DZ039009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.646",
+    "lon": "6.629"
+  },
+  "metadata": {},
+  "source": {}
+}

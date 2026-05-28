@@ -1,0 +1,45 @@
+{
+  "id": "DZ027018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Cheniguel",
+    "en": "Cheniguel",
+    "slug": "cheniguel-dz027018"
+  },
+  "code": {
+    "id": "DZ027018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.962",
+    "lon": "3.526"
+  },
+  "metadata": {},
+  "source": {}
+}

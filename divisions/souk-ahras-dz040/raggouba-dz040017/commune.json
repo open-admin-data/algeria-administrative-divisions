@@ -1,0 +1,45 @@
+{
+  "id": "DZ040017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Raggouba",
+    "en": "Raggouba",
+    "slug": "raggouba-dz040017"
+  },
+  "code": {
+    "id": "DZ040017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.119",
+    "lon": "7.707"
+  },
+  "metadata": {},
+  "source": {}
+}

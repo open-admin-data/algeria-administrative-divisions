@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+DZ022_sidi-lahcene_amarnas,العمارنة,Amarnas,amarnas,DZ022_sidi-lahcene_amarnas,22074,35.103,-0.613
+DZ022_sidi-lahcene_sidi-khaled,سيدي خالد,Sidi Khaled,sidi-khaled,DZ022_sidi-lahcene_sidi-khaled,07004,35.124,-0.71
+DZ022_sidi-lahcene_sidi-lahcene,سيدي لحسن,Sidi Lahcene,sidi-lahcene,DZ022_sidi-lahcene_sidi-lahcene,22020,35.197,-0.758
+DZ022_sidi-lahcene_sidi-yacoub,سيدي يعقوب,Sidi Yacoub,sidi-yacoub,DZ022_sidi-lahcene_sidi-yacoub,22063,35.159,-0.776

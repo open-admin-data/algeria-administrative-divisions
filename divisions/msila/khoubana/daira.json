@@ -1,0 +1,47 @@
+{
+  "id": "DZ028_khoubana",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "خبانة",
+    "en": "Khoubana",
+    "slug": "khoubana"
+  },
+  "code": {
+    "id": "DZ028_khoubana",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.274",
+    "lon": "4.591"
+  },
+  "metadata": {},
+  "source": {}
+}

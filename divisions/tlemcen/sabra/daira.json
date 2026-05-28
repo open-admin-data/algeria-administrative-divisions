@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_sabra",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "صبرة",
+    "en": "Sabra",
+    "slug": "sabra"
+  },
+  "code": {
+    "id": "DZ013_sabra",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.831",
+    "lon": "-1.569"
+  },
+  "metadata": {},
+  "source": {}
+}

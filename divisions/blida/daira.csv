@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ009_blida,البليدة,Blida,blida,DZ009_blida,2,36.45,2.8
+DZ009_boufarik,بوفاريك,Boufarik,boufarik,DZ009_boufarik,3,36.192,3.529
+DZ009_bougara,بوقرة,Bougara,bougara,DZ009_bougara,3,36.032,2.558
+DZ009_bouinan,بوعينان,Bouinan,bouinan,DZ009_bouinan,2,36.546,3.004
+DZ009_el-affroun,العفرون,El Affroun,el-affroun,DZ009_el-affroun,2,36.438,2.582
+DZ009_larbaa,الأربعاء,Larbaa,larbaa,DZ009_larbaa,2,36.222,2.356
+DZ009_meftah,مفتاح,Meftah,meftah,DZ009_meftah,2,36.606,3.244
+DZ009_mouzaia,موزاية,Mouzaia,mouzaia,DZ009_mouzaia,3,36.449,2.693
+DZ009_oued-el-alleug,وادي العلايق,Oued El Alleug,oued-el-alleug,DZ009_oued-el-alleug,3,36.549,2.795
+DZ009_ouled-yaich,أولاد يعيش,Ouled Yaich,ouled-yaich,DZ009_ouled-yaich,3,36.257,2.238

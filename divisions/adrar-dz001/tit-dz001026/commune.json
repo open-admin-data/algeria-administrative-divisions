@@ -1,0 +1,45 @@
+{
+  "id": "DZ001026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tit",
+    "en": "Tit",
+    "slug": "tit-dz001026"
+  },
+  "code": {
+    "id": "DZ001026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.029",
+    "lon": "1.458"
+  },
+  "metadata": {},
+  "source": {}
+}

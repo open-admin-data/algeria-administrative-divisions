@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_el-aouinet_boukhadra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوخضرة",
+      "en": "Boukhadra",
+      "slug": "boukhadra"
+    },
+    "code": {
+      "id": "DZ012_el-aouinet_boukhadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-aouinet",
+      "level": 2,
+      "name": {
+        "local": "العوينات",
+        "en": "El Aouinet",
+        "slug": "el-aouinet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-aouinet",
+        "level": 2,
+        "name": {
+          "local": "العوينات",
+          "en": "El Aouinet",
+          "slug": "el-aouinet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12012"
+    ],
+    "geo": {
+      "lat": "35.792",
+      "lon": "8.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-aouinet_el-aouinet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العوينات",
+      "en": "El-Aouinet",
+      "slug": "el-aouinet"
+    },
+    "code": {
+      "id": "DZ012_el-aouinet_el-aouinet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-aouinet",
+      "level": 2,
+      "name": {
+        "local": "العوينات",
+        "en": "El Aouinet",
+        "slug": "el-aouinet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-aouinet",
+        "level": 2,
+        "name": {
+          "local": "العوينات",
+          "en": "El Aouinet",
+          "slug": "el-aouinet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12005"
+    ],
+    "geo": {
+      "lat": "35.868",
+      "lon": "7.932"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ047038",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ifigha",
+    "en": "Ifigha",
+    "slug": "ifigha-dz047038"
+  },
+  "code": {
+    "id": "DZ047038",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.667",
+    "lon": "4.425"
+  },
+  "metadata": {},
+  "source": {}
+}

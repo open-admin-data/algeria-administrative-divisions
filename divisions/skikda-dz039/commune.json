@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "DZ039001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Bouziane",
+      "en": "Ain Bouziane",
+      "slug": "ain-bouziane-dz039001"
+    },
+    "code": {
+      "id": "DZ039001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.606",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Cherchar",
+      "en": "Ain Cherchar",
+      "slug": "ain-cherchar-dz039002"
+    },
+    "code": {
+      "id": "DZ039002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.718",
+      "lon": "7.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kechra",
+      "en": "Ain Kechra",
+      "slug": "ain-kechra-dz039003"
+    },
+    "code": {
+      "id": "DZ039003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zouit",
+      "en": "Ain Zouit",
+      "slug": "ain-zouit-dz039004"
+    },
+    "code": {
+      "id": "DZ039004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.901",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azzaba",
+      "en": "Azzaba",
+      "slug": "azzaba-dz039005"
+    },
+    "code": {
+      "id": "DZ039005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.756",
+      "lon": "7.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekkouche Lakhdar",
+      "en": "Bekkouche Lakhdar",
+      "slug": "bekkouche-lakhdar-dz039006"
+    },
+    "code": {
+      "id": "DZ039006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.696",
+      "lon": "7.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Azzouz",
+      "en": "Ben Azzouz",
+      "slug": "ben-azzouz-dz039007"
+    },
+    "code": {
+      "id": "DZ039007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.898",
+      "lon": "7.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Bachir",
+      "en": "Beni Bachir",
+      "slug": "beni-bachir-dz039008"
+    },
+    "code": {
+      "id": "DZ039008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Oulbane",
+      "en": "Beni Oulbane",
+      "slug": "beni-oulbane-dz039009"
+    },
+    "code": {
+      "id": "DZ039009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.646",
+      "lon": "6.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Zid",
+      "en": "Beni Zid",
+      "slug": "beni-zid-dz039010"
+    },
+    "code": {
+      "id": "DZ039010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.915",
+      "lon": "6.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir El Ouiden",
+      "en": "Bir El Ouiden",
+      "slug": "bir-el-ouiden-dz039011"
+    },
+    "code": {
+      "id": "DZ039011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.819",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouchtata",
+      "en": "Bouchtata",
+      "slug": "bouchtata-dz039012"
+    },
+    "code": {
+      "id": "DZ039012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.82",
+      "lon": "6.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cheraia",
+      "en": "Cheraia",
+      "slug": "cheraia-dz039013"
+    },
+    "code": {
+      "id": "DZ039013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.015",
+      "lon": "6.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Collo",
+      "en": "Collo",
+      "slug": "collo-dz039014"
+    },
+    "code": {
+      "id": "DZ039014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.005",
+      "lon": "6.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djendel Saadi Mohamed",
+      "en": "Djendel Saadi Mohamed",
+      "slug": "djendel-saadi-mohamed-dz039015"
+    },
+    "code": {
+      "id": "DZ039015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.852",
+      "lon": "7.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghedir",
+      "en": "El Ghedir",
+      "slug": "el-ghedir-dz039016"
+    },
+    "code": {
+      "id": "DZ039016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.672",
+      "lon": "6.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hadaiek",
+      "en": "El Hadaiek",
+      "slug": "el-hadaiek-dz039017"
+    },
+    "code": {
+      "id": "DZ039017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.827",
+      "lon": "6.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Harrouch",
+      "en": "El Harrouch",
+      "slug": "el-harrouch-dz039018"
+    },
+    "code": {
+      "id": "DZ039018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.622",
+      "lon": "6.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Marsa",
+      "en": "El Marsa",
+      "slug": "el-marsa-dz039019"
+    },
+    "code": {
+      "id": "DZ039019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.008",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Emdjez Edchich",
+      "en": "Emdjez Edchich",
+      "slug": "emdjez-edchich-dz039020"
+    },
+    "code": {
+      "id": "DZ039020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.718",
+      "lon": "6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Es Sebt",
+      "en": "Es Sebt",
+      "slug": "es-sebt-dz039021"
+    },
+    "code": {
+      "id": "DZ039021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.623",
+      "lon": "7.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fil Fila",
+      "en": "Fil Fila",
+      "slug": "fil-fila-dz039022"
+    },
+    "code": {
+      "id": "DZ039022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.888",
+      "lon": "7.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamadi Krouma",
+      "en": "Hamadi Krouma",
+      "slug": "hamadi-krouma-dz039023"
+    },
+    "code": {
+      "id": "DZ039023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.836",
+      "lon": "6.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanoua",
+      "en": "Kanoua",
+      "slug": "kanoua-dz039024"
+    },
+    "code": {
+      "id": "DZ039024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.049",
+      "lon": "6.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kerkera",
+      "en": "Kerkera",
+      "slug": "kerkera-dz039025"
+    },
+    "code": {
+      "id": "DZ039025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.916",
+      "lon": "6.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kheng Mayoum",
+      "en": "Kheng Mayoum",
+      "slug": "kheng-mayoum-dz039026"
+    },
+    "code": {
+      "id": "DZ039026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.991",
+      "lon": "6.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Zhour",
+      "en": "Oued Zhour",
+      "slug": "oued-zhour-dz039027"
+    },
+    "code": {
+      "id": "DZ039027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.91",
+      "lon": "6.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouldja Boulbellout",
+      "en": "Ouldja Boulbellout",
+      "slug": "ouldja-boulbellout-dz039028"
+    },
+    "code": {
+      "id": "DZ039028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.821",
+      "lon": "6.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Attia",
+      "en": "Ouled Attia",
+      "slug": "ouled-attia-dz039029"
+    },
+    "code": {
+      "id": "DZ039029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.005",
+      "lon": "6.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Hebaba",
+      "en": "Ouled Hebaba",
+      "slug": "ouled-hebaba-dz039030"
+    },
+    "code": {
+      "id": "DZ039030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.494",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Toub",
+      "en": "Oum Toub",
+      "slug": "oum-toub-dz039031"
+    },
+    "code": {
+      "id": "DZ039031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.704",
+      "lon": "6.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ramdane Djamel",
+      "en": "Ramdane Djamel",
+      "slug": "ramdane-djamel-dz039032"
+    },
+    "code": {
+      "id": "DZ039032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.759",
+      "lon": "6.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Salah Bouchaour",
+      "en": "Salah Bouchaour",
+      "slug": "salah-bouchaour-dz039033"
+    },
+    "code": {
+      "id": "DZ039033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.688",
+      "lon": "6.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Mezghiche",
+      "en": "Sidi Mezghiche",
+      "slug": "sidi-mezghiche-dz039034"
+    },
+    "code": {
+      "id": "DZ039034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.712",
+      "lon": "6.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Skikda",
+      "en": "Skikda",
+      "slug": "skikda-dz039035"
+    },
+    "code": {
+      "id": "DZ039035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.881",
+      "lon": "6.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamalous",
+      "en": "Tamalous",
+      "slug": "tamalous-dz039036"
+    },
+    "code": {
+      "id": "DZ039036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.857",
+      "lon": "6.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zerdezas",
+      "en": "Zerdezas",
+      "slug": "zerdezas-dz039037"
+    },
+    "code": {
+      "id": "DZ039037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.594",
+      "lon": "6.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zitouna",
+      "en": "Zitouna",
+      "slug": "zitouna-dz039038"
+    },
+    "code": {
+      "id": "DZ039038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda-dz039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.991",
+      "lon": "6.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

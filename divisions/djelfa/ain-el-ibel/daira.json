@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_ain-el-ibel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الإبل",
+    "en": "Ain El Ibel",
+    "slug": "ain-el-ibel"
+  },
+  "code": {
+    "id": "DZ017_ain-el-ibel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.431",
+    "lon": "3.184"
+  },
+  "metadata": {},
+  "source": {}
+}

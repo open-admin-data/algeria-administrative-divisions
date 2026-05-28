@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ009_boufarik_boufarik",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوفاريك",
+      "en": "Boufarik",
+      "slug": "boufarik"
+    },
+    "code": {
+      "id": "DZ009_boufarik_boufarik",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_boufarik",
+      "level": 2,
+      "name": {
+        "local": "بوفاريك",
+        "en": "Boufarik",
+        "slug": "boufarik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_boufarik",
+        "level": 2,
+        "name": {
+          "local": "بوفاريك",
+          "en": "Boufarik",
+          "slug": "boufarik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09001"
+    ],
+    "geo": {
+      "lat": "36.582",
+      "lon": "2.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_boufarik_guerrouaou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قرواو",
+      "en": "Guerrouaou",
+      "slug": "guerrouaou"
+    },
+    "code": {
+      "id": "DZ009_boufarik_guerrouaou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_boufarik",
+      "level": 2,
+      "name": {
+        "local": "بوفاريك",
+        "en": "Boufarik",
+        "slug": "boufarik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_boufarik",
+        "level": 2,
+        "name": {
+          "local": "بوفاريك",
+          "en": "Boufarik",
+          "slug": "boufarik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09029"
+    ],
+    "geo": {
+      "lat": "36.505",
+      "lon": "2.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_boufarik_soumaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الصومعة",
+      "en": "Soumaa",
+      "slug": "soumaa"
+    },
+    "code": {
+      "id": "DZ009_boufarik_soumaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_boufarik",
+      "level": 2,
+      "name": {
+        "local": "بوفاريك",
+        "en": "Boufarik",
+        "slug": "boufarik"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_boufarik",
+        "level": 2,
+        "name": {
+          "local": "بوفاريك",
+          "en": "Boufarik",
+          "slug": "boufarik"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09022"
+    ],
+    "geo": {
+      "lat": "35.49",
+      "lon": "4.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

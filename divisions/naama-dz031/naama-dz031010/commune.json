@@ -1,0 +1,45 @@
+{
+  "id": "DZ031010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Naama",
+    "en": "Naama",
+    "slug": "naama-dz031010"
+  },
+  "code": {
+    "id": "DZ031010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.291",
+    "lon": "-0.302"
+  },
+  "metadata": {},
+  "source": {}
+}

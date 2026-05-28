@@ -1,0 +1,45 @@
+{
+  "id": "DZ048037",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Chouly",
+    "en": "Oued Chouly",
+    "slug": "oued-chouly-dz048037"
+  },
+  "code": {
+    "id": "DZ048037",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.822",
+    "lon": "-1.191"
+  },
+  "metadata": {},
+  "source": {}
+}

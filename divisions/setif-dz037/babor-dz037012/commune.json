@@ -1,0 +1,45 @@
+{
+  "id": "DZ037012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Babor",
+    "en": "Babor",
+    "slug": "babor-dz037012"
+  },
+  "code": {
+    "id": "DZ037012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.504",
+    "lon": "5.535"
+  },
+  "metadata": {},
+  "source": {}
+}

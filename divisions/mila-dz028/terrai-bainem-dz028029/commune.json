@@ -1,0 +1,45 @@
+{
+  "id": "DZ028029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Terrai Bainem",
+    "en": "Terrai Bainem",
+    "slug": "terrai-bainem-dz028029"
+  },
+  "code": {
+    "id": "DZ028029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.552",
+    "lon": "6.14"
+  },
+  "metadata": {},
+  "source": {}
+}

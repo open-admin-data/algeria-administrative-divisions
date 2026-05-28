@@ -1,0 +1,45 @@
+{
+  "id": "DZ002020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Amra",
+    "en": "El Amra",
+    "slug": "el-amra-dz002020"
+  },
+  "code": {
+    "id": "DZ002020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.345",
+    "lon": "1.856"
+  },
+  "metadata": {},
+  "source": {}
+}

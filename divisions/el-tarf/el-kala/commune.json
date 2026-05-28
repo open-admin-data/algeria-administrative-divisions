@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ036_el-kala_el-aioun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العيون",
+      "en": "El Aioun",
+      "slug": "el-aioun"
+    },
+    "code": {
+      "id": "DZ036_el-kala_el-aioun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-kala",
+      "level": 2,
+      "name": {
+        "local": "القالة",
+        "en": "El Kala",
+        "slug": "el-kala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-kala",
+        "level": 2,
+        "name": {
+          "local": "القالة",
+          "en": "El Kala",
+          "slug": "el-kala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36018"
+    ],
+    "geo": {
+      "lat": "36.823",
+      "lon": "8.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-kala_el-kala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القالة",
+      "en": "El Kala",
+      "slug": "el-kala"
+    },
+    "code": {
+      "id": "DZ036_el-kala_el-kala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-kala",
+      "level": 2,
+      "name": {
+        "local": "القالة",
+        "en": "El Kala",
+        "slug": "el-kala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-kala",
+        "level": 2,
+        "name": {
+          "local": "القالة",
+          "en": "El Kala",
+          "slug": "el-kala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36002"
+    ],
+    "geo": {
+      "lat": "36.877",
+      "lon": "8.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-kala_raml-souk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رمل السوق",
+      "en": "Raml Souk",
+      "slug": "raml-souk"
+    },
+    "code": {
+      "id": "DZ036_el-kala_raml-souk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-kala",
+      "level": 2,
+      "name": {
+        "local": "القالة",
+        "en": "El Kala",
+        "slug": "el-kala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-kala",
+        "level": 2,
+        "name": {
+          "local": "القالة",
+          "en": "El Kala",
+          "slug": "el-kala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36021"
+    ],
+    "geo": {
+      "lat": "36.815",
+      "lon": "8.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_el-kala_souarekh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السوارخ",
+      "en": "Souarekh",
+      "slug": "souarekh"
+    },
+    "code": {
+      "id": "DZ036_el-kala_souarekh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_el-kala",
+      "level": 2,
+      "name": {
+        "local": "القالة",
+        "en": "El Kala",
+        "slug": "el-kala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_el-kala",
+        "level": 2,
+        "name": {
+          "local": "القالة",
+          "en": "El Kala",
+          "slug": "el-kala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36020"
+    ],
+    "geo": {
+      "lat": "36.89",
+      "lon": "8.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

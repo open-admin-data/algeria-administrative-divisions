@@ -1,0 +1,155 @@
+# Laghouat — Algeria Administrative Divisions
+
+> 10 dairas, 24 communes
+> Code: DZ003
+> Coordinates: 33.75, 2.639
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أفلو (Aflou)
+
+Code: DZ003_aflou, Coordinates: 34.181, 2.084
+Communes: 3
+
+#### أفلو (Aflou)
+
+Code: DZ003_aflou_aflou, Postal: 03001, Coordinates: 34.157, 2.093
+
+#### سبقاق (Sebgag)
+
+Code: DZ003_aflou_sebgag, Postal: 03034, Coordinates: 34.056, 1.966
+
+#### سيدي بوزيد (Sidi Bouzid)
+
+Code: DZ003_aflou_sidi-bouzid, Postal: 03024, Coordinates: 34.329, 2.192
+
+### عين ماضي (Ain Madhi)
+
+Code: DZ003_ain-madhi, Coordinates: 33.606, 2.449
+Communes: 5
+
+#### عين ماضي (Ain Madhi)
+
+Code: DZ003_ain-madhi_ain-madhi, Postal: 03012, Coordinates: 33.34, 2.364
+
+#### الحويطة (El Haouaita)
+
+Code: DZ003_ain-madhi_el-haouaita, Postal: 03040, Coordinates: 33.55, 2.499
+
+#### الخنق (Kheneg)
+
+Code: DZ003_ain-madhi_kheneg, Postal: 03010, Coordinates: 33.442, 2.779
+
+#### تاجموت (Tadjemout)
+
+Code: DZ003_ain-madhi_tadjemout, Postal: 03007, Coordinates: 34.143, 2.547
+
+#### تاجرونة (Tadjrouna)
+
+Code: DZ003_ain-madhi_tadjrouna, Postal: 03011, Coordinates: 33.556, 2.058
+
+### بريدة (Brida)
+
+Code: DZ003_brida, Coordinates: 33.998, 1.66
+Communes: 3
+
+#### بريدة (Brida)
+
+Code: DZ003_brida_brida, Postal: 03005, Coordinates: 33.996, 1.779
+
+#### الحاج مشري (Hadj Mechri)
+
+Code: DZ003_brida_hadj-mechri, Postal: 03038, Coordinates: 34, 1.541
+
+#### تاويالة (Taouiala)
+
+Code: DZ003_brida_taouiala, Postal: 03026, Coordinates: 33.998, 1.66
+
+### الغيشة (El Ghicha)
+
+Code: DZ003_el-ghicha, Coordinates: 33.877, 2.134
+Communes: 1
+
+#### الغيشة (El Ghicha)
+
+Code: DZ003_el-ghicha_el-ghicha, Postal: 03023, Coordinates: 33.877, 2.134
+
+### قتلة سيدي سعيد (Gueltat Sidi Saad)
+
+Code: DZ003_gueltat-sidi-saad, Coordinates: 34.22, 1.7
+Communes: 3
+
+#### عين سيدي علي (Ain Sidi Ali)
+
+Code: DZ003_gueltat-sidi-saad_ain-sidi-ali, Postal: 03028, Coordinates: 34.165, 1.562
+
+#### البيضاء (El Beidha)
+
+Code: DZ003_gueltat-sidi-saad_el-beidha, Postal: 03013, Coordinates: 34.22, 1.7
+
+#### قلتة سيدي سعد (Gueltat Sidi Saad)
+
+Code: DZ003_gueltat-sidi-saad_gueltat-sidi-saad, Postal: 03025, Coordinates: 34.275, 1.838
+
+### حاسي الرمل (Hassi R&#39;mel)
+
+Code: DZ003_hassi-rmel, Coordinates: 33.141, 3.27
+Communes: 2
+
+#### حاسي الدلاعة (Hassi Delaa)
+
+Code: DZ003_hassi-rmel_hassi-delaa, Postal: 03022, Coordinates: 33.141, 3.27
+
+#### حاسي الرمل (Hassi R&#39;mel)
+
+Code: DZ003_hassi-rmel_hassi-rmel, Postal: 03004, Coordinates: 33.141, 3.27
+
+### قصر الحيران (Ksar El Hirane)
+
+Code: DZ003_ksar-el-hirane, Coordinates: 33.707, 3.221
+Communes: 2
+
+#### بن ناصر بن شهرة (Benacer Benchohra)
+
+Code: DZ003_ksar-el-hirane_benacer-benchohra, Postal: 03033, Coordinates: 33.707, 3.221
+
+#### قصر الحيران (Ksar El Hirane)
+
+Code: DZ003_ksar-el-hirane_ksar-el-hirane, Postal: 03003, Coordinates: 33.707, 3.221
+
+### الأغواط (Laghouat)
+
+Code: DZ003_laghouat, Coordinates: 33.845, 2.836
+Communes: 1
+
+#### الأغواط (Laghouat)
+
+Code: DZ003_laghouat_laghouat, Postal: 03000, Coordinates: 33.845, 2.836
+
+### وادي مرة (Oued Morra)
+
+Code: DZ003_oued-morra, Coordinates: 34.123, 2.333
+Communes: 2
+
+#### وادي مزي (Oued M&#39;zi)
+
+Code: DZ003_oued-morra_oued-mzi, Postal: 03041, Coordinates: 34.038, 2.338
+
+#### وادي مرة (Oued Morra)
+
+Code: DZ003_oued-morra_oued-morra, Postal: 03027, Coordinates: 34.208, 2.329
+
+### سيدي مخلوف (Sidi Makhlouf)
+
+Code: DZ003_sidi-makhlouf, Coordinates: 33.989, 2.977
+Communes: 2
+
+#### العسافية (El Assafia)
+
+Code: DZ003_sidi-makhlouf_el-assafia, Postal: 03014, Coordinates: 33.908, 3.091
+
+#### سيدي مخلوف (Sidi Makhlouf)
+
+Code: DZ003_sidi-makhlouf_sidi-makhlouf, Postal: 03019, Coordinates: 34.071, 2.862
+

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "DZ048_ramka_ramka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرمكة",
+      "en": "Ramka",
+      "slug": "ramka"
+    },
+    "code": {
+      "id": "DZ048_ramka_ramka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ramka",
+      "level": 2,
+      "name": {
+        "local": "الرمكة",
+        "en": "Ramka",
+        "slug": "ramka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ramka",
+        "level": 2,
+        "name": {
+          "local": "الرمكة",
+          "en": "Ramka",
+          "slug": "ramka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48024"
+    ],
+    "geo": {
+      "lat": "35.855",
+      "lon": "1.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ramka_souk-el-had",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق الحد",
+      "en": "Souk El Had",
+      "slug": "souk-el-had"
+    },
+    "code": {
+      "id": "DZ048_ramka_souk-el-had",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ramka",
+      "level": 2,
+      "name": {
+        "local": "الرمكة",
+        "en": "Ramka",
+        "slug": "ramka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ramka",
+        "level": 2,
+        "name": {
+          "local": "الرمكة",
+          "en": "Ramka",
+          "slug": "ramka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.938",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

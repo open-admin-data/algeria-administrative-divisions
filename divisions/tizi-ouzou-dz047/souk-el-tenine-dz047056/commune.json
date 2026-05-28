@@ -1,0 +1,45 @@
+{
+  "id": "DZ047056",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Souk El Tenine",
+    "en": "Souk El Tenine",
+    "slug": "souk-el-tenine-dz047056"
+  },
+  "code": {
+    "id": "DZ047056",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.605",
+    "lon": "4.015"
+  },
+  "metadata": {},
+  "source": {}
+}

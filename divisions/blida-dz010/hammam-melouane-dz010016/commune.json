@@ -1,0 +1,45 @@
+{
+  "id": "DZ010016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hammam Melouane",
+    "en": "Hammam Melouane",
+    "slug": "hammam-melouane-dz010016"
+  },
+  "code": {
+    "id": "DZ010016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.439",
+    "lon": "2.999"
+  },
+  "metadata": {},
+  "source": {}
+}

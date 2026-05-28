@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ003_gueltat-sidi-saad_ain-sidi-ali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين سيدي علي",
+      "en": "Ain Sidi Ali",
+      "slug": "ain-sidi-ali"
+    },
+    "code": {
+      "id": "DZ003_gueltat-sidi-saad_ain-sidi-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_gueltat-sidi-saad",
+      "level": 2,
+      "name": {
+        "local": "قتلة سيدي سعيد",
+        "en": "Gueltat Sidi Saad",
+        "slug": "gueltat-sidi-saad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_gueltat-sidi-saad",
+        "level": 2,
+        "name": {
+          "local": "قتلة سيدي سعيد",
+          "en": "Gueltat Sidi Saad",
+          "slug": "gueltat-sidi-saad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03028"
+    ],
+    "geo": {
+      "lat": "34.165",
+      "lon": "1.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_gueltat-sidi-saad_el-beidha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البيضاء",
+      "en": "El Beidha",
+      "slug": "el-beidha"
+    },
+    "code": {
+      "id": "DZ003_gueltat-sidi-saad_el-beidha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_gueltat-sidi-saad",
+      "level": 2,
+      "name": {
+        "local": "قتلة سيدي سعيد",
+        "en": "Gueltat Sidi Saad",
+        "slug": "gueltat-sidi-saad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_gueltat-sidi-saad",
+        "level": 2,
+        "name": {
+          "local": "قتلة سيدي سعيد",
+          "en": "Gueltat Sidi Saad",
+          "slug": "gueltat-sidi-saad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03013"
+    ],
+    "geo": {
+      "lat": "34.22",
+      "lon": "1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_gueltat-sidi-saad_gueltat-sidi-saad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قلتة سيدي سعد",
+      "en": "Gueltat Sidi Saad",
+      "slug": "gueltat-sidi-saad"
+    },
+    "code": {
+      "id": "DZ003_gueltat-sidi-saad_gueltat-sidi-saad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_gueltat-sidi-saad",
+      "level": 2,
+      "name": {
+        "local": "قتلة سيدي سعيد",
+        "en": "Gueltat Sidi Saad",
+        "slug": "gueltat-sidi-saad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_gueltat-sidi-saad",
+        "level": 2,
+        "name": {
+          "local": "قتلة سيدي سعيد",
+          "en": "Gueltat Sidi Saad",
+          "slug": "gueltat-sidi-saad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03025"
+    ],
+    "geo": {
+      "lat": "34.275",
+      "lon": "1.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

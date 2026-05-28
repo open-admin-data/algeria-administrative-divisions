@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+DZ027_mesra_ain-sidi-cherif,عين سيدي الشريف,Ain-Sidi Cherif,ain-sidi-cherif,DZ027_mesra_ain-sidi-cherif,27024,35.818,0.141
+DZ027_mesra_mansourah,منصورة,Mansourah,mansourah,DZ027_mesra_mansourah,13100,34.873,-1.358
+DZ027_mesra_mesra,ماسرة,Mesra,mesra,DZ027_mesra_mesra,27018,35.846,0.177
+DZ027_mesra_touahria,الطواهرية,Touahria,touahria,DZ027_mesra_touahria,27013,35.812,0.219

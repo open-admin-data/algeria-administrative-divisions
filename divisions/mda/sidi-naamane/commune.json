@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_sidi-naamane_bouchrahil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوشراحيل",
+      "en": "Bouchrahil",
+      "slug": "bouchrahil"
+    },
+    "code": {
+      "id": "DZ026_sidi-naamane_bouchrahil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_sidi-naamane",
+      "level": 2,
+      "name": {
+        "local": "سيدي نعمان",
+        "en": "Sidi Naamane",
+        "slug": "sidi-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_sidi-naamane",
+        "level": 2,
+        "name": {
+          "local": "سيدي نعمان",
+          "en": "Sidi Naamane",
+          "slug": "sidi-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26014"
+    ],
+    "geo": {
+      "lat": "36.277",
+      "lon": "3.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_sidi-naamane_khams-djouamaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خمس جوامع",
+      "en": "Khams Djouamaa",
+      "slug": "khams-djouamaa"
+    },
+    "code": {
+      "id": "DZ026_sidi-naamane_khams-djouamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_sidi-naamane",
+      "level": 2,
+      "name": {
+        "local": "سيدي نعمان",
+        "en": "Sidi Naamane",
+        "slug": "sidi-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_sidi-naamane",
+        "level": 2,
+        "name": {
+          "local": "سيدي نعمان",
+          "en": "Sidi Naamane",
+          "slug": "sidi-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26062"
+    ],
+    "geo": {
+      "lat": "36.151",
+      "lon": "3.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_sidi-naamane_sidi-naamane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي نعمان",
+      "en": "Sidi Naamane",
+      "slug": "sidi-naamane"
+    },
+    "code": {
+      "id": "DZ026_sidi-naamane_sidi-naamane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_sidi-naamane",
+      "level": 2,
+      "name": {
+        "local": "سيدي نعمان",
+        "en": "Sidi Naamane",
+        "slug": "sidi-naamane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_sidi-naamane",
+        "level": 2,
+        "name": {
+          "local": "سيدي نعمان",
+          "en": "Sidi Naamane",
+          "slug": "sidi-naamane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26071"
+    ],
+    "geo": {
+      "lat": "36.781",
+      "lon": "4"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_el-omaria",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "العمارية",
+    "en": "El Omaria",
+    "slug": "el-omaria"
+  },
+  "code": {
+    "id": "DZ026_el-omaria",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.906",
+    "lon": "2.219"
+  },
+  "metadata": {},
+  "source": {}
+}

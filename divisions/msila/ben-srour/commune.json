@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ028_ben-srour_ben-srour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن سرور",
+      "en": "Ben Srour",
+      "slug": "ben-srour"
+    },
+    "code": {
+      "id": "DZ028_ben-srour_ben-srour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ben-srour",
+      "level": 2,
+      "name": {
+        "local": "بن سرور",
+        "en": "Ben Srour",
+        "slug": "ben-srour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ben-srour",
+        "level": 2,
+        "name": {
+          "local": "بن سرور",
+          "en": "Ben Srour",
+          "slug": "ben-srour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28009"
+    ],
+    "geo": {
+      "lat": "34.994",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ben-srour_mohamed-boudiaf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "محمد بوضياف",
+      "en": "Mohamed Boudiaf",
+      "slug": "mohamed-boudiaf"
+    },
+    "code": {
+      "id": "DZ028_ben-srour_mohamed-boudiaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ben-srour",
+      "level": 2,
+      "name": {
+        "local": "بن سرور",
+        "en": "Ben Srour",
+        "slug": "ben-srour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ben-srour",
+        "level": 2,
+        "name": {
+          "local": "بن سرور",
+          "en": "Ben Srour",
+          "slug": "ben-srour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28033"
+    ],
+    "geo": {
+      "lat": "34.902",
+      "lon": "4.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ben-srour_ouled-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سليمان",
+      "en": "Ouled Slimane",
+      "slug": "ouled-slimane"
+    },
+    "code": {
+      "id": "DZ028_ben-srour_ouled-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ben-srour",
+      "level": 2,
+      "name": {
+        "local": "بن سرور",
+        "en": "Ben Srour",
+        "slug": "ben-srour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ben-srour",
+        "level": 2,
+        "name": {
+          "local": "بن سرور",
+          "en": "Ben Srour",
+          "slug": "ben-srour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28031"
+    ],
+    "geo": {
+      "lat": "34.929",
+      "lon": "4.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ben-srour_zarzour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زرزور",
+      "en": "Zarzour",
+      "slug": "zarzour"
+    },
+    "code": {
+      "id": "DZ028_ben-srour_zarzour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ben-srour",
+      "level": 2,
+      "name": {
+        "local": "بن سرور",
+        "en": "Ben Srour",
+        "slug": "ben-srour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ben-srour",
+        "level": 2,
+        "name": {
+          "local": "بن سرور",
+          "en": "Ben Srour",
+          "slug": "ben-srour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28067"
+    ],
+    "geo": {
+      "lat": "34.942",
+      "lon": "4.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

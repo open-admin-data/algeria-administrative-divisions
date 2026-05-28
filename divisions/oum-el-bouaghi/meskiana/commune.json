@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ004_meskiana_behir-chergui",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بحير الشرقي",
+      "en": "Behir Chergui",
+      "slug": "behir-chergui"
+    },
+    "code": {
+      "id": "DZ004_meskiana_behir-chergui",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_meskiana",
+      "level": 2,
+      "name": {
+        "local": "مسكيانة",
+        "en": "Meskiana",
+        "slug": "meskiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_meskiana",
+        "level": 2,
+        "name": {
+          "local": "مسكيانة",
+          "en": "Meskiana",
+          "slug": "meskiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04026"
+    ],
+    "geo": {
+      "lat": "35.819",
+      "lon": "7.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_meskiana_el-belala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البلالة",
+      "en": "El Belala",
+      "slug": "el-belala"
+    },
+    "code": {
+      "id": "DZ004_meskiana_el-belala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_meskiana",
+      "level": 2,
+      "name": {
+        "local": "مسكيانة",
+        "en": "Meskiana",
+        "slug": "meskiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_meskiana",
+        "level": 2,
+        "name": {
+          "local": "مسكيانة",
+          "en": "Meskiana",
+          "slug": "meskiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04044"
+    ],
+    "geo": {
+      "lat": "35.669",
+      "lon": "7.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_meskiana_meskiana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسكيانة",
+      "en": "Meskiana",
+      "slug": "meskiana"
+    },
+    "code": {
+      "id": "DZ004_meskiana_meskiana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_meskiana",
+      "level": 2,
+      "name": {
+        "local": "مسكيانة",
+        "en": "Meskiana",
+        "slug": "meskiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_meskiana",
+        "level": 2,
+        "name": {
+          "local": "مسكيانة",
+          "en": "Meskiana",
+          "slug": "meskiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04004"
+    ],
+    "geo": {
+      "lat": "35.627",
+      "lon": "7.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_meskiana_rahia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرحية",
+      "en": "Rahia",
+      "slug": "rahia"
+    },
+    "code": {
+      "id": "DZ004_meskiana_rahia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_meskiana",
+      "level": 2,
+      "name": {
+        "local": "مسكيانة",
+        "en": "Meskiana",
+        "slug": "meskiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_meskiana",
+        "level": 2,
+        "name": {
+          "local": "مسكيانة",
+          "en": "Meskiana",
+          "slug": "meskiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04045"
+    ],
+    "geo": {
+      "lat": "35.705",
+      "lon": "7.714"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

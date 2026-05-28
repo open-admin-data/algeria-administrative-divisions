@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_dar-el-beida",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الدار البيضاء",
+    "en": "Dar El Beida",
+    "slug": "dar-el-beida"
+  },
+  "code": {
+    "id": "DZ016_dar-el-beida",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.623",
+    "lon": "3.361"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ046013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Melaab",
+    "en": "Melaab",
+    "slug": "melaab-dz046013"
+  },
+  "code": {
+    "id": "DZ046013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.719",
+    "lon": "1.321"
+  },
+  "metadata": {},
+  "source": {}
+}

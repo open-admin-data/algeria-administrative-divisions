@@ -1,0 +1,119 @@
+# Tissemsilt — Algeria Administrative Divisions
+
+> 22 communes
+> Code: DZ046
+> Coordinates: 35.788, 1.833
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ammari
+
+Code: DZ046001, Coordinates: 35.617, 1.651
+
+
+### Beni Chaib
+
+Code: DZ046002, Coordinates: 35.827, 1.795
+
+
+### Beni Lahcene
+
+Code: DZ046003, Coordinates: 35.793, 1.716
+
+
+### Bordj Bounaama
+
+Code: DZ046004, Coordinates: 35.855, 1.623
+
+
+### Bordj El Emir Abdelkader
+
+Code: DZ046005, Coordinates: 35.824, 2.236
+
+
+### Boucaid
+
+Code: DZ046006, Coordinates: 35.905, 1.684
+
+
+### Khemisti
+
+Code: DZ046007, Coordinates: 35.688, 1.94
+
+
+### Larbaa
+
+Code: DZ046008, Coordinates: 35.914, 1.462
+
+
+### Lardjem
+
+Code: DZ046009, Coordinates: 35.79, 1.467
+
+
+### Layoune
+
+Code: DZ046010, Coordinates: 35.668, 2.064
+
+
+### Lazharia
+
+Code: DZ046011, Coordinates: 35.961, 1.568
+
+
+### Maacem
+
+Code: DZ046012, Coordinates: 35.644, 1.542
+
+
+### Melaab
+
+Code: DZ046013, Coordinates: 35.719, 1.321
+
+
+### Ouled Bessem
+
+Code: DZ046014, Coordinates: 35.7, 1.824
+
+
+### Sidi Abed
+
+Code: DZ046015, Coordinates: 35.713, 1.676
+
+
+### Sidi Boutouchent
+
+Code: DZ046016, Coordinates: 35.825, 1.922
+
+
+### Sidi Lantri
+
+Code: DZ046017, Coordinates: 35.708, 1.447
+
+
+### Sidi Slimane
+
+Code: DZ046018, Coordinates: 35.857, 1.723
+
+
+### Tamalaht
+
+Code: DZ046019, Coordinates: 35.802, 1.605
+
+
+### Theniet El Had
+
+Code: DZ046020, Coordinates: 35.85, 2.056
+
+
+### Tissemsilt
+
+Code: DZ046021, Coordinates: 35.614, 1.826
+
+
+### Youssoufia
+
+Code: DZ046022, Coordinates: 35.899, 2.126
+
+

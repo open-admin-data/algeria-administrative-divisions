@@ -1,0 +1,45 @@
+{
+  "id": "DZ001012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Metarfa",
+    "en": "Metarfa",
+    "slug": "metarfa-dz001012"
+  },
+  "code": {
+    "id": "DZ001012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.571",
+    "lon": "0.044"
+  },
+  "metadata": {},
+  "source": {}
+}

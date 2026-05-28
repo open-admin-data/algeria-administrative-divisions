@@ -1,0 +1,45 @@
+{
+  "id": "DZ039007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ben Azzouz",
+    "en": "Ben Azzouz",
+    "slug": "ben-azzouz-dz039007"
+  },
+  "code": {
+    "id": "DZ039007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.898",
+    "lon": "7.313"
+  },
+  "metadata": {},
+  "source": {}
+}

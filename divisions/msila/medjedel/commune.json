@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ028_medjedel_medjedel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "امجدل",
+      "en": "Medjedel",
+      "slug": "medjedel"
+    },
+    "code": {
+      "id": "DZ028_medjedel_medjedel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_medjedel",
+      "level": 2,
+      "name": {
+        "local": "امجدل",
+        "en": "Medjedel",
+        "slug": "medjedel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_medjedel",
+        "level": 2,
+        "name": {
+          "local": "امجدل",
+          "en": "Medjedel",
+          "slug": "medjedel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28016"
+    ],
+    "geo": {
+      "lat": "35.063",
+      "lon": "3.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_medjedel_menaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مناعة",
+      "en": "Menaa",
+      "slug": "menaa"
+    },
+    "code": {
+      "id": "DZ028_medjedel_menaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_medjedel",
+      "level": 2,
+      "name": {
+        "local": "امجدل",
+        "en": "Medjedel",
+        "slug": "medjedel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_medjedel",
+        "level": 2,
+        "name": {
+          "local": "امجدل",
+          "en": "Medjedel",
+          "slug": "medjedel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05100"
+    ],
+    "geo": {
+      "lat": "35.135",
+      "lon": "3.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ009015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Haouch",
+    "en": "El Haouch",
+    "slug": "el-haouch-dz009015"
+  },
+  "code": {
+    "id": "DZ009015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.558",
+    "lon": "6.045"
+  },
+  "metadata": {},
+  "source": {}
+}

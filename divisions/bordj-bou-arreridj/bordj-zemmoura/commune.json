@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ034_bordj-zemmoura_bordj-zemmoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج زمورة",
+      "en": "Bordj Zemmoura",
+      "slug": "bordj-zemmoura"
+    },
+    "code": {
+      "id": "DZ034_bordj-zemmoura_bordj-zemmoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-zemmoura",
+      "level": 2,
+      "name": {
+        "local": "برج زمورة",
+        "en": "Bordj Zemmoura",
+        "slug": "bordj-zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-zemmoura",
+        "level": 2,
+        "name": {
+          "local": "برج زمورة",
+          "en": "Bordj Zemmoura",
+          "slug": "bordj-zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34005"
+    ],
+    "geo": {
+      "lat": "36.234",
+      "lon": "4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-zemmoura_ouled-dahmane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد دحمان",
+      "en": "Ouled Dahmane",
+      "slug": "ouled-dahmane"
+    },
+    "code": {
+      "id": "DZ034_bordj-zemmoura_ouled-dahmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-zemmoura",
+      "level": 2,
+      "name": {
+        "local": "برج زمورة",
+        "en": "Bordj Zemmoura",
+        "slug": "bordj-zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-zemmoura",
+        "level": 2,
+        "name": {
+          "local": "برج زمورة",
+          "en": "Bordj Zemmoura",
+          "slug": "bordj-zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34033"
+    ],
+    "geo": {
+      "lat": "36.234",
+      "lon": "4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-zemmoura_tassamert",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسامرت",
+      "en": "Tassamert",
+      "slug": "tassamert"
+    },
+    "code": {
+      "id": "DZ034_bordj-zemmoura_tassamert",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-zemmoura",
+      "level": 2,
+      "name": {
+        "local": "برج زمورة",
+        "en": "Bordj Zemmoura",
+        "slug": "bordj-zemmoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-zemmoura",
+        "level": 2,
+        "name": {
+          "local": "برج زمورة",
+          "en": "Bordj Zemmoura",
+          "slug": "bordj-zemmoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34026"
+    ],
+    "geo": {
+      "lat": "36.234",
+      "lon": "4.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

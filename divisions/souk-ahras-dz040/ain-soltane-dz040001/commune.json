@@ -1,0 +1,45 @@
+{
+  "id": "DZ040001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Soltane",
+    "en": "Ain Soltane",
+    "slug": "ain-soltane-dz040001"
+  },
+  "code": {
+    "id": "DZ040001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.182",
+    "lon": "7.36"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_draa-el-mizan_ain-zaouia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الزاوية",
+      "en": "Ain-Zaouia",
+      "slug": "ain-zaouia"
+    },
+    "code": {
+      "id": "DZ015_draa-el-mizan_ain-zaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-el-mizan",
+      "level": 2,
+      "name": {
+        "local": "ذراع الميزان",
+        "en": "Draa El Mizan",
+        "slug": "draa-el-mizan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-el-mizan",
+        "level": 2,
+        "name": {
+          "local": "ذراع الميزان",
+          "en": "Draa El Mizan",
+          "slug": "draa-el-mizan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15055"
+    ],
+    "geo": {
+      "lat": "36.578",
+      "lon": "3.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-el-mizan_ait-yahia-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت يحي موسى",
+      "en": "Ait Yahia Moussa",
+      "slug": "ait-yahia-moussa"
+    },
+    "code": {
+      "id": "DZ015_draa-el-mizan_ait-yahia-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-el-mizan",
+      "level": 2,
+      "name": {
+        "local": "ذراع الميزان",
+        "en": "Draa El Mizan",
+        "slug": "draa-el-mizan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-el-mizan",
+        "level": 2,
+        "name": {
+          "local": "ذراع الميزان",
+          "en": "Draa El Mizan",
+          "slug": "draa-el-mizan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15026"
+    ],
+    "geo": {
+      "lat": "36.644",
+      "lon": "3.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-el-mizan_draa-el-mizan",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ذراع الميزان",
+      "en": "Draa-El-Mizan",
+      "slug": "draa-el-mizan"
+    },
+    "code": {
+      "id": "DZ015_draa-el-mizan_draa-el-mizan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-el-mizan",
+      "level": 2,
+      "name": {
+        "local": "ذراع الميزان",
+        "en": "Draa El Mizan",
+        "slug": "draa-el-mizan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-el-mizan",
+        "level": 2,
+        "name": {
+          "local": "ذراع الميزان",
+          "en": "Draa El Mizan",
+          "slug": "draa-el-mizan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15005"
+    ],
+    "geo": {
+      "lat": "36.549",
+      "lon": "3.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-el-mizan_frikat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فريقات",
+      "en": "Frikat",
+      "slug": "frikat"
+    },
+    "code": {
+      "id": "DZ015_draa-el-mizan_frikat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-el-mizan",
+      "level": 2,
+      "name": {
+        "local": "ذراع الميزان",
+        "en": "Draa El Mizan",
+        "slug": "draa-el-mizan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-el-mizan",
+        "level": 2,
+        "name": {
+          "local": "ذراع الميزان",
+          "en": "Draa El Mizan",
+          "slug": "draa-el-mizan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15067"
+    ],
+    "geo": {
+      "lat": "36.5",
+      "lon": "3.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

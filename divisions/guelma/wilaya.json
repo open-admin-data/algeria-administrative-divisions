@@ -1,0 +1,30 @@
+{
+  "id": "DZ024",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "قالمة",
+    "en": "Guelma",
+    "slug": "guelma"
+  },
+  "code": {
+    "id": "DZ024",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 10,
+    "commune": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.349",
+    "lon": "7.412"
+  },
+  "metadata": {},
+  "source": {}
+}

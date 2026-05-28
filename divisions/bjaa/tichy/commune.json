@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ006_tichy_boukhelifa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوخليفة",
+      "en": "Boukhelifa",
+      "slug": "boukhelifa"
+    },
+    "code": {
+      "id": "DZ006_tichy_boukhelifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tichy",
+      "level": 2,
+      "name": {
+        "local": "تيشي",
+        "en": "Tichy",
+        "slug": "tichy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tichy",
+        "level": 2,
+        "name": {
+          "local": "تيشي",
+          "en": "Tichy",
+          "slug": "tichy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06059"
+    ],
+    "geo": {
+      "lat": "36.641",
+      "lon": "5.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tichy_tala-hamza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تالة حمزة",
+      "en": "Tala Hamza",
+      "slug": "tala-hamza"
+    },
+    "code": {
+      "id": "DZ006_tichy_tala-hamza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tichy",
+      "level": 2,
+      "name": {
+        "local": "تيشي",
+        "en": "Tichy",
+        "slug": "tichy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tichy",
+        "level": 2,
+        "name": {
+          "local": "تيشي",
+          "en": "Tichy",
+          "slug": "tichy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06066"
+    ],
+    "geo": {
+      "lat": "36.693",
+      "lon": "5.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tichy_tichy",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيشي",
+      "en": "Tichy",
+      "slug": "tichy"
+    },
+    "code": {
+      "id": "DZ006_tichy_tichy",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_tichy",
+      "level": 2,
+      "name": {
+        "local": "تيشي",
+        "en": "Tichy",
+        "slug": "tichy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_tichy",
+        "level": 2,
+        "name": {
+          "local": "تيشي",
+          "en": "Tichy",
+          "slug": "tichy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06023"
+    ],
+    "geo": {
+      "lat": "36.667",
+      "lon": "5.046"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

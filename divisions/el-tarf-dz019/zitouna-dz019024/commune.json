@@ -1,0 +1,45 @@
+{
+  "id": "DZ019024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zitouna",
+    "en": "Zitouna",
+    "slug": "zitouna-dz019024"
+  },
+  "code": {
+    "id": "DZ019024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.634",
+    "lon": "8.246"
+  },
+  "metadata": {},
+  "source": {}
+}

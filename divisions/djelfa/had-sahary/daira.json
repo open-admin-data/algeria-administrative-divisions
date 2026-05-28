@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_had-sahary",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حد الصحاري",
+    "en": "Had Sahary",
+    "slug": "had-sahary"
+  },
+  "code": {
+    "id": "DZ017_had-sahary",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.331",
+    "lon": "3.345"
+  },
+  "metadata": {},
+  "source": {}
+}

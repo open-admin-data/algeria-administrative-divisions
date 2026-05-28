@@ -1,0 +1,45 @@
+{
+  "id": "DZ030022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Maadid",
+    "en": "Maadid",
+    "slug": "maadid-dz030022"
+  },
+  "code": {
+    "id": "DZ030022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.796",
+    "lon": "4.757"
+  },
+  "metadata": {},
+  "source": {}
+}

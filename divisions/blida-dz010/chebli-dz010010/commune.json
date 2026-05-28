@@ -1,0 +1,45 @@
+{
+  "id": "DZ010010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chebli",
+    "en": "Chebli",
+    "slug": "chebli-dz010010"
+  },
+  "code": {
+    "id": "DZ010010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.572",
+    "lon": "3.018"
+  },
+  "metadata": {},
+  "source": {}
+}

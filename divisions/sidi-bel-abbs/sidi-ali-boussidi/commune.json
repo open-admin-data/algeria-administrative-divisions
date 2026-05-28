@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_sidi-ali-boussidi_ain-kada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين قادة",
+      "en": "Ain Kada",
+      "slug": "ain-kada"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-boussidi_ain-kada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-boussidi",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بوسيدي",
+        "en": "Sidi Ali Boussidi",
+        "slug": "sidi-ali-boussidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-boussidi",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بوسيدي",
+          "en": "Sidi Ali Boussidi",
+          "slug": "sidi-ali-boussidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22035"
+    ],
+    "geo": {
+      "lat": "35.159",
+      "lon": "-0.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-boussidi_lamtar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لمطار",
+      "en": "Lamtar",
+      "slug": "lamtar"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-boussidi_lamtar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-boussidi",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بوسيدي",
+        "en": "Sidi Ali Boussidi",
+        "slug": "sidi-ali-boussidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-boussidi",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بوسيدي",
+          "en": "Sidi Ali Boussidi",
+          "slug": "sidi-ali-boussidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22024"
+    ],
+    "geo": {
+      "lat": "35.059",
+      "lon": "-0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-boussidi_sidi-ali-boussidi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي علي بوسيدي",
+      "en": "Sidi Ali Boussidi",
+      "slug": "sidi-ali-boussidi"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-boussidi_sidi-ali-boussidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-boussidi",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بوسيدي",
+        "en": "Sidi Ali Boussidi",
+        "slug": "sidi-ali-boussidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-boussidi",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بوسيدي",
+          "en": "Sidi Ali Boussidi",
+          "slug": "sidi-ali-boussidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22014"
+    ],
+    "geo": {
+      "lat": "35.107",
+      "lon": "-0.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-boussidi_sidi-dahou-zairs",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي دحو الزاير",
+      "en": "Sidi Dahou Zairs",
+      "slug": "sidi-dahou-zairs"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-boussidi_sidi-dahou-zairs",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-boussidi",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بوسيدي",
+        "en": "Sidi Ali Boussidi",
+        "slug": "sidi-ali-boussidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-boussidi",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بوسيدي",
+          "en": "Sidi Ali Boussidi",
+          "slug": "sidi-ali-boussidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22062"
+    ],
+    "geo": {
+      "lat": "35.108",
+      "lon": "-0.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

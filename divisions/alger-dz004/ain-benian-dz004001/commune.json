@@ -1,0 +1,45 @@
+{
+  "id": "DZ004001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Benian",
+    "en": "Ain Benian",
+    "slug": "ain-benian-dz004001"
+  },
+  "code": {
+    "id": "DZ004001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.796",
+    "lon": "2.929"
+  },
+  "metadata": {},
+  "source": {}
+}

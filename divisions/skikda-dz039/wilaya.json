@@ -1,0 +1,29 @@
+{
+  "id": "DZ039",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سكيكدة",
+    "en": "Skikda",
+    "slug": "skikda-dz039"
+  },
+  "code": {
+    "id": "DZ039",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.755",
+    "lon": "6.889"
+  },
+  "metadata": {},
+  "source": {}
+}

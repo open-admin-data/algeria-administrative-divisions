@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_abou-el-hassane_abou-el-hassane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أبو الحسن",
+      "en": "Abou El Hassane",
+      "slug": "abou-el-hassane"
+    },
+    "code": {
+      "id": "DZ002_abou-el-hassane_abou-el-hassane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_abou-el-hassane",
+      "level": 2,
+      "name": {
+        "local": "أبو الحسن",
+        "en": "Abou El Hassane",
+        "slug": "abou-el-hassane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_abou-el-hassane",
+        "level": 2,
+        "name": {
+          "local": "أبو الحسن",
+          "en": "Abou El Hassane",
+          "slug": "abou-el-hassane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02018"
+    ],
+    "geo": {
+      "lat": "36.38",
+      "lon": "1.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_abou-el-hassane_tadjena",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاجنة",
+      "en": "Tadjena",
+      "slug": "tadjena"
+    },
+    "code": {
+      "id": "DZ002_abou-el-hassane_tadjena",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_abou-el-hassane",
+      "level": 2,
+      "name": {
+        "local": "أبو الحسن",
+        "en": "Abou El Hassane",
+        "slug": "abou-el-hassane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_abou-el-hassane",
+        "level": 2,
+        "name": {
+          "local": "أبو الحسن",
+          "en": "Abou El Hassane",
+          "slug": "abou-el-hassane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02043"
+    ],
+    "geo": {
+      "lat": "36.339",
+      "lon": "1.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_abou-el-hassane_talassa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تلعصة",
+      "en": "Talassa",
+      "slug": "talassa"
+    },
+    "code": {
+      "id": "DZ002_abou-el-hassane_talassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_abou-el-hassane",
+      "level": 2,
+      "name": {
+        "local": "أبو الحسن",
+        "en": "Abou El Hassane",
+        "slug": "abou-el-hassane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_abou-el-hassane",
+        "level": 2,
+        "name": {
+          "local": "أبو الحسن",
+          "en": "Abou El Hassane",
+          "slug": "abou-el-hassane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02065"
+    ],
+    "geo": {
+      "lat": "36.422",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ021018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Guelaat Bousbaa",
+    "en": "Guelaat Bousbaa",
+    "slug": "guelaat-bousbaa-dz021018"
+  },
+  "code": {
+    "id": "DZ021018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.553",
+    "lon": "7.492"
+  },
+  "metadata": {},
+  "source": {}
+}

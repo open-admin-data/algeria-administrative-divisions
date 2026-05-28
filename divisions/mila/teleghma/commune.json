@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_teleghma_el-mechira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مشيرة",
+      "en": "El Mechira",
+      "slug": "el-mechira"
+    },
+    "code": {
+      "id": "DZ043_teleghma_el-mechira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_teleghma",
+      "level": 2,
+      "name": {
+        "local": "التلاغمة",
+        "en": "Teleghma",
+        "slug": "teleghma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_teleghma",
+        "level": 2,
+        "name": {
+          "local": "التلاغمة",
+          "en": "Teleghma",
+          "slug": "teleghma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43026"
+    ],
+    "geo": {
+      "lat": "36.204",
+      "lon": "6.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_teleghma_oued-seguen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي سقان",
+      "en": "Oued Seguen",
+      "slug": "oued-seguen"
+    },
+    "code": {
+      "id": "DZ043_teleghma_oued-seguen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_teleghma",
+      "level": 2,
+      "name": {
+        "local": "التلاغمة",
+        "en": "Teleghma",
+        "slug": "teleghma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_teleghma",
+        "level": 2,
+        "name": {
+          "local": "التلاغمة",
+          "en": "Teleghma",
+          "slug": "teleghma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43031"
+    ],
+    "geo": {
+      "lat": "36.204",
+      "lon": "6.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_teleghma_teleghma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "التلاغمة",
+      "en": "Teleghma",
+      "slug": "teleghma"
+    },
+    "code": {
+      "id": "DZ043_teleghma_teleghma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_teleghma",
+      "level": 2,
+      "name": {
+        "local": "التلاغمة",
+        "en": "Teleghma",
+        "slug": "teleghma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_teleghma",
+        "level": 2,
+        "name": {
+          "local": "التلاغمة",
+          "en": "Teleghma",
+          "slug": "teleghma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43008"
+    ],
+    "geo": {
+      "lat": "36.204",
+      "lon": "6.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

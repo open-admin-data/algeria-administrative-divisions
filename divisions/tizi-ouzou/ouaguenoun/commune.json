@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_ouaguenoun_ait-aissa-mimoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت عيسى ميمون",
+      "en": "Ait-Aissa-Mimoun",
+      "slug": "ait-aissa-mimoun"
+    },
+    "code": {
+      "id": "DZ015_ouaguenoun_ait-aissa-mimoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouaguenoun",
+      "level": 2,
+      "name": {
+        "local": "واقنون",
+        "en": "Ouaguenoun",
+        "slug": "ouaguenoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouaguenoun",
+        "level": 2,
+        "name": {
+          "local": "واقنون",
+          "en": "Ouaguenoun",
+          "slug": "ouaguenoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15032"
+    ],
+    "geo": {
+      "lat": "36.754",
+      "lon": "4.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouaguenoun_ouaguenoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واقنون",
+      "en": "Ouaguenoun",
+      "slug": "ouaguenoun"
+    },
+    "code": {
+      "id": "DZ015_ouaguenoun_ouaguenoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouaguenoun",
+      "level": 2,
+      "name": {
+        "local": "واقنون",
+        "en": "Ouaguenoun",
+        "slug": "ouaguenoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouaguenoun",
+        "level": 2,
+        "name": {
+          "local": "واقنون",
+          "en": "Ouaguenoun",
+          "slug": "ouaguenoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15045"
+    ],
+    "geo": {
+      "lat": "36.762",
+      "lon": "4.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouaguenoun_timizart",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمـيزار",
+      "en": "Timizart",
+      "slug": "timizart"
+    },
+    "code": {
+      "id": "DZ015_ouaguenoun_timizart",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouaguenoun",
+      "level": 2,
+      "name": {
+        "local": "واقنون",
+        "en": "Ouaguenoun",
+        "slug": "ouaguenoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouaguenoun",
+        "level": 2,
+        "name": {
+          "local": "واقنون",
+          "en": "Ouaguenoun",
+          "slug": "ouaguenoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15039"
+    ],
+    "geo": {
+      "lat": "36.8",
+      "lon": "4.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

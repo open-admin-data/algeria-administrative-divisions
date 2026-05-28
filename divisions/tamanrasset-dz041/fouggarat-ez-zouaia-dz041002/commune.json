@@ -1,0 +1,45 @@
+{
+  "id": "DZ041002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Fouggarat Ez Zouaia",
+    "en": "Fouggarat Ez Zouaia",
+    "slug": "fouggarat-ez-zouaia-dz041002"
+  },
+  "code": {
+    "id": "DZ041002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.973",
+    "lon": "4.348"
+  },
+  "metadata": {},
+  "source": {}
+}

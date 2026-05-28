@@ -1,0 +1,45 @@
+{
+  "id": "DZ041009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tazrouk",
+    "en": "Tazrouk",
+    "slug": "tazrouk-dz041009"
+  },
+  "code": {
+    "id": "DZ041009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.668",
+    "lon": "8.22"
+  },
+  "metadata": {},
+  "source": {}
+}

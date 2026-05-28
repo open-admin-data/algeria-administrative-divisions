@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ009_oued-el-alleug_beni-tamou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني تامو",
+      "en": "Beni-Tamou",
+      "slug": "beni-tamou"
+    },
+    "code": {
+      "id": "DZ009_oued-el-alleug_beni-tamou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_oued-el-alleug",
+      "level": 2,
+      "name": {
+        "local": "وادي العلايق",
+        "en": "Oued El Alleug",
+        "slug": "oued-el-alleug"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_oued-el-alleug",
+        "level": 2,
+        "name": {
+          "local": "وادي العلايق",
+          "en": "Oued El Alleug",
+          "slug": "oued-el-alleug"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09024"
+    ],
+    "geo": {
+      "lat": "36.543",
+      "lon": "2.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_oued-el-alleug_benkhelil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن خليل",
+      "en": "Benkhelil",
+      "slug": "benkhelil"
+    },
+    "code": {
+      "id": "DZ009_oued-el-alleug_benkhelil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_oued-el-alleug",
+      "level": 2,
+      "name": {
+        "local": "وادي العلايق",
+        "en": "Oued El Alleug",
+        "slug": "oued-el-alleug"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_oued-el-alleug",
+        "level": 2,
+        "name": {
+          "local": "وادي العلايق",
+          "en": "Oued El Alleug",
+          "slug": "oued-el-alleug"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09025"
+    ],
+    "geo": {
+      "lat": "36.549",
+      "lon": "2.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_oued-el-alleug_oued-el-alleug",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي العلايق",
+      "en": "Oued El Alleug",
+      "slug": "oued-el-alleug"
+    },
+    "code": {
+      "id": "DZ009_oued-el-alleug_oued-el-alleug",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_oued-el-alleug",
+      "level": 2,
+      "name": {
+        "local": "وادي العلايق",
+        "en": "Oued El Alleug",
+        "slug": "oued-el-alleug"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_oued-el-alleug",
+        "level": 2,
+        "name": {
+          "local": "وادي العلايق",
+          "en": "Oued El Alleug",
+          "slug": "oued-el-alleug"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09014"
+    ],
+    "geo": {
+      "lat": "36.554",
+      "lon": "2.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

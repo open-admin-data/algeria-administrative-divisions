@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ009_bouinan_bouinan",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعينان",
+      "en": "Bouinan",
+      "slug": "bouinan"
+    },
+    "code": {
+      "id": "DZ009_bouinan_bouinan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_bouinan",
+      "level": 2,
+      "name": {
+        "local": "بوعينان",
+        "en": "Bouinan",
+        "slug": "bouinan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_bouinan",
+        "level": 2,
+        "name": {
+          "local": "بوعينان",
+          "en": "Bouinan",
+          "slug": "bouinan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09020"
+    ],
+    "geo": {
+      "lat": "36.519",
+      "lon": "2.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_bouinan_chebli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشبلي",
+      "en": "Chebli",
+      "slug": "chebli"
+    },
+    "code": {
+      "id": "DZ009_bouinan_chebli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_bouinan",
+      "level": 2,
+      "name": {
+        "local": "بوعينان",
+        "en": "Bouinan",
+        "slug": "bouinan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_bouinan",
+        "level": 2,
+        "name": {
+          "local": "بوعينان",
+          "en": "Bouinan",
+          "slug": "bouinan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09009"
+    ],
+    "geo": {
+      "lat": "36.572",
+      "lon": "3.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ042_damous_beni-mileuk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني ميلك",
+      "en": "Beni Mileuk",
+      "slug": "beni-mileuk"
+    },
+    "code": {
+      "id": "DZ042_damous_beni-mileuk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_damous",
+      "level": 2,
+      "name": {
+        "local": "الداموس",
+        "en": "Damous",
+        "slug": "damous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_damous",
+        "level": 2,
+        "name": {
+          "local": "الداموس",
+          "en": "Damous",
+          "slug": "damous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42024"
+    ],
+    "geo": {
+      "lat": "36.508",
+      "lon": "1.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_damous_damous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الداموس",
+      "en": "Damous",
+      "slug": "damous"
+    },
+    "code": {
+      "id": "DZ042_damous_damous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_damous",
+      "level": 2,
+      "name": {
+        "local": "الداموس",
+        "en": "Damous",
+        "slug": "damous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_damous",
+        "level": 2,
+        "name": {
+          "local": "الداموس",
+          "en": "Damous",
+          "slug": "damous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42014"
+    ],
+    "geo": {
+      "lat": "36.505",
+      "lon": "1.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_damous_larhat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأرهاط",
+      "en": "Larhat",
+      "slug": "larhat"
+    },
+    "code": {
+      "id": "DZ042_damous_larhat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_damous",
+      "level": 2,
+      "name": {
+        "local": "الداموس",
+        "en": "Damous",
+        "slug": "damous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_damous",
+        "level": 2,
+        "name": {
+          "local": "الداموس",
+          "en": "Damous",
+          "slug": "damous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42017"
+    ],
+    "geo": {
+      "lat": "36.51",
+      "lon": "1.789"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

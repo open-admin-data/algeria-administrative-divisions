@@ -1,0 +1,45 @@
+{
+  "id": "DZ025012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi R'Mel",
+    "en": "Hassi R'Mel",
+    "slug": "hassi-rmel-dz025012"
+  },
+  "code": {
+    "id": "DZ025012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.141",
+    "lon": "3.27"
+  },
+  "metadata": {},
+  "source": {}
+}

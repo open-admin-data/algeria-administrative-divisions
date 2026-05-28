@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_chetouane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "شتوان",
+    "en": "Chetouane",
+    "slug": "chetouane"
+  },
+  "code": {
+    "id": "DZ013_chetouane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.944",
+    "lon": "-1.25"
+  },
+  "metadata": {},
+  "source": {}
+}

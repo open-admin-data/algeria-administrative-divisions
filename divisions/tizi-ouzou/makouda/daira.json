@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_makouda",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ماكودة",
+    "en": "Makouda",
+    "slug": "makouda"
+  },
+  "code": {
+    "id": "DZ015_makouda",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.802",
+    "lon": "4.105"
+  },
+  "metadata": {},
+  "source": {}
+}

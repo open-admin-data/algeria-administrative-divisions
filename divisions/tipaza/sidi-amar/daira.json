@@ -1,0 +1,47 @@
+{
+  "id": "DZ042_sidi-amar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي أعمر",
+    "en": "Sidi Amar",
+    "slug": "sidi-amar"
+  },
+  "code": {
+    "id": "DZ042_sidi-amar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.551",
+    "lon": "2.303"
+  },
+  "metadata": {},
+  "source": {}
+}

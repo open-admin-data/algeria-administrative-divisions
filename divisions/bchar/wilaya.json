@@ -1,0 +1,30 @@
+{
+  "id": "DZ008",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "بشار",
+    "en": "Béchar",
+    "slug": "bchar"
+  },
+  "code": {
+    "id": "DZ008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 7,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.202",
+    "lon": "-2.453"
+  },
+  "metadata": {},
+  "source": {}
+}

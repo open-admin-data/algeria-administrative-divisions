@@ -1,0 +1,45 @@
+{
+  "id": "DZ019017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El-Tarf",
+    "en": "El-Tarf",
+    "slug": "el-tarf-dz019017"
+  },
+  "code": {
+    "id": "DZ019017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.757",
+    "lon": "8.317"
+  },
+  "metadata": {},
+  "source": {}
+}

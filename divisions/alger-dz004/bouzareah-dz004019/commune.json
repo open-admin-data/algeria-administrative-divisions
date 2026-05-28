@@ -1,0 +1,45 @@
+{
+  "id": "DZ004019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouzareah",
+    "en": "Bouzareah",
+    "slug": "bouzareah-dz004019"
+  },
+  "code": {
+    "id": "DZ004019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.791",
+    "lon": "3.008"
+  },
+  "metadata": {},
+  "source": {}
+}

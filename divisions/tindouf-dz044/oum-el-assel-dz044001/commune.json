@@ -1,0 +1,45 @@
+{
+  "id": "DZ044001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oum El Assel",
+    "en": "Oum El Assel",
+    "slug": "oum-el-assel-dz044001"
+  },
+  "code": {
+    "id": "DZ044001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ044",
+    "level": 1,
+    "name": {
+      "local": "تندوف",
+      "en": "Tindouf",
+      "slug": "tindouf-dz044"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "تندوف",
+        "en": "Tindouf",
+        "slug": "tindouf-dz044"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.013",
+    "lon": "-5.799"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,70 @@
+# Béni Abbès — Algeria Administrative Divisions
+
+> 5 dairas, 9 communes
+> Code: DZ052
+> Coordinates: 29.887, -1.671
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بني عباس (Beni Abbes)
+
+Code: DZ052_beni-abbes, Coordinates: 30.071, -2.58
+Communes: 2
+
+#### بني عباس (Beni-Abbes)
+
+Code: DZ052_beni-abbes_beni-abbes, Postal: 08002, Coordinates: 30.071, -2.58
+
+#### تامترت (Tamtert)
+
+Code: DZ052_beni-abbes_tamtert, Postal: 08046, Coordinates: 30.071, -2.58
+
+### الواتة (El Ouata)
+
+Code: DZ052_el-ouata, Coordinates: 30.121, -1.382
+Communes: 1
+
+#### الواتة (El Ouata)
+
+Code: DZ052_el-ouata_el-ouata, Postal: 08020, Coordinates: 30.121, -1.382
+
+### إقلي (Igli)
+
+Code: DZ052_igli, Coordinates: 30.479, -2.553
+Communes: 1
+
+#### إقلي (Igli)
+
+Code: DZ052_igli_igli, Postal: 08021, Coordinates: 30.479, -2.553
+
+### كرزاز (Kerzaz)
+
+Code: DZ052_kerzaz, Coordinates: 29.776, -1.222
+Communes: 3
+
+#### بن يخلف (Beni-Ikhlef)
+
+Code: DZ052_kerzaz_beni-ikhlef, Postal: 08025, Coordinates: 29.714, -1.497
+
+#### كرزاز (Kerzaz)
+
+Code: DZ052_kerzaz_kerzaz, Postal: 08022, Coordinates: 29.839, -0.946
+
+#### تيمودي (Timoudi)
+
+Code: DZ052_kerzaz_timoudi, Postal: 08031, Coordinates: 29.776, -1.222
+
+### أولاد خضير (Ouled Khodeir)
+
+Code: DZ052_ouled-khodeir, Coordinates: 29.099, -1.067
+Communes: 2
+
+#### القصابي (Ksabi)
+
+Code: DZ052_ouled-khodeir_ksabi, Postal: 08039, Coordinates: 29.099, -1.067
+
+#### أولاد خضير (Ouled-Khodeir)
+
+Code: DZ052_ouled-khodeir_ouled-khodeir, Postal: 08028, Coordinates: 29.099, -1.067
+

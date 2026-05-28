@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_ouled-mimoun",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد ميمون",
+    "en": "Ouled Mimoun",
+    "slug": "ouled-mimoun"
+  },
+  "code": {
+    "id": "DZ013_ouled-mimoun",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.901",
+    "lon": "-1.045"
+  },
+  "metadata": {},
+  "source": {}
+}

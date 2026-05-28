@@ -1,0 +1,47 @@
+{
+  "id": "DZ020_saida",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سعيدة",
+    "en": "Saida",
+    "slug": "saida"
+  },
+  "code": {
+    "id": "DZ020_saida",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.847",
+    "lon": "0.127"
+  },
+  "metadata": {},
+  "source": {}
+}

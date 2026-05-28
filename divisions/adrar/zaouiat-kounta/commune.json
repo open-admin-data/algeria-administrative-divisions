@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ001_zaouiat-kounta_in-zghmir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إن زغمير",
+      "en": "In Zghmir",
+      "slug": "in-zghmir"
+    },
+    "code": {
+      "id": "DZ001_zaouiat-kounta_in-zghmir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_zaouiat-kounta",
+      "level": 2,
+      "name": {
+        "local": "زاوية كنتة",
+        "en": "Zaouiat Kounta",
+        "slug": "zaouiat-kounta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_zaouiat-kounta",
+        "level": 2,
+        "name": {
+          "local": "زاوية كنتة",
+          "en": "Zaouiat Kounta",
+          "slug": "zaouiat-kounta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01047"
+    ],
+    "geo": {
+      "lat": "27.241",
+      "lon": "-1.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_zaouiat-kounta_zaouiet-kounta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زاوية كنتة",
+      "en": "Zaouiet Kounta",
+      "slug": "zaouiet-kounta"
+    },
+    "code": {
+      "id": "DZ001_zaouiat-kounta_zaouiet-kounta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_zaouiat-kounta",
+      "level": 2,
+      "name": {
+        "local": "زاوية كنتة",
+        "en": "Zaouiat Kounta",
+        "slug": "zaouiat-kounta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_zaouiat-kounta",
+        "level": 2,
+        "name": {
+          "local": "زاوية كنتة",
+          "en": "Zaouiat Kounta",
+          "slug": "zaouiat-kounta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01007"
+    ],
+    "geo": {
+      "lat": "27.241",
+      "lon": "-1.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

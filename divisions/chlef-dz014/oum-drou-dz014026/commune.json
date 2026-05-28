@@ -1,0 +1,45 @@
+{
+  "id": "DZ014026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oum Drou",
+    "en": "Oum Drou",
+    "slug": "oum-drou-dz014026"
+  },
+  "code": {
+    "id": "DZ014026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.207",
+    "lon": "1.403"
+  },
+  "metadata": {},
+  "source": {}
+}

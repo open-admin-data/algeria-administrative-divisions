@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ007_el-kantara_ain-zaatout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين زعطوط",
+      "en": "Ain Zaatout",
+      "slug": "ain-zaatout"
+    },
+    "code": {
+      "id": "DZ007_el-kantara_ain-zaatout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_el-kantara",
+      "level": 2,
+      "name": {
+        "local": "القنطرة",
+        "en": "El Kantara",
+        "slug": "el-kantara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_el-kantara",
+        "level": 2,
+        "name": {
+          "local": "القنطرة",
+          "en": "El Kantara",
+          "slug": "el-kantara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07013"
+    ],
+    "geo": {
+      "lat": "35.171",
+      "lon": "5.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_el-kantara_el-kantara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القنطرة",
+      "en": "El Kantara",
+      "slug": "el-kantara"
+    },
+    "code": {
+      "id": "DZ007_el-kantara_el-kantara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_el-kantara",
+      "level": 2,
+      "name": {
+        "local": "القنطرة",
+        "en": "El Kantara",
+        "slug": "el-kantara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_el-kantara",
+        "level": 2,
+        "name": {
+          "local": "القنطرة",
+          "en": "El Kantara",
+          "slug": "el-kantara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07008"
+    ],
+    "geo": {
+      "lat": "35.206",
+      "lon": "5.695"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

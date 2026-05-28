@@ -1,0 +1,45 @@
+{
+  "id": "DZ026027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Maoussa",
+    "en": "Maoussa",
+    "slug": "maoussa-dz026027"
+  },
+  "code": {
+    "id": "DZ026027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.379",
+    "lon": "0.23"
+  },
+  "metadata": {},
+  "source": {}
+}

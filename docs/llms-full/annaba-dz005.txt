@@ -1,0 +1,69 @@
+# Annaba — Algeria Administrative Divisions
+
+> 12 communes
+> Code: DZ005
+> Coordinates: 36.846, 7.6
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Berda
+
+Code: DZ005001, Coordinates: 36.673, 7.638
+
+
+### Annaba
+
+Code: DZ005002, Coordinates: 36.92, 7.742
+
+
+### Berrahel
+
+Code: DZ005003, Coordinates: 36.813, 7.491
+
+
+### Chetaibi
+
+Code: DZ005004, Coordinates: 37.012, 7.405
+
+
+### Cheurfa
+
+Code: DZ005005, Coordinates: 36.723, 7.575
+
+
+### El Bouni
+
+Code: DZ005006, Coordinates: 36.843, 7.75
+
+
+### El Hadjar
+
+Code: DZ005007, Coordinates: 36.777, 7.681
+
+
+### Eulma
+
+Code: DZ005008, Coordinates: 36.714, 7.436
+
+
+### Oued El Aneb
+
+Code: DZ005009, Coordinates: 36.937, 7.524
+
+
+### Seraidi
+
+Code: DZ005010, Coordinates: 36.945, 7.642
+
+
+### Sidi Amer
+
+Code: DZ005011, Coordinates: 36.81, 7.689
+
+
+### Treat
+
+Code: DZ005012, Coordinates: 36.935, 7.406
+
+

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_maoklane_maouaklane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ماوكلان",
+      "en": "Maouaklane",
+      "slug": "maouaklane"
+    },
+    "code": {
+      "id": "DZ019_maoklane_maouaklane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_maoklane",
+      "level": 2,
+      "name": {
+        "local": "ماوكلان",
+        "en": "Maoklane",
+        "slug": "maoklane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_maoklane",
+        "level": 2,
+        "name": {
+          "local": "ماوكلان",
+          "en": "Maoklane",
+          "slug": "maoklane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19028"
+    ],
+    "geo": {
+      "lat": "36.455",
+      "lon": "5.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_maoklane_tala-ifacene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تالة إيفاسن",
+      "en": "Tala-Ifacene",
+      "slug": "tala-ifacene"
+    },
+    "code": {
+      "id": "DZ019_maoklane_tala-ifacene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_maoklane",
+      "level": 2,
+      "name": {
+        "local": "ماوكلان",
+        "en": "Maoklane",
+        "slug": "maoklane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_maoklane",
+        "level": 2,
+        "name": {
+          "local": "ماوكلان",
+          "en": "Maoklane",
+          "slug": "maoklane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19069"
+    ],
+    "geo": {
+      "lat": "36.455",
+      "lon": "5.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

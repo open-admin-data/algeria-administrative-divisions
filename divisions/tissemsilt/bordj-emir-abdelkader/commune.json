@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ038_bordj-emir-abdelkader_bordj-el-emir-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الأمير عبد القادر",
+      "en": "Bordj El Emir Abdelkader",
+      "slug": "bordj-el-emir-abdelkader"
+    },
+    "code": {
+      "id": "DZ038_bordj-emir-abdelkader_bordj-el-emir-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-emir-abdelkader",
+      "level": 2,
+      "name": {
+        "local": "برج الأمير عبد القادر",
+        "en": "Bordj Emir Abdelkader",
+        "slug": "bordj-emir-abdelkader"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-emir-abdelkader",
+        "level": 2,
+        "name": {
+          "local": "برج الأمير عبد القادر",
+          "en": "Bordj Emir Abdelkader",
+          "slug": "bordj-emir-abdelkader"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38041"
+    ],
+    "geo": {
+      "lat": "35.824",
+      "lon": "2.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-emir-abdelkader_youssoufia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اليوسفية",
+      "en": "Youssoufia",
+      "slug": "youssoufia"
+    },
+    "code": {
+      "id": "DZ038_bordj-emir-abdelkader_youssoufia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-emir-abdelkader",
+      "level": 2,
+      "name": {
+        "local": "برج الأمير عبد القادر",
+        "en": "Bordj Emir Abdelkader",
+        "slug": "bordj-emir-abdelkader"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-emir-abdelkader",
+        "level": 2,
+        "name": {
+          "local": "برج الأمير عبد القادر",
+          "en": "Bordj Emir Abdelkader",
+          "slug": "bordj-emir-abdelkader"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38031"
+    ],
+    "geo": {
+      "lat": "35.899",
+      "lon": "2.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

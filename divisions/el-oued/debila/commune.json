@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_debila_debila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدبيلة",
+      "en": "Debila",
+      "slug": "debila"
+    },
+    "code": {
+      "id": "DZ039_debila_debila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_debila",
+      "level": 2,
+      "name": {
+        "local": "الدبيلة",
+        "en": "Debila",
+        "slug": "debila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_debila",
+        "level": 2,
+        "name": {
+          "local": "الدبيلة",
+          "en": "Debila",
+          "slug": "debila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39003"
+    ],
+    "geo": {
+      "lat": "33.467",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_debila_hassani-abdelkrim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حساني عبد الكريم",
+      "en": "Hassani Abdelkrim",
+      "slug": "hassani-abdelkrim"
+    },
+    "code": {
+      "id": "DZ039_debila_hassani-abdelkrim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_debila",
+      "level": 2,
+      "name": {
+        "local": "الدبيلة",
+        "en": "Debila",
+        "slug": "debila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_debila",
+        "level": 2,
+        "name": {
+          "local": "الدبيلة",
+          "en": "Debila",
+          "slug": "debila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39020"
+    ],
+    "geo": {
+      "lat": "33.467",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

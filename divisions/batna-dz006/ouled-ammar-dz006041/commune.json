@@ -1,0 +1,45 @@
+{
+  "id": "DZ006041",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Ammar",
+    "en": "Ouled Ammar",
+    "slug": "ouled-ammar-dz006041"
+  },
+  "code": {
+    "id": "DZ006041",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.466",
+    "lon": "5.174"
+  },
+  "metadata": {},
+  "source": {}
+}

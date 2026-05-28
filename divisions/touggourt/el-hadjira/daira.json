@@ -1,0 +1,47 @@
+{
+  "id": "DZ055_el-hadjira",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحجيرة",
+    "en": "El-Hadjira",
+    "slug": "el-hadjira"
+  },
+  "code": {
+    "id": "DZ055_el-hadjira",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ055",
+    "level": 1,
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.749",
+    "lon": "5.835"
+  },
+  "metadata": {},
+  "source": {}
+}

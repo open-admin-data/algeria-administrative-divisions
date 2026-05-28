@@ -1,0 +1,280 @@
+[
+  {
+    "id": "DZ028_ouled-derradj_mtarfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المطارفة",
+      "en": "M'tarfa",
+      "slug": "mtarfa"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj_mtarfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-derradj",
+      "level": 2,
+      "name": {
+        "local": "أولاد دراج",
+        "en": "Ouled Derradj",
+        "slug": "ouled-derradj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-derradj",
+        "level": 2,
+        "name": {
+          "local": "أولاد دراج",
+          "en": "Ouled Derradj",
+          "slug": "ouled-derradj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.69",
+      "lon": "4.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-derradj_maadid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعاضيد",
+      "en": "Maadid",
+      "slug": "maadid"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj_maadid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-derradj",
+      "level": 2,
+      "name": {
+        "local": "أولاد دراج",
+        "en": "Ouled Derradj",
+        "slug": "ouled-derradj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-derradj",
+        "level": 2,
+        "name": {
+          "local": "أولاد دراج",
+          "en": "Ouled Derradj",
+          "slug": "ouled-derradj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28011"
+    ],
+    "geo": {
+      "lat": "35.796",
+      "lon": "4.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-derradj_ouled-addi-guebala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عدي لقبالة",
+      "en": "Ouled Addi Guebala",
+      "slug": "ouled-addi-guebala"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj_ouled-addi-guebala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-derradj",
+      "level": 2,
+      "name": {
+        "local": "أولاد دراج",
+        "en": "Ouled Derradj",
+        "slug": "ouled-derradj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-derradj",
+        "level": 2,
+        "name": {
+          "local": "أولاد دراج",
+          "en": "Ouled Derradj",
+          "slug": "ouled-derradj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28021"
+    ],
+    "geo": {
+      "lat": "35.677",
+      "lon": "4.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-derradj_ouled-derradj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد دراج",
+      "en": "Ouled Derradj",
+      "slug": "ouled-derradj"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj_ouled-derradj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-derradj",
+      "level": 2,
+      "name": {
+        "local": "أولاد دراج",
+        "en": "Ouled Derradj",
+        "slug": "ouled-derradj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-derradj",
+        "level": 2,
+        "name": {
+          "local": "أولاد دراج",
+          "en": "Ouled Derradj",
+          "slug": "ouled-derradj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28022"
+    ],
+    "geo": {
+      "lat": "35.674",
+      "lon": "4.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-derradj_souamaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السوامع",
+      "en": "Souamaa",
+      "slug": "souamaa"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj_souamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-derradj",
+      "level": 2,
+      "name": {
+        "local": "أولاد دراج",
+        "en": "Ouled Derradj",
+        "slug": "ouled-derradj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-derradj",
+        "level": 2,
+        "name": {
+          "local": "أولاد دراج",
+          "en": "Ouled Derradj",
+          "slug": "ouled-derradj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28064"
+    ],
+    "geo": {
+      "lat": "36.675",
+      "lon": "4.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

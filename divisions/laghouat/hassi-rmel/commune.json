@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ003_hassi-rmel_hassi-delaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي الدلاعة",
+      "en": "Hassi Delaa",
+      "slug": "hassi-delaa"
+    },
+    "code": {
+      "id": "DZ003_hassi-rmel_hassi-delaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_hassi-rmel",
+      "level": 2,
+      "name": {
+        "local": "حاسي الرمل",
+        "en": "Hassi R'mel",
+        "slug": "hassi-rmel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_hassi-rmel",
+        "level": 2,
+        "name": {
+          "local": "حاسي الرمل",
+          "en": "Hassi R'mel",
+          "slug": "hassi-rmel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03022"
+    ],
+    "geo": {
+      "lat": "33.141",
+      "lon": "3.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_hassi-rmel_hassi-rmel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي الرمل",
+      "en": "Hassi R'mel",
+      "slug": "hassi-rmel"
+    },
+    "code": {
+      "id": "DZ003_hassi-rmel_hassi-rmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_hassi-rmel",
+      "level": 2,
+      "name": {
+        "local": "حاسي الرمل",
+        "en": "Hassi R'mel",
+        "slug": "hassi-rmel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_hassi-rmel",
+        "level": 2,
+        "name": {
+          "local": "حاسي الرمل",
+          "en": "Hassi R'mel",
+          "slug": "hassi-rmel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03004"
+    ],
+    "geo": {
+      "lat": "33.141",
+      "lon": "3.27"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

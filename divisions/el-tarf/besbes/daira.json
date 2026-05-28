@@ -1,0 +1,47 @@
+{
+  "id": "DZ036_besbes",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "البسباس",
+    "en": "Besbes",
+    "slug": "besbes"
+  },
+  "code": {
+    "id": "DZ036_besbes",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.698",
+    "lon": "7.901"
+  },
+  "metadata": {},
+  "source": {}
+}

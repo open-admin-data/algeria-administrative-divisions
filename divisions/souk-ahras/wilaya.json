@@ -1,0 +1,30 @@
+{
+  "id": "DZ041",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سوق أهراس",
+    "en": "Souk Ahras",
+    "slug": "souk-ahras"
+  },
+  "code": {
+    "id": "DZ041",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 10,
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.165",
+    "lon": "7.886"
+  },
+  "metadata": {},
+  "source": {}
+}

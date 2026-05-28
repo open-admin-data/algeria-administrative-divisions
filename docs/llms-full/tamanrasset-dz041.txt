@@ -1,0 +1,59 @@
+# Tamanrasset — Algeria Administrative Divisions
+
+> 10 communes
+> Code: DZ041
+> Coordinates: 24.355, 4.451
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Abalessa
+
+Code: DZ041001, Coordinates: 21.943, 3.094
+
+
+### Fouggarat Ez Zouaia
+
+Code: DZ041002, Coordinates: 27.973, 4.348
+
+
+### Idles
+
+Code: DZ041003, Coordinates: 25.366, 5.869
+
+
+### In Amguel
+
+Code: DZ041004, Coordinates: 24.909, 3.539
+
+
+### In Ghar
+
+Code: DZ041005, Coordinates: 26.565, 1.845
+
+
+### In Guezzam
+
+Code: DZ041006, Coordinates: 20.382, 5.463
+
+
+### In Salah
+
+Code: DZ041007, Coordinates: 27.225, 2.443
+
+
+### Tamanrasset
+
+Code: DZ041008, Coordinates: 22.271, 5.775
+
+
+### Tazrouk
+
+Code: DZ041009, Coordinates: 22.668, 8.22
+
+
+### Tin Zaouatine
+
+Code: DZ041010, Coordinates: 20.439, 3.163
+
+

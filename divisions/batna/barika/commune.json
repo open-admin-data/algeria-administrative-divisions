@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_barika_barika",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريكة",
+      "en": "Barika",
+      "slug": "barika"
+    },
+    "code": {
+      "id": "DZ005_barika_barika",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_barika",
+      "level": 2,
+      "name": {
+        "local": "بريكة",
+        "en": "Barika",
+        "slug": "barika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_barika",
+        "level": 2,
+        "name": {
+          "local": "بريكة",
+          "en": "Barika",
+          "slug": "barika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05001"
+    ],
+    "geo": {
+      "lat": "35.374",
+      "lon": "5.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_barika_bitam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بيطام",
+      "en": "Bitam",
+      "slug": "bitam"
+    },
+    "code": {
+      "id": "DZ005_barika_bitam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_barika",
+      "level": 2,
+      "name": {
+        "local": "بريكة",
+        "en": "Barika",
+        "slug": "barika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_barika",
+        "level": 2,
+        "name": {
+          "local": "بريكة",
+          "en": "Barika",
+          "slug": "barika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05045"
+    ],
+    "geo": {
+      "lat": "35.177",
+      "lon": "5.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_barika_m-doukal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إمدوكل",
+      "en": "M Doukal",
+      "slug": "m-doukal"
+    },
+    "code": {
+      "id": "DZ005_barika_m-doukal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_barika",
+      "level": 2,
+      "name": {
+        "local": "بريكة",
+        "en": "Barika",
+        "slug": "barika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_barika",
+        "level": 2,
+        "name": {
+          "local": "بريكة",
+          "en": "Barika",
+          "slug": "barika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05037"
+    ],
+    "geo": {
+      "lat": "35.276",
+      "lon": "5.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

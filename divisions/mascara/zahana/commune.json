@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ029_zahana_el-gaada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القعدة",
+      "en": "El Gaada",
+      "slug": "el-gaada"
+    },
+    "code": {
+      "id": "DZ029_zahana_el-gaada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_zahana",
+      "level": 2,
+      "name": {
+        "local": "زهانة",
+        "en": "Zahana",
+        "slug": "zahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_zahana",
+        "level": 2,
+        "name": {
+          "local": "زهانة",
+          "en": "Zahana",
+          "slug": "zahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29041"
+    ],
+    "geo": {
+      "lat": "35.433",
+      "lon": "-0.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_zahana_zahana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زهانة",
+      "en": "Zahana",
+      "slug": "zahana"
+    },
+    "code": {
+      "id": "DZ029_zahana_zahana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_zahana",
+      "level": 2,
+      "name": {
+        "local": "زهانة",
+        "en": "Zahana",
+        "slug": "zahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_zahana",
+        "level": 2,
+        "name": {
+          "local": "زهانة",
+          "en": "Zahana",
+          "slug": "zahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29019"
+    ],
+    "geo": {
+      "lat": "35.503",
+      "lon": "-0.4"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

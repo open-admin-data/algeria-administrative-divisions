@@ -1,0 +1,45 @@
+{
+  "id": "DZ010024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Souhane",
+    "en": "Souhane",
+    "slug": "souhane-dz010024"
+  },
+  "code": {
+    "id": "DZ010024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.531",
+    "lon": "3.25"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ042015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Meridj",
+    "en": "El Meridj",
+    "slug": "el-meridj-dz042015"
+  },
+  "code": {
+    "id": "DZ042015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.824",
+    "lon": "8.203"
+  },
+  "metadata": {},
+  "source": {}
+}

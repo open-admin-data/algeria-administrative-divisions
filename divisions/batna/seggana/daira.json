@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_seggana",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سقانة",
+    "en": "Seggana",
+    "slug": "seggana"
+  },
+  "code": {
+    "id": "DZ005_seggana",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.328",
+    "lon": "5.634"
+  },
+  "metadata": {},
+  "source": {}
+}

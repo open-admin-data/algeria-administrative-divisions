@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ025_el-khroub_ain-smara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين السمارة",
+      "en": "Ain Smara",
+      "slug": "ain-smara"
+    },
+    "code": {
+      "id": "DZ025_el-khroub_ain-smara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_el-khroub",
+      "level": 2,
+      "name": {
+        "local": "الخروب",
+        "en": "El Khroub",
+        "slug": "el-khroub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_el-khroub",
+        "level": 2,
+        "name": {
+          "local": "الخروب",
+          "en": "El Khroub",
+          "slug": "el-khroub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25006"
+    ],
+    "geo": {
+      "lat": "36.295",
+      "lon": "6.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_el-khroub_el-khroub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخروب",
+      "en": "El Khroub",
+      "slug": "el-khroub"
+    },
+    "code": {
+      "id": "DZ025_el-khroub_el-khroub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_el-khroub",
+      "level": 2,
+      "name": {
+        "local": "الخروب",
+        "en": "El Khroub",
+        "slug": "el-khroub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_el-khroub",
+        "level": 2,
+        "name": {
+          "local": "الخروب",
+          "en": "El Khroub",
+          "slug": "el-khroub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25005"
+    ],
+    "geo": {
+      "lat": "36.285",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_el-khroub_ouled-rahmoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد رحمون",
+      "en": "Ouled Rahmoun",
+      "slug": "ouled-rahmoun"
+    },
+    "code": {
+      "id": "DZ025_el-khroub_ouled-rahmoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_el-khroub",
+      "level": 2,
+      "name": {
+        "local": "الخروب",
+        "en": "El Khroub",
+        "slug": "el-khroub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_el-khroub",
+        "level": 2,
+        "name": {
+          "local": "الخروب",
+          "en": "El Khroub",
+          "slug": "el-khroub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25028"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "6.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_timgad_ouled-fadel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد فاضل",
+      "en": "Ouled Fadel",
+      "slug": "ouled-fadel"
+    },
+    "code": {
+      "id": "DZ005_timgad_ouled-fadel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_timgad",
+      "level": 2,
+      "name": {
+        "local": "تيمقاد",
+        "en": "Timgad",
+        "slug": "timgad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_timgad",
+        "level": 2,
+        "name": {
+          "local": "تيمقاد",
+          "en": "Timgad",
+          "slug": "timgad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05063"
+    ],
+    "geo": {
+      "lat": "35.557",
+      "lon": "6.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_timgad_timgad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمقاد",
+      "en": "Timgad",
+      "slug": "timgad"
+    },
+    "code": {
+      "id": "DZ005_timgad_timgad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_timgad",
+      "level": 2,
+      "name": {
+        "local": "تيمقاد",
+        "en": "Timgad",
+        "slug": "timgad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_timgad",
+        "level": 2,
+        "name": {
+          "local": "تيمقاد",
+          "en": "Timgad",
+          "slug": "timgad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05023"
+    ],
+    "geo": {
+      "lat": "35.529",
+      "lon": "6.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

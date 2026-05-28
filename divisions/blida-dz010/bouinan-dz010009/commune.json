@@ -1,0 +1,45 @@
+{
+  "id": "DZ010009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouinan",
+    "en": "Bouinan",
+    "slug": "bouinan-dz010009"
+  },
+  "code": {
+    "id": "DZ010009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.519",
+    "lon": "2.99"
+  },
+  "metadata": {},
+  "source": {}
+}

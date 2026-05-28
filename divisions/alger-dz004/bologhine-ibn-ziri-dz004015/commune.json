@@ -1,0 +1,45 @@
+{
+  "id": "DZ004015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bologhine Ibn Ziri",
+    "en": "Bologhine Ibn Ziri",
+    "slug": "bologhine-ibn-ziri-dz004015"
+  },
+  "code": {
+    "id": "DZ004015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.805",
+    "lon": "3.036"
+  },
+  "metadata": {},
+  "source": {}
+}

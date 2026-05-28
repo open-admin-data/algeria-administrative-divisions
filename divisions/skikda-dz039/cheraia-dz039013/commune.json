@@ -1,0 +1,45 @@
+{
+  "id": "DZ039013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Cheraia",
+    "en": "Cheraia",
+    "slug": "cheraia-dz039013"
+  },
+  "code": {
+    "id": "DZ039013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.015",
+    "lon": "6.508"
+  },
+  "metadata": {},
+  "source": {}
+}

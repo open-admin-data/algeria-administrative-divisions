@@ -1,0 +1,47 @@
+{
+  "id": "DZ020_el-hassasna",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحساسنة",
+    "en": "El Hassasna",
+    "slug": "el-hassasna"
+  },
+  "code": {
+    "id": "DZ020_el-hassasna",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.68",
+    "lon": "0.431"
+  },
+  "metadata": {},
+  "source": {}
+}

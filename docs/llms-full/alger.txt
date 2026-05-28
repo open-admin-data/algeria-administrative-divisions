@@ -1,0 +1,302 @@
+# Alger — Algeria Administrative Divisions
+
+> 13 dairas, 57 communes
+> Code: DZ016
+> Coordinates: 36.702, 3.032
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### باب الوادي (Bab El Oued)
+
+Code: DZ016_bab-el-oued, Coordinates: 36.794, 3.04
+Communes: 5
+
+#### باب الوادي (Bab El Oued)
+
+Code: DZ016_bab-el-oued_bab-el-oued, Postal: 16008, Coordinates: 36.794, 3.051
+
+#### بولوغين بن زيري (Bologhine Ibnou Ziri)
+
+Code: DZ016_bab-el-oued_bologhine-ibnou-ziri, Postal: 16030, Coordinates: 36.794, 3.04
+
+#### القصبة (Casbah)
+
+Code: DZ016_bab-el-oued_casbah, Postal: 16001, Coordinates: 36.786, 3.058
+
+#### وادي قريش (Oued Koriche)
+
+Code: DZ016_bab-el-oued_oued-koriche, Postal: 16182, Coordinates: 36.787, 3.045
+
+#### الرايس حميدو (Rais Hamidou)
+
+Code: DZ016_bab-el-oued_rais-hamidou, Postal: 16060, Coordinates: 36.809, 3.006
+
+### براقي (Baraki)
+
+Code: DZ016_baraki, Coordinates: 36.653, 3.122
+Communes: 3
+
+#### براقي (Baraki)
+
+Code: DZ016_baraki_baraki, Postal: 16027, Coordinates: 36.672, 3.101
+
+#### الكاليتوس (Les Eucalyptus)
+
+Code: DZ016_baraki_les-eucalyptus, Postal: 16057, Coordinates: 36.67, 3.167
+
+#### سيدي موسى (Sidi Moussa)
+
+Code: DZ016_baraki_sidi-moussa, Postal: 16189, Coordinates: 36.618, 3.097
+
+### بئر مراد رايس (Bir Mourad Rais)
+
+Code: DZ016_bir-mourad-rais, Coordinates: 36.739, 3.039
+Communes: 5
+
+#### بئر مراد رايس (Bir Mourad Rais)
+
+Code: DZ016_bir-mourad-rais_bir-mourad-rais, Postal: 16013, Coordinates: 36.734, 3.053
+
+#### بئر خادم (Birkhadem)
+
+Code: DZ016_bir-mourad-rais_birkhadem, Postal: 16100, Coordinates: 36.739, 3.039
+
+#### جسر قسنطينة (Djasr Kasentina)
+
+Code: DZ016_bir-mourad-rais_djasr-kasentina, Postal: 16173, Coordinates: 36.739, 3.039
+
+#### حيدرة (Hydra)
+
+Code: DZ016_bir-mourad-rais_hydra, Postal: 16016, Coordinates: 36.744, 3.025
+
+#### السحاولة (Sehaoula)
+
+Code: DZ016_bir-mourad-rais_sehaoula, Postal: 16095, Coordinates: 36.739, 3.039
+
+### بئر توتة (Birtouta)
+
+Code: DZ016_birtouta, Coordinates: 36.612, 2.994
+Communes: 3
+
+#### بئر توتة (Bir Touta)
+
+Code: DZ016_birtouta_bir-touta, Postal: 16045, Coordinates: 36.612, 2.994
+
+#### اولاد شبل (Ouled Chebel)
+
+Code: DZ016_birtouta_ouled-chebel, Postal: 16118, Coordinates: 36.612, 2.994
+
+#### تسالة المرجة (Tessala El Merdja)
+
+Code: DZ016_birtouta_tessala-el-merdja, Postal: 16099, Coordinates: 36.612, 2.994
+
+### بوزريعة (Bouzareah)
+
+Code: DZ016_bouzareah, Coordinates: 36.777, 3.007
+Communes: 4
+
+#### ابن عكنون (Ben Aknoun)
+
+Code: DZ016_bouzareah_ben-aknoun, Postal: 16028, Coordinates: 36.76, 3.013
+
+#### بني مسوس (Beni Messous)
+
+Code: DZ016_bouzareah_beni-messous, Postal: 16044, Coordinates: 36.788, 2.975
+
+#### بوزريعة (Bouzareah)
+
+Code: DZ016_bouzareah_bouzareah, Postal: 16032, Coordinates: 36.791, 3.008
+
+#### الابيار (El Biar)
+
+Code: DZ016_bouzareah_el-biar, Postal: 16003, Coordinates: 36.769, 3.031
+
+### الشراقة (Cheraga)
+
+Code: DZ016_cheraga, Coordinates: 36.392, 5.014
+Communes: 5
+
+#### عين بنيان (Ain Benian)
+
+Code: DZ016_cheraga_ain-benian, Postal: 16018, Coordinates: 36.796, 2.929
+
+#### الشراقة (Cheraga)
+
+Code: DZ016_cheraga_cheraga, Postal: 16014, Coordinates: 36.57, 6.233
+
+#### دالي ابراهيم (Dely Ibrahim)
+
+Code: DZ016_cheraga_dely-ibrahim, Postal: 16047, Coordinates: 36.392, 5.014
+
+#### الحمامات (Hammamet)
+
+Code: DZ016_cheraga_hammamet, Postal: 12016, Coordinates: 35.476, 7.954
+
+#### اولاد فايت (Ouled Fayet)
+
+Code: DZ016_cheraga_ouled-fayet, Postal: 16094, Coordinates: 36.726, 2.94
+
+### الدار البيضاء (Dar El Beida)
+
+Code: DZ016_dar-el-beida, Coordinates: 36.623, 3.361
+Communes: 7
+
+#### عين طاية (Ain Taya)
+
+Code: DZ016_dar-el-beida_ain-taya, Postal: 16019, Coordinates: 36.79, 3.29
+
+#### باب الزوار (Bab Ezzouar)
+
+Code: DZ016_dar-el-beida_bab-ezzouar, Postal: 16024, Coordinates: 36.725, 3.185
+
+#### برج البحري (Bordj El Bahri)
+
+Code: DZ016_dar-el-beida_bordj-el-bahri, Postal: 16046, Coordinates: 36.791, 3.254
+
+#### برج الكيفان (Bordj El Kiffan)
+
+Code: DZ016_dar-el-beida_bordj-el-kiffan, Postal: 16031, Coordinates: 36.756, 3.223
+
+#### الدار البيضاء (Dar El Beida)
+
+Code: DZ016_dar-el-beida_dar-el-beida, Postal: 16033, Coordinates: 36.704, 3.228
+
+#### المرسى (El Marsa)
+
+Code: DZ016_dar-el-beida_el-marsa, Postal: 02015, Coordinates: 37.008, 7.291
+
+#### المحمدية (Mohammadia)
+
+Code: DZ016_dar-el-beida_mohammadia, Postal: 16058, Coordinates: 35.585, 0.058
+
+### الدرارية (Draria)
+
+Code: DZ016_draria, Coordinates: 36.703, 2.986
+Communes: 5
+
+#### بابا حسن (Baba Hassen)
+
+Code: DZ016_draria_baba-hassen, Postal: 16081, Coordinates: 36.697, 2.974
+
+#### الدويرة (Douira)
+
+Code: DZ016_draria_douira, Postal: 16049, Coordinates: 36.703, 2.986
+
+#### الدرارية (Draria)
+
+Code: DZ016_draria_draria, Postal: 16050, Coordinates: 36.716, 3.001
+
+#### العاشور (El Achour)
+
+Code: DZ016_draria_el-achour, Postal: 16104, Coordinates: 36.729, 2.977
+
+#### الخرايسية (Khraissia)
+
+Code: DZ016_draria_khraissia, Postal: 16091, Coordinates: 36.672, 2.993
+
+### الحراش (El Harrach)
+
+Code: DZ016_el-harrach, Coordinates: 36.714, 3.153
+Communes: 4
+
+#### باش جراح (Bachedjerah)
+
+Code: DZ016_el-harrach_bachedjerah, Postal: 16200, Coordinates: 36.714, 3.153
+
+#### بوروبة (Bourouba)
+
+Code: DZ016_el-harrach_bourouba, Postal: 16054, Coordinates: 36.717, 3.119
+
+#### الحراش (El Harrach)
+
+Code: DZ016_el-harrach_el-harrach, Postal: 16004, Coordinates: 36.714, 3.14
+
+#### وادي السمار (Oued Smar)
+
+Code: DZ016_el-harrach_oued-smar, Postal: 16059, Coordinates: 36.711, 3.201
+
+### حسين داي (Hussein Dey)
+
+Code: DZ016_hussein-dey, Coordinates: 36.733, 3.097
+Communes: 4
+
+#### المغارية (El Magharia)
+
+Code: DZ016_hussein-dey_el-magharia, Postal: 16053, Coordinates: 36.733, 3.108
+
+#### حسين داي (Hussein Dey)
+
+Code: DZ016_hussein-dey_hussein-dey, Postal: 16005, Coordinates: 36.74, 3.105
+
+#### القبة (Kouba)
+
+Code: DZ016_hussein-dey_kouba, Postal: 16009, Coordinates: 36.727, 3.079
+
+#### محمد بلوزداد (Mohamed Belouzdad)
+
+Code: DZ016_hussein-dey_mohamed-belouzdad, Postal: 16151, Coordinates: 36.733, 3.097
+
+### الرويبة (Rouiba)
+
+Code: DZ016_rouiba, Coordinates: 36.746, 3.32
+Communes: 3
+
+#### هراوة (Herraoua)
+
+Code: DZ016_rouiba_herraoua, Postal: 16116, Coordinates: 36.746, 3.32
+
+#### رغاية (Reghaia)
+
+Code: DZ016_rouiba_reghaia, Postal: 16036, Coordinates: 36.752, 3.357
+
+#### الرويبة (Rouiba)
+
+Code: DZ016_rouiba_rouiba, Postal: 16017, Coordinates: 36.741, 3.283
+
+### سيدي امحمد (Sidi M&#39;hamed)
+
+Code: DZ016_sidi-mhamed, Coordinates: 36.091, 3.48
+Communes: 4
+
+#### الجزائر الوسطى (Alger Centre)
+
+Code: DZ016_sidi-mhamed_alger-centre, Postal: 16000, Coordinates: 36.091, 3.48
+
+#### المدنية (El Madania)
+
+Code: DZ016_sidi-mhamed_el-madania, Postal: 16015, Coordinates: 36.745, 3.07
+
+#### المرادية (El Mouradia)
+
+Code: DZ016_sidi-mhamed_el-mouradia, Postal: 16035, Coordinates: 36.752, 3.05
+
+#### سيدي امحمد (Sidi M&#39;hamed)
+
+Code: DZ016_sidi-mhamed_sidi-mhamed, Postal: 16002, Coordinates: 34.775, 4.319
+
+### زرالدة (Zeralda)
+
+Code: DZ016_zeralda, Coordinates: 36.709, 2.88
+Communes: 5
+
+#### المعالمة (Maalma)
+
+Code: DZ016_zeralda_maalma, Postal: 16093, Coordinates: 36.709, 2.88
+
+#### الرحمانية (Rahmania)
+
+Code: DZ016_zeralda_rahmania, Postal: 16121, Coordinates: 36.683, 2.91
+
+#### سويدانية (Souidania)
+
+Code: DZ016_zeralda_souidania, Postal: 16097, Coordinates: 36.715, 2.902
+
+#### سطاوالي (Staoueli)
+
+Code: DZ016_zeralda_staoueli, Postal: 16062, Coordinates: 36.744, 2.874
+
+#### زرالدة (Zeralda)
+
+Code: DZ016_zeralda_zeralda, Postal: 16063, Coordinates: 36.696, 2.835
+

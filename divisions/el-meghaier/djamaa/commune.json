@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ057_djamaa_djamaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جامعة",
+      "en": "Djamaa",
+      "slug": "djamaa"
+    },
+    "code": {
+      "id": "DZ057_djamaa_djamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_djamaa",
+      "level": 2,
+      "name": {
+        "local": "جامعة",
+        "en": "Djamaa",
+        "slug": "djamaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_djamaa",
+        "level": 2,
+        "name": {
+          "local": "جامعة",
+          "en": "Djamaa",
+          "slug": "djamaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39004"
+    ],
+    "geo": {
+      "lat": "33.579",
+      "lon": "5.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_djamaa_mrara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرارة",
+      "en": "M'rara",
+      "slug": "mrara"
+    },
+    "code": {
+      "id": "DZ057_djamaa_mrara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_djamaa",
+      "level": 2,
+      "name": {
+        "local": "جامعة",
+        "en": "Djamaa",
+        "slug": "djamaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_djamaa",
+        "level": 2,
+        "name": {
+          "local": "جامعة",
+          "en": "Djamaa",
+          "slug": "djamaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39067"
+    ],
+    "geo": {
+      "lat": "33.596",
+      "lon": "5.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_djamaa_sidi-amrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عمران",
+      "en": "Sidi Amrane",
+      "slug": "sidi-amrane"
+    },
+    "code": {
+      "id": "DZ057_djamaa_sidi-amrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_djamaa",
+      "level": 2,
+      "name": {
+        "local": "جامعة",
+        "en": "Djamaa",
+        "slug": "djamaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_djamaa",
+        "level": 2,
+        "name": {
+          "local": "جامعة",
+          "en": "Djamaa",
+          "slug": "djamaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39021"
+    ],
+    "geo": {
+      "lat": "33.456",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_djamaa_tenedla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تندلة",
+      "en": "Tenedla",
+      "slug": "tenedla"
+    },
+    "code": {
+      "id": "DZ057_djamaa_tenedla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_djamaa",
+      "level": 2,
+      "name": {
+        "local": "جامعة",
+        "en": "Djamaa",
+        "slug": "djamaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_djamaa",
+        "level": 2,
+        "name": {
+          "local": "جامعة",
+          "en": "Djamaa",
+          "slug": "djamaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39042"
+    ],
+    "geo": {
+      "lat": "33.544",
+      "lon": "5.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

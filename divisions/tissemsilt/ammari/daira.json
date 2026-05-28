@@ -1,0 +1,47 @@
+{
+  "id": "DZ038_ammari",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عماري",
+    "en": "Ammari",
+    "slug": "ammari"
+  },
+  "code": {
+    "id": "DZ038_ammari",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.658",
+    "lon": "1.623"
+  },
+  "metadata": {},
+  "source": {}
+}

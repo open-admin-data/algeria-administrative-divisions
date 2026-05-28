@@ -1,0 +1,45 @@
+{
+  "id": "DZ035037",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Yellel",
+    "en": "Yellel",
+    "slug": "yellel-dz035037"
+  },
+  "code": {
+    "id": "DZ035037",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.75",
+    "lon": "0.37"
+  },
+  "metadata": {},
+  "source": {}
+}

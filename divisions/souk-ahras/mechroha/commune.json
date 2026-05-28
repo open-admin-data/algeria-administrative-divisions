@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ041_mechroha_hanencha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحنانشة",
+      "en": "Hanencha",
+      "slug": "hanencha"
+    },
+    "code": {
+      "id": "DZ041_mechroha_hanencha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_mechroha",
+      "level": 2,
+      "name": {
+        "local": "المشروحة",
+        "en": "Mechroha",
+        "slug": "mechroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_mechroha",
+        "level": 2,
+        "name": {
+          "local": "المشروحة",
+          "en": "Mechroha",
+          "slug": "mechroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41016"
+    ],
+    "geo": {
+      "lat": "36.165",
+      "lon": "7.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_mechroha_machroha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المشروحة",
+      "en": "Machroha",
+      "slug": "machroha"
+    },
+    "code": {
+      "id": "DZ041_mechroha_machroha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_mechroha",
+      "level": 2,
+      "name": {
+        "local": "المشروحة",
+        "en": "Mechroha",
+        "slug": "mechroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_mechroha",
+        "level": 2,
+        "name": {
+          "local": "المشروحة",
+          "en": "Mechroha",
+          "slug": "mechroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41010"
+    ],
+    "geo": {
+      "lat": "36.165",
+      "lon": "7.886"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

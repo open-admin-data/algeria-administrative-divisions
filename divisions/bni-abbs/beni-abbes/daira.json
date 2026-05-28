@@ -1,0 +1,47 @@
+{
+  "id": "DZ052_beni-abbes",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني عباس",
+    "en": "Beni Abbes",
+    "slug": "beni-abbes"
+  },
+  "code": {
+    "id": "DZ052_beni-abbes",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ052",
+    "level": 1,
+    "name": {
+      "local": "بني عباس",
+      "en": "Béni Abbès",
+      "slug": "bni-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ052",
+      "level": 1,
+      "name": {
+        "local": "بني عباس",
+        "en": "Béni Abbès",
+        "slug": "bni-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.071",
+    "lon": "-2.58"
+  },
+  "metadata": {},
+  "source": {}
+}

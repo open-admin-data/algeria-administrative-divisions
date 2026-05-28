@@ -1,0 +1,51 @@
+# El Meghaier — Algeria Administrative Divisions
+
+> 2 dairas, 8 communes
+> Code: DZ057
+> Coordinates: 33.746, 5.722
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### جامعة (Djamaa)
+
+Code: DZ057_djamaa, Coordinates: 33.544, 5.716
+Communes: 4
+
+#### جامعة (Djamaa)
+
+Code: DZ057_djamaa_djamaa, Postal: 39004, Coordinates: 33.579, 5.815
+
+#### المرارة (M&#39;rara)
+
+Code: DZ057_djamaa_mrara, Postal: 39067, Coordinates: 33.596, 5.432
+
+#### سيدي عمران (Sidi Amrane)
+
+Code: DZ057_djamaa_sidi-amrane, Postal: 39021, Coordinates: 33.456, 5.9
+
+#### تندلة (Tenedla)
+
+Code: DZ057_djamaa_tenedla, Postal: 39042, Coordinates: 33.544, 5.716
+
+### المغير (El Meghaier)
+
+Code: DZ057_el-meghaier, Coordinates: 34.354, 5.74
+Communes: 4
+
+#### المغير (El-M&#39;ghaier)
+
+Code: DZ057_el-meghaier_el-mghaier, Postal: 39005, Coordinates: 34.354, 5.74
+
+#### أم الطيور (Oum Touyour)
+
+Code: DZ057_el-meghaier_oum-touyour, Postal: 39034, Coordinates: 34.354, 5.74
+
+#### سيدي خليل (Sidi Khelil)
+
+Code: DZ057_el-meghaier_sidi-khelil, Postal: 39038, Coordinates: 34.354, 5.74
+
+#### سطيل (Still)
+
+Code: DZ057_el-meghaier_still, Postal: 39039, Coordinates: 34.354, 5.74
+

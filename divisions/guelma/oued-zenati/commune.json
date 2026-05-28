@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ024_oued-zenati_ain-regada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين رقادة",
+      "en": "Ain Regada",
+      "slug": "ain-regada"
+    },
+    "code": {
+      "id": "DZ024_oued-zenati_ain-regada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_oued-zenati",
+      "level": 2,
+      "name": {
+        "local": "وادي الزناتي",
+        "en": "Oued Zenati",
+        "slug": "oued-zenati"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_oued-zenati",
+        "level": 2,
+        "name": {
+          "local": "وادي الزناتي",
+          "en": "Oued Zenati",
+          "slug": "oued-zenati"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24014"
+    ],
+    "geo": {
+      "lat": "36.355",
+      "lon": "7.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_oued-zenati_bordj-sabath",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج صباط",
+      "en": "Bordj Sabath",
+      "slug": "bordj-sabath"
+    },
+    "code": {
+      "id": "DZ024_oued-zenati_bordj-sabath",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_oued-zenati",
+      "level": 2,
+      "name": {
+        "local": "وادي الزناتي",
+        "en": "Oued Zenati",
+        "slug": "oued-zenati"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_oued-zenati",
+        "level": 2,
+        "name": {
+          "local": "وادي الزناتي",
+          "en": "Oued Zenati",
+          "slug": "oued-zenati"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24017"
+    ],
+    "geo": {
+      "lat": "36.408",
+      "lon": "7.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_oued-zenati_oued-zenati",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الزناتي",
+      "en": "Oued Zenati",
+      "slug": "oued-zenati"
+    },
+    "code": {
+      "id": "DZ024_oued-zenati_oued-zenati",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_oued-zenati",
+      "level": 2,
+      "name": {
+        "local": "وادي الزناتي",
+        "en": "Oued Zenati",
+        "slug": "oued-zenati"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_oued-zenati",
+        "level": 2,
+        "name": {
+          "local": "وادي الزناتي",
+          "en": "Oued Zenati",
+          "slug": "oued-zenati"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24001"
+    ],
+    "geo": {
+      "lat": "36.302",
+      "lon": "7.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ046_el-amria_bouzedjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزجار",
+      "en": "Bouzedjar",
+      "slug": "bouzedjar"
+    },
+    "code": {
+      "id": "DZ046_el-amria_bouzedjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-amria",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "El Amria",
+        "slug": "el-amria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-amria",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "El Amria",
+          "slug": "el-amria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46033"
+    ],
+    "geo": {
+      "lat": "35.598",
+      "lon": "-1.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-amria_el-amria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "El Amria",
+      "slug": "el-amria"
+    },
+    "code": {
+      "id": "DZ046_el-amria_el-amria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-amria",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "El Amria",
+        "slug": "el-amria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-amria",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "El Amria",
+          "slug": "el-amria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46006"
+    ],
+    "geo": {
+      "lat": "35.54",
+      "lon": "-1.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-amria_el-messaid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المساعيد",
+      "en": "El Messaid",
+      "slug": "el-messaid"
+    },
+    "code": {
+      "id": "DZ046_el-amria_el-messaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-amria",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "El Amria",
+        "slug": "el-amria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-amria",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "El Amria",
+          "slug": "el-amria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46035"
+    ],
+    "geo": {
+      "lat": "35.516",
+      "lon": "-1.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-amria_hassi-el-ghella",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي الغلة",
+      "en": "Hassi El Ghella",
+      "slug": "hassi-el-ghella"
+    },
+    "code": {
+      "id": "DZ046_el-amria_hassi-el-ghella",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-amria",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "El Amria",
+        "slug": "el-amria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-amria",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "El Amria",
+          "slug": "el-amria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46012"
+    ],
+    "geo": {
+      "lat": "35.445",
+      "lon": "-1.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-amria_ouled-boudjemaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد بوجمعة",
+      "en": "Ouled Boudjemaa",
+      "slug": "ouled-boudjemaa"
+    },
+    "code": {
+      "id": "DZ046_el-amria_ouled-boudjemaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_el-amria",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "El Amria",
+        "slug": "el-amria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_el-amria",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "El Amria",
+          "slug": "el-amria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46043"
+    ],
+    "geo": {
+      "lat": "35.482",
+      "lon": "-1.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

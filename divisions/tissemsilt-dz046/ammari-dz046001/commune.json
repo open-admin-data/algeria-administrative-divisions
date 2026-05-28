@@ -1,0 +1,45 @@
+{
+  "id": "DZ046001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ammari",
+    "en": "Ammari",
+    "slug": "ammari-dz046001"
+  },
+  "code": {
+    "id": "DZ046001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.617",
+    "lon": "1.651"
+  },
+  "metadata": {},
+  "source": {}
+}

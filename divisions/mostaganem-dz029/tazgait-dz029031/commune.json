@@ -1,0 +1,45 @@
+{
+  "id": "DZ029031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tazgait",
+    "en": "Tazgait",
+    "slug": "tazgait-dz029031"
+  },
+  "code": {
+    "id": "DZ029031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.131",
+    "lon": "0.544"
+  },
+  "metadata": {},
+  "source": {}
+}

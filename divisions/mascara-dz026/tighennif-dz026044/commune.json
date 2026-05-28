@@ -1,0 +1,45 @@
+{
+  "id": "DZ026044",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tighennif",
+    "en": "Tighennif",
+    "slug": "tighennif-dz026044"
+  },
+  "code": {
+    "id": "DZ026044",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.411",
+    "lon": "0.345"
+  },
+  "metadata": {},
+  "source": {}
+}

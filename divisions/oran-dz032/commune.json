@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "DZ032001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Biya",
+      "en": "Ain Biya",
+      "slug": "ain-biya-dz032001"
+    },
+    "code": {
+      "id": "DZ032001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.783",
+      "lon": "-0.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kerma",
+      "en": "Ain Kerma",
+      "slug": "ain-kerma-dz032002"
+    },
+    "code": {
+      "id": "DZ032002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.64",
+      "lon": "-0.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Turk",
+      "en": "Ain Turk",
+      "slug": "ain-turk-dz032003"
+    },
+    "code": {
+      "id": "DZ032003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.74",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arzew",
+      "en": "Arzew",
+      "slug": "arzew-dz032004"
+    },
+    "code": {
+      "id": "DZ032004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.856",
+      "lon": "-0.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Freha",
+      "en": "Ben Freha",
+      "slug": "ben-freha-dz032005"
+    },
+    "code": {
+      "id": "DZ032005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.722",
+      "lon": "-0.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bethioua",
+      "en": "Bethioua",
+      "slug": "bethioua-dz032006"
+    },
+    "code": {
+      "id": "DZ032006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.739",
+      "lon": "-0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir El Djir",
+      "en": "Bir El Djir",
+      "slug": "bir-el-djir-dz032007"
+    },
+    "code": {
+      "id": "DZ032007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.737",
+      "lon": "-0.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boufatis",
+      "en": "Boufatis",
+      "slug": "boufatis-dz032008"
+    },
+    "code": {
+      "id": "DZ032008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.651",
+      "lon": "-0.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bousfer",
+      "en": "Bousfer",
+      "slug": "bousfer-dz032009"
+    },
+    "code": {
+      "id": "DZ032009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.72",
+      "lon": "-0.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boutlelis",
+      "en": "Boutlelis",
+      "slug": "boutlelis-dz032010"
+    },
+    "code": {
+      "id": "DZ032010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.609",
+      "lon": "-0.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ancor",
+      "en": "El Ancor",
+      "slug": "el-ancor-dz032011"
+    },
+    "code": {
+      "id": "DZ032011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.681",
+      "lon": "-0.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Braya",
+      "en": "El Braya",
+      "slug": "el-braya-dz032012"
+    },
+    "code": {
+      "id": "DZ032012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.612",
+      "lon": "-0.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Karma",
+      "en": "El Karma",
+      "slug": "el-karma-dz032013"
+    },
+    "code": {
+      "id": "DZ032013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.593",
+      "lon": "-0.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Es Senia",
+      "en": "Es Senia",
+      "slug": "es-senia-dz032014"
+    },
+    "code": {
+      "id": "DZ032014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.645",
+      "lon": "-0.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gdyel",
+      "en": "Gdyel",
+      "slug": "gdyel-dz032015"
+    },
+    "code": {
+      "id": "DZ032015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.802",
+      "lon": "-0.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Ben Okba",
+      "en": "Hassi Ben Okba",
+      "slug": "hassi-ben-okba-dz032016"
+    },
+    "code": {
+      "id": "DZ032016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.749",
+      "lon": "-0.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Bounif",
+      "en": "Hassi Bounif",
+      "slug": "hassi-bounif-dz032017"
+    },
+    "code": {
+      "id": "DZ032017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.7",
+      "lon": "-0.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Mefsoukh",
+      "en": "Hassi Mefsoukh",
+      "slug": "hassi-mefsoukh-dz032018"
+    },
+    "code": {
+      "id": "DZ032018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.783",
+      "lon": "-0.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marsat El Hadjadj",
+      "en": "Marsat El Hadjadj",
+      "slug": "marsat-el-hadjadj-dz032019"
+    },
+    "code": {
+      "id": "DZ032019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.752",
+      "lon": "-0.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mers El Kebir",
+      "en": "Mers El Kebir",
+      "slug": "mers-el-kebir-dz032020"
+    },
+    "code": {
+      "id": "DZ032020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.721",
+      "lon": "-0.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Misserghin",
+      "en": "Misserghin",
+      "slug": "misserghin-dz032021"
+    },
+    "code": {
+      "id": "DZ032021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.58",
+      "lon": "-0.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oran",
+      "en": "Oran",
+      "slug": "oran-dz032022"
+    },
+    "code": {
+      "id": "DZ032022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.71",
+      "lon": "-0.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Tlelat",
+      "en": "Oued Tlelat",
+      "slug": "oued-tlelat-dz032023"
+    },
+    "code": {
+      "id": "DZ032023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.563",
+      "lon": "-0.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ben Yabka",
+      "en": "Sidi Ben Yabka",
+      "slug": "sidi-ben-yabka-dz032024"
+    },
+    "code": {
+      "id": "DZ032024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.852",
+      "lon": "-0.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Chami",
+      "en": "Sidi Chami",
+      "slug": "sidi-chami-dz032025"
+    },
+    "code": {
+      "id": "DZ032025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.666",
+      "lon": "-0.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tafraoui",
+      "en": "Tafraoui",
+      "slug": "tafraoui-dz032026"
+    },
+    "code": {
+      "id": "DZ032026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran-dz032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.447",
+      "lon": "-0.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_hassi-rmel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حاسي الرمل",
+    "en": "Hassi R'mel",
+    "slug": "hassi-rmel"
+  },
+  "code": {
+    "id": "DZ003_hassi-rmel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.141",
+    "lon": "3.27"
+  },
+  "metadata": {},
+  "source": {}
+}

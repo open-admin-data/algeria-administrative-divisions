@@ -1,0 +1,378 @@
+[
+  {
+    "id": "DZ047_berriane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بريان",
+      "en": "Berriane",
+      "slug": "berriane"
+    },
+    "code": {
+      "id": "DZ047_berriane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.892",
+      "lon": "3.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_bounoura",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بونورة",
+      "en": "Bounoura",
+      "slug": "bounoura"
+    },
+    "code": {
+      "id": "DZ047_bounoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.522",
+      "lon": "3.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_dhayet-ben-dhahoua",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ضاية بن ضحوة",
+      "en": "Dhayet Ben Dhahoua",
+      "slug": "dhayet-ben-dhahoua"
+    },
+    "code": {
+      "id": "DZ047_dhayet-ben-dhahoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.953",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_el-guerrara",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القرارة",
+      "en": "El Guerrara",
+      "slug": "el-guerrara"
+    },
+    "code": {
+      "id": "DZ047_el-guerrara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.78",
+      "lon": "4.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_ghardaia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia"
+    },
+    "code": {
+      "id": "DZ047_ghardaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.602",
+      "lon": "3.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_mansourah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ047_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.103",
+      "lon": "4.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_metlili",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "متليلي",
+      "en": "Metlili",
+      "slug": "metlili"
+    },
+    "code": {
+      "id": "DZ047_metlili",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.37",
+      "lon": "3.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_zelfana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زلفانة",
+      "en": "Zelfana",
+      "slug": "zelfana"
+    },
+    "code": {
+      "id": "DZ047_zelfana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.411",
+      "lon": "4.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

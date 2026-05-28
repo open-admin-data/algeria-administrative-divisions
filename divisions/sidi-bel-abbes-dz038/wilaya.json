@@ -1,0 +1,29 @@
+{
+  "id": "DZ038",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سيدي بلعباس",
+    "en": "Sidi Bel Abbes",
+    "slug": "sidi-bel-abbes-dz038"
+  },
+  "code": {
+    "id": "DZ038",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.687",
+    "lon": "-0.44"
+  },
+  "metadata": {},
+  "source": {}
+}

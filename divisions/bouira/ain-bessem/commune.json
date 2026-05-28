@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ010_ain-bessem_ain-el-hadjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحجر",
+      "en": "Ain El Hadjar",
+      "slug": "ain-el-hadjar"
+    },
+    "code": {
+      "id": "DZ010_ain-bessem_ain-el-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_ain-bessem",
+      "level": 2,
+      "name": {
+        "local": "عين بسام",
+        "en": "Ain Bessem",
+        "slug": "ain-bessem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_ain-bessem",
+        "level": 2,
+        "name": {
+          "local": "عين بسام",
+          "en": "Ain Bessem",
+          "slug": "ain-bessem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10031"
+    ],
+    "geo": {
+      "lat": "34.763",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_ain-bessem_ain-laloui",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين العلوي",
+      "en": "Ain Laloui",
+      "slug": "ain-laloui"
+    },
+    "code": {
+      "id": "DZ010_ain-bessem_ain-laloui",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_ain-bessem",
+      "level": 2,
+      "name": {
+        "local": "عين بسام",
+        "en": "Ain Bessem",
+        "slug": "ain-bessem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_ain-bessem",
+        "level": 2,
+        "name": {
+          "local": "عين بسام",
+          "en": "Ain Bessem",
+          "slug": "ain-bessem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10032"
+    ],
+    "geo": {
+      "lat": "36.309",
+      "lon": "3.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_ain-bessem_ain-bessem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بسام",
+      "en": "Ain-Bessem",
+      "slug": "ain-bessem"
+    },
+    "code": {
+      "id": "DZ010_ain-bessem_ain-bessem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_ain-bessem",
+      "level": 2,
+      "name": {
+        "local": "عين بسام",
+        "en": "Ain Bessem",
+        "slug": "ain-bessem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_ain-bessem",
+        "level": 2,
+        "name": {
+          "local": "عين بسام",
+          "en": "Ain Bessem",
+          "slug": "ain-bessem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10005"
+    ],
+    "geo": {
+      "lat": "35.536",
+      "lon": "1.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

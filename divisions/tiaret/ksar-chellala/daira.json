@@ -1,0 +1,47 @@
+{
+  "id": "DZ014_ksar-chellala",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قصر الشلالة",
+    "en": "Ksar Chellala",
+    "slug": "ksar-chellala"
+  },
+  "code": {
+    "id": "DZ014_ksar-chellala",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.23",
+    "lon": "2.415"
+  },
+  "metadata": {},
+  "source": {}
+}

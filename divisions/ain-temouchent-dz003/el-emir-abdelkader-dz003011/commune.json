@@ -1,0 +1,45 @@
+{
+  "id": "DZ003011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Emir Abdelkader",
+    "en": "El Emir Abdelkader",
+    "slug": "el-emir-abdelkader-dz003011"
+  },
+  "code": {
+    "id": "DZ003011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.235",
+    "lon": "-1.385"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ006061",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zana El Beida",
+    "en": "Zana El Beida",
+    "slug": "zana-el-beida-dz006061"
+  },
+  "code": {
+    "id": "DZ006061",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.797",
+    "lon": "6.106"
+  },
+  "metadata": {},
+  "source": {}
+}

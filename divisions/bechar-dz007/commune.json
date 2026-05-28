@@ -1,0 +1,947 @@
+[
+  {
+    "id": "DZ007001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abadla",
+      "en": "Abadla",
+      "slug": "abadla-dz007001"
+    },
+    "code": {
+      "id": "DZ007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.028",
+      "lon": "-2.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bechar",
+      "en": "Bechar",
+      "slug": "bechar-dz007002"
+    },
+    "code": {
+      "id": "DZ007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.615",
+      "lon": "-1.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Abbes",
+      "en": "Beni Abbes",
+      "slug": "beni-abbes-dz007003"
+    },
+    "code": {
+      "id": "DZ007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.071",
+      "lon": "-2.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ikhlef",
+      "en": "Beni Ikhlef",
+      "slug": "beni-ikhlef-dz007004"
+    },
+    "code": {
+      "id": "DZ007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.714",
+      "lon": "-1.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ounif",
+      "en": "Beni Ounif",
+      "slug": "beni-ounif-dz007005"
+    },
+    "code": {
+      "id": "DZ007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.556",
+      "lon": "-0.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukais",
+      "en": "Boukais",
+      "slug": "boukais-dz007006"
+    },
+    "code": {
+      "id": "DZ007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.969",
+      "lon": "-2.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ouata",
+      "en": "El Ouata",
+      "slug": "el-ouata-dz007007"
+    },
+    "code": {
+      "id": "DZ007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.121",
+      "lon": "-1.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Erg Ferradj",
+      "en": "Erg Ferradj",
+      "slug": "erg-ferradj-dz007008"
+    },
+    "code": {
+      "id": "DZ007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.901",
+      "lon": "-3.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Igli",
+      "en": "Igli",
+      "slug": "igli-dz007009"
+    },
+    "code": {
+      "id": "DZ007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.479",
+      "lon": "-2.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kenadsa",
+      "en": "Kenadsa",
+      "slug": "kenadsa-dz007010"
+    },
+    "code": {
+      "id": "DZ007010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.497",
+      "lon": "-2.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kerzaz",
+      "en": "Kerzaz",
+      "slug": "kerzaz-dz007011"
+    },
+    "code": {
+      "id": "DZ007011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.839",
+      "lon": "-0.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksabi",
+      "en": "Ksabi",
+      "slug": "ksabi-dz007012"
+    },
+    "code": {
+      "id": "DZ007012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.099",
+      "lon": "-1.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lahmar",
+      "en": "Lahmar",
+      "slug": "lahmar-dz007013"
+    },
+    "code": {
+      "id": "DZ007013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.865",
+      "lon": "-2.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mechraa Houari Boumediene",
+      "en": "Mechraa Houari Boumediene",
+      "slug": "mechraa-houari-boumediene-dz007014"
+    },
+    "code": {
+      "id": "DZ007014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.679",
+      "lon": "-2.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Meridja",
+      "en": "Meridja",
+      "slug": "meridja-dz007015"
+    },
+    "code": {
+      "id": "DZ007015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.547",
+      "lon": "-3.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mougheul",
+      "en": "Mougheul",
+      "slug": "mougheul-dz007016"
+    },
+    "code": {
+      "id": "DZ007016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.081",
+      "lon": "-2.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Khoudir",
+      "en": "Ouled Khoudir",
+      "slug": "ouled-khoudir-dz007017"
+    },
+    "code": {
+      "id": "DZ007017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.332",
+      "lon": "-0.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabelbala",
+      "en": "Tabelbala",
+      "slug": "tabelbala-dz007018"
+    },
+    "code": {
+      "id": "DZ007018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.961",
+      "lon": "-3.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taghit",
+      "en": "Taghit",
+      "slug": "taghit-dz007019"
+    },
+    "code": {
+      "id": "DZ007019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.077",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamert",
+      "en": "Tamert",
+      "slug": "tamert-dz007020"
+    },
+    "code": {
+      "id": "DZ007020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.127",
+      "lon": "-1.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timmoudi",
+      "en": "Timmoudi",
+      "slug": "timmoudi-dz007021"
+    },
+    "code": {
+      "id": "DZ007021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar-dz007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.575",
+      "lon": "-0.914"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

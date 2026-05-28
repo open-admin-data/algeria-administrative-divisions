@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_mih-ouensa_mih-ouansa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اميه وانسة",
+      "en": "Mih Ouansa",
+      "slug": "mih-ouansa"
+    },
+    "code": {
+      "id": "DZ039_mih-ouensa_mih-ouansa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_mih-ouensa",
+      "level": 2,
+      "name": {
+        "local": "اميه وانسة",
+        "en": "Mih Ouensa",
+        "slug": "mih-ouensa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_mih-ouensa",
+        "level": 2,
+        "name": {
+          "local": "اميه وانسة",
+          "en": "Mih Ouensa",
+          "slug": "mih-ouensa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39030"
+    ],
+    "geo": {
+      "lat": "33.03",
+      "lon": "6.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_mih-ouensa_oued-el-alenda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي العلندة",
+      "en": "Oued El Alenda",
+      "slug": "oued-el-alenda"
+    },
+    "code": {
+      "id": "DZ039_mih-ouensa_oued-el-alenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_mih-ouensa",
+      "level": 2,
+      "name": {
+        "local": "اميه وانسة",
+        "en": "Mih Ouensa",
+        "slug": "mih-ouensa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_mih-ouensa",
+        "level": 2,
+        "name": {
+          "local": "اميه وانسة",
+          "en": "Mih Ouensa",
+          "slug": "mih-ouensa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39033"
+    ],
+    "geo": {
+      "lat": "33.03",
+      "lon": "6.83"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

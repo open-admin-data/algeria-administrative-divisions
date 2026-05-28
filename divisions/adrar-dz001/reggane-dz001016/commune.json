@@ -1,0 +1,45 @@
+{
+  "id": "DZ001016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Reggane",
+    "en": "Reggane",
+    "slug": "reggane-dz001016"
+  },
+  "code": {
+    "id": "DZ001016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.383",
+    "lon": "-2.03"
+  },
+  "metadata": {},
+  "source": {}
+}

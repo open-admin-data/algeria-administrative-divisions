@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_seghouane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سغوان",
+    "en": "Seghouane",
+    "slug": "seghouane"
+  },
+  "code": {
+    "id": "DZ026_seghouane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.035",
+    "lon": "2.88"
+  },
+  "metadata": {},
+  "source": {}
+}

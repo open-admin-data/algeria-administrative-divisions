@@ -1,0 +1,47 @@
+{
+  "id": "DZ004_ain-fekroun",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين فكرون",
+    "en": "Ain Fekroun",
+    "slug": "ain-fekroun"
+  },
+  "code": {
+    "id": "DZ004_ain-fekroun",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.813",
+    "lon": "7.017"
+  },
+  "metadata": {},
+  "source": {}
+}

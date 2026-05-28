@@ -1,0 +1,45 @@
+{
+  "id": "DZ042019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ferkane",
+    "en": "Ferkane",
+    "slug": "ferkane-dz042019"
+  },
+  "code": {
+    "id": "DZ042019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.495",
+    "lon": "7.361"
+  },
+  "metadata": {},
+  "source": {}
+}

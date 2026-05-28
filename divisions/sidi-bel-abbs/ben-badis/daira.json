@@ -1,0 +1,47 @@
+{
+  "id": "DZ022_ben-badis",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بن باديس",
+    "en": "Ben Badis",
+    "slug": "ben-badis"
+  },
+  "code": {
+    "id": "DZ022_ben-badis",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbès",
+      "slug": "sidi-bel-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.98",
+    "lon": "-0.871"
+  },
+  "metadata": {},
+  "source": {}
+}

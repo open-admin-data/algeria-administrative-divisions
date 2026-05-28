@@ -1,0 +1,17 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ029_ain-fares,عين فارس,Ain Fares,ain-fares,DZ029_ain-fares,2,35.106,2.312
+DZ029_ain-fekan,عين فكان,Ain Fekan,ain-fekan,DZ029_ain-fekan,2,35.189,-0.089
+DZ029_aouf,عوف,Aouf,aouf,DZ029_aouf,3,35.12,0.35
+DZ029_bouhanifia,بوحنيفية,Bouhanifia,bouhanifia,DZ029_bouhanifia,3,35.38,-0.043
+DZ029_el-bordj,البرج,El Bordj,el-bordj,DZ029_el-bordj,3,35.5,0.354
+DZ029_ghriss,غريس,Ghriss,ghriss,DZ029_ghriss,5,35.296,0.231
+DZ029_hachem,الحشم,Hachem,hachem,DZ029_hachem,3,35.365,0.542
+DZ029_mascara,معسكر,Mascara,mascara,DZ029_mascara,1,35.387,0.151
+DZ029_mohammadia,المحمدية,Mohammadia,mohammadia,DZ029_mohammadia,6,35.623,0.137
+DZ029_oggaz,عقاز,Oggaz,oggaz,DZ029_oggaz,3,35.629,-0.248
+DZ029_oued-el-abtal,وادي الأبطال,Oued El Abtal,oued-el-abtal,DZ029_oued-el-abtal,3,35.395,0.754
+DZ029_oued-taria,وادي التاغية,Oued Taria,oued-taria,DZ029_oued-taria,2,35.198,0.08
+DZ029_sig,سيق,Sig,sig,DZ029_sig,3,35.478,-0.182
+DZ029_tighennif,تيغنيف,Tighennif,tighennif,DZ029_tighennif,3,35.402,0.358
+DZ029_tizi,تيزي,Tizi,tizi,DZ029_tizi,3,35.33,0.074
+DZ029_zahana,زهانة,Zahana,zahana,DZ029_zahana,2,35.468,-0.372

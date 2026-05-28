@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_texenna_kaous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قاوس",
+      "en": "Kaous",
+      "slug": "kaous"
+    },
+    "code": {
+      "id": "DZ018_texenna_kaous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_texenna",
+      "level": 2,
+      "name": {
+        "local": "تاكسنة",
+        "en": "Texenna",
+        "slug": "texenna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_texenna",
+        "level": 2,
+        "name": {
+          "local": "تاكسنة",
+          "en": "Texenna",
+          "slug": "texenna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18015"
+    ],
+    "geo": {
+      "lat": "36.762",
+      "lon": "5.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_texenna_texenna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاكسنة",
+      "en": "Texenna",
+      "slug": "texenna"
+    },
+    "code": {
+      "id": "DZ018_texenna_texenna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_texenna",
+      "level": 2,
+      "name": {
+        "local": "تاكسنة",
+        "en": "Texenna",
+        "slug": "texenna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_texenna",
+        "level": 2,
+        "name": {
+          "local": "تاكسنة",
+          "en": "Texenna",
+          "slug": "texenna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18006"
+    ],
+    "geo": {
+      "lat": "36.672",
+      "lon": "5.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

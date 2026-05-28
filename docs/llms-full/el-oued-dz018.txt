@@ -1,0 +1,159 @@
+# El Oued — Algeria Administrative Divisions
+
+> 30 communes
+> Code: DZ018
+> Coordinates: 33.258, 7.128
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Bayadha
+
+Code: DZ018001, Coordinates: 33.326, 6.901
+
+
+### Beni Guecha
+
+Code: DZ018002, Coordinates: 34.123, 7.295
+
+
+### Djamaa
+
+Code: DZ018003, Coordinates: 33.579, 5.815
+
+
+### Djebila
+
+Code: DZ018004, Coordinates: 33.54, 6.969
+
+
+### Douar El Ma
+
+Code: DZ018005, Coordinates: 32.803, 7.678
+
+
+### El M&#39;Ghair
+
+Code: DZ018006, Coordinates: 33.951, 5.704
+
+
+### El Ogla
+
+Code: DZ018007, Coordinates: 33.029, 7.099
+
+
+### El Oued
+
+Code: DZ018008, Coordinates: 33.366, 6.867
+
+
+### Guemar
+
+Code: DZ018009, Coordinates: 33.82, 6.689
+
+
+### Hamraia
+
+Code: DZ018010, Coordinates: 34.182, 6.494
+
+
+### Hassani Abdelkrim
+
+Code: DZ018011, Coordinates: 33.467, 6.9
+
+
+### Hassi Khelifa
+
+Code: DZ018012, Coordinates: 33.71, 7.146
+
+
+### Kouinine
+
+Code: DZ018013, Coordinates: 33.397, 6.781
+
+
+### M&#39;Rara
+
+Code: DZ018016, Coordinates: 33.596, 5.432
+
+
+### Magrane
+
+Code: DZ018014, Coordinates: 33.797, 6.916
+
+
+### Mih Ouensa
+
+Code: DZ018015, Coordinates: 33.034, 6.665
+
+
+### Nakhla
+
+Code: DZ018017, Coordinates: 33.174, 7.205
+
+
+### Oued El Alenda
+
+Code: DZ018018, Coordinates: 33.03, 6.83
+
+
+### Oum Tiour
+
+Code: DZ018019, Coordinates: 34.228, 5.56
+
+
+### Ourmes
+
+Code: DZ018020, Coordinates: 33.353, 6.54
+
+
+### Reguiba
+
+Code: DZ018021, Coordinates: 33.771, 6.465
+
+
+### Robbah
+
+Code: DZ018022, Coordinates: 32.935, 6.886
+
+
+### Sidi Amrane
+
+Code: DZ018023, Coordinates: 33.456, 5.9
+
+
+### Sidi Aoun
+
+Code: DZ018024, Coordinates: 33.902, 6.81
+
+
+### Sidi Khellil
+
+Code: DZ018025, Coordinates: 33.827, 5.708
+
+
+### Still
+
+Code: DZ018026, Coordinates: 34.354, 5.74
+
+
+### Taghzout
+
+Code: DZ018027, Coordinates: 33.5, 6.565
+
+
+### Taleb Larbi
+
+Code: DZ018028, Coordinates: 33.708, 7.451
+
+
+### Tendla
+
+Code: DZ018029, Coordinates: 33.743, 5.838
+
+
+### Trifaou
+
+Code: DZ018030, Coordinates: 33.461, 7.066
+
+

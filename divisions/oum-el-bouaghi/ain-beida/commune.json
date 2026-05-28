@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ004_ain-beida_ain-beida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين البيضاء",
+      "en": "Ain Beida",
+      "slug": "ain-beida"
+    },
+    "code": {
+      "id": "DZ004_ain-beida_ain-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-beida",
+      "level": 2,
+      "name": {
+        "local": "عين البيضاء",
+        "en": "Ain Beida",
+        "slug": "ain-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-beida",
+        "level": 2,
+        "name": {
+          "local": "عين البيضاء",
+          "en": "Ain Beida",
+          "slug": "ain-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04001"
+    ],
+    "geo": {
+      "lat": "35.795",
+      "lon": "7.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-beida_berriche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريش",
+      "en": "Berriche",
+      "slug": "berriche"
+    },
+    "code": {
+      "id": "DZ004_ain-beida_berriche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-beida",
+      "level": 2,
+      "name": {
+        "local": "عين البيضاء",
+        "en": "Ain Beida",
+        "slug": "ain-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-beida",
+        "level": 2,
+        "name": {
+          "local": "عين البيضاء",
+          "en": "Ain Beida",
+          "slug": "ain-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04022"
+    ],
+    "geo": {
+      "lat": "35.913",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-beida_zorg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزرق",
+      "en": "Zorg",
+      "slug": "zorg"
+    },
+    "code": {
+      "id": "DZ004_ain-beida_zorg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-beida",
+      "level": 2,
+      "name": {
+        "local": "عين البيضاء",
+        "en": "Ain Beida",
+        "slug": "ain-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-beida",
+        "level": 2,
+        "name": {
+          "local": "عين البيضاء",
+          "en": "Ain Beida",
+          "slug": "ain-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04024"
+    ],
+    "geo": {
+      "lat": "35.854",
+      "lon": "7.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

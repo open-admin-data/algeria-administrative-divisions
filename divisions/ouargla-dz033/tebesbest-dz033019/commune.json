@@ -1,0 +1,45 @@
+{
+  "id": "DZ033019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tebesbest",
+    "en": "Tebesbest",
+    "slug": "tebesbest-dz033019"
+  },
+  "code": {
+    "id": "DZ033019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.116",
+    "lon": "6.107"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ055_touggourt",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تقرت",
+    "en": "Touggourt",
+    "slug": "touggourt"
+  },
+  "code": {
+    "id": "DZ055_touggourt",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ055",
+    "level": 1,
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.119",
+    "lon": "6.024"
+  },
+  "metadata": {},
+  "source": {}
+}

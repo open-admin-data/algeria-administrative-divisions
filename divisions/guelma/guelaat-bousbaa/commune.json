@@ -1,0 +1,336 @@
+[
+  {
+    "id": "DZ024_guelaat-bousbaa_belkheir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلخير",
+      "en": "Belkheir",
+      "slug": "belkheir"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_belkheir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24015"
+    ],
+    "geo": {
+      "lat": "36.447",
+      "lon": "7.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa_beni-mezline",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني مزلين",
+      "en": "Beni Mezline",
+      "slug": "beni-mezline"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_beni-mezline",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.473",
+      "lon": "7.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa_boumahra-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بومهرة أحمد",
+      "en": "Boumahra Ahmed",
+      "slug": "boumahra-ahmed"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_boumahra-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24005"
+    ],
+    "geo": {
+      "lat": "36.431",
+      "lon": "7.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa_djeballah-khemissi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جبالة الخميسي",
+      "en": "Djeballah Khemissi",
+      "slug": "djeballah-khemissi"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_djeballah-khemissi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24039"
+    ],
+    "geo": {
+      "lat": "36.502",
+      "lon": "7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa_guelaat-bou-sbaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قلعة بوصبع",
+      "en": "Guelaat Bou Sbaa",
+      "slug": "guelaat-bou-sbaa"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_guelaat-bou-sbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24020"
+    ],
+    "geo": {
+      "lat": "36.493",
+      "lon": "7.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_guelaat-bousbaa_nechmaya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "نشماية",
+      "en": "Nechmaya",
+      "slug": "nechmaya"
+    },
+    "code": {
+      "id": "DZ024_guelaat-bousbaa_nechmaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_guelaat-bousbaa",
+      "level": 2,
+      "name": {
+        "local": "قلعة بوصبع",
+        "en": "Guelaat Bousbaa",
+        "slug": "guelaat-bousbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_guelaat-bousbaa",
+        "level": 2,
+        "name": {
+          "local": "قلعة بوصبع",
+          "en": "Guelaat Bousbaa",
+          "slug": "guelaat-bousbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24027"
+    ],
+    "geo": {
+      "lat": "36.614",
+      "lon": "7.479"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

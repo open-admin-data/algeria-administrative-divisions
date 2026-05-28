@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ011_tazrouk_idles",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أدلس",
+      "en": "Idles",
+      "slug": "idles"
+    },
+    "code": {
+      "id": "DZ011_tazrouk_idles",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011_tazrouk",
+      "level": 2,
+      "name": {
+        "local": "تاظروك",
+        "en": "Tazrouk",
+        "slug": "tazrouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      },
+      {
+        "id": "DZ011_tazrouk",
+        "level": 2,
+        "name": {
+          "local": "تاظروك",
+          "en": "Tazrouk",
+          "slug": "tazrouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11013"
+    ],
+    "geo": {
+      "lat": "25.366",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011_tazrouk_tazrouk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاظروك",
+      "en": "Tazrouk",
+      "slug": "tazrouk"
+    },
+    "code": {
+      "id": "DZ011_tazrouk_tazrouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011_tazrouk",
+      "level": 2,
+      "name": {
+        "local": "تاظروك",
+        "en": "Tazrouk",
+        "slug": "tazrouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      },
+      {
+        "id": "DZ011_tazrouk",
+        "level": 2,
+        "name": {
+          "local": "تاظروك",
+          "en": "Tazrouk",
+          "slug": "tazrouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11010"
+    ],
+    "geo": {
+      "lat": "22.668",
+      "lon": "8.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

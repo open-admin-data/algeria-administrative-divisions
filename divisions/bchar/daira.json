@@ -1,0 +1,331 @@
+[
+  {
+    "id": "DZ008_abadla",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العبادلة",
+      "en": "Abadla",
+      "slug": "abadla"
+    },
+    "code": {
+      "id": "DZ008_abadla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.965",
+      "lon": "-2.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_bechar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar"
+    },
+    "code": {
+      "id": "DZ008_bechar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.615",
+      "lon": "-1.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_beni-ounif",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني ونيف",
+      "en": "Beni Ounif",
+      "slug": "beni-ounif"
+    },
+    "code": {
+      "id": "DZ008_beni-ounif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.556",
+      "lon": "-0.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_kenadsa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القنادسة",
+      "en": "Kenadsa",
+      "slug": "kenadsa"
+    },
+    "code": {
+      "id": "DZ008_kenadsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.522",
+      "lon": "-2.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_lahmar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "لحمر",
+      "en": "Lahmar",
+      "slug": "lahmar"
+    },
+    "code": {
+      "id": "DZ008_lahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.917",
+      "lon": "-2.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_tabelbala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تبلبالة",
+      "en": "Tabelbala",
+      "slug": "tabelbala"
+    },
+    "code": {
+      "id": "DZ008_tabelbala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.961",
+      "lon": "-3.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_taghit",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تاغيت",
+      "en": "Taghit",
+      "slug": "taghit"
+    },
+    "code": {
+      "id": "DZ008_taghit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.077",
+      "lon": "-1.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

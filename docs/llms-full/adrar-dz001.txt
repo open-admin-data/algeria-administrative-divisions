@@ -1,0 +1,149 @@
+# Adrar — Algeria Administrative Divisions
+
+> 28 communes
+> Code: DZ001
+> Coordinates: 25.91, -1.916
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Adrar
+
+Code: DZ001001, Coordinates: 27.942, -0.215
+
+
+### Akabili
+
+Code: DZ001002, Coordinates: 26.536, 1.114
+
+
+### Aougrout
+
+Code: DZ001003, Coordinates: 28.937, 1.141
+
+
+### Aoulef
+
+Code: DZ001004, Coordinates: 26.624, 0.862
+
+
+### Bordj Badji Mokhtar
+
+Code: DZ001005, Coordinates: 23.142, -0.263
+
+
+### Bouda
+
+Code: DZ001006, Coordinates: 28.017, -1.188
+
+
+### Deldoul
+
+Code: DZ001007, Coordinates: 28.861, 0.007
+
+
+### Fenoughil
+
+Code: DZ001008, Coordinates: 27.611, -1.242
+
+
+### Gharouine
+
+Code: DZ001009, Coordinates: 29.086, -0.315
+
+
+### Inzegmir
+
+Code: DZ001010, Coordinates: 27.037, -1.45
+
+
+### Ksar Kaddour
+
+Code: DZ001011, Coordinates: 30.196, 0.273
+
+
+### Metarfa
+
+Code: DZ001012, Coordinates: 28.571, 0.044
+
+
+### Ouled Ahmed Timi
+
+Code: DZ001013, Coordinates: 27.84, -1.561
+
+
+### Ouled Aissa
+
+Code: DZ001014, Coordinates: 29.649, -0.172
+
+
+### Ouled Said
+
+Code: DZ001015, Coordinates: 29.431, 0.286
+
+
+### Reggane
+
+Code: DZ001016, Coordinates: 25.383, -2.03
+
+
+### Sali
+
+Code: DZ001017, Coordinates: 26.74, -2.039
+
+
+### Sebaa
+
+Code: DZ001018, Coordinates: 28.255, -0.038
+
+
+### Talmine
+
+Code: DZ001019, Coordinates: 29.426, -0.515
+
+
+### Tamentit
+
+Code: DZ001020, Coordinates: 28.048, 0.396
+
+
+### Tamest
+
+Code: DZ001021, Coordinates: 27.448, -1.409
+
+
+### Timiaouine
+
+Code: DZ001022, Coordinates: 20.908, 1.759
+
+
+### Timimoun
+
+Code: DZ001023, Coordinates: 29.701, 1.541
+
+
+### Timokten
+
+Code: DZ001024, Coordinates: 27.75, 1.163
+
+
+### Tinerkouk
+
+Code: DZ001025, Coordinates: 30.464, 1.346
+
+
+### Tit
+
+Code: DZ001026, Coordinates: 27.029, 1.458
+
+
+### Tsabit
+
+Code: DZ001027, Coordinates: 28.679, -1.284
+
+
+### Zaouiet Kounta
+
+Code: DZ001028, Coordinates: 27.241, -1.332
+
+

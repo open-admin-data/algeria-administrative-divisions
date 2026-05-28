@@ -1,0 +1,45 @@
+{
+  "id": "DZ013002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ammal",
+    "en": "Ammal",
+    "slug": "ammal-dz013002"
+  },
+  "code": {
+    "id": "DZ013002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.622",
+    "lon": "3.587"
+  },
+  "metadata": {},
+  "source": {}
+}

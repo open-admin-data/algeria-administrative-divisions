@@ -1,0 +1,87 @@
+# Constantine — Algeria Administrative Divisions
+
+> 6 dairas, 12 communes
+> Code: DZ025
+> Coordinates: 36.36, 6.668
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين عبيد (Ain Abid)
+
+Code: DZ025_ain-abid, Coordinates: 35.59, 3.015
+Communes: 2
+
+#### عين عبيد (Ain Abid)
+
+Code: DZ025_ain-abid_ain-abid, Postal: 25015, Coordinates: 36.252, 6.944
+
+#### أبن باديس الهرية (Ben Badis)
+
+Code: DZ025_ain-abid_ben-badis, Postal: 22004, Coordinates: 34.928, -0.913
+
+### قسنطينة (Constantine)
+
+Code: DZ025_constantine, Coordinates: 36.356, 6.61
+Communes: 1
+
+#### قسنطينة (Constantine)
+
+Code: DZ025_constantine_constantine, Postal: 25000, Coordinates: 36.356, 6.61
+
+### الخروب (El Khroub)
+
+Code: DZ025_el-khroub, Coordinates: 36.254, 6.632
+Communes: 3
+
+#### عين السمارة (Ain Smara)
+
+Code: DZ025_el-khroub_ain-smara, Postal: 25006, Coordinates: 36.295, 6.487
+
+#### الخروب (El Khroub)
+
+Code: DZ025_el-khroub_el-khroub, Postal: 25005, Coordinates: 36.285, 6.713
+
+#### أولاد رحمون (Ouled Rahmoun)
+
+Code: DZ025_el-khroub_ouled-rahmoun, Postal: 25028, Coordinates: 36.182, 6.697
+
+### حامة بوزيان (Hamma Bouziane)
+
+Code: DZ025_hamma-bouziane, Coordinates: 36.448, 6.621
+Communes: 2
+
+#### ديدوش مراد (Didouche Mourad)
+
+Code: DZ025_hamma-bouziane_didouche-mourad, Postal: 25024, Coordinates: 36.467, 6.667
+
+#### حامة بوزيان (Hamma Bouziane)
+
+Code: DZ025_hamma-bouziane_hamma-bouziane, Postal: 25013, Coordinates: 36.43, 6.575
+
+### ابن زياد (Ibn Ziad)
+
+Code: DZ025_ibn-ziad, Coordinates: 36.374, 6.427
+Communes: 2
+
+#### ابن زياد (Ibn Ziad)
+
+Code: DZ025_ibn-ziad_ibn-ziad, Postal: 25027, Coordinates: 36.374, 6.427
+
+#### بوجريو مسعود (Messaoud Boudjeriou)
+
+Code: DZ025_ibn-ziad_messaoud-boudjeriou, Postal: 25032, Coordinates: 36.374, 6.427
+
+### زيغود يوسف (Zighoud Youcef)
+
+Code: DZ025_zighoud-youcef, Coordinates: 36.532, 6.74
+Communes: 2
+
+#### بني حميدان (Beni Hamidane)
+
+Code: DZ025_zighoud-youcef_beni-hamidane, Postal: 25035, Coordinates: 36.532, 6.74
+
+#### زيغود يوسف (Zighoud Youcef)
+
+Code: DZ025_zighoud-youcef_zighoud-youcef, Postal: 25014, Coordinates: 36.532, 6.74
+

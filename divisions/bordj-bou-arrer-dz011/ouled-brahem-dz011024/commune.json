@@ -1,0 +1,45 @@
+{
+  "id": "DZ011024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Brahem",
+    "en": "Ouled Brahem",
+    "slug": "ouled-brahem-dz011024"
+  },
+  "code": {
+    "id": "DZ011024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.9",
+    "lon": "5.08"
+  },
+  "metadata": {},
+  "source": {}
+}

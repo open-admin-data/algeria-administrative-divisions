@@ -1,0 +1,45 @@
+{
+  "id": "DZ009033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zeribet El Oued",
+    "en": "Zeribet El Oued",
+    "slug": "zeribet-el-oued-dz009033"
+  },
+  "code": {
+    "id": "DZ009033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.684",
+    "lon": "6.517"
+  },
+  "metadata": {},
+  "source": {}
+}

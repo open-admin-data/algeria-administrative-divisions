@@ -1,0 +1,47 @@
+{
+  "id": "DZ038_lardjem",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "لرجام",
+    "en": "Lardjem",
+    "slug": "lardjem"
+  },
+  "code": {
+    "id": "DZ038_lardjem",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.739",
+    "lon": "1.412"
+  },
+  "metadata": {},
+  "source": {}
+}

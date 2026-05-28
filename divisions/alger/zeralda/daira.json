@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_zeralda",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "زرالدة",
+    "en": "Zeralda",
+    "slug": "zeralda"
+  },
+  "code": {
+    "id": "DZ016_zeralda",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.709",
+    "lon": "2.88"
+  },
+  "metadata": {},
+  "source": {}
+}

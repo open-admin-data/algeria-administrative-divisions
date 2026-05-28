@@ -1,0 +1,47 @@
+{
+  "id": "DZ035_boumerdes",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بومرداس",
+    "en": "Boumerdes",
+    "slug": "boumerdes"
+  },
+  "code": {
+    "id": "DZ035_boumerdes",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.737",
+    "lon": "3.478"
+  },
+  "metadata": {},
+  "source": {}
+}

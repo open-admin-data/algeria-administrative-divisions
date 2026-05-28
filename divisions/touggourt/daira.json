@@ -1,0 +1,237 @@
+[
+  {
+    "id": "DZ055_el-hadjira",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحجيرة",
+      "en": "El-Hadjira",
+      "slug": "el-hadjira"
+    },
+    "code": {
+      "id": "DZ055_el-hadjira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.749",
+      "lon": "5.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_megarine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المقارين",
+      "en": "Megarine",
+      "slug": "megarine"
+    },
+    "code": {
+      "id": "DZ055_megarine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.531",
+      "lon": "3.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_taibet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الطيبات",
+      "en": "Taibet",
+      "slug": "taibet"
+    },
+    "code": {
+      "id": "DZ055_taibet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.944",
+      "lon": "6.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_temacine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تماسين",
+      "en": "Temacine",
+      "slug": "temacine"
+    },
+    "code": {
+      "id": "DZ055_temacine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.312",
+      "lon": "5.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_touggourt",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    },
+    "code": {
+      "id": "DZ055_touggourt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.119",
+      "lon": "6.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

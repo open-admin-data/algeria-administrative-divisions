@@ -1,0 +1,45 @@
+{
+  "id": "DZ014024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Ben Abdelkader",
+    "en": "Ouled Ben Abdelkader",
+    "slug": "ouled-ben-abdelkader-dz014024"
+  },
+  "code": {
+    "id": "DZ014024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.97",
+    "lon": "1.333"
+  },
+  "metadata": {},
+  "source": {}
+}

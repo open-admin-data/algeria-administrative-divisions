@@ -1,0 +1,114 @@
+# Bechar — Algeria Administrative Divisions
+
+> 21 communes
+> Code: DZ007
+> Coordinates: 29.859, -2.898
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Abadla
+
+Code: DZ007001, Coordinates: 31.028, -2.596
+
+
+### Bechar
+
+Code: DZ007002, Coordinates: 31.615, -1.92
+
+
+### Beni Abbes
+
+Code: DZ007003, Coordinates: 30.071, -2.58
+
+
+### Beni Ikhlef
+
+Code: DZ007004, Coordinates: 29.714, -1.497
+
+
+### Beni Ounif
+
+Code: DZ007005, Coordinates: 31.556, -0.904
+
+
+### Boukais
+
+Code: DZ007006, Coordinates: 31.969, -2.617
+
+
+### El Ouata
+
+Code: DZ007007, Coordinates: 30.121, -1.382
+
+
+### Erg Ferradj
+
+Code: DZ007008, Coordinates: 30.901, -3.325
+
+
+### Igli
+
+Code: DZ007009, Coordinates: 30.479, -2.553
+
+
+### Kenadsa
+
+Code: DZ007010, Coordinates: 31.497, -2.566
+
+
+### Kerzaz
+
+Code: DZ007011, Coordinates: 29.839, -0.946
+
+
+### Ksabi
+
+Code: DZ007012, Coordinates: 29.099, -1.067
+
+
+### Lahmar
+
+Code: DZ007013, Coordinates: 31.865, -2.27
+
+
+### Mechraa Houari Boumediene
+
+Code: DZ007014, Coordinates: 30.679, -2.99
+
+
+### Meridja
+
+Code: DZ007015, Coordinates: 31.547, -3.236
+
+
+### Mougheul
+
+Code: DZ007016, Coordinates: 32.081, -2.135
+
+
+### Ouled Khoudir
+
+Code: DZ007017, Coordinates: 29.332, -0.877
+
+
+### Tabelbala
+
+Code: DZ007018, Coordinates: 28.961, -3.42
+
+
+### Taghit
+
+Code: DZ007019, Coordinates: 31.077, -1.677
+
+
+### Tamert
+
+Code: DZ007020, Coordinates: 30.127, -1.918
+
+
+### Timmoudi
+
+Code: DZ007021, Coordinates: 29.575, -0.914
+
+

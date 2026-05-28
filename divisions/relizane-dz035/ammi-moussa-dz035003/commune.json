@@ -1,0 +1,45 @@
+{
+  "id": "DZ035003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ammi Moussa",
+    "en": "Ammi Moussa",
+    "slug": "ammi-moussa-dz035003"
+  },
+  "code": {
+    "id": "DZ035003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.84",
+    "lon": "1.213"
+  },
+  "metadata": {},
+  "source": {}
+}

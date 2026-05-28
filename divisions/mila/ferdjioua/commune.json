@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_ferdjioua_ferdjioua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فرجيوة",
+      "en": "Ferdjioua",
+      "slug": "ferdjioua"
+    },
+    "code": {
+      "id": "DZ043_ferdjioua_ferdjioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_ferdjioua",
+      "level": 2,
+      "name": {
+        "local": "فرجيوة",
+        "en": "Ferdjioua",
+        "slug": "ferdjioua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_ferdjioua",
+        "level": 2,
+        "name": {
+          "local": "فرجيوة",
+          "en": "Ferdjioua",
+          "slug": "ferdjioua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43002"
+    ],
+    "geo": {
+      "lat": "36.408",
+      "lon": "5.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_ferdjioua_yahia-beniguecha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يحي بني قشة",
+      "en": "Yahia Beniguecha",
+      "slug": "yahia-beniguecha"
+    },
+    "code": {
+      "id": "DZ043_ferdjioua_yahia-beniguecha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_ferdjioua",
+      "level": 2,
+      "name": {
+        "local": "فرجيوة",
+        "en": "Ferdjioua",
+        "slug": "ferdjioua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_ferdjioua",
+        "level": 2,
+        "name": {
+          "local": "فرجيوة",
+          "en": "Ferdjioua",
+          "slug": "ferdjioua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43071"
+    ],
+    "geo": {
+      "lat": "36.408",
+      "lon": "5.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

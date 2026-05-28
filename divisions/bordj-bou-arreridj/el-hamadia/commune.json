@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ034_el-hamadia_el-euch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العش",
+      "en": "El Euch",
+      "slug": "el-euch"
+    },
+    "code": {
+      "id": "DZ034_el-hamadia_el-euch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_el-hamadia",
+      "level": 2,
+      "name": {
+        "local": "الحمادية",
+        "en": "El Hamadia",
+        "slug": "el-hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_el-hamadia",
+        "level": 2,
+        "name": {
+          "local": "الحمادية",
+          "en": "El Hamadia",
+          "slug": "el-hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34029"
+    ],
+    "geo": {
+      "lat": "35.9",
+      "lon": "4.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_el-hamadia_elhammadia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمادية",
+      "en": "Elhammadia",
+      "slug": "elhammadia"
+    },
+    "code": {
+      "id": "DZ034_el-hamadia_elhammadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_el-hamadia",
+      "level": 2,
+      "name": {
+        "local": "الحمادية",
+        "en": "El Hamadia",
+        "slug": "el-hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_el-hamadia",
+        "level": 2,
+        "name": {
+          "local": "الحمادية",
+          "en": "El Hamadia",
+          "slug": "el-hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.934",
+      "lon": "4.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_el-hamadia_ksour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصور",
+      "en": "Ksour",
+      "slug": "ksour"
+    },
+    "code": {
+      "id": "DZ034_el-hamadia_ksour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_el-hamadia",
+      "level": 2,
+      "name": {
+        "local": "الحمادية",
+        "en": "El Hamadia",
+        "slug": "el-hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_el-hamadia",
+        "level": 2,
+        "name": {
+          "local": "الحمادية",
+          "en": "El Hamadia",
+          "slug": "el-hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34048"
+    ],
+    "geo": {
+      "lat": "35.99",
+      "lon": "4.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_el-hamadia_rabta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرابطة",
+      "en": "Rabta",
+      "slug": "rabta"
+    },
+    "code": {
+      "id": "DZ034_el-hamadia_rabta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_el-hamadia",
+      "level": 2,
+      "name": {
+        "local": "الحمادية",
+        "en": "El Hamadia",
+        "slug": "el-hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_el-hamadia",
+        "level": 2,
+        "name": {
+          "local": "الحمادية",
+          "en": "El Hamadia",
+          "slug": "el-hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34035"
+    ],
+    "geo": {
+      "lat": "35.913",
+      "lon": "4.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "DZ041",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تمنراست",
+    "en": "Tamanrasset",
+    "slug": "tamanrasset-dz041"
+  },
+  "code": {
+    "id": "DZ041",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.355",
+    "lon": "4.451"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_mechraa-sfa_djillali-ben-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جيلالي بن عمار",
+      "en": "Djillali Ben Amar",
+      "slug": "djillali-ben-amar"
+    },
+    "code": {
+      "id": "DZ014_mechraa-sfa_djillali-ben-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mechraa-sfa",
+      "level": 2,
+      "name": {
+        "local": "مشرع الصفا",
+        "en": "Mechraa Sfa",
+        "slug": "mechraa-sfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mechraa-sfa",
+        "level": 2,
+        "name": {
+          "local": "مشرع الصفا",
+          "en": "Mechraa Sfa",
+          "slug": "mechraa-sfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14016"
+    ],
+    "geo": {
+      "lat": "35.356",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mechraa-sfa_mechraa-safa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مشرع الصفا",
+      "en": "Mechraa Safa",
+      "slug": "mechraa-safa"
+    },
+    "code": {
+      "id": "DZ014_mechraa-sfa_mechraa-safa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mechraa-sfa",
+      "level": 2,
+      "name": {
+        "local": "مشرع الصفا",
+        "en": "Mechraa Sfa",
+        "slug": "mechraa-sfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mechraa-sfa",
+        "level": 2,
+        "name": {
+          "local": "مشرع الصفا",
+          "en": "Mechraa Sfa",
+          "slug": "mechraa-sfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14012"
+    ],
+    "geo": {
+      "lat": "35.356",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mechraa-sfa_tagdempt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاقدمت",
+      "en": "Tagdempt",
+      "slug": "tagdempt"
+    },
+    "code": {
+      "id": "DZ014_mechraa-sfa_tagdempt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mechraa-sfa",
+      "level": 2,
+      "name": {
+        "local": "مشرع الصفا",
+        "en": "Mechraa Sfa",
+        "slug": "mechraa-sfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mechraa-sfa",
+        "level": 2,
+        "name": {
+          "local": "مشرع الصفا",
+          "en": "Mechraa Sfa",
+          "slug": "mechraa-sfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14068"
+    ],
+    "geo": {
+      "lat": "35.356",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

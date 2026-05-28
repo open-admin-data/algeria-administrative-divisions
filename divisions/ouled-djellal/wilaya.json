@@ -1,0 +1,30 @@
+{
+  "id": "DZ051",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "أولاد جلال",
+    "en": "Ouled Djellal",
+    "slug": "ouled-djellal"
+  },
+  "code": {
+    "id": "DZ051",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 2,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.5",
+    "lon": "4.012"
+  },
+  "metadata": {},
+  "source": {}
+}

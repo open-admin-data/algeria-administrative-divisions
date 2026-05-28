@@ -1,0 +1,47 @@
+{
+  "id": "DZ025_el-khroub",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الخروب",
+    "en": "El Khroub",
+    "slug": "el-khroub"
+  },
+  "code": {
+    "id": "DZ025_el-khroub",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.254",
+    "lon": "6.632"
+  },
+  "metadata": {},
+  "source": {}
+}

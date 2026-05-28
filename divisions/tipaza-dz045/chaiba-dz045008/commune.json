@@ -1,0 +1,45 @@
+{
+  "id": "DZ045008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chaiba",
+    "en": "Chaiba",
+    "slug": "chaiba-dz045008"
+  },
+  "code": {
+    "id": "DZ045008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.613",
+    "lon": "2.733"
+  },
+  "metadata": {},
+  "source": {}
+}

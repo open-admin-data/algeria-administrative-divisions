@@ -1,0 +1,45 @@
+{
+  "id": "DZ026030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Moctadouz",
+    "en": "Moctadouz",
+    "slug": "moctadouz-dz026030"
+  },
+  "code": {
+    "id": "DZ026030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.688",
+    "lon": "-0.121"
+  },
+  "metadata": {},
+  "source": {}
+}

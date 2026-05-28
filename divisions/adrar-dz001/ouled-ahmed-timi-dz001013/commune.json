@@ -1,0 +1,45 @@
+{
+  "id": "DZ001013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Ahmed Timi",
+    "en": "Ouled Ahmed Timi",
+    "slug": "ouled-ahmed-timi-dz001013"
+  },
+  "code": {
+    "id": "DZ001013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.84",
+    "lon": "-1.561"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ016027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mliliha",
+    "en": "Mliliha",
+    "slug": "mliliha-dz016027"
+  },
+  "code": {
+    "id": "DZ016027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.729",
+    "lon": "3.683"
+  },
+  "metadata": {},
+  "source": {}
+}

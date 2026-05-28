@@ -1,0 +1,45 @@
+{
+  "id": "DZ043028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sebaine",
+    "en": "Sebaine",
+    "slug": "sebaine-dz043028"
+  },
+  "code": {
+    "id": "DZ043028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.46",
+    "lon": "1.605"
+  },
+  "metadata": {},
+  "source": {}
+}

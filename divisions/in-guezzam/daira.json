@@ -1,0 +1,96 @@
+[
+  {
+    "id": "DZ054_in-guezzam",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين قزام",
+      "en": "In Guezzam",
+      "slug": "in-guezzam"
+    },
+    "code": {
+      "id": "DZ054_in-guezzam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ054",
+      "level": 1,
+      "name": {
+        "local": "عين قزام",
+        "en": "In Guezzam",
+        "slug": "in-guezzam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ054",
+        "level": 1,
+        "name": {
+          "local": "عين قزام",
+          "en": "In Guezzam",
+          "slug": "in-guezzam"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ054_tin-zouatine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تين زواتين",
+      "en": "Tin Zouatine",
+      "slug": "tin-zouatine"
+    },
+    "code": {
+      "id": "DZ054_tin-zouatine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ054",
+      "level": 1,
+      "name": {
+        "local": "عين قزام",
+        "en": "In Guezzam",
+        "slug": "in-guezzam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ054",
+        "level": 1,
+        "name": {
+          "local": "عين قزام",
+          "en": "In Guezzam",
+          "slug": "in-guezzam"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

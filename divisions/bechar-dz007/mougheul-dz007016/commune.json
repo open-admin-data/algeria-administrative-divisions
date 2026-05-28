@@ -1,0 +1,45 @@
+{
+  "id": "DZ007016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mougheul",
+    "en": "Mougheul",
+    "slug": "mougheul-dz007016"
+  },
+  "code": {
+    "id": "DZ007016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.081",
+    "lon": "-2.135"
+  },
+  "metadata": {},
+  "source": {}
+}

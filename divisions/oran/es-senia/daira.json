@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_es-senia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "السانية",
+    "en": "Es Senia",
+    "slug": "es-senia"
+  },
+  "code": {
+    "id": "DZ031_es-senia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.656",
+    "lon": "-0.59"
+  },
+  "metadata": {},
+  "source": {}
+}

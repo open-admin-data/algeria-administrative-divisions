@@ -1,0 +1,45 @@
+{
+  "id": "DZ008047",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tichi",
+    "en": "Tichi",
+    "slug": "tichi-dz008047"
+  },
+  "code": {
+    "id": "DZ008047",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.622",
+    "lon": "5.156"
+  },
+  "metadata": {},
+  "source": {}
+}

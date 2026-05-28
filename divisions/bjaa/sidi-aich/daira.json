@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_sidi-aich",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي عيش",
+    "en": "Sidi Aich",
+    "slug": "sidi-aich"
+  },
+  "code": {
+    "id": "DZ006_sidi-aich",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.627",
+    "lon": "4.7"
+  },
+  "metadata": {},
+  "source": {}
+}

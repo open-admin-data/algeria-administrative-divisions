@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ003_ksar-el-hirane_benacer-benchohra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن ناصر بن شهرة",
+      "en": "Benacer Benchohra",
+      "slug": "benacer-benchohra"
+    },
+    "code": {
+      "id": "DZ003_ksar-el-hirane_benacer-benchohra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ksar-el-hirane",
+      "level": 2,
+      "name": {
+        "local": "قصر الحيران",
+        "en": "Ksar El Hirane",
+        "slug": "ksar-el-hirane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ksar-el-hirane",
+        "level": 2,
+        "name": {
+          "local": "قصر الحيران",
+          "en": "Ksar El Hirane",
+          "slug": "ksar-el-hirane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03033"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "3.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ksar-el-hirane_ksar-el-hirane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر الحيران",
+      "en": "Ksar El Hirane",
+      "slug": "ksar-el-hirane"
+    },
+    "code": {
+      "id": "DZ003_ksar-el-hirane_ksar-el-hirane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_ksar-el-hirane",
+      "level": 2,
+      "name": {
+        "local": "قصر الحيران",
+        "en": "Ksar El Hirane",
+        "slug": "ksar-el-hirane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_ksar-el-hirane",
+        "level": 2,
+        "name": {
+          "local": "قصر الحيران",
+          "en": "Ksar El Hirane",
+          "slug": "ksar-el-hirane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03003"
+    ],
+    "geo": {
+      "lat": "33.707",
+      "lon": "3.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

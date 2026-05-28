@@ -1,0 +1,45 @@
+{
+  "id": "DZ001019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Talmine",
+    "en": "Talmine",
+    "slug": "talmine-dz001019"
+  },
+  "code": {
+    "id": "DZ001019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.426",
+    "lon": "-0.515"
+  },
+  "metadata": {},
+  "source": {}
+}

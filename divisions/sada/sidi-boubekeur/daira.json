@@ -1,0 +1,47 @@
+{
+  "id": "DZ020_sidi-boubekeur",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي بوبكر",
+    "en": "Sidi Boubekeur",
+    "slug": "sidi-boubekeur"
+  },
+  "code": {
+    "id": "DZ020_sidi-boubekeur",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.394",
+    "lon": "0.578"
+  },
+  "metadata": {},
+  "source": {}
+}

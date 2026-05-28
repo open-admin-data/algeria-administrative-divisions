@@ -1,0 +1,168 @@
+# Algeria Administrative Divisions
+
+> Open dataset of Algeria's administrative hierarchy:
+> 58 wilayas, 548 dairas, 1,541 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total wilayas: 58
+- Total dairas: 548
+- Total communes: 1,541
+- Coordinates: included (all levels)
+- Last updated: 2026-05-28
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All wilayas (JSON)](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/all-wilaya.json)
+- [All dairas (JSON)](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/all-daira.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/data/schema.json)
+
+## Browse by Wilaya
+
+- [Adrar](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/adrar/) — 6 dairas, 16 communes
+- [Chlef](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/chlef/) — 13 dairas, 35 communes
+- [Laghouat](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/laghouat/) — 10 dairas, 24 communes
+- [Oum El Bouaghi](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/oum-el-bouaghi/) — 12 dairas, 29 communes
+- [Batna](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/batna/) — 21 dairas, 61 communes
+- [Béjaïa](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bjaa/) — 19 dairas, 52 communes
+- [Biskra](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/biskra/) — 10 dairas, 27 communes
+- [Béchar](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bchar/) — 7 dairas, 12 communes
+- [Blida](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/blida/) — 10 dairas, 25 communes
+- [Bouira](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bouira/) — 12 dairas, 45 communes
+- [Tamanrasset](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tamanrasset/) — 3 dairas, 5 communes
+- [Tébessa](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tbessa/) — 12 dairas, 28 communes
+- [Tlemcen](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tlemcen/) — 20 dairas, 53 communes
+- [Tiaret](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tiaret/) — 14 dairas, 42 communes
+- [Tizi Ouzou](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tizi-ouzou/) — 21 dairas, 67 communes
+- [Alger](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/alger/) — 13 dairas, 57 communes
+- [Djelfa](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/djelfa/) — 12 dairas, 36 communes
+- [Jijel](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/jijel/) — 11 dairas, 28 communes
+- [Sétif](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/stif/) — 20 dairas, 60 communes
+- [Saïda](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/sada/) — 6 dairas, 16 communes
+- [Skikda](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/skikda/) — 13 dairas, 38 communes
+- [Sidi Bel Abbès](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/sidi-bel-abbs/) — 15 dairas, 52 communes
+- [Annaba](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/annaba/) — 6 dairas, 12 communes
+- [Guelma](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/guelma/) — 10 dairas, 34 communes
+- [Constantine](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/constantine/) — 6 dairas, 12 communes
+- [Médéa](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/mda/) — 19 dairas, 64 communes
+- [Mostaganem](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/mostaganem/) — 10 dairas, 32 communes
+- [M&#39;Sila](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/msila/) — 15 dairas, 47 communes
+- [Mascara](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/mascara/) — 16 dairas, 47 communes
+- [Ouargla](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/ouargla/) — 5 dairas, 8 communes
+- [Oran](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/oran/) — 9 dairas, 26 communes
+- [El Bayadh](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/el-bayadh/) — 8 dairas, 22 communes
+- [Illizi](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/illizi/) — 2 dairas, 4 communes
+- [Bordj Bou Arreridj](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bordj-bou-arreridj/) — 10 dairas, 34 communes
+- [Boumerdès](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/boumerds/) — 9 dairas, 32 communes
+- [El Tarf](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/el-tarf/) — 7 dairas, 24 communes
+- [Tindouf](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tindouf/) — 1 dairas, 2 communes
+- [Tissemsilt](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tissemsilt/) — 8 dairas, 22 communes
+- [El Oued](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/el-oued/) — 10 dairas, 22 communes
+- [Khenchela](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/khenchela/) — 8 dairas, 21 communes
+- [Souk Ahras](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/souk-ahras/) — 10 dairas, 26 communes
+- [Tipaza](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/tipaza/) — 10 dairas, 28 communes
+- [Mila](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/mila/) — 13 dairas, 32 communes
+- [Aïn Defla](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/an-defla/) — 14 dairas, 36 communes
+- [Naâma](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/nama/) — 7 dairas, 12 communes
+- [Aïn Témouchent](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/an-tmouchent/) — 8 dairas, 28 communes
+- [Ghardaïa](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/ghardaa/) — 8 dairas, 10 communes
+- [Relizane](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/relizane/) — 13 dairas, 38 communes
+- [Timimoun](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/timimoun/) — 4 dairas, 10 communes
+- [Bordj Badji Mokhtar](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bordj-badji-mokhtar/) — 1 dairas, 2 communes
+- [Ouled Djellal](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/ouled-djellal/) — 2 dairas, 6 communes
+- [Béni Abbès](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/bni-abbs/) — 5 dairas, 9 communes
+- [In Salah](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/in-salah/) — 2 dairas, 3 communes
+- [In Guezzam](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/in-guezzam/) — 2 dairas, 2 communes
+- [Touggourt](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/touggourt/) — 5 dairas, 13 communes
+- [Djanet](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/djanet/) — 1 dairas, 2 communes
+- [El Meghaier](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/el-meghaier/) — 2 dairas, 8 communes
+- [El Menia](https://github.com/open-admin-data/algeria-administrative-divisions/tree/main/divisions/el-menia/) — 2 dairas, 3 communes
+
+## Per-Wilaya Full Data
+
+- [Adrar](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/adrar.txt)
+- [Chlef](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/chlef.txt)
+- [Laghouat](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/laghouat.txt)
+- [Oum El Bouaghi](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/oum-el-bouaghi.txt)
+- [Batna](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/batna.txt)
+- [Béjaïa](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bjaa.txt)
+- [Biskra](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/biskra.txt)
+- [Béchar](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bchar.txt)
+- [Blida](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/blida.txt)
+- [Bouira](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bouira.txt)
+- [Tamanrasset](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tamanrasset.txt)
+- [Tébessa](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tbessa.txt)
+- [Tlemcen](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tlemcen.txt)
+- [Tiaret](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tiaret.txt)
+- [Tizi Ouzou](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tizi-ouzou.txt)
+- [Alger](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/alger.txt)
+- [Djelfa](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/djelfa.txt)
+- [Jijel](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/jijel.txt)
+- [Sétif](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/stif.txt)
+- [Saïda](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/sada.txt)
+- [Skikda](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/skikda.txt)
+- [Sidi Bel Abbès](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/sidi-bel-abbs.txt)
+- [Annaba](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/annaba.txt)
+- [Guelma](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/guelma.txt)
+- [Constantine](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/constantine.txt)
+- [Médéa](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/mda.txt)
+- [Mostaganem](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/mostaganem.txt)
+- [M&#39;Sila](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/msila.txt)
+- [Mascara](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/mascara.txt)
+- [Ouargla](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/ouargla.txt)
+- [Oran](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/oran.txt)
+- [El Bayadh](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/el-bayadh.txt)
+- [Illizi](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/illizi.txt)
+- [Bordj Bou Arreridj](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bordj-bou-arreridj.txt)
+- [Boumerdès](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/boumerds.txt)
+- [El Tarf](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/el-tarf.txt)
+- [Tindouf](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tindouf.txt)
+- [Tissemsilt](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tissemsilt.txt)
+- [El Oued](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/el-oued.txt)
+- [Khenchela](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/khenchela.txt)
+- [Souk Ahras](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/souk-ahras.txt)
+- [Tipaza](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/tipaza.txt)
+- [Mila](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/mila.txt)
+- [Aïn Defla](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/an-defla.txt)
+- [Naâma](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/nama.txt)
+- [Aïn Témouchent](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/an-tmouchent.txt)
+- [Ghardaïa](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/ghardaa.txt)
+- [Relizane](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/relizane.txt)
+- [Timimoun](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/timimoun.txt)
+- [Bordj Badji Mokhtar](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bordj-badji-mokhtar.txt)
+- [Ouled Djellal](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/ouled-djellal.txt)
+- [Béni Abbès](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/bni-abbs.txt)
+- [In Salah](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/in-salah.txt)
+- [In Guezzam](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/in-guezzam.txt)
+- [Touggourt](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/touggourt.txt)
+- [Djanet](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/djanet.txt)
+- [El Meghaier](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/el-meghaier.txt)
+- [El Menia](https://raw.githubusercontent.com/open-admin-data/algeria-administrative-divisions/main/docs/llms-full/el-menia.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (wilaya), 2 (daira), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Algeria Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/algeria-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

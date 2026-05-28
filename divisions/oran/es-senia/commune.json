@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ031_es-senia_el-kerma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكرمة",
+      "en": "El Kerma",
+      "slug": "el-kerma"
+    },
+    "code": {
+      "id": "DZ031_es-senia_el-kerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_es-senia",
+      "level": 2,
+      "name": {
+        "local": "السانية",
+        "en": "Es Senia",
+        "slug": "es-senia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_es-senia",
+        "level": 2,
+        "name": {
+          "local": "السانية",
+          "en": "Es Senia",
+          "slug": "es-senia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31026"
+    ],
+    "geo": {
+      "lat": "35.656",
+      "lon": "-0.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_es-senia_es-senia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السانية",
+      "en": "Es Senia",
+      "slug": "es-senia"
+    },
+    "code": {
+      "id": "DZ031_es-senia_es-senia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_es-senia",
+      "level": 2,
+      "name": {
+        "local": "السانية",
+        "en": "Es Senia",
+        "slug": "es-senia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_es-senia",
+        "level": 2,
+        "name": {
+          "local": "السانية",
+          "en": "Es Senia",
+          "slug": "es-senia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31005"
+    ],
+    "geo": {
+      "lat": "35.645",
+      "lon": "-0.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_es-senia_sidi-chami",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي الشحمي",
+      "en": "Sidi Chami",
+      "slug": "sidi-chami"
+    },
+    "code": {
+      "id": "DZ031_es-senia_sidi-chami",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_es-senia",
+      "level": 2,
+      "name": {
+        "local": "السانية",
+        "en": "Es Senia",
+        "slug": "es-senia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_es-senia",
+        "level": 2,
+        "name": {
+          "local": "السانية",
+          "en": "Es Senia",
+          "slug": "es-senia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31038"
+    ],
+    "geo": {
+      "lat": "35.666",
+      "lon": "-0.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

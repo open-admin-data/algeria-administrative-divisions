@@ -1,0 +1,30 @@
+{
+  "id": "DZ036",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الطارف",
+    "en": "El Tarf",
+    "slug": "el-tarf"
+  },
+  "code": {
+    "id": "DZ036",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 7,
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.684",
+    "lon": "7.664"
+  },
+  "metadata": {},
+  "source": {}
+}

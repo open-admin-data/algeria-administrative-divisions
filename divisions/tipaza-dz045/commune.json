@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "DZ045001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghbal",
+      "en": "Aghbal",
+      "slug": "aghbal-dz045001"
+    },
+    "code": {
+      "id": "DZ045001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.513",
+      "lon": "1.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ahmer El Ain",
+      "en": "Ahmer El Ain",
+      "slug": "ahmer-el-ain-dz045002"
+    },
+    "code": {
+      "id": "DZ045002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.504",
+      "lon": "2.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tagourait",
+      "en": "Ain Tagourait",
+      "slug": "ain-tagourait-dz045003"
+    },
+    "code": {
+      "id": "DZ045003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.596",
+      "lon": "2.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Milleuk",
+      "en": "Beni Milleuk",
+      "slug": "beni-milleuk-dz045004"
+    },
+    "code": {
+      "id": "DZ045004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.426",
+      "lon": "1.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bou Ismail",
+      "en": "Bou Ismail",
+      "slug": "bou-ismail-dz045005"
+    },
+    "code": {
+      "id": "DZ045005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.644",
+      "lon": "2.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouharoun",
+      "en": "Bouharoun",
+      "slug": "bouharoun-dz045006"
+    },
+    "code": {
+      "id": "DZ045006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.616",
+      "lon": "2.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourkika",
+      "en": "Bourkika",
+      "slug": "bourkika-dz045007"
+    },
+    "code": {
+      "id": "DZ045007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.482",
+      "lon": "2.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chaiba",
+      "en": "Chaiba",
+      "slug": "chaiba-dz045008"
+    },
+    "code": {
+      "id": "DZ045008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.613",
+      "lon": "2.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cherchel",
+      "en": "Cherchel",
+      "slug": "cherchel-dz045009"
+    },
+    "code": {
+      "id": "DZ045009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.577",
+      "lon": "2.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Damous",
+      "en": "Damous",
+      "slug": "damous-dz045010"
+    },
+    "code": {
+      "id": "DZ045010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.505",
+      "lon": "1.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Douaouda",
+      "en": "Douaouda",
+      "slug": "douaouda-dz045011"
+    },
+    "code": {
+      "id": "DZ045011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.681",
+      "lon": "2.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fouka",
+      "en": "Fouka",
+      "slug": "fouka-dz045012"
+    },
+    "code": {
+      "id": "DZ045012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.665",
+      "lon": "2.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouraya",
+      "en": "Gouraya",
+      "slug": "gouraya-dz045013"
+    },
+    "code": {
+      "id": "DZ045013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.532",
+      "lon": "1.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadjeret Ennous",
+      "en": "Hadjeret Ennous",
+      "slug": "hadjeret-ennous-dz045014"
+    },
+    "code": {
+      "id": "DZ045014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.548",
+      "lon": "2.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadjout",
+      "en": "Hadjout",
+      "slug": "hadjout-dz045015"
+    },
+    "code": {
+      "id": "DZ045015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.527",
+      "lon": "2.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hattatba",
+      "en": "Hattatba",
+      "slug": "hattatba-dz045016"
+    },
+    "code": {
+      "id": "DZ045016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.564",
+      "lon": "2.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khemisti",
+      "en": "Khemisti",
+      "slug": "khemisti-dz045017"
+    },
+    "code": {
+      "id": "DZ045017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.623",
+      "lon": "2.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolea",
+      "en": "Kolea",
+      "slug": "kolea-dz045018"
+    },
+    "code": {
+      "id": "DZ045018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.629",
+      "lon": "2.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larhat",
+      "en": "Larhat",
+      "slug": "larhat-dz045019"
+    },
+    "code": {
+      "id": "DZ045019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.51",
+      "lon": "1.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Menaceur",
+      "en": "Menaceur",
+      "slug": "menaceur-dz045020"
+    },
+    "code": {
+      "id": "DZ045020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.504",
+      "lon": "2.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Messelmoun",
+      "en": "Messelmoun",
+      "slug": "messelmoun-dz045021"
+    },
+    "code": {
+      "id": "DZ045021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.49",
+      "lon": "2.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Meurad",
+      "en": "Meurad",
+      "slug": "meurad-dz045022"
+    },
+    "code": {
+      "id": "DZ045022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.471",
+      "lon": "2.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nador",
+      "en": "Nador",
+      "slug": "nador-dz045023"
+    },
+    "code": {
+      "id": "DZ045023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.588",
+      "lon": "2.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Amar",
+      "en": "Sidi Amar",
+      "slug": "sidi-amar-dz045024"
+    },
+    "code": {
+      "id": "DZ045024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.56",
+      "lon": "2.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ghiles",
+      "en": "Sidi Ghiles",
+      "slug": "sidi-ghiles-dz045025"
+    },
+    "code": {
+      "id": "DZ045025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.562",
+      "lon": "2.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Rached",
+      "en": "Sidi Rached",
+      "slug": "sidi-rached-dz045026"
+    },
+    "code": {
+      "id": "DZ045026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.558",
+      "lon": "2.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Semiane",
+      "en": "Sidi Semiane",
+      "slug": "sidi-semiane-dz045027"
+    },
+    "code": {
+      "id": "DZ045027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.48",
+      "lon": "2.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tipaza",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045028"
+    },
+    "code": {
+      "id": "DZ045028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza-dz045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.599",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

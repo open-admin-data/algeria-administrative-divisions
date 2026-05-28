@@ -1,0 +1,45 @@
+{
+  "id": "DZ006031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Lemcen",
+    "en": "Lemcen",
+    "slug": "lemcen-dz006031"
+  },
+  "code": {
+    "id": "DZ006031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.642",
+    "lon": "5.787"
+  },
+  "metadata": {},
+  "source": {}
+}

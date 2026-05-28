@@ -1,0 +1,45 @@
+{
+  "id": "DZ012005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Laloui",
+    "en": "Ain Laloui",
+    "slug": "ain-laloui-dz012005"
+  },
+  "code": {
+    "id": "DZ012005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira-dz012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.309",
+    "lon": "3.752"
+  },
+  "metadata": {},
+  "source": {}
+}

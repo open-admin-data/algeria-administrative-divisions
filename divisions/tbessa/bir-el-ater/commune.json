@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_bir-el-ater_bir-el-ater",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر العاتر",
+      "en": "Bir-El-Ater",
+      "slug": "bir-el-ater"
+    },
+    "code": {
+      "id": "DZ012_bir-el-ater_bir-el-ater",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_bir-el-ater",
+      "level": 2,
+      "name": {
+        "local": "بئر العاتر",
+        "en": "Bir El Ater",
+        "slug": "bir-el-ater"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_bir-el-ater",
+        "level": 2,
+        "name": {
+          "local": "بئر العاتر",
+          "en": "Bir El Ater",
+          "slug": "bir-el-ater"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12001"
+    ],
+    "geo": {
+      "lat": "34.685",
+      "lon": "8.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_bir-el-ater_el-ogla-el-malha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العقلة المالحة",
+      "en": "El Ogla El Malha",
+      "slug": "el-ogla-el-malha"
+    },
+    "code": {
+      "id": "DZ012_bir-el-ater_el-ogla-el-malha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_bir-el-ater",
+      "level": 2,
+      "name": {
+        "local": "بئر العاتر",
+        "en": "Bir El Ater",
+        "slug": "bir-el-ater"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_bir-el-ater",
+        "level": 2,
+        "name": {
+          "local": "بئر العاتر",
+          "en": "Bir El Ater",
+          "slug": "bir-el-ater"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12043"
+    ],
+    "geo": {
+      "lat": "35.141",
+      "lon": "8.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

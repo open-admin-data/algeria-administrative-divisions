@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ009_meftah_djebabra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جبابرة",
+      "en": "Djebabra",
+      "slug": "djebabra"
+    },
+    "code": {
+      "id": "DZ009_meftah_djebabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_meftah",
+      "level": 2,
+      "name": {
+        "local": "مفتاح",
+        "en": "Meftah",
+        "slug": "meftah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_meftah",
+        "level": 2,
+        "name": {
+          "local": "مفتاح",
+          "en": "Meftah",
+          "slug": "meftah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09028"
+    ],
+    "geo": {
+      "lat": "36.586",
+      "lon": "3.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_meftah_meftah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مفتاح",
+      "en": "Meftah",
+      "slug": "meftah"
+    },
+    "code": {
+      "id": "DZ009_meftah_meftah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_meftah",
+      "level": 2,
+      "name": {
+        "local": "مفتاح",
+        "en": "Meftah",
+        "slug": "meftah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_meftah",
+        "level": 2,
+        "name": {
+          "local": "مفتاح",
+          "en": "Meftah",
+          "slug": "meftah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09012"
+    ],
+    "geo": {
+      "lat": "36.626",
+      "lon": "3.229"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

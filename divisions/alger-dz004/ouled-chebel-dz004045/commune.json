@@ -1,0 +1,45 @@
+{
+  "id": "DZ004045",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Chebel",
+    "en": "Ouled Chebel",
+    "slug": "ouled-chebel-dz004045"
+  },
+  "code": {
+    "id": "DZ004045",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.612",
+    "lon": "2.994"
+  },
+  "metadata": {},
+  "source": {}
+}

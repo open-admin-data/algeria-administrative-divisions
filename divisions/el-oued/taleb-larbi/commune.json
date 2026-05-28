@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ039_taleb-larbi_ben-guecha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن  قشة",
+      "en": "Ben Guecha",
+      "slug": "ben-guecha"
+    },
+    "code": {
+      "id": "DZ039_taleb-larbi_ben-guecha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_taleb-larbi",
+      "level": 2,
+      "name": {
+        "local": "الطالب العربي",
+        "en": "Taleb Larbi",
+        "slug": "taleb-larbi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_taleb-larbi",
+        "level": 2,
+        "name": {
+          "local": "الطالب العربي",
+          "en": "Taleb Larbi",
+          "slug": "taleb-larbi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39048"
+    ],
+    "geo": {
+      "lat": "33.708",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_taleb-larbi_douar-el-maa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دوار الماء",
+      "en": "Douar El Maa",
+      "slug": "douar-el-maa"
+    },
+    "code": {
+      "id": "DZ039_taleb-larbi_douar-el-maa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_taleb-larbi",
+      "level": 2,
+      "name": {
+        "local": "الطالب العربي",
+        "en": "Taleb Larbi",
+        "slug": "taleb-larbi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_taleb-larbi",
+        "level": 2,
+        "name": {
+          "local": "الطالب العربي",
+          "en": "Taleb Larbi",
+          "slug": "taleb-larbi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39024"
+    ],
+    "geo": {
+      "lat": "33.708",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_taleb-larbi_taleb-larbi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطالب العربي",
+      "en": "Taleb Larbi",
+      "slug": "taleb-larbi"
+    },
+    "code": {
+      "id": "DZ039_taleb-larbi_taleb-larbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_taleb-larbi",
+      "level": 2,
+      "name": {
+        "local": "الطالب العربي",
+        "en": "Taleb Larbi",
+        "slug": "taleb-larbi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_taleb-larbi",
+        "level": 2,
+        "name": {
+          "local": "الطالب العربي",
+          "en": "Taleb Larbi",
+          "slug": "taleb-larbi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39019"
+    ],
+    "geo": {
+      "lat": "33.708",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

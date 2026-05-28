@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ016_draria_baba-hassen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بابا حسن",
+      "en": "Baba Hassen",
+      "slug": "baba-hassen"
+    },
+    "code": {
+      "id": "DZ016_draria_baba-hassen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_draria",
+      "level": 2,
+      "name": {
+        "local": "الدرارية",
+        "en": "Draria",
+        "slug": "draria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_draria",
+        "level": 2,
+        "name": {
+          "local": "الدرارية",
+          "en": "Draria",
+          "slug": "draria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16081"
+    ],
+    "geo": {
+      "lat": "36.697",
+      "lon": "2.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_draria_douira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدويرة",
+      "en": "Douira",
+      "slug": "douira"
+    },
+    "code": {
+      "id": "DZ016_draria_douira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_draria",
+      "level": 2,
+      "name": {
+        "local": "الدرارية",
+        "en": "Draria",
+        "slug": "draria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_draria",
+        "level": 2,
+        "name": {
+          "local": "الدرارية",
+          "en": "Draria",
+          "slug": "draria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16049"
+    ],
+    "geo": {
+      "lat": "36.703",
+      "lon": "2.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_draria_draria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدرارية",
+      "en": "Draria",
+      "slug": "draria"
+    },
+    "code": {
+      "id": "DZ016_draria_draria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_draria",
+      "level": 2,
+      "name": {
+        "local": "الدرارية",
+        "en": "Draria",
+        "slug": "draria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_draria",
+        "level": 2,
+        "name": {
+          "local": "الدرارية",
+          "en": "Draria",
+          "slug": "draria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16050"
+    ],
+    "geo": {
+      "lat": "36.716",
+      "lon": "3.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_draria_el-achour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العاشور",
+      "en": "El Achour",
+      "slug": "el-achour"
+    },
+    "code": {
+      "id": "DZ016_draria_el-achour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_draria",
+      "level": 2,
+      "name": {
+        "local": "الدرارية",
+        "en": "Draria",
+        "slug": "draria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_draria",
+        "level": 2,
+        "name": {
+          "local": "الدرارية",
+          "en": "Draria",
+          "slug": "draria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16104"
+    ],
+    "geo": {
+      "lat": "36.729",
+      "lon": "2.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_draria_khraissia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخرايسية",
+      "en": "Khraissia",
+      "slug": "khraissia"
+    },
+    "code": {
+      "id": "DZ016_draria_khraissia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_draria",
+      "level": 2,
+      "name": {
+        "local": "الدرارية",
+        "en": "Draria",
+        "slug": "draria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_draria",
+        "level": 2,
+        "name": {
+          "local": "الدرارية",
+          "en": "Draria",
+          "slug": "draria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16091"
+    ],
+    "geo": {
+      "lat": "36.672",
+      "lon": "2.993"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

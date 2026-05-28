@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ026_chahbounia_bouaiche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعيش",
+      "en": "Bouaiche",
+      "slug": "bouaiche"
+    },
+    "code": {
+      "id": "DZ026_chahbounia_bouaiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chahbounia",
+      "level": 2,
+      "name": {
+        "local": "الشهبونية",
+        "en": "Chahbounia",
+        "slug": "chahbounia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chahbounia",
+        "level": 2,
+        "name": {
+          "local": "الشهبونية",
+          "en": "Chahbounia",
+          "slug": "chahbounia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.614",
+      "lon": "2.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chahbounia_boughzoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوغزول",
+      "en": "Boughzoul",
+      "slug": "boughzoul"
+    },
+    "code": {
+      "id": "DZ026_chahbounia_boughzoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chahbounia",
+      "level": 2,
+      "name": {
+        "local": "الشهبونية",
+        "en": "Chahbounia",
+        "slug": "chahbounia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chahbounia",
+        "level": 2,
+        "name": {
+          "local": "الشهبونية",
+          "en": "Chahbounia",
+          "slug": "chahbounia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26023"
+    ],
+    "geo": {
+      "lat": "35.684",
+      "lon": "2.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_chahbounia_chabounia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشهبونية",
+      "en": "Chabounia",
+      "slug": "chabounia"
+    },
+    "code": {
+      "id": "DZ026_chahbounia_chabounia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_chahbounia",
+      "level": 2,
+      "name": {
+        "local": "الشهبونية",
+        "en": "Chahbounia",
+        "slug": "chahbounia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_chahbounia",
+        "level": 2,
+        "name": {
+          "local": "الشهبونية",
+          "en": "Chahbounia",
+          "slug": "chahbounia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26026"
+    ],
+    "geo": {
+      "lat": "35.649",
+      "lon": "2.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

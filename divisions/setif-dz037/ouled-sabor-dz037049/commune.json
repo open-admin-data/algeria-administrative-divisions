@@ -1,0 +1,45 @@
+{
+  "id": "DZ037049",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Sabor",
+    "en": "Ouled Sabor",
+    "slug": "ouled-sabor-dz037049"
+  },
+  "code": {
+    "id": "DZ037049",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.185",
+    "lon": "5.541"
+  },
+  "metadata": {},
+  "source": {}
+}

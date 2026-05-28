@@ -1,0 +1,237 @@
+[
+  {
+    "id": "DZ030_el-borma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البرمة",
+      "en": "El Borma",
+      "slug": "el-borma"
+    },
+    "code": {
+      "id": "DZ030_el-borma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.325",
+      "lon": "7.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_hassi-messaoud",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حاسي مسعود",
+      "en": "Hassi Messaoud",
+      "slug": "hassi-messaoud"
+    },
+    "code": {
+      "id": "DZ030_hassi-messaoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.54",
+      "lon": "5.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_ngoussa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "انقوسة",
+      "en": "N'goussa",
+      "slug": "ngoussa"
+    },
+    "code": {
+      "id": "DZ030_ngoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.358",
+      "lon": "5.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_ouargla",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    },
+    "code": {
+      "id": "DZ030_ouargla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.956",
+      "lon": "4.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_sidi-khouiled",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي خويلد",
+      "en": "Sidi Khouiled",
+      "slug": "sidi-khouiled"
+    },
+    "code": {
+      "id": "DZ030_sidi-khouiled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.348",
+      "lon": "6.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

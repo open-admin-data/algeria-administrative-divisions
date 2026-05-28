@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ016_zeralda_maalma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعالمة",
+      "en": "Maalma",
+      "slug": "maalma"
+    },
+    "code": {
+      "id": "DZ016_zeralda_maalma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_zeralda",
+      "level": 2,
+      "name": {
+        "local": "زرالدة",
+        "en": "Zeralda",
+        "slug": "zeralda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_zeralda",
+        "level": 2,
+        "name": {
+          "local": "زرالدة",
+          "en": "Zeralda",
+          "slug": "zeralda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16093"
+    ],
+    "geo": {
+      "lat": "36.709",
+      "lon": "2.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_zeralda_rahmania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرحمانية",
+      "en": "Rahmania",
+      "slug": "rahmania"
+    },
+    "code": {
+      "id": "DZ016_zeralda_rahmania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_zeralda",
+      "level": 2,
+      "name": {
+        "local": "زرالدة",
+        "en": "Zeralda",
+        "slug": "zeralda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_zeralda",
+        "level": 2,
+        "name": {
+          "local": "زرالدة",
+          "en": "Zeralda",
+          "slug": "zeralda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16121"
+    ],
+    "geo": {
+      "lat": "36.683",
+      "lon": "2.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_zeralda_souidania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سويدانية",
+      "en": "Souidania",
+      "slug": "souidania"
+    },
+    "code": {
+      "id": "DZ016_zeralda_souidania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_zeralda",
+      "level": 2,
+      "name": {
+        "local": "زرالدة",
+        "en": "Zeralda",
+        "slug": "zeralda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_zeralda",
+        "level": 2,
+        "name": {
+          "local": "زرالدة",
+          "en": "Zeralda",
+          "slug": "zeralda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16097"
+    ],
+    "geo": {
+      "lat": "36.715",
+      "lon": "2.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_zeralda_staoueli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سطاوالي",
+      "en": "Staoueli",
+      "slug": "staoueli"
+    },
+    "code": {
+      "id": "DZ016_zeralda_staoueli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_zeralda",
+      "level": 2,
+      "name": {
+        "local": "زرالدة",
+        "en": "Zeralda",
+        "slug": "zeralda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_zeralda",
+        "level": 2,
+        "name": {
+          "local": "زرالدة",
+          "en": "Zeralda",
+          "slug": "zeralda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16062"
+    ],
+    "geo": {
+      "lat": "36.744",
+      "lon": "2.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_zeralda_zeralda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زرالدة",
+      "en": "Zeralda",
+      "slug": "zeralda"
+    },
+    "code": {
+      "id": "DZ016_zeralda_zeralda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_zeralda",
+      "level": 2,
+      "name": {
+        "local": "زرالدة",
+        "en": "Zeralda",
+        "slug": "zeralda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_zeralda",
+        "level": 2,
+        "name": {
+          "local": "زرالدة",
+          "en": "Zeralda",
+          "slug": "zeralda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16063"
+    ],
+    "geo": {
+      "lat": "36.696",
+      "lon": "2.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

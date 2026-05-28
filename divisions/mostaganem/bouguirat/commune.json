@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ027_bouguirat_bouguirat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقيراط",
+      "en": "Bouguirat",
+      "slug": "bouguirat"
+    },
+    "code": {
+      "id": "DZ027_bouguirat_bouguirat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_bouguirat",
+      "level": 2,
+      "name": {
+        "local": "بوقيراط",
+        "en": "Bouguirat",
+        "slug": "bouguirat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_bouguirat",
+        "level": 2,
+        "name": {
+          "local": "بوقيراط",
+          "en": "Bouguirat",
+          "slug": "bouguirat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27003"
+    ],
+    "geo": {
+      "lat": "35.77",
+      "lon": "0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_bouguirat_safsaf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صفصاف",
+      "en": "Safsaf",
+      "slug": "safsaf"
+    },
+    "code": {
+      "id": "DZ027_bouguirat_safsaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_bouguirat",
+      "level": 2,
+      "name": {
+        "local": "بوقيراط",
+        "en": "Bouguirat",
+        "slug": "bouguirat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_bouguirat",
+        "level": 2,
+        "name": {
+          "local": "بوقيراط",
+          "en": "Bouguirat",
+          "slug": "bouguirat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.87",
+      "lon": "0.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_bouguirat_sirat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيرات",
+      "en": "Sirat",
+      "slug": "sirat"
+    },
+    "code": {
+      "id": "DZ027_bouguirat_sirat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_bouguirat",
+      "level": 2,
+      "name": {
+        "local": "بوقيراط",
+        "en": "Bouguirat",
+        "slug": "bouguirat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_bouguirat",
+        "level": 2,
+        "name": {
+          "local": "بوقيراط",
+          "en": "Bouguirat",
+          "slug": "bouguirat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27021"
+    ],
+    "geo": {
+      "lat": "35.737",
+      "lon": "0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_bouguirat_souaflia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السوافلية",
+      "en": "Souaflia",
+      "slug": "souaflia"
+    },
+    "code": {
+      "id": "DZ027_bouguirat_souaflia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_bouguirat",
+      "level": 2,
+      "name": {
+        "local": "بوقيراط",
+        "en": "Bouguirat",
+        "slug": "bouguirat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_bouguirat",
+        "level": 2,
+        "name": {
+          "local": "بوقيراط",
+          "en": "Bouguirat",
+          "slug": "bouguirat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27046"
+    ],
+    "geo": {
+      "lat": "35.85",
+      "lon": "0.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

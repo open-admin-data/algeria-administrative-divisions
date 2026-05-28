@@ -1,0 +1,44 @@
+# Tamanrasset — Algeria Administrative Divisions
+
+> 3 dairas, 5 communes
+> Code: DZ011
+> Coordinates: 24.355, 4.451
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### سيلت (Silet)
+
+Code: DZ011_silet, Coordinates: 24.355, 4.451
+Communes: 1
+
+#### ابلسة (Abelsa)
+
+Code: DZ011_silet_abelsa, Postal: 11007, Coordinates: 24.355, 4.451
+
+### تمنراست (Tamanrasset)
+
+Code: DZ011_tamanrasset, Coordinates: 22.271, 5.775
+Communes: 2
+
+#### عين امقل (Ain Amguel)
+
+Code: DZ011_tamanrasset_ain-amguel, Postal: 11003, Coordinates: 22.271, 5.775
+
+#### تمنراست (Tamanrasset)
+
+Code: DZ011_tamanrasset_tamanrasset, Postal: 11000, Coordinates: 22.271, 5.775
+
+### تاظروك (Tazrouk)
+
+Code: DZ011_tazrouk, Coordinates: 24.017, 7.045
+Communes: 2
+
+#### أدلس (Idles)
+
+Code: DZ011_tazrouk_idles, Postal: 11013, Coordinates: 25.366, 5.869
+
+#### تاظروك (Tazrouk)
+
+Code: DZ011_tazrouk_tazrouk, Postal: 11010, Coordinates: 22.668, 8.22
+

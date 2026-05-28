@@ -1,0 +1,47 @@
+{
+  "id": "DZ014_mahdia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مهدية",
+    "en": "Mahdia",
+    "slug": "mahdia"
+  },
+  "code": {
+    "id": "DZ014_mahdia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.379",
+    "lon": "1.751"
+  },
+  "metadata": {},
+  "source": {}
+}

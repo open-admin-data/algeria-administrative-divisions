@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_bordj-okhriss",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج أوخريص",
+    "en": "Bordj Okhriss",
+    "slug": "bordj-okhriss"
+  },
+  "code": {
+    "id": "DZ010_bordj-okhriss",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.012",
+    "lon": "3.941"
+  },
+  "metadata": {},
+  "source": {}
+}

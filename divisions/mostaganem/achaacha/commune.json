@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ027_achaacha_achaacha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عشعاشة",
+      "en": "Achaacha",
+      "slug": "achaacha"
+    },
+    "code": {
+      "id": "DZ027_achaacha_achaacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_achaacha",
+      "level": 2,
+      "name": {
+        "local": "عشعاشة",
+        "en": "Achaacha",
+        "slug": "achaacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_achaacha",
+        "level": 2,
+        "name": {
+          "local": "عشعاشة",
+          "en": "Achaacha",
+          "slug": "achaacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27009"
+    ],
+    "geo": {
+      "lat": "36.264",
+      "lon": "0.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_achaacha_khadra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خضرة",
+      "en": "Khadra",
+      "slug": "khadra"
+    },
+    "code": {
+      "id": "DZ027_achaacha_khadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_achaacha",
+      "level": 2,
+      "name": {
+        "local": "عشعاشة",
+        "en": "Achaacha",
+        "slug": "achaacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_achaacha",
+        "level": 2,
+        "name": {
+          "local": "عشعاشة",
+          "en": "Achaacha",
+          "slug": "achaacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27005"
+    ],
+    "geo": {
+      "lat": "36.235",
+      "lon": "0.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_achaacha_nekmaria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "نكمارية",
+      "en": "Nekmaria",
+      "slug": "nekmaria"
+    },
+    "code": {
+      "id": "DZ027_achaacha_nekmaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_achaacha",
+      "level": 2,
+      "name": {
+        "local": "عشعاشة",
+        "en": "Achaacha",
+        "slug": "achaacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_achaacha",
+        "level": 2,
+        "name": {
+          "local": "عشعاشة",
+          "en": "Achaacha",
+          "slug": "achaacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27026"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "0.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_achaacha_ouled-boughalem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد بوغالم",
+      "en": "Ouled Boughalem",
+      "slug": "ouled-boughalem"
+    },
+    "code": {
+      "id": "DZ027_achaacha_ouled-boughalem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_achaacha",
+      "level": 2,
+      "name": {
+        "local": "عشعاشة",
+        "en": "Achaacha",
+        "slug": "achaacha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_achaacha",
+        "level": 2,
+        "name": {
+          "local": "عشعاشة",
+          "en": "Achaacha",
+          "slug": "achaacha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27027"
+    ],
+    "geo": {
+      "lat": "36.294",
+      "lon": "0.698"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ014028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Abderrahmane",
+    "en": "Sidi Abderrahmane",
+    "slug": "sidi-abderrahmane-dz014028"
+  },
+  "code": {
+    "id": "DZ014028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.48",
+    "lon": "1.129"
+  },
+  "metadata": {},
+  "source": {}
+}

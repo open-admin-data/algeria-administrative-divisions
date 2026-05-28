@@ -1,0 +1,660 @@
+[
+  {
+    "id": "DZ044_ain-defla",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain Defla",
+      "slug": "ain-defla"
+    },
+    "code": {
+      "id": "DZ044_ain-defla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.257",
+      "lon": "1.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_ain-lechiakh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الاشياخ",
+      "en": "Ain Lechiakh",
+      "slug": "ain-lechiakh"
+    },
+    "code": {
+      "id": "DZ044_ain-lechiakh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.117",
+      "lon": "4.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bathia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بطحية",
+      "en": "Bathia",
+      "slug": "bathia"
+    },
+    "code": {
+      "id": "DZ044_bathia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.977",
+      "lon": "1.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bordj-el-emir-khaled",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج الأمير خالد",
+      "en": "Bordj El Emir Khaled",
+      "slug": "bordj-el-emir-khaled"
+    },
+    "code": {
+      "id": "DZ044_bordj-el-emir-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.044",
+      "lon": "2.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_boumedfaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بومدفع",
+      "en": "Boumedfaa",
+      "slug": "boumedfaa"
+    },
+    "code": {
+      "id": "DZ044_boumedfaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.354",
+      "lon": "2.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djelida",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جليدة",
+      "en": "Djelida",
+      "slug": "djelida"
+    },
+    "code": {
+      "id": "DZ044_djelida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.143",
+      "lon": "1.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djendel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جندل",
+      "en": "Djendel",
+      "slug": "djendel"
+    },
+    "code": {
+      "id": "DZ044_djendel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.198",
+      "lon": "2.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-abadia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العبادية",
+      "en": "El Abadia",
+      "slug": "el-abadia"
+    },
+    "code": {
+      "id": "DZ044_el-abadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.345",
+      "lon": "1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-amra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العامرة",
+      "en": "El Amra",
+      "slug": "el-amra"
+    },
+    "code": {
+      "id": "DZ044_el-amra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.351",
+      "lon": "1.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-attaf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العطاف",
+      "en": "El Attaf",
+      "slug": "el-attaf"
+    },
+    "code": {
+      "id": "DZ044_el-attaf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.185",
+      "lon": "1.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_hammam-righa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام ريغة",
+      "en": "Hammam Righa",
+      "slug": "hammam-righa"
+    },
+    "code": {
+      "id": "DZ044_hammam-righa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.513",
+      "lon": "2.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_khemis",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خميس",
+      "en": "Khemis",
+      "slug": "khemis"
+    },
+    "code": {
+      "id": "DZ044_khemis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.22",
+      "lon": "1.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_miliana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مليانة",
+      "en": "Miliana",
+      "slug": "miliana"
+    },
+    "code": {
+      "id": "DZ044_miliana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.334",
+      "lon": "2.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_rouina",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الروينة",
+      "en": "Rouina",
+      "slug": "rouina"
+    },
+    "code": {
+      "id": "DZ044_rouina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.184",
+      "lon": "1.839"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

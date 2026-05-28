@@ -1,0 +1,378 @@
+[
+  {
+    "id": "DZ046_ain-kihel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الكيحل",
+      "en": "Ain Kihel",
+      "slug": "ain-kihel"
+    },
+    "code": {
+      "id": "DZ046_ain-kihel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.224",
+      "lon": "-1.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-larbaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الأربعاء",
+      "en": "Ain Larbaa",
+      "slug": "ain-larbaa"
+    },
+    "code": {
+      "id": "DZ046_ain-larbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.389",
+      "lon": "-0.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-temouchent",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain Temouchent",
+      "slug": "ain-temouchent"
+    },
+    "code": {
+      "id": "DZ046_ain-temouchent",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.297",
+      "lon": "-1.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_beni-saf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني صاف",
+      "en": "Beni Saf",
+      "slug": "beni-saf"
+    },
+    "code": {
+      "id": "DZ046_beni-saf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.78",
+      "lon": "1.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-amria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "El Amria",
+      "slug": "el-amria"
+    },
+    "code": {
+      "id": "DZ046_el-amria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.516",
+      "lon": "-1.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_el-maleh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المالح",
+      "en": "El Maleh",
+      "slug": "el-maleh"
+    },
+    "code": {
+      "id": "DZ046_el-maleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.386",
+      "lon": "-1.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_hammam-bou-hadjar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام بوحجر",
+      "en": "Hammam Bou Hadjar",
+      "slug": "hammam-bou-hadjar"
+    },
+    "code": {
+      "id": "DZ046_hammam-bou-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.253",
+      "lon": "-0.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_oulhassa-gheraba",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ولهاصة الغرابة",
+      "en": "Oulhassa Gheraba",
+      "slug": "oulhassa-gheraba"
+    },
+    "code": {
+      "id": "DZ046_oulhassa-gheraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.429",
+      "lon": "-0.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

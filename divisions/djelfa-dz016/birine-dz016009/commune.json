@@ -1,0 +1,45 @@
+{
+  "id": "DZ016009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Birine",
+    "en": "Birine",
+    "slug": "birine-dz016009"
+  },
+  "code": {
+    "id": "DZ016009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.653",
+    "lon": "3.259"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ037013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bazer Sakra",
+    "en": "Bazer Sakra",
+    "slug": "bazer-sakra-dz037013"
+  },
+  "code": {
+    "id": "DZ037013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.083",
+    "lon": "5.678"
+  },
+  "metadata": {},
+  "source": {}
+}

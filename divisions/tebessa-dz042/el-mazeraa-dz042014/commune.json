@@ -1,0 +1,45 @@
+{
+  "id": "DZ042014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Mazeraa",
+    "en": "El Mazeraa",
+    "slug": "el-mazeraa-dz042014"
+  },
+  "code": {
+    "id": "DZ042014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.156",
+    "lon": "7.584"
+  },
+  "metadata": {},
+  "source": {}
+}

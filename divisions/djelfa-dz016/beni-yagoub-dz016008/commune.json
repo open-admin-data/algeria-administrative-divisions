@@ -1,0 +1,45 @@
+{
+  "id": "DZ016008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Yagoub",
+    "en": "Beni Yagoub",
+    "slug": "beni-yagoub-dz016008"
+  },
+  "code": {
+    "id": "DZ016008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.479",
+    "lon": "2.814"
+  },
+  "metadata": {},
+  "source": {}
+}

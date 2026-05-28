@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ008_kenadsa_kenadsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القنادسة",
+      "en": "Kenadsa",
+      "slug": "kenadsa"
+    },
+    "code": {
+      "id": "DZ008_kenadsa_kenadsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_kenadsa",
+      "level": 2,
+      "name": {
+        "local": "القنادسة",
+        "en": "Kenadsa",
+        "slug": "kenadsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_kenadsa",
+        "level": 2,
+        "name": {
+          "local": "القنادسة",
+          "en": "Kenadsa",
+          "slug": "kenadsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08011"
+    ],
+    "geo": {
+      "lat": "31.497",
+      "lon": "-2.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_kenadsa_meridja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المريجة",
+      "en": "Meridja",
+      "slug": "meridja"
+    },
+    "code": {
+      "id": "DZ008_kenadsa_meridja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_kenadsa",
+      "level": 2,
+      "name": {
+        "local": "القنادسة",
+        "en": "Kenadsa",
+        "slug": "kenadsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_kenadsa",
+        "level": 2,
+        "name": {
+          "local": "القنادسة",
+          "en": "Kenadsa",
+          "slug": "kenadsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08041"
+    ],
+    "geo": {
+      "lat": "31.547",
+      "lon": "-3.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

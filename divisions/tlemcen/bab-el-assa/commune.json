@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_bab-el-assa_bab-el-assa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "باب العسة",
+      "en": "Bab El Assa",
+      "slug": "bab-el-assa"
+    },
+    "code": {
+      "id": "DZ013_bab-el-assa_bab-el-assa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_bab-el-assa",
+      "level": 2,
+      "name": {
+        "local": "باب العسة",
+        "en": "Bab El Assa",
+        "slug": "bab-el-assa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_bab-el-assa",
+        "level": 2,
+        "name": {
+          "local": "باب العسة",
+          "en": "Bab El Assa",
+          "slug": "bab-el-assa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13014"
+    ],
+    "geo": {
+      "lat": "34.977",
+      "lon": "-2.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_bab-el-assa_souani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السواني",
+      "en": "Souani",
+      "slug": "souani"
+    },
+    "code": {
+      "id": "DZ013_bab-el-assa_souani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_bab-el-assa",
+      "level": 2,
+      "name": {
+        "local": "باب العسة",
+        "en": "Bab El Assa",
+        "slug": "bab-el-assa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_bab-el-assa",
+        "level": 2,
+        "name": {
+          "local": "باب العسة",
+          "en": "Bab El Assa",
+          "slug": "bab-el-assa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13046"
+    ],
+    "geo": {
+      "lat": "34.931",
+      "lon": "-1.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_bab-el-assa_souk-tleta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق الثلاثاء",
+      "en": "Souk Tleta",
+      "slug": "souk-tleta"
+    },
+    "code": {
+      "id": "DZ013_bab-el-assa_souk-tleta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_bab-el-assa",
+      "level": 2,
+      "name": {
+        "local": "باب العسة",
+        "en": "Bab El Assa",
+        "slug": "bab-el-assa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_bab-el-assa",
+        "level": 2,
+        "name": {
+          "local": "باب العسة",
+          "en": "Bab El Assa",
+          "slug": "bab-el-assa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13078"
+    ],
+    "geo": {
+      "lat": "34.954",
+      "lon": "-1.972"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

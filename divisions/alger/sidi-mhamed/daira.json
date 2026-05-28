@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_sidi-mhamed",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي امحمد",
+    "en": "Sidi M'hamed",
+    "slug": "sidi-mhamed"
+  },
+  "code": {
+    "id": "DZ016_sidi-mhamed",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.091",
+    "lon": "3.48"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ029010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hadjadj",
+    "en": "Hadjadj",
+    "slug": "hadjadj-dz029010"
+  },
+  "code": {
+    "id": "DZ029010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.126",
+    "lon": "0.33"
+  },
+  "metadata": {},
+  "source": {}
+}

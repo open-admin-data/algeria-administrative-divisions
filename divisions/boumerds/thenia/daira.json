@@ -1,0 +1,47 @@
+{
+  "id": "DZ035_thenia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الثنية",
+    "en": "Thenia",
+    "slug": "thenia"
+  },
+  "code": {
+    "id": "DZ035_thenia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.49",
+    "lon": "2.996"
+  },
+  "metadata": {},
+  "source": {}
+}

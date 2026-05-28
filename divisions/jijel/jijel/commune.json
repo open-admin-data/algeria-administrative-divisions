@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ018_jijel_jijel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel"
+    },
+    "code": {
+      "id": "DZ018_jijel_jijel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_jijel",
+      "level": 2,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_jijel",
+        "level": 2,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18000"
+    ],
+    "geo": {
+      "lat": "36.798",
+      "lon": "5.745"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

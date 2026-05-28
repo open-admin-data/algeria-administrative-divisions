@@ -1,0 +1,112 @@
+[
+  {
+    "id": "DZ013_beni-boussaid_beni-boussaid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني بوسعيد",
+      "en": "Beni Boussaid",
+      "slug": "beni-boussaid"
+    },
+    "code": {
+      "id": "DZ013_beni-boussaid_beni-boussaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_beni-boussaid",
+      "level": 2,
+      "name": {
+        "local": "بني بوسعيد",
+        "en": "Beni Boussaid",
+        "slug": "beni-boussaid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_beni-boussaid",
+        "level": 2,
+        "name": {
+          "local": "بني بوسعيد",
+          "en": "Beni Boussaid",
+          "slug": "beni-boussaid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.636",
+      "lon": "-1.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_beni-boussaid_sidi-medjahed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي مجاهد",
+      "en": "Sidi Medjahed",
+      "slug": "sidi-medjahed"
+    },
+    "code": {
+      "id": "DZ013_beni-boussaid_sidi-medjahed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_beni-boussaid",
+      "level": 2,
+      "name": {
+        "local": "بني بوسعيد",
+        "en": "Beni Boussaid",
+        "slug": "beni-boussaid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_beni-boussaid",
+        "level": 2,
+        "name": {
+          "local": "بني بوسعيد",
+          "en": "Beni Boussaid",
+          "slug": "beni-boussaid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13044"
+    ],
+    "geo": {
+      "lat": "34.757",
+      "lon": "-1.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_el-matmar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "المطمر",
+    "en": "El Matmar",
+    "slug": "el-matmar"
+  },
+  "code": {
+    "id": "DZ048_el-matmar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.736",
+    "lon": "0.543"
+  },
+  "metadata": {},
+  "source": {}
+}

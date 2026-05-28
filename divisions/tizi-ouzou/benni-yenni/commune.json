@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_benni-yenni_beni-yenni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني يني",
+      "en": "Beni-Yenni",
+      "slug": "beni-yenni"
+    },
+    "code": {
+      "id": "DZ015_benni-yenni_beni-yenni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_benni-yenni",
+      "level": 2,
+      "name": {
+        "local": "بني يني",
+        "en": "Benni Yenni",
+        "slug": "benni-yenni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_benni-yenni",
+        "level": 2,
+        "name": {
+          "local": "بني يني",
+          "en": "Benni Yenni",
+          "slug": "benni-yenni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15029"
+    ],
+    "geo": {
+      "lat": "36.581",
+      "lon": "4.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_benni-yenni_iboudrarene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إبودرارن",
+      "en": "Iboudrarene",
+      "slug": "iboudrarene"
+    },
+    "code": {
+      "id": "DZ015_benni-yenni_iboudrarene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_benni-yenni",
+      "level": 2,
+      "name": {
+        "local": "بني يني",
+        "en": "Benni Yenni",
+        "slug": "benni-yenni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_benni-yenni",
+        "level": 2,
+        "name": {
+          "local": "بني يني",
+          "en": "Benni Yenni",
+          "slug": "benni-yenni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15073"
+    ],
+    "geo": {
+      "lat": "36.581",
+      "lon": "4.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_benni-yenni_yatafene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يطــافن",
+      "en": "Yatafene",
+      "slug": "yatafene"
+    },
+    "code": {
+      "id": "DZ015_benni-yenni_yatafene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_benni-yenni",
+      "level": 2,
+      "name": {
+        "local": "بني يني",
+        "en": "Benni Yenni",
+        "slug": "benni-yenni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_benni-yenni",
+        "level": 2,
+        "name": {
+          "local": "بني يني",
+          "en": "Benni Yenni",
+          "slug": "benni-yenni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15052"
+    ],
+    "geo": {
+      "lat": "36.581",
+      "lon": "4.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

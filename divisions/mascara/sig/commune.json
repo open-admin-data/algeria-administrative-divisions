@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_sig_bou-henni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوهني",
+      "en": "Bou Henni",
+      "slug": "bou-henni"
+    },
+    "code": {
+      "id": "DZ029_sig_bou-henni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_sig",
+      "level": 2,
+      "name": {
+        "local": "سيق",
+        "en": "Sig",
+        "slug": "sig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_sig",
+        "level": 2,
+        "name": {
+          "local": "سيق",
+          "en": "Sig",
+          "slug": "sig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29022"
+    ],
+    "geo": {
+      "lat": "35.478",
+      "lon": "-0.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_sig_chorfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشرفاء",
+      "en": "Chorfa",
+      "slug": "chorfa"
+    },
+    "code": {
+      "id": "DZ029_sig_chorfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_sig",
+      "level": 2,
+      "name": {
+        "local": "سيق",
+        "en": "Sig",
+        "slug": "sig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_sig",
+        "level": 2,
+        "name": {
+          "local": "سيق",
+          "en": "Sig",
+          "slug": "sig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10019"
+    ],
+    "geo": {
+      "lat": "35.425",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_sig_sig",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيق",
+      "en": "Sig",
+      "slug": "sig"
+    },
+    "code": {
+      "id": "DZ029_sig_sig",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_sig",
+      "level": 2,
+      "name": {
+        "local": "سيق",
+        "en": "Sig",
+        "slug": "sig"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_sig",
+        "level": 2,
+        "name": {
+          "local": "سيق",
+          "en": "Sig",
+          "slug": "sig"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29001"
+    ],
+    "geo": {
+      "lat": "35.531",
+      "lon": "-0.165"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

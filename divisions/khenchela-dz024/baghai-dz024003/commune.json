@@ -1,0 +1,45 @@
+{
+  "id": "DZ024003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Baghai",
+    "en": "Baghai",
+    "slug": "baghai-dz024003"
+  },
+  "code": {
+    "id": "DZ024003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela-dz024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.52",
+    "lon": "7.185"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ048_ain-tarek,عين طارق,Ain Tarek,ain-tarek,DZ048_ain-tarek,2,35.776,1.168
+DZ048_ammi-moussa,عمي موسى,Ammi Moussa,ammi-moussa,DZ048_ammi-moussa,4,35.791,1.117
+DZ048_djidiouia,جديوية,Djidiouia,djidiouia,DZ048_djidiouia,3,35.96,0.748
+DZ048_el-hmadna,الحمادنة,El H'madna,el-hmadna,DZ048_el-hmadna,2,35.868,0.706
+DZ048_el-matmar,المطمر,El Matmar,el-matmar,DZ048_el-matmar,4,35.736,0.543
+DZ048_mazouna,مازونة,Mazouna,mazouna,DZ048_mazouna,2,36.097,0.86
+DZ048_mendes,منداس,Mendes,mendes,DZ048_mendes,3,35.611,0.852
+DZ048_oued-rhiou,وادي رهيو,Oued Rhiou,oued-rhiou,DZ048_oued-rhiou,4,35.969,0.918
+DZ048_ramka,الرمكة,Ramka,ramka,DZ048_ramka,2,35.897,1.296
+DZ048_relizane,غليزان,Relizane,relizane,DZ048_relizane,2,35.892,2.377
+DZ048_sidi-mhamed-ben-ali,سيدي أمحمد بن علي,Sidi M'hamed Ben Ali,sidi-mhamed-ben-ali,DZ048_sidi-mhamed-ben-ali,3,36.118,0.707
+DZ048_yellel,يلل,Yellel,yellel,DZ048_yellel,4,35.675,0.35
+DZ048_zemmoura,زمورة,Zemmoura,zemmoura,DZ048_zemmoura,3,35.792,0.829

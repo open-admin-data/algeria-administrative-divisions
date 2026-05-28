@@ -1,0 +1,45 @@
+{
+  "id": "DZ005007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hadjar",
+    "en": "El Hadjar",
+    "slug": "el-hadjar-dz005007"
+  },
+  "code": {
+    "id": "DZ005007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba-dz005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.777",
+    "lon": "7.681"
+  },
+  "metadata": {},
+  "source": {}
+}

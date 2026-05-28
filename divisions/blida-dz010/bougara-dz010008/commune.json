@@ -1,0 +1,45 @@
+{
+  "id": "DZ010008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bougara",
+    "en": "Bougara",
+    "slug": "bougara-dz010008"
+  },
+  "code": {
+    "id": "DZ010008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.497",
+    "lon": "3.096"
+  },
+  "metadata": {},
+  "source": {}
+}

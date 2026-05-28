@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_marsa-ben-mehdi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مرسى بن مهيدي",
+    "en": "Marsa Ben Mehdi",
+    "slug": "marsa-ben-mehdi"
+  },
+  "code": {
+    "id": "DZ013_marsa-ben-mehdi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.023",
+    "lon": "-2.088"
+  },
+  "metadata": {},
+  "source": {}
+}

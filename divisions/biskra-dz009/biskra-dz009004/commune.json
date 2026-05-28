@@ -1,0 +1,45 @@
+{
+  "id": "DZ009004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Biskra",
+    "en": "Biskra",
+    "slug": "biskra-dz009004"
+  },
+  "code": {
+    "id": "DZ009004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.852",
+    "lon": "5.726"
+  },
+  "metadata": {},
+  "source": {}
+}

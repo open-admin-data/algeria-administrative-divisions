@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_mostaganem",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مستغانم",
+    "en": "Mostaganem",
+    "slug": "mostaganem"
+  },
+  "code": {
+    "id": "DZ027_mostaganem",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.978",
+    "lon": "0.109"
+  },
+  "metadata": {},
+  "source": {}
+}

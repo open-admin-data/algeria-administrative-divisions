@@ -1,0 +1,45 @@
+{
+  "id": "DZ017015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kef El Ahmar",
+    "en": "Kef El Ahmar",
+    "slug": "kef-el-ahmar-dz017015"
+  },
+  "code": {
+    "id": "DZ017015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.84",
+    "lon": "0.622"
+  },
+  "metadata": {},
+  "source": {}
+}

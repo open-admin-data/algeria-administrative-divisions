@@ -1,0 +1,45 @@
+{
+  "id": "DZ027047",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouzera",
+    "en": "Ouzera",
+    "slug": "ouzera-dz027047"
+  },
+  "code": {
+    "id": "DZ027047",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.265",
+    "lon": "2.892"
+  },
+  "metadata": {},
+  "source": {}
+}

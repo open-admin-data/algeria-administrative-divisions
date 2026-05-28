@@ -1,0 +1,45 @@
+{
+  "id": "DZ006028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ksar Belezma",
+    "en": "Ksar Belezma",
+    "slug": "ksar-belezma-dz006028"
+  },
+  "code": {
+    "id": "DZ006028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.731",
+    "lon": "5.892"
+  },
+  "metadata": {},
+  "source": {}
+}

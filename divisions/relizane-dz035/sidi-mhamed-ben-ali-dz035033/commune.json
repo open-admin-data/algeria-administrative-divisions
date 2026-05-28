@@ -1,0 +1,45 @@
+{
+  "id": "DZ035033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi M'Hamed Ben Ali",
+    "en": "Sidi M'Hamed Ben Ali",
+    "slug": "sidi-mhamed-ben-ali-dz035033"
+  },
+  "code": {
+    "id": "DZ035033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.173",
+    "lon": "0.876"
+  },
+  "metadata": {},
+  "source": {}
+}

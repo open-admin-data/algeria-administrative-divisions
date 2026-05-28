@@ -1,0 +1,45 @@
+{
+  "id": "DZ032019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Marsat El Hadjadj",
+    "en": "Marsat El Hadjadj",
+    "slug": "marsat-el-hadjadj-dz032019"
+  },
+  "code": {
+    "id": "DZ032019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.752",
+    "lon": "-0.174"
+  },
+  "metadata": {},
+  "source": {}
+}

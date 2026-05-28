@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_guidjel_guidjel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قجال",
+      "en": "Guidjel",
+      "slug": "guidjel"
+    },
+    "code": {
+      "id": "DZ019_guidjel_guidjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_guidjel",
+      "level": 2,
+      "name": {
+        "local": "قجال",
+        "en": "Guidjel",
+        "slug": "guidjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_guidjel",
+        "level": 2,
+        "name": {
+          "local": "قجال",
+          "en": "Guidjel",
+          "slug": "guidjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19027"
+    ],
+    "geo": {
+      "lat": "36.083",
+      "lon": "5.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_guidjel_ouled-sabor",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد صابر",
+      "en": "Ouled Sabor",
+      "slug": "ouled-sabor"
+    },
+    "code": {
+      "id": "DZ019_guidjel_ouled-sabor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_guidjel",
+      "level": 2,
+      "name": {
+        "local": "قجال",
+        "en": "Guidjel",
+        "slug": "guidjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_guidjel",
+        "level": 2,
+        "name": {
+          "local": "قجال",
+          "en": "Guidjel",
+          "slug": "guidjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19120"
+    ],
+    "geo": {
+      "lat": "36.185",
+      "lon": "5.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

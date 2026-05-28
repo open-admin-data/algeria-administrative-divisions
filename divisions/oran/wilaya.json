@@ -1,0 +1,30 @@
+{
+  "id": "DZ031",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "وهران",
+    "en": "Oran",
+    "slug": "oran"
+  },
+  "code": {
+    "id": "DZ031",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 9,
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.623",
+    "lon": "-0.703"
+  },
+  "metadata": {},
+  "source": {}
+}

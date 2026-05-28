@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ041_souk-ahras_souk-ahras",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    },
+    "code": {
+      "id": "DZ041_souk-ahras_souk-ahras",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_souk-ahras",
+      "level": 2,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_souk-ahras",
+        "level": 2,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41000"
+    ],
+    "geo": {
+      "lat": "36.286",
+      "lon": "7.962"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

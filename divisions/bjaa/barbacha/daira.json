@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_barbacha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برباشة",
+    "en": "Barbacha",
+    "slug": "barbacha"
+  },
+  "code": {
+    "id": "DZ006_barbacha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.564",
+    "lon": "4.991"
+  },
+  "metadata": {},
+  "source": {}
+}

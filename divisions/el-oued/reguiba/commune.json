@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_reguiba_hamraia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمراية",
+      "en": "Hamraia",
+      "slug": "hamraia"
+    },
+    "code": {
+      "id": "DZ039_reguiba_hamraia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_reguiba",
+      "level": 2,
+      "name": {
+        "local": "الرقيبة",
+        "en": "Reguiba",
+        "slug": "reguiba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_reguiba",
+        "level": 2,
+        "name": {
+          "local": "الرقيبة",
+          "en": "Reguiba",
+          "slug": "reguiba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39061"
+    ],
+    "geo": {
+      "lat": "34.182",
+      "lon": "6.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_reguiba_reguiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرقيبة",
+      "en": "Reguiba",
+      "slug": "reguiba"
+    },
+    "code": {
+      "id": "DZ039_reguiba_reguiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_reguiba",
+      "level": 2,
+      "name": {
+        "local": "الرقيبة",
+        "en": "Reguiba",
+        "slug": "reguiba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_reguiba",
+        "level": 2,
+        "name": {
+          "local": "الرقيبة",
+          "en": "Reguiba",
+          "slug": "reguiba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39016"
+    ],
+    "geo": {
+      "lat": "33.771",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

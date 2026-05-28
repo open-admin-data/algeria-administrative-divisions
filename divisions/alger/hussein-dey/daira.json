@@ -1,0 +1,47 @@
+{
+  "id": "DZ016_hussein-dey",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حسين داي",
+    "en": "Hussein Dey",
+    "slug": "hussein-dey"
+  },
+  "code": {
+    "id": "DZ016_hussein-dey",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.733",
+    "lon": "3.097"
+  },
+  "metadata": {},
+  "source": {}
+}

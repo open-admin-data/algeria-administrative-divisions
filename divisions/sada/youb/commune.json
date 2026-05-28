@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ020_youb_doui-thabet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دوي ثابت",
+      "en": "Doui Thabet",
+      "slug": "doui-thabet"
+    },
+    "code": {
+      "id": "DZ020_youb_doui-thabet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_youb",
+      "level": 2,
+      "name": {
+        "local": "يوب",
+        "en": "Youb",
+        "slug": "youb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_youb",
+        "level": 2,
+        "name": {
+          "local": "يوب",
+          "en": "Youb",
+          "slug": "youb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20023"
+    ],
+    "geo": {
+      "lat": "34.897",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_youb_youb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يوب",
+      "en": "Youb",
+      "slug": "youb"
+    },
+    "code": {
+      "id": "DZ020_youb_youb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_youb",
+      "level": 2,
+      "name": {
+        "local": "يوب",
+        "en": "Youb",
+        "slug": "youb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_youb",
+        "level": 2,
+        "name": {
+          "local": "يوب",
+          "en": "Youb",
+          "slug": "youb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20008"
+    ],
+    "geo": {
+      "lat": "34.888",
+      "lon": "-0.224"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

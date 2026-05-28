@@ -1,0 +1,219 @@
+# Tiaret — Algeria Administrative Divisions
+
+> 42 communes
+> Code: DZ043
+> Coordinates: 34.897, 1.591
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Bouchekif
+
+Code: DZ043001, Coordinates: 35.333, 1.483
+
+
+### Ain Deheb
+
+Code: DZ043002, Coordinates: 34.623, 1.615
+
+
+### Ain El Hadid
+
+Code: DZ043003, Coordinates: 35.138, 0.838
+
+
+### Ain Kermes
+
+Code: DZ043004, Coordinates: 34.941, 1.072
+
+
+### Ain Zarit
+
+Code: DZ043005, Coordinates: 35.358, 1.72
+
+
+### Bougara
+
+Code: DZ043006, Coordinates: 35.548, 1.988
+
+
+### Chehaima
+
+Code: DZ043007, Coordinates: 34.542, 1.388
+
+
+### Dahmouni
+
+Code: DZ043008, Coordinates: 35.453, 1.422
+
+
+### Djebilet Rosfa
+
+Code: DZ043009, Coordinates: 34.851, 0.791
+
+
+### Djillali Ben Amar
+
+Code: DZ043010, Coordinates: 35.356, 0.896
+
+
+### Faidja
+
+Code: DZ043011, Coordinates: 34.897, 1.956
+
+
+### Frenda
+
+Code: DZ043012, Coordinates: 35.082, 1.067
+
+
+### Guertoufa
+
+Code: DZ043013, Coordinates: 35.452, 1.166
+
+
+### Hamadia
+
+Code: DZ043014, Coordinates: 35.481, 1.878
+
+
+### Ksar Chellala
+
+Code: DZ043015, Coordinates: 35.25, 2.314
+
+
+### Machraa Sfa
+
+Code: DZ043016, Coordinates: 35.377, 1.02
+
+
+### Madna
+
+Code: DZ043017, Coordinates: 34.759, 0.919
+
+
+### Mahdia
+
+Code: DZ043018, Coordinates: 35.458, 1.739
+
+
+### Medrissa
+
+Code: DZ043019, Coordinates: 34.835, 1.232
+
+
+### Medroussa
+
+Code: DZ043020, Coordinates: 35.186, 1.152
+
+
+### Meghila
+
+Code: DZ043021, Coordinates: 35.609, 1.434
+
+
+### Mellakou
+
+Code: DZ043022, Coordinates: 35.24, 1.278
+
+
+### Nadorah
+
+Code: DZ043023, Coordinates: 35.219, 1.91
+
+
+### Naima
+
+Code: DZ043024, Coordinates: 34.812, 1.7
+
+
+### Oued Lilli
+
+Code: DZ043025, Coordinates: 35.51, 1.266
+
+
+### Rahouia
+
+Code: DZ043026, Coordinates: 35.532, 1.016
+
+
+### Rechaiga
+
+Code: DZ043027, Coordinates: 35.315, 2.118
+
+
+### Sebaine
+
+Code: DZ043028, Coordinates: 35.46, 1.605
+
+
+### Sebt
+
+Code: DZ043029, Coordinates: 35.649, 1.379
+
+
+### Serghine
+
+Code: DZ043030, Coordinates: 35.211, 2.516
+
+
+### Sidi Abdelghani
+
+Code: DZ043031, Coordinates: 35.21, 1.675
+
+
+### Sidi Abderrahmane
+
+Code: DZ043032, Coordinates: 34.543, 1.055
+
+
+### Sidi Ali Mellal
+
+Code: DZ043033, Coordinates: 35.603, 1.165
+
+
+### Sidi Bakhti
+
+Code: DZ043034, Coordinates: 35.24, 0.995
+
+
+### Sidi Hosni
+
+Code: DZ043035, Coordinates: 35.531, 1.505
+
+
+### Sougueur
+
+Code: DZ043036, Coordinates: 35.226, 1.427
+
+
+### Tagdemt
+
+Code: DZ043037, Coordinates: 35.362, 1.145
+
+
+### Takhmaret
+
+Code: DZ043038, Coordinates: 35.121, 0.643
+
+
+### Tiaret
+
+Code: DZ043039, Coordinates: 35.349, 1.332
+
+
+### Tidda
+
+Code: DZ043040, Coordinates: 35.605, 1.269
+
+
+### Tousnina
+
+Code: DZ043041, Coordinates: 35.097, 1.32
+
+
+### Zmalet Emir Abdelkader
+
+Code: DZ043042, Coordinates: 35.006, 2.349
+
+

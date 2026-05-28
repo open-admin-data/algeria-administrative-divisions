@@ -1,0 +1,29 @@
+{
+  "id": "DZ027",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "المدية",
+    "en": "Medea",
+    "slug": "medea-dz027"
+  },
+  "code": {
+    "id": "DZ027",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.978",
+    "lon": "3.012"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ043015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ksar Chellala",
+    "en": "Ksar Chellala",
+    "slug": "ksar-chellala-dz043015"
+  },
+  "code": {
+    "id": "DZ043015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.25",
+    "lon": "2.314"
+  },
+  "metadata": {},
+  "source": {}
+}

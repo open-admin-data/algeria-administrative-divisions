@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_hassi-mameche",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حاسي ماماش",
+    "en": "Hassi Mameche",
+    "slug": "hassi-mameche"
+  },
+  "code": {
+    "id": "DZ027_hassi-mameche",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.821",
+    "lon": "-0.008"
+  },
+  "metadata": {},
+  "source": {}
+}

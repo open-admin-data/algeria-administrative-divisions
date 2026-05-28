@@ -1,0 +1,45 @@
+{
+  "id": "DZ009016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Kantara",
+    "en": "El Kantara",
+    "slug": "el-kantara-dz009016"
+  },
+  "code": {
+    "id": "DZ009016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.206",
+    "lon": "5.695"
+  },
+  "metadata": {},
+  "source": {}
+}

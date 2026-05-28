@@ -1,0 +1,45 @@
+{
+  "id": "DZ031007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mechria",
+    "en": "Mechria",
+    "slug": "mechria-dz031007"
+  },
+  "code": {
+    "id": "DZ031007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.49",
+    "lon": "-0.169"
+  },
+  "metadata": {},
+  "source": {}
+}

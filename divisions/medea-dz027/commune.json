@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "DZ027001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Boucif",
+      "en": "Ain Boucif",
+      "slug": "ain-boucif-dz027001"
+    },
+    "code": {
+      "id": "DZ027001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.838",
+      "lon": "3.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Ouksir",
+      "en": "Ain Ouksir",
+      "slug": "ain-ouksir-dz027002"
+    },
+    "code": {
+      "id": "DZ027002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.78",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aissaouia",
+      "en": "Aissaouia",
+      "slug": "aissaouia-dz027003"
+    },
+    "code": {
+      "id": "DZ027003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.414",
+      "lon": "3.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aziz",
+      "en": "Aziz",
+      "slug": "aziz-dz027004"
+    },
+    "code": {
+      "id": "DZ027004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.755",
+      "lon": "2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baata",
+      "en": "Baata",
+      "slug": "baata-dz027005"
+    },
+    "code": {
+      "id": "DZ027005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.374",
+      "lon": "3.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Chicao",
+      "en": "Ben Chicao",
+      "slug": "ben-chicao-dz027006"
+    },
+    "code": {
+      "id": "DZ027006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.192",
+      "lon": "2.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Slimane",
+      "en": "Beni Slimane",
+      "slug": "beni-slimane-dz027007"
+    },
+    "code": {
+      "id": "DZ027007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.221",
+      "lon": "3.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berrouaghia",
+      "en": "Berrouaghia",
+      "slug": "berrouaghia-dz027008"
+    },
+    "code": {
+      "id": "DZ027008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.157",
+      "lon": "2.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Ben Abed",
+      "en": "Bir Ben Abed",
+      "slug": "bir-ben-abed-dz027009"
+    },
+    "code": {
+      "id": "DZ027009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.194",
+      "lon": "3.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boghar",
+      "en": "Boghar",
+      "slug": "boghar-dz027010"
+    },
+    "code": {
+      "id": "DZ027010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.94",
+      "lon": "2.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouaiche",
+      "en": "Bouaiche",
+      "slug": "bouaiche-dz027011"
+    },
+    "code": {
+      "id": "DZ027011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.614",
+      "lon": "2.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouaichoune",
+      "en": "Bouaichoune",
+      "slug": "bouaichoune-dz027012"
+    },
+    "code": {
+      "id": "DZ027012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.139",
+      "lon": "2.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouchrahil",
+      "en": "Bouchrahil",
+      "slug": "bouchrahil-dz027013"
+    },
+    "code": {
+      "id": "DZ027013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.277",
+      "lon": "3.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boughzoul",
+      "en": "Boughzoul",
+      "slug": "boughzoul-dz027014"
+    },
+    "code": {
+      "id": "DZ027014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.684",
+      "lon": "2.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouskene",
+      "en": "Bouskene",
+      "slug": "bouskene-dz027015"
+    },
+    "code": {
+      "id": "DZ027015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.198",
+      "lon": "3.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chahbounia",
+      "en": "Chahbounia",
+      "slug": "chahbounia-dz027016"
+    },
+    "code": {
+      "id": "DZ027016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.588",
+      "lon": "2.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chellalat El Adhaoura",
+      "en": "Chellalat El Adhaoura",
+      "slug": "chellalat-el-adhaoura-dz027017"
+    },
+    "code": {
+      "id": "DZ027017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.966",
+      "lon": "3.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cheniguel",
+      "en": "Cheniguel",
+      "slug": "cheniguel-dz027018"
+    },
+    "code": {
+      "id": "DZ027018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.962",
+      "lon": "3.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Derrag",
+      "en": "Derrag",
+      "slug": "derrag-dz027019"
+    },
+    "code": {
+      "id": "DZ027019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.846",
+      "lon": "2.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Deux Bassins",
+      "en": "Deux Bassins",
+      "slug": "deux-bassins-dz027020"
+    },
+    "code": {
+      "id": "DZ027020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.471",
+      "lon": "3.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djouab",
+      "en": "Djouab",
+      "slug": "djouab-dz027021"
+    },
+    "code": {
+      "id": "DZ027021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.114",
+      "lon": "3.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Draa Essmar",
+      "en": "Draa Essmar",
+      "slug": "draa-essmar-dz027022"
+    },
+    "code": {
+      "id": "DZ027022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.274",
+      "lon": "2.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Aouinet",
+      "en": "El Aouinet",
+      "slug": "el-aouinet-dz027023"
+    },
+    "code": {
+      "id": "DZ027023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.867",
+      "lon": "3.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Azizia",
+      "en": "El Azizia",
+      "slug": "el-azizia-dz027024"
+    },
+    "code": {
+      "id": "DZ027024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.319",
+      "lon": "3.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Guelbelkebir",
+      "en": "El Guelbelkebir",
+      "slug": "el-guelbelkebir-dz027025"
+    },
+    "code": {
+      "id": "DZ027025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.252",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hamdania",
+      "en": "El Hamdania",
+      "slug": "el-hamdania-dz027026"
+    },
+    "code": {
+      "id": "DZ027026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Omaria",
+      "en": "El Omaria",
+      "slug": "el-omaria-dz027027"
+    },
+    "code": {
+      "id": "DZ027027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.306",
+      "lon": "3.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hannacha",
+      "en": "Hannacha",
+      "slug": "hannacha-dz027028"
+    },
+    "code": {
+      "id": "DZ027028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.173",
+      "lon": "2.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kef Lakhdar",
+      "en": "Kef Lakhdar",
+      "slug": "kef-lakhdar-dz027029"
+    },
+    "code": {
+      "id": "DZ027029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.93",
+      "lon": "3.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khams Djouamaa",
+      "en": "Khams Djouamaa",
+      "slug": "khams-djouamaa-dz027030"
+    },
+    "code": {
+      "id": "DZ027030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.151",
+      "lon": "3.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar El Boukhari",
+      "en": "Ksar El Boukhari",
+      "slug": "ksar-el-boukhari-dz027031"
+    },
+    "code": {
+      "id": "DZ027031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.879",
+      "lon": "2.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Fatha",
+      "en": "M'Fatha",
+      "slug": "mfatha-dz027035"
+    },
+    "code": {
+      "id": "DZ027035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.885",
+      "lon": "2.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maghraoua",
+      "en": "Maghraoua",
+      "slug": "maghraoua-dz027032"
+    },
+    "code": {
+      "id": "DZ027032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.383",
+      "lon": "3.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medea",
+      "en": "Medea",
+      "slug": "medea-dz027033"
+    },
+    "code": {
+      "id": "DZ027033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.289",
+      "lon": "2.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mezrenna",
+      "en": "Mezrenna",
+      "slug": "mezrenna-dz027034"
+    },
+    "code": {
+      "id": "DZ027034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "3.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mihoub",
+      "en": "Mihoub",
+      "slug": "mihoub-dz027036"
+    },
+    "code": {
+      "id": "DZ027036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.389",
+      "lon": "3.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moudjebeur",
+      "en": "Moudjebeur",
+      "slug": "moudjebeur-dz027037"
+    },
+    "code": {
+      "id": "DZ027037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.96",
+      "lon": "2.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouamri",
+      "en": "Ouamri",
+      "slug": "ouamri-dz027038"
+    },
+    "code": {
+      "id": "DZ027038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.257",
+      "lon": "2.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Harbil",
+      "en": "Oued Harbil",
+      "slug": "oued-harbil-dz027039"
+    },
+    "code": {
+      "id": "DZ027039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.244",
+      "lon": "2.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Antar",
+      "en": "Ouled Antar",
+      "slug": "ouled-antar-dz027040"
+    },
+    "code": {
+      "id": "DZ027040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.957",
+      "lon": "2.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Bouachra",
+      "en": "Ouled Bouachra",
+      "slug": "ouled-bouachra-dz027041"
+    },
+    "code": {
+      "id": "DZ027041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.102",
+      "lon": "2.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Brahim",
+      "en": "Ouled Brahim",
+      "slug": "ouled-brahim-dz027042"
+    },
+    "code": {
+      "id": "DZ027042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.222",
+      "lon": "2.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Deide",
+      "en": "Ouled Deide",
+      "slug": "ouled-deide-dz027043"
+    },
+    "code": {
+      "id": "DZ027043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.108",
+      "lon": "3.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Hellal",
+      "en": "Ouled Hellal",
+      "slug": "ouled-hellal-dz027044"
+    },
+    "code": {
+      "id": "DZ027044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.006",
+      "lon": "2.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Maaref",
+      "en": "Ouled Maaref",
+      "slug": "ouled-maaref-dz027045"
+    },
+    "code": {
+      "id": "DZ027045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.803",
+      "lon": "3.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum El Djalil",
+      "en": "Oum El Djalil",
+      "slug": "oum-el-djalil-dz027046"
+    },
+    "code": {
+      "id": "DZ027046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.833",
+      "lon": "2.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouzera",
+      "en": "Ouzera",
+      "slug": "ouzera-dz027047"
+    },
+    "code": {
+      "id": "DZ027047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.265",
+      "lon": "2.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rebaia",
+      "en": "Rebaia",
+      "slug": "rebaia-dz027048"
+    },
+    "code": {
+      "id": "DZ027048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.027",
+      "lon": "3.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saneg",
+      "en": "Saneg",
+      "slug": "saneg-dz027049"
+    },
+    "code": {
+      "id": "DZ027049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.843",
+      "lon": "2.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sedraia",
+      "en": "Sedraia",
+      "slug": "sedraia-dz027050"
+    },
+    "code": {
+      "id": "DZ027050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.238",
+      "lon": "3.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seghouane",
+      "en": "Seghouane",
+      "slug": "seghouane-dz027051"
+    },
+    "code": {
+      "id": "DZ027051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.999",
+      "lon": "2.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Si Mahdjoub",
+      "en": "Si Mahdjoub",
+      "slug": "si-mahdjoub-dz027052"
+    },
+    "code": {
+      "id": "DZ027052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.175",
+      "lon": "2.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027053",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Damed",
+      "en": "Sidi Damed",
+      "slug": "sidi-damed-dz027053"
+    },
+    "code": {
+      "id": "DZ027053",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.825",
+      "lon": "3.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027054",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Errabia",
+      "en": "Sidi Errabia",
+      "slug": "sidi-errabia-dz027054"
+    },
+    "code": {
+      "id": "DZ027054",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "3.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027055",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Naamane",
+      "en": "Sidi Naamane",
+      "slug": "sidi-naamane-dz027055"
+    },
+    "code": {
+      "id": "DZ027055",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.269",
+      "lon": "3.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027056",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Zahar",
+      "en": "Sidi Zahar",
+      "slug": "sidi-zahar-dz027056"
+    },
+    "code": {
+      "id": "DZ027056",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.075",
+      "lon": "3.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027057",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ziane",
+      "en": "Sidi Ziane",
+      "slug": "sidi-ziane-dz027057"
+    },
+    "code": {
+      "id": "DZ027057",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.031",
+      "lon": "3.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027058",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souagui",
+      "en": "Souagui",
+      "slug": "souagui-dz027058"
+    },
+    "code": {
+      "id": "DZ027058",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.115",
+      "lon": "3.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027059",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tablat",
+      "en": "Tablat",
+      "slug": "tablat-dz027059"
+    },
+    "code": {
+      "id": "DZ027059",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.426",
+      "lon": "3.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027060",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tafraout",
+      "en": "Tafraout",
+      "slug": "tafraout-dz027060"
+    },
+    "code": {
+      "id": "DZ027060",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.999",
+      "lon": "3.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027061",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamesguida",
+      "en": "Tamesguida",
+      "slug": "tamesguida-dz027061"
+    },
+    "code": {
+      "id": "DZ027061",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.323",
+      "lon": "2.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027062",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi Mahdi",
+      "en": "Tizi Mahdi",
+      "slug": "tizi-mahdi-dz027062"
+    },
+    "code": {
+      "id": "DZ027062",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.215",
+      "lon": "2.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027063",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tlatet Ed Douair",
+      "en": "Tlatet Ed Douair",
+      "slug": "tlatet-ed-douair-dz027063"
+    },
+    "code": {
+      "id": "DZ027063",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36",
+      "lon": "3.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027064",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zoubiria",
+      "en": "Zoubiria",
+      "slug": "zoubiria-dz027064"
+    },
+    "code": {
+      "id": "DZ027064",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea-dz027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.07",
+      "lon": "2.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ006027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kimmel",
+    "en": "Kimmel",
+    "slug": "kimmel-dz006027"
+  },
+  "code": {
+    "id": "DZ006027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.002",
+    "lon": "6.488"
+  },
+  "metadata": {},
+  "source": {}
+}

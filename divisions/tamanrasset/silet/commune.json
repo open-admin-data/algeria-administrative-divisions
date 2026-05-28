@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ011_silet_abelsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ابلسة",
+      "en": "Abelsa",
+      "slug": "abelsa"
+    },
+    "code": {
+      "id": "DZ011_silet_abelsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011_silet",
+      "level": 2,
+      "name": {
+        "local": "سيلت",
+        "en": "Silet",
+        "slug": "silet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      },
+      {
+        "id": "DZ011_silet",
+        "level": 2,
+        "name": {
+          "local": "سيلت",
+          "en": "Silet",
+          "slug": "silet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11007"
+    ],
+    "geo": {
+      "lat": "24.355",
+      "lon": "4.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+# Ouargla — Algeria Administrative Divisions
+
+> 21 communes
+> Code: DZ033
+> Coordinates: 31.23, 6.769
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Beida
+
+Code: DZ033001, Coordinates: 31.684, 5.528
+
+
+### Balidat Ameur
+
+Code: DZ033002, Coordinates: 32.926, 6.054
+
+
+### Benaceur
+
+Code: DZ033003, Coordinates: 32.61, 6.677
+
+
+### El Allia
+
+Code: DZ033004, Coordinates: 32.99, 5.439
+
+
+### El Borma
+
+Code: DZ033005, Coordinates: 31.325, 7.953
+
+
+### El Hadjira
+
+Code: DZ033006, Coordinates: 32.749, 5.835
+
+
+### Hassi Ben Abdellah
+
+Code: DZ033007, Coordinates: 32.225, 5.859
+
+
+### Hassi Messaoud
+
+Code: DZ033008, Coordinates: 30.54, 5.44
+
+
+### M&#39;Naguer
+
+Code: DZ033010, Coordinates: 33.128, 6.27
+
+
+### Megarine
+
+Code: DZ033009, Coordinates: 33.205, 5.958
+
+
+### N&#39;Goussa
+
+Code: DZ033012, Coordinates: 32.358, 5.328
+
+
+### Nezla
+
+Code: DZ033011, Coordinates: 33.072, 5.967
+
+
+### Ouargla
+
+Code: DZ033013, Coordinates: 32.187, 4.829
+
+
+### Rouissat
+
+Code: DZ033014, Coordinates: 31.724, 4.87
+
+
+### Sidi Khouiled
+
+Code: DZ033015, Coordinates: 32.025, 5.385
+
+
+### Sidi Slimane
+
+Code: DZ033016, Coordinates: 33.311, 5.933
+
+
+### Taibet
+
+Code: DZ033017, Coordinates: 33.093, 6.377
+
+
+### Tamacine
+
+Code: DZ033018, Coordinates: 33.017, 6.021
+
+
+### Tebesbest
+
+Code: DZ033019, Coordinates: 33.116, 6.107
+
+
+### Touggourt
+
+Code: DZ033020, Coordinates: 33.131, 5.916
+
+
+### Zaouia El Abidia
+
+Code: DZ033021, Coordinates: 33.157, 6.104
+
+

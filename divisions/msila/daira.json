@@ -1,0 +1,707 @@
+[
+  {
+    "id": "DZ028_ain-el-hadjel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الحجل",
+      "en": "Ain El Hadjel",
+      "slug": "ain-el-hadjel"
+    },
+    "code": {
+      "id": "DZ028_ain-el-hadjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.662",
+      "lon": "3.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-melh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الملح",
+      "en": "Ain El Melh",
+      "slug": "ain-el-melh"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.772",
+      "lon": "4.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ben-srour",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بن سرور",
+      "en": "Ben Srour",
+      "slug": "ben-srour"
+    },
+    "code": {
+      "id": "DZ028_ben-srour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.942",
+      "lon": "4.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_bousaada",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوسعادة",
+      "en": "Bousaada",
+      "slug": "bousaada"
+    },
+    "code": {
+      "id": "DZ028_bousaada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.119",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_chellal",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شلال",
+      "en": "Chellal",
+      "slug": "chellal"
+    },
+    "code": {
+      "id": "DZ028_chellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.457",
+      "lon": "4.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_djebel-messaad",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جبل مساعد",
+      "en": "Djebel Messaad",
+      "slug": "djebel-messaad"
+    },
+    "code": {
+      "id": "DZ028_djebel-messaad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.972",
+      "lon": "3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_hammam-dalaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام الضلعة",
+      "en": "Hammam Dalaa",
+      "slug": "hammam-dalaa"
+    },
+    "code": {
+      "id": "DZ028_hammam-dalaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.776",
+      "lon": "4.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_khoubana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خبانة",
+      "en": "Khoubana",
+      "slug": "khoubana"
+    },
+    "code": {
+      "id": "DZ028_khoubana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.274",
+      "lon": "4.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_msila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المسيلة",
+      "en": "M'sila",
+      "slug": "msila"
+    },
+    "code": {
+      "id": "DZ028_msila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.723",
+      "lon": "4.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_magra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مقرة",
+      "en": "Magra",
+      "slug": "magra"
+    },
+    "code": {
+      "id": "DZ028_magra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.621",
+      "lon": "5.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_medjedel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "امجدل",
+      "en": "Medjedel",
+      "slug": "medjedel"
+    },
+    "code": {
+      "id": "DZ028_medjedel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.099",
+      "lon": "3.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-derradj",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد دراج",
+      "en": "Ouled Derradj",
+      "slug": "ouled-derradj"
+    },
+    "code": {
+      "id": "DZ028_ouled-derradj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.902",
+      "lon": "4.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-sidi-brahim",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد سيدي ابراهيم",
+      "en": "Ouled Sidi Brahim",
+      "slug": "ouled-sidi-brahim"
+    },
+    "code": {
+      "id": "DZ028_ouled-sidi-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.412",
+      "lon": "4.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_sidi-aissa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي عيسى",
+      "en": "Sidi Aissa",
+      "slug": "sidi-aissa"
+    },
+    "code": {
+      "id": "DZ028_sidi-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.747",
+      "lon": "3.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_sidi-ameur",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي عامر",
+      "en": "Sidi Ameur",
+      "slug": "sidi-ameur"
+    },
+    "code": {
+      "id": "DZ028_sidi-ameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.287",
+      "lon": "3.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_mansourah_mansoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoura",
+      "slug": "mansoura"
+    },
+    "code": {
+      "id": "DZ047_mansourah_mansoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34008"
+    ],
+    "geo": {
+      "lat": "36.103",
+      "lon": "4.473"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

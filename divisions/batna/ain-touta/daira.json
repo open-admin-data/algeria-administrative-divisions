@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_ain-touta",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين التوتة",
+    "en": "Ain Touta",
+    "slug": "ain-touta"
+  },
+  "code": {
+    "id": "DZ005_ain-touta",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.376",
+    "lon": "5.902"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ038_ammari,عماري,Ammari,ammari,DZ038_ammari,3,35.658,1.623
+DZ038_bordj-bounaama,برج بونعامة,Bordj Bounaama,bordj-bounaama,DZ038_bordj-bounaama,4,35.833,1.714
+DZ038_bordj-emir-abdelkader,برج الأمير عبد القادر,Bordj Emir Abdelkader,bordj-emir-abdelkader,DZ038_bordj-emir-abdelkader,2,35.861,2.181
+DZ038_khemisti,خميستي,Khemisti,khemisti,DZ038_khemisti,2,35.678,2.002
+DZ038_lardjem,لرجام,Lardjem,lardjem,DZ038_lardjem,4,35.739,1.412
+DZ038_lazharia,الأزهرية,Lazharia,lazharia,DZ038_lazharia,3,35.927,1.571
+DZ038_theniet-el-had,ثنية الاحد,Theniet El Had,theniet-el-had,DZ038_theniet-el-had,2,35.838,1.989
+DZ038_tissemsilt,تيسمسيلت,Tissemsilt,tissemsilt,DZ038_tissemsilt,2,35.614,1.826

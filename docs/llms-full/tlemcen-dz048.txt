@@ -1,0 +1,274 @@
+# Tlemcen — Algeria Administrative Divisions
+
+> 53 communes
+> Code: DZ048
+> Coordinates: 34.673, -1.299
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Fetah
+
+Code: DZ048001, Coordinates: 34.975, -1.646
+
+
+### Ain Fezza
+
+Code: DZ048002, Coordinates: 34.887, -1.208
+
+
+### Ain Ghoraba
+
+Code: DZ048003, Coordinates: 34.739, -1.4
+
+
+### Ain Kebira
+
+Code: DZ048004, Coordinates: 35.03, -1.684
+
+
+### Ain Nehala
+
+Code: DZ048005, Coordinates: 35.035, -0.988
+
+
+### Ain Tallout
+
+Code: DZ048006, Coordinates: 34.765, -0.961
+
+
+### Ain Youcef
+
+Code: DZ048007, Coordinates: 35.075, -1.374
+
+
+### Amieur
+
+Code: DZ048008, Coordinates: 35.007, -1.24
+
+
+### Azails
+
+Code: DZ048009, Coordinates: 34.659, -1.428
+
+
+### Bab El Assa
+
+Code: DZ048010, Coordinates: 34.977, -2.007
+
+
+### Beni Bahdel
+
+Code: DZ048011, Coordinates: 34.713, -1.508
+
+
+### Beni Boussaid
+
+Code: DZ048012, Coordinates: 34.636, -1.736
+
+
+### Beni Khellad
+
+Code: DZ048013, Coordinates: 35.184, -1.588
+
+
+### Beni Mester
+
+Code: DZ048014, Coordinates: 34.892, -1.425
+
+
+### Beni Ouarsous
+
+Code: DZ048015, Coordinates: 35.095, -1.585
+
+
+### Beni Semiel
+
+Code: DZ048016, Coordinates: 34.789, -1.094
+
+
+### Beni Snous
+
+Code: DZ048017, Coordinates: 34.628, -1.558
+
+
+### Bensekrane
+
+Code: DZ048018, Coordinates: 35.114, -1.203
+
+
+### Bouhlou
+
+Code: DZ048019, Coordinates: 34.812, -1.606
+
+
+### Chetouane
+
+Code: DZ048020, Coordinates: 34.938, -1.302
+
+
+### Dar Yaghmourassene
+
+Code: DZ048021, Coordinates: 35.104, -1.776
+
+
+### Djebala
+
+Code: DZ048022, Coordinates: 34.963, -1.823
+
+
+### El Aricha
+
+Code: DZ048023, Coordinates: 34.394, -1.202
+
+
+### El Bouihi
+
+Code: DZ048024, Coordinates: 34.309, -1.607
+
+
+### El Fehoul
+
+Code: DZ048025, Coordinates: 35.141, -1.285
+
+
+### El Gor
+
+Code: DZ048026, Coordinates: 34.552, -1.052
+
+
+### Fellaoucene
+
+Code: DZ048027, Coordinates: 35.017, -1.572
+
+
+### Ghazaouet
+
+Code: DZ048028, Coordinates: 35.085, -1.859
+
+
+### Hammam Boughrara
+
+Code: DZ048029, Coordinates: 34.925, -1.706
+
+
+### Henaya
+
+Code: DZ048030, Coordinates: 34.964, -1.392
+
+
+### Honaine
+
+Code: DZ048031, Coordinates: 35.159, -1.675
+
+
+### M&#39;Sirda Fouaga
+
+Code: DZ048035, Coordinates: 35.023, -2.088
+
+
+### Maghnia
+
+Code: DZ048032, Coordinates: 34.838, -1.787
+
+
+### Mansourah
+
+Code: DZ048033, Coordinates: 34.873, -1.358
+
+
+### Mersa Ben M&#39;Hidi
+
+Code: DZ048034, Coordinates: 35.06, -2.164
+
+
+### Nedroma
+
+Code: DZ048036, Coordinates: 35.047, -1.759
+
+
+### Oued Chouly
+
+Code: DZ048037, Coordinates: 34.822, -1.191
+
+
+### Ouled Mimoun
+
+Code: DZ048038, Coordinates: 34.901, -1.045
+
+
+### Ouled Riah
+
+Code: DZ048039, Coordinates: 34.954, -1.546
+
+
+### Remchi
+
+Code: DZ048040, Coordinates: 35.113, -1.448
+
+
+### Sabra
+
+Code: DZ048041, Coordinates: 34.849, -1.531
+
+
+### Sebaa Chioukh
+
+Code: DZ048042, Coordinates: 35.157, -1.366
+
+
+### Sebdou
+
+Code: DZ048043, Coordinates: 34.644, -1.287
+
+
+### Sidi Abdelli
+
+Code: DZ048044, Coordinates: 35.048, -1.115
+
+
+### Sidi Djillali
+
+Code: DZ048045, Coordinates: 34.421, -1.499
+
+
+### Sidi Medjahed
+
+Code: DZ048046, Coordinates: 34.757, -1.627
+
+
+### Souahlia
+
+Code: DZ048047, Coordinates: 35.03, -1.899
+
+
+### Souani
+
+Code: DZ048048, Coordinates: 34.931, -1.936
+
+
+### Souk Thlata
+
+Code: DZ048049, Coordinates: 35.028, -1.99
+
+
+### Terni Beni Hediel
+
+Code: DZ048050, Coordinates: 34.783, -1.305
+
+
+### Tienet
+
+Code: DZ048051, Coordinates: 35.041, -1.837
+
+
+### Tlemcen
+
+Code: DZ048052, Coordinates: 34.898, -1.316
+
+
+### Zenata
+
+Code: DZ048053, Coordinates: 34.993, -1.478
+
+

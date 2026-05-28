@@ -1,0 +1,45 @@
+{
+  "id": "DZ032025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Chami",
+    "en": "Sidi Chami",
+    "slug": "sidi-chami-dz032025"
+  },
+  "code": {
+    "id": "DZ032025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.666",
+    "lon": "-0.528"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ047005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Zaouia",
+    "en": "Ain Zaouia",
+    "slug": "ain-zaouia-dz047005"
+  },
+  "code": {
+    "id": "DZ047005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.578",
+    "lon": "3.906"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ021_azzaba_ain-charchar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين شرشار",
+      "en": "Ain Charchar",
+      "slug": "ain-charchar"
+    },
+    "code": {
+      "id": "DZ021_azzaba_ain-charchar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_azzaba",
+      "level": 2,
+      "name": {
+        "local": "عزابة",
+        "en": "Azzaba",
+        "slug": "azzaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_azzaba",
+        "level": 2,
+        "name": {
+          "local": "عزابة",
+          "en": "Azzaba",
+          "slug": "azzaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21006"
+    ],
+    "geo": {
+      "lat": "36.726",
+      "lon": "7.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_azzaba_azzaba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عزابة",
+      "en": "Azzaba",
+      "slug": "azzaba"
+    },
+    "code": {
+      "id": "DZ021_azzaba_azzaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_azzaba",
+      "level": 2,
+      "name": {
+        "local": "عزابة",
+        "en": "Azzaba",
+        "slug": "azzaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_azzaba",
+        "level": 2,
+        "name": {
+          "local": "عزابة",
+          "en": "Azzaba",
+          "slug": "azzaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21001"
+    ],
+    "geo": {
+      "lat": "36.756",
+      "lon": "7.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_azzaba_djendel-saadi-mohamed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جندل سعدي محمد",
+      "en": "Djendel Saadi Mohamed",
+      "slug": "djendel-saadi-mohamed"
+    },
+    "code": {
+      "id": "DZ021_azzaba_djendel-saadi-mohamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_azzaba",
+      "level": 2,
+      "name": {
+        "local": "عزابة",
+        "en": "Azzaba",
+        "slug": "azzaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_azzaba",
+        "level": 2,
+        "name": {
+          "local": "عزابة",
+          "en": "Azzaba",
+          "slug": "azzaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21037"
+    ],
+    "geo": {
+      "lat": "36.852",
+      "lon": "7.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_azzaba_el-ghedir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغدير",
+      "en": "El Ghedir",
+      "slug": "el-ghedir"
+    },
+    "code": {
+      "id": "DZ021_azzaba_el-ghedir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_azzaba",
+      "level": 2,
+      "name": {
+        "local": "عزابة",
+        "en": "Azzaba",
+        "slug": "azzaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_azzaba",
+        "level": 2,
+        "name": {
+          "local": "عزابة",
+          "en": "Azzaba",
+          "slug": "azzaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21057"
+    ],
+    "geo": {
+      "lat": "36.672",
+      "lon": "6.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_azzaba_es-sebt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السبت",
+      "en": "Es Sebt",
+      "slug": "es-sebt"
+    },
+    "code": {
+      "id": "DZ021_azzaba_es-sebt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_azzaba",
+      "level": 2,
+      "name": {
+        "local": "عزابة",
+        "en": "Azzaba",
+        "slug": "azzaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_azzaba",
+        "level": 2,
+        "name": {
+          "local": "عزابة",
+          "en": "Azzaba",
+          "slug": "azzaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21018"
+    ],
+    "geo": {
+      "lat": "36.623",
+      "lon": "7.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

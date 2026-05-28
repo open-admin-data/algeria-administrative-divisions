@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_nedroma",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ندرومة",
+    "en": "Nedroma",
+    "slug": "nedroma"
+  },
+  "code": {
+    "id": "DZ013_nedroma",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.005",
+    "lon": "-1.791"
+  },
+  "metadata": {},
+  "source": {}
+}

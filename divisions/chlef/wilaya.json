@@ -1,0 +1,30 @@
+{
+  "id": "DZ002",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": " الشلف",
+    "en": "Chlef",
+    "slug": "chlef"
+  },
+  "code": {
+    "id": "DZ002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 13,
+    "commune": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.205",
+    "lon": "1.267"
+  },
+  "metadata": {},
+  "source": {}
+}

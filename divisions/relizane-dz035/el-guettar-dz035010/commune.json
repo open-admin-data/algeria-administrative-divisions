@@ -1,0 +1,45 @@
+{
+  "id": "DZ035010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Guettar",
+    "en": "El Guettar",
+    "slug": "el-guettar-dz035010"
+  },
+  "code": {
+    "id": "DZ035010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.084",
+    "lon": "0.828"
+  },
+  "metadata": {},
+  "source": {}
+}

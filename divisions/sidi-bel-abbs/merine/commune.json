@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_merine_merine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرين",
+      "en": "Merine",
+      "slug": "merine"
+    },
+    "code": {
+      "id": "DZ022_merine_merine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_merine",
+      "level": 2,
+      "name": {
+        "local": "مرين",
+        "en": "Merine",
+        "slug": "merine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_merine",
+        "level": 2,
+        "name": {
+          "local": "مرين",
+          "en": "Merine",
+          "slug": "merine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22012"
+    ],
+    "geo": {
+      "lat": "34.795",
+      "lon": "-0.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_merine_oued-taourira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي تاوريرة",
+      "en": "Oued Taourira",
+      "slug": "oued-taourira"
+    },
+    "code": {
+      "id": "DZ022_merine_oued-taourira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_merine",
+      "level": 2,
+      "name": {
+        "local": "مرين",
+        "en": "Merine",
+        "slug": "merine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_merine",
+        "level": 2,
+        "name": {
+          "local": "مرين",
+          "en": "Merine",
+          "slug": "merine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22056"
+    ],
+    "geo": {
+      "lat": "34.614",
+      "lon": "-0.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_merine_taoudmout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاودموت",
+      "en": "Taoudmout",
+      "slug": "taoudmout"
+    },
+    "code": {
+      "id": "DZ022_merine_taoudmout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_merine",
+      "level": 2,
+      "name": {
+        "local": "مرين",
+        "en": "Merine",
+        "slug": "merine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_merine",
+        "level": 2,
+        "name": {
+          "local": "مرين",
+          "en": "Merine",
+          "slug": "merine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22064"
+    ],
+    "geo": {
+      "lat": "34.614",
+      "lon": "-0.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_merine_tefessour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تفسور",
+      "en": "Tefessour",
+      "slug": "tefessour"
+    },
+    "code": {
+      "id": "DZ022_merine_tefessour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_merine",
+      "level": 2,
+      "name": {
+        "local": "مرين",
+        "en": "Merine",
+        "slug": "merine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_merine",
+        "level": 2,
+        "name": {
+          "local": "مرين",
+          "en": "Merine",
+          "slug": "merine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22065"
+    ],
+    "geo": {
+      "lat": "34.674",
+      "lon": "-0.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

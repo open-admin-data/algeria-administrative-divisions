@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ035_khemis-el-khechna_hammedi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمادي",
+      "en": "Hammedi",
+      "slug": "hammedi"
+    },
+    "code": {
+      "id": "DZ035_khemis-el-khechna_hammedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_khemis-el-khechna",
+      "level": 2,
+      "name": {
+        "local": "خميس الخشنة",
+        "en": "Khemis El Khechna",
+        "slug": "khemis-el-khechna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_khemis-el-khechna",
+        "level": 2,
+        "name": {
+          "local": "خميس الخشنة",
+          "en": "Khemis El Khechna",
+          "slug": "khemis-el-khechna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35015"
+    ],
+    "geo": {
+      "lat": "36.681",
+      "lon": "3.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_khemis-el-khechna_khemis-el-khechna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خميس الخشنة",
+      "en": "Khemis El Khechna",
+      "slug": "khemis-el-khechna"
+    },
+    "code": {
+      "id": "DZ035_khemis-el-khechna_khemis-el-khechna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_khemis-el-khechna",
+      "level": 2,
+      "name": {
+        "local": "خميس الخشنة",
+        "en": "Khemis El Khechna",
+        "slug": "khemis-el-khechna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_khemis-el-khechna",
+        "level": 2,
+        "name": {
+          "local": "خميس الخشنة",
+          "en": "Khemis El Khechna",
+          "slug": "khemis-el-khechna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35010"
+    ],
+    "geo": {
+      "lat": "36.635",
+      "lon": "3.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_khemis-el-khechna_larbatache",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الاربعطاش",
+      "en": "Larbatache",
+      "slug": "larbatache"
+    },
+    "code": {
+      "id": "DZ035_khemis-el-khechna_larbatache",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_khemis-el-khechna",
+      "level": 2,
+      "name": {
+        "local": "خميس الخشنة",
+        "en": "Khemis El Khechna",
+        "slug": "khemis-el-khechna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_khemis-el-khechna",
+        "level": 2,
+        "name": {
+          "local": "خميس الخشنة",
+          "en": "Khemis El Khechna",
+          "slug": "khemis-el-khechna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35017"
+    ],
+    "geo": {
+      "lat": "36.611",
+      "lon": "3.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_khemis-el-khechna_ouled-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد موسى",
+      "en": "Ouled Moussa",
+      "slug": "ouled-moussa"
+    },
+    "code": {
+      "id": "DZ035_khemis-el-khechna_ouled-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_khemis-el-khechna",
+      "level": 2,
+      "name": {
+        "local": "خميس الخشنة",
+        "en": "Khemis El Khechna",
+        "slug": "khemis-el-khechna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_khemis-el-khechna",
+        "level": 2,
+        "name": {
+          "local": "خميس الخشنة",
+          "en": "Khemis El Khechna",
+          "slug": "khemis-el-khechna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35011"
+    ],
+    "geo": {
+      "lat": "36.688",
+      "lon": "3.379"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

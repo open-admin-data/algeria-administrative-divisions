@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ018_el-ancer_bouraoui-belhadef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوراوي بلهادف",
+      "en": "Bouraoui Belhadef",
+      "slug": "bouraoui-belhadef"
+    },
+    "code": {
+      "id": "DZ018_el-ancer_bouraoui-belhadef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-ancer",
+      "level": 2,
+      "name": {
+        "local": "العنصر",
+        "en": "El Ancer",
+        "slug": "el-ancer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-ancer",
+        "level": 2,
+        "name": {
+          "local": "العنصر",
+          "en": "El Ancer",
+          "slug": "el-ancer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18023"
+    ],
+    "geo": {
+      "lat": "36.7",
+      "lon": "6.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-ancer_djemaa-beni-habibi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الجمعة بني حبيبي",
+      "en": "Djemaa Beni Habibi",
+      "slug": "djemaa-beni-habibi"
+    },
+    "code": {
+      "id": "DZ018_el-ancer_djemaa-beni-habibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-ancer",
+      "level": 2,
+      "name": {
+        "local": "العنصر",
+        "en": "El Ancer",
+        "slug": "el-ancer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-ancer",
+        "level": 2,
+        "name": {
+          "local": "العنصر",
+          "en": "El Ancer",
+          "slug": "el-ancer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18029"
+    ],
+    "geo": {
+      "lat": "36.804",
+      "lon": "6.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-ancer_el-ancer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العنصر",
+      "en": "El Ancer",
+      "slug": "el-ancer"
+    },
+    "code": {
+      "id": "DZ018_el-ancer_el-ancer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-ancer",
+      "level": 2,
+      "name": {
+        "local": "العنصر",
+        "en": "El Ancer",
+        "slug": "el-ancer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-ancer",
+        "level": 2,
+        "name": {
+          "local": "العنصر",
+          "en": "El Ancer",
+          "slug": "el-ancer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18004"
+    ],
+    "geo": {
+      "lat": "36.798",
+      "lon": "6.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-ancer_khiri-oued-adjoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خيري واد عجول",
+      "en": "Khiri Oued Adjoul",
+      "slug": "khiri-oued-adjoul"
+    },
+    "code": {
+      "id": "DZ018_el-ancer_khiri-oued-adjoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-ancer",
+      "level": 2,
+      "name": {
+        "local": "العنصر",
+        "en": "El Ancer",
+        "slug": "el-ancer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-ancer",
+        "level": 2,
+        "name": {
+          "local": "العنصر",
+          "en": "El Ancer",
+          "slug": "el-ancer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18024"
+    ],
+    "geo": {
+      "lat": "36.767",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

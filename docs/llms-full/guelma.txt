@@ -1,0 +1,195 @@
+# Guelma — Algeria Administrative Divisions
+
+> 10 dairas, 34 communes
+> Code: DZ024
+> Coordinates: 36.349, 7.412
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين حساينية (Ain Hessainia)
+
+Code: DZ024_ain-hessainia, Coordinates: 36.428, 7.262
+Communes: 4
+
+#### هواري بومدين (Houari Boumedienne)
+
+Code: DZ024_ain-hessainia_houari-boumedienne, Postal: 24025, Coordinates: 36.428, 7.262
+
+#### مجاز عمار (Medjez Amar)
+
+Code: DZ024_ain-hessainia_medjez-amar, Postal: 24043, Coordinates: 36.486, 7.324
+
+#### رأس العقبة (Ras El Agba)
+
+Code: DZ024_ain-hessainia_ras-el-agba, Postal: 24049, Coordinates: 36.371, 7.201
+
+#### سلاوة عنونة (Sellaoua Announa)
+
+Code: DZ024_ain-hessainia_sellaoua-announa, Postal: 24029, Coordinates: 36.428, 7.262
+
+### عين مخلوف (Ain Makhlouf)
+
+Code: DZ024_ain-makhlouf, Coordinates: 36.215, 7.254
+Communes: 3
+
+#### عين العربي (Ain Larbi)
+
+Code: DZ024_ain-makhlouf_ain-larbi, Postal: 24012, Coordinates: 36.288, 7.392
+
+#### عين مخلوف (Ain Makhlouf)
+
+Code: DZ024_ain-makhlouf_ain-makhlouf, Postal: 24013, Coordinates: 36.23, 7.244
+
+#### تاملوكة (Tamlouka)
+
+Code: DZ024_ain-makhlouf_tamlouka, Postal: 24010, Coordinates: 36.127, 7.125
+
+### بوشقوف (Bouchegouf)
+
+Code: DZ024_bouchegouf, Coordinates: 36.507, 7.739
+Communes: 4
+
+#### عين بن بيضاء (Ain Ben Beida)
+
+Code: DZ024_bouchegouf_ain-ben-beida, Postal: 24011, Coordinates: 36.589, 7.648
+
+#### بوشقوف (Bouchegouf)
+
+Code: DZ024_bouchegouf_bouchegouf, Postal: 24002, Coordinates: 36.484, 7.74
+
+#### مجاز الصفاء (Medjez Sfa)
+
+Code: DZ024_bouchegouf_medjez-sfa, Postal: 24026, Coordinates: 36.448, 7.828
+
+#### وادي فراغة (Oued Ferragha)
+
+Code: DZ024_bouchegouf_oued-ferragha, Postal: 24038, Coordinates: 36.507, 7.739
+
+### قلعة بوصبع (Guelaat Bousbaa)
+
+Code: DZ024_guelaat-bousbaa, Coordinates: 36.493, 7.541
+Communes: 6
+
+#### بلخير (Belkheir)
+
+Code: DZ024_guelaat-bousbaa_belkheir, Postal: 24015, Coordinates: 36.447, 7.485
+
+#### بني مزلين (Beni Mezline)
+
+Code: DZ024_guelaat-bousbaa_beni-mezline, Coordinates: 36.473, 7.623
+
+#### بومهرة أحمد (Boumahra Ahmed)
+
+Code: DZ024_guelaat-bousbaa_boumahra-ahmed, Postal: 24005, Coordinates: 36.431, 7.559
+
+#### جبالة الخميسي (Djeballah Khemissi)
+
+Code: DZ024_guelaat-bousbaa_djeballah-khemissi, Postal: 24039, Coordinates: 36.502, 7.56
+
+#### قلعة بوصبع (Guelaat Bou Sbaa)
+
+Code: DZ024_guelaat-bousbaa_guelaat-bou-sbaa, Postal: 24020, Coordinates: 36.493, 7.541
+
+#### نشماية (Nechmaya)
+
+Code: DZ024_guelaat-bousbaa_nechmaya, Postal: 24027, Coordinates: 36.614, 7.479
+
+### قالمة (Guelma)
+
+Code: DZ024_guelma, Coordinates: 36.456, 7.412
+Communes: 2
+
+#### بن جراح (Bendjarah)
+
+Code: DZ024_guelma_bendjarah, Postal: 24034, Coordinates: 36.456, 7.412
+
+#### قالمة (Guelma)
+
+Code: DZ024_guelma_guelma, Postal: 24000, Coordinates: 36.456, 7.412
+
+### حمام دباغ (Hammam Debagh)
+
+Code: DZ024_hammam-debagh, Coordinates: 36.535, 7.231
+Communes: 3
+
+#### بوحمدان (Bou Hamdane)
+
+Code: DZ024_hammam-debagh_bou-hamdane, Coordinates: 36.535, 7.231
+
+#### حمام دباغ (Hammam Debagh)
+
+Code: DZ024_hammam-debagh_hammam-debagh, Postal: 24007, Coordinates: 36.485, 7.272
+
+#### الركنية (Roknia)
+
+Code: DZ024_hammam-debagh_roknia, Postal: 24028, Coordinates: 36.585, 7.19
+
+### حمام النبايل (Hammam N&#39;bails)
+
+Code: DZ024_hammam-nbails, Coordinates: 36.334, 7.706
+Communes: 3
+
+#### الدهوارة (Dahouara)
+
+Code: DZ024_hammam-nbails_dahouara, Postal: 24031, Coordinates: 36.319, 7.703
+
+#### حمام النبايل (Hammam N&#39;bail)
+
+Code: DZ024_hammam-nbails_hammam-nbail, Postal: 24024, Coordinates: 36.326, 7.624
+
+#### وادي الشحم (Oued Cheham)
+
+Code: DZ024_hammam-nbails_oued-cheham, Postal: 24009, Coordinates: 36.356, 7.792
+
+### هيليوبوليس (Heliopolis)
+
+Code: DZ024_heliopolis, Coordinates: 36.556, 7.39
+Communes: 3
+
+#### بوعاتي محمود (Bouati Mahmoud)
+
+Code: DZ024_heliopolis_bouati-mahmoud, Postal: 24018, Coordinates: 36.609, 7.351
+
+#### الفجوج (El Fedjoudj)
+
+Code: DZ024_heliopolis_el-fedjoudj, Postal: 24019, Coordinates: 36.524, 7.381
+
+#### هيليوبوليس (Heliopolis)
+
+Code: DZ024_heliopolis_heliopolis, Postal: 24008, Coordinates: 36.534, 7.438
+
+### خزارة (Khezaras)
+
+Code: DZ024_khezaras, Coordinates: 36.267, 7.552
+Communes: 3
+
+#### عين صندل (Ain Sandel)
+
+Code: DZ024_khezaras_ain-sandel, Postal: 24032, Coordinates: 36.267, 7.552
+
+#### بوحشانة (Bou Hachana)
+
+Code: DZ024_khezaras_bou-hachana, Postal: 24037, Coordinates: 36.267, 7.552
+
+#### لخزارة (Khezaras)
+
+Code: DZ024_khezaras_khezaras, Coordinates: 36.267, 7.552
+
+### وادي الزناتي (Oued Zenati)
+
+Code: DZ024_oued-zenati, Coordinates: 36.355, 7.119
+Communes: 3
+
+#### عين رقادة (Ain Regada)
+
+Code: DZ024_oued-zenati_ain-regada, Postal: 24014, Coordinates: 36.355, 7.119
+
+#### برج صباط (Bordj Sabath)
+
+Code: DZ024_oued-zenati_bordj-sabath, Postal: 24017, Coordinates: 36.408, 7.071
+
+#### وادي الزناتي (Oued Zenati)
+
+Code: DZ024_oued-zenati_oued-zenati, Postal: 24001, Coordinates: 36.302, 7.167
+

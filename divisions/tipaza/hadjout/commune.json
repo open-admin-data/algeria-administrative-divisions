@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ042_hadjout_hadjout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حجوط",
+      "en": "Hadjout",
+      "slug": "hadjout"
+    },
+    "code": {
+      "id": "DZ042_hadjout_hadjout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_hadjout",
+      "level": 2,
+      "name": {
+        "local": "حجوط",
+        "en": "Hadjout",
+        "slug": "hadjout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_hadjout",
+        "level": 2,
+        "name": {
+          "local": "حجوط",
+          "en": "Hadjout",
+          "slug": "hadjout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42001"
+    ],
+    "geo": {
+      "lat": "36.527",
+      "lon": "2.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_hadjout_merad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مراد",
+      "en": "Merad",
+      "slug": "merad"
+    },
+    "code": {
+      "id": "DZ042_hadjout_merad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_hadjout",
+      "level": 2,
+      "name": {
+        "local": "حجوط",
+        "en": "Hadjout",
+        "slug": "hadjout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_hadjout",
+        "level": 2,
+        "name": {
+          "local": "حجوط",
+          "en": "Hadjout",
+          "slug": "hadjout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42019"
+    ],
+    "geo": {
+      "lat": "36.527",
+      "lon": "2.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

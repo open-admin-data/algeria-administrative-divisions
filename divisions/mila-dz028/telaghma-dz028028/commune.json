@@ -1,0 +1,45 @@
+{
+  "id": "DZ028028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Telaghma",
+    "en": "Telaghma",
+    "slug": "telaghma-dz028028"
+  },
+  "code": {
+    "id": "DZ028028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.076",
+    "lon": "6.343"
+  },
+  "metadata": {},
+  "source": {}
+}

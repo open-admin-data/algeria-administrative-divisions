@@ -1,0 +1,587 @@
+[
+  {
+    "id": "DZ020001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berriane",
+      "en": "Berriane",
+      "slug": "berriane-dz020001"
+    },
+    "code": {
+      "id": "DZ020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.892",
+      "lon": "3.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bounoura",
+      "en": "Bounoura",
+      "slug": "bounoura-dz020002"
+    },
+    "code": {
+      "id": "DZ020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.534",
+      "lon": "3.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dhayet Bendahoua",
+      "en": "Dhayet Bendahoua",
+      "slug": "dhayet-bendahoua-dz020003"
+    },
+    "code": {
+      "id": "DZ020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.679",
+      "lon": "3.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Atteuf",
+      "en": "El Atteuf",
+      "slug": "el-atteuf-dz020004"
+    },
+    "code": {
+      "id": "DZ020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.51",
+      "lon": "3.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Guerrara",
+      "en": "El Guerrara",
+      "slug": "el-guerrara-dz020005"
+    },
+    "code": {
+      "id": "DZ020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.78",
+      "lon": "4.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mansoura",
+      "en": "El Mansoura",
+      "slug": "el-mansoura-dz020006"
+    },
+    "code": {
+      "id": "DZ020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.063",
+      "lon": "3.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghardaia",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020007"
+    },
+    "code": {
+      "id": "DZ020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.602",
+      "lon": "3.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Golea",
+      "en": "Golea",
+      "slug": "golea-dz020008"
+    },
+    "code": {
+      "id": "DZ020008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.365",
+      "lon": "2.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi El Garaa",
+      "en": "Hassi El Garaa",
+      "slug": "hassi-el-garaa-dz020009"
+    },
+    "code": {
+      "id": "DZ020009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.753",
+      "lon": "2.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Lefhal",
+      "en": "Hassi Lefhal",
+      "slug": "hassi-lefhal-dz020010"
+    },
+    "code": {
+      "id": "DZ020010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.758",
+      "lon": "3.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Metlili",
+      "en": "Metlili",
+      "slug": "metlili-dz020011"
+    },
+    "code": {
+      "id": "DZ020011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.432",
+      "lon": "3.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebseb",
+      "en": "Sebseb",
+      "slug": "sebseb-dz020012"
+    },
+    "code": {
+      "id": "DZ020012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.309",
+      "lon": "2.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zelfana",
+      "en": "Zelfana",
+      "slug": "zelfana-dz020013"
+    },
+    "code": {
+      "id": "DZ020013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia-dz020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.411",
+      "lon": "4.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

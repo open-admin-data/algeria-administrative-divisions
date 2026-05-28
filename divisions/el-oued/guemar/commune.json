@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ039_guemar_guemar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قمار",
+      "en": "Guemar",
+      "slug": "guemar"
+    },
+    "code": {
+      "id": "DZ039_guemar_guemar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_guemar",
+      "level": 2,
+      "name": {
+        "local": "قمار",
+        "en": "Guemar",
+        "slug": "guemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_guemar",
+        "level": 2,
+        "name": {
+          "local": "قمار",
+          "en": "Guemar",
+          "slug": "guemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39002"
+    ],
+    "geo": {
+      "lat": "33.82",
+      "lon": "6.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_guemar_ourmes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ورماس",
+      "en": "Ourmes",
+      "slug": "ourmes"
+    },
+    "code": {
+      "id": "DZ039_guemar_ourmes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_guemar",
+      "level": 2,
+      "name": {
+        "local": "قمار",
+        "en": "Guemar",
+        "slug": "guemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_guemar",
+        "level": 2,
+        "name": {
+          "local": "قمار",
+          "en": "Guemar",
+          "slug": "guemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39035"
+    ],
+    "geo": {
+      "lat": "33.353",
+      "lon": "6.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_guemar_taghzout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تغزوت",
+      "en": "Taghzout",
+      "slug": "taghzout"
+    },
+    "code": {
+      "id": "DZ039_guemar_taghzout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_guemar",
+      "level": 2,
+      "name": {
+        "local": "قمار",
+        "en": "Guemar",
+        "slug": "guemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_guemar",
+        "level": 2,
+        "name": {
+          "local": "قمار",
+          "en": "Guemar",
+          "slug": "guemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10055"
+    ],
+    "geo": {
+      "lat": "33.5",
+      "lon": "6.565"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

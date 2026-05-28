@@ -1,0 +1,45 @@
+{
+  "id": "DZ018018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued El Alenda",
+    "en": "Oued El Alenda",
+    "slug": "oued-el-alenda-dz018018"
+  },
+  "code": {
+    "id": "DZ018018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.03",
+    "lon": "6.83"
+  },
+  "metadata": {},
+  "source": {}
+}

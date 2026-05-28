@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ015_tizi-ouzou_tizi-ouzou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi-Ouzou",
+      "slug": "tizi-ouzou"
+    },
+    "code": {
+      "id": "DZ015_tizi-ouzou_tizi-ouzou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tizi-ouzou",
+      "level": 2,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tizi-ouzou",
+        "level": 2,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15000"
+    ],
+    "geo": {
+      "lat": "36.702",
+      "lon": "4.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ039_bayadha_bayadha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البياضة",
+      "en": "Bayadha",
+      "slug": "bayadha"
+    },
+    "code": {
+      "id": "DZ039_bayadha_bayadha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_bayadha",
+      "level": 2,
+      "name": {
+        "local": "البياضة",
+        "en": "Bayadha",
+        "slug": "bayadha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_bayadha",
+        "level": 2,
+        "name": {
+          "local": "البياضة",
+          "en": "Bayadha",
+          "slug": "bayadha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39007"
+    ],
+    "geo": {
+      "lat": "33.326",
+      "lon": "6.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

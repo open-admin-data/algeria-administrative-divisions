@@ -1,0 +1,45 @@
+{
+  "id": "DZ027014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boughzoul",
+    "en": "Boughzoul",
+    "slug": "boughzoul-dz027014"
+  },
+  "code": {
+    "id": "DZ027014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.684",
+    "lon": "2.842"
+  },
+  "metadata": {},
+  "source": {}
+}

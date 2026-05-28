@@ -1,0 +1,947 @@
+[
+  {
+    "id": "DZ033001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Beida",
+      "en": "Ain Beida",
+      "slug": "ain-beida-dz033001"
+    },
+    "code": {
+      "id": "DZ033001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.684",
+      "lon": "5.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Balidat Ameur",
+      "en": "Balidat Ameur",
+      "slug": "balidat-ameur-dz033002"
+    },
+    "code": {
+      "id": "DZ033002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.926",
+      "lon": "6.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benaceur",
+      "en": "Benaceur",
+      "slug": "benaceur-dz033003"
+    },
+    "code": {
+      "id": "DZ033003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.61",
+      "lon": "6.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Allia",
+      "en": "El Allia",
+      "slug": "el-allia-dz033004"
+    },
+    "code": {
+      "id": "DZ033004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.99",
+      "lon": "5.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Borma",
+      "en": "El Borma",
+      "slug": "el-borma-dz033005"
+    },
+    "code": {
+      "id": "DZ033005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.325",
+      "lon": "7.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hadjira",
+      "en": "El Hadjira",
+      "slug": "el-hadjira-dz033006"
+    },
+    "code": {
+      "id": "DZ033006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.749",
+      "lon": "5.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Ben Abdellah",
+      "en": "Hassi Ben Abdellah",
+      "slug": "hassi-ben-abdellah-dz033007"
+    },
+    "code": {
+      "id": "DZ033007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.225",
+      "lon": "5.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Messaoud",
+      "en": "Hassi Messaoud",
+      "slug": "hassi-messaoud-dz033008"
+    },
+    "code": {
+      "id": "DZ033008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.54",
+      "lon": "5.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Naguer",
+      "en": "M'Naguer",
+      "slug": "mnaguer-dz033010"
+    },
+    "code": {
+      "id": "DZ033010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.128",
+      "lon": "6.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Megarine",
+      "en": "Megarine",
+      "slug": "megarine-dz033009"
+    },
+    "code": {
+      "id": "DZ033009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.205",
+      "lon": "5.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Goussa",
+      "en": "N'Goussa",
+      "slug": "ngoussa-dz033012"
+    },
+    "code": {
+      "id": "DZ033012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.358",
+      "lon": "5.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nezla",
+      "en": "Nezla",
+      "slug": "nezla-dz033011"
+    },
+    "code": {
+      "id": "DZ033011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.072",
+      "lon": "5.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouargla",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033013"
+    },
+    "code": {
+      "id": "DZ033013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.187",
+      "lon": "4.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rouissat",
+      "en": "Rouissat",
+      "slug": "rouissat-dz033014"
+    },
+    "code": {
+      "id": "DZ033014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.724",
+      "lon": "4.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Khouiled",
+      "en": "Sidi Khouiled",
+      "slug": "sidi-khouiled-dz033015"
+    },
+    "code": {
+      "id": "DZ033015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.025",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Slimane",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane-dz033016"
+    },
+    "code": {
+      "id": "DZ033016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.311",
+      "lon": "5.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taibet",
+      "en": "Taibet",
+      "slug": "taibet-dz033017"
+    },
+    "code": {
+      "id": "DZ033017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.093",
+      "lon": "6.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamacine",
+      "en": "Tamacine",
+      "slug": "tamacine-dz033018"
+    },
+    "code": {
+      "id": "DZ033018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.017",
+      "lon": "6.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tebesbest",
+      "en": "Tebesbest",
+      "slug": "tebesbest-dz033019"
+    },
+    "code": {
+      "id": "DZ033019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.116",
+      "lon": "6.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touggourt",
+      "en": "Touggourt",
+      "slug": "touggourt-dz033020"
+    },
+    "code": {
+      "id": "DZ033020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.131",
+      "lon": "5.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zaouia El Abidia",
+      "en": "Zaouia El Abidia",
+      "slug": "zaouia-el-abidia-dz033021"
+    },
+    "code": {
+      "id": "DZ033021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla-dz033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.157",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

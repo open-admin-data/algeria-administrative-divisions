@@ -1,0 +1,154 @@
+# Oum El Bouaghi — Algeria Administrative Divisions
+
+> 29 communes
+> Code: DZ034
+> Coordinates: 35.813, 7.017
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Babouche
+
+Code: DZ034001, Coordinates: 35.983, 7.161
+
+
+### Ain Beida
+
+Code: DZ034002, Coordinates: 35.795, 7.379
+
+
+### Ain Diss
+
+Code: DZ034003, Coordinates: 36.016, 7.034
+
+
+### Ain Fakroun
+
+Code: DZ034004, Coordinates: 35.946, 6.873
+
+
+### Ain Kercha
+
+Code: DZ034005, Coordinates: 35.884, 6.701
+
+
+### Ain M&#39;Lila
+
+Code: DZ034006, Coordinates: 36.028, 6.56
+
+
+### Ain Zitoun
+
+Code: DZ034007, Coordinates: 35.715, 7.058
+
+
+### Behir Chergui
+
+Code: DZ034008, Coordinates: 35.819, 7.732
+
+
+### Berriche
+
+Code: DZ034009, Coordinates: 35.913, 7.355
+
+
+### Bir Chouhada
+
+Code: DZ034010, Coordinates: 35.915, 6.244
+
+
+### Dhalaa
+
+Code: DZ034011, Coordinates: 35.513, 7.561
+
+
+### El Amiria
+
+Code: DZ034012, Coordinates: 36.073, 6.908
+
+
+### El Belala
+
+Code: DZ034013, Coordinates: 35.669, 7.762
+
+
+### El Djezia
+
+Code: DZ034014, Coordinates: 35.664, 7.551
+
+
+### El Fedjoudj Boughrara Sao
+
+Code: DZ034015, Coordinates: 35.775, 6.793
+
+
+### El Harmilia
+
+Code: DZ034016, Coordinates: 35.889, 6.603
+
+
+### El Zorg
+
+Code: DZ034017, Coordinates: 35.814, 7.491
+
+
+### Fkirina
+
+Code: DZ034018, Coordinates: 35.709, 7.333
+
+
+### Hanchir Toumghani
+
+Code: DZ034019, Coordinates: 35.939, 6.763
+
+
+### Ksar Sbahi
+
+Code: DZ034020, Coordinates: 36.066, 7.256
+
+
+### Meskiana
+
+Code: DZ034021, Coordinates: 35.627, 7.648
+
+
+### Oued Nini
+
+Code: DZ034022, Coordinates: 35.584, 7.398
+
+
+### Ouled Gacem
+
+Code: DZ034023, Coordinates: 36.038, 6.689
+
+
+### Ouled Hamla
+
+Code: DZ034024, Coordinates: 36.083, 6.462
+
+
+### Ouled Zouai
+
+Code: DZ034025, Coordinates: 35.877, 6.506
+
+
+### Oum El Bouaghi
+
+Code: DZ034026, Coordinates: 35.84, 7.157
+
+
+### Rehia
+
+Code: DZ034027, Coordinates: 35.758, 7.632
+
+
+### Sigus
+
+Code: DZ034028, Coordinates: 36.111, 6.756
+
+
+### Souk Naamane
+
+Code: DZ034029, Coordinates: 35.942, 6.401
+
+

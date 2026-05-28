@@ -1,0 +1,47 @@
+{
+  "id": "DZ040_ain-touila",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الطويلة",
+    "en": "Ain Touila",
+    "slug": "ain-touila"
+  },
+  "code": {
+    "id": "DZ040_ain-touila",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.524",
+    "lon": "7.316"
+  },
+  "metadata": {},
+  "source": {}
+}

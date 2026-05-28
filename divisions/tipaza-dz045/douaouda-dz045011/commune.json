@@ -1,0 +1,45 @@
+{
+  "id": "DZ045011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Douaouda",
+    "en": "Douaouda",
+    "slug": "douaouda-dz045011"
+  },
+  "code": {
+    "id": "DZ045011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.681",
+    "lon": "2.792"
+  },
+  "metadata": {},
+  "source": {}
+}

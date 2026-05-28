@@ -1,0 +1,309 @@
+# Setif — Algeria Administrative Divisions
+
+> 60 communes
+> Code: DZ037
+> Coordinates: 36.109, 5.559
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Abessa
+
+Code: DZ037001, Coordinates: 36.311, 5.3
+
+
+### Ain Arnat
+
+Code: DZ037002, Coordinates: 36.18, 5.253
+
+
+### Ain Azal
+
+Code: DZ037003, Coordinates: 35.82, 5.492
+
+
+### Ain El Kebira
+
+Code: DZ037004, Coordinates: 36.381, 5.52
+
+
+### Ain Lagradj
+
+Code: DZ037005, Coordinates: 36.412, 4.904
+
+
+### Ain Lahdjar
+
+Code: DZ037006, Coordinates: 35.963, 5.594
+
+
+### Ain Oulmane
+
+Code: DZ037007, Coordinates: 35.925, 5.328
+
+
+### Ain Roua
+
+Code: DZ037008, Coordinates: 36.322, 5.208
+
+
+### Ain Sebt
+
+Code: DZ037009, Coordinates: 36.497, 5.722
+
+
+### Ait Tizi
+
+Code: DZ037010, Coordinates: 36.538, 5.157
+
+
+### Amoucha
+
+Code: DZ037011, Coordinates: 36.379, 5.42
+
+
+### Babor
+
+Code: DZ037012, Coordinates: 36.504, 5.535
+
+
+### Bazer Sakra
+
+Code: DZ037013, Coordinates: 36.083, 5.678
+
+
+### Beidha Bordj
+
+Code: DZ037014, Coordinates: 35.841, 5.631
+
+
+### Bellaa
+
+Code: DZ037015, Coordinates: 36.222, 5.873
+
+
+### Beni Aziz
+
+Code: DZ037016, Coordinates: 36.478, 5.656
+
+
+### Beni Chebana
+
+Code: DZ037017, Coordinates: 36.47, 4.913
+
+
+### Beni Fouda
+
+Code: DZ037018, Coordinates: 36.283, 5.554
+
+
+### Beni Hocine
+
+Code: DZ037019, Coordinates: 36.262, 5.114
+
+
+### Beni Mouhli
+
+Code: DZ037020, Coordinates: 36.516, 4.896
+
+
+### Beni Ouartilane
+
+Code: DZ037021, Coordinates: 36.435, 4.812
+
+
+### Bir El Arch
+
+Code: DZ037022, Coordinates: 36.103, 5.801
+
+
+### Bir Haddada
+
+Code: DZ037023, Coordinates: 35.964, 5.461
+
+
+### Bouandas
+
+Code: DZ037024, Coordinates: 36.506, 5.105
+
+
+### Bougaa
+
+Code: DZ037025, Coordinates: 36.344, 5.114
+
+
+### Bousselam
+
+Code: DZ037026, Coordinates: 36.496, 5.009
+
+
+### Boutaleb
+
+Code: DZ037027, Coordinates: 35.684, 5.247
+
+
+### Dehamcha
+
+Code: DZ037028, Coordinates: 36.381, 5.62
+
+
+### Djemila
+
+Code: DZ037029, Coordinates: 36.351, 5.765
+
+
+### Draa Kebila
+
+Code: DZ037030, Coordinates: 36.424, 4.999
+
+
+### El Eulma
+
+Code: DZ037031, Coordinates: 36.169, 5.699
+
+
+### El Oueldja
+
+Code: DZ037032, Coordinates: 36.089, 5.922
+
+
+### El Ouricia
+
+Code: DZ037033, Coordinates: 36.272, 5.402
+
+
+### Guellal
+
+Code: DZ037034, Coordinates: 36.039, 5.28
+
+
+### Guelta Zerga
+
+Code: DZ037035, Coordinates: 36.208, 5.686
+
+
+### Guenzet Tassameurt
+
+Code: DZ037036, Coordinates: 36.338, 4.824
+
+
+### Guidjel
+
+Code: DZ037037, Coordinates: 36.083, 5.492
+
+
+### Hamma
+
+Code: DZ037038, Coordinates: 35.69, 5.385
+
+
+### Hammam Guergour
+
+Code: DZ037039, Coordinates: 36.35, 5.033
+
+
+### Hammam Skhouna
+
+Code: DZ037040, Coordinates: 35.949, 5.838
+
+
+### Harbil
+
+Code: DZ037041, Coordinates: 36.349, 4.925
+
+
+### Ksar El Abtal
+
+Code: DZ037042, Coordinates: 35.98, 5.213
+
+
+### M&#39;Zada
+
+Code: DZ037046, Coordinates: 36.548, 5.085
+
+
+### Maaouia
+
+Code: DZ037043, Coordinates: 36.377, 5.713
+
+
+### Maouklane
+
+Code: DZ037044, Coordinates: 36.401, 5.098
+
+
+### Mezloug
+
+Code: DZ037045, Coordinates: 36.104, 5.315
+
+
+### Oued El Bared
+
+Code: DZ037047, Coordinates: 36.5, 5.405
+
+
+### Ouled Addouane
+
+Code: DZ037048, Coordinates: 36.336, 5.456
+
+
+### Ouled Sabor
+
+Code: DZ037049, Coordinates: 36.185, 5.541
+
+
+### Ouled Sidi Ahmed
+
+Code: DZ037050, Coordinates: 35.907, 5.175
+
+
+### Ouled Tebben
+
+Code: DZ037051, Coordinates: 35.791, 5.101
+
+
+### Rosfa
+
+Code: DZ037052, Coordinates: 35.782, 5.254
+
+
+### Salah Bey
+
+Code: DZ037053, Coordinates: 35.826, 5.36
+
+
+### Serdj El Ghoul
+
+Code: DZ037054, Coordinates: 36.478, 5.583
+
+
+### Setif
+
+Code: DZ037055, Coordinates: 36.192, 5.418
+
+
+### Tachouda
+
+Code: DZ037056, Coordinates: 36.268, 5.741
+
+
+### Tala Ifacene
+
+Code: DZ037057, Coordinates: 36.455, 5.119
+
+
+### Taya
+
+Code: DZ037058, Coordinates: 35.926, 5.948
+
+
+### Tella
+
+Code: DZ037059, Coordinates: 35.965, 5.709
+
+
+### Tizi N&#39;Bechar
+
+Code: DZ037060, Coordinates: 36.434, 5.365
+
+

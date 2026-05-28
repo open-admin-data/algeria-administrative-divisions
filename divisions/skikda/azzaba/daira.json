@@ -1,0 +1,47 @@
+{
+  "id": "DZ021_azzaba",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عزابة",
+    "en": "Azzaba",
+    "slug": "azzaba"
+  },
+  "code": {
+    "id": "DZ021_azzaba",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.726",
+    "lon": "7.065"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ031_oued-tlelat_boufatis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوفاتيس",
+      "en": "Boufatis",
+      "slug": "boufatis"
+    },
+    "code": {
+      "id": "DZ031_oued-tlelat_boufatis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_oued-tlelat",
+      "level": 2,
+      "name": {
+        "local": "وادي تليلات",
+        "en": "Oued Tlelat",
+        "slug": "oued-tlelat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_oued-tlelat",
+        "level": 2,
+        "name": {
+          "local": "وادي تليلات",
+          "en": "Oued Tlelat",
+          "slug": "oued-tlelat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31024"
+    ],
+    "geo": {
+      "lat": "35.651",
+      "lon": "-0.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_oued-tlelat_el-braya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البراية",
+      "en": "El Braya",
+      "slug": "el-braya"
+    },
+    "code": {
+      "id": "DZ031_oued-tlelat_el-braya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_oued-tlelat",
+      "level": 2,
+      "name": {
+        "local": "وادي تليلات",
+        "en": "Oued Tlelat",
+        "slug": "oued-tlelat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_oued-tlelat",
+        "level": 2,
+        "name": {
+          "local": "وادي تليلات",
+          "en": "Oued Tlelat",
+          "slug": "oued-tlelat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31070"
+    ],
+    "geo": {
+      "lat": "35.612",
+      "lon": "-0.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_oued-tlelat_oued-tlelat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي تليلات",
+      "en": "Oued Tlelat",
+      "slug": "oued-tlelat"
+    },
+    "code": {
+      "id": "DZ031_oued-tlelat_oued-tlelat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_oued-tlelat",
+      "level": 2,
+      "name": {
+        "local": "وادي تليلات",
+        "en": "Oued Tlelat",
+        "slug": "oued-tlelat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_oued-tlelat",
+        "level": 2,
+        "name": {
+          "local": "وادي تليلات",
+          "en": "Oued Tlelat",
+          "slug": "oued-tlelat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31037"
+    ],
+    "geo": {
+      "lat": "35.563",
+      "lon": "-0.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_oued-tlelat_tafraoui",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طفراوي",
+      "en": "Tafraoui",
+      "slug": "tafraoui"
+    },
+    "code": {
+      "id": "DZ031_oued-tlelat_tafraoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_oued-tlelat",
+      "level": 2,
+      "name": {
+        "local": "وادي تليلات",
+        "en": "Oued Tlelat",
+        "slug": "oued-tlelat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_oued-tlelat",
+        "level": 2,
+        "name": {
+          "local": "وادي تليلات",
+          "en": "Oued Tlelat",
+          "slug": "oued-tlelat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31077"
+    ],
+    "geo": {
+      "lat": "35.447",
+      "lon": "-0.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

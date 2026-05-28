@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ045_mecheria_ain-ben-khelil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بن خليل",
+      "en": "Ain Ben Khelil",
+      "slug": "ain-ben-khelil"
+    },
+    "code": {
+      "id": "DZ045_mecheria_ain-ben-khelil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_mecheria",
+      "level": 2,
+      "name": {
+        "local": "المشرية",
+        "en": "Mecheria",
+        "slug": "mecheria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_mecheria",
+        "level": 2,
+        "name": {
+          "local": "المشرية",
+          "en": "Mecheria",
+          "slug": "mecheria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45008"
+    ],
+    "geo": {
+      "lat": "33.164",
+      "lon": "-0.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045_mecheria_el-biodh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البيوض",
+      "en": "El Biodh",
+      "slug": "el-biodh"
+    },
+    "code": {
+      "id": "DZ045_mecheria_el-biodh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_mecheria",
+      "level": 2,
+      "name": {
+        "local": "المشرية",
+        "en": "Mecheria",
+        "slug": "mecheria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_mecheria",
+        "level": 2,
+        "name": {
+          "local": "المشرية",
+          "en": "Mecheria",
+          "slug": "mecheria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45004"
+    ],
+    "geo": {
+      "lat": "33.164",
+      "lon": "-0.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045_mecheria_mecheria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المشرية",
+      "en": "Mecheria",
+      "slug": "mecheria"
+    },
+    "code": {
+      "id": "DZ045_mecheria_mecheria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_mecheria",
+      "level": 2,
+      "name": {
+        "local": "المشرية",
+        "en": "Mecheria",
+        "slug": "mecheria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_mecheria",
+        "level": 2,
+        "name": {
+          "local": "المشرية",
+          "en": "Mecheria",
+          "slug": "mecheria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45002"
+    ],
+    "geo": {
+      "lat": "33.164",
+      "lon": "-0.95"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

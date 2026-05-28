@@ -1,0 +1,45 @@
+{
+  "id": "DZ032011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ancor",
+    "en": "El Ancor",
+    "slug": "el-ancor-dz032011"
+  },
+  "code": {
+    "id": "DZ032011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.681",
+    "lon": "-0.886"
+  },
+  "metadata": {},
+  "source": {}
+}

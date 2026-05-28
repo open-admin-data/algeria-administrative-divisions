@@ -1,0 +1,45 @@
+{
+  "id": "DZ006058",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tilatou",
+    "en": "Tilatou",
+    "slug": "tilatou-dz006058"
+  },
+  "code": {
+    "id": "DZ006058",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.315",
+    "lon": "5.715"
+  },
+  "metadata": {},
+  "source": {}
+}

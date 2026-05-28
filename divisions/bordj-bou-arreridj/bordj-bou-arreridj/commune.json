@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ034_bordj-bou-arreridj_b-b-arreridj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج بوعريرج",
+      "en": "B. B. Arreridj",
+      "slug": "b-b-arreridj"
+    },
+    "code": {
+      "id": "DZ034_bordj-bou-arreridj_b-b-arreridj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-bou-arreridj",
+      "level": 2,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-bou-arreridj",
+        "level": 2,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "36.043",
+      "lon": "4.57"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

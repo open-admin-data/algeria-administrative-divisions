@@ -1,0 +1,29 @@
+{
+  "id": "DZ037",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سطيف",
+    "en": "Setif",
+    "slug": "setif-dz037"
+  },
+  "code": {
+    "id": "DZ037",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.109",
+    "lon": "5.559"
+  },
+  "metadata": {},
+  "source": {}
+}

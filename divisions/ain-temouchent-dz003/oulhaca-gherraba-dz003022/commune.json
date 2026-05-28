@@ -1,0 +1,45 @@
+{
+  "id": "DZ003022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oulhaca Gherraba",
+    "en": "Oulhaca Gherraba",
+    "slug": "oulhaca-gherraba-dz003022"
+  },
+  "code": {
+    "id": "DZ003022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.251",
+    "lon": "-1.505"
+  },
+  "metadata": {},
+  "source": {}
+}

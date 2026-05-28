@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ014_dahmouni_ain-bouchekif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بوشقيف",
+      "en": "Ain Bouchekif",
+      "slug": "ain-bouchekif"
+    },
+    "code": {
+      "id": "DZ014_dahmouni_ain-bouchekif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_dahmouni",
+      "level": 2,
+      "name": {
+        "local": "دحموني",
+        "en": "Dahmouni",
+        "slug": "dahmouni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_dahmouni",
+        "level": 2,
+        "name": {
+          "local": "دحموني",
+          "en": "Dahmouni",
+          "slug": "dahmouni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14040"
+    ],
+    "geo": {
+      "lat": "35.333",
+      "lon": "1.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_dahmouni_dahmouni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دحموني",
+      "en": "Dahmouni",
+      "slug": "dahmouni"
+    },
+    "code": {
+      "id": "DZ014_dahmouni_dahmouni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_dahmouni",
+      "level": 2,
+      "name": {
+        "local": "دحموني",
+        "en": "Dahmouni",
+        "slug": "dahmouni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_dahmouni",
+        "level": 2,
+        "name": {
+          "local": "دحموني",
+          "en": "Dahmouni",
+          "slug": "dahmouni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14010"
+    ],
+    "geo": {
+      "lat": "35.453",
+      "lon": "1.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

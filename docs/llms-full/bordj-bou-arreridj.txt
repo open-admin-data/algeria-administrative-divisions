@@ -1,0 +1,195 @@
+# Bordj Bou Arreridj — Algeria Administrative Divisions
+
+> 10 dairas, 34 communes
+> Code: DZ034
+> Coordinates: 36.043, 4.57
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين تاغروت (Ain Taghrout)
+
+Code: DZ034_ain-taghrout, Coordinates: 36.091, 5.112
+Communes: 2
+
+#### عين تاغروت (Ain Taghrout)
+
+Code: DZ034_ain-taghrout_ain-taghrout, Postal: 34010, Coordinates: 36.149, 5.111
+
+#### تيكستار (Tixter)
+
+Code: DZ034_ain-taghrout_tixter, Postal: 34022, Coordinates: 36.034, 5.113
+
+### بئر قاصد علي (Bir Kasdali)
+
+Code: DZ034_bir-kasdali, Coordinates: 36.166, 4.977
+Communes: 3
+
+#### بئر قاصد علي (Bir Kasdali)
+
+Code: DZ034_bir-kasdali_bir-kasdali, Postal: 34011, Coordinates: 36.137, 5.009
+
+#### خليل (Khelil)
+
+Code: DZ034_bir-kasdali_khelil, Postal: 34028, Coordinates: 36.238, 5.017
+
+#### سيدي أمبارك (Sidi-Embarek)
+
+Code: DZ034_bir-kasdali_sidi-embarek, Postal: 34020, Coordinates: 36.122, 4.906
+
+### برج بوعريريج (Bordj Bou Arreridj)
+
+Code: DZ034_bordj-bou-arreridj, Coordinates: 36.043, 4.57
+Communes: 1
+
+#### برج بوعريرج (B. B. Arreridj)
+
+Code: DZ034_bordj-bou-arreridj_b-b-arreridj, Postal: 34000, Coordinates: 36.043, 4.57
+
+### برج الغدير (Bordj Ghedir)
+
+Code: DZ034_bordj-ghedir, Coordinates: 35.897, 4.94
+Communes: 5
+
+#### بليمور (Belimour)
+
+Code: DZ034_bordj-ghedir_belimour, Postal: 34025, Coordinates: 35.984, 4.884
+
+#### برج الغدير (Bordj Ghedir)
+
+Code: DZ034_bordj-ghedir_bordj-ghedir, Postal: 34004, Coordinates: 35.897, 4.94
+
+#### العناصر (El Annasseur)
+
+Code: DZ034_bordj-ghedir_el-annasseur, Postal: 34030, Coordinates: 35.897, 4.94
+
+#### غيلاسة (Ghailasa)
+
+Code: DZ034_bordj-ghedir_ghailasa, Postal: 34031, Coordinates: 35.897, 4.94
+
+#### تقلعيت (Taglait)
+
+Code: DZ034_bordj-ghedir_taglait, Postal: 34059, Coordinates: 35.809, 4.996
+
+### برج زمورة (Bordj Zemmoura)
+
+Code: DZ034_bordj-zemmoura, Coordinates: 36.234, 4.777
+Communes: 3
+
+#### برج زمورة (Bordj Zemmoura)
+
+Code: DZ034_bordj-zemmoura_bordj-zemmoura, Postal: 34005, Coordinates: 36.234, 4.777
+
+#### أولاد دحمان (Ouled Dahmane)
+
+Code: DZ034_bordj-zemmoura_ouled-dahmane, Postal: 34033, Coordinates: 36.234, 4.777
+
+#### تسامرت (Tassamert)
+
+Code: DZ034_bordj-zemmoura_tassamert, Postal: 34026, Coordinates: 36.234, 4.777
+
+### جعافرة (Djaafra)
+
+Code: DZ034_djaafra, Coordinates: 36.309, 4.68
+Communes: 4
+
+#### القلة (Colla)
+
+Code: DZ034_djaafra_colla, Postal: 34015, Coordinates: 36.25, 4.666
+
+#### جعافرة (Djaafra)
+
+Code: DZ034_djaafra_djaafra, Postal: 34016, Coordinates: 36.293, 4.628
+
+#### الماين (El Main)
+
+Code: DZ034_djaafra_el-main, Postal: 34018, Coordinates: 36.385, 4.745
+
+#### تفرق (Tefreg)
+
+Code: DZ034_djaafra_tefreg, Postal: 34061, Coordinates: 36.309, 4.68
+
+### الحمادية (El Hamadia)
+
+Code: DZ034_el-hamadia, Coordinates: 35.934, 4.65
+Communes: 4
+
+#### العش (El Euch)
+
+Code: DZ034_el-hamadia_el-euch, Postal: 34029, Coordinates: 35.9, 4.598
+
+#### الحمادية (Elhammadia)
+
+Code: DZ034_el-hamadia_elhammadia, Coordinates: 35.934, 4.65
+
+#### القصور (Ksour)
+
+Code: DZ034_el-hamadia_ksour, Postal: 34048, Coordinates: 35.99, 4.567
+
+#### الرابطة (Rabta)
+
+Code: DZ034_el-hamadia_rabta, Postal: 34035, Coordinates: 35.913, 4.784
+
+### المنصورة (Mansourah)
+
+Code: DZ034_mansourah, Coordinates: 35.874, 3.532
+Communes: 5
+
+#### بن داود (Ben Daoud)
+
+Code: DZ034_mansourah_ben-daoud, Postal: 34073, Coordinates: 35.652, 0.507
+
+#### المهير (El M&#39;hir)
+
+Code: DZ034_mansourah_el-mhir, Postal: 34019, Coordinates: 36.096, 4.301
+
+#### حرازة (Haraza)
+
+Code: DZ034_mansourah_haraza, Postal: 34047, Coordinates: 36.165, 4.241
+
+#### المنصورة (Mansoura)
+
+Code: DZ034_mansourah_mansoura, Postal: 34008, Coordinates: 36.103, 4.473
+
+#### أولاد سيدي ابراهيم (Ouled Sidi-Brahim)
+
+Code: DZ034_mansourah_ouled-sidi-brahim, Postal: 34052, Coordinates: 35.356, 4.138
+
+### مجانة (Medjana)
+
+Code: DZ034_medjana, Coordinates: 36.128, 4.706
+Communes: 4
+
+#### الياشير (El Achir)
+
+Code: DZ034_medjana_el-achir, Postal: 34006, Coordinates: 36.07, 4.634
+
+#### حسناوة (Hasnaoua)
+
+Code: DZ034_medjana_hasnaoua, Postal: 34068, Coordinates: 36.164, 4.828
+
+#### مجانة (Medjana)
+
+Code: DZ034_medjana_medjana, Postal: 34009, Coordinates: 36.151, 4.657
+
+#### ثنية النصر (Teniet En Nasr)
+
+Code: DZ034_medjana_teniet-en-nasr, Postal: 34021, Coordinates: 36.128, 4.706
+
+### رأس الوادي (Ras El Oued)
+
+Code: DZ034_ras-el-oued, Coordinates: 35.918, 5.053
+Communes: 3
+
+#### عين تسرة (Ain Tesra)
+
+Code: DZ034_ras-el-oued_ain-tesra, Postal: 34027, Coordinates: 35.918, 5.053
+
+#### أولاد أبراهم (Ouled Brahem)
+
+Code: DZ034_ras-el-oued_ouled-brahem, Postal: 34032, Coordinates: 35.9, 5.08
+
+#### رأس الوادي (Ras El Oued)
+
+Code: DZ034_ras-el-oued_ras-el-oued, Postal: 34001, Coordinates: 35.937, 5.026
+

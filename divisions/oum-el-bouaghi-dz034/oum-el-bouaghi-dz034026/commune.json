@@ -1,0 +1,45 @@
+{
+  "id": "DZ034026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oum El Bouaghi",
+    "en": "Oum El Bouaghi",
+    "slug": "oum-el-bouaghi-dz034026"
+  },
+  "code": {
+    "id": "DZ034026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi-dz034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi-dz034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.84",
+    "lon": "7.157"
+  },
+  "metadata": {},
+  "source": {}
+}

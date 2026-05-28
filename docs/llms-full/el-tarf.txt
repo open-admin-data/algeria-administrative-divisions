@@ -1,0 +1,140 @@
+# El Tarf — Algeria Administrative Divisions
+
+> 7 dairas, 24 communes
+> Code: DZ036
+> Coordinates: 36.684, 7.664
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بن مهيدي (Ben M&#39;hidi)
+
+Code: DZ036_ben-mhidi, Coordinates: 36.825, 7.966
+Communes: 3
+
+#### بن مهيدي (Ben M Hidi)
+
+Code: DZ036_ben-mhidi_ben-m-hidi, Postal: 36003, Coordinates: 36.825, 7.966
+
+#### بريحان (Berrihane)
+
+Code: DZ036_ben-mhidi_berrihane, Postal: 36027, Coordinates: 36.838, 8.097
+
+#### الشط (Echatt)
+
+Code: DZ036_ben-mhidi_echatt, Postal: 36025, Coordinates: 36.811, 7.835
+
+### البسباس (Besbes)
+
+Code: DZ036_besbes, Coordinates: 36.698, 7.901
+Communes: 3
+
+#### عصفور (Asfour)
+
+Code: DZ036_besbes_asfour, Postal: 36012, Coordinates: 36.647, 7.974
+
+#### البسباس (Besbes)
+
+Code: DZ036_besbes_besbes, Postal: 36017, Coordinates: 36.723, 7.821
+
+#### زريزر (Zerizer)
+
+Code: DZ036_besbes_zerizer, Postal: 36015, Coordinates: 36.724, 7.909
+
+### بوحجار (Bouhadjar)
+
+Code: DZ036_bouhadjar, Coordinates: 36.286, 5.798
+Communes: 4
+
+#### عين الكرمة (Ain Kerma)
+
+Code: DZ036_bouhadjar_ain-kerma, Postal: 31059, Coordinates: 35.64, -0.984
+
+#### بوحجار (Bouhadjar)
+
+Code: DZ036_bouhadjar_bouhadjar, Postal: 36005, Coordinates: 36.52, 8.121
+
+#### حمام بني صالح (Hammam Beni Salah)
+
+Code: DZ036_bouhadjar_hammam-beni-salah, Postal: 36036, Coordinates: 36.539, 7.999
+
+#### وادي الزيتون (Oued Zitoun)
+
+Code: DZ036_bouhadjar_oued-zitoun, Postal: 36044, Coordinates: 36.446, 8.058
+
+### بوثلجة (Bouteldja)
+
+Code: DZ036_bouteldja, Coordinates: 36.74, 8.146
+Communes: 3
+
+#### بوثلجة (Bouteldja)
+
+Code: DZ036_bouteldja_bouteldja, Postal: 36006, Coordinates: 36.784, 8.233
+
+#### الشافية (Chefia)
+
+Code: DZ036_bouteldja_chefia, Postal: 36032, Coordinates: 36.674, 8.108
+
+#### بحيرة الطيور (Lac Des Oiseaux)
+
+Code: DZ036_bouteldja_lac-des-oiseaux, Postal: 36019, Coordinates: 36.763, 8.097
+
+### الذرعان (Drean)
+
+Code: DZ036_drean, Coordinates: 36.65, 7.796
+Communes: 3
+
+#### شبيطة مختار (Chebaita Mokhtar)
+
+Code: DZ036_drean_chebaita-mokhtar, Postal: 36013, Coordinates: 36.65, 7.796
+
+#### شحاني (Chihani)
+
+Code: DZ036_drean_chihani, Postal: 36014, Coordinates: 36.611, 7.868
+
+#### الذرعـان (Drean)
+
+Code: DZ036_drean_drean, Postal: 36001, Coordinates: 36.688, 7.724
+
+### القالة (El Kala)
+
+Code: DZ036_el-kala, Coordinates: 36.851, 8.535
+Communes: 4
+
+#### العيون (El Aioun)
+
+Code: DZ036_el-kala_el-aioun, Postal: 36018, Coordinates: 36.823, 8.628
+
+#### القالة (El Kala)
+
+Code: DZ036_el-kala_el-kala, Postal: 36002, Coordinates: 36.877, 8.384
+
+#### رمل السوق (Raml Souk)
+
+Code: DZ036_el-kala_raml-souk, Postal: 36021, Coordinates: 36.815, 8.544
+
+#### السوارخ (Souarekh)
+
+Code: DZ036_el-kala_souarekh, Postal: 36020, Coordinates: 36.89, 8.582
+
+### الطارف (El Tarf)
+
+Code: DZ036_el-tarf, Coordinates: 36.806, 7.904
+Communes: 4
+
+#### عين العسل (Ain El Assel)
+
+Code: DZ036_el-tarf_ain-el-assel, Postal: 36010, Coordinates: 36.806, 8.453
+
+#### بوقوس (Bougous)
+
+Code: DZ036_el-tarf_bougous, Postal: 36029, Coordinates: 36.672, 8.383
+
+#### الطارف (El Tarf)
+
+Code: DZ036_el-tarf_el-tarf, Postal: 36000, Coordinates: 36.757, 8.317
+
+#### الزيتونة (Zitouna)
+
+Code: DZ036_el-tarf_zitouna, Postal: 21028, Coordinates: 36.991, 6.464
+

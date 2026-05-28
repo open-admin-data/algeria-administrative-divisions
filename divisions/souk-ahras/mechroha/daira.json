@@ -1,0 +1,47 @@
+{
+  "id": "DZ041_mechroha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "المشروحة",
+    "en": "Mechroha",
+    "slug": "mechroha"
+  },
+  "code": {
+    "id": "DZ041_mechroha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.165",
+    "lon": "7.886"
+  },
+  "metadata": {},
+  "source": {}
+}

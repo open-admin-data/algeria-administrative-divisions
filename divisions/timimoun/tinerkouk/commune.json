@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ049_tinerkouk_ksar-kaddour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر قدور",
+      "en": "Ksar Kaddour",
+      "slug": "ksar-kaddour"
+    },
+    "code": {
+      "id": "DZ049_tinerkouk_ksar-kaddour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_tinerkouk",
+      "level": 2,
+      "name": {
+        "local": "تنركوك",
+        "en": "Tinerkouk",
+        "slug": "tinerkouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_tinerkouk",
+        "level": 2,
+        "name": {
+          "local": "تنركوك",
+          "en": "Tinerkouk",
+          "slug": "tinerkouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01035"
+    ],
+    "geo": {
+      "lat": "30.196",
+      "lon": "0.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049_tinerkouk_tinerkouk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تنركوك",
+      "en": "Tinerkouk",
+      "slug": "tinerkouk"
+    },
+    "code": {
+      "id": "DZ049_tinerkouk_tinerkouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ049_tinerkouk",
+      "level": 2,
+      "name": {
+        "local": "تنركوك",
+        "en": "Tinerkouk",
+        "slug": "tinerkouk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ049",
+        "level": 1,
+        "name": {
+          "local": "تيميمون",
+          "en": "Timimoun",
+          "slug": "timimoun"
+        }
+      },
+      {
+        "id": "DZ049_tinerkouk",
+        "level": 2,
+        "name": {
+          "local": "تنركوك",
+          "en": "Tinerkouk",
+          "slug": "tinerkouk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01013"
+    ],
+    "geo": {
+      "lat": "30.464",
+      "lon": "1.346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

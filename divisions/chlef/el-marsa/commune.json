@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ002_el-marsa_el-marsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرسى",
+      "en": "El Marsa",
+      "slug": "el-marsa"
+    },
+    "code": {
+      "id": "DZ002_el-marsa_el-marsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_el-marsa",
+      "level": 2,
+      "name": {
+        "local": "المرسى",
+        "en": "El Marsa",
+        "slug": "el-marsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_el-marsa",
+        "level": 2,
+        "name": {
+          "local": "المرسى",
+          "en": "El Marsa",
+          "slug": "el-marsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02015"
+    ],
+    "geo": {
+      "lat": "37.008",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_el-marsa_moussadek",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مصدق",
+      "en": "Moussadek",
+      "slug": "moussadek"
+    },
+    "code": {
+      "id": "DZ002_el-marsa_moussadek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_el-marsa",
+      "level": 2,
+      "name": {
+        "local": "المرسى",
+        "en": "El Marsa",
+        "slug": "el-marsa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_el-marsa",
+        "level": 2,
+        "name": {
+          "local": "المرسى",
+          "en": "El Marsa",
+          "slug": "el-marsa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02060"
+    ],
+    "geo": {
+      "lat": "36.353",
+      "lon": "1.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

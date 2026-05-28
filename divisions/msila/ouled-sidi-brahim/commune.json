@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ028_ouled-sidi-brahim_benzouh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن زوه",
+      "en": "Benzouh",
+      "slug": "benzouh"
+    },
+    "code": {
+      "id": "DZ028_ouled-sidi-brahim_benzouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-sidi-brahim",
+      "level": 2,
+      "name": {
+        "local": "أولاد سيدي ابراهيم",
+        "en": "Ouled Sidi Brahim",
+        "slug": "ouled-sidi-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-sidi-brahim",
+        "level": 2,
+        "name": {
+          "local": "أولاد سيدي ابراهيم",
+          "en": "Ouled Sidi Brahim",
+          "slug": "ouled-sidi-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28028"
+    ],
+    "geo": {
+      "lat": "35.468",
+      "lon": "4.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ouled-sidi-brahim_ouled-sidi-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سيدي ابراهيم",
+      "en": "Ouled Sidi Brahim",
+      "slug": "ouled-sidi-brahim"
+    },
+    "code": {
+      "id": "DZ028_ouled-sidi-brahim_ouled-sidi-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ouled-sidi-brahim",
+      "level": 2,
+      "name": {
+        "local": "أولاد سيدي ابراهيم",
+        "en": "Ouled Sidi Brahim",
+        "slug": "ouled-sidi-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ouled-sidi-brahim",
+        "level": 2,
+        "name": {
+          "local": "أولاد سيدي ابراهيم",
+          "en": "Ouled Sidi Brahim",
+          "slug": "ouled-sidi-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28032"
+    ],
+    "geo": {
+      "lat": "35.356",
+      "lon": "4.138"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

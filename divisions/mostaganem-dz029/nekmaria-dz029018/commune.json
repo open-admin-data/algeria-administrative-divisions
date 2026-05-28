@@ -1,0 +1,45 @@
+{
+  "id": "DZ029018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Nekmaria",
+    "en": "Nekmaria",
+    "slug": "nekmaria-dz029018"
+  },
+  "code": {
+    "id": "DZ029018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.182",
+    "lon": "0.63"
+  },
+  "metadata": {},
+  "source": {}
+}

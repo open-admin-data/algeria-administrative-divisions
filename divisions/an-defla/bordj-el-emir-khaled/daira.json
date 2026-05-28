@@ -1,0 +1,47 @@
+{
+  "id": "DZ044_bordj-el-emir-khaled",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج الأمير خالد",
+    "en": "Bordj El Emir Khaled",
+    "slug": "bordj-el-emir-khaled"
+  },
+  "code": {
+    "id": "DZ044_bordj-el-emir-khaled",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ044",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلة",
+      "en": "Aïn Defla",
+      "slug": "an-defla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلة",
+        "en": "Aïn Defla",
+        "slug": "an-defla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.044",
+    "lon": "2.164"
+  },
+  "metadata": {},
+  "source": {}
+}

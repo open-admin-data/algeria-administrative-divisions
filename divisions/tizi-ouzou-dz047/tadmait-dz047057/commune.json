@@ -1,0 +1,45 @@
+{
+  "id": "DZ047057",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tadmait",
+    "en": "Tadmait",
+    "slug": "tadmait-dz047057"
+  },
+  "code": {
+    "id": "DZ047057",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.721",
+    "lon": "3.883"
+  },
+  "metadata": {},
+  "source": {}
+}

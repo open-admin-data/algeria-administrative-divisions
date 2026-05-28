@@ -1,0 +1,29 @@
+{
+  "id": "DZ034",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "أم البواقي",
+    "en": "Oum El Bouaghi",
+    "slug": "oum-el-bouaghi-dz034"
+  },
+  "code": {
+    "id": "DZ034",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.813",
+    "lon": "7.017"
+  },
+  "metadata": {},
+  "source": {}
+}

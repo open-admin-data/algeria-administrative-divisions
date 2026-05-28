@@ -1,0 +1,29 @@
+{
+  "id": "DZ017",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "البيض",
+    "en": "El Bayadh",
+    "slug": "el-bayadh-dz017"
+  },
+  "code": {
+    "id": "DZ017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.608",
+    "lon": "1.11"
+  },
+  "metadata": {},
+  "source": {}
+}

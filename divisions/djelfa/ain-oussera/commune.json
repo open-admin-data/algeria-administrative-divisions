@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ017_ain-oussera_ain-oussera",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين وسارة",
+      "en": "Ain Oussera",
+      "slug": "ain-oussera"
+    },
+    "code": {
+      "id": "DZ017_ain-oussera_ain-oussera",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-oussera",
+      "level": 2,
+      "name": {
+        "local": "عين وسارة",
+        "en": "Ain Oussera",
+        "slug": "ain-oussera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-oussera",
+        "level": 2,
+        "name": {
+          "local": "عين وسارة",
+          "en": "Ain Oussera",
+          "slug": "ain-oussera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17001"
+    ],
+    "geo": {
+      "lat": "35.172",
+      "lon": "2.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_ain-oussera_guernini",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قرنيني",
+      "en": "Guernini",
+      "slug": "guernini"
+    },
+    "code": {
+      "id": "DZ017_ain-oussera_guernini",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-oussera",
+      "level": 2,
+      "name": {
+        "local": "عين وسارة",
+        "en": "Ain Oussera",
+        "slug": "ain-oussera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-oussera",
+        "level": 2,
+        "name": {
+          "local": "عين وسارة",
+          "en": "Ain Oussera",
+          "slug": "ain-oussera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17054"
+    ],
+    "geo": {
+      "lat": "35.172",
+      "lon": "2.785"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_berriane_berriane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريان",
+      "en": "Berriane",
+      "slug": "berriane"
+    },
+    "code": {
+      "id": "DZ047_berriane_berriane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_berriane",
+      "level": 2,
+      "name": {
+        "local": "بريان",
+        "en": "Berriane",
+        "slug": "berriane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_berriane",
+        "level": 2,
+        "name": {
+          "local": "بريان",
+          "en": "Berriane",
+          "slug": "berriane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47003"
+    ],
+    "geo": {
+      "lat": "32.892",
+      "lon": "3.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

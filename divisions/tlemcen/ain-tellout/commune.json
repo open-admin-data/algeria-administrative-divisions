@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_ain-tellout_ain-nehala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين النحالة",
+      "en": "Ain Nehala",
+      "slug": "ain-nehala"
+    },
+    "code": {
+      "id": "DZ013_ain-tellout_ain-nehala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ain-tellout",
+      "level": 2,
+      "name": {
+        "local": "عين تالوت",
+        "en": "Ain Tellout",
+        "slug": "ain-tellout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ain-tellout",
+        "level": 2,
+        "name": {
+          "local": "عين تالوت",
+          "en": "Ain Tellout",
+          "slug": "ain-tellout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13054"
+    ],
+    "geo": {
+      "lat": "35.035",
+      "lon": "-0.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ain-tellout_ain-tellout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تالوت",
+      "en": "Ain Tellout",
+      "slug": "ain-tellout"
+    },
+    "code": {
+      "id": "DZ013_ain-tellout_ain-tellout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ain-tellout",
+      "level": 2,
+      "name": {
+        "local": "عين تالوت",
+        "en": "Ain Tellout",
+        "slug": "ain-tellout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ain-tellout",
+        "level": 2,
+        "name": {
+          "local": "عين تالوت",
+          "en": "Ain Tellout",
+          "slug": "ain-tellout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13012"
+    ],
+    "geo": {
+      "lat": "35.035",
+      "lon": "-0.988"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

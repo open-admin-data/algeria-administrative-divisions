@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ032_chellala_chellala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلالة",
+      "en": "Chellala",
+      "slug": "chellala"
+    },
+    "code": {
+      "id": "DZ032_chellala_chellala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_chellala",
+      "level": 2,
+      "name": {
+        "local": "شلالة",
+        "en": "Chellala",
+        "slug": "chellala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_chellala",
+        "level": 2,
+        "name": {
+          "local": "شلالة",
+          "en": "Chellala",
+          "slug": "chellala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32015"
+    ],
+    "geo": {
+      "lat": "33.028",
+      "lon": "0.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_chellala_el-mehara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المحرة",
+      "en": "El Mehara",
+      "slug": "el-mehara"
+    },
+    "code": {
+      "id": "DZ032_chellala_el-mehara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_chellala",
+      "level": 2,
+      "name": {
+        "local": "شلالة",
+        "en": "Chellala",
+        "slug": "chellala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_chellala",
+        "level": 2,
+        "name": {
+          "local": "شلالة",
+          "en": "Chellala",
+          "slug": "chellala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32024"
+    ],
+    "geo": {
+      "lat": "33.272",
+      "lon": "0.195"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

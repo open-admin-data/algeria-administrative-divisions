@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ045_ain-sefra,عين الصفراء,Ain Sefra,ain-sefra,DZ045_ain-sefra,2,32.82,-0.505
+DZ045_asla,عسلة,Asla,asla,DZ045_asla,1,32.728,-0.169
+DZ045_mecheria,المشرية,Mecheria,mecheria,DZ045_mecheria,3,33.164,-0.95
+DZ045_mekmen-ben-amar,مكمن بن عمار,Mekmen Ben Amar,mekmen-ben-amar,DZ045_mekmen-ben-amar,2,33.642,-1.393
+DZ045_moghrar,مغرار,Moghrar,moghrar,DZ045_moghrar,2,32.441,-0.548
+DZ045_naama,النعامة,Naama,naama,DZ045_naama,1,33.291,-0.302
+DZ045_sfissifa,سفيسيفة,Sfissifa,sfissifa,DZ045_sfissifa,1,32.792,-1.024

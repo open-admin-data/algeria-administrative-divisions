@@ -1,0 +1,45 @@
+{
+  "id": "DZ043019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Medrissa",
+    "en": "Medrissa",
+    "slug": "medrissa-dz043019"
+  },
+  "code": {
+    "id": "DZ043019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.835",
+    "lon": "1.232"
+  },
+  "metadata": {},
+  "source": {}
+}

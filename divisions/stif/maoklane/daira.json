@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_maoklane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ماوكلان",
+    "en": "Maoklane",
+    "slug": "maoklane"
+  },
+  "code": {
+    "id": "DZ019_maoklane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.455",
+    "lon": "5.119"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ028_hammam-dalaa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حمام الضلعة",
+    "en": "Hammam Dalaa",
+    "slug": "hammam-dalaa"
+  },
+  "code": {
+    "id": "DZ028_hammam-dalaa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.776",
+    "lon": "4.329"
+  },
+  "metadata": {},
+  "source": {}
+}

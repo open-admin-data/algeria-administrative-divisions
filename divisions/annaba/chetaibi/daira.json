@@ -1,0 +1,47 @@
+{
+  "id": "DZ023_chetaibi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "شطايبي",
+    "en": "Chetaibi",
+    "slug": "chetaibi"
+  },
+  "code": {
+    "id": "DZ023_chetaibi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.012",
+    "lon": "7.405"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ035_bordj-menaiel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج منايل",
+    "en": "Bordj Menaiel",
+    "slug": "bordj-menaiel"
+  },
+  "code": {
+    "id": "DZ035_bordj-menaiel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.795",
+    "lon": "3.692"
+  },
+  "metadata": {},
+  "source": {}
+}

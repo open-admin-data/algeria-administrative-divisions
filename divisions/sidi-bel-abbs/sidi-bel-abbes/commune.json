@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ022_sidi-bel-abbes_sidi-bel-abbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel-Abbes",
+      "slug": "sidi-bel-abbes"
+    },
+    "code": {
+      "id": "DZ022_sidi-bel-abbes_sidi-bel-abbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-bel-abbes",
+      "level": 2,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-bel-abbes",
+        "level": 2,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "35.21",
+      "lon": "-0.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

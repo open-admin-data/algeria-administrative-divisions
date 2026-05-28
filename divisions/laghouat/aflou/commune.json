@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ003_aflou_aflou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أفلو",
+      "en": "Aflou",
+      "slug": "aflou"
+    },
+    "code": {
+      "id": "DZ003_aflou_aflou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_aflou",
+      "level": 2,
+      "name": {
+        "local": "أفلو",
+        "en": "Aflou",
+        "slug": "aflou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_aflou",
+        "level": 2,
+        "name": {
+          "local": "أفلو",
+          "en": "Aflou",
+          "slug": "aflou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03001"
+    ],
+    "geo": {
+      "lat": "34.157",
+      "lon": "2.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_aflou_sebgag",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سبقاق",
+      "en": "Sebgag",
+      "slug": "sebgag"
+    },
+    "code": {
+      "id": "DZ003_aflou_sebgag",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_aflou",
+      "level": 2,
+      "name": {
+        "local": "أفلو",
+        "en": "Aflou",
+        "slug": "aflou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_aflou",
+        "level": 2,
+        "name": {
+          "local": "أفلو",
+          "en": "Aflou",
+          "slug": "aflou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03034"
+    ],
+    "geo": {
+      "lat": "34.056",
+      "lon": "1.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_aflou_sidi-bouzid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بوزيد",
+      "en": "Sidi Bouzid",
+      "slug": "sidi-bouzid"
+    },
+    "code": {
+      "id": "DZ003_aflou_sidi-bouzid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_aflou",
+      "level": 2,
+      "name": {
+        "local": "أفلو",
+        "en": "Aflou",
+        "slug": "aflou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_aflou",
+        "level": 2,
+        "name": {
+          "local": "أفلو",
+          "en": "Aflou",
+          "slug": "aflou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03024"
+    ],
+    "geo": {
+      "lat": "34.329",
+      "lon": "2.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

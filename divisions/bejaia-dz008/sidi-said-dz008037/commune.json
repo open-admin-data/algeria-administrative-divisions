@@ -1,0 +1,45 @@
+{
+  "id": "DZ008037",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Said",
+    "en": "Sidi Said",
+    "slug": "sidi-said-dz008037"
+  },
+  "code": {
+    "id": "DZ008037",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.569",
+    "lon": "4.736"
+  },
+  "metadata": {},
+  "source": {}
+}

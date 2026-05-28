@@ -1,0 +1,45 @@
+{
+  "id": "DZ039011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bir El Ouiden",
+    "en": "Bir El Ouiden",
+    "slug": "bir-el-ouiden-dz039011"
+  },
+  "code": {
+    "id": "DZ039011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.819",
+    "lon": "6.554"
+  },
+  "metadata": {},
+  "source": {}
+}

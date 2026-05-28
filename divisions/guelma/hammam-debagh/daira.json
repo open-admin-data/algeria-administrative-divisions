@@ -1,0 +1,47 @@
+{
+  "id": "DZ024_hammam-debagh",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حمام دباغ",
+    "en": "Hammam Debagh",
+    "slug": "hammam-debagh"
+  },
+  "code": {
+    "id": "DZ024_hammam-debagh",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.535",
+    "lon": "7.231"
+  },
+  "metadata": {},
+  "source": {}
+}

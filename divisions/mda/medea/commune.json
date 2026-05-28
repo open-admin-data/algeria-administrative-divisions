@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_medea_draa-esmar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ذراع السمار",
+      "en": "Draa Esmar",
+      "slug": "draa-esmar"
+    },
+    "code": {
+      "id": "DZ026_medea_draa-esmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_medea",
+      "level": 2,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_medea",
+        "level": 2,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26017"
+    ],
+    "geo": {
+      "lat": "36.306",
+      "lon": "2.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_medea_medea",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea"
+    },
+    "code": {
+      "id": "DZ026_medea_medea",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_medea",
+      "level": 2,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_medea",
+        "level": 2,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26000"
+    ],
+    "geo": {
+      "lat": "36.289",
+      "lon": "2.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_medea_tamesguida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تمسقيدة",
+      "en": "Tamesguida",
+      "slug": "tamesguida"
+    },
+    "code": {
+      "id": "DZ026_medea_tamesguida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_medea",
+      "level": 2,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_medea",
+        "level": 2,
+        "name": {
+          "local": "المدية",
+          "en": "Medea",
+          "slug": "medea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26075"
+    ],
+    "geo": {
+      "lat": "36.323",
+      "lon": "2.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

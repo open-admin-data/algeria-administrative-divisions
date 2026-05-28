@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ042_gouraya_aghbal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أغبال",
+      "en": "Aghbal",
+      "slug": "aghbal"
+    },
+    "code": {
+      "id": "DZ042_gouraya_aghbal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_gouraya",
+      "level": 2,
+      "name": {
+        "local": "قوراية",
+        "en": "Gouraya",
+        "slug": "gouraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_gouraya",
+        "level": 2,
+        "name": {
+          "local": "قوراية",
+          "en": "Gouraya",
+          "slug": "gouraya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42035"
+    ],
+    "geo": {
+      "lat": "36.513",
+      "lon": "1.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_gouraya_gouraya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قوراية",
+      "en": "Gouraya",
+      "slug": "gouraya"
+    },
+    "code": {
+      "id": "DZ042_gouraya_gouraya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_gouraya",
+      "level": 2,
+      "name": {
+        "local": "قوراية",
+        "en": "Gouraya",
+        "slug": "gouraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_gouraya",
+        "level": 2,
+        "name": {
+          "local": "قوراية",
+          "en": "Gouraya",
+          "slug": "gouraya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42007"
+    ],
+    "geo": {
+      "lat": "36.532",
+      "lon": "1.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_gouraya_messelmoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسلمون",
+      "en": "Messelmoun",
+      "slug": "messelmoun"
+    },
+    "code": {
+      "id": "DZ042_gouraya_messelmoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_gouraya",
+      "level": 2,
+      "name": {
+        "local": "قوراية",
+        "en": "Gouraya",
+        "slug": "gouraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_gouraya",
+        "level": 2,
+        "name": {
+          "local": "قوراية",
+          "en": "Gouraya",
+          "slug": "gouraya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42036"
+    ],
+    "geo": {
+      "lat": "36.49",
+      "lon": "2.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

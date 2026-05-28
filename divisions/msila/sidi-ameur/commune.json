@@ -1,0 +1,112 @@
+[
+  {
+    "id": "DZ028_sidi-ameur_sidi-ameur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عامر",
+      "en": "Sidi Ameur",
+      "slug": "sidi-ameur"
+    },
+    "code": {
+      "id": "DZ028_sidi-ameur_sidi-ameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_sidi-ameur",
+      "level": 2,
+      "name": {
+        "local": "سيدي عامر",
+        "en": "Sidi Ameur",
+        "slug": "sidi-ameur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_sidi-ameur",
+        "level": 2,
+        "name": {
+          "local": "سيدي عامر",
+          "en": "Sidi Ameur",
+          "slug": "sidi-ameur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.368",
+      "lon": "3.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_sidi-ameur_tamsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامسة",
+      "en": "Tamsa",
+      "slug": "tamsa"
+    },
+    "code": {
+      "id": "DZ028_sidi-ameur_tamsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_sidi-ameur",
+      "level": 2,
+      "name": {
+        "local": "سيدي عامر",
+        "en": "Sidi Ameur",
+        "slug": "sidi-ameur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_sidi-ameur",
+        "level": 2,
+        "name": {
+          "local": "سيدي عامر",
+          "en": "Sidi Ameur",
+          "slug": "sidi-ameur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28065"
+    ],
+    "geo": {
+      "lat": "35.205",
+      "lon": "3.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

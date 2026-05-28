@@ -1,0 +1,45 @@
+{
+  "id": "DZ016022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Had Sahary",
+    "en": "Had Sahary",
+    "slug": "had-sahary-dz016022"
+  },
+  "code": {
+    "id": "DZ016022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.348",
+    "lon": "3.352"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ030027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Menaa",
+    "en": "Menaa",
+    "slug": "menaa-dz030027"
+  },
+  "code": {
+    "id": "DZ030027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.135",
+    "lon": "3.719"
+  },
+  "metadata": {},
+  "source": {}
+}

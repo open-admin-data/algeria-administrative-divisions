@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_tizi-rached",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيزي راشد",
+    "en": "Tizi Rached",
+    "slug": "tizi-rached"
+  },
+  "code": {
+    "id": "DZ015_tizi-rached",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.674",
+    "lon": "4.21"
+  },
+  "metadata": {},
+  "source": {}
+}

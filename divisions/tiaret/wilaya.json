@@ -1,0 +1,30 @@
+{
+  "id": "DZ014",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تيارت",
+    "en": "Tiaret",
+    "slug": "tiaret"
+  },
+  "code": {
+    "id": "DZ014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 14,
+    "commune": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.897",
+    "lon": "1.591"
+  },
+  "metadata": {},
+  "source": {}
+}

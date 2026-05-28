@@ -1,0 +1,45 @@
+{
+  "id": "DZ023013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Milia",
+    "en": "El Milia",
+    "slug": "el-milia-dz023013"
+  },
+  "code": {
+    "id": "DZ023013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.807",
+    "lon": "6.289"
+  },
+  "metadata": {},
+  "source": {}
+}

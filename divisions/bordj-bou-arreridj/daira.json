@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ034_ain-taghrout",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين تاغروت",
+      "en": "Ain Taghrout",
+      "slug": "ain-taghrout"
+    },
+    "code": {
+      "id": "DZ034_ain-taghrout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.091",
+      "lon": "5.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bir-kasdali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر قاصد علي",
+      "en": "Bir Kasdali",
+      "slug": "bir-kasdali"
+    },
+    "code": {
+      "id": "DZ034_bir-kasdali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.166",
+      "lon": "4.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-bou-arreridj",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj"
+    },
+    "code": {
+      "id": "DZ034_bordj-bou-arreridj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.043",
+      "lon": "4.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-ghedir",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج الغدير",
+      "en": "Bordj Ghedir",
+      "slug": "bordj-ghedir"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.897",
+      "lon": "4.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-zemmoura",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج زمورة",
+      "en": "Bordj Zemmoura",
+      "slug": "bordj-zemmoura"
+    },
+    "code": {
+      "id": "DZ034_bordj-zemmoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.234",
+      "lon": "4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_djaafra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جعافرة",
+      "en": "Djaafra",
+      "slug": "djaafra"
+    },
+    "code": {
+      "id": "DZ034_djaafra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.309",
+      "lon": "4.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_el-hamadia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحمادية",
+      "en": "El Hamadia",
+      "slug": "el-hamadia"
+    },
+    "code": {
+      "id": "DZ034_el-hamadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.934",
+      "lon": "4.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_mansourah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ034_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.874",
+      "lon": "3.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_medjana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مجانة",
+      "en": "Medjana",
+      "slug": "medjana"
+    },
+    "code": {
+      "id": "DZ034_medjana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.128",
+      "lon": "4.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_ras-el-oued",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "رأس الوادي",
+      "en": "Ras El Oued",
+      "slug": "ras-el-oued"
+    },
+    "code": {
+      "id": "DZ034_ras-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.918",
+      "lon": "5.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

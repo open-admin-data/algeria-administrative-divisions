@@ -1,0 +1,45 @@
+{
+  "id": "DZ006059",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Timgad",
+    "en": "Timgad",
+    "slug": "timgad-dz006059"
+  },
+  "code": {
+    "id": "DZ006059",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.529",
+    "lon": "6.5"
+  },
+  "metadata": {},
+  "source": {}
+}

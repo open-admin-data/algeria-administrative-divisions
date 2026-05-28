@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "DZ026001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fares",
+      "en": "Ain Fares",
+      "slug": "ain-fares-dz026001"
+    },
+    "code": {
+      "id": "DZ026001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.481",
+      "lon": "0.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fekan",
+      "en": "Ain Fekan",
+      "slug": "ain-fekan-dz026002"
+    },
+    "code": {
+      "id": "DZ026002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.183",
+      "lon": "-0.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Ferah",
+      "en": "Ain Ferah",
+      "slug": "ain-ferah-dz026003"
+    },
+    "code": {
+      "id": "DZ026003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.373",
+      "lon": "0.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Frass",
+      "en": "Ain Frass",
+      "slug": "ain-frass-dz026004"
+    },
+    "code": {
+      "id": "DZ026004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.196",
+      "lon": "-0.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alaimia",
+      "en": "Alaimia",
+      "slug": "alaimia-dz026005"
+    },
+    "code": {
+      "id": "DZ026005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.687",
+      "lon": "-0.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aouf",
+      "en": "Aouf",
+      "slug": "aouf-dz026006"
+    },
+    "code": {
+      "id": "DZ026006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.127",
+      "lon": "0.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benian",
+      "en": "Benian",
+      "slug": "benian-dz026007"
+    },
+    "code": {
+      "id": "DZ026007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.086",
+      "lon": "0.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhanifia",
+      "en": "Bouhanifia",
+      "slug": "bouhanifia-dz026008"
+    },
+    "code": {
+      "id": "DZ026008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.307",
+      "lon": "-0.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhenni",
+      "en": "Bouhenni",
+      "slug": "bouhenni-dz026009"
+    },
+    "code": {
+      "id": "DZ026009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.532",
+      "lon": "-0.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chorfa",
+      "en": "Chorfa",
+      "slug": "chorfa-dz026010"
+    },
+    "code": {
+      "id": "DZ026010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.425",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Bordj",
+      "en": "El Bordj",
+      "slug": "el-bordj-dz026011"
+    },
+    "code": {
+      "id": "DZ026011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.507",
+      "lon": "0.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Gaada",
+      "en": "El Gaada",
+      "slug": "el-gaada-dz026012"
+    },
+    "code": {
+      "id": "DZ026012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.433",
+      "lon": "-0.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghomri",
+      "en": "El Ghomri",
+      "slug": "el-ghomri-dz026013"
+    },
+    "code": {
+      "id": "DZ026013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.68",
+      "lon": "0.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Gueitna",
+      "en": "El Gueitna",
+      "slug": "el-gueitna-dz026014"
+    },
+    "code": {
+      "id": "DZ026014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.42",
+      "lon": "-0.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hachem",
+      "en": "El Hachem",
+      "slug": "el-hachem-dz026015"
+    },
+    "code": {
+      "id": "DZ026015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.365",
+      "lon": "0.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Keurt",
+      "en": "El Keurt",
+      "slug": "el-keurt-dz026016"
+    },
+    "code": {
+      "id": "DZ026016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.39",
+      "lon": "0.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mamounia",
+      "en": "El Mamounia",
+      "slug": "el-mamounia-dz026017"
+    },
+    "code": {
+      "id": "DZ026017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.464",
+      "lon": "0.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Menaouer",
+      "en": "El Menaouer",
+      "slug": "el-menaouer-dz026018"
+    },
+    "code": {
+      "id": "DZ026018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.53",
+      "lon": "0.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ferraguig",
+      "en": "Ferraguig",
+      "slug": "ferraguig-dz026019"
+    },
+    "code": {
+      "id": "DZ026019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.555",
+      "lon": "0.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Froha",
+      "en": "Froha",
+      "slug": "froha-dz026020"
+    },
+    "code": {
+      "id": "DZ026020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.28",
+      "lon": "0.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gharrous",
+      "en": "Gharrous",
+      "slug": "gharrous-dz026021"
+    },
+    "code": {
+      "id": "DZ026021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.147",
+      "lon": "0.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghriss",
+      "en": "Ghriss",
+      "slug": "ghriss-dz026022"
+    },
+    "code": {
+      "id": "DZ026022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.232",
+      "lon": "0.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guerdjoum",
+      "en": "Guerdjoum",
+      "slug": "guerdjoum-dz026023"
+    },
+    "code": {
+      "id": "DZ026023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.198",
+      "lon": "0.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hacine",
+      "en": "Hacine",
+      "slug": "hacine-dz026024"
+    },
+    "code": {
+      "id": "DZ026024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.452",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khalouia",
+      "en": "Khalouia",
+      "slug": "khalouia-dz026025"
+    },
+    "code": {
+      "id": "DZ026025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.462",
+      "lon": "0.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makda",
+      "en": "Makda",
+      "slug": "makda-dz026026"
+    },
+    "code": {
+      "id": "DZ026026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.193",
+      "lon": "0.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maoussa",
+      "en": "Maoussa",
+      "slug": "maoussa-dz026027"
+    },
+    "code": {
+      "id": "DZ026027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.379",
+      "lon": "0.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mascara",
+      "en": "Mascara",
+      "slug": "mascara-dz026028"
+    },
+    "code": {
+      "id": "DZ026028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.387",
+      "lon": "0.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matmore",
+      "en": "Matmore",
+      "slug": "matmore-dz026029"
+    },
+    "code": {
+      "id": "DZ026029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.303",
+      "lon": "0.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moctadouz",
+      "en": "Moctadouz",
+      "slug": "moctadouz-dz026030"
+    },
+    "code": {
+      "id": "DZ026030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.688",
+      "lon": "-0.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mohammadia",
+      "en": "Mohammadia",
+      "slug": "mohammadia-dz026031"
+    },
+    "code": {
+      "id": "DZ026031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.585",
+      "lon": "0.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nesmoth",
+      "en": "Nesmoth",
+      "slug": "nesmoth-dz026032"
+    },
+    "code": {
+      "id": "DZ026032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.244",
+      "lon": "0.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oggaz",
+      "en": "Oggaz",
+      "slug": "oggaz-dz026033"
+    },
+    "code": {
+      "id": "DZ026033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.574",
+      "lon": "-0.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Abtal",
+      "en": "Oued El Abtal",
+      "slug": "oued-el-abtal-dz026034"
+    },
+    "code": {
+      "id": "DZ026034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.417",
+      "lon": "0.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Taghia",
+      "en": "Oued Taghia",
+      "slug": "oued-taghia-dz026035"
+    },
+    "code": {
+      "id": "DZ026035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.124",
+      "lon": "0.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Ain Amirouche",
+      "en": "Ras El Ain Amirouche",
+      "slug": "ras-el-ain-amirouche-dz026036"
+    },
+    "code": {
+      "id": "DZ026036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.626",
+      "lon": "-0.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sedjerara",
+      "en": "Sedjerara",
+      "slug": "sedjerara-dz026037"
+    },
+    "code": {
+      "id": "DZ026037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.607",
+      "lon": "0.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sehailia",
+      "en": "Sehailia",
+      "slug": "sehailia-dz026038"
+    },
+    "code": {
+      "id": "DZ026038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.465",
+      "lon": "0.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abdeldjabar",
+      "en": "Sidi Abdeldjabar",
+      "slug": "sidi-abdeldjabar-dz026039"
+    },
+    "code": {
+      "id": "DZ026039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.466",
+      "lon": "0.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abdelmoumene",
+      "en": "Sidi Abdelmoumene",
+      "slug": "sidi-abdelmoumene-dz026040"
+    },
+    "code": {
+      "id": "DZ026040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.689",
+      "lon": "0.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Boussaid",
+      "en": "Sidi Boussaid",
+      "slug": "sidi-boussaid-dz026041"
+    },
+    "code": {
+      "id": "DZ026041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.276",
+      "lon": "0.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Kada",
+      "en": "Sidi Kada",
+      "slug": "sidi-kada-dz026042"
+    },
+    "code": {
+      "id": "DZ026042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.331",
+      "lon": "0.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sig",
+      "en": "Sig",
+      "slug": "sig-dz026043"
+    },
+    "code": {
+      "id": "DZ026043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.531",
+      "lon": "-0.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tighennif",
+      "en": "Tighennif",
+      "slug": "tighennif-dz026044"
+    },
+    "code": {
+      "id": "DZ026044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.411",
+      "lon": "0.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi",
+      "en": "Tizi",
+      "slug": "tizi-dz026045"
+    },
+    "code": {
+      "id": "DZ026045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.32",
+      "lon": "0.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zahana",
+      "en": "Zahana",
+      "slug": "zahana-dz026046"
+    },
+    "code": {
+      "id": "DZ026046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.503",
+      "lon": "-0.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zelmata",
+      "en": "Zelmata",
+      "slug": "zelmata-dz026047"
+    },
+    "code": {
+      "id": "DZ026047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara-dz026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.269",
+      "lon": "0.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

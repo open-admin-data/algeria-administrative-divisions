@@ -1,0 +1,223 @@
+# Aïn Defla — Algeria Administrative Divisions
+
+> 14 dairas, 36 communes
+> Code: DZ044
+> Coordinates: 36.228, 2.232
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الدفلى (Ain Defla)
+
+Code: DZ044_ain-defla, Coordinates: 36.257, 1.955
+Communes: 1
+
+#### عين الدفلى (Ain-Defla)
+
+Code: DZ044_ain-defla_ain-defla, Postal: 44000, Coordinates: 36.257, 1.955
+
+### عين الاشياخ (Ain Lechiakh)
+
+Code: DZ044_ain-lechiakh, Coordinates: 36.117, 4.047
+Communes: 3
+
+#### عين الاشياخ (Ain-Lechiakh)
+
+Code: DZ044_ain-lechiakh_ain-lechiakh, Postal: 44018, Coordinates: 36.124, 2.408
+
+#### عين السلطان (Ain-Soltane)
+
+Code: DZ044_ain-lechiakh_ain-soltane, Postal: 44019, Coordinates: 36.182, 7.36
+
+#### واد الجمعة (Oued Djemaa)
+
+Code: DZ044_ain-lechiakh_oued-djemaa, Postal: 44049, Coordinates: 36.044, 2.372
+
+### بطحية (Bathia)
+
+Code: DZ044_bathia, Coordinates: 35.977, 1.793
+Communes: 3
+
+#### بطحية (Bathia)
+
+Code: DZ044_bathia_bathia, Postal: 44041, Coordinates: 35.925, 1.792
+
+#### بلعاص (Belaas)
+
+Code: DZ044_bathia_belaas, Postal: 44038, Coordinates: 36.028, 1.794
+
+#### الحسانية (Hassania)
+
+Code: DZ044_bathia_hassania, Postal: 44022, Coordinates: 35.977, 1.793
+
+### برج الأمير خالد (Bordj El Emir Khaled)
+
+Code: DZ044_bordj-el-emir-khaled, Coordinates: 36.044, 2.164
+Communes: 3
+
+#### بئر ولد خليفة (Bir-Ould-Khelifa)
+
+Code: DZ044_bordj-el-emir-khaled_bir-ould-khelifa, Postal: 44043, Coordinates: 36.044, 2.164
+
+#### برج الأمير خالد (Bordj-Emir-Khaled)
+
+Code: DZ044_bordj-el-emir-khaled_bordj-emir-khaled, Postal: 44021, Coordinates: 36.104, 2.175
+
+#### طارق بن زياد (Tarik-Ibn-Ziad)
+
+Code: DZ044_bordj-el-emir-khaled_tarik-ibn-ziad, Postal: 44029, Coordinates: 35.984, 2.153
+
+### بومدفع (Boumedfaa)
+
+Code: DZ044_boumedfaa, Coordinates: 36.354, 2.498
+Communes: 2
+
+#### بومدفع (Boumedfaa)
+
+Code: DZ044_boumedfaa_boumedfaa, Postal: 44004, Coordinates: 36.354, 2.498
+
+#### الحسينية (Hoceinia)
+
+Code: DZ044_boumedfaa_hoceinia, Postal: 44048, Coordinates: 36.354, 2.498
+
+### جليدة (Djelida)
+
+Code: DZ044_djelida, Coordinates: 36.143, 1.995
+Communes: 3
+
+#### بوراشد (Bourached)
+
+Code: DZ044_djelida_bourached, Postal: 44044, Coordinates: 36.182, 1.913
+
+#### جليدة (Djelida)
+
+Code: DZ044_djelida_djelida, Postal: 44009, Coordinates: 36.175, 2.079
+
+#### جمعة أولاد الشيخ (Djemaa Ouled Cheikh)
+
+Code: DZ044_djelida_djemaa-ouled-cheikh, Postal: 44047, Coordinates: 36.073, 1.994
+
+### جندل (Djendel)
+
+Code: DZ044_djendel, Coordinates: 36.198, 2.478
+Communes: 3
+
+#### بربوش (Birbouche)
+
+Code: DZ044_djendel_birbouche, Postal: 44042, Coordinates: 36.198, 2.478
+
+#### جندل (Djendel)
+
+Code: DZ044_djendel_djendel, Postal: 44005, Coordinates: 36.245, 2.413
+
+#### وادي الشرفاء (Oued Chorfa)
+
+Code: DZ044_djendel_oued-chorfa, Postal: 44024, Coordinates: 36.152, 2.542
+
+### العبادية (El Abadia)
+
+Code: DZ044_el-abadia, Coordinates: 36.345, 1.749
+Communes: 3
+
+#### عين بويحيى (Ain-Bouyahia)
+
+Code: DZ044_el-abadia_ain-bouyahia, Postal: 44032, Coordinates: 36.345, 1.749
+
+#### العبادية (El-Abadia)
+
+Code: DZ044_el-abadia_el-abadia, Postal: 44006, Coordinates: 36.345, 1.749
+
+#### تاشتة زقاغة (Tacheta Zegagha)
+
+Code: DZ044_el-abadia_tacheta-zegagha, Postal: 44028, Coordinates: 36.345, 1.749
+
+### العامرة (El Amra)
+
+Code: DZ044_el-amra, Coordinates: 36.351, 1.954
+Communes: 3
+
+#### عريب (Arib)
+
+Code: DZ044_el-amra_arib, Postal: 44008, Coordinates: 36.349, 2.043
+
+#### العامرة (El-Amra)
+
+Code: DZ044_el-amra_el-amra, Postal: 44010, Coordinates: 36.345, 1.856
+
+#### المخاطرية (Mekhatria)
+
+Code: DZ044_el-amra_mekhatria, Postal: 44050, Coordinates: 36.358, 1.963
+
+### العطاف (El Attaf)
+
+Code: DZ044_el-attaf, Coordinates: 36.185, 1.675
+Communes: 2
+
+#### العطاف (El-Attaf)
+
+Code: DZ044_el-attaf_el-attaf, Postal: 44002, Coordinates: 36.217, 1.703
+
+#### تبركانين (Tiberkanine)
+
+Code: DZ044_el-attaf_tiberkanine, Postal: 44030, Coordinates: 36.153, 1.646
+
+### حمام ريغة (Hammam Righa)
+
+Code: DZ044_hammam-righa, Coordinates: 36.513, 2.528
+Communes: 3
+
+#### عين البنيان (Ain-Benian)
+
+Code: DZ044_hammam-righa_ain-benian, Postal: 44035, Coordinates: 36.796, 2.929
+
+#### عين التركي (Ain-Torki)
+
+Code: DZ044_hammam-righa_ain-torki, Postal: 44020, Coordinates: 36.346, 2.292
+
+#### حمام ريغة (Hammam-Righa)
+
+Code: DZ044_hammam-righa_hammam-righa, Postal: 44023, Coordinates: 36.397, 2.364
+
+### خميس (Khemis)
+
+Code: DZ044_khemis, Coordinates: 36.22, 1.333
+Communes: 2
+
+#### خميس مليانة (Khemis-Miliana)
+
+Code: DZ044_khemis_khemis-miliana, Postal: 44001, Coordinates: 36.259, 2.221
+
+#### سيدي الأخضر (Sidi-Lakhdar)
+
+Code: DZ044_khemis_sidi-lakhdar, Postal: 27007, Coordinates: 36.181, 0.444
+
+### مليانة (Miliana)
+
+Code: DZ044_miliana, Coordinates: 36.334, 2.204
+Communes: 2
+
+#### بن علال (Ben Allal)
+
+Code: DZ044_miliana_ben-allal, Postal: 44040, Coordinates: 36.353, 2.172
+
+#### مليانة (Miliana)
+
+Code: DZ044_miliana_miliana, Postal: 44003, Coordinates: 36.315, 2.235
+
+### الروينة (Rouina)
+
+Code: DZ044_rouina, Coordinates: 36.184, 1.839
+Communes: 3
+
+#### الماين (El-Maine)
+
+Code: DZ044_rouina_el-maine, Postal: 44051, Coordinates: 36.184, 1.839
+
+#### الروينة (Rouina)
+
+Code: DZ044_rouina_rouina, Postal: 44017, Coordinates: 36.233, 1.821
+
+#### زدين (Zeddine)
+
+Code: DZ044_rouina_zeddine, Postal: 44031, Coordinates: 36.135, 1.856
+

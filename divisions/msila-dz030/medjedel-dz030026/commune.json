@@ -1,0 +1,45 @@
+{
+  "id": "DZ030026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Medjedel",
+    "en": "Medjedel",
+    "slug": "medjedel-dz030026"
+  },
+  "code": {
+    "id": "DZ030026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.063",
+    "lon": "3.67"
+  },
+  "metadata": {},
+  "source": {}
+}

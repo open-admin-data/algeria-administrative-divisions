@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_gdyel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قديل",
+    "en": "Gdyel",
+    "slug": "gdyel"
+  },
+  "code": {
+    "id": "DZ031_gdyel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.769",
+    "lon": "-0.399"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ020_sidi-boubekeur_hounet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هونت",
+      "en": "Hounet",
+      "slug": "hounet"
+    },
+    "code": {
+      "id": "DZ020_sidi-boubekeur_hounet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_sidi-boubekeur",
+      "level": 2,
+      "name": {
+        "local": "سيدي بوبكر",
+        "en": "Sidi Boubekeur",
+        "slug": "sidi-boubekeur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_sidi-boubekeur",
+        "level": 2,
+        "name": {
+          "local": "سيدي بوبكر",
+          "en": "Sidi Boubekeur",
+          "slug": "sidi-boubekeur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20025"
+    ],
+    "geo": {
+      "lat": "35.091",
+      "lon": "-0.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_sidi-boubekeur_ouled-khaled",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد خالد",
+      "en": "Ouled Khaled",
+      "slug": "ouled-khaled"
+    },
+    "code": {
+      "id": "DZ020_sidi-boubekeur_ouled-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_sidi-boubekeur",
+      "level": 2,
+      "name": {
+        "local": "سيدي بوبكر",
+        "en": "Sidi Boubekeur",
+        "slug": "sidi-boubekeur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_sidi-boubekeur",
+        "level": 2,
+        "name": {
+          "local": "سيدي بوبكر",
+          "en": "Sidi Boubekeur",
+          "slug": "sidi-boubekeur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20004"
+    ],
+    "geo": {
+      "lat": "34.924",
+      "lon": "0.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_sidi-boubekeur_sidi-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عمر",
+      "en": "Sidi Amar",
+      "slug": "sidi-amar"
+    },
+    "code": {
+      "id": "DZ020_sidi-boubekeur_sidi-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_sidi-boubekeur",
+      "level": 2,
+      "name": {
+        "local": "سيدي بوبكر",
+        "en": "Sidi Boubekeur",
+        "slug": "sidi-boubekeur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_sidi-boubekeur",
+        "level": 2,
+        "name": {
+          "local": "سيدي بوبكر",
+          "en": "Sidi Boubekeur",
+          "slug": "sidi-boubekeur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20019"
+    ],
+    "geo": {
+      "lat": "36.56",
+      "lon": "2.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_sidi-boubekeur_sidi-boubekeur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بوبكر",
+      "en": "Sidi Boubekeur",
+      "slug": "sidi-boubekeur"
+    },
+    "code": {
+      "id": "DZ020_sidi-boubekeur_sidi-boubekeur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_sidi-boubekeur",
+      "level": 2,
+      "name": {
+        "local": "سيدي بوبكر",
+        "en": "Sidi Boubekeur",
+        "slug": "sidi-boubekeur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_sidi-boubekeur",
+        "level": 2,
+        "name": {
+          "local": "سيدي بوبكر",
+          "en": "Sidi Boubekeur",
+          "slug": "sidi-boubekeur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20007"
+    ],
+    "geo": {
+      "lat": "35.002",
+      "lon": "-0.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

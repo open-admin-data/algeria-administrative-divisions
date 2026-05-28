@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_el-amra_arib",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عريب",
+      "en": "Arib",
+      "slug": "arib"
+    },
+    "code": {
+      "id": "DZ044_el-amra_arib",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_el-amra",
+      "level": 2,
+      "name": {
+        "local": "العامرة",
+        "en": "El Amra",
+        "slug": "el-amra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_el-amra",
+        "level": 2,
+        "name": {
+          "local": "العامرة",
+          "en": "El Amra",
+          "slug": "el-amra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44008"
+    ],
+    "geo": {
+      "lat": "36.349",
+      "lon": "2.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-amra_el-amra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العامرة",
+      "en": "El-Amra",
+      "slug": "el-amra"
+    },
+    "code": {
+      "id": "DZ044_el-amra_el-amra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_el-amra",
+      "level": 2,
+      "name": {
+        "local": "العامرة",
+        "en": "El Amra",
+        "slug": "el-amra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_el-amra",
+        "level": 2,
+        "name": {
+          "local": "العامرة",
+          "en": "El Amra",
+          "slug": "el-amra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44010"
+    ],
+    "geo": {
+      "lat": "36.345",
+      "lon": "1.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_el-amra_mekhatria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المخاطرية",
+      "en": "Mekhatria",
+      "slug": "mekhatria"
+    },
+    "code": {
+      "id": "DZ044_el-amra_mekhatria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_el-amra",
+      "level": 2,
+      "name": {
+        "local": "العامرة",
+        "en": "El Amra",
+        "slug": "el-amra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_el-amra",
+        "level": 2,
+        "name": {
+          "local": "العامرة",
+          "en": "El Amra",
+          "slug": "el-amra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44050"
+    ],
+    "geo": {
+      "lat": "36.358",
+      "lon": "1.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

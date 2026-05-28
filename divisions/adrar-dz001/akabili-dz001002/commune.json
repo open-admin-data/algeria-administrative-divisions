@@ -1,0 +1,45 @@
+{
+  "id": "DZ001002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Akabili",
+    "en": "Akabili",
+    "slug": "akabili-dz001002"
+  },
+  "code": {
+    "id": "DZ001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.536",
+    "lon": "1.114"
+  },
+  "metadata": {},
+  "source": {}
+}

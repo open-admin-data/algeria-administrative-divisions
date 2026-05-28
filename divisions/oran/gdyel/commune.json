@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ031_gdyel_ben-freha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن فريحة",
+      "en": "Ben Freha",
+      "slug": "ben-freha"
+    },
+    "code": {
+      "id": "DZ031_gdyel_ben-freha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_gdyel",
+      "level": 2,
+      "name": {
+        "local": "قديل",
+        "en": "Gdyel",
+        "slug": "gdyel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_gdyel",
+        "level": 2,
+        "name": {
+          "local": "قديل",
+          "en": "Gdyel",
+          "slug": "gdyel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31027"
+    ],
+    "geo": {
+      "lat": "35.722",
+      "lon": "-0.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_gdyel_gdyel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قديل",
+      "en": "Gdyel",
+      "slug": "gdyel"
+    },
+    "code": {
+      "id": "DZ031_gdyel_gdyel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_gdyel",
+      "level": 2,
+      "name": {
+        "local": "قديل",
+        "en": "Gdyel",
+        "slug": "gdyel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_gdyel",
+        "level": 2,
+        "name": {
+          "local": "قديل",
+          "en": "Gdyel",
+          "slug": "gdyel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31017"
+    ],
+    "geo": {
+      "lat": "35.802",
+      "lon": "-0.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_gdyel_hassi-mefsoukh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي مفسوخ",
+      "en": "Hassi Mefsoukh",
+      "slug": "hassi-mefsoukh"
+    },
+    "code": {
+      "id": "DZ031_gdyel_hassi-mefsoukh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_gdyel",
+      "level": 2,
+      "name": {
+        "local": "قديل",
+        "en": "Gdyel",
+        "slug": "gdyel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_gdyel",
+        "level": 2,
+        "name": {
+          "local": "قديل",
+          "en": "Gdyel",
+          "slug": "gdyel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31046"
+    ],
+    "geo": {
+      "lat": "35.783",
+      "lon": "-0.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

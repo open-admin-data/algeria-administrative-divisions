@@ -1,0 +1,149 @@
+# Ain-Temouchent — Algeria Administrative Divisions
+
+> 28 communes
+> Code: DZ003
+> Coordinates: 35.367, -0.947
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Aghlal
+
+Code: DZ003001, Coordinates: 35.204, -1.083
+
+
+### Ain El Arbaa
+
+Code: DZ003002, Coordinates: 35.419, -0.897
+
+
+### Ain Kihel
+
+Code: DZ003003, Coordinates: 35.222, -1.198
+
+
+### Ain Tolba
+
+Code: DZ003004, Coordinates: 35.243, -1.251
+
+
+### Ain-Temouchent
+
+Code: DZ003005, Coordinates: 35.269, -1.151
+
+
+### Beni Saf
+
+Code: DZ003006, Coordinates: 35.29, -1.405
+
+
+### Bouzedjar
+
+Code: DZ003007, Coordinates: 35.598, -1.103
+
+
+### Chaabet El Ham
+
+Code: DZ003008, Coordinates: 35.33, -1.107
+
+
+### Chentouf
+
+Code: DZ003009, Coordinates: 35.296, -1.036
+
+
+### El Amria
+
+Code: DZ003010, Coordinates: 35.54, -1.004
+
+
+### El Emir Abdelkader
+
+Code: DZ003011, Coordinates: 35.235, -1.385
+
+
+### El M&#39;Said
+
+Code: DZ003013, Coordinates: 35.528, -1.124
+
+
+### El Malah
+
+Code: DZ003012, Coordinates: 35.401, -1.108
+
+
+### Hammam Bouhadjar
+
+Code: DZ003014, Coordinates: 35.392, -0.995
+
+
+### Hassasna
+
+Code: DZ003015, Coordinates: 35.25, -0.947
+
+
+### Hassi El Ghella
+
+Code: DZ003016, Coordinates: 35.445, -1.064
+
+
+### Oued Berkeche
+
+Code: DZ003017, Coordinates: 35.213, -0.971
+
+
+### Oued Sebbah
+
+Code: DZ003018, Coordinates: 35.408, -0.799
+
+
+### Ougbellil
+
+Code: DZ003019, Coordinates: 35.148, -1.012
+
+
+### Ouled Boudjemaa
+
+Code: DZ003020, Coordinates: 35.482, -1.167
+
+
+### Ouled Kihal
+
+Code: DZ003021, Coordinates: 35.366, -1.231
+
+
+### Oulhaca Gherraba
+
+Code: DZ003022, Coordinates: 35.251, -1.505
+
+
+### Sidi Ben Adda
+
+Code: DZ003023, Coordinates: 35.325, -1.257
+
+
+### Sidi Boumediene
+
+Code: DZ003024, Coordinates: 35.341, -0.889
+
+
+### Sidi Safi
+
+Code: DZ003025, Coordinates: 35.293, -1.302
+
+
+### Tadmaya
+
+Code: DZ003026, Coordinates: 35.193, -1.497
+
+
+### Tamzougha
+
+Code: DZ003027, Coordinates: 35.441, -0.65
+
+
+### Terga
+
+Code: DZ003028, Coordinates: 35.405, -1.196
+
+

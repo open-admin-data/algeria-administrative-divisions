@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_robbah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الرباح",
+    "en": "Robbah",
+    "slug": "robbah"
+  },
+  "code": {
+    "id": "DZ039_robbah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.784",
+    "lon": "7.18"
+  },
+  "metadata": {},
+  "source": {}
+}

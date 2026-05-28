@@ -1,0 +1,45 @@
+{
+  "id": "DZ029008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hessiane",
+    "en": "El Hessiane",
+    "slug": "el-hessiane-dz029008"
+  },
+  "code": {
+    "id": "DZ029008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.741",
+    "lon": "0.098"
+  },
+  "metadata": {},
+  "source": {}
+}

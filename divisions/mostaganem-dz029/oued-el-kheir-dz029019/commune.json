@@ -1,0 +1,45 @@
+{
+  "id": "DZ029019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued El Kheir",
+    "en": "Oued El Kheir",
+    "slug": "oued-el-kheir-dz029019"
+  },
+  "code": {
+    "id": "DZ029019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.944",
+    "lon": "0.385"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ027020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Deux Bassins",
+    "en": "Deux Bassins",
+    "slug": "deux-bassins-dz027020"
+  },
+  "code": {
+    "id": "DZ027020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.471",
+    "lon": "3.307"
+  },
+  "metadata": {},
+  "source": {}
+}

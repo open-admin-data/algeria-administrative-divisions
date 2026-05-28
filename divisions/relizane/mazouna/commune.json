@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ048_mazouna_el-guettar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القطار",
+      "en": "El-Guettar",
+      "slug": "el-guettar"
+    },
+    "code": {
+      "id": "DZ048_mazouna_el-guettar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_mazouna",
+      "level": 2,
+      "name": {
+        "local": "مازونة",
+        "en": "Mazouna",
+        "slug": "mazouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_mazouna",
+        "level": 2,
+        "name": {
+          "local": "مازونة",
+          "en": "Mazouna",
+          "slug": "mazouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48016"
+    ],
+    "geo": {
+      "lat": "36.084",
+      "lon": "0.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_mazouna_mazouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مازونة",
+      "en": "Mazouna",
+      "slug": "mazouna"
+    },
+    "code": {
+      "id": "DZ048_mazouna_mazouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_mazouna",
+      "level": 2,
+      "name": {
+        "local": "مازونة",
+        "en": "Mazouna",
+        "slug": "mazouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_mazouna",
+        "level": 2,
+        "name": {
+          "local": "مازونة",
+          "en": "Mazouna",
+          "slug": "mazouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48002"
+    ],
+    "geo": {
+      "lat": "36.11",
+      "lon": "0.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

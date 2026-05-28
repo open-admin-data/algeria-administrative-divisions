@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ003_el-ghicha_el-ghicha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغيشة",
+      "en": "El Ghicha",
+      "slug": "el-ghicha"
+    },
+    "code": {
+      "id": "DZ003_el-ghicha_el-ghicha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_el-ghicha",
+      "level": 2,
+      "name": {
+        "local": "الغيشة",
+        "en": "El Ghicha",
+        "slug": "el-ghicha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_el-ghicha",
+        "level": 2,
+        "name": {
+          "local": "الغيشة",
+          "en": "El Ghicha",
+          "slug": "el-ghicha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03023"
+    ],
+    "geo": {
+      "lat": "33.877",
+      "lon": "2.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

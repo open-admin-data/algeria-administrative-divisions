@@ -1,0 +1,149 @@
+# Tebessa — Algeria Administrative Divisions
+
+> 28 communes
+> Code: DZ042
+> Coordinates: 35.12, 7.894
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Zerga
+
+Code: DZ042001, Coordinates: 35.633, 8.238
+
+
+### Bedjene
+
+Code: DZ042002, Coordinates: 35.341, 7.482
+
+
+### Bekkaria
+
+Code: DZ042003, Coordinates: 35.381, 8.254
+
+
+### Bir Dheheb
+
+Code: DZ042004, Coordinates: 35.562, 7.915
+
+
+### Bir El Ater
+
+Code: DZ042005, Coordinates: 34.685, 8.028
+
+
+### Bir Mokadem
+
+Code: DZ042006, Coordinates: 35.408, 7.784
+
+
+### Boukhadra
+
+Code: DZ042007, Coordinates: 35.792, 8.051
+
+
+### Boulhaf Dyr
+
+Code: DZ042008, Coordinates: 35.524, 8.095
+
+
+### Cheria
+
+Code: DZ042009, Coordinates: 35.251, 7.771
+
+
+### El Aouinet
+
+Code: DZ042010, Coordinates: 35.868, 7.932
+
+
+### El Houidjbet
+
+Code: DZ042011, Coordinates: 35.24, 8.336
+
+
+### El Kouif
+
+Code: DZ042012, Coordinates: 35.498, 8.282
+
+
+### El Ma Labiod
+
+Code: DZ042013, Coordinates: 35.252, 8.142
+
+
+### El Mazeraa
+
+Code: DZ042014, Coordinates: 35.156, 7.584
+
+
+### El Meridj
+
+Code: DZ042015, Coordinates: 35.824, 8.203
+
+
+### El Ogla
+
+Code: DZ042016, Coordinates: 35.243, 7.448
+
+
+### El Ogla El Malha
+
+Code: DZ042017, Coordinates: 35.141, 8.005
+
+
+### El Ouenza
+
+Code: DZ042018, Coordinates: 35.945, 8.142
+
+
+### Ferkane
+
+Code: DZ042019, Coordinates: 34.495, 7.361
+
+
+### Gourigueur
+
+Code: DZ042020, Coordinates: 35.451, 7.652
+
+
+### Hammamet
+
+Code: DZ042021, Coordinates: 35.476, 7.954
+
+
+### Morsot
+
+Code: DZ042022, Coordinates: 35.678, 8.006
+
+
+### Negrine
+
+Code: DZ042023, Coordinates: 34.397, 7.65
+
+
+### Oum Ali
+
+Code: DZ042024, Coordinates: 35.087, 8.294
+
+
+### Safsaf El Ouesra
+
+Code: DZ042025, Coordinates: 34.929, 8.172
+
+
+### Stah Guentis
+
+Code: DZ042026, Coordinates: 34.835, 7.496
+
+
+### Tebessa
+
+Code: DZ042027, Coordinates: 35.403, 8.091
+
+
+### Thlidjene
+
+Code: DZ042028, Coordinates: 34.838, 7.747
+
+

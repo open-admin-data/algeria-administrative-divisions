@@ -1,0 +1,222 @@
+[
+  {
+    "id": "DZ046_hammam-bou-hadjar_chentouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شنتوف",
+      "en": "Chentouf",
+      "slug": "chentouf"
+    },
+    "code": {
+      "id": "DZ046_hammam-bou-hadjar_chentouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_hammam-bou-hadjar",
+      "level": 2,
+      "name": {
+        "local": "حمام بوحجر",
+        "en": "Hammam Bou Hadjar",
+        "slug": "hammam-bou-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_hammam-bou-hadjar",
+        "level": 2,
+        "name": {
+          "local": "حمام بوحجر",
+          "en": "Hammam Bou Hadjar",
+          "slug": "hammam-bou-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.296",
+      "lon": "-1.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_hammam-bou-hadjar_hammam-bou-hadjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام بوحجر",
+      "en": "Hammam Bou Hadjar",
+      "slug": "hammam-bou-hadjar"
+    },
+    "code": {
+      "id": "DZ046_hammam-bou-hadjar_hammam-bou-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_hammam-bou-hadjar",
+      "level": 2,
+      "name": {
+        "local": "حمام بوحجر",
+        "en": "Hammam Bou Hadjar",
+        "slug": "hammam-bou-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_hammam-bou-hadjar",
+        "level": 2,
+        "name": {
+          "local": "حمام بوحجر",
+          "en": "Hammam Bou Hadjar",
+          "slug": "hammam-bou-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46005"
+    ],
+    "geo": {
+      "lat": "35.253",
+      "lon": "-0.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_hammam-bou-hadjar_hassasna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحساسنة",
+      "en": "Hassasna",
+      "slug": "hassasna"
+    },
+    "code": {
+      "id": "DZ046_hammam-bou-hadjar_hassasna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_hammam-bou-hadjar",
+      "level": 2,
+      "name": {
+        "local": "حمام بوحجر",
+        "en": "Hammam Bou Hadjar",
+        "slug": "hammam-bou-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_hammam-bou-hadjar",
+        "level": 2,
+        "name": {
+          "local": "حمام بوحجر",
+          "en": "Hammam Bou Hadjar",
+          "slug": "hammam-bou-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.25",
+      "lon": "-0.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_hammam-bou-hadjar_oued-berkeche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي برقش",
+      "en": "Oued Berkeche",
+      "slug": "oued-berkeche"
+    },
+    "code": {
+      "id": "DZ046_hammam-bou-hadjar_oued-berkeche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_hammam-bou-hadjar",
+      "level": 2,
+      "name": {
+        "local": "حمام بوحجر",
+        "en": "Hammam Bou Hadjar",
+        "slug": "hammam-bou-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_hammam-bou-hadjar",
+        "level": 2,
+        "name": {
+          "local": "حمام بوحجر",
+          "en": "Hammam Bou Hadjar",
+          "slug": "hammam-bou-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46022"
+    ],
+    "geo": {
+      "lat": "35.213",
+      "lon": "-0.971"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

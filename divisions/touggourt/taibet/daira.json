@@ -1,0 +1,47 @@
+{
+  "id": "DZ055_taibet",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الطيبات",
+    "en": "Taibet",
+    "slug": "taibet"
+  },
+  "code": {
+    "id": "DZ055_taibet",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ055",
+    "level": 1,
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ055",
+      "level": 1,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.944",
+    "lon": "6.441"
+  },
+  "metadata": {},
+  "source": {}
+}

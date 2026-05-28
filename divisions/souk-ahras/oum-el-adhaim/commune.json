@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_oum-el-adhaim_oued-kebrit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الكبريت",
+      "en": "Oued Kebrit",
+      "slug": "oued-kebrit"
+    },
+    "code": {
+      "id": "DZ041_oum-el-adhaim_oued-kebrit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_oum-el-adhaim",
+      "level": 2,
+      "name": {
+        "local": "أم العظايم",
+        "en": "Oum El Adhaim",
+        "slug": "oum-el-adhaim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_oum-el-adhaim",
+        "level": 2,
+        "name": {
+          "local": "أم العظايم",
+          "en": "Oum El Adhaim",
+          "slug": "oum-el-adhaim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41018"
+    ],
+    "geo": {
+      "lat": "35.95",
+      "lon": "7.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_oum-el-adhaim_oum-el-adhaim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم العظايم",
+      "en": "Oum El Adhaim",
+      "slug": "oum-el-adhaim"
+    },
+    "code": {
+      "id": "DZ041_oum-el-adhaim_oum-el-adhaim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_oum-el-adhaim",
+      "level": 2,
+      "name": {
+        "local": "أم العظايم",
+        "en": "Oum El Adhaim",
+        "slug": "oum-el-adhaim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_oum-el-adhaim",
+        "level": 2,
+        "name": {
+          "local": "أم العظايم",
+          "en": "Oum El Adhaim",
+          "slug": "oum-el-adhaim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41019"
+    ],
+    "geo": {
+      "lat": "35.994",
+      "lon": "7.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_oum-el-adhaim_terraguelt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ترقالت",
+      "en": "Terraguelt",
+      "slug": "terraguelt"
+    },
+    "code": {
+      "id": "DZ041_oum-el-adhaim_terraguelt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_oum-el-adhaim",
+      "level": 2,
+      "name": {
+        "local": "أم العظايم",
+        "en": "Oum El Adhaim",
+        "slug": "oum-el-adhaim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_oum-el-adhaim",
+        "level": 2,
+        "name": {
+          "local": "أم العظايم",
+          "en": "Oum El Adhaim",
+          "slug": "oum-el-adhaim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41037"
+    ],
+    "geo": {
+      "lat": "35.905",
+      "lon": "7.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

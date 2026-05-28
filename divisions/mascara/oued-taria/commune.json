@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ029_oued-taria_guerdjoum",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قرجوم",
+      "en": "Guerdjoum",
+      "slug": "guerdjoum"
+    },
+    "code": {
+      "id": "DZ029_oued-taria_guerdjoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oued-taria",
+      "level": 2,
+      "name": {
+        "local": "وادي التاغية",
+        "en": "Oued Taria",
+        "slug": "oued-taria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oued-taria",
+        "level": 2,
+        "name": {
+          "local": "وادي التاغية",
+          "en": "Oued Taria",
+          "slug": "oued-taria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29050"
+    ],
+    "geo": {
+      "lat": "35.198",
+      "lon": "0.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oued-taria_oued-taria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي التاغية",
+      "en": "Oued Taria",
+      "slug": "oued-taria"
+    },
+    "code": {
+      "id": "DZ029_oued-taria_oued-taria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oued-taria",
+      "level": 2,
+      "name": {
+        "local": "وادي التاغية",
+        "en": "Oued Taria",
+        "slug": "oued-taria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oued-taria",
+        "level": 2,
+        "name": {
+          "local": "وادي التاغية",
+          "en": "Oued Taria",
+          "slug": "oued-taria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29017"
+    ],
+    "geo": {
+      "lat": "35.198",
+      "lon": "0.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

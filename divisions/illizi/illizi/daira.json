@@ -1,0 +1,47 @@
+{
+  "id": "DZ033_illizi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "إيليزي",
+    "en": "Illizi",
+    "slug": "illizi"
+  },
+  "code": {
+    "id": "DZ033_illizi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "إليزي",
+      "en": "Illizi",
+      "slug": "illizi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "إليزي",
+        "en": "Illizi",
+        "slug": "illizi"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.491",
+    "lon": "8.349"
+  },
+  "metadata": {},
+  "source": {}
+}

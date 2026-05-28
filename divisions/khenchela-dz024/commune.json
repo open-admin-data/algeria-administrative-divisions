@@ -1,0 +1,947 @@
+[
+  {
+    "id": "DZ024001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Touila",
+      "en": "Ain Touila",
+      "slug": "ain-touila-dz024001"
+    },
+    "code": {
+      "id": "DZ024001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.48",
+      "lon": "7.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Babar",
+      "en": "Babar",
+      "slug": "babar-dz024002"
+    },
+    "code": {
+      "id": "DZ024002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.766",
+      "lon": "7.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baghai",
+      "en": "Baghai",
+      "slug": "baghai-dz024003"
+    },
+    "code": {
+      "id": "DZ024003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.52",
+      "lon": "7.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhmama",
+      "en": "Bouhmama",
+      "slug": "bouhmama-dz024004"
+    },
+    "code": {
+      "id": "DZ024004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.213",
+      "lon": "6.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chelia",
+      "en": "Chelia",
+      "slug": "chelia-dz024005"
+    },
+    "code": {
+      "id": "DZ024005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.412",
+      "lon": "6.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cherchar",
+      "en": "Cherchar",
+      "slug": "cherchar-dz024006"
+    },
+    "code": {
+      "id": "DZ024006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.911",
+      "lon": "7.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djellal",
+      "en": "Djellal",
+      "slug": "djellal-dz024007"
+    },
+    "code": {
+      "id": "DZ024007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.877",
+      "lon": "6.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hamma",
+      "en": "El Hamma",
+      "slug": "el-hamma-dz024008"
+    },
+    "code": {
+      "id": "DZ024008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.473",
+      "lon": "7.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mahmal",
+      "en": "El Mahmal",
+      "slug": "el-mahmal-dz024009"
+    },
+    "code": {
+      "id": "DZ024009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.246",
+      "lon": "7.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Oueldja",
+      "en": "El Oueldja",
+      "slug": "el-oueldja-dz024010"
+    },
+    "code": {
+      "id": "DZ024010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.905",
+      "lon": "6.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ensigha",
+      "en": "Ensigha",
+      "slug": "ensigha-dz024011"
+    },
+    "code": {
+      "id": "DZ024011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.339",
+      "lon": "7.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kais",
+      "en": "Kais",
+      "slug": "kais-dz024012"
+    },
+    "code": {
+      "id": "DZ024012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.507",
+      "lon": "6.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khenchela",
+      "en": "Khenchela",
+      "slug": "khenchela-dz024013"
+    },
+    "code": {
+      "id": "DZ024013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.439",
+      "lon": "7.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khirane",
+      "en": "Khirane",
+      "slug": "khirane-dz024014"
+    },
+    "code": {
+      "id": "DZ024014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.012",
+      "lon": "6.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Sara",
+      "en": "M'Sara",
+      "slug": "msara-dz024015"
+    },
+    "code": {
+      "id": "DZ024015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.156",
+      "lon": "6.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Toussa",
+      "en": "M'Toussa",
+      "slug": "mtoussa-dz024016"
+    },
+    "code": {
+      "id": "DZ024016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.568",
+      "lon": "7.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Rechache",
+      "en": "Ouled Rechache",
+      "slug": "ouled-rechache-dz024017"
+    },
+    "code": {
+      "id": "DZ024017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.205",
+      "lon": "7.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Remila",
+      "en": "Remila",
+      "slug": "remila-dz024018"
+    },
+    "code": {
+      "id": "DZ024018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.589",
+      "lon": "6.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamza",
+      "en": "Tamza",
+      "slug": "tamza-dz024019"
+    },
+    "code": {
+      "id": "DZ024019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.297",
+      "lon": "6.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taouzianat",
+      "en": "Taouzianat",
+      "slug": "taouzianat-dz024020"
+    },
+    "code": {
+      "id": "DZ024020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.439",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yabous",
+      "en": "Yabous",
+      "slug": "yabous-dz024021"
+    },
+    "code": {
+      "id": "DZ024021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela-dz024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.395",
+      "lon": "6.644"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

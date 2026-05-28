@@ -1,0 +1,45 @@
+{
+  "id": "DZ002034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tarik Ibn Ziad",
+    "en": "Tarik Ibn Ziad",
+    "slug": "tarik-ibn-ziad-dz002034"
+  },
+  "code": {
+    "id": "DZ002034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.984",
+    "lon": "2.153"
+  },
+  "metadata": {},
+  "source": {}
+}

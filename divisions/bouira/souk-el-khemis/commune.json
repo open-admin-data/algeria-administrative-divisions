@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ010_souk-el-khemis_el-mokrani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المقراني",
+      "en": "El-Mokrani",
+      "slug": "el-mokrani"
+    },
+    "code": {
+      "id": "DZ010_souk-el-khemis_el-mokrani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_souk-el-khemis",
+      "level": 2,
+      "name": {
+        "local": "سوق الخميس",
+        "en": "Souk El Khemis",
+        "slug": "souk-el-khemis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_souk-el-khemis",
+        "level": 2,
+        "name": {
+          "local": "سوق الخميس",
+          "en": "Souk El Khemis",
+          "slug": "souk-el-khemis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10060"
+    ],
+    "geo": {
+      "lat": "36.429",
+      "lon": "3.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_souk-el-khemis_souk-el-khemis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق الخميس",
+      "en": "Souk El Khemis",
+      "slug": "souk-el-khemis"
+    },
+    "code": {
+      "id": "DZ010_souk-el-khemis_souk-el-khemis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_souk-el-khemis",
+      "level": 2,
+      "name": {
+        "local": "سوق الخميس",
+        "en": "Souk El Khemis",
+        "slug": "souk-el-khemis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_souk-el-khemis",
+        "level": 2,
+        "name": {
+          "local": "سوق الخميس",
+          "en": "Souk El Khemis",
+          "slug": "souk-el-khemis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10044"
+    ],
+    "geo": {
+      "lat": "36.396",
+      "lon": "3.636"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

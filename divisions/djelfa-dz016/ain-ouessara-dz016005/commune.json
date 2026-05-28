@@ -1,0 +1,45 @@
+{
+  "id": "DZ016005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Ouessara",
+    "en": "Ain Ouessara",
+    "slug": "ain-ouessara-dz016005"
+  },
+  "code": {
+    "id": "DZ016005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.52",
+    "lon": "2.855"
+  },
+  "metadata": {},
+  "source": {}
+}

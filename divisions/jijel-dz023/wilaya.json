@@ -1,0 +1,29 @@
+{
+  "id": "DZ023",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "جيجل",
+    "en": "Jijel",
+    "slug": "jijel-dz023"
+  },
+  "code": {
+    "id": "DZ023",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.731",
+    "lon": "5.961"
+  },
+  "metadata": {},
+  "source": {}
+}

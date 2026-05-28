@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ045_moghrar_djenienne-bourezg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جنين بورزق",
+      "en": "Djenienne Bourezg",
+      "slug": "djenienne-bourezg"
+    },
+    "code": {
+      "id": "DZ045_moghrar_djenienne-bourezg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_moghrar",
+      "level": 2,
+      "name": {
+        "local": "مغرار",
+        "en": "Moghrar",
+        "slug": "moghrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_moghrar",
+        "level": 2,
+        "name": {
+          "local": "مغرار",
+          "en": "Moghrar",
+          "slug": "moghrar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45013"
+    ],
+    "geo": {
+      "lat": "32.441",
+      "lon": "-0.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045_moghrar_moghrar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مغرار",
+      "en": "Moghrar",
+      "slug": "moghrar"
+    },
+    "code": {
+      "id": "DZ045_moghrar_moghrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_moghrar",
+      "level": 2,
+      "name": {
+        "local": "مغرار",
+        "en": "Moghrar",
+        "slug": "moghrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_moghrar",
+        "level": 2,
+        "name": {
+          "local": "مغرار",
+          "en": "Moghrar",
+          "slug": "moghrar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45014"
+    ],
+    "geo": {
+      "lat": "32.441",
+      "lon": "-0.548"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ004_ain-kercha_ain-kercha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين كرشة",
+      "en": "Ain Kercha",
+      "slug": "ain-kercha"
+    },
+    "code": {
+      "id": "DZ004_ain-kercha_ain-kercha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-kercha",
+      "level": 2,
+      "name": {
+        "local": "عين كرشة",
+        "en": "Ain Kercha",
+        "slug": "ain-kercha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-kercha",
+        "level": 2,
+        "name": {
+          "local": "عين كرشة",
+          "en": "Ain Kercha",
+          "slug": "ain-kercha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04006"
+    ],
+    "geo": {
+      "lat": "35.884",
+      "lon": "6.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-kercha_el-harmilia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحرملية",
+      "en": "El Harmilia",
+      "slug": "el-harmilia"
+    },
+    "code": {
+      "id": "DZ004_ain-kercha_el-harmilia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-kercha",
+      "level": 2,
+      "name": {
+        "local": "عين كرشة",
+        "en": "Ain Kercha",
+        "slug": "ain-kercha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-kercha",
+        "level": 2,
+        "name": {
+          "local": "عين كرشة",
+          "en": "Ain Kercha",
+          "slug": "ain-kercha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04032"
+    ],
+    "geo": {
+      "lat": "35.889",
+      "lon": "6.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-kercha_hanchir-toumghani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هنشير تومغني",
+      "en": "Hanchir Toumghani",
+      "slug": "hanchir-toumghani"
+    },
+    "code": {
+      "id": "DZ004_ain-kercha_hanchir-toumghani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-kercha",
+      "level": 2,
+      "name": {
+        "local": "عين كرشة",
+        "en": "Ain Kercha",
+        "slug": "ain-kercha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-kercha",
+        "level": 2,
+        "name": {
+          "local": "عين كرشة",
+          "en": "Ain Kercha",
+          "slug": "ain-kercha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04012"
+    ],
+    "geo": {
+      "lat": "35.939",
+      "lon": "6.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

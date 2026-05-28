@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ046_ain-temouchent_ain-temouchent",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain Temouchent",
+      "slug": "ain-temouchent"
+    },
+    "code": {
+      "id": "DZ046_ain-temouchent_ain-temouchent",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-temouchent",
+      "level": 2,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain Temouchent",
+        "slug": "ain-temouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-temouchent",
+        "level": 2,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain Temouchent",
+          "slug": "ain-temouchent"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46000"
+    ],
+    "geo": {
+      "lat": "35.269",
+      "lon": "-1.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_ain-temouchent_sidi-ben-adda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بن عدة",
+      "en": "Sidi Ben Adda",
+      "slug": "sidi-ben-adda"
+    },
+    "code": {
+      "id": "DZ046_ain-temouchent_sidi-ben-adda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_ain-temouchent",
+      "level": 2,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain Temouchent",
+        "slug": "ain-temouchent"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_ain-temouchent",
+        "level": 2,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain Temouchent",
+          "slug": "ain-temouchent"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46013"
+    ],
+    "geo": {
+      "lat": "35.325",
+      "lon": "-1.257"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

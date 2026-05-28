@@ -1,0 +1,269 @@
+# Bejaia — Algeria Administrative Divisions
+
+> 52 communes
+> Code: DZ008
+> Coordinates: 36.558, 4.79
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Adekar
+
+Code: DZ008001, Coordinates: 36.737, 4.566
+
+
+### Ait R&#39;Zine
+
+Code: DZ008002, Coordinates: 36.388, 4.525
+
+
+### Ait Smail
+
+Code: DZ008003, Coordinates: 36.558, 5.231
+
+
+### Akbou
+
+Code: DZ008004, Coordinates: 36.461, 4.537
+
+
+### Akfadou
+
+Code: DZ008005, Coordinates: 36.66, 4.609
+
+
+### Amalou
+
+Code: DZ008006, Coordinates: 36.479, 4.645
+
+
+### Amizour
+
+Code: DZ008007, Coordinates: 36.648, 4.929
+
+
+### Aokas
+
+Code: DZ008008, Coordinates: 36.62, 5.262
+
+
+### Barbacha
+
+Code: DZ008009, Coordinates: 36.568, 4.959
+
+
+### Bejaia
+
+Code: DZ008010, Coordinates: 36.772, 5.026
+
+
+### Beni Djellil
+
+Code: DZ008011, Coordinates: 36.565, 4.803
+
+
+### Beni Ksila
+
+Code: DZ008012, Coordinates: 36.828, 4.707
+
+
+### Beni Maouche
+
+Code: DZ008013, Coordinates: 36.489, 4.789
+
+
+### Beni Melikech
+
+Code: DZ008014, Coordinates: 36.449, 4.413
+
+
+### Boudjellil
+
+Code: DZ008015, Coordinates: 36.325, 4.413
+
+
+### Bouhamza
+
+Code: DZ008016, Coordinates: 36.441, 4.643
+
+
+### Boukhelifa
+
+Code: DZ008017, Coordinates: 36.641, 5.077
+
+
+### Chelata
+
+Code: DZ008018, Coordinates: 36.51, 4.525
+
+
+### Chemini
+
+Code: DZ008019, Coordinates: 36.595, 4.595
+
+
+### Darguina
+
+Code: DZ008020, Coordinates: 36.555, 5.372
+
+
+### Draa El Kaid
+
+Code: DZ008021, Coordinates: 36.443, 5.236
+
+
+### El Kseur
+
+Code: DZ008022, Coordinates: 36.721, 4.839
+
+
+### Ferraoun
+
+Code: DZ008023, Coordinates: 36.568, 4.884
+
+
+### Ifelain Ilmathen
+
+Code: DZ008024, Coordinates: 36.671, 4.796
+
+
+### Ighil Ali
+
+Code: DZ008025, Coordinates: 36.293, 4.519
+
+
+### Ighram
+
+Code: DZ008026, Coordinates: 36.48, 4.46
+
+
+### Kendira
+
+Code: DZ008027, Coordinates: 36.56, 5.023
+
+
+### Kherrata
+
+Code: DZ008028, Coordinates: 36.474, 5.286
+
+
+### Leflaye
+
+Code: DZ008029, Coordinates: 36.6, 4.68
+
+
+### Melbou
+
+Code: DZ008030, Coordinates: 36.622, 5.385
+
+
+### Oued Ghir
+
+Code: DZ008031, Coordinates: 36.717, 4.988
+
+
+### Ouzellaguen
+
+Code: DZ008032, Coordinates: 36.549, 4.578
+
+
+### Seddouk
+
+Code: DZ008033, Coordinates: 36.539, 4.688
+
+
+### Semaoune
+
+Code: DZ008034, Coordinates: 36.618, 4.837
+
+
+### Sidi Aich
+
+Code: DZ008035, Coordinates: 36.624, 4.711
+
+
+### Sidi Ayad
+
+Code: DZ008036, Coordinates: 36.611, 4.721
+
+
+### Sidi Said
+
+Code: DZ008037, Coordinates: 36.569, 4.736
+
+
+### Souk El Thenine
+
+Code: DZ008038, Coordinates: 36.616, 5.313
+
+
+### Souk Oufella
+
+Code: DZ008039, Coordinates: 36.589, 4.657
+
+
+### Tala Hamza
+
+Code: DZ008040, Coordinates: 36.693, 5.016
+
+
+### Tamokra
+
+Code: DZ008041, Coordinates: 36.393, 4.648
+
+
+### Tamridjet
+
+Code: DZ008042, Coordinates: 36.575, 5.416
+
+
+### Taourirt Ighil
+
+Code: DZ008043, Coordinates: 36.737, 4.737
+
+
+### Taskriout
+
+Code: DZ008044, Coordinates: 36.557, 5.282
+
+
+### Tazmalt
+
+Code: DZ008045, Coordinates: 36.4, 4.427
+
+
+### Tibane
+
+Code: DZ008046, Coordinates: 36.615, 4.657
+
+
+### Tichi
+
+Code: DZ008047, Coordinates: 36.622, 5.156
+
+
+### Tifra
+
+Code: DZ008048, Coordinates: 36.662, 4.692
+
+
+### Timzrit
+
+Code: DZ008049, Coordinates: 36.62, 4.772
+
+
+### Tinebdar
+
+Code: DZ008050, Coordinates: 36.636, 4.696
+
+
+### Tizi N&#39;Berber
+
+Code: DZ008051, Coordinates: 36.593, 5.213
+
+
+### Toudja
+
+Code: DZ008052, Coordinates: 36.79, 4.85
+
+

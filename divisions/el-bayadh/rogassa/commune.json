@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ032_rogassa_cheguig",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشقيق",
+      "en": "Cheguig",
+      "slug": "cheguig"
+    },
+    "code": {
+      "id": "DZ032_rogassa_cheguig",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_rogassa",
+      "level": 2,
+      "name": {
+        "local": "رقاصة",
+        "en": "Rogassa",
+        "slug": "rogassa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_rogassa",
+        "level": 2,
+        "name": {
+          "local": "رقاصة",
+          "en": "Rogassa",
+          "slug": "rogassa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32022"
+    ],
+    "geo": {
+      "lat": "33.982",
+      "lon": "1.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_rogassa_kef-el-ahmar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكاف الأحمر",
+      "en": "Kef El Ahmar",
+      "slug": "kef-el-ahmar"
+    },
+    "code": {
+      "id": "DZ032_rogassa_kef-el-ahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_rogassa",
+      "level": 2,
+      "name": {
+        "local": "رقاصة",
+        "en": "Rogassa",
+        "slug": "rogassa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_rogassa",
+        "level": 2,
+        "name": {
+          "local": "رقاصة",
+          "en": "Rogassa",
+          "slug": "rogassa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32013"
+    ],
+    "geo": {
+      "lat": "33.84",
+      "lon": "0.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_rogassa_rogassa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رقاصة",
+      "en": "Rogassa",
+      "slug": "rogassa"
+    },
+    "code": {
+      "id": "DZ032_rogassa_rogassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_rogassa",
+      "level": 2,
+      "name": {
+        "local": "رقاصة",
+        "en": "Rogassa",
+        "slug": "rogassa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_rogassa",
+        "level": 2,
+        "name": {
+          "local": "رقاصة",
+          "en": "Rogassa",
+          "slug": "rogassa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32018"
+    ],
+    "geo": {
+      "lat": "34.04",
+      "lon": "0.832"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

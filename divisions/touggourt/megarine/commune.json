@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ055_megarine_megarine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المقارين",
+      "en": "Megarine",
+      "slug": "megarine"
+    },
+    "code": {
+      "id": "DZ055_megarine_megarine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_megarine",
+      "level": 2,
+      "name": {
+        "local": "المقارين",
+        "en": "Megarine",
+        "slug": "megarine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_megarine",
+        "level": 2,
+        "name": {
+          "local": "المقارين",
+          "en": "Megarine",
+          "slug": "megarine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30009"
+    ],
+    "geo": {
+      "lat": "33.205",
+      "lon": "5.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_megarine_sidi-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي سليمان",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane"
+    },
+    "code": {
+      "id": "DZ055_megarine_sidi-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_megarine",
+      "level": 2,
+      "name": {
+        "local": "المقارين",
+        "en": "Megarine",
+        "slug": "megarine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_megarine",
+        "level": 2,
+        "name": {
+          "local": "المقارين",
+          "en": "Megarine",
+          "slug": "megarine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30030"
+    ],
+    "geo": {
+      "lat": "35.857",
+      "lon": "1.723"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

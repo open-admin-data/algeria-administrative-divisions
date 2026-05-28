@@ -1,0 +1,45 @@
+{
+  "id": "DZ027023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Aouinet",
+    "en": "El Aouinet",
+    "slug": "el-aouinet-dz027023"
+  },
+  "code": {
+    "id": "DZ027023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.867",
+    "lon": "3.07"
+  },
+  "metadata": {},
+  "source": {}
+}

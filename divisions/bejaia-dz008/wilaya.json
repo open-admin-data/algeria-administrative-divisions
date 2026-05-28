@@ -1,0 +1,29 @@
+{
+  "id": "DZ008",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "بجاية",
+    "en": "Bejaia",
+    "slug": "bejaia-dz008"
+  },
+  "code": {
+    "id": "DZ008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.558",
+    "lon": "4.79"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ015_tizi-ghenif_mkira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مكيرة",
+      "en": "M'kira",
+      "slug": "mkira"
+    },
+    "code": {
+      "id": "DZ015_tizi-ghenif_mkira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tizi-ghenif",
+      "level": 2,
+      "name": {
+        "local": "تيزي غنيف",
+        "en": "Tizi-Ghenif",
+        "slug": "tizi-ghenif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tizi-ghenif",
+        "level": 2,
+        "name": {
+          "local": "تيزي غنيف",
+          "en": "Tizi-Ghenif",
+          "slug": "tizi-ghenif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15046"
+    ],
+    "geo": {
+      "lat": "36.634",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_tizi-ghenif_tizi-gheniff",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي غنيف",
+      "en": "Tizi-Gheniff",
+      "slug": "tizi-gheniff"
+    },
+    "code": {
+      "id": "DZ015_tizi-ghenif_tizi-gheniff",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tizi-ghenif",
+      "level": 2,
+      "name": {
+        "local": "تيزي غنيف",
+        "en": "Tizi-Ghenif",
+        "slug": "tizi-ghenif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tizi-ghenif",
+        "level": 2,
+        "name": {
+          "local": "تيزي غنيف",
+          "en": "Tizi-Ghenif",
+          "slug": "tizi-ghenif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15020"
+    ],
+    "geo": {
+      "lat": "36.634",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

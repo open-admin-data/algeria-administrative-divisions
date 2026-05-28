@@ -1,0 +1,149 @@
+# Tipaza — Algeria Administrative Divisions
+
+> 28 communes
+> Code: DZ045
+> Coordinates: 36.53, 2.17
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Aghbal
+
+Code: DZ045001, Coordinates: 36.513, 1.84
+
+
+### Ahmer El Ain
+
+Code: DZ045002, Coordinates: 36.504, 2.58
+
+
+### Ain Tagourait
+
+Code: DZ045003, Coordinates: 36.596, 2.61
+
+
+### Beni Milleuk
+
+Code: DZ045004, Coordinates: 36.426, 1.731
+
+
+### Bou Ismail
+
+Code: DZ045005, Coordinates: 36.644, 2.706
+
+
+### Bouharoun
+
+Code: DZ045006, Coordinates: 36.616, 2.655
+
+
+### Bourkika
+
+Code: DZ045007, Coordinates: 36.482, 2.505
+
+
+### Chaiba
+
+Code: DZ045008, Coordinates: 36.613, 2.733
+
+
+### Cherchel
+
+Code: DZ045009, Coordinates: 36.577, 2.196
+
+
+### Damous
+
+Code: DZ045010, Coordinates: 36.505, 1.724
+
+
+### Douaouda
+
+Code: DZ045011, Coordinates: 36.681, 2.792
+
+
+### Fouka
+
+Code: DZ045012, Coordinates: 36.665, 2.758
+
+
+### Gouraya
+
+Code: DZ045013, Coordinates: 36.532, 1.917
+
+
+### Hadjeret Ennous
+
+Code: DZ045014, Coordinates: 36.548, 2.047
+
+
+### Hadjout
+
+Code: DZ045015, Coordinates: 36.527, 2.422
+
+
+### Hattatba
+
+Code: DZ045016, Coordinates: 36.564, 2.657
+
+
+### Khemisti
+
+Code: DZ045017, Coordinates: 36.623, 2.685
+
+
+### Kolea
+
+Code: DZ045018, Coordinates: 36.629, 2.788
+
+
+### Larhat
+
+Code: DZ045019, Coordinates: 36.51, 1.789
+
+
+### Menaceur
+
+Code: DZ045020, Coordinates: 36.504, 2.224
+
+
+### Messelmoun
+
+Code: DZ045021, Coordinates: 36.49, 2.007
+
+
+### Meurad
+
+Code: DZ045022, Coordinates: 36.471, 2.398
+
+
+### Nador
+
+Code: DZ045023, Coordinates: 36.588, 2.363
+
+
+### Sidi Amar
+
+Code: DZ045024, Coordinates: 36.56, 2.322
+
+
+### Sidi Ghiles
+
+Code: DZ045025, Coordinates: 36.562, 2.113
+
+
+### Sidi Rached
+
+Code: DZ045026, Coordinates: 36.558, 2.536
+
+
+### Sidi Semiane
+
+Code: DZ045027, Coordinates: 36.48, 2.098
+
+
+### Tipaza
+
+Code: DZ045028, Coordinates: 36.599, 2.396
+
+

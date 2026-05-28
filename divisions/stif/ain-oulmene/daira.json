@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_ain-oulmene",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين ولمان",
+    "en": "Ain Oulmene",
+    "slug": "ain-oulmene"
+  },
+  "code": {
+    "id": "DZ019_ain-oulmene",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.039",
+    "lon": "5.28"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_charef_benyagoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن يعقوب",
+      "en": "Benyagoub",
+      "slug": "benyagoub"
+    },
+    "code": {
+      "id": "DZ017_charef_benyagoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_charef",
+      "level": 2,
+      "name": {
+        "local": "الشارف",
+        "en": "Charef",
+        "slug": "charef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_charef",
+        "level": 2,
+        "name": {
+          "local": "الشارف",
+          "en": "Charef",
+          "slug": "charef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17026"
+    ],
+    "geo": {
+      "lat": "34.576",
+      "lon": "2.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_charef_charef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشارف",
+      "en": "Charef",
+      "slug": "charef"
+    },
+    "code": {
+      "id": "DZ017_charef_charef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_charef",
+      "level": 2,
+      "name": {
+        "local": "الشارف",
+        "en": "Charef",
+        "slug": "charef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_charef",
+        "level": 2,
+        "name": {
+          "local": "الشارف",
+          "en": "Charef",
+          "slug": "charef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19100"
+    ],
+    "geo": {
+      "lat": "34.576",
+      "lon": "2.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_charef_el-guedid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القديد",
+      "en": "El Guedid",
+      "slug": "el-guedid"
+    },
+    "code": {
+      "id": "DZ017_charef_el-guedid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_charef",
+      "level": 2,
+      "name": {
+        "local": "الشارف",
+        "en": "Charef",
+        "slug": "charef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_charef",
+        "level": 2,
+        "name": {
+          "local": "الشارف",
+          "en": "Charef",
+          "slug": "charef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17019"
+    ],
+    "geo": {
+      "lat": "34.576",
+      "lon": "2.725"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

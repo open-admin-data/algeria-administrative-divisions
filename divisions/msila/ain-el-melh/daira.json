@@ -1,0 +1,47 @@
+{
+  "id": "DZ028_ain-el-melh",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الملح",
+    "en": "Ain El Melh",
+    "slug": "ain-el-melh"
+  },
+  "code": {
+    "id": "DZ028_ain-el-melh",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.772",
+    "lon": "4.321"
+  },
+  "metadata": {},
+  "source": {}
+}

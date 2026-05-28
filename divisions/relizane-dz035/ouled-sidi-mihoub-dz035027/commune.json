@@ -1,0 +1,45 @@
+{
+  "id": "DZ035027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Sidi Mihoub",
+    "en": "Ouled Sidi Mihoub",
+    "slug": "ouled-sidi-mihoub-dz035027"
+  },
+  "code": {
+    "id": "DZ035027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.967",
+    "lon": "0.682"
+  },
+  "metadata": {},
+  "source": {}
+}

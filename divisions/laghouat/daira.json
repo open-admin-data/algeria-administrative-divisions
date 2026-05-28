@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ003_aflou",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أفلو",
+      "en": "Aflou",
+      "slug": "aflou"
+    },
+    "code": {
+      "id": "DZ003_aflou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.181",
+      "lon": "2.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ain-madhi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين ماضي",
+      "en": "Ain Madhi",
+      "slug": "ain-madhi"
+    },
+    "code": {
+      "id": "DZ003_ain-madhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.606",
+      "lon": "2.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_brida",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بريدة",
+      "en": "Brida",
+      "slug": "brida"
+    },
+    "code": {
+      "id": "DZ003_brida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.998",
+      "lon": "1.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_el-ghicha",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الغيشة",
+      "en": "El Ghicha",
+      "slug": "el-ghicha"
+    },
+    "code": {
+      "id": "DZ003_el-ghicha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.877",
+      "lon": "2.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_gueltat-sidi-saad",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قتلة سيدي سعيد",
+      "en": "Gueltat Sidi Saad",
+      "slug": "gueltat-sidi-saad"
+    },
+    "code": {
+      "id": "DZ003_gueltat-sidi-saad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.22",
+      "lon": "1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_hassi-rmel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حاسي الرمل",
+      "en": "Hassi R'mel",
+      "slug": "hassi-rmel"
+    },
+    "code": {
+      "id": "DZ003_hassi-rmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.141",
+      "lon": "3.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_ksar-el-hirane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قصر الحيران",
+      "en": "Ksar El Hirane",
+      "slug": "ksar-el-hirane"
+    },
+    "code": {
+      "id": "DZ003_ksar-el-hirane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.707",
+      "lon": "3.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_laghouat",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    },
+    "code": {
+      "id": "DZ003_laghouat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.845",
+      "lon": "2.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_oued-morra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي مرة",
+      "en": "Oued Morra",
+      "slug": "oued-morra"
+    },
+    "code": {
+      "id": "DZ003_oued-morra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "2.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_sidi-makhlouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي مخلوف",
+      "en": "Sidi Makhlouf",
+      "slug": "sidi-makhlouf"
+    },
+    "code": {
+      "id": "DZ003_sidi-makhlouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.989",
+      "lon": "2.977"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

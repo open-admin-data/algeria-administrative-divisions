@@ -1,0 +1,45 @@
+{
+  "id": "DZ037042",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ksar El Abtal",
+    "en": "Ksar El Abtal",
+    "slug": "ksar-el-abtal-dz037042"
+  },
+  "code": {
+    "id": "DZ037042",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.98",
+    "lon": "5.213"
+  },
+  "metadata": {},
+  "source": {}
+}

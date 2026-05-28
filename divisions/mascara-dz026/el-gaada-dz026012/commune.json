@@ -1,0 +1,45 @@
+{
+  "id": "DZ026012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Gaada",
+    "en": "El Gaada",
+    "slug": "el-gaada-dz026012"
+  },
+  "code": {
+    "id": "DZ026012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.433",
+    "lon": "-0.344"
+  },
+  "metadata": {},
+  "source": {}
+}

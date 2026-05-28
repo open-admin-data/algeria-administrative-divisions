@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ038_lardjem_lardjem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لرجام",
+      "en": "Lardjem",
+      "slug": "lardjem"
+    },
+    "code": {
+      "id": "DZ038_lardjem_lardjem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lardjem",
+      "level": 2,
+      "name": {
+        "local": "لرجام",
+        "en": "Lardjem",
+        "slug": "lardjem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lardjem",
+        "level": 2,
+        "name": {
+          "local": "لرجام",
+          "en": "Lardjem",
+          "slug": "lardjem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38002"
+    ],
+    "geo": {
+      "lat": "35.79",
+      "lon": "1.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lardjem_melaab",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الملعب",
+      "en": "Melaab",
+      "slug": "melaab"
+    },
+    "code": {
+      "id": "DZ038_lardjem_melaab",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lardjem",
+      "level": 2,
+      "name": {
+        "local": "لرجام",
+        "en": "Lardjem",
+        "slug": "lardjem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lardjem",
+        "level": 2,
+        "name": {
+          "local": "لرجام",
+          "en": "Lardjem",
+          "slug": "lardjem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38013"
+    ],
+    "geo": {
+      "lat": "35.719",
+      "lon": "1.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lardjem_sidi-lantri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي العنتري",
+      "en": "Sidi Lantri",
+      "slug": "sidi-lantri"
+    },
+    "code": {
+      "id": "DZ038_lardjem_sidi-lantri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lardjem",
+      "level": 2,
+      "name": {
+        "local": "لرجام",
+        "en": "Lardjem",
+        "slug": "lardjem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lardjem",
+        "level": 2,
+        "name": {
+          "local": "لرجام",
+          "en": "Lardjem",
+          "slug": "lardjem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38027"
+    ],
+    "geo": {
+      "lat": "35.708",
+      "lon": "1.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lardjem_tamellahet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تملاحت",
+      "en": "Tamellahet",
+      "slug": "tamellahet"
+    },
+    "code": {
+      "id": "DZ038_lardjem_tamellahet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lardjem",
+      "level": 2,
+      "name": {
+        "local": "لرجام",
+        "en": "Lardjem",
+        "slug": "lardjem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lardjem",
+        "level": 2,
+        "name": {
+          "local": "لرجام",
+          "en": "Lardjem",
+          "slug": "lardjem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38029"
+    ],
+    "geo": {
+      "lat": "35.739",
+      "lon": "1.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

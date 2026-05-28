@@ -1,0 +1,45 @@
+{
+  "id": "DZ004004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bab El Oued",
+    "en": "Bab El Oued",
+    "slug": "bab-el-oued-dz004004"
+  },
+  "code": {
+    "id": "DZ004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.794",
+    "lon": "3.051"
+  },
+  "metadata": {},
+  "source": {}
+}

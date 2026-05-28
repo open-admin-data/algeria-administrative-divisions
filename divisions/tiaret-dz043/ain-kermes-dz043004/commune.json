@@ -1,0 +1,45 @@
+{
+  "id": "DZ043004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Kermes",
+    "en": "Ain Kermes",
+    "slug": "ain-kermes-dz043004"
+  },
+  "code": {
+    "id": "DZ043004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.941",
+    "lon": "1.072"
+  },
+  "metadata": {},
+  "source": {}
+}

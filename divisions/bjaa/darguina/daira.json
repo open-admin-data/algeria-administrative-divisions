@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_darguina",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "درقينة",
+    "en": "Darguina",
+    "slug": "darguina"
+  },
+  "code": {
+    "id": "DZ006_darguina",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.557",
+    "lon": "5.295"
+  },
+  "metadata": {},
+  "source": {}
+}

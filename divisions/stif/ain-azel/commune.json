@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_ain-azel_ain-azel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين أزال",
+      "en": "Ain Azel",
+      "slug": "ain-azel"
+    },
+    "code": {
+      "id": "DZ019_ain-azel_ain-azel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-azel",
+      "level": 2,
+      "name": {
+        "local": "عين أزال",
+        "en": "Ain Azel",
+        "slug": "ain-azel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-azel",
+        "level": 2,
+        "name": {
+          "local": "عين أزال",
+          "en": "Ain Azel",
+          "slug": "ain-azel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19007"
+    ],
+    "geo": {
+      "lat": "35.923",
+      "lon": "5.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-azel_ain-lahdjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحجر",
+      "en": "Ain Lahdjar",
+      "slug": "ain-lahdjar"
+    },
+    "code": {
+      "id": "DZ019_ain-azel_ain-lahdjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-azel",
+      "level": 2,
+      "name": {
+        "local": "عين أزال",
+        "en": "Ain Azel",
+        "slug": "ain-azel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-azel",
+        "level": 2,
+        "name": {
+          "local": "عين أزال",
+          "en": "Ain Azel",
+          "slug": "ain-azel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19018"
+    ],
+    "geo": {
+      "lat": "35.963",
+      "lon": "5.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-azel_beidha-bordj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بيضاء برج",
+      "en": "Beidha Bordj",
+      "slug": "beidha-bordj"
+    },
+    "code": {
+      "id": "DZ019_ain-azel_beidha-bordj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-azel",
+      "level": 2,
+      "name": {
+        "local": "عين أزال",
+        "en": "Ain Azel",
+        "slug": "ain-azel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-azel",
+        "level": 2,
+        "name": {
+          "local": "عين أزال",
+          "en": "Ain Azel",
+          "slug": "ain-azel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19021"
+    ],
+    "geo": {
+      "lat": "35.841",
+      "lon": "5.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-azel_bir-haddada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر حدادة",
+      "en": "Bir Haddada",
+      "slug": "bir-haddada"
+    },
+    "code": {
+      "id": "DZ019_ain-azel_bir-haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-azel",
+      "level": 2,
+      "name": {
+        "local": "عين أزال",
+        "en": "Ain Azel",
+        "slug": "ain-azel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-azel",
+        "level": 2,
+        "name": {
+          "local": "عين أزال",
+          "en": "Ain Azel",
+          "slug": "ain-azel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19039"
+    ],
+    "geo": {
+      "lat": "35.964",
+      "lon": "5.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

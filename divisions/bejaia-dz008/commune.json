@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "DZ008001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adekar",
+      "en": "Adekar",
+      "slug": "adekar-dz008001"
+    },
+    "code": {
+      "id": "DZ008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait R'Zine",
+      "en": "Ait R'Zine",
+      "slug": "ait-rzine-dz008002"
+    },
+    "code": {
+      "id": "DZ008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.388",
+      "lon": "4.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Smail",
+      "en": "Ait Smail",
+      "slug": "ait-smail-dz008003"
+    },
+    "code": {
+      "id": "DZ008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.558",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akbou",
+      "en": "Akbou",
+      "slug": "akbou-dz008004"
+    },
+    "code": {
+      "id": "DZ008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.461",
+      "lon": "4.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akfadou",
+      "en": "Akfadou",
+      "slug": "akfadou-dz008005"
+    },
+    "code": {
+      "id": "DZ008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.66",
+      "lon": "4.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amalou",
+      "en": "Amalou",
+      "slug": "amalou-dz008006"
+    },
+    "code": {
+      "id": "DZ008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.479",
+      "lon": "4.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amizour",
+      "en": "Amizour",
+      "slug": "amizour-dz008007"
+    },
+    "code": {
+      "id": "DZ008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.648",
+      "lon": "4.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aokas",
+      "en": "Aokas",
+      "slug": "aokas-dz008008"
+    },
+    "code": {
+      "id": "DZ008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.62",
+      "lon": "5.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barbacha",
+      "en": "Barbacha",
+      "slug": "barbacha-dz008009"
+    },
+    "code": {
+      "id": "DZ008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.568",
+      "lon": "4.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bejaia",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008010"
+    },
+    "code": {
+      "id": "DZ008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.772",
+      "lon": "5.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Djellil",
+      "en": "Beni Djellil",
+      "slug": "beni-djellil-dz008011"
+    },
+    "code": {
+      "id": "DZ008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.565",
+      "lon": "4.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ksila",
+      "en": "Beni Ksila",
+      "slug": "beni-ksila-dz008012"
+    },
+    "code": {
+      "id": "DZ008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.828",
+      "lon": "4.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Maouche",
+      "en": "Beni Maouche",
+      "slug": "beni-maouche-dz008013"
+    },
+    "code": {
+      "id": "DZ008013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.489",
+      "lon": "4.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Melikech",
+      "en": "Beni Melikech",
+      "slug": "beni-melikech-dz008014"
+    },
+    "code": {
+      "id": "DZ008014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.449",
+      "lon": "4.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudjellil",
+      "en": "Boudjellil",
+      "slug": "boudjellil-dz008015"
+    },
+    "code": {
+      "id": "DZ008015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.325",
+      "lon": "4.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhamza",
+      "en": "Bouhamza",
+      "slug": "bouhamza-dz008016"
+    },
+    "code": {
+      "id": "DZ008016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.441",
+      "lon": "4.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukhelifa",
+      "en": "Boukhelifa",
+      "slug": "boukhelifa-dz008017"
+    },
+    "code": {
+      "id": "DZ008017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.641",
+      "lon": "5.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chelata",
+      "en": "Chelata",
+      "slug": "chelata-dz008018"
+    },
+    "code": {
+      "id": "DZ008018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.51",
+      "lon": "4.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chemini",
+      "en": "Chemini",
+      "slug": "chemini-dz008019"
+    },
+    "code": {
+      "id": "DZ008019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.595",
+      "lon": "4.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Darguina",
+      "en": "Darguina",
+      "slug": "darguina-dz008020"
+    },
+    "code": {
+      "id": "DZ008020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.555",
+      "lon": "5.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Draa El Kaid",
+      "en": "Draa El Kaid",
+      "slug": "draa-el-kaid-dz008021"
+    },
+    "code": {
+      "id": "DZ008021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.443",
+      "lon": "5.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kseur",
+      "en": "El Kseur",
+      "slug": "el-kseur-dz008022"
+    },
+    "code": {
+      "id": "DZ008022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.721",
+      "lon": "4.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ferraoun",
+      "en": "Ferraoun",
+      "slug": "ferraoun-dz008023"
+    },
+    "code": {
+      "id": "DZ008023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.568",
+      "lon": "4.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifelain Ilmathen",
+      "en": "Ifelain Ilmathen",
+      "slug": "ifelain-ilmathen-dz008024"
+    },
+    "code": {
+      "id": "DZ008024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.671",
+      "lon": "4.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ighil Ali",
+      "en": "Ighil Ali",
+      "slug": "ighil-ali-dz008025"
+    },
+    "code": {
+      "id": "DZ008025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.293",
+      "lon": "4.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ighram",
+      "en": "Ighram",
+      "slug": "ighram-dz008026"
+    },
+    "code": {
+      "id": "DZ008026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.48",
+      "lon": "4.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kendira",
+      "en": "Kendira",
+      "slug": "kendira-dz008027"
+    },
+    "code": {
+      "id": "DZ008027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.56",
+      "lon": "5.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kherrata",
+      "en": "Kherrata",
+      "slug": "kherrata-dz008028"
+    },
+    "code": {
+      "id": "DZ008028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.474",
+      "lon": "5.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leflaye",
+      "en": "Leflaye",
+      "slug": "leflaye-dz008029"
+    },
+    "code": {
+      "id": "DZ008029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.6",
+      "lon": "4.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Melbou",
+      "en": "Melbou",
+      "slug": "melbou-dz008030"
+    },
+    "code": {
+      "id": "DZ008030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.622",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Ghir",
+      "en": "Oued Ghir",
+      "slug": "oued-ghir-dz008031"
+    },
+    "code": {
+      "id": "DZ008031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.717",
+      "lon": "4.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouzellaguen",
+      "en": "Ouzellaguen",
+      "slug": "ouzellaguen-dz008032"
+    },
+    "code": {
+      "id": "DZ008032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.549",
+      "lon": "4.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seddouk",
+      "en": "Seddouk",
+      "slug": "seddouk-dz008033"
+    },
+    "code": {
+      "id": "DZ008033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.539",
+      "lon": "4.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Semaoune",
+      "en": "Semaoune",
+      "slug": "semaoune-dz008034"
+    },
+    "code": {
+      "id": "DZ008034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.618",
+      "lon": "4.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Aich",
+      "en": "Sidi Aich",
+      "slug": "sidi-aich-dz008035"
+    },
+    "code": {
+      "id": "DZ008035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.624",
+      "lon": "4.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ayad",
+      "en": "Sidi Ayad",
+      "slug": "sidi-ayad-dz008036"
+    },
+    "code": {
+      "id": "DZ008036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.611",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Said",
+      "en": "Sidi Said",
+      "slug": "sidi-said-dz008037"
+    },
+    "code": {
+      "id": "DZ008037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.569",
+      "lon": "4.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk El Thenine",
+      "en": "Souk El Thenine",
+      "slug": "souk-el-thenine-dz008038"
+    },
+    "code": {
+      "id": "DZ008038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.616",
+      "lon": "5.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk Oufella",
+      "en": "Souk Oufella",
+      "slug": "souk-oufella-dz008039"
+    },
+    "code": {
+      "id": "DZ008039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.589",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tala Hamza",
+      "en": "Tala Hamza",
+      "slug": "tala-hamza-dz008040"
+    },
+    "code": {
+      "id": "DZ008040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.693",
+      "lon": "5.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamokra",
+      "en": "Tamokra",
+      "slug": "tamokra-dz008041"
+    },
+    "code": {
+      "id": "DZ008041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.393",
+      "lon": "4.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamridjet",
+      "en": "Tamridjet",
+      "slug": "tamridjet-dz008042"
+    },
+    "code": {
+      "id": "DZ008042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.575",
+      "lon": "5.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taourirt Ighil",
+      "en": "Taourirt Ighil",
+      "slug": "taourirt-ighil-dz008043"
+    },
+    "code": {
+      "id": "DZ008043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taskriout",
+      "en": "Taskriout",
+      "slug": "taskriout-dz008044"
+    },
+    "code": {
+      "id": "DZ008044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.557",
+      "lon": "5.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tazmalt",
+      "en": "Tazmalt",
+      "slug": "tazmalt-dz008045"
+    },
+    "code": {
+      "id": "DZ008045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.4",
+      "lon": "4.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tibane",
+      "en": "Tibane",
+      "slug": "tibane-dz008046"
+    },
+    "code": {
+      "id": "DZ008046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.615",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tichi",
+      "en": "Tichi",
+      "slug": "tichi-dz008047"
+    },
+    "code": {
+      "id": "DZ008047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.622",
+      "lon": "5.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tifra",
+      "en": "Tifra",
+      "slug": "tifra-dz008048"
+    },
+    "code": {
+      "id": "DZ008048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.662",
+      "lon": "4.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timzrit",
+      "en": "Timzrit",
+      "slug": "timzrit-dz008049"
+    },
+    "code": {
+      "id": "DZ008049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.62",
+      "lon": "4.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tinebdar",
+      "en": "Tinebdar",
+      "slug": "tinebdar-dz008050"
+    },
+    "code": {
+      "id": "DZ008050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.636",
+      "lon": "4.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi N'Berber",
+      "en": "Tizi N'Berber",
+      "slug": "tizi-nberber-dz008051"
+    },
+    "code": {
+      "id": "DZ008051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.593",
+      "lon": "5.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toudja",
+      "en": "Toudja",
+      "slug": "toudja-dz008052"
+    },
+    "code": {
+      "id": "DZ008052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia-dz008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.79",
+      "lon": "4.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

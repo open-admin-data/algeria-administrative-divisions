@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ055_el-hadjira,الحجيرة,El-Hadjira,el-hadjira,DZ055_el-hadjira,2,32.749,5.835
+DZ055_megarine,المقارين,Megarine,megarine,DZ055_megarine,2,34.531,3.841
+DZ055_taibet,الطيبات,Taibet,taibet,DZ055_taibet,3,32.944,6.441
+DZ055_temacine,تماسين,Temacine,temacine,DZ055_temacine,2,33.312,5.693
+DZ055_touggourt,تقرت,Touggourt,touggourt,DZ055_touggourt,4,33.119,6.024

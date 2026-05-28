@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_oum-ali_oum-ali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم علي",
+      "en": "Oum Ali",
+      "slug": "oum-ali"
+    },
+    "code": {
+      "id": "DZ012_oum-ali_oum-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_oum-ali",
+      "level": 2,
+      "name": {
+        "local": "أم علي",
+        "en": "Oum Ali",
+        "slug": "oum-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_oum-ali",
+        "level": 2,
+        "name": {
+          "local": "أم علي",
+          "en": "Oum Ali",
+          "slug": "oum-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12027"
+    ],
+    "geo": {
+      "lat": "35.087",
+      "lon": "8.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_oum-ali_saf-saf-el-ouesra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صفصاف الوسرى",
+      "en": "Saf Saf El Ouesra",
+      "slug": "saf-saf-el-ouesra"
+    },
+    "code": {
+      "id": "DZ012_oum-ali_saf-saf-el-ouesra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_oum-ali",
+      "level": 2,
+      "name": {
+        "local": "أم علي",
+        "en": "Oum Ali",
+        "slug": "oum-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_oum-ali",
+        "level": 2,
+        "name": {
+          "local": "أم علي",
+          "en": "Oum Ali",
+          "slug": "oum-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12037"
+    ],
+    "geo": {
+      "lat": "35.087",
+      "lon": "8.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

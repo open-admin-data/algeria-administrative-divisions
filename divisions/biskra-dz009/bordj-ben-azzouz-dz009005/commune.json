@@ -1,0 +1,45 @@
+{
+  "id": "DZ009005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj Ben Azzouz",
+    "en": "Bordj Ben Azzouz",
+    "slug": "bordj-ben-azzouz-dz009005"
+  },
+  "code": {
+    "id": "DZ009005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.731",
+    "lon": "5.348"
+  },
+  "metadata": {},
+  "source": {}
+}

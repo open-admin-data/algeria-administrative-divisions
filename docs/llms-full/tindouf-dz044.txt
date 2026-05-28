@@ -1,0 +1,19 @@
+# Tindouf — Algeria Administrative Divisions
+
+> 2 communes
+> Code: DZ044
+> Coordinates: 27.55, -6.252
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Oum El Assel
+
+Code: DZ044001, Coordinates: 28.013, -5.799
+
+
+### Tindouf
+
+Code: DZ044002, Coordinates: 27.182, -7.035
+
+

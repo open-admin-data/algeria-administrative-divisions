@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ042_fouka_douaouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دواودة",
+      "en": "Douaouda",
+      "slug": "douaouda"
+    },
+    "code": {
+      "id": "DZ042_fouka_douaouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_fouka",
+      "level": 2,
+      "name": {
+        "local": "فوكة",
+        "en": "Fouka",
+        "slug": "fouka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_fouka",
+        "level": 2,
+        "name": {
+          "local": "فوكة",
+          "en": "Fouka",
+          "slug": "fouka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42015"
+    ],
+    "geo": {
+      "lat": "36.681",
+      "lon": "2.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_fouka_fouka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فوكة",
+      "en": "Fouka",
+      "slug": "fouka"
+    },
+    "code": {
+      "id": "DZ042_fouka_fouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_fouka",
+      "level": 2,
+      "name": {
+        "local": "فوكة",
+        "en": "Fouka",
+        "slug": "fouka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_fouka",
+        "level": 2,
+        "name": {
+          "local": "فوكة",
+          "en": "Fouka",
+          "slug": "fouka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42006"
+    ],
+    "geo": {
+      "lat": "36.665",
+      "lon": "2.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

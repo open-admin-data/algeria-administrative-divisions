@@ -1,0 +1,45 @@
+{
+  "id": "DZ008012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Ksila",
+    "en": "Beni Ksila",
+    "slug": "beni-ksila-dz008012"
+  },
+  "code": {
+    "id": "DZ008012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.828",
+    "lon": "4.707"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ024020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taouzianat",
+    "en": "Taouzianat",
+    "slug": "taouzianat-dz024020"
+  },
+  "code": {
+    "id": "DZ024020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela-dz024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.439",
+    "lon": "6.777"
+  },
+  "metadata": {},
+  "source": {}
+}

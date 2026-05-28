@@ -1,0 +1,280 @@
+[
+  {
+    "id": "DZ032_boualem_boualem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعلام",
+      "en": "Boualem",
+      "slug": "boualem"
+    },
+    "code": {
+      "id": "DZ032_boualem_boualem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_boualem",
+      "level": 2,
+      "name": {
+        "local": "بوعلام",
+        "en": "Boualem",
+        "slug": "boualem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_boualem",
+        "level": 2,
+        "name": {
+          "local": "بوعلام",
+          "en": "Boualem",
+          "slug": "boualem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32006"
+    ],
+    "geo": {
+      "lat": "35.021",
+      "lon": "2.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_boualem_sidi-ameur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عامر",
+      "en": "Sidi Ameur",
+      "slug": "sidi-ameur"
+    },
+    "code": {
+      "id": "DZ032_boualem_sidi-ameur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_boualem",
+      "level": 2,
+      "name": {
+        "local": "بوعلام",
+        "en": "Boualem",
+        "slug": "boualem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_boualem",
+        "level": 2,
+        "name": {
+          "local": "بوعلام",
+          "en": "Boualem",
+          "slug": "boualem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.368",
+      "lon": "3.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_boualem_sidi-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي سليمان",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane"
+    },
+    "code": {
+      "id": "DZ032_boualem_sidi-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_boualem",
+      "level": 2,
+      "name": {
+        "local": "بوعلام",
+        "en": "Boualem",
+        "slug": "boualem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_boualem",
+        "level": 2,
+        "name": {
+          "local": "بوعلام",
+          "en": "Boualem",
+          "slug": "boualem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30030"
+    ],
+    "geo": {
+      "lat": "35.857",
+      "lon": "1.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_boualem_sidi-tiffour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي طيفور",
+      "en": "Sidi Tiffour",
+      "slug": "sidi-tiffour"
+    },
+    "code": {
+      "id": "DZ032_boualem_sidi-tiffour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_boualem",
+      "level": 2,
+      "name": {
+        "local": "بوعلام",
+        "en": "Boualem",
+        "slug": "boualem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_boualem",
+        "level": 2,
+        "name": {
+          "local": "بوعلام",
+          "en": "Boualem",
+          "slug": "boualem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32032"
+    ],
+    "geo": {
+      "lat": "35.021",
+      "lon": "2.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_boualem_stitten",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ستيتن",
+      "en": "Stitten",
+      "slug": "stitten"
+    },
+    "code": {
+      "id": "DZ032_boualem_stitten",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_boualem",
+      "level": 2,
+      "name": {
+        "local": "بوعلام",
+        "en": "Boualem",
+        "slug": "boualem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_boualem",
+        "level": 2,
+        "name": {
+          "local": "بوعلام",
+          "en": "Boualem",
+          "slug": "boualem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32033"
+    ],
+    "geo": {
+      "lat": "33.838",
+      "lon": "1.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "DZ023001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Taher",
+      "en": "Bordj Taher",
+      "slug": "bordj-taher-dz023001"
+    },
+    "code": {
+      "id": "DZ023001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.752",
+      "lon": "6.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudria Beni Yadjis",
+      "en": "Boudria Beni Yadjis",
+      "slug": "boudria-beni-yadjis-dz023002"
+    },
+    "code": {
+      "id": "DZ023002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.593",
+      "lon": "5.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouraoui Belhadef",
+      "en": "Bouraoui Belhadef",
+      "slug": "bouraoui-belhadef-dz023003"
+    },
+    "code": {
+      "id": "DZ023003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.7",
+      "lon": "6.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boussif Ouled Akseur",
+      "en": "Boussif Ouled Akseur",
+      "slug": "boussif-ouled-akseur-dz023004"
+    },
+    "code": {
+      "id": "DZ023004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.668",
+      "lon": "6.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chahna",
+      "en": "Chahna",
+      "slug": "chahna-dz023005"
+    },
+    "code": {
+      "id": "DZ023005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.665",
+      "lon": "5.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chebbala Milat",
+      "en": "Chebbala Milat",
+      "slug": "chebbala-milat-dz023006"
+    },
+    "code": {
+      "id": "DZ023006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.63",
+      "lon": "6.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chekfa",
+      "en": "Chekfa",
+      "slug": "chekfa-dz023007"
+    },
+    "code": {
+      "id": "DZ023007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.762",
+      "lon": "5.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djemaa Beni Habibi",
+      "en": "Djemaa Beni Habibi",
+      "slug": "djemaa-beni-habibi-dz023008"
+    },
+    "code": {
+      "id": "DZ023008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.804",
+      "lon": "6.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djmila",
+      "en": "Djmila",
+      "slug": "djmila-dz023009"
+    },
+    "code": {
+      "id": "DZ023009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.582",
+      "lon": "5.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ancer",
+      "en": "El Ancer",
+      "slug": "el-ancer-dz023010"
+    },
+    "code": {
+      "id": "DZ023010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.798",
+      "lon": "6.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Aouana",
+      "en": "El Aouana",
+      "slug": "el-aouana-dz023011"
+    },
+    "code": {
+      "id": "DZ023011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.742",
+      "lon": "5.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kennar Nouchfi",
+      "en": "El Kennar Nouchfi",
+      "slug": "el-kennar-nouchfi-dz023012"
+    },
+    "code": {
+      "id": "DZ023012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.813",
+      "lon": "5.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Milia",
+      "en": "El Milia",
+      "slug": "el-milia-dz023013"
+    },
+    "code": {
+      "id": "DZ023013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.807",
+      "lon": "6.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Emir Abdelkader",
+      "en": "Emir Abdelkader",
+      "slug": "emir-abdelkader-dz023014"
+    },
+    "code": {
+      "id": "DZ023014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.756",
+      "lon": "5.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Erraguene",
+      "en": "Erraguene",
+      "slug": "erraguene-dz023015"
+    },
+    "code": {
+      "id": "DZ023015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.573",
+      "lon": "5.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jijel",
+      "en": "Jijel",
+      "slug": "jijel-dz023016"
+    },
+    "code": {
+      "id": "DZ023016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.798",
+      "lon": "5.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaous",
+      "en": "Kaous",
+      "slug": "kaous-dz023017"
+    },
+    "code": {
+      "id": "DZ023017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.762",
+      "lon": "5.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kimir Oued Adjoul",
+      "en": "Kimir Oued Adjoul",
+      "slug": "kimir-oued-adjoul-dz023018"
+    },
+    "code": {
+      "id": "DZ023018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.859",
+      "lon": "6.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oudjana",
+      "en": "Oudjana",
+      "slug": "oudjana-dz023019"
+    },
+    "code": {
+      "id": "DZ023019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.678",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Rabah",
+      "en": "Ouled Rabah",
+      "slug": "ouled-rabah-dz023020"
+    },
+    "code": {
+      "id": "DZ023020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.627",
+      "lon": "6.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Yahia Khadrouche",
+      "en": "Ouled Yahia Khadrouche",
+      "slug": "ouled-yahia-khadrouche-dz023021"
+    },
+    "code": {
+      "id": "DZ023021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.695",
+      "lon": "6.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Selma Ben Ziada",
+      "en": "Selma Ben Ziada",
+      "slug": "selma-ben-ziada-dz023022"
+    },
+    "code": {
+      "id": "DZ023022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.654",
+      "lon": "5.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Settara",
+      "en": "Settara",
+      "slug": "settara-dz023023"
+    },
+    "code": {
+      "id": "DZ023023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.707",
+      "lon": "6.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abdelaziz",
+      "en": "Sidi Abdelaziz",
+      "slug": "sidi-abdelaziz-dz023024"
+    },
+    "code": {
+      "id": "DZ023024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.834",
+      "lon": "6.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Maarouf",
+      "en": "Sidi Maarouf",
+      "slug": "sidi-maarouf-dz023025"
+    },
+    "code": {
+      "id": "DZ023025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.647",
+      "lon": "6.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taher",
+      "en": "Taher",
+      "slug": "taher-dz023026"
+    },
+    "code": {
+      "id": "DZ023026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.779",
+      "lon": "5.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Texenna",
+      "en": "Texenna",
+      "slug": "texenna-dz023027"
+    },
+    "code": {
+      "id": "DZ023027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.672",
+      "lon": "5.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ziama Mansouria",
+      "en": "Ziama Mansouria",
+      "slug": "ziama-mansouria-dz023028"
+    },
+    "code": {
+      "id": "DZ023028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel-dz023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.651",
+      "lon": "5.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

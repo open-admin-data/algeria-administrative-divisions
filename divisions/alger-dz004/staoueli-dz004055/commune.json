@@ -1,0 +1,45 @@
+{
+  "id": "DZ004055",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Staoueli",
+    "en": "Staoueli",
+    "slug": "staoueli-dz004055"
+  },
+  "code": {
+    "id": "DZ004055",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.744",
+    "lon": "2.874"
+  },
+  "metadata": {},
+  "source": {}
+}

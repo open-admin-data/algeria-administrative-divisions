@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ006_amizour_amizour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أميزور",
+      "en": "Amizour",
+      "slug": "amizour"
+    },
+    "code": {
+      "id": "DZ006_amizour_amizour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_amizour",
+      "level": 2,
+      "name": {
+        "local": "أميزور",
+        "en": "Amizour",
+        "slug": "amizour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_amizour",
+        "level": 2,
+        "name": {
+          "local": "أميزور",
+          "en": "Amizour",
+          "slug": "amizour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06008"
+    ],
+    "geo": {
+      "lat": "36.648",
+      "lon": "4.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_amizour_beni-djellil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني جليل",
+      "en": "Beni Djellil",
+      "slug": "beni-djellil"
+    },
+    "code": {
+      "id": "DZ006_amizour_beni-djellil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_amizour",
+      "level": 2,
+      "name": {
+        "local": "أميزور",
+        "en": "Amizour",
+        "slug": "amizour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_amizour",
+        "level": 2,
+        "name": {
+          "local": "أميزور",
+          "en": "Amizour",
+          "slug": "amizour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06067"
+    ],
+    "geo": {
+      "lat": "36.565",
+      "lon": "4.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_amizour_feraoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فرعون",
+      "en": "Feraoun",
+      "slug": "feraoun"
+    },
+    "code": {
+      "id": "DZ006_amizour_feraoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_amizour",
+      "level": 2,
+      "name": {
+        "local": "أميزور",
+        "en": "Amizour",
+        "slug": "amizour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_amizour",
+        "level": 2,
+        "name": {
+          "local": "أميزور",
+          "en": "Amizour",
+          "slug": "amizour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06100"
+    ],
+    "geo": {
+      "lat": "36.606",
+      "lon": "4.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_amizour_smaoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سمعون",
+      "en": "Smaoun",
+      "slug": "smaoun"
+    },
+    "code": {
+      "id": "DZ006_amizour_smaoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_amizour",
+      "level": 2,
+      "name": {
+        "local": "أميزور",
+        "en": "Amizour",
+        "slug": "amizour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_amizour",
+        "level": 2,
+        "name": {
+          "local": "أميزور",
+          "en": "Amizour",
+          "slug": "amizour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06020"
+    ],
+    "geo": {
+      "lat": "36.606",
+      "lon": "4.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

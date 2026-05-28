@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ038_ammari_ammari",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عماري",
+      "en": "Ammari",
+      "slug": "ammari"
+    },
+    "code": {
+      "id": "DZ038_ammari_ammari",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_ammari",
+      "level": 2,
+      "name": {
+        "local": "عماري",
+        "en": "Ammari",
+        "slug": "ammari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_ammari",
+        "level": 2,
+        "name": {
+          "local": "عماري",
+          "en": "Ammari",
+          "slug": "ammari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38012"
+    ],
+    "geo": {
+      "lat": "35.617",
+      "lon": "1.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_ammari_maacem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعاصم",
+      "en": "Maacem",
+      "slug": "maacem"
+    },
+    "code": {
+      "id": "DZ038_ammari_maacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_ammari",
+      "level": 2,
+      "name": {
+        "local": "عماري",
+        "en": "Ammari",
+        "slug": "ammari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_ammari",
+        "level": 2,
+        "name": {
+          "local": "عماري",
+          "en": "Ammari",
+          "slug": "ammari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38023"
+    ],
+    "geo": {
+      "lat": "35.644",
+      "lon": "1.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_ammari_sidi-abed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عابد",
+      "en": "Sidi Abed",
+      "slug": "sidi-abed"
+    },
+    "code": {
+      "id": "DZ038_ammari_sidi-abed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_ammari",
+      "level": 2,
+      "name": {
+        "local": "عماري",
+        "en": "Ammari",
+        "slug": "ammari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_ammari",
+        "level": 2,
+        "name": {
+          "local": "عماري",
+          "en": "Ammari",
+          "slug": "ammari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38025"
+    ],
+    "geo": {
+      "lat": "35.713",
+      "lon": "1.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

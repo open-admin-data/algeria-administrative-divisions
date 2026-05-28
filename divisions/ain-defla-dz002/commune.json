@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "DZ002001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Benian",
+      "en": "Ain Benian",
+      "slug": "ain-benian-dz002001"
+    },
+    "code": {
+      "id": "DZ002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "2.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Bouyahia",
+      "en": "Ain Bouyahia",
+      "slug": "ain-bouyahia-dz002002"
+    },
+    "code": {
+      "id": "DZ002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.345",
+      "lon": "1.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Lechiakh",
+      "en": "Ain Lechiakh",
+      "slug": "ain-lechiakh-dz002003"
+    },
+    "code": {
+      "id": "DZ002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.124",
+      "lon": "2.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Soltane",
+      "en": "Ain Soltane",
+      "slug": "ain-soltane-dz002004"
+    },
+    "code": {
+      "id": "DZ002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.208",
+      "lon": "2.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Torki",
+      "en": "Ain Torki",
+      "slug": "ain-torki-dz002005"
+    },
+    "code": {
+      "id": "DZ002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.346",
+      "lon": "2.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain-Defla",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002006"
+    },
+    "code": {
+      "id": "DZ002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.257",
+      "lon": "1.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arib",
+      "en": "Arib",
+      "slug": "arib-dz002007"
+    },
+    "code": {
+      "id": "DZ002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.349",
+      "lon": "2.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barbouche",
+      "en": "Barbouche",
+      "slug": "barbouche-dz002008"
+    },
+    "code": {
+      "id": "DZ002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.114",
+      "lon": "2.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bathia",
+      "en": "Bathia",
+      "slug": "bathia-dz002009"
+    },
+    "code": {
+      "id": "DZ002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.925",
+      "lon": "1.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belaas",
+      "en": "Belaas",
+      "slug": "belaas-dz002010"
+    },
+    "code": {
+      "id": "DZ002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.028",
+      "lon": "1.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Allal",
+      "en": "Ben Allal",
+      "slug": "ben-allal-dz002011"
+    },
+    "code": {
+      "id": "DZ002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.353",
+      "lon": "2.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Ouled Khelifa",
+      "en": "Bir Ouled Khelifa",
+      "slug": "bir-ouled-khelifa-dz002012"
+    },
+    "code": {
+      "id": "DZ002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.191",
+      "lon": "2.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Emir Khaled",
+      "en": "Bordj Emir Khaled",
+      "slug": "bordj-emir-khaled-dz002013"
+    },
+    "code": {
+      "id": "DZ002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.104",
+      "lon": "2.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumedfaa",
+      "en": "Boumedfaa",
+      "slug": "boumedfaa-dz002014"
+    },
+    "code": {
+      "id": "DZ002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.354",
+      "lon": "2.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourached",
+      "en": "Bourached",
+      "slug": "bourached-dz002015"
+    },
+    "code": {
+      "id": "DZ002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "1.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djelida",
+      "en": "Djelida",
+      "slug": "djelida-dz002016"
+    },
+    "code": {
+      "id": "DZ002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.175",
+      "lon": "2.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djemaa Ouled Cheikh",
+      "en": "Djemaa Ouled Cheikh",
+      "slug": "djemaa-ouled-cheikh-dz002017"
+    },
+    "code": {
+      "id": "DZ002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.073",
+      "lon": "1.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djendel",
+      "en": "Djendel",
+      "slug": "djendel-dz002018"
+    },
+    "code": {
+      "id": "DZ002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.245",
+      "lon": "2.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Abbadia",
+      "en": "El Abbadia",
+      "slug": "el-abbadia-dz002019"
+    },
+    "code": {
+      "id": "DZ002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.281",
+      "lon": "1.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Amra",
+      "en": "El Amra",
+      "slug": "el-amra-dz002020"
+    },
+    "code": {
+      "id": "DZ002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.345",
+      "lon": "1.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Attaf",
+      "en": "El Attaf",
+      "slug": "el-attaf-dz002021"
+    },
+    "code": {
+      "id": "DZ002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.217",
+      "lon": "1.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hassania",
+      "en": "El Hassania",
+      "slug": "el-hassania-dz002022"
+    },
+    "code": {
+      "id": "DZ002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.989",
+      "lon": "1.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hoceinia",
+      "en": "El Hoceinia",
+      "slug": "el-hoceinia-dz002023"
+    },
+    "code": {
+      "id": "DZ002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.308",
+      "lon": "2.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mayene",
+      "en": "El Mayene",
+      "slug": "el-mayene-dz002024"
+    },
+    "code": {
+      "id": "DZ002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.075",
+      "lon": "1.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Righa",
+      "en": "Hammam Righa",
+      "slug": "hammam-righa-dz002025"
+    },
+    "code": {
+      "id": "DZ002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.397",
+      "lon": "2.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khemis Miliana",
+      "en": "Khemis Miliana",
+      "slug": "khemis-miliana-dz002026"
+    },
+    "code": {
+      "id": "DZ002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.259",
+      "lon": "2.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mekhatria",
+      "en": "Mekhatria",
+      "slug": "mekhatria-dz002027"
+    },
+    "code": {
+      "id": "DZ002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.358",
+      "lon": "1.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miliana",
+      "en": "Miliana",
+      "slug": "miliana-dz002028"
+    },
+    "code": {
+      "id": "DZ002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.315",
+      "lon": "2.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Chorfa",
+      "en": "Oued Chorfa",
+      "slug": "oued-chorfa-dz002029"
+    },
+    "code": {
+      "id": "DZ002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.152",
+      "lon": "2.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Djemaa",
+      "en": "Oued Djemaa",
+      "slug": "oued-djemaa-dz002030"
+    },
+    "code": {
+      "id": "DZ002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.044",
+      "lon": "2.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rouina",
+      "en": "Rouina",
+      "slug": "rouina-dz002031"
+    },
+    "code": {
+      "id": "DZ002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.233",
+      "lon": "1.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Lakhdar",
+      "en": "Sidi Lakhdar",
+      "slug": "sidi-lakhdar-dz002032"
+    },
+    "code": {
+      "id": "DZ002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.261",
+      "lon": "2.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tachta Zegarra",
+      "en": "Tachta Zegarra",
+      "slug": "tachta-zegarra-dz002033"
+    },
+    "code": {
+      "id": "DZ002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.379",
+      "lon": "1.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tarik Ibn Ziad",
+      "en": "Tarik Ibn Ziad",
+      "slug": "tarik-ibn-ziad-dz002034"
+    },
+    "code": {
+      "id": "DZ002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.984",
+      "lon": "2.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiberkanine",
+      "en": "Tiberkanine",
+      "slug": "tiberkanine-dz002035"
+    },
+    "code": {
+      "id": "DZ002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.153",
+      "lon": "1.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zeddine",
+      "en": "Zeddine",
+      "slug": "zeddine-dz002036"
+    },
+    "code": {
+      "id": "DZ002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلى",
+          "en": "Ain-Defla",
+          "slug": "ain-defla-dz002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.135",
+      "lon": "1.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

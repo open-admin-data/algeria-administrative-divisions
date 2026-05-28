@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ014_mahdia_ain-dzarit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين دزاريت",
+      "en": "Ain Dzarit",
+      "slug": "ain-dzarit"
+    },
+    "code": {
+      "id": "DZ014_mahdia_ain-dzarit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mahdia",
+      "level": 2,
+      "name": {
+        "local": "مهدية",
+        "en": "Mahdia",
+        "slug": "mahdia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mahdia",
+        "level": 2,
+        "name": {
+          "local": "مهدية",
+          "en": "Mahdia",
+          "slug": "mahdia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14017"
+    ],
+    "geo": {
+      "lat": "35.379",
+      "lon": "1.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mahdia_mahdia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مهدية",
+      "en": "Mahdia",
+      "slug": "mahdia"
+    },
+    "code": {
+      "id": "DZ014_mahdia_mahdia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mahdia",
+      "level": 2,
+      "name": {
+        "local": "مهدية",
+        "en": "Mahdia",
+        "slug": "mahdia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mahdia",
+        "level": 2,
+        "name": {
+          "local": "مهدية",
+          "en": "Mahdia",
+          "slug": "mahdia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14004"
+    ],
+    "geo": {
+      "lat": "35.458",
+      "lon": "1.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mahdia_nadorah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الناظورة",
+      "en": "Nadorah",
+      "slug": "nadorah"
+    },
+    "code": {
+      "id": "DZ014_mahdia_nadorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mahdia",
+      "level": 2,
+      "name": {
+        "local": "مهدية",
+        "en": "Mahdia",
+        "slug": "mahdia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mahdia",
+        "level": 2,
+        "name": {
+          "local": "مهدية",
+          "en": "Mahdia",
+          "slug": "mahdia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14058"
+    ],
+    "geo": {
+      "lat": "35.219",
+      "lon": "1.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mahdia_sebaine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السبعين",
+      "en": "Sebaine",
+      "slug": "sebaine"
+    },
+    "code": {
+      "id": "DZ014_mahdia_sebaine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_mahdia",
+      "level": 2,
+      "name": {
+        "local": "مهدية",
+        "en": "Mahdia",
+        "slug": "mahdia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_mahdia",
+        "level": 2,
+        "name": {
+          "local": "مهدية",
+          "en": "Mahdia",
+          "slug": "mahdia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14030"
+    ],
+    "geo": {
+      "lat": "35.46",
+      "lon": "1.605"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

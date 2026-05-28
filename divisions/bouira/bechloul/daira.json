@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_bechloul",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بشلول",
+    "en": "Bechloul",
+    "slug": "bechloul"
+  },
+  "code": {
+    "id": "DZ010_bechloul",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.315",
+    "lon": "4.082"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ025_zighoud-youcef_beni-hamidane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني حميدان",
+      "en": "Beni Hamidane",
+      "slug": "beni-hamidane"
+    },
+    "code": {
+      "id": "DZ025_zighoud-youcef_beni-hamidane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_zighoud-youcef",
+      "level": 2,
+      "name": {
+        "local": "زيغود يوسف",
+        "en": "Zighoud Youcef",
+        "slug": "zighoud-youcef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_zighoud-youcef",
+        "level": 2,
+        "name": {
+          "local": "زيغود يوسف",
+          "en": "Zighoud Youcef",
+          "slug": "zighoud-youcef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25035"
+    ],
+    "geo": {
+      "lat": "36.532",
+      "lon": "6.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_zighoud-youcef_zighoud-youcef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زيغود يوسف",
+      "en": "Zighoud Youcef",
+      "slug": "zighoud-youcef"
+    },
+    "code": {
+      "id": "DZ025_zighoud-youcef_zighoud-youcef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_zighoud-youcef",
+      "level": 2,
+      "name": {
+        "local": "زيغود يوسف",
+        "en": "Zighoud Youcef",
+        "slug": "zighoud-youcef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_zighoud-youcef",
+        "level": 2,
+        "name": {
+          "local": "زيغود يوسف",
+          "en": "Zighoud Youcef",
+          "slug": "zighoud-youcef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25014"
+    ],
+    "geo": {
+      "lat": "36.532",
+      "lon": "6.74"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

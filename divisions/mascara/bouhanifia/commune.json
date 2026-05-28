@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_bouhanifia_bouhanifia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحنيفية",
+      "en": "Bouhanifia",
+      "slug": "bouhanifia"
+    },
+    "code": {
+      "id": "DZ029_bouhanifia_bouhanifia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_bouhanifia",
+      "level": 2,
+      "name": {
+        "local": "بوحنيفية",
+        "en": "Bouhanifia",
+        "slug": "bouhanifia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_bouhanifia",
+        "level": 2,
+        "name": {
+          "local": "بوحنيفية",
+          "en": "Bouhanifia",
+          "slug": "bouhanifia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29005"
+    ],
+    "geo": {
+      "lat": "35.307",
+      "lon": "-0.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_bouhanifia_el-gueitena",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القطنة",
+      "en": "El Gueitena",
+      "slug": "el-gueitena"
+    },
+    "code": {
+      "id": "DZ029_bouhanifia_el-gueitena",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_bouhanifia",
+      "level": 2,
+      "name": {
+        "local": "بوحنيفية",
+        "en": "Bouhanifia",
+        "slug": "bouhanifia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_bouhanifia",
+        "level": 2,
+        "name": {
+          "local": "بوحنيفية",
+          "en": "Bouhanifia",
+          "slug": "bouhanifia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29042"
+    ],
+    "geo": {
+      "lat": "35.38",
+      "lon": "-0.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_bouhanifia_hacine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حسين",
+      "en": "Hacine",
+      "slug": "hacine"
+    },
+    "code": {
+      "id": "DZ029_bouhanifia_hacine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_bouhanifia",
+      "level": 2,
+      "name": {
+        "local": "بوحنيفية",
+        "en": "Bouhanifia",
+        "slug": "bouhanifia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_bouhanifia",
+        "level": 2,
+        "name": {
+          "local": "بوحنيفية",
+          "en": "Bouhanifia",
+          "slug": "bouhanifia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29014"
+    ],
+    "geo": {
+      "lat": "35.452",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

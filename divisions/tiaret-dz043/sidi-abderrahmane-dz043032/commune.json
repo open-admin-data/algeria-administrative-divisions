@@ -1,0 +1,45 @@
+{
+  "id": "DZ043032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Abderrahmane",
+    "en": "Sidi Abderrahmane",
+    "slug": "sidi-abderrahmane-dz043032"
+  },
+  "code": {
+    "id": "DZ043032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.543",
+    "lon": "1.055"
+  },
+  "metadata": {},
+  "source": {}
+}

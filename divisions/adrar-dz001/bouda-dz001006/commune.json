@@ -1,0 +1,45 @@
+{
+  "id": "DZ001006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouda",
+    "en": "Bouda",
+    "slug": "bouda-dz001006"
+  },
+  "code": {
+    "id": "DZ001006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.017",
+    "lon": "-1.188"
+  },
+  "metadata": {},
+  "source": {}
+}

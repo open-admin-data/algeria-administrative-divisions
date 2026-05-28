@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_sidi-lahcene_amarnas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العمارنة",
+      "en": "Amarnas",
+      "slug": "amarnas"
+    },
+    "code": {
+      "id": "DZ022_sidi-lahcene_amarnas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-lahcene",
+      "level": 2,
+      "name": {
+        "local": "سيدي لحسن",
+        "en": "Sidi Lahcene",
+        "slug": "sidi-lahcene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-lahcene",
+        "level": 2,
+        "name": {
+          "local": "سيدي لحسن",
+          "en": "Sidi Lahcene",
+          "slug": "sidi-lahcene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22074"
+    ],
+    "geo": {
+      "lat": "35.103",
+      "lon": "-0.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-lahcene_sidi-khaled",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي خالد",
+      "en": "Sidi Khaled",
+      "slug": "sidi-khaled"
+    },
+    "code": {
+      "id": "DZ022_sidi-lahcene_sidi-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-lahcene",
+      "level": 2,
+      "name": {
+        "local": "سيدي لحسن",
+        "en": "Sidi Lahcene",
+        "slug": "sidi-lahcene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-lahcene",
+        "level": 2,
+        "name": {
+          "local": "سيدي لحسن",
+          "en": "Sidi Lahcene",
+          "slug": "sidi-lahcene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07004"
+    ],
+    "geo": {
+      "lat": "35.124",
+      "lon": "-0.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-lahcene_sidi-lahcene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي لحسن",
+      "en": "Sidi Lahcene",
+      "slug": "sidi-lahcene"
+    },
+    "code": {
+      "id": "DZ022_sidi-lahcene_sidi-lahcene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-lahcene",
+      "level": 2,
+      "name": {
+        "local": "سيدي لحسن",
+        "en": "Sidi Lahcene",
+        "slug": "sidi-lahcene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-lahcene",
+        "level": 2,
+        "name": {
+          "local": "سيدي لحسن",
+          "en": "Sidi Lahcene",
+          "slug": "sidi-lahcene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22020"
+    ],
+    "geo": {
+      "lat": "35.197",
+      "lon": "-0.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-lahcene_sidi-yacoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي يعقوب",
+      "en": "Sidi Yacoub",
+      "slug": "sidi-yacoub"
+    },
+    "code": {
+      "id": "DZ022_sidi-lahcene_sidi-yacoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-lahcene",
+      "level": 2,
+      "name": {
+        "local": "سيدي لحسن",
+        "en": "Sidi Lahcene",
+        "slug": "sidi-lahcene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-lahcene",
+        "level": 2,
+        "name": {
+          "local": "سيدي لحسن",
+          "en": "Sidi Lahcene",
+          "slug": "sidi-lahcene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22063"
+    ],
+    "geo": {
+      "lat": "35.159",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

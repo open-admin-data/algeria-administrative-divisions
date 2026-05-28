@@ -1,0 +1,45 @@
+{
+  "id": "DZ013023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Hadjadj",
+    "en": "Ouled Hadjadj",
+    "slug": "ouled-hadjadj-dz013023"
+  },
+  "code": {
+    "id": "DZ013023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.713",
+    "lon": "3.338"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ008017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boukhelifa",
+    "en": "Boukhelifa",
+    "slug": "boukhelifa-dz008017"
+  },
+  "code": {
+    "id": "DZ008017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.641",
+    "lon": "5.077"
+  },
+  "metadata": {},
+  "source": {}
+}

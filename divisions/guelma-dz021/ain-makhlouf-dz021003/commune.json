@@ -1,0 +1,45 @@
+{
+  "id": "DZ021003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Makhlouf",
+    "en": "Ain Makhlouf",
+    "slug": "ain-makhlouf-dz021003"
+  },
+  "code": {
+    "id": "DZ021003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.23",
+    "lon": "7.244"
+  },
+  "metadata": {},
+  "source": {}
+}

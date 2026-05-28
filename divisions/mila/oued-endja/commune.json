@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_oued-endja_ahmed-rachedi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أحمد راشدي",
+      "en": "Ahmed Rachedi",
+      "slug": "ahmed-rachedi"
+    },
+    "code": {
+      "id": "DZ043_oued-endja_ahmed-rachedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_oued-endja",
+      "level": 2,
+      "name": {
+        "local": "وادي النجاء",
+        "en": "Oued Endja",
+        "slug": "oued-endja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_oued-endja",
+        "level": 2,
+        "name": {
+          "local": "وادي النجاء",
+          "en": "Oued Endja",
+          "slug": "oued-endja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43013"
+    ],
+    "geo": {
+      "lat": "36.468",
+      "lon": "6.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_oued-endja_oued-endja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي النجاء",
+      "en": "Oued Endja",
+      "slug": "oued-endja"
+    },
+    "code": {
+      "id": "DZ043_oued-endja_oued-endja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_oued-endja",
+      "level": 2,
+      "name": {
+        "local": "وادي النجاء",
+        "en": "Oued Endja",
+        "slug": "oued-endja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_oued-endja",
+        "level": 2,
+        "name": {
+          "local": "وادي النجاء",
+          "en": "Oued Endja",
+          "slug": "oued-endja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43006"
+    ],
+    "geo": {
+      "lat": "36.454",
+      "lon": "6.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_oued-endja_zeghaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زغاية",
+      "en": "Zeghaia",
+      "slug": "zeghaia"
+    },
+    "code": {
+      "id": "DZ043_oued-endja_zeghaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_oued-endja",
+      "level": 2,
+      "name": {
+        "local": "وادي النجاء",
+        "en": "Oued Endja",
+        "slug": "oued-endja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_oued-endja",
+        "level": 2,
+        "name": {
+          "local": "وادي النجاء",
+          "en": "Oued Endja",
+          "slug": "oued-endja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43012"
+    ],
+    "geo": {
+      "lat": "36.483",
+      "lon": "6.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

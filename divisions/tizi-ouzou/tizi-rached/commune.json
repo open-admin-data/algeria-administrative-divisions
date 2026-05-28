@@ -1,0 +1,112 @@
+[
+  {
+    "id": "DZ015_tizi-rached_ait-oumalou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت  أومالو",
+      "en": "Ait-Oumalou",
+      "slug": "ait-oumalou"
+    },
+    "code": {
+      "id": "DZ015_tizi-rached_ait-oumalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tizi-rached",
+      "level": 2,
+      "name": {
+        "local": "تيزي راشد",
+        "en": "Tizi Rached",
+        "slug": "tizi-rached"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tizi-rached",
+        "level": 2,
+        "name": {
+          "local": "تيزي راشد",
+          "en": "Tizi Rached",
+          "slug": "tizi-rached"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.658",
+      "lon": "4.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_tizi-rached_tizi-rached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي راشد",
+      "en": "Tizi-Rached",
+      "slug": "tizi-rached"
+    },
+    "code": {
+      "id": "DZ015_tizi-rached_tizi-rached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tizi-rached",
+      "level": 2,
+      "name": {
+        "local": "تيزي راشد",
+        "en": "Tizi Rached",
+        "slug": "tizi-rached"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tizi-rached",
+        "level": 2,
+        "name": {
+          "local": "تيزي راشد",
+          "en": "Tizi Rached",
+          "slug": "tizi-rached"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15050"
+    ],
+    "geo": {
+      "lat": "36.69",
+      "lon": "4.189"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

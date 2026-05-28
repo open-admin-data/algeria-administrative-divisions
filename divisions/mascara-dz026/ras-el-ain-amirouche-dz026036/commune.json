@@ -1,0 +1,45 @@
+{
+  "id": "DZ026036",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ras El Ain Amirouche",
+    "en": "Ras El Ain Amirouche",
+    "slug": "ras-el-ain-amirouche-dz026036"
+  },
+  "code": {
+    "id": "DZ026036",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.626",
+    "lon": "-0.214"
+  },
+  "metadata": {},
+  "source": {}
+}

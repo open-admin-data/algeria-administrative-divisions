@@ -1,0 +1,45 @@
+{
+  "id": "DZ039021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Es Sebt",
+    "en": "Es Sebt",
+    "slug": "es-sebt-dz039021"
+  },
+  "code": {
+    "id": "DZ039021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.623",
+    "lon": "7.067"
+  },
+  "metadata": {},
+  "source": {}
+}

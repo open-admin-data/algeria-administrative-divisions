@@ -1,0 +1,45 @@
+{
+  "id": "DZ029013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kheir Eddine",
+    "en": "Kheir Eddine",
+    "slug": "kheir-eddine-dz029013"
+  },
+  "code": {
+    "id": "DZ029013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.954",
+    "lon": "0.181"
+  },
+  "metadata": {},
+  "source": {}
+}

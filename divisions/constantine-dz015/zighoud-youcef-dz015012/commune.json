@@ -1,0 +1,45 @@
+{
+  "id": "DZ015012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zighoud Youcef",
+    "en": "Zighoud Youcef",
+    "slug": "zighoud-youcef-dz015012"
+  },
+  "code": {
+    "id": "DZ015012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.532",
+    "lon": "6.74"
+  },
+  "metadata": {},
+  "source": {}
+}

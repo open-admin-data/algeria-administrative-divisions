@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_ain-oussera",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين وسارة",
+    "en": "Ain Oussera",
+    "slug": "ain-oussera"
+  },
+  "code": {
+    "id": "DZ017_ain-oussera",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.172",
+    "lon": "2.785"
+  },
+  "metadata": {},
+  "source": {}
+}

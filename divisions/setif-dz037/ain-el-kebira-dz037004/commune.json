@@ -1,0 +1,45 @@
+{
+  "id": "DZ037004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Kebira",
+    "en": "Ain El Kebira",
+    "slug": "ain-el-kebira-dz037004"
+  },
+  "code": {
+    "id": "DZ037004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.381",
+    "lon": "5.52"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ047009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ait Boumahdi",
+    "en": "Ait Boumahdi",
+    "slug": "ait-boumahdi-dz047009"
+  },
+  "code": {
+    "id": "DZ047009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.49",
+    "lon": "4.19"
+  },
+  "metadata": {},
+  "source": {}
+}

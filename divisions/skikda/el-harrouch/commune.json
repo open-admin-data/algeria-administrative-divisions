@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ021_el-harrouch_el-arrouch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحروش",
+      "en": "El Arrouch",
+      "slug": "el-arrouch"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch_el-arrouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-harrouch",
+      "level": 2,
+      "name": {
+        "local": "الحروش",
+        "en": "El Harrouch",
+        "slug": "el-harrouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-harrouch",
+        "level": 2,
+        "name": {
+          "local": "الحروش",
+          "en": "El Harrouch",
+          "slug": "el-harrouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21003"
+    ],
+    "geo": {
+      "lat": "36.641",
+      "lon": "6.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-harrouch_emjez-edchich",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجاز الدشيش",
+      "en": "Emjez Edchich",
+      "slug": "emjez-edchich"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch_emjez-edchich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-harrouch",
+      "level": 2,
+      "name": {
+        "local": "الحروش",
+        "en": "El Harrouch",
+        "slug": "el-harrouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-harrouch",
+        "level": 2,
+        "name": {
+          "local": "الحروش",
+          "en": "El Harrouch",
+          "slug": "el-harrouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21017"
+    ],
+    "geo": {
+      "lat": "36.641",
+      "lon": "6.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-harrouch_ouled-habbaba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد حبابة",
+      "en": "Ouled Habbaba",
+      "slug": "ouled-habbaba"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch_ouled-habbaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-harrouch",
+      "level": 2,
+      "name": {
+        "local": "الحروش",
+        "en": "El Harrouch",
+        "slug": "el-harrouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-harrouch",
+        "level": 2,
+        "name": {
+          "local": "الحروش",
+          "en": "El Harrouch",
+          "slug": "el-harrouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21043"
+    ],
+    "geo": {
+      "lat": "36.641",
+      "lon": "6.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-harrouch_salah-bouchaour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صالح بو الشعور",
+      "en": "Salah Bouchaour",
+      "slug": "salah-bouchaour"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch_salah-bouchaour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-harrouch",
+      "level": 2,
+      "name": {
+        "local": "الحروش",
+        "en": "El Harrouch",
+        "slug": "el-harrouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-harrouch",
+        "level": 2,
+        "name": {
+          "local": "الحروش",
+          "en": "El Harrouch",
+          "slug": "el-harrouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21022"
+    ],
+    "geo": {
+      "lat": "36.688",
+      "lon": "6.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-harrouch_zerdezas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زردازة",
+      "en": "Zerdezas",
+      "slug": "zerdezas"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch_zerdezas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-harrouch",
+      "level": 2,
+      "name": {
+        "local": "الحروش",
+        "en": "El Harrouch",
+        "slug": "el-harrouch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-harrouch",
+        "level": 2,
+        "name": {
+          "local": "الحروش",
+          "en": "El Harrouch",
+          "slug": "el-harrouch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21047"
+    ],
+    "geo": {
+      "lat": "36.594",
+      "lon": "6.915"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

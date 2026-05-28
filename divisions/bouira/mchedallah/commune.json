@@ -1,0 +1,338 @@
+[
+  {
+    "id": "DZ010_mchedallah_aghbalou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أغبالو",
+      "en": "Aghbalou",
+      "slug": "aghbalou"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_aghbalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10007"
+    ],
+    "geo": {
+      "lat": "36.429",
+      "lon": "4.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_mchedallah_ath-mansour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "آث  منصور",
+      "en": "Ath Mansour",
+      "slug": "ath-mansour"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_ath-mansour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10011"
+    ],
+    "geo": {
+      "lat": "36.302",
+      "lon": "4.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_mchedallah_chorfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شرفة",
+      "en": "Chorfa",
+      "slug": "chorfa"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_chorfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10019"
+    ],
+    "geo": {
+      "lat": "35.425",
+      "lon": "-0.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_mchedallah_hanif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حنيف",
+      "en": "Hanif",
+      "slug": "hanif"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_hanif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "36.266",
+      "lon": "4.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_mchedallah_m-chedallah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أمشدالة",
+      "en": "M Chedallah",
+      "slug": "m-chedallah"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_m-chedallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10003"
+    ],
+    "geo": {
+      "lat": "36.171",
+      "lon": "3.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_mchedallah_saharidj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سحاريج",
+      "en": "Saharidj",
+      "slug": "saharidj"
+    },
+    "code": {
+      "id": "DZ010_mchedallah_saharidj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_mchedallah",
+      "level": 2,
+      "name": {
+        "local": "مشد الله",
+        "en": "M'chedallah",
+        "slug": "mchedallah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_mchedallah",
+        "level": 2,
+        "name": {
+          "local": "مشد الله",
+          "en": "M'chedallah",
+          "slug": "mchedallah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10043"
+    ],
+    "geo": {
+      "lat": "36.433",
+      "lon": "4.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

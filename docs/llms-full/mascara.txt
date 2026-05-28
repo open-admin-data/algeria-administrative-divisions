@@ -1,0 +1,277 @@
+# Mascara — Algeria Administrative Divisions
+
+> 16 dairas, 47 communes
+> Code: DZ029
+> Coordinates: 35.4, 0.241
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين فارس (Ain Fares)
+
+Code: DZ029_ain-fares, Coordinates: 35.106, 2.312
+Communes: 2
+
+#### عين فارس (Ain Fares)
+
+Code: DZ029_ain-fares_ain-fares, Postal: 28023, Coordinates: 34.749, 4.484
+
+#### المأمونية (El Mamounia)
+
+Code: DZ029_ain-fares_el-mamounia, Postal: 29056, Coordinates: 35.464, 0.14
+
+### عين فكان (Ain Fekan)
+
+Code: DZ029_ain-fekan, Coordinates: 35.189, -0.089
+Communes: 2
+
+#### عين فكان (Ain Fekan)
+
+Code: DZ029_ain-fekan_ain-fekan, Postal: 29011, Coordinates: 35.183, -0.027
+
+#### عين أفرص (Ain Frass)
+
+Code: DZ029_ain-fekan_ain-frass, Postal: 29034, Coordinates: 35.196, -0.151
+
+### عوف (Aouf)
+
+Code: DZ029_aouf, Coordinates: 35.12, 0.35
+Communes: 3
+
+#### عوف (Aouf)
+
+Code: DZ029_aouf_aouf, Postal: 29021, Coordinates: 35.127, 0.357
+
+#### بنيان (Benian)
+
+Code: DZ029_aouf_benian, Postal: 29038, Coordinates: 35.086, 0.228
+
+#### غروس (Gharrous)
+
+Code: DZ029_aouf_gharrous, Postal: 29047, Coordinates: 35.147, 0.466
+
+### بوحنيفية (Bouhanifia)
+
+Code: DZ029_bouhanifia, Coordinates: 35.38, -0.043
+Communes: 3
+
+#### بوحنيفية (Bouhanifia)
+
+Code: DZ029_bouhanifia_bouhanifia, Postal: 29005, Coordinates: 35.307, -0.105
+
+#### القطنة (El Gueitena)
+
+Code: DZ029_bouhanifia_el-gueitena, Postal: 29042, Coordinates: 35.38, -0.043
+
+#### حسين (Hacine)
+
+Code: DZ029_bouhanifia_hacine, Postal: 29014, Coordinates: 35.452, 0.018
+
+### البرج (El Bordj)
+
+Code: DZ029_el-bordj, Coordinates: 35.5, 0.354
+Communes: 3
+
+#### البرج (El Bordj)
+
+Code: DZ029_el-bordj_el-bordj, Postal: 29012, Coordinates: 35.507, 0.332
+
+#### المنور (El Menaouer)
+
+Code: DZ029_el-bordj_el-menaouer, Postal: 29044, Coordinates: 35.53, 0.433
+
+#### خلوية (Khalouia)
+
+Code: DZ029_el-bordj_khalouia, Postal: 29025, Coordinates: 35.462, 0.298
+
+### غريس (Ghriss)
+
+Code: DZ029_ghriss, Coordinates: 35.296, 0.231
+Communes: 5
+
+#### غريس (Ghriss)
+
+Code: DZ029_ghriss_ghriss, Postal: 29006, Coordinates: 35.232, 0.167
+
+#### ماقضة (Makhda)
+
+Code: DZ029_ghriss_makhda, Postal: 29055, Coordinates: 35.296, 0.231
+
+#### ماوسة (Maoussa)
+
+Code: DZ029_ghriss_maoussa, Postal: 29015, Coordinates: 35.379, 0.23
+
+#### المطمور (Matemore)
+
+Code: DZ029_ghriss_matemore, Postal: 29026, Coordinates: 35.296, 0.231
+
+#### سيدي بوسعيد (Sidi Boussaid)
+
+Code: DZ029_ghriss_sidi-boussaid, Postal: 29069, Coordinates: 35.276, 0.297
+
+### الحشم (Hachem)
+
+Code: DZ029_hachem, Coordinates: 35.365, 0.542
+Communes: 3
+
+#### الحشم (El Hachem)
+
+Code: DZ029_hachem_el-hachem, Postal: 29013, Coordinates: 35.365, 0.542
+
+#### نسمط (Nesmot)
+
+Code: DZ029_hachem_nesmot, Postal: 29058, Coordinates: 35.365, 0.542
+
+#### زلامطة (Zelamta)
+
+Code: DZ029_hachem_zelamta, Postal: 29057, Coordinates: 35.365, 0.542
+
+### معسكر (Mascara)
+
+Code: DZ029_mascara, Coordinates: 35.387, 0.151
+Communes: 1
+
+#### معسكر (Mascara)
+
+Code: DZ029_mascara_mascara, Postal: 29000, Coordinates: 35.387, 0.151
+
+### المحمدية (Mohammadia)
+
+Code: DZ029_mohammadia, Coordinates: 35.623, 0.137
+Communes: 6
+
+#### الغمري (El Ghomri)
+
+Code: DZ029_mohammadia_el-ghomri, Postal: 29023, Coordinates: 35.68, 0.21
+
+#### فراقيق (Ferraguig)
+
+Code: DZ029_mohammadia_ferraguig, Postal: 29046, Coordinates: 35.555, 0.171
+
+#### مقطع الدوز (Mocta-Douz)
+
+Code: DZ029_mohammadia_mocta-douz, Postal: 29027, Coordinates: 35.623, 0.137
+
+#### المحمدية (Mohammadia)
+
+Code: DZ029_mohammadia_mohammadia, Postal: 16058, Coordinates: 35.585, 0.058
+
+#### سجرارة (Sedjerara)
+
+Code: DZ029_mohammadia_sedjerara, Postal: 29062, Coordinates: 35.607, 0.234
+
+#### سيدي عبد المومن (Sidi Abdelmoumene)
+
+Code: DZ029_mohammadia_sidi-abdelmoumene, Postal: 29054, Coordinates: 35.689, 0.012
+
+### عقاز (Oggaz)
+
+Code: DZ029_oggaz, Coordinates: 35.629, -0.248
+Communes: 3
+
+#### العلايمية (Alaimia)
+
+Code: DZ029_oggaz_alaimia, Postal: 29036, Coordinates: 35.687, -0.238
+
+#### عقاز (Oggaz)
+
+Code: DZ029_oggaz_oggaz, Postal: 29029, Coordinates: 35.574, -0.293
+
+#### رأس عين عميروش (Ras El Ain Amirouche)
+
+Code: DZ029_oggaz_ras-el-ain-amirouche, Postal: 29060, Coordinates: 35.626, -0.214
+
+### وادي الأبطال (Oued El Abtal)
+
+Code: DZ029_oued-el-abtal, Coordinates: 35.395, 0.754
+Communes: 3
+
+#### عين فراح (Ain Ferah)
+
+Code: DZ029_oued-el-abtal_ain-ferah, Postal: 29032, Coordinates: 35.373, 0.795
+
+#### وادي الأبطال (Oued El Abtal)
+
+Code: DZ029_oued-el-abtal_oued-el-abtal, Postal: 29016, Coordinates: 35.417, 0.712
+
+#### سيدي عبد الجبار (Sidi Abdeldjebar)
+
+Code: DZ029_oued-el-abtal_sidi-abdeldjebar, Postal: 29065, Coordinates: 35.395, 0.754
+
+### وادي التاغية (Oued Taria)
+
+Code: DZ029_oued-taria, Coordinates: 35.198, 0.08
+Communes: 2
+
+#### قرجوم (Guerdjoum)
+
+Code: DZ029_oued-taria_guerdjoum, Postal: 29050, Coordinates: 35.198, 0.08
+
+#### وادي التاغية (Oued Taria)
+
+Code: DZ029_oued-taria_oued-taria, Postal: 29017, Coordinates: 35.198, 0.08
+
+### سيق (Sig)
+
+Code: DZ029_sig, Coordinates: 35.478, -0.182
+Communes: 3
+
+#### بوهني (Bou Henni)
+
+Code: DZ029_sig_bou-henni, Postal: 29022, Coordinates: 35.478, -0.182
+
+#### الشرفاء (Chorfa)
+
+Code: DZ029_sig_chorfa, Postal: 10019, Coordinates: 35.425, -0.2
+
+#### سيق (Sig)
+
+Code: DZ029_sig_sig, Postal: 29001, Coordinates: 35.531, -0.165
+
+### تيغنيف (Tighennif)
+
+Code: DZ029_tighennif, Coordinates: 35.402, 0.358
+Communes: 3
+
+#### السهايلية (Sehailia)
+
+Code: DZ029_tighennif_sehailia, Postal: 29063, Coordinates: 35.465, 0.391
+
+#### سيدي قادة (Sidi Kada)
+
+Code: DZ029_tighennif_sidi-kada, Postal: 29030, Coordinates: 35.331, 0.339
+
+#### تيغنيف (Tighennif)
+
+Code: DZ029_tighennif_tighennif, Postal: 29004, Coordinates: 35.411, 0.345
+
+### تيزي (Tizi)
+
+Code: DZ029_tizi, Coordinates: 35.33, 0.074
+Communes: 3
+
+#### القرط (El Keurt)
+
+Code: DZ029_tizi_el-keurt, Postal: 29043, Coordinates: 35.39, 0.061
+
+#### فروحة (Froha)
+
+Code: DZ029_tizi_froha, Postal: 29024, Coordinates: 35.28, 0.119
+
+#### تيزي (Tizi)
+
+Code: DZ029_tizi_tizi, Coordinates: 35.32, 0.043
+
+### زهانة (Zahana)
+
+Code: DZ029_zahana, Coordinates: 35.468, -0.372
+Communes: 2
+
+#### القعدة (El Gaada)
+
+Code: DZ029_zahana_el-gaada, Postal: 29041, Coordinates: 35.433, -0.344
+
+#### زهانة (Zahana)
+
+Code: DZ029_zahana_zahana, Postal: 29019, Coordinates: 35.503, -0.4
+

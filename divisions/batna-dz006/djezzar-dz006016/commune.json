@@ -1,0 +1,45 @@
+{
+  "id": "DZ006016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djezzar",
+    "en": "Djezzar",
+    "slug": "djezzar-dz006016"
+  },
+  "code": {
+    "id": "DZ006016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.517",
+    "lon": "5.318"
+  },
+  "metadata": {},
+  "source": {}
+}

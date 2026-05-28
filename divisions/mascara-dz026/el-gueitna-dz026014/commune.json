@@ -1,0 +1,45 @@
+{
+  "id": "DZ026014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Gueitna",
+    "en": "El Gueitna",
+    "slug": "el-gueitna-dz026014"
+  },
+  "code": {
+    "id": "DZ026014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.42",
+    "lon": "-0.066"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ026031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mohammadia",
+    "en": "Mohammadia",
+    "slug": "mohammadia-dz026031"
+  },
+  "code": {
+    "id": "DZ026031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.585",
+    "lon": "0.058"
+  },
+  "metadata": {},
+  "source": {}
+}

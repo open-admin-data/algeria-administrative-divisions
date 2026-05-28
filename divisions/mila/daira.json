@@ -1,0 +1,613 @@
+[
+  {
+    "id": "DZ043_ain-beida-harriche",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين البيضاء أحريش",
+      "en": "Ain Beida Harriche",
+      "slug": "ain-beida-harriche"
+    },
+    "code": {
+      "id": "DZ043_ain-beida-harriche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.415",
+      "lon": "5.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_bouhatem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوحاتم",
+      "en": "Bouhatem",
+      "slug": "bouhatem"
+    },
+    "code": {
+      "id": "DZ043_bouhatem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.317",
+      "lon": "6.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_chelghoum-laid",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شلغوم العيد",
+      "en": "Chelghoum Laid",
+      "slug": "chelghoum-laid"
+    },
+    "code": {
+      "id": "DZ043_chelghoum-laid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.22",
+      "lon": "6.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_ferdjioua",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فرجيوة",
+      "en": "Ferdjioua",
+      "slug": "ferdjioua"
+    },
+    "code": {
+      "id": "DZ043_ferdjioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.408",
+      "lon": "5.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_grarem-gouga",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القرارم قوقة",
+      "en": "Grarem Gouga",
+      "slug": "grarem-gouga"
+    },
+    "code": {
+      "id": "DZ043_grarem-gouga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.559",
+      "lon": "6.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_mila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    },
+    "code": {
+      "id": "DZ043_mila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.408",
+      "lon": "6.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_oued-endja",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي النجاء",
+      "en": "Oued Endja",
+      "slug": "oued-endja"
+    },
+    "code": {
+      "id": "DZ043_oued-endja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.468",
+      "lon": "6.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_rouached",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرواشد",
+      "en": "Rouached",
+      "slug": "rouached"
+    },
+    "code": {
+      "id": "DZ043_rouached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.438",
+      "lon": "6.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_sidi-merouane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي مروان",
+      "en": "Sidi Merouane",
+      "slug": "sidi-merouane"
+    },
+    "code": {
+      "id": "DZ043_sidi-merouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.515",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_tadjenanet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تاجنانت",
+      "en": "Tadjenanet",
+      "slug": "tadjenanet"
+    },
+    "code": {
+      "id": "DZ043_tadjenanet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.133",
+      "lon": "6.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_tassadane-haddada",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تسدان حدادة",
+      "en": "Tassadane Haddada",
+      "slug": "tassadane-haddada"
+    },
+    "code": {
+      "id": "DZ043_tassadane-haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.528",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_teleghma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "التلاغمة",
+      "en": "Teleghma",
+      "slug": "teleghma"
+    },
+    "code": {
+      "id": "DZ043_teleghma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.204",
+      "lon": "6.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_terrai-bainen",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ترعي باينان",
+      "en": "Terrai Bainen",
+      "slug": "terrai-bainen"
+    },
+    "code": {
+      "id": "DZ043_terrai-bainen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.555",
+      "lon": "6.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

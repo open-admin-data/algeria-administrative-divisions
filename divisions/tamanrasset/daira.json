@@ -1,0 +1,143 @@
+[
+  {
+    "id": "DZ011_silet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيلت",
+      "en": "Silet",
+      "slug": "silet"
+    },
+    "code": {
+      "id": "DZ011_silet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.355",
+      "lon": "4.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011_tamanrasset",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    },
+    "code": {
+      "id": "DZ011_tamanrasset",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.271",
+      "lon": "5.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011_tazrouk",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تاظروك",
+      "en": "Tazrouk",
+      "slug": "tazrouk"
+    },
+    "code": {
+      "id": "DZ011_tazrouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.017",
+      "lon": "7.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

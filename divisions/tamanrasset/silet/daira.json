@@ -1,0 +1,47 @@
+{
+  "id": "DZ011_silet",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيلت",
+    "en": "Silet",
+    "slug": "silet"
+  },
+  "code": {
+    "id": "DZ011_silet",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.355",
+    "lon": "4.451"
+  },
+  "metadata": {},
+  "source": {}
+}

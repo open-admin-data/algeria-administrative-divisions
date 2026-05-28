@@ -1,0 +1,45 @@
+{
+  "id": "DZ004046",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Fayet",
+    "en": "Ouled Fayet",
+    "slug": "ouled-fayet-dz004046"
+  },
+  "code": {
+    "id": "DZ004046",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.726",
+    "lon": "2.94"
+  },
+  "metadata": {},
+  "source": {}
+}

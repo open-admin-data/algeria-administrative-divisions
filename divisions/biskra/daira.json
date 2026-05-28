@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ007_biskra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    },
+    "code": {
+      "id": "DZ007_biskra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.852",
+      "lon": "5.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_djemorah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جمورة",
+      "en": "Djemorah",
+      "slug": "djemorah"
+    },
+    "code": {
+      "id": "DZ007_djemorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.038",
+      "lon": "5.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_el-kantara",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القنطرة",
+      "en": "El Kantara",
+      "slug": "el-kantara"
+    },
+    "code": {
+      "id": "DZ007_el-kantara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.189",
+      "lon": "5.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_el-outaya",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الوطاية",
+      "en": "El Outaya",
+      "slug": "el-outaya"
+    },
+    "code": {
+      "id": "DZ007_el-outaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.98",
+      "lon": "5.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_foughala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فوغالة",
+      "en": "Foughala",
+      "slug": "foughala"
+    },
+    "code": {
+      "id": "DZ007_foughala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.743",
+      "lon": "5.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_mechouneche",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مشونش",
+      "en": "Mechouneche",
+      "slug": "mechouneche"
+    },
+    "code": {
+      "id": "DZ007_mechouneche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.909",
+      "lon": "6.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_ourlal",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أورلال",
+      "en": "Ourlal",
+      "slug": "ourlal"
+    },
+    "code": {
+      "id": "DZ007_ourlal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.57",
+      "lon": "5.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_sidi-okba",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي عقبة",
+      "en": "Sidi Okba",
+      "slug": "sidi-okba"
+    },
+    "code": {
+      "id": "DZ007_sidi-okba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.714",
+      "lon": "5.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_tolga",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "طولقة",
+      "en": "Tolga",
+      "slug": "tolga"
+    },
+    "code": {
+      "id": "DZ007_tolga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.794",
+      "lon": "5.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_zeribet-el-oued",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زريبة الوادي",
+      "en": "Zeribet El Oued",
+      "slug": "zeribet-el-oued"
+    },
+    "code": {
+      "id": "DZ007_zeribet-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.593",
+      "lon": "6.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

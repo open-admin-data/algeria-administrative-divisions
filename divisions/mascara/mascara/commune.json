@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ029_mascara_mascara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    },
+    "code": {
+      "id": "DZ029_mascara_mascara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mascara",
+      "level": 2,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mascara",
+        "level": 2,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29000"
+    ],
+    "geo": {
+      "lat": "35.387",
+      "lon": "0.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ023020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Rabah",
+    "en": "Ouled Rabah",
+    "slug": "ouled-rabah-dz023020"
+  },
+  "code": {
+    "id": "DZ023020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.627",
+    "lon": "6.176"
+  },
+  "metadata": {},
+  "source": {}
+}

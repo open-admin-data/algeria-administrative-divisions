@@ -1,0 +1,45 @@
+{
+  "id": "DZ032012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Braya",
+    "en": "El Braya",
+    "slug": "el-braya-dz032012"
+  },
+  "code": {
+    "id": "DZ032012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.612",
+    "lon": "-0.476"
+  },
+  "metadata": {},
+  "source": {}
+}

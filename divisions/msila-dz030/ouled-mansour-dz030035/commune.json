@@ -1,0 +1,45 @@
+{
+  "id": "DZ030035",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Mansour",
+    "en": "Ouled Mansour",
+    "slug": "ouled-mansour-dz030035"
+  },
+  "code": {
+    "id": "DZ030035",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.733",
+    "lon": "4.386"
+  },
+  "metadata": {},
+  "source": {}
+}

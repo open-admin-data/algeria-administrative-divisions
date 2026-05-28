@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ007_sidi-okba_ain-naga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الناقة",
+      "en": "Ain Naga",
+      "slug": "ain-naga"
+    },
+    "code": {
+      "id": "DZ007_sidi-okba_ain-naga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_sidi-okba",
+      "level": 2,
+      "name": {
+        "local": "سيدي عقبة",
+        "en": "Sidi Okba",
+        "slug": "sidi-okba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_sidi-okba",
+        "level": 2,
+        "name": {
+          "local": "سيدي عقبة",
+          "en": "Sidi Okba",
+          "slug": "sidi-okba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07039"
+    ],
+    "geo": {
+      "lat": "34.65",
+      "lon": "6.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_sidi-okba_chetma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شتمة",
+      "en": "Chetma",
+      "slug": "chetma"
+    },
+    "code": {
+      "id": "DZ007_sidi-okba_chetma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_sidi-okba",
+      "level": 2,
+      "name": {
+        "local": "سيدي عقبة",
+        "en": "Sidi Okba",
+        "slug": "sidi-okba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_sidi-okba",
+        "level": 2,
+        "name": {
+          "local": "سيدي عقبة",
+          "en": "Sidi Okba",
+          "slug": "sidi-okba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07024"
+    ],
+    "geo": {
+      "lat": "34.868",
+      "lon": "5.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_sidi-okba_el-haouch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحوش",
+      "en": "El Haouch",
+      "slug": "el-haouch"
+    },
+    "code": {
+      "id": "DZ007_sidi-okba_el-haouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_sidi-okba",
+      "level": 2,
+      "name": {
+        "local": "سيدي عقبة",
+        "en": "Sidi Okba",
+        "slug": "sidi-okba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_sidi-okba",
+        "level": 2,
+        "name": {
+          "local": "سيدي عقبة",
+          "en": "Sidi Okba",
+          "slug": "sidi-okba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07028"
+    ],
+    "geo": {
+      "lat": "34.558",
+      "lon": "6.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_sidi-okba_sidi-okba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عقبة",
+      "en": "Sidi Okba",
+      "slug": "sidi-okba"
+    },
+    "code": {
+      "id": "DZ007_sidi-okba_sidi-okba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_sidi-okba",
+      "level": 2,
+      "name": {
+        "local": "سيدي عقبة",
+        "en": "Sidi Okba",
+        "slug": "sidi-okba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_sidi-okba",
+        "level": 2,
+        "name": {
+          "local": "سيدي عقبة",
+          "en": "Sidi Okba",
+          "slug": "sidi-okba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07005"
+    ],
+    "geo": {
+      "lat": "34.779",
+      "lon": "5.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

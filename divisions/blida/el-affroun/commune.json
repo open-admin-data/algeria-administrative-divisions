@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ009_el-affroun_el-affroun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العفرون",
+      "en": "El-Affroun",
+      "slug": "el-affroun"
+    },
+    "code": {
+      "id": "DZ009_el-affroun_el-affroun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_el-affroun",
+      "level": 2,
+      "name": {
+        "local": "العفرون",
+        "en": "El Affroun",
+        "slug": "el-affroun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_el-affroun",
+        "level": 2,
+        "name": {
+          "local": "العفرون",
+          "en": "El Affroun",
+          "slug": "el-affroun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09011"
+    ],
+    "geo": {
+      "lat": "36.45",
+      "lon": "2.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_el-affroun_oued-djer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي جر",
+      "en": "Oued  Djer",
+      "slug": "oued-djer"
+    },
+    "code": {
+      "id": "DZ009_el-affroun_oued-djer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_el-affroun",
+      "level": 2,
+      "name": {
+        "local": "العفرون",
+        "en": "El Affroun",
+        "slug": "el-affroun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_el-affroun",
+        "level": 2,
+        "name": {
+          "local": "العفرون",
+          "en": "El Affroun",
+          "slug": "el-affroun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09032"
+    ],
+    "geo": {
+      "lat": "36.426",
+      "lon": "2.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

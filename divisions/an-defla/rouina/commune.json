@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_rouina_el-maine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الماين",
+      "en": "El-Maine",
+      "slug": "el-maine"
+    },
+    "code": {
+      "id": "DZ044_rouina_el-maine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_rouina",
+      "level": 2,
+      "name": {
+        "local": "الروينة",
+        "en": "Rouina",
+        "slug": "rouina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_rouina",
+        "level": 2,
+        "name": {
+          "local": "الروينة",
+          "en": "Rouina",
+          "slug": "rouina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44051"
+    ],
+    "geo": {
+      "lat": "36.184",
+      "lon": "1.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_rouina_rouina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الروينة",
+      "en": "Rouina",
+      "slug": "rouina"
+    },
+    "code": {
+      "id": "DZ044_rouina_rouina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_rouina",
+      "level": 2,
+      "name": {
+        "local": "الروينة",
+        "en": "Rouina",
+        "slug": "rouina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_rouina",
+        "level": 2,
+        "name": {
+          "local": "الروينة",
+          "en": "Rouina",
+          "slug": "rouina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44017"
+    ],
+    "geo": {
+      "lat": "36.233",
+      "lon": "1.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_rouina_zeddine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زدين",
+      "en": "Zeddine",
+      "slug": "zeddine"
+    },
+    "code": {
+      "id": "DZ044_rouina_zeddine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_rouina",
+      "level": 2,
+      "name": {
+        "local": "الروينة",
+        "en": "Rouina",
+        "slug": "rouina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_rouina",
+        "level": 2,
+        "name": {
+          "local": "الروينة",
+          "en": "Rouina",
+          "slug": "rouina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44031"
+    ],
+    "geo": {
+      "lat": "36.135",
+      "lon": "1.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

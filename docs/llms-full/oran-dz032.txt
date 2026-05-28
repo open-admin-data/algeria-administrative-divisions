@@ -1,0 +1,139 @@
+# Oran — Algeria Administrative Divisions
+
+> 26 communes
+> Code: DZ032
+> Coordinates: 35.623, -0.703
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Biya
+
+Code: DZ032001, Coordinates: 35.783, -0.321
+
+
+### Ain Kerma
+
+Code: DZ032002, Coordinates: 35.64, -0.984
+
+
+### Ain Turk
+
+Code: DZ032003, Coordinates: 35.74, -0.776
+
+
+### Arzew
+
+Code: DZ032004, Coordinates: 35.856, -0.335
+
+
+### Ben Freha
+
+Code: DZ032005, Coordinates: 35.722, -0.376
+
+
+### Bethioua
+
+Code: DZ032006, Coordinates: 35.739, -0.23
+
+
+### Bir El Djir
+
+Code: DZ032007, Coordinates: 35.737, -0.55
+
+
+### Boufatis
+
+Code: DZ032008, Coordinates: 35.651, -0.381
+
+
+### Bousfer
+
+Code: DZ032009, Coordinates: 35.72, -0.813
+
+
+### Boutlelis
+
+Code: DZ032010, Coordinates: 35.609, -0.862
+
+
+### El Ancor
+
+Code: DZ032011, Coordinates: 35.681, -0.886
+
+
+### El Braya
+
+Code: DZ032012, Coordinates: 35.612, -0.476
+
+
+### El Karma
+
+Code: DZ032013, Coordinates: 35.593, -0.558
+
+
+### Es Senia
+
+Code: DZ032014, Coordinates: 35.645, -0.651
+
+
+### Gdyel
+
+Code: DZ032015, Coordinates: 35.802, -0.447
+
+
+### Hassi Ben Okba
+
+Code: DZ032016, Coordinates: 35.749, -0.48
+
+
+### Hassi Bounif
+
+Code: DZ032017, Coordinates: 35.7, -0.494
+
+
+### Hassi Mefsoukh
+
+Code: DZ032018, Coordinates: 35.783, -0.374
+
+
+### Marsat El Hadjadj
+
+Code: DZ032019, Coordinates: 35.752, -0.174
+
+
+### Mers El Kebir
+
+Code: DZ032020, Coordinates: 35.721, -0.719
+
+
+### Misserghin
+
+Code: DZ032021, Coordinates: 35.58, -0.699
+
+
+### Oran
+
+Code: DZ032022, Coordinates: 35.71, -0.615
+
+
+### Oued Tlelat
+
+Code: DZ032023, Coordinates: 35.563, -0.464
+
+
+### Sidi Ben Yabka
+
+Code: DZ032024, Coordinates: 35.852, -0.406
+
+
+### Sidi Chami
+
+Code: DZ032025, Coordinates: 35.666, -0.528
+
+
+### Tafraoui
+
+Code: DZ032026, Coordinates: 35.447, -0.557
+
+

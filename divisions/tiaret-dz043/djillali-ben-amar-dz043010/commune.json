@@ -1,0 +1,45 @@
+{
+  "id": "DZ043010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djillali Ben Amar",
+    "en": "Djillali Ben Amar",
+    "slug": "djillali-ben-amar-dz043010"
+  },
+  "code": {
+    "id": "DZ043010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.356",
+    "lon": "0.896"
+  },
+  "metadata": {},
+  "source": {}
+}

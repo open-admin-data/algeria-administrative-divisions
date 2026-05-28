@@ -1,0 +1,47 @@
+{
+  "id": "DZ034_mansourah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "المنصورة",
+    "en": "Mansourah",
+    "slug": "mansourah"
+  },
+  "code": {
+    "id": "DZ034_mansourah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.874",
+    "lon": "3.532"
+  },
+  "metadata": {},
+  "source": {}
+}

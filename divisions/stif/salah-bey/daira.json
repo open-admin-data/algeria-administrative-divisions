@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_salah-bey",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "صالح باي",
+    "en": "Salah Bey",
+    "slug": "salah-bey"
+  },
+  "code": {
+    "id": "DZ019_salah-bey",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.755",
+    "lon": "5.269"
+  },
+  "metadata": {},
+  "source": {}
+}

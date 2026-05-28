@@ -1,0 +1,45 @@
+{
+  "id": "DZ014031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tadjena",
+    "en": "Tadjena",
+    "slug": "tadjena-dz014031"
+  },
+  "code": {
+    "id": "DZ014031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.339",
+    "lon": "1.118"
+  },
+  "metadata": {},
+  "source": {}
+}

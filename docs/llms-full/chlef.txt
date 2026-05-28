@@ -1,0 +1,214 @@
+# Chlef — Algeria Administrative Divisions
+
+> 13 dairas, 35 communes
+> Code: DZ002
+> Coordinates: 36.205, 1.267
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أبو الحسن (Abou El Hassane)
+
+Code: DZ002_abou-el-hassane, Coordinates: 36.38, 1.095
+Communes: 3
+
+#### أبو الحسن (Abou El Hassane)
+
+Code: DZ002_abou-el-hassane_abou-el-hassane, Postal: 02018, Coordinates: 36.38, 1.095
+
+#### تاجنة (Tadjena)
+
+Code: DZ002_abou-el-hassane_tadjena, Postal: 02043, Coordinates: 36.339, 1.118
+
+#### تلعصة (Talassa)
+
+Code: DZ002_abou-el-hassane_talassa, Postal: 02065, Coordinates: 36.422, 1.072
+
+### عين مران (Ain Merane)
+
+Code: DZ002_ain-merane, Coordinates: 36.212, 1.017
+Communes: 2
+
+#### عين مران (Ain Merane)
+
+Code: DZ002_ain-merane_ain-merane, Postal: 02004, Coordinates: 36.179, 0.973
+
+#### الهرانفة (Herenfa)
+
+Code: DZ002_ain-merane_herenfa, Postal: 02038, Coordinates: 36.245, 1.061
+
+### بني حواء (Beni Haoua)
+
+Code: DZ002_beni-haoua, Coordinates: 36.472, 1.566
+Communes: 3
+
+#### بني حواء (Beni Haoua)
+
+Code: DZ002_beni-haoua_beni-haoua, Postal: 02017, Coordinates: 36.494, 1.548
+
+#### بريرة (Breira)
+
+Code: DZ002_beni-haoua_breira, Postal: 02070, Coordinates: 36.451, 1.584
+
+#### وادي قوسين (Oued Goussine)
+
+Code: DZ002_beni-haoua_oued-goussine, Postal: 02061, Coordinates: 36.472, 1.566
+
+### بوقادير (Boukadir)
+
+Code: DZ002_boukadir, Coordinates: 36.072, 1.13
+Communes: 3
+
+#### بوقادير (Boukadir)
+
+Code: DZ002_boukadir_boukadir, Postal: 02002, Coordinates: 36.026, 1.13
+
+#### وادي سلي (Oued Sly)
+
+Code: DZ002_boukadir_oued-sly, Postal: 02011, Coordinates: 36.082, 1.228
+
+#### الصبحة (Sobha)
+
+Code: DZ002_boukadir_sobha, Postal: 02030, Coordinates: 36.108, 1.032
+
+### الشلف (Chlef)
+
+Code: DZ002_chlef, Coordinates: 36.141, 1.399
+Communes: 3
+
+#### الشلف (Chlef)
+
+Code: DZ002_chlef_chlef, Postal: 02100, Coordinates: 36.174, 1.337
+
+#### أم الدروع (Oum Drou)
+
+Code: DZ002_chlef_oum-drou, Postal: 02024, Coordinates: 36.207, 1.403
+
+#### سنجاس (Sendjas)
+
+Code: DZ002_chlef_sendjas, Postal: 02025, Coordinates: 36.043, 1.456
+
+### الكريمية (El Karimia)
+
+Code: DZ002_el-karimia, Coordinates: 36.064, 1.578
+Communes: 3
+
+#### بني بوعتاب (Beni  Bouattab)
+
+Code: DZ002_el-karimia_beni-bouattab, Postal: 02071, Coordinates: 35.992, 1.658
+
+#### الكريمية (El Karimia)
+
+Code: DZ002_el-karimia_el-karimia, Postal: 02008, Coordinates: 36.079, 1.589
+
+#### حرشون (Harchoun)
+
+Code: DZ002_el-karimia_harchoun, Postal: 02031, Coordinates: 36.122, 1.487
+
+### المرسى (El Marsa)
+
+Code: DZ002_el-marsa, Coordinates: 36.681, 4.155
+Communes: 2
+
+#### المرسى (El Marsa)
+
+Code: DZ002_el-marsa_el-marsa, Postal: 02015, Coordinates: 37.008, 7.291
+
+#### مصدق (Moussadek)
+
+Code: DZ002_el-marsa_moussadek, Postal: 02060, Coordinates: 36.353, 1.018
+
+### وادي الفضة (Oued Fodda)
+
+Code: DZ002_oued-fodda, Coordinates: 36.239, 1.526
+Communes: 3
+
+#### بني راشد (Beni Rached)
+
+Code: DZ002_oued-fodda_beni-rached, Postal: 02035, Coordinates: 36.296, 1.532
+
+#### وادي الفضة (Oued Fodda)
+
+Code: DZ002_oued-fodda_oued-fodda, Postal: 02001, Coordinates: 36.204, 1.565
+
+#### أولاد عباس (Ouled Abbes)
+
+Code: DZ002_oued-fodda_ouled-abbes, Postal: 02029, Coordinates: 36.216, 1.482
+
+### أولاد بن عبد القادر (Ouled Ben Abdelkader)
+
+Code: DZ002_ouled-ben-abdelkader, Coordinates: 35.989, 1.354
+Communes: 2
+
+#### الحجاج (El Hadjadj)
+
+Code: DZ002_ouled-ben-abdelkader_el-hadjadj, Postal: 02050, Coordinates: 36.007, 1.375
+
+#### أولاد بن عبد القادر (Ouled Ben Abdelkader)
+
+Code: DZ002_ouled-ben-abdelkader_ouled-ben-abdelkader, Postal: 02037, Coordinates: 35.97, 1.333
+
+### أولاد فارس (Ouled Fares)
+
+Code: DZ002_ouled-fares, Coordinates: 36.207, 1.233
+Communes: 3
+
+#### الشطية (Chettia)
+
+Code: DZ002_ouled-fares_chettia, Postal: 02007, Coordinates: 36.182, 1.256
+
+#### الأبيض مجاجة (Labiod Medjadja)
+
+Code: DZ002_ouled-fares_labiod-medjadja, Postal: 02073, Coordinates: 36.207, 1.233
+
+#### أولاد فارس (Ouled Fares)
+
+Code: DZ002_ouled-fares_ouled-fares, Postal: 02010, Coordinates: 36.233, 1.21
+
+### تاوقريت (Taougrit)
+
+Code: DZ002_taougrit, Coordinates: 36.279, 0.79
+Communes: 2
+
+#### الظهرة (Dahra)
+
+Code: DZ002_taougrit_dahra, Postal: 02032, Coordinates: 36.279, 0.79
+
+#### تاوقريت (Taougrit)
+
+Code: DZ002_taougrit_taougrit, Postal: 02012, Coordinates: 36.279, 0.79
+
+### تنس (Tenes)
+
+Code: DZ002_tenes, Coordinates: 35.83, 1.249
+Communes: 3
+
+#### سيدي عبد الرحمن (Sidi Abderrahmane)
+
+Code: DZ002_tenes_sidi-abderrahmane, Postal: 02066, Coordinates: 34.543, 1.055
+
+#### سيدي عكاشة (Sidi Akkacha)
+
+Code: DZ002_tenes_sidi-akkacha, Postal: 02009, Coordinates: 36.439, 1.343
+
+#### تنس (Tenes)
+
+Code: DZ002_tenes_tenes, Postal: 02006, Coordinates: 36.508, 1.349
+
+### الزبوجة (Zeboudja)
+
+Code: DZ002_zeboudja, Coordinates: 36.382, 1.374
+Communes: 3
+
+#### بنايرية (Benairia)
+
+Code: DZ002_zeboudja_benairia, Postal: 02039, Coordinates: 36.388, 1.377
+
+#### بوزغاية (Bouzeghaia)
+
+Code: DZ002_zeboudja_bouzeghaia, Postal: 02019, Coordinates: 36.365, 1.264
+
+#### الزبوجة (Zeboudja)
+
+Code: DZ002_zeboudja_zeboudja, Postal: 02014, Coordinates: 36.393, 1.48
+

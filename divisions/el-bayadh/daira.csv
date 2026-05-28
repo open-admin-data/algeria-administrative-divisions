@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ032_boualem,بوعلام,Boualem,boualem,DZ032_boualem,5,35.021,2.255
+DZ032_bougtoub,بوقطب,Bougtoub,bougtoub,DZ032_bougtoub,3,33.825,0.283
+DZ032_boussemghoun,بوسمغون,Boussemghoun,boussemghoun,DZ032_boussemghoun,1,32.814,0.051
+DZ032_brezina,بريزينة,Brezina,brezina,DZ032_brezina,3,33.133,1.343
+DZ032_chellala,شلالة,Chellala,chellala,DZ032_chellala,2,33.15,0.14
+DZ032_el-bayadh,البيض,El Bayadh,el-bayadh,DZ032_el-bayadh,1,33.647,1.01
+DZ032_labiodh-sidi-cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,labiodh-sidi-cheikh,DZ032_labiodh-sidi-cheikh,4,32.758,0.572
+DZ032_rogassa,رقاصة,Rogassa,rogassa,DZ032_rogassa,3,33.954,0.856

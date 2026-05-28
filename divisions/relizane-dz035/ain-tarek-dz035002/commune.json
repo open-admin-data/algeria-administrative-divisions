@@ -1,0 +1,45 @@
+{
+  "id": "DZ035002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Tarek",
+    "en": "Ain Tarek",
+    "slug": "ain-tarek-dz035002"
+  },
+  "code": {
+    "id": "DZ035002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.776",
+    "lon": "1.168"
+  },
+  "metadata": {},
+  "source": {}
+}

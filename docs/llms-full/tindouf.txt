@@ -1,0 +1,22 @@
+# Tindouf — Algeria Administrative Divisions
+
+> 1 dairas, 2 communes
+> Code: DZ037
+> Coordinates: 27.55, -6.252
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### تندوف (Tindouf)
+
+Code: DZ037_tindouf, Coordinates: 27.598, -6.417
+Communes: 2
+
+#### أم العسل (Oum El Assel)
+
+Code: DZ037_tindouf_oum-el-assel, Postal: 37003, Coordinates: 28.013, -5.799
+
+#### تندوف (Tindouf)
+
+Code: DZ037_tindouf_tindouf, Postal: 37000, Coordinates: 27.182, -7.035
+

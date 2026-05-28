@@ -1,0 +1,45 @@
+{
+  "id": "DZ028017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Minar Zarza",
+    "en": "Minar Zarza",
+    "slug": "minar-zarza-dz028017"
+  },
+  "code": {
+    "id": "DZ028017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.538",
+    "lon": "5.913"
+  },
+  "metadata": {},
+  "source": {}
+}

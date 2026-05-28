@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_ghardaia_ghardaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia"
+    },
+    "code": {
+      "id": "DZ047_ghardaia_ghardaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_ghardaia",
+      "level": 2,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_ghardaia",
+        "level": 2,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaia",
+          "slug": "ghardaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47000"
+    ],
+    "geo": {
+      "lat": "32.602",
+      "lon": "3.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

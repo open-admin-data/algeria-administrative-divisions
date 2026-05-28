@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ015_makouda_boudjima",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوجيمة",
+      "en": "Boudjima",
+      "slug": "boudjima"
+    },
+    "code": {
+      "id": "DZ015_makouda_boudjima",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_makouda",
+      "level": 2,
+      "name": {
+        "local": "ماكودة",
+        "en": "Makouda",
+        "slug": "makouda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_makouda",
+        "level": 2,
+        "name": {
+          "local": "ماكودة",
+          "en": "Makouda",
+          "slug": "makouda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15030"
+    ],
+    "geo": {
+      "lat": "36.807",
+      "lon": "4.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_makouda_makouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ماكودة",
+      "en": "Makouda",
+      "slug": "makouda"
+    },
+    "code": {
+      "id": "DZ015_makouda_makouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_makouda",
+      "level": 2,
+      "name": {
+        "local": "ماكودة",
+        "en": "Makouda",
+        "slug": "makouda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_makouda",
+        "level": 2,
+        "name": {
+          "local": "ماكودة",
+          "en": "Makouda",
+          "slug": "makouda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15040"
+    ],
+    "geo": {
+      "lat": "36.796",
+      "lon": "4.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

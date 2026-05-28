@@ -1,0 +1,45 @@
+{
+  "id": "DZ048025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Fehoul",
+    "en": "El Fehoul",
+    "slug": "el-fehoul-dz048025"
+  },
+  "code": {
+    "id": "DZ048025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.141",
+    "lon": "-1.285"
+  },
+  "metadata": {},
+  "source": {}
+}

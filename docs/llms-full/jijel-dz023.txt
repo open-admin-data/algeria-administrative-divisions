@@ -1,0 +1,149 @@
+# Jijel — Algeria Administrative Divisions
+
+> 28 communes
+> Code: DZ023
+> Coordinates: 36.731, 5.961
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Bordj Taher
+
+Code: DZ023001, Coordinates: 36.752, 6.055
+
+
+### Boudria Beni Yadjis
+
+Code: DZ023002, Coordinates: 36.593, 5.763
+
+
+### Bouraoui Belhadef
+
+Code: DZ023003, Coordinates: 36.7, 6.099
+
+
+### Boussif Ouled Akseur
+
+Code: DZ023004, Coordinates: 36.668, 6.022
+
+
+### Chahna
+
+Code: DZ023005, Coordinates: 36.665, 5.949
+
+
+### Chebbala Milat
+
+Code: DZ023006, Coordinates: 36.63, 6.394
+
+
+### Chekfa
+
+Code: DZ023007, Coordinates: 36.762, 5.97
+
+
+### Djemaa Beni Habibi
+
+Code: DZ023008, Coordinates: 36.804, 6.097
+
+
+### Djmila
+
+Code: DZ023009, Coordinates: 36.582, 5.898
+
+
+### El Ancer
+
+Code: DZ023010, Coordinates: 36.798, 6.181
+
+
+### El Aouana
+
+Code: DZ023011, Coordinates: 36.742, 5.634
+
+
+### El Kennar Nouchfi
+
+Code: DZ023012, Coordinates: 36.813, 5.991
+
+
+### El Milia
+
+Code: DZ023013, Coordinates: 36.807, 6.289
+
+
+### Emir Abdelkader
+
+Code: DZ023014, Coordinates: 36.756, 5.849
+
+
+### Erraguene
+
+Code: DZ023015, Coordinates: 36.573, 5.616
+
+
+### Jijel
+
+Code: DZ023016, Coordinates: 36.798, 5.745
+
+
+### Kaous
+
+Code: DZ023017, Coordinates: 36.762, 5.764
+
+
+### Kimir Oued Adjoul
+
+Code: DZ023018, Coordinates: 36.859, 6.158
+
+
+### Oudjana
+
+Code: DZ023019, Coordinates: 36.678, 5.887
+
+
+### Ouled Rabah
+
+Code: DZ023020, Coordinates: 36.627, 6.176
+
+
+### Ouled Yahia Khadrouche
+
+Code: DZ023021, Coordinates: 36.695, 6.195
+
+
+### Selma Ben Ziada
+
+Code: DZ023022, Coordinates: 36.654, 5.636
+
+
+### Settara
+
+Code: DZ023023, Coordinates: 36.707, 6.363
+
+
+### Sidi Abdelaziz
+
+Code: DZ023024, Coordinates: 36.834, 6.051
+
+
+### Sidi Maarouf
+
+Code: DZ023025, Coordinates: 36.647, 6.279
+
+
+### Taher
+
+Code: DZ023026, Coordinates: 36.779, 5.911
+
+
+### Texenna
+
+Code: DZ023027, Coordinates: 36.672, 5.777
+
+
+### Ziama Mansouria
+
+Code: DZ023028, Coordinates: 36.651, 5.496
+
+

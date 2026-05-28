@@ -1,0 +1,45 @@
+{
+  "id": "DZ003003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Kihel",
+    "en": "Ain Kihel",
+    "slug": "ain-kihel-dz003003"
+  },
+  "code": {
+    "id": "DZ003003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.222",
+    "lon": "-1.198"
+  },
+  "metadata": {},
+  "source": {}
+}

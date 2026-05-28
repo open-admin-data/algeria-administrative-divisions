@@ -1,0 +1,45 @@
+{
+  "id": "DZ032016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi Ben Okba",
+    "en": "Hassi Ben Okba",
+    "slug": "hassi-ben-okba-dz032016"
+  },
+  "code": {
+    "id": "DZ032016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.749",
+    "lon": "-0.48"
+  },
+  "metadata": {},
+  "source": {}
+}

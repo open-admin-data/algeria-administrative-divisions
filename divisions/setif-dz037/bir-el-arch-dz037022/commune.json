@@ -1,0 +1,45 @@
+{
+  "id": "DZ037022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bir El Arch",
+    "en": "Bir El Arch",
+    "slug": "bir-el-arch-dz037022"
+  },
+  "code": {
+    "id": "DZ037022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.103",
+    "lon": "5.801"
+  },
+  "metadata": {},
+  "source": {}
+}

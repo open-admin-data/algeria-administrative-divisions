@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ028_ain-el-melh_ain-el-melh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الملح",
+      "en": "Ain El Melh",
+      "slug": "ain-el-melh"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh_ain-el-melh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-melh",
+      "level": 2,
+      "name": {
+        "local": "عين الملح",
+        "en": "Ain El Melh",
+        "slug": "ain-el-melh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-melh",
+        "level": 2,
+        "name": {
+          "local": "عين الملح",
+          "en": "Ain El Melh",
+          "slug": "ain-el-melh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28004"
+    ],
+    "geo": {
+      "lat": "34.793",
+      "lon": "4.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-melh_ain-fares",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فارس",
+      "en": "Ain Fares",
+      "slug": "ain-fares"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh_ain-fares",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-melh",
+      "level": 2,
+      "name": {
+        "local": "عين الملح",
+        "en": "Ain El Melh",
+        "slug": "ain-el-melh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-melh",
+        "level": 2,
+        "name": {
+          "local": "عين الملح",
+          "en": "Ain El Melh",
+          "slug": "ain-el-melh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28023"
+    ],
+    "geo": {
+      "lat": "34.749",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-melh_ain-rich",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الريش",
+      "en": "Ain Rich",
+      "slug": "ain-rich"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh_ain-rich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-melh",
+      "level": 2,
+      "name": {
+        "local": "عين الملح",
+        "en": "Ain El Melh",
+        "slug": "ain-el-melh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-melh",
+        "level": 2,
+        "name": {
+          "local": "عين الملح",
+          "en": "Ain El Melh",
+          "slug": "ain-el-melh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28025"
+    ],
+    "geo": {
+      "lat": "34.772",
+      "lon": "4.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-melh_bir-foda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر فضة",
+      "en": "Bir Foda",
+      "slug": "bir-foda"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh_bir-foda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-melh",
+      "level": 2,
+      "name": {
+        "local": "عين الملح",
+        "en": "Ain El Melh",
+        "slug": "ain-el-melh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-melh",
+        "level": 2,
+        "name": {
+          "local": "عين الملح",
+          "en": "Ain El Melh",
+          "slug": "ain-el-melh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28043"
+    ],
+    "geo": {
+      "lat": "34.772",
+      "lon": "4.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_ain-el-melh_sidi-mhamed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي امحمد",
+      "en": "Sidi M'hamed",
+      "slug": "sidi-mhamed"
+    },
+    "code": {
+      "id": "DZ028_ain-el-melh_sidi-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_ain-el-melh",
+      "level": 2,
+      "name": {
+        "local": "عين الملح",
+        "en": "Ain El Melh",
+        "slug": "ain-el-melh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_ain-el-melh",
+        "level": 2,
+        "name": {
+          "local": "عين الملح",
+          "en": "Ain El Melh",
+          "slug": "ain-el-melh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16002"
+    ],
+    "geo": {
+      "lat": "34.775",
+      "lon": "4.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

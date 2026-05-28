@@ -1,0 +1,321 @@
+# Tlemcen — Algeria Administrative Divisions
+
+> 20 dairas, 53 communes
+> Code: DZ013
+> Coordinates: 34.673, -1.299
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين تالوت (Ain Tellout)
+
+Code: DZ013_ain-tellout, Coordinates: 35.035, -0.988
+Communes: 2
+
+#### عين النحالة (Ain Nehala)
+
+Code: DZ013_ain-tellout_ain-nehala, Postal: 13054, Coordinates: 35.035, -0.988
+
+#### عين تالوت (Ain Tellout)
+
+Code: DZ013_ain-tellout_ain-tellout, Postal: 13012, Coordinates: 35.035, -0.988
+
+### باب العسة (Bab El Assa)
+
+Code: DZ013_bab-el-assa, Coordinates: 34.954, -1.972
+Communes: 3
+
+#### باب العسة (Bab El Assa)
+
+Code: DZ013_bab-el-assa_bab-el-assa, Postal: 13014, Coordinates: 34.977, -2.007
+
+#### السواني (Souani)
+
+Code: DZ013_bab-el-assa_souani, Postal: 13046, Coordinates: 34.931, -1.936
+
+#### سوق الثلاثاء (Souk Tleta)
+
+Code: DZ013_bab-el-assa_souk-tleta, Postal: 13078, Coordinates: 34.954, -1.972
+
+### بني بوسعيد (Beni Boussaid)
+
+Code: DZ013_beni-boussaid, Coordinates: 34.697, -1.681
+Communes: 2
+
+#### بني بوسعيد (Beni Boussaid)
+
+Code: DZ013_beni-boussaid_beni-boussaid, Coordinates: 34.636, -1.736
+
+#### سيدي مجاهد (Sidi Medjahed)
+
+Code: DZ013_beni-boussaid_sidi-medjahed, Postal: 13044, Coordinates: 34.757, -1.627
+
+### بني سنوس (Beni Snous)
+
+Code: DZ013_beni-snous, Coordinates: 34.671, -1.533
+Communes: 3
+
+#### العزايل (Azail)
+
+Code: DZ013_beni-snous_azail, Postal: 13080, Coordinates: 34.671, -1.533
+
+#### بني بهدل (Beni Bahdel)
+
+Code: DZ013_beni-snous_beni-bahdel, Postal: 13060, Coordinates: 34.713, -1.508
+
+#### بني سنوس (Beni Snous)
+
+Code: DZ013_beni-snous_beni-snous, Postal: 13037, Coordinates: 34.628, -1.558
+
+### بن سكران (Bensekrane)
+
+Code: DZ013_bensekrane, Coordinates: 35.081, -1.159
+Communes: 2
+
+#### بن سكران (Bensekrane)
+
+Code: DZ013_bensekrane_bensekrane, Postal: 13008, Coordinates: 35.114, -1.203
+
+#### سيدي العبدلي (Sidi Abdelli)
+
+Code: DZ013_bensekrane_sidi-abdelli, Postal: 13019, Coordinates: 35.048, -1.115
+
+### شتوان (Chetouane)
+
+Code: DZ013_chetouane, Coordinates: 34.944, -1.25
+Communes: 3
+
+#### عين فزة (Ain Fezza)
+
+Code: DZ013_chetouane_ain-fezza, Postal: 13022, Coordinates: 34.887, -1.208
+
+#### عمير (Amieur)
+
+Code: DZ013_chetouane_amieur, Postal: 13058, Coordinates: 35.007, -1.24
+
+#### شتوان (Chetouane)
+
+Code: DZ013_chetouane_chetouane, Postal: 13048, Coordinates: 34.938, -1.302
+
+### فلاوسن (Fellaoucene)
+
+Code: DZ013_fellaoucene, Coordinates: 35.007, -1.634
+Communes: 3
+
+#### عين فتاح (Ain Fetah)
+
+Code: DZ013_fellaoucene_ain-fetah, Postal: 13028, Coordinates: 34.975, -1.646
+
+#### عين الكبيرة (Ain Kebira)
+
+Code: DZ013_fellaoucene_ain-kebira, Postal: 13049, Coordinates: 35.03, -1.684
+
+#### فلاوسن (Fellaoucene)
+
+Code: DZ013_fellaoucene_fellaoucene, Postal: 13035, Coordinates: 35.017, -1.572
+
+### الغزوات (Ghazaouet)
+
+Code: DZ013_ghazaouet, Coordinates: 35.058, -1.879
+Communes: 4
+
+#### دار يغمراسن (Dar Yaghmoracen)
+
+Code: DZ013_ghazaouet_dar-yaghmoracen, Postal: 13032, Coordinates: 35.058, -1.879
+
+#### الغزوات (Ghazaouet)
+
+Code: DZ013_ghazaouet_ghazaouet, Postal: 13002, Coordinates: 35.085, -1.859
+
+#### السواحلية (Souahlia)
+
+Code: DZ013_ghazaouet_souahlia, Postal: 13020, Coordinates: 35.03, -1.899
+
+#### تيانت (Tianet)
+
+Code: DZ013_ghazaouet_tianet, Postal: 13047, Coordinates: 35.058, -1.879
+
+### الحناية (Hennaya)
+
+Code: DZ013_hennaya, Coordinates: 34.993, -1.478
+Communes: 3
+
+#### الحناية (Hennaya)
+
+Code: DZ013_hennaya_hennaya, Postal: 13009, Coordinates: 34.993, -1.478
+
+#### أولاد رياح (Ouled Riyah)
+
+Code: DZ013_hennaya_ouled-riyah, Postal: 13070, Coordinates: 34.993, -1.478
+
+#### زناتة (Zenata)
+
+Code: DZ013_hennaya_zenata, Postal: 13051, Coordinates: 34.993, -1.478
+
+### هنين (Honnaine)
+
+Code: DZ013_honnaine, Coordinates: 35.184, -1.588
+Communes: 2
+
+#### بني خلاد (Beni Khellad)
+
+Code: DZ013_honnaine_beni-khellad, Postal: 13074, Coordinates: 35.184, -1.588
+
+#### هنين (Honnaine)
+
+Code: DZ013_honnaine_honnaine, Postal: 13015, Coordinates: 35.184, -1.588
+
+### مغنية (Maghnia)
+
+Code: DZ013_maghnia, Coordinates: 34.882, -1.746
+Communes: 2
+
+#### حمام بوغرارة (Hammam Boughrara)
+
+Code: DZ013_maghnia_hammam-boughrara, Postal: 13036, Coordinates: 34.925, -1.706
+
+#### مغنية (Maghnia)
+
+Code: DZ013_maghnia_maghnia, Postal: 13001, Coordinates: 34.838, -1.787
+
+### منصورة (Mansourah)
+
+Code: DZ013_mansourah, Coordinates: 34.835, -1.394
+Communes: 4
+
+#### عين غرابة (Ain Ghoraba)
+
+Code: DZ013_mansourah_ain-ghoraba, Postal: 13023, Coordinates: 34.739, -1.4
+
+#### بني مستر (Beni Mester)
+
+Code: DZ013_mansourah_beni-mester, Postal: 13038, Coordinates: 34.892, -1.425
+
+#### منصورة (Mansourah)
+
+Code: DZ013_mansourah_mansourah, Postal: 13100, Coordinates: 34.873, -1.358
+
+#### تيرني بني هديل (Terny Beni Hediel)
+
+Code: DZ013_mansourah_terny-beni-hediel, Postal: 13079, Coordinates: 34.835, -1.394
+
+### مرسى بن مهيدي (Marsa Ben Mehdi)
+
+Code: DZ013_marsa-ben-mehdi, Coordinates: 35.023, -2.088
+Communes: 2
+
+#### مسيردة الفواقة (M&#39;sirda Fouaga)
+
+Code: DZ013_marsa-ben-mehdi_msirda-fouaga, Postal: 13024, Coordinates: 35.023, -2.088
+
+#### مرسى بن مهيدي (Marsa Ben M&#39;hidi)
+
+Code: DZ013_marsa-ben-mehdi_marsa-ben-mhidi, Postal: 13017, Coordinates: 35.023, -2.088
+
+### ندرومة (Nedroma)
+
+Code: DZ013_nedroma, Coordinates: 35.005, -1.791
+Communes: 2
+
+#### جبالة (Djebala)
+
+Code: DZ013_nedroma_djebala, Postal: 13029, Coordinates: 34.963, -1.823
+
+#### ندرومة (Nedroma)
+
+Code: DZ013_nedroma_nedroma, Postal: 13004, Coordinates: 35.047, -1.759
+
+### أولاد ميمون (Ouled Mimoun)
+
+Code: DZ013_ouled-mimoun, Coordinates: 34.901, -1.045
+Communes: 3
+
+#### بني صميل (Beni Smiel)
+
+Code: DZ013_ouled-mimoun_beni-smiel, Postal: 13086, Coordinates: 34.901, -1.045
+
+#### وادي الخضر (Oued Lakhdar)
+
+Code: DZ013_ouled-mimoun_oued-lakhdar, Postal: 13068, Coordinates: 34.901, -1.045
+
+#### أولاد ميمون (Ouled Mimoun)
+
+Code: DZ013_ouled-mimoun_ouled-mimoun, Postal: 13010, Coordinates: 34.901, -1.045
+
+### الرمشي (Remchi)
+
+Code: DZ013_remchi, Coordinates: 35.106, -1.423
+Communes: 5
+
+#### عين يوسف (Ain Youcef)
+
+Code: DZ013_remchi_ain-youcef, Postal: 13013, Coordinates: 35.075, -1.374
+
+#### بني وارسوس (Beni Ouarsous)
+
+Code: DZ013_remchi_beni-ouarsous, Postal: 13025, Coordinates: 35.095, -1.585
+
+#### الفحول (El Fehoul)
+
+Code: DZ013_remchi_el-fehoul, Postal: 13033, Coordinates: 35.141, -1.285
+
+#### الرمشي (Remchi)
+
+Code: DZ013_remchi_remchi, Postal: 13005, Coordinates: 35.113, -1.448
+
+#### سبعة شيوخ (Sebbaa Chioukh)
+
+Code: DZ013_remchi_sebbaa-chioukh, Postal: 13042, Coordinates: 35.106, -1.423
+
+### صبرة (Sabra)
+
+Code: DZ013_sabra, Coordinates: 34.831, -1.569
+Communes: 2
+
+#### بوحلو (Bouhlou)
+
+Code: DZ013_sabra_bouhlou, Postal: 13026, Coordinates: 34.812, -1.606
+
+#### صبرة (Sabra)
+
+Code: DZ013_sabra_sabra, Postal: 13011, Coordinates: 34.849, -1.531
+
+### سبدو (Sebdou)
+
+Code: DZ013_sebdou, Coordinates: 34.53, -1.18
+Communes: 3
+
+#### العريشة (El Aricha)
+
+Code: DZ013_sebdou_el-aricha, Postal: 13031, Coordinates: 34.394, -1.202
+
+#### القور (El Gor)
+
+Code: DZ013_sebdou_el-gor, Postal: 13034, Coordinates: 34.552, -1.052
+
+#### سبدو (Sebdou)
+
+Code: DZ013_sebdou_sebdou, Postal: 13006, Coordinates: 34.644, -1.287
+
+### سيدي الجيلالي (Sidi Djillali)
+
+Code: DZ013_sidi-djillali, Coordinates: 34.421, -1.499
+Communes: 2
+
+#### البويهي (Bouihi)
+
+Code: DZ013_sidi-djillali_bouihi, Postal: 13030, Coordinates: 34.421, -1.499
+
+#### سيدي الجيلالي (Sidi Djillali)
+
+Code: DZ013_sidi-djillali_sidi-djillali, Postal: 13043, Coordinates: 34.421, -1.499
+
+### تلمسان (Tlemcen)
+
+Code: DZ013_tlemcen, Coordinates: 34.898, -1.316
+Communes: 1
+
+#### تلمسان (Tlemcen)
+
+Code: DZ013_tlemcen_tlemcen, Postal: 13000, Coordinates: 34.898, -1.316
+

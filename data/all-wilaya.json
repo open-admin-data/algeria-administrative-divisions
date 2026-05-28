@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "DZ001",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    },
+    "code": {
+      "id": "DZ001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 6,
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.91",
+      "lon": "-1.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": " الشلف",
+      "en": "Chlef",
+      "slug": "chlef"
+    },
+    "code": {
+      "id": "DZ002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 13,
+      "commune": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.205",
+      "lon": "1.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    },
+    "code": {
+      "id": "DZ003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.75",
+      "lon": "2.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    },
+    "code": {
+      "id": "DZ004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 12,
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.813",
+      "lon": "7.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    },
+    "code": {
+      "id": "DZ005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 21,
+      "commune": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.341",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    },
+    "code": {
+      "id": "DZ006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 19,
+      "commune": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.575",
+      "lon": "4.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    },
+    "code": {
+      "id": "DZ007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.323",
+      "lon": "4.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "بشار",
+      "en": "Béchar",
+      "slug": "bchar"
+    },
+    "code": {
+      "id": "DZ008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 7,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.202",
+      "lon": "-2.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida"
+    },
+    "code": {
+      "id": "DZ009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.504",
+      "lon": "2.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    },
+    "code": {
+      "id": "DZ010",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 12,
+      "commune": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.233",
+      "lon": "3.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    },
+    "code": {
+      "id": "DZ011",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 3,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.355",
+      "lon": "4.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    },
+    "code": {
+      "id": "DZ012",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 12,
+      "commune": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.284",
+      "lon": "7.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    },
+    "code": {
+      "id": "DZ013",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 20,
+      "commune": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.673",
+      "lon": "-1.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    },
+    "code": {
+      "id": "DZ014",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 14,
+      "commune": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "1.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    },
+    "code": {
+      "id": "DZ015",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 21,
+      "commune": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.683",
+      "lon": "4.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger"
+    },
+    "code": {
+      "id": "DZ016",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 13,
+      "commune": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.702",
+      "lon": "3.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    },
+    "code": {
+      "id": "DZ017",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 12,
+      "commune": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.347",
+      "lon": "3.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel"
+    },
+    "code": {
+      "id": "DZ018",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 11,
+      "commune": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    },
+    "code": {
+      "id": "DZ019",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 20,
+      "commune": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.23",
+      "lon": "5.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    },
+    "code": {
+      "id": "DZ020",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 6,
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.044",
+      "lon": "0.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    },
+    "code": {
+      "id": "DZ021",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 13,
+      "commune": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.755",
+      "lon": "6.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbès",
+      "slug": "sidi-bel-abbs"
+    },
+    "code": {
+      "id": "DZ022",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 15,
+      "commune": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.018",
+      "lon": "-0.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba"
+    },
+    "code": {
+      "id": "DZ023",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 6,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.846",
+      "lon": "7.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    },
+    "code": {
+      "id": "DZ024",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.349",
+      "lon": "7.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine"
+    },
+    "code": {
+      "id": "DZ025",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 6,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.36",
+      "lon": "6.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    },
+    "code": {
+      "id": "DZ026",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 19,
+      "commune": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.097",
+      "lon": "2.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    },
+    "code": {
+      "id": "DZ027",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.004",
+      "lon": "0.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila"
+    },
+    "code": {
+      "id": "DZ028",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 15,
+      "commune": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.125",
+      "lon": "4.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    },
+    "code": {
+      "id": "DZ029",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 16,
+      "commune": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.4",
+      "lon": "0.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    },
+    "code": {
+      "id": "DZ030",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 5,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.23",
+      "lon": "6.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    },
+    "code": {
+      "id": "DZ031",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 9,
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.623",
+      "lon": "-0.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh"
+    },
+    "code": {
+      "id": "DZ032",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 8,
+      "commune": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.608",
+      "lon": "1.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "إليزي",
+      "en": "Illizi",
+      "slug": "illizi"
+    },
+    "code": {
+      "id": "DZ033",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.526",
+      "lon": "8.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj"
+    },
+    "code": {
+      "id": "DZ034",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.043",
+      "lon": "4.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    },
+    "code": {
+      "id": "DZ035",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 9,
+      "commune": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.707",
+      "lon": "3.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    },
+    "code": {
+      "id": "DZ036",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 7,
+      "commune": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.684",
+      "lon": "7.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تندوف",
+      "en": "Tindouf",
+      "slug": "tindouf"
+    },
+    "code": {
+      "id": "DZ037",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 1,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.55",
+      "lon": "-6.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    },
+    "code": {
+      "id": "DZ038",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 8,
+      "commune": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.788",
+      "lon": "1.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    },
+    "code": {
+      "id": "DZ039",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.258",
+      "lon": "7.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    },
+    "code": {
+      "id": "DZ040",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 8,
+      "commune": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.916",
+      "lon": "6.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    },
+    "code": {
+      "id": "DZ041",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.165",
+      "lon": "7.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza"
+    },
+    "code": {
+      "id": "DZ042",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 10,
+      "commune": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.53",
+      "lon": "2.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    },
+    "code": {
+      "id": "DZ043",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 13,
+      "commune": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.252",
+      "lon": "6.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "عين الدفلة",
+      "en": "Aïn Defla",
+      "slug": "an-defla"
+    },
+    "code": {
+      "id": "DZ044",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 14,
+      "commune": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.228",
+      "lon": "2.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "النعامة",
+      "en": "Naâma",
+      "slug": "nama"
+    },
+    "code": {
+      "id": "DZ045",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 7,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.962",
+      "lon": "-0.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "عين تيموشنت",
+      "en": "Aïn Témouchent",
+      "slug": "an-tmouchent"
+    },
+    "code": {
+      "id": "DZ046",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 8,
+      "commune": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.429",
+      "lon": "-0.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaïa",
+      "slug": "ghardaa"
+    },
+    "code": {
+      "id": "DZ047",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 8,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.953",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    },
+    "code": {
+      "id": "DZ048",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 13,
+      "commune": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.839",
+      "lon": "0.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ049",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تيميمون",
+      "en": "Timimoun",
+      "slug": "timimoun"
+    },
+    "code": {
+      "id": "DZ049",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.843",
+      "lon": "1.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ050",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "برج باجي مختار",
+      "en": "Bordj Badji Mokhtar",
+      "slug": "bordj-badji-mokhtar"
+    },
+    "code": {
+      "id": "DZ050",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 1,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.025",
+      "lon": "0.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ051",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "أولاد جلال",
+      "en": "Ouled Djellal",
+      "slug": "ouled-djellal"
+    },
+    "code": {
+      "id": "DZ051",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.5",
+      "lon": "4.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ052",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "بني عباس",
+      "en": "Béni Abbès",
+      "slug": "bni-abbs"
+    },
+    "code": {
+      "id": "DZ052",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 5,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.887",
+      "lon": "-1.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ053",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "عين صالح",
+      "en": "In Salah",
+      "slug": "in-salah"
+    },
+    "code": {
+      "id": "DZ053",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ054",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "عين قزام",
+      "en": "In Guezzam",
+      "slug": "in-guezzam"
+    },
+    "code": {
+      "id": "DZ054",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    },
+    "code": {
+      "id": "DZ055",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 5,
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.312",
+      "lon": "5.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ056",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "جانت",
+      "en": "Djanet",
+      "slug": "djanet"
+    },
+    "code": {
+      "id": "DZ056",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 1,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.78",
+      "lon": "10.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "المغير",
+      "en": "El Meghaier",
+      "slug": "el-meghaier"
+    },
+    "code": {
+      "id": "DZ057",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.746",
+      "lon": "5.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ058",
+    "level": 1,
+    "level_name": {
+      "local": "ولاية",
+      "en": "Wilaya"
+    },
+    "name": {
+      "local": "المنيعة",
+      "en": "El Menia",
+      "slug": "el-menia"
+    },
+    "code": {
+      "id": "DZ058",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "daira": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

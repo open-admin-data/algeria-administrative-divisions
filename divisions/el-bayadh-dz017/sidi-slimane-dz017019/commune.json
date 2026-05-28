@@ -1,0 +1,45 @@
+{
+  "id": "DZ017019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Slimane",
+    "en": "Sidi Slimane",
+    "slug": "sidi-slimane-dz017019"
+  },
+  "code": {
+    "id": "DZ017019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.786",
+    "lon": "1.757"
+  },
+  "metadata": {},
+  "source": {}
+}

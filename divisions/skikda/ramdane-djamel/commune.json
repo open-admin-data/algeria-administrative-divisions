@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ021_ramdane-djamel_beni-bechir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني بشير",
+      "en": "Beni Bechir",
+      "slug": "beni-bechir"
+    },
+    "code": {
+      "id": "DZ021_ramdane-djamel_beni-bechir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ramdane-djamel",
+      "level": 2,
+      "name": {
+        "local": "رمضان جمال",
+        "en": "Ramdane Djamel",
+        "slug": "ramdane-djamel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ramdane-djamel",
+        "level": 2,
+        "name": {
+          "local": "رمضان جمال",
+          "en": "Ramdane Djamel",
+          "slug": "ramdane-djamel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21033"
+    ],
+    "geo": {
+      "lat": "36.759",
+      "lon": "6.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ramdane-djamel_ramdane-djamel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رمضان جمال",
+      "en": "Ramdane Djamel",
+      "slug": "ramdane-djamel"
+    },
+    "code": {
+      "id": "DZ021_ramdane-djamel_ramdane-djamel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ramdane-djamel",
+      "level": 2,
+      "name": {
+        "local": "رمضان جمال",
+        "en": "Ramdane Djamel",
+        "slug": "ramdane-djamel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ramdane-djamel",
+        "level": 2,
+        "name": {
+          "local": "رمضان جمال",
+          "en": "Ramdane Djamel",
+          "slug": "ramdane-djamel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21004"
+    ],
+    "geo": {
+      "lat": "36.759",
+      "lon": "6.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

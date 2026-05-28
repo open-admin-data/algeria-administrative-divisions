@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_iferhounene_iferhounene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إفــرحــونان",
+      "en": "Iferhounene",
+      "slug": "iferhounene"
+    },
+    "code": {
+      "id": "DZ015_iferhounene_iferhounene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_iferhounene",
+      "level": 2,
+      "name": {
+        "local": "إفرحونان",
+        "en": "Iferhounene",
+        "slug": "iferhounene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_iferhounene",
+        "level": 2,
+        "name": {
+          "local": "إفرحونان",
+          "en": "Iferhounene",
+          "slug": "iferhounene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15013"
+    ],
+    "geo": {
+      "lat": "36.524",
+      "lon": "4.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_iferhounene_illilten",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إيلـيــلتـن",
+      "en": "Illilten",
+      "slug": "illilten"
+    },
+    "code": {
+      "id": "DZ015_iferhounene_illilten",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_iferhounene",
+      "level": 2,
+      "name": {
+        "local": "إفرحونان",
+        "en": "Iferhounene",
+        "slug": "iferhounene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_iferhounene",
+        "level": 2,
+        "name": {
+          "local": "إفرحونان",
+          "en": "Iferhounene",
+          "slug": "iferhounene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15036"
+    ],
+    "geo": {
+      "lat": "36.513",
+      "lon": "4.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_iferhounene_imsouhal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إمســوحال",
+      "en": "Imsouhal",
+      "slug": "imsouhal"
+    },
+    "code": {
+      "id": "DZ015_iferhounene_imsouhal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_iferhounene",
+      "level": 2,
+      "name": {
+        "local": "إفرحونان",
+        "en": "Iferhounene",
+        "slug": "iferhounene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_iferhounene",
+        "level": 2,
+        "name": {
+          "local": "إفرحونان",
+          "en": "Iferhounene",
+          "slug": "iferhounene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15023"
+    ],
+    "geo": {
+      "lat": "36.583",
+      "lon": "4.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

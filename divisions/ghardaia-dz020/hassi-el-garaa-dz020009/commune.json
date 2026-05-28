@@ -1,0 +1,45 @@
+{
+  "id": "DZ020009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi El Garaa",
+    "en": "Hassi El Garaa",
+    "slug": "hassi-el-garaa-dz020009"
+  },
+  "code": {
+    "id": "DZ020009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.753",
+    "lon": "2.802"
+  },
+  "metadata": {},
+  "source": {}
+}

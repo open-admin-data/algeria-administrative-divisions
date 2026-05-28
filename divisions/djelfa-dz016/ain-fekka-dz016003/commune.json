@@ -1,0 +1,45 @@
+{
+  "id": "DZ016003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Fekka",
+    "en": "Ain Fekka",
+    "slug": "ain-fekka-dz016003"
+  },
+  "code": {
+    "id": "DZ016003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.426",
+    "lon": "3.568"
+  },
+  "metadata": {},
+  "source": {}
+}

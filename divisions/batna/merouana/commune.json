@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ005_merouana_hidoussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حيدوسة",
+      "en": "Hidoussa",
+      "slug": "hidoussa"
+    },
+    "code": {
+      "id": "DZ005_merouana_hidoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_merouana",
+      "level": 2,
+      "name": {
+        "local": "مروانة",
+        "en": "Merouana",
+        "slug": "merouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_merouana",
+        "level": 2,
+        "name": {
+          "local": "مروانة",
+          "en": "Merouana",
+          "slug": "merouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05033"
+    ],
+    "geo": {
+      "lat": "35.531",
+      "lon": "5.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_merouana_ksar-bellezma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر بلزمة",
+      "en": "Ksar Bellezma",
+      "slug": "ksar-bellezma"
+    },
+    "code": {
+      "id": "DZ005_merouana_ksar-bellezma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_merouana",
+      "level": 2,
+      "name": {
+        "local": "مروانة",
+        "en": "Merouana",
+        "slug": "merouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_merouana",
+        "level": 2,
+        "name": {
+          "local": "مروانة",
+          "en": "Merouana",
+          "slug": "merouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05047"
+    ],
+    "geo": {
+      "lat": "35.615",
+      "lon": "5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_merouana_merouana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مروانة",
+      "en": "Merouana",
+      "slug": "merouana"
+    },
+    "code": {
+      "id": "DZ005_merouana_merouana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_merouana",
+      "level": 2,
+      "name": {
+        "local": "مروانة",
+        "en": "Merouana",
+        "slug": "merouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_merouana",
+        "level": 2,
+        "name": {
+          "local": "مروانة",
+          "en": "Merouana",
+          "slug": "merouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05013"
+    ],
+    "geo": {
+      "lat": "35.644",
+      "lon": "5.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_merouana_oued-el-ma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الماء",
+      "en": "Oued El Ma",
+      "slug": "oued-el-ma"
+    },
+    "code": {
+      "id": "DZ005_merouana_oued-el-ma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_merouana",
+      "level": 2,
+      "name": {
+        "local": "مروانة",
+        "en": "Merouana",
+        "slug": "merouana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_merouana",
+        "level": 2,
+        "name": {
+          "local": "مروانة",
+          "en": "Merouana",
+          "slug": "merouana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05016"
+    ],
+    "geo": {
+      "lat": "35.671",
+      "lon": "6.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ010_haizer_haizer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حيزر",
+      "en": "Haizer",
+      "slug": "haizer"
+    },
+    "code": {
+      "id": "DZ010_haizer_haizer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_haizer",
+      "level": 2,
+      "name": {
+        "local": "الحيزر",
+        "en": "Haizer",
+        "slug": "haizer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_haizer",
+        "level": 2,
+        "name": {
+          "local": "الحيزر",
+          "en": "Haizer",
+          "slug": "haizer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10024"
+    ],
+    "geo": {
+      "lat": "36.409",
+      "lon": "4.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_haizer_taghzout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاغزوت",
+      "en": "Taghzout",
+      "slug": "taghzout"
+    },
+    "code": {
+      "id": "DZ010_haizer_taghzout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_haizer",
+      "level": 2,
+      "name": {
+        "local": "الحيزر",
+        "en": "Haizer",
+        "slug": "haizer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_haizer",
+        "level": 2,
+        "name": {
+          "local": "الحيزر",
+          "en": "Haizer",
+          "slug": "haizer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10055"
+    ],
+    "geo": {
+      "lat": "33.5",
+      "lon": "6.565"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

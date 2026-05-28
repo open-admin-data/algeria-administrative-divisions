@@ -1,0 +1,45 @@
+{
+  "id": "DZ005004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chetaibi",
+    "en": "Chetaibi",
+    "slug": "chetaibi-dz005004"
+  },
+  "code": {
+    "id": "DZ005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba-dz005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba-dz005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.012",
+    "lon": "7.405"
+  },
+  "metadata": {},
+  "source": {}
+}

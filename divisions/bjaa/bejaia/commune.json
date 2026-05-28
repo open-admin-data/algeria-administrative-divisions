@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ006_bejaia_bejaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia"
+    },
+    "code": {
+      "id": "DZ006_bejaia_bejaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_bejaia",
+      "level": 2,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_bejaia",
+        "level": 2,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06000"
+    ],
+    "geo": {
+      "lat": "36.772",
+      "lon": "5.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_bejaia_oued-ghir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي غير",
+      "en": "Oued Ghir",
+      "slug": "oued-ghir"
+    },
+    "code": {
+      "id": "DZ006_bejaia_oued-ghir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_bejaia",
+      "level": 2,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_bejaia",
+        "level": 2,
+        "name": {
+          "local": "بجاية",
+          "en": "Bejaia",
+          "slug": "bejaia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06017"
+    ],
+    "geo": {
+      "lat": "36.717",
+      "lon": "4.988"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

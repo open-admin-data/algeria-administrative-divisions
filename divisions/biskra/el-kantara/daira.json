@@ -1,0 +1,47 @@
+{
+  "id": "DZ007_el-kantara",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "القنطرة",
+    "en": "El Kantara",
+    "slug": "el-kantara"
+  },
+  "code": {
+    "id": "DZ007_el-kantara",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.189",
+    "lon": "5.764"
+  },
+  "metadata": {},
+  "source": {}
+}

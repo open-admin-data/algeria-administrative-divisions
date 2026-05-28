@@ -1,0 +1,45 @@
+{
+  "id": "DZ012004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Hadjar",
+    "en": "Ain El Hadjar",
+    "slug": "ain-el-hadjar-dz012004"
+  },
+  "code": {
+    "id": "DZ012004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira-dz012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.365",
+    "lon": "3.781"
+  },
+  "metadata": {},
+  "source": {}
+}

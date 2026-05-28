@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ027_kheir-eddine_ain-boudinar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بودينار",
+      "en": "Ain-Boudinar",
+      "slug": "ain-boudinar"
+    },
+    "code": {
+      "id": "DZ027_kheir-eddine_ain-boudinar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_kheir-eddine",
+      "level": 2,
+      "name": {
+        "local": "خير الدين",
+        "en": "Kheir Eddine",
+        "slug": "kheir-eddine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_kheir-eddine",
+        "level": 2,
+        "name": {
+          "local": "خير الدين",
+          "en": "Kheir Eddine",
+          "slug": "kheir-eddine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27031"
+    ],
+    "geo": {
+      "lat": "35.993",
+      "lon": "0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_kheir-eddine_kheir-eddine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خير الدين",
+      "en": "Kheir-Eddine",
+      "slug": "kheir-eddine"
+    },
+    "code": {
+      "id": "DZ027_kheir-eddine_kheir-eddine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_kheir-eddine",
+      "level": 2,
+      "name": {
+        "local": "خير الدين",
+        "en": "Kheir Eddine",
+        "slug": "kheir-eddine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_kheir-eddine",
+        "level": 2,
+        "name": {
+          "local": "خير الدين",
+          "en": "Kheir Eddine",
+          "slug": "kheir-eddine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27016"
+    ],
+    "geo": {
+      "lat": "35.954",
+      "lon": "0.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_kheir-eddine_sayada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صيادة",
+      "en": "Sayada",
+      "slug": "sayada"
+    },
+    "code": {
+      "id": "DZ027_kheir-eddine_sayada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_kheir-eddine",
+      "level": 2,
+      "name": {
+        "local": "خير الدين",
+        "en": "Kheir Eddine",
+        "slug": "kheir-eddine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_kheir-eddine",
+        "level": 2,
+        "name": {
+          "local": "خير الدين",
+          "en": "Kheir Eddine",
+          "slug": "kheir-eddine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27045"
+    ],
+    "geo": {
+      "lat": "35.937",
+      "lon": "0.136"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

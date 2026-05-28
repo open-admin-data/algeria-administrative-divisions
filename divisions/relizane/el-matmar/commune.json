@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ048_el-matmar_belaassel-bouzagza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلعسل بوزقزة",
+      "en": "Belaassel Bouzagza",
+      "slug": "belaassel-bouzagza"
+    },
+    "code": {
+      "id": "DZ048_el-matmar_belaassel-bouzagza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-matmar",
+      "level": 2,
+      "name": {
+        "local": "المطمر",
+        "en": "El Matmar",
+        "slug": "el-matmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-matmar",
+        "level": 2,
+        "name": {
+          "local": "المطمر",
+          "en": "El Matmar",
+          "slug": "el-matmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48036"
+    ],
+    "geo": {
+      "lat": "35.736",
+      "lon": "0.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-matmar_el-matmar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المطمر",
+      "en": "El-Matmar",
+      "slug": "el-matmar"
+    },
+    "code": {
+      "id": "DZ048_el-matmar_el-matmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-matmar",
+      "level": 2,
+      "name": {
+        "local": "المطمر",
+        "en": "El Matmar",
+        "slug": "el-matmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-matmar",
+        "level": 2,
+        "name": {
+          "local": "المطمر",
+          "en": "El Matmar",
+          "slug": "el-matmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48009"
+    ],
+    "geo": {
+      "lat": "35.722",
+      "lon": "0.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-matmar_sidi-khettab",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي  خطاب",
+      "en": "Sidi Khettab",
+      "slug": "sidi-khettab"
+    },
+    "code": {
+      "id": "DZ048_el-matmar_sidi-khettab",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-matmar",
+      "level": 2,
+      "name": {
+        "local": "المطمر",
+        "en": "El Matmar",
+        "slug": "el-matmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-matmar",
+        "level": 2,
+        "name": {
+          "local": "المطمر",
+          "en": "El Matmar",
+          "slug": "el-matmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48029"
+    ],
+    "geo": {
+      "lat": "35.911",
+      "lon": "0.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-matmar_sidi-mhamed-benaouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي امحمد بن عودة",
+      "en": "Sidi M'hamed Benaouda",
+      "slug": "sidi-mhamed-benaouda"
+    },
+    "code": {
+      "id": "DZ048_el-matmar_sidi-mhamed-benaouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-matmar",
+      "level": 2,
+      "name": {
+        "local": "المطمر",
+        "en": "El Matmar",
+        "slug": "el-matmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-matmar",
+        "level": 2,
+        "name": {
+          "local": "المطمر",
+          "en": "El Matmar",
+          "slug": "el-matmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48030"
+    ],
+    "geo": {
+      "lat": "35.574",
+      "lon": "0.62"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

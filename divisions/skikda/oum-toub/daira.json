@@ -1,0 +1,47 @@
+{
+  "id": "DZ021_oum-toub",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أم الطوب",
+    "en": "Oum Toub",
+    "slug": "oum-toub"
+  },
+  "code": {
+    "id": "DZ021_oum-toub",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.704",
+    "lon": "6.511"
+  },
+  "metadata": {},
+  "source": {}
+}

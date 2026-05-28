@@ -1,0 +1,234 @@
+# Bouira — Algeria Administrative Divisions
+
+> 45 communes
+> Code: DZ012
+> Coordinates: 36.233, 3.908
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Aghbalou
+
+Code: DZ012001, Coordinates: 36.429, 4.354
+
+
+### Ahl El Ksar
+
+Code: DZ012002, Coordinates: 36.245, 4.027
+
+
+### Ain Bessam
+
+Code: DZ012003, Coordinates: 36.339, 3.667
+
+
+### Ain El Hadjar
+
+Code: DZ012004, Coordinates: 36.365, 3.781
+
+
+### Ain Laloui
+
+Code: DZ012005, Coordinates: 36.309, 3.752
+
+
+### Ain Turk
+
+Code: DZ012006, Coordinates: 36.409, 3.828
+
+
+### Ait Laaziz
+
+Code: DZ012007, Coordinates: 36.446, 3.881
+
+
+### Aomar
+
+Code: DZ012008, Coordinates: 36.503, 3.771
+
+
+### Ath Mansour
+
+Code: DZ012009, Coordinates: 36.302, 4.315
+
+
+### Bechloul
+
+Code: DZ012010, Coordinates: 36.377, 4.089
+
+
+### Bir Ghbalou
+
+Code: DZ012011, Coordinates: 36.272, 3.59
+
+
+### Bordj Oukhriss
+
+Code: DZ012012, Coordinates: 36.096, 3.911
+
+
+### Bouderbala
+
+Code: DZ012013, Coordinates: 36.57, 3.484
+
+
+### Bouira
+
+Code: DZ012014, Coordinates: 36.375, 3.891
+
+
+### Boukram
+
+Code: DZ012015, Coordinates: 36.521, 3.368
+
+
+### Chorfa
+
+Code: DZ012016, Coordinates: 36.381, 4.318
+
+
+### Dechmia
+
+Code: DZ012017, Coordinates: 36.139, 3.559
+
+
+### Dirah
+
+Code: DZ012018, Coordinates: 36.004, 3.722
+
+
+### Djebahia
+
+Code: DZ012019, Coordinates: 36.463, 3.717
+
+
+### El Adjiba
+
+Code: DZ012020, Coordinates: 36.374, 4.147
+
+
+### El Asnam
+
+Code: DZ012021, Coordinates: 36.373, 4.029
+
+
+### El Hachimia
+
+Code: DZ012022, Coordinates: 36.225, 3.816
+
+
+### El Hakimia
+
+Code: DZ012023, Coordinates: 36.093, 3.795
+
+
+### El Khabouzia
+
+Code: DZ012024, Coordinates: 36.313, 3.599
+
+
+### El Mokrani
+
+Code: DZ012025, Coordinates: 36.429, 3.607
+
+
+### Guerrouma
+
+Code: DZ012026, Coordinates: 36.471, 3.415
+
+
+### Hadjera Zerga
+
+Code: DZ012027, Coordinates: 35.949, 3.821
+
+
+### Haizer
+
+Code: DZ012028, Coordinates: 36.409, 4.03
+
+
+### Hanif
+
+Code: DZ012029, Coordinates: 36.266, 4.203
+
+
+### Kadiria
+
+Code: DZ012030, Coordinates: 36.527, 3.625
+
+
+### Lakhdaria
+
+Code: DZ012031, Coordinates: 36.564, 3.594
+
+
+### M&#39;Chedallah
+
+Code: DZ012034, Coordinates: 36.368, 4.241
+
+
+### Maala
+
+Code: DZ012032, Coordinates: 36.496, 3.59
+
+
+### Maamora
+
+Code: DZ012033, Coordinates: 36.002, 3.597
+
+
+### Mezdour
+
+Code: DZ012035, Coordinates: 36.075, 4.06
+
+
+### Oued El Berdi
+
+Code: DZ012036, Coordinates: 36.258, 3.913
+
+
+### Ouled Rached
+
+Code: DZ012037, Coordinates: 36.206, 4.117
+
+
+### Raouraoua
+
+Code: DZ012038, Coordinates: 36.218, 3.617
+
+
+### Ridane
+
+Code: DZ012039, Coordinates: 36.072, 3.497
+
+
+### Saharidj
+
+Code: DZ012040, Coordinates: 36.433, 4.253
+
+
+### Souk El Khemis
+
+Code: DZ012041, Coordinates: 36.396, 3.636
+
+
+### Sour El Ghozlane
+
+Code: DZ012042, Coordinates: 36.171, 3.702
+
+
+### Taghzout
+
+Code: DZ012043, Coordinates: 36.417, 3.96
+
+
+### Taguedit
+
+Code: DZ012044, Coordinates: 35.956, 3.957
+
+
+### Zbarbar
+
+Code: DZ012045, Coordinates: 36.474, 3.515
+
+

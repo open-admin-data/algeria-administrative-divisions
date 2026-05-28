@@ -1,0 +1,45 @@
+{
+  "id": "DZ036006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hounet",
+    "en": "Hounet",
+    "slug": "hounet-dz036006"
+  },
+  "code": {
+    "id": "DZ036006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.091",
+    "lon": "-0.158"
+  },
+  "metadata": {},
+  "source": {}
+}

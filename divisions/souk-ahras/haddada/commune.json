@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_haddada_haddada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحدادة",
+      "en": "Haddada",
+      "slug": "haddada"
+    },
+    "code": {
+      "id": "DZ041_haddada_haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_haddada",
+      "level": 2,
+      "name": {
+        "local": "الحدادة",
+        "en": "Haddada",
+        "slug": "haddada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_haddada",
+        "level": 2,
+        "name": {
+          "local": "الحدادة",
+          "en": "Haddada",
+          "slug": "haddada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41012"
+    ],
+    "geo": {
+      "lat": "36.184",
+      "lon": "8.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_haddada_khedara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخضارة",
+      "en": "Khedara",
+      "slug": "khedara"
+    },
+    "code": {
+      "id": "DZ041_haddada_khedara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_haddada",
+      "level": 2,
+      "name": {
+        "local": "الحدادة",
+        "en": "Haddada",
+        "slug": "haddada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_haddada",
+        "level": 2,
+        "name": {
+          "local": "الحدادة",
+          "en": "Haddada",
+          "slug": "haddada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41013"
+    ],
+    "geo": {
+      "lat": "36.292",
+      "lon": "8.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_haddada_ouled-moumen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد مومن",
+      "en": "Ouled Moumen",
+      "slug": "ouled-moumen"
+    },
+    "code": {
+      "id": "DZ041_haddada_ouled-moumen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_haddada",
+      "level": 2,
+      "name": {
+        "local": "الحدادة",
+        "en": "Haddada",
+        "slug": "haddada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_haddada",
+        "level": 2,
+        "name": {
+          "local": "الحدادة",
+          "en": "Haddada",
+          "slug": "haddada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41034"
+    ],
+    "geo": {
+      "lat": "36.375",
+      "lon": "8.32"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,22 @@
+# Bordj Badji Mokhtar — Algeria Administrative Divisions
+
+> 1 dairas, 2 communes
+> Code: DZ050
+> Coordinates: 22.025, 0.748
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### برج باجي مختار (Bordj Badji Mokhtar)
+
+Code: DZ050_bordj-badji-mokhtar, Coordinates: 22.025, 0.748
+Communes: 2
+
+#### برج باجي مختار (Bordj Badji Mokhtar)
+
+Code: DZ050_bordj-badji-mokhtar_bordj-badji-mokhtar, Postal: 01010, Coordinates: 23.142, -0.263
+
+#### تيمياوين (Timiaouine)
+
+Code: DZ050_bordj-badji-mokhtar_timiaouine, Postal: 01042, Coordinates: 20.908, 1.759
+

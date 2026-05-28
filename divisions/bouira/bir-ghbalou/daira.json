@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_bir-ghbalou",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر غبالو",
+    "en": "Bir Ghbalou",
+    "slug": "bir-ghbalou"
+  },
+  "code": {
+    "id": "DZ010_bir-ghbalou",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.268",
+    "lon": "3.602"
+  },
+  "metadata": {},
+  "source": {}
+}

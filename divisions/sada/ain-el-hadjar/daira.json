@@ -1,0 +1,47 @@
+{
+  "id": "DZ020_ain-el-hadjar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الحجر",
+    "en": "Ain El Hadjar",
+    "slug": "ain-el-hadjar"
+  },
+  "code": {
+    "id": "DZ020_ain-el-hadjar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saïda",
+      "slug": "sada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.634",
+    "lon": "0.013"
+  },
+  "metadata": {},
+  "source": {}
+}

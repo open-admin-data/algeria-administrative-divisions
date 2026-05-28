@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_tizi-ouzou",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيزي وزو",
+    "en": "Tizi Ouzou",
+    "slug": "tizi-ouzou"
+  },
+  "code": {
+    "id": "DZ015_tizi-ouzou",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.702",
+    "lon": "4.056"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,66 @@
+# Ouargla — Algeria Administrative Divisions
+
+> 5 dairas, 8 communes
+> Code: DZ030
+> Coordinates: 31.23, 6.769
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### البرمة (El Borma)
+
+Code: DZ030_el-borma, Coordinates: 31.325, 7.953
+Communes: 1
+
+#### البرمة (El Borma)
+
+Code: DZ030_el-borma_el-borma, Postal: 30025, Coordinates: 31.325, 7.953
+
+### حاسي مسعود (Hassi Messaoud)
+
+Code: DZ030_hassi-messaoud, Coordinates: 30.54, 5.44
+Communes: 1
+
+#### حاسي مسعود (Hassi Messaoud)
+
+Code: DZ030_hassi-messaoud_hassi-messaoud, Postal: 30001, Coordinates: 30.54, 5.44
+
+### انقوسة (N&#39;goussa)
+
+Code: DZ030_ngoussa, Coordinates: 32.358, 5.328
+Communes: 1
+
+#### انقوسة (N&#39;goussa)
+
+Code: DZ030_ngoussa_ngoussa, Postal: 30026, Coordinates: 32.358, 5.328
+
+### ورقلة (Ouargla)
+
+Code: DZ030_ouargla, Coordinates: 31.956, 4.849
+Communes: 2
+
+#### ورقلة (Ouargla)
+
+Code: DZ030_ouargla_ouargla, Postal: 30000, Coordinates: 32.187, 4.829
+
+#### الرويسات (Rouissat)
+
+Code: DZ030_ouargla_rouissat, Postal: 30013, Coordinates: 31.724, 4.87
+
+### سيدي خويلد (Sidi Khouiled)
+
+Code: DZ030_sidi-khouiled, Coordinates: 33.348, 6.208
+Communes: 3
+
+#### عين البيضاء (Ain Beida)
+
+Code: DZ030_sidi-khouiled_ain-beida, Postal: 04001, Coordinates: 35.795, 7.379
+
+#### حاسي بن عبد الله (Hassi Ben Abdellah)
+
+Code: DZ030_sidi-khouiled_hassi-ben-abdellah, Postal: 30052, Coordinates: 32.225, 5.859
+
+#### سيدي خويلد (Sidi Khouiled)
+
+Code: DZ030_sidi-khouiled_sidi-khouiled, Postal: 30035, Coordinates: 32.025, 5.385
+

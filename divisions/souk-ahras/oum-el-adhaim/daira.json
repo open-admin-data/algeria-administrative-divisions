@@ -1,0 +1,47 @@
+{
+  "id": "DZ041_oum-el-adhaim",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أم العظايم",
+    "en": "Oum El Adhaim",
+    "slug": "oum-el-adhaim"
+  },
+  "code": {
+    "id": "DZ041_oum-el-adhaim",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.95",
+    "lon": "7.639"
+  },
+  "metadata": {},
+  "source": {}
+}

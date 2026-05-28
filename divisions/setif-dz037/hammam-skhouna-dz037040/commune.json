@@ -1,0 +1,45 @@
+{
+  "id": "DZ037040",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hammam Skhouna",
+    "en": "Hammam Skhouna",
+    "slug": "hammam-skhouna-dz037040"
+  },
+  "code": {
+    "id": "DZ037040",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.949",
+    "lon": "5.838"
+  },
+  "metadata": {},
+  "source": {}
+}

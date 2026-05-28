@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ052_ouled-khodeir_ksabi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصابي",
+      "en": "Ksabi",
+      "slug": "ksabi"
+    },
+    "code": {
+      "id": "DZ052_ouled-khodeir_ksabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_ouled-khodeir",
+      "level": 2,
+      "name": {
+        "local": "أولاد خضير",
+        "en": "Ouled Khodeir",
+        "slug": "ouled-khodeir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_ouled-khodeir",
+        "level": 2,
+        "name": {
+          "local": "أولاد خضير",
+          "en": "Ouled Khodeir",
+          "slug": "ouled-khodeir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08039"
+    ],
+    "geo": {
+      "lat": "29.099",
+      "lon": "-1.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ052_ouled-khodeir_ouled-khodeir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد خضير",
+      "en": "Ouled-Khodeir",
+      "slug": "ouled-khodeir"
+    },
+    "code": {
+      "id": "DZ052_ouled-khodeir_ouled-khodeir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_ouled-khodeir",
+      "level": 2,
+      "name": {
+        "local": "أولاد خضير",
+        "en": "Ouled Khodeir",
+        "slug": "ouled-khodeir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_ouled-khodeir",
+        "level": 2,
+        "name": {
+          "local": "أولاد خضير",
+          "en": "Ouled Khodeir",
+          "slug": "ouled-khodeir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08028"
+    ],
+    "geo": {
+      "lat": "29.099",
+      "lon": "-1.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

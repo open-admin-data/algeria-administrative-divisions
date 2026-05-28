@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ005_ouled-si-slimane_lemcene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لمسان",
+      "en": "Lemcene",
+      "slug": "lemcene"
+    },
+    "code": {
+      "id": "DZ005_ouled-si-slimane_lemcene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ouled-si-slimane",
+      "level": 2,
+      "name": {
+        "local": "أولاد سي سليمان",
+        "en": "Ouled Si Slimane",
+        "slug": "ouled-si-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ouled-si-slimane",
+        "level": 2,
+        "name": {
+          "local": "أولاد سي سليمان",
+          "en": "Ouled Si Slimane",
+          "slug": "ouled-si-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.567",
+      "lon": "5.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ouled-si-slimane_ouled-si-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سي سليمان",
+      "en": "Ouled Si Slimane",
+      "slug": "ouled-si-slimane"
+    },
+    "code": {
+      "id": "DZ005_ouled-si-slimane_ouled-si-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ouled-si-slimane",
+      "level": 2,
+      "name": {
+        "local": "أولاد سي سليمان",
+        "en": "Ouled Si Slimane",
+        "slug": "ouled-si-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ouled-si-slimane",
+        "level": 2,
+        "name": {
+          "local": "أولاد سي سليمان",
+          "en": "Ouled Si Slimane",
+          "slug": "ouled-si-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05066"
+    ],
+    "geo": {
+      "lat": "35.569",
+      "lon": "5.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ouled-si-slimane_taxlent",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاكسلانت",
+      "en": "Taxlent",
+      "slug": "taxlent"
+    },
+    "code": {
+      "id": "DZ005_ouled-si-slimane_taxlent",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ouled-si-slimane",
+      "level": 2,
+      "name": {
+        "local": "أولاد سي سليمان",
+        "en": "Ouled Si Slimane",
+        "slug": "ouled-si-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ouled-si-slimane",
+        "level": 2,
+        "name": {
+          "local": "أولاد سي سليمان",
+          "en": "Ouled Si Slimane",
+          "slug": "ouled-si-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05055"
+    ],
+    "geo": {
+      "lat": "35.564",
+      "lon": "5.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

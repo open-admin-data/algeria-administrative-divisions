@@ -1,0 +1,47 @@
+{
+  "id": "DZ049_timimoun",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيميمون",
+    "en": "Timimoun",
+    "slug": "timimoun"
+  },
+  "code": {
+    "id": "DZ049_timimoun",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ049",
+    "level": 1,
+    "name": {
+      "local": "تيميمون",
+      "en": "Timimoun",
+      "slug": "timimoun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ049",
+      "level": 1,
+      "name": {
+        "local": "تيميمون",
+        "en": "Timimoun",
+        "slug": "timimoun"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.566",
+    "lon": "0.913"
+  },
+  "metadata": {},
+  "source": {}
+}

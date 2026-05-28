@@ -1,0 +1,45 @@
+{
+  "id": "DZ001018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sebaa",
+    "en": "Sebaa",
+    "slug": "sebaa-dz001018"
+  },
+  "code": {
+    "id": "DZ001018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.255",
+    "lon": "-0.038"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ013006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj Menaiel",
+    "en": "Bordj Menaiel",
+    "slug": "bordj-menaiel-dz013006"
+  },
+  "code": {
+    "id": "DZ013006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.752",
+    "lon": "3.731"
+  },
+  "metadata": {},
+  "source": {}
+}

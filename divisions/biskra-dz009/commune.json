@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "DZ009001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Naga",
+      "en": "Ain Naga",
+      "slug": "ain-naga-dz009001"
+    },
+    "code": {
+      "id": "DZ009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.65",
+      "lon": "6.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zaatout",
+      "en": "Ain Zaatout",
+      "slug": "ain-zaatout-dz009002"
+    },
+    "code": {
+      "id": "DZ009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.171",
+      "lon": "5.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besbes",
+      "en": "Besbes",
+      "slug": "besbes-dz009003"
+    },
+    "code": {
+      "id": "DZ009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.238",
+      "lon": "4.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Biskra",
+      "en": "Biskra",
+      "slug": "biskra-dz009004"
+    },
+    "code": {
+      "id": "DZ009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.852",
+      "lon": "5.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Ben Azzouz",
+      "en": "Bordj Ben Azzouz",
+      "slug": "bordj-ben-azzouz-dz009005"
+    },
+    "code": {
+      "id": "DZ009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.731",
+      "lon": "5.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouchagroun",
+      "en": "Bouchagroun",
+      "slug": "bouchagroun-dz009006"
+    },
+    "code": {
+      "id": "DZ009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.741",
+      "lon": "5.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Branis",
+      "en": "Branis",
+      "slug": "branis-dz009007"
+    },
+    "code": {
+      "id": "DZ009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.974",
+      "lon": "5.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chetma",
+      "en": "Chetma",
+      "slug": "chetma-dz009008"
+    },
+    "code": {
+      "id": "DZ009008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.868",
+      "lon": "5.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djemorah",
+      "en": "Djemorah",
+      "slug": "djemorah-dz009009"
+    },
+    "code": {
+      "id": "DZ009009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.102",
+      "lon": "5.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doucen",
+      "en": "Doucen",
+      "slug": "doucen-dz009010"
+    },
+    "code": {
+      "id": "DZ009010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.615",
+      "lon": "5.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ech Chaiba",
+      "en": "Ech Chaiba",
+      "slug": "ech-chaiba-dz009011"
+    },
+    "code": {
+      "id": "DZ009011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.629",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Feidh",
+      "en": "El Feidh",
+      "slug": "el-feidh-dz009012"
+    },
+    "code": {
+      "id": "DZ009012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.501",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghrous",
+      "en": "El Ghrous",
+      "slug": "el-ghrous-dz009013"
+    },
+    "code": {
+      "id": "DZ009013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.722",
+      "lon": "5.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hadjeb",
+      "en": "El Hadjeb",
+      "slug": "el-hadjeb-dz009014"
+    },
+    "code": {
+      "id": "DZ009014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.8",
+      "lon": "5.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Haouch",
+      "en": "El Haouch",
+      "slug": "el-haouch-dz009015"
+    },
+    "code": {
+      "id": "DZ009015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.558",
+      "lon": "6.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kantara",
+      "en": "El Kantara",
+      "slug": "el-kantara-dz009016"
+    },
+    "code": {
+      "id": "DZ009016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.206",
+      "lon": "5.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Outaya",
+      "en": "El Outaya",
+      "slug": "el-outaya-dz009017"
+    },
+    "code": {
+      "id": "DZ009017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.98",
+      "lon": "5.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Foughala",
+      "en": "Foughala",
+      "slug": "foughala-dz009018"
+    },
+    "code": {
+      "id": "DZ009018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.764",
+      "lon": "5.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khangat Sidi Nadji",
+      "en": "Khangat Sidi Nadji",
+      "slug": "khangat-sidi-nadji-dz009019"
+    },
+    "code": {
+      "id": "DZ009019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.786",
+      "lon": "6.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lichana",
+      "en": "Lichana",
+      "slug": "lichana-dz009020"
+    },
+    "code": {
+      "id": "DZ009020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.762",
+      "lon": "5.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lioua",
+      "en": "Lioua",
+      "slug": "lioua-dz009021"
+    },
+    "code": {
+      "id": "DZ009021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.564",
+      "lon": "5.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Chouneche",
+      "en": "M'Chouneche",
+      "slug": "mchouneche-dz009022"
+    },
+    "code": {
+      "id": "DZ009022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.909",
+      "lon": "6.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Ziraa",
+      "en": "M'Ziraa",
+      "slug": "mziraa-dz009023"
+    },
+    "code": {
+      "id": "DZ009023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.889",
+      "lon": "6.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mekhadma",
+      "en": "Mekhadma",
+      "slug": "mekhadma-dz009024"
+    },
+    "code": {
+      "id": "DZ009024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.559",
+      "lon": "5.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mlili",
+      "en": "Mlili",
+      "slug": "mlili-dz009025"
+    },
+    "code": {
+      "id": "DZ009025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.581",
+      "lon": "5.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oughlal",
+      "en": "Oughlal",
+      "slug": "oughlal-dz009026"
+    },
+    "code": {
+      "id": "DZ009026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.583",
+      "lon": "5.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Djellal",
+      "en": "Ouled Djellal",
+      "slug": "ouled-djellal-dz009027"
+    },
+    "code": {
+      "id": "DZ009027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.425",
+      "lon": "5.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oumache",
+      "en": "Oumache",
+      "slug": "oumache-dz009028"
+    },
+    "code": {
+      "id": "DZ009028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.587",
+      "lon": "5.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Miaad",
+      "en": "Ras El Miaad",
+      "slug": "ras-el-miaad-dz009029"
+    },
+    "code": {
+      "id": "DZ009029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.014",
+      "lon": "4.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Khaled",
+      "en": "Sidi Khaled",
+      "slug": "sidi-khaled-dz009030"
+    },
+    "code": {
+      "id": "DZ009030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.389",
+      "lon": "4.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Okba",
+      "en": "Sidi Okba",
+      "slug": "sidi-okba-dz009031"
+    },
+    "code": {
+      "id": "DZ009031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.779",
+      "lon": "5.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tolga",
+      "en": "Tolga",
+      "slug": "tolga-dz009032"
+    },
+    "code": {
+      "id": "DZ009032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.889",
+      "lon": "5.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zeribet El Oued",
+      "en": "Zeribet El Oued",
+      "slug": "zeribet-el-oued-dz009033"
+    },
+    "code": {
+      "id": "DZ009033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra-dz009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.684",
+      "lon": "6.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

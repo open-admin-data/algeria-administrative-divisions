@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_el-milia_el-milia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الميلية",
+      "en": "El Milia",
+      "slug": "el-milia"
+    },
+    "code": {
+      "id": "DZ018_el-milia_el-milia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-milia",
+      "level": 2,
+      "name": {
+        "local": "الميلية",
+        "en": "El Milia",
+        "slug": "el-milia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-milia",
+        "level": 2,
+        "name": {
+          "local": "الميلية",
+          "en": "El Milia",
+          "slug": "el-milia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18001"
+    ],
+    "geo": {
+      "lat": "36.807",
+      "lon": "6.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-milia_ouled-yahia-khadrouch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد يحيى خدروش",
+      "en": "Ouled Yahia Khadrouch",
+      "slug": "ouled-yahia-khadrouch"
+    },
+    "code": {
+      "id": "DZ018_el-milia_ouled-yahia-khadrouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_el-milia",
+      "level": 2,
+      "name": {
+        "local": "الميلية",
+        "en": "El Milia",
+        "slug": "el-milia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_el-milia",
+        "level": 2,
+        "name": {
+          "local": "الميلية",
+          "en": "El Milia",
+          "slug": "el-milia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18021"
+    ],
+    "geo": {
+      "lat": "36.807",
+      "lon": "6.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

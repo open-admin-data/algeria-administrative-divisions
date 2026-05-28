@@ -1,0 +1,47 @@
+{
+  "id": "DZ040_bouhmama",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوحمامة",
+    "en": "Bouhmama",
+    "slug": "bouhmama"
+  },
+  "code": {
+    "id": "DZ040_bouhmama",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.294",
+    "lon": "6.74"
+  },
+  "metadata": {},
+  "source": {}
+}

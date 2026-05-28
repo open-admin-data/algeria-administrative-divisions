@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ014_sougueur_faidja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الفايجة",
+      "en": "Faidja",
+      "slug": "faidja"
+    },
+    "code": {
+      "id": "DZ014_sougueur_faidja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_sougueur",
+      "level": 2,
+      "name": {
+        "local": "السوقر",
+        "en": "Sougueur",
+        "slug": "sougueur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_sougueur",
+        "level": 2,
+        "name": {
+          "local": "السوقر",
+          "en": "Sougueur",
+          "slug": "sougueur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14049"
+    ],
+    "geo": {
+      "lat": "34.897",
+      "lon": "1.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_sougueur_si-abdelghani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سي عبد الغني",
+      "en": "Si Abdelghani",
+      "slug": "si-abdelghani"
+    },
+    "code": {
+      "id": "DZ014_sougueur_si-abdelghani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_sougueur",
+      "level": 2,
+      "name": {
+        "local": "السوقر",
+        "en": "Sougueur",
+        "slug": "sougueur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_sougueur",
+        "level": 2,
+        "name": {
+          "local": "السوقر",
+          "en": "Sougueur",
+          "slug": "sougueur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14027"
+    ],
+    "geo": {
+      "lat": "35.073",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_sougueur_sougueur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السوقر",
+      "en": "Sougueur",
+      "slug": "sougueur"
+    },
+    "code": {
+      "id": "DZ014_sougueur_sougueur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_sougueur",
+      "level": 2,
+      "name": {
+        "local": "السوقر",
+        "en": "Sougueur",
+        "slug": "sougueur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_sougueur",
+        "level": 2,
+        "name": {
+          "local": "السوقر",
+          "en": "Sougueur",
+          "slug": "sougueur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14003"
+    ],
+    "geo": {
+      "lat": "35.226",
+      "lon": "1.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_sougueur_tousnina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "توسنينة",
+      "en": "Tousnina",
+      "slug": "tousnina"
+    },
+    "code": {
+      "id": "DZ014_sougueur_tousnina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_sougueur",
+      "level": 2,
+      "name": {
+        "local": "السوقر",
+        "en": "Sougueur",
+        "slug": "sougueur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_sougueur",
+        "level": 2,
+        "name": {
+          "local": "السوقر",
+          "en": "Sougueur",
+          "slug": "sougueur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14037"
+    ],
+    "geo": {
+      "lat": "35.097",
+      "lon": "1.32"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

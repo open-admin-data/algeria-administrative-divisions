@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_el-oued",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الوادي",
+    "en": "El Oued",
+    "slug": "el-oued"
+  },
+  "code": {
+    "id": "DZ039_el-oued",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.382",
+    "lon": "6.824"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ037060",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tizi N'Bechar",
+    "en": "Tizi N'Bechar",
+    "slug": "tizi-nbechar-dz037060"
+  },
+  "code": {
+    "id": "DZ037060",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.434",
+    "lon": "5.365"
+  },
+  "metadata": {},
+  "source": {}
+}

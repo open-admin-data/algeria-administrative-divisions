@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_sidi-marouf_ouled-rabah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد رابح",
+      "en": "Ouled Rabah",
+      "slug": "ouled-rabah"
+    },
+    "code": {
+      "id": "DZ018_sidi-marouf_ouled-rabah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_sidi-marouf",
+      "level": 2,
+      "name": {
+        "local": "سيدي معروف",
+        "en": "Sidi Marouf",
+        "slug": "sidi-marouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_sidi-marouf",
+        "level": 2,
+        "name": {
+          "local": "سيدي معروف",
+          "en": "Sidi Marouf",
+          "slug": "sidi-marouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18046"
+    ],
+    "geo": {
+      "lat": "36.627",
+      "lon": "6.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_sidi-marouf_sidi-marouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي معروف",
+      "en": "Sidi Marouf",
+      "slug": "sidi-marouf"
+    },
+    "code": {
+      "id": "DZ018_sidi-marouf_sidi-marouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_sidi-marouf",
+      "level": 2,
+      "name": {
+        "local": "سيدي معروف",
+        "en": "Sidi Marouf",
+        "slug": "sidi-marouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_sidi-marouf",
+        "level": 2,
+        "name": {
+          "local": "سيدي معروف",
+          "en": "Sidi Marouf",
+          "slug": "sidi-marouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18018"
+    ],
+    "geo": {
+      "lat": "36.627",
+      "lon": "6.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

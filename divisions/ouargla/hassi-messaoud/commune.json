@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ030_hassi-messaoud_hassi-messaoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي مسعود",
+      "en": "Hassi Messaoud",
+      "slug": "hassi-messaoud"
+    },
+    "code": {
+      "id": "DZ030_hassi-messaoud_hassi-messaoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_hassi-messaoud",
+      "level": 2,
+      "name": {
+        "local": "حاسي مسعود",
+        "en": "Hassi Messaoud",
+        "slug": "hassi-messaoud"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_hassi-messaoud",
+        "level": 2,
+        "name": {
+          "local": "حاسي مسعود",
+          "en": "Hassi Messaoud",
+          "slug": "hassi-messaoud"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30001"
+    ],
+    "geo": {
+      "lat": "30.54",
+      "lon": "5.44"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

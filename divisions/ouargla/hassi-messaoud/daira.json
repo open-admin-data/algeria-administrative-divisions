@@ -1,0 +1,47 @@
+{
+  "id": "DZ030_hassi-messaoud",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حاسي مسعود",
+    "en": "Hassi Messaoud",
+    "slug": "hassi-messaoud"
+  },
+  "code": {
+    "id": "DZ030_hassi-messaoud",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.54",
+    "lon": "5.44"
+  },
+  "metadata": {},
+  "source": {}
+}

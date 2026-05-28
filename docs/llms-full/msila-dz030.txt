@@ -1,0 +1,244 @@
+# M&#39;Sila — Algeria Administrative Divisions
+
+> 47 communes
+> Code: DZ030
+> Coordinates: 35.125, 4.21
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain El Hadjel
+
+Code: DZ030001, Coordinates: 35.62, 3.864
+
+
+### Ain El Melh
+
+Code: DZ030002, Coordinates: 34.793, 4.161
+
+
+### Ain Errich
+
+Code: DZ030003, Coordinates: 34.499, 4.043
+
+
+### Ain Fares
+
+Code: DZ030004, Coordinates: 34.749, 4.484
+
+
+### Ain Khadra
+
+Code: DZ030005, Coordinates: 35.55, 4.936
+
+
+### Belaiba
+
+Code: DZ030006, Coordinates: 35.572, 5.181
+
+
+### Ben Srour
+
+Code: DZ030007, Coordinates: 34.994, 4.554
+
+
+### Beni Ilmene
+
+Code: DZ030008, Coordinates: 35.949, 4.081
+
+
+### Benzouh
+
+Code: DZ030009, Coordinates: 35.468, 4.101
+
+
+### Berhoum
+
+Code: DZ030010, Coordinates: 35.636, 4.993
+
+
+### Bir Fodda
+
+Code: DZ030011, Coordinates: 34.818, 3.852
+
+
+### Bousaada
+
+Code: DZ030012, Coordinates: 35.216, 4.184
+
+
+### Bouti Sayeh
+
+Code: DZ030013, Coordinates: 35.667, 3.676
+
+
+### Chellal
+
+Code: DZ030014, Coordinates: 35.511, 4.382
+
+
+### Dehahna
+
+Code: DZ030015, Coordinates: 35.734, 5.03
+
+
+### Djebel Messaad
+
+Code: DZ030016, Coordinates: 34.987, 4.096
+
+
+### El Hamel
+
+Code: DZ030017, Coordinates: 35.119, 4.06
+
+
+### El Houamed
+
+Code: DZ030018, Coordinates: 35.168, 4.557
+
+
+### Hammam Dhalaa
+
+Code: DZ030019, Coordinates: 35.932, 4.378
+
+
+### Khettouti Sed El Djir
+
+Code: DZ030020, Coordinates: 35.681, 4.259
+
+
+### Khoubana
+
+Code: DZ030021, Coordinates: 35.326, 4.481
+
+
+### M&#39;Cif
+
+Code: DZ030025, Coordinates: 35.328, 4.735
+
+
+### M&#39;Sila
+
+Code: DZ030029, Coordinates: 35.723, 4.505
+
+
+### M&#39;Tarfa
+
+Code: DZ030030, Coordinates: 35.69, 4.652
+
+
+### Maadid
+
+Code: DZ030022, Coordinates: 35.796, 4.757
+
+
+### Maarif
+
+Code: DZ030023, Coordinates: 35.367, 4.294
+
+
+### Magra
+
+Code: DZ030024, Coordinates: 35.613, 5.134
+
+
+### Medjedel
+
+Code: DZ030026, Coordinates: 35.063, 3.67
+
+
+### Menaa
+
+Code: DZ030027, Coordinates: 35.135, 3.719
+
+
+### Mohamed Boudiaf
+
+Code: DZ030028, Coordinates: 34.902, 4.504
+
+
+### Ouenougha
+
+Code: DZ030031, Coordinates: 35.935, 4.182
+
+
+### Ouled Addi Guebala
+
+Code: DZ030032, Coordinates: 35.677, 4.906
+
+
+### Ouled Derradj
+
+Code: DZ030033, Coordinates: 35.674, 4.786
+
+
+### Ouled Madhi
+
+Code: DZ030034, Coordinates: 35.492, 4.603
+
+
+### Ouled Mansour
+
+Code: DZ030035, Coordinates: 35.733, 4.386
+
+
+### Ouled Sidi Brahim
+
+Code: DZ030036, Coordinates: 35.356, 4.138
+
+
+### Ouled Slimane
+
+Code: DZ030037, Coordinates: 34.929, 4.854
+
+
+### Oultene
+
+Code: DZ030038, Coordinates: 35.118, 4.284
+
+
+### Sidi Aissa
+
+Code: DZ030039, Coordinates: 35.827, 3.809
+
+
+### Sidi Ameur
+
+Code: DZ030040, Coordinates: 35.368, 3.824
+
+
+### Sidi Hadjeres
+
+Code: DZ030041, Coordinates: 35.703, 4.063
+
+
+### Sidi M&#39;Hamed
+
+Code: DZ030042, Coordinates: 34.775, 4.319
+
+
+### Slim
+
+Code: DZ030043, Coordinates: 34.957, 3.862
+
+
+### Soumaa
+
+Code: DZ030044, Coordinates: 35.49, 4.776
+
+
+### Tamsa
+
+Code: DZ030045, Coordinates: 35.205, 3.924
+
+
+### Tarmount
+
+Code: DZ030046, Coordinates: 35.82, 4.272
+
+
+### Zerzour
+
+Code: DZ030047, Coordinates: 35.054, 4.871
+
+

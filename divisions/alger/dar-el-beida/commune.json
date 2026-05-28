@@ -1,0 +1,394 @@
+[
+  {
+    "id": "DZ016_dar-el-beida_ain-taya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين طاية",
+      "en": "Ain Taya",
+      "slug": "ain-taya"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_ain-taya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16019"
+    ],
+    "geo": {
+      "lat": "36.79",
+      "lon": "3.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_bab-ezzouar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "باب الزوار",
+      "en": "Bab Ezzouar",
+      "slug": "bab-ezzouar"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_bab-ezzouar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16024"
+    ],
+    "geo": {
+      "lat": "36.725",
+      "lon": "3.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_bordj-el-bahri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج البحري",
+      "en": "Bordj El Bahri",
+      "slug": "bordj-el-bahri"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_bordj-el-bahri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16046"
+    ],
+    "geo": {
+      "lat": "36.791",
+      "lon": "3.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_bordj-el-kiffan",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الكيفان",
+      "en": "Bordj El Kiffan",
+      "slug": "bordj-el-kiffan"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_bordj-el-kiffan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16031"
+    ],
+    "geo": {
+      "lat": "36.756",
+      "lon": "3.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_dar-el-beida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدار البيضاء",
+      "en": "Dar El Beida",
+      "slug": "dar-el-beida"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_dar-el-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16033"
+    ],
+    "geo": {
+      "lat": "36.704",
+      "lon": "3.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_el-marsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرسى",
+      "en": "El Marsa",
+      "slug": "el-marsa"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_el-marsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02015"
+    ],
+    "geo": {
+      "lat": "37.008",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida_mohammadia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المحمدية",
+      "en": "Mohammadia",
+      "slug": "mohammadia"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida_mohammadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_dar-el-beida",
+      "level": 2,
+      "name": {
+        "local": "الدار البيضاء",
+        "en": "Dar El Beida",
+        "slug": "dar-el-beida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_dar-el-beida",
+        "level": 2,
+        "name": {
+          "local": "الدار البيضاء",
+          "en": "Dar El Beida",
+          "slug": "dar-el-beida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16058"
+    ],
+    "geo": {
+      "lat": "35.585",
+      "lon": "0.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

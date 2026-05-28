@@ -1,0 +1,45 @@
+{
+  "id": "DZ009013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ghrous",
+    "en": "El Ghrous",
+    "slug": "el-ghrous-dz009013"
+  },
+  "code": {
+    "id": "DZ009013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.722",
+    "lon": "5.242"
+  },
+  "metadata": {},
+  "source": {}
+}

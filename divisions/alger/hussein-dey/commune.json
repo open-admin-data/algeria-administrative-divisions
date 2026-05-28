@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ016_hussein-dey_el-magharia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المغارية",
+      "en": "El Magharia",
+      "slug": "el-magharia"
+    },
+    "code": {
+      "id": "DZ016_hussein-dey_el-magharia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_hussein-dey",
+      "level": 2,
+      "name": {
+        "local": "حسين داي",
+        "en": "Hussein Dey",
+        "slug": "hussein-dey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_hussein-dey",
+        "level": 2,
+        "name": {
+          "local": "حسين داي",
+          "en": "Hussein Dey",
+          "slug": "hussein-dey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16053"
+    ],
+    "geo": {
+      "lat": "36.733",
+      "lon": "3.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_hussein-dey_hussein-dey",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حسين داي",
+      "en": "Hussein Dey",
+      "slug": "hussein-dey"
+    },
+    "code": {
+      "id": "DZ016_hussein-dey_hussein-dey",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_hussein-dey",
+      "level": 2,
+      "name": {
+        "local": "حسين داي",
+        "en": "Hussein Dey",
+        "slug": "hussein-dey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_hussein-dey",
+        "level": 2,
+        "name": {
+          "local": "حسين داي",
+          "en": "Hussein Dey",
+          "slug": "hussein-dey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16005"
+    ],
+    "geo": {
+      "lat": "36.74",
+      "lon": "3.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_hussein-dey_kouba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القبة",
+      "en": "Kouba",
+      "slug": "kouba"
+    },
+    "code": {
+      "id": "DZ016_hussein-dey_kouba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_hussein-dey",
+      "level": 2,
+      "name": {
+        "local": "حسين داي",
+        "en": "Hussein Dey",
+        "slug": "hussein-dey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_hussein-dey",
+        "level": 2,
+        "name": {
+          "local": "حسين داي",
+          "en": "Hussein Dey",
+          "slug": "hussein-dey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16009"
+    ],
+    "geo": {
+      "lat": "36.727",
+      "lon": "3.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_hussein-dey_mohamed-belouzdad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "محمد بلوزداد",
+      "en": "Mohamed Belouzdad",
+      "slug": "mohamed-belouzdad"
+    },
+    "code": {
+      "id": "DZ016_hussein-dey_mohamed-belouzdad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_hussein-dey",
+      "level": 2,
+      "name": {
+        "local": "حسين داي",
+        "en": "Hussein Dey",
+        "slug": "hussein-dey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_hussein-dey",
+        "level": 2,
+        "name": {
+          "local": "حسين داي",
+          "en": "Hussein Dey",
+          "slug": "hussein-dey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16151"
+    ],
+    "geo": {
+      "lat": "36.733",
+      "lon": "3.097"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

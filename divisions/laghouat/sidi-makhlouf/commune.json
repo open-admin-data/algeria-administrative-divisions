@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ003_sidi-makhlouf_el-assafia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العسافية",
+      "en": "El Assafia",
+      "slug": "el-assafia"
+    },
+    "code": {
+      "id": "DZ003_sidi-makhlouf_el-assafia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_sidi-makhlouf",
+      "level": 2,
+      "name": {
+        "local": "سيدي مخلوف",
+        "en": "Sidi Makhlouf",
+        "slug": "sidi-makhlouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_sidi-makhlouf",
+        "level": 2,
+        "name": {
+          "local": "سيدي مخلوف",
+          "en": "Sidi Makhlouf",
+          "slug": "sidi-makhlouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03014"
+    ],
+    "geo": {
+      "lat": "33.908",
+      "lon": "3.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_sidi-makhlouf_sidi-makhlouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي مخلوف",
+      "en": "Sidi Makhlouf",
+      "slug": "sidi-makhlouf"
+    },
+    "code": {
+      "id": "DZ003_sidi-makhlouf_sidi-makhlouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_sidi-makhlouf",
+      "level": 2,
+      "name": {
+        "local": "سيدي مخلوف",
+        "en": "Sidi Makhlouf",
+        "slug": "sidi-makhlouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_sidi-makhlouf",
+        "level": 2,
+        "name": {
+          "local": "سيدي مخلوف",
+          "en": "Sidi Makhlouf",
+          "slug": "sidi-makhlouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03019"
+    ],
+    "geo": {
+      "lat": "34.071",
+      "lon": "2.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

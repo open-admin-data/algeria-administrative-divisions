@@ -1,0 +1,47 @@
+{
+  "id": "DZ029_tizi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيزي",
+    "en": "Tizi",
+    "slug": "tizi"
+  },
+  "code": {
+    "id": "DZ029_tizi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.33",
+    "lon": "0.074"
+  },
+  "metadata": {},
+  "source": {}
+}

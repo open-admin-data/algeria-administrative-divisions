@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ038_lazharia_boucaid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقائد",
+      "en": "Boucaid",
+      "slug": "boucaid"
+    },
+    "code": {
+      "id": "DZ038_lazharia_boucaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lazharia",
+      "level": 2,
+      "name": {
+        "local": "الأزهرية",
+        "en": "Lazharia",
+        "slug": "lazharia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lazharia",
+        "level": 2,
+        "name": {
+          "local": "الأزهرية",
+          "en": "Lazharia",
+          "slug": "lazharia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38005"
+    ],
+    "geo": {
+      "lat": "35.905",
+      "lon": "1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lazharia_larbaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأربعاء",
+      "en": "Larbaa",
+      "slug": "larbaa"
+    },
+    "code": {
+      "id": "DZ038_lazharia_larbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lazharia",
+      "level": 2,
+      "name": {
+        "local": "الأزهرية",
+        "en": "Lazharia",
+        "slug": "lazharia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lazharia",
+        "level": 2,
+        "name": {
+          "local": "الأزهرية",
+          "en": "Lazharia",
+          "slug": "lazharia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09002"
+    ],
+    "geo": {
+      "lat": "35.914",
+      "lon": "1.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lazharia_lazharia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأزهرية",
+      "en": "Lazharia",
+      "slug": "lazharia"
+    },
+    "code": {
+      "id": "DZ038_lazharia_lazharia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_lazharia",
+      "level": 2,
+      "name": {
+        "local": "الأزهرية",
+        "en": "Lazharia",
+        "slug": "lazharia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_lazharia",
+        "level": 2,
+        "name": {
+          "local": "الأزهرية",
+          "en": "Lazharia",
+          "slug": "lazharia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38008"
+    ],
+    "geo": {
+      "lat": "35.961",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

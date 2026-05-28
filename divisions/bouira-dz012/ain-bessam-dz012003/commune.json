@@ -1,0 +1,45 @@
+{
+  "id": "DZ012003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Bessam",
+    "en": "Ain Bessam",
+    "slug": "ain-bessam-dz012003"
+  },
+  "code": {
+    "id": "DZ012003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira-dz012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.339",
+    "lon": "3.667"
+  },
+  "metadata": {},
+  "source": {}
+}

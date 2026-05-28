@@ -1,0 +1,47 @@
+{
+  "id": "DZ046_ain-larbaa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الأربعاء",
+    "en": "Ain Larbaa",
+    "slug": "ain-larbaa"
+  },
+  "code": {
+    "id": "DZ046_ain-larbaa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "عين تيموشنت",
+      "en": "Aïn Témouchent",
+      "slug": "an-tmouchent"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "عين تيموشنت",
+        "en": "Aïn Témouchent",
+        "slug": "an-tmouchent"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.389",
+    "lon": "-0.862"
+  },
+  "metadata": {},
+  "source": {}
+}

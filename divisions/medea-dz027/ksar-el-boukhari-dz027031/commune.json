@@ -1,0 +1,45 @@
+{
+  "id": "DZ027031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ksar El Boukhari",
+    "en": "Ksar El Boukhari",
+    "slug": "ksar-el-boukhari-dz027031"
+  },
+  "code": {
+    "id": "DZ027031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.879",
+    "lon": "2.749"
+  },
+  "metadata": {},
+  "source": {}
+}

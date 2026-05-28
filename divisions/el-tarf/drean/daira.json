@@ -1,0 +1,47 @@
+{
+  "id": "DZ036_drean",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الذرعان",
+    "en": "Drean",
+    "slug": "drean"
+  },
+  "code": {
+    "id": "DZ036_drean",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El Tarf",
+      "slug": "el-tarf"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El Tarf",
+        "slug": "el-tarf"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.65",
+    "lon": "7.796"
+  },
+  "metadata": {},
+  "source": {}
+}

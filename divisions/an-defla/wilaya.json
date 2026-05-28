@@ -1,0 +1,30 @@
+{
+  "id": "DZ044",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عين الدفلة",
+    "en": "Aïn Defla",
+    "slug": "an-defla"
+  },
+  "code": {
+    "id": "DZ044",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 14,
+    "commune": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.228",
+    "lon": "2.232"
+  },
+  "metadata": {},
+  "source": {}
+}

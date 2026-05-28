@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_guelb-el-kebir_bir-ben-laabed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر بن عابد",
+      "en": "Bir Ben Laabed",
+      "slug": "bir-ben-laabed"
+    },
+    "code": {
+      "id": "DZ026_guelb-el-kebir_bir-ben-laabed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_guelb-el-kebir",
+      "level": 2,
+      "name": {
+        "local": "القلب الكبير",
+        "en": "Guelb El Kebir",
+        "slug": "guelb-el-kebir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_guelb-el-kebir",
+        "level": 2,
+        "name": {
+          "local": "القلب الكبير",
+          "en": "Guelb El Kebir",
+          "slug": "guelb-el-kebir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26053"
+    ],
+    "geo": {
+      "lat": "36.252",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_guelb-el-kebir_el-guelbelkebir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القلب الكبير",
+      "en": "El Guelbelkebir",
+      "slug": "el-guelbelkebir"
+    },
+    "code": {
+      "id": "DZ026_guelb-el-kebir_el-guelbelkebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_guelb-el-kebir",
+      "level": 2,
+      "name": {
+        "local": "القلب الكبير",
+        "en": "Guelb El Kebir",
+        "slug": "guelb-el-kebir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_guelb-el-kebir",
+        "level": 2,
+        "name": {
+          "local": "القلب الكبير",
+          "en": "Guelb El Kebir",
+          "slug": "guelb-el-kebir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26030"
+    ],
+    "geo": {
+      "lat": "36.252",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_guelb-el-kebir_sedraya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سدراية",
+      "en": "Sedraya",
+      "slug": "sedraya"
+    },
+    "code": {
+      "id": "DZ026_guelb-el-kebir_sedraya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_guelb-el-kebir",
+      "level": 2,
+      "name": {
+        "local": "القلب الكبير",
+        "en": "Guelb El Kebir",
+        "slug": "guelb-el-kebir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_guelb-el-kebir",
+        "level": 2,
+        "name": {
+          "local": "القلب الكبير",
+          "en": "Guelb El Kebir",
+          "slug": "guelb-el-kebir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26068"
+    ],
+    "geo": {
+      "lat": "36.252",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

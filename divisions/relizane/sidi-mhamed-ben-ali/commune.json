@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ048_sidi-mhamed-ben-ali_beni-zentis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني زنطيس",
+      "en": "Beni Zentis",
+      "slug": "beni-zentis"
+    },
+    "code": {
+      "id": "DZ048_sidi-mhamed-ben-ali_beni-zentis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_sidi-mhamed-ben-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي أمحمد بن علي",
+        "en": "Sidi M'hamed Ben Ali",
+        "slug": "sidi-mhamed-ben-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_sidi-mhamed-ben-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي أمحمد بن علي",
+          "en": "Sidi M'hamed Ben Ali",
+          "slug": "sidi-mhamed-ben-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48041"
+    ],
+    "geo": {
+      "lat": "36.093",
+      "lon": "0.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_sidi-mhamed-ben-ali_mediouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مديونة",
+      "en": "Mediouna",
+      "slug": "mediouna"
+    },
+    "code": {
+      "id": "DZ048_sidi-mhamed-ben-ali_mediouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_sidi-mhamed-ben-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي أمحمد بن علي",
+        "en": "Sidi M'hamed Ben Ali",
+        "slug": "sidi-mhamed-ben-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_sidi-mhamed-ben-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي أمحمد بن علي",
+          "en": "Sidi M'hamed Ben Ali",
+          "slug": "sidi-mhamed-ben-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48011"
+    ],
+    "geo": {
+      "lat": "36.142",
+      "lon": "0.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_sidi-mhamed-ben-ali_sidi-mhamed-benali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي أمحمد بن علي",
+      "en": "Sidi M'hamed Benali",
+      "slug": "sidi-mhamed-benali"
+    },
+    "code": {
+      "id": "DZ048_sidi-mhamed-ben-ali_sidi-mhamed-benali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_sidi-mhamed-ben-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي أمحمد بن علي",
+        "en": "Sidi M'hamed Ben Ali",
+        "slug": "sidi-mhamed-ben-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_sidi-mhamed-ben-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي أمحمد بن علي",
+          "en": "Sidi M'hamed Ben Ali",
+          "slug": "sidi-mhamed-ben-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48003"
+    ],
+    "geo": {
+      "lat": "36.118",
+      "lon": "0.707"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

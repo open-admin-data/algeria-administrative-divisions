@@ -1,0 +1,338 @@
+[
+  {
+    "id": "DZ029_mohammadia_el-ghomri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغمري",
+      "en": "El Ghomri",
+      "slug": "el-ghomri"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_el-ghomri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29023"
+    ],
+    "geo": {
+      "lat": "35.68",
+      "lon": "0.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia_ferraguig",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فراقيق",
+      "en": "Ferraguig",
+      "slug": "ferraguig"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_ferraguig",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29046"
+    ],
+    "geo": {
+      "lat": "35.555",
+      "lon": "0.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia_mocta-douz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مقطع الدوز",
+      "en": "Mocta-Douz",
+      "slug": "mocta-douz"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_mocta-douz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29027"
+    ],
+    "geo": {
+      "lat": "35.623",
+      "lon": "0.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia_mohammadia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المحمدية",
+      "en": "Mohammadia",
+      "slug": "mohammadia"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_mohammadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16058"
+    ],
+    "geo": {
+      "lat": "35.585",
+      "lon": "0.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia_sedjerara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سجرارة",
+      "en": "Sedjerara",
+      "slug": "sedjerara"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_sedjerara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29062"
+    ],
+    "geo": {
+      "lat": "35.607",
+      "lon": "0.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia_sidi-abdelmoumene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عبد المومن",
+      "en": "Sidi Abdelmoumene",
+      "slug": "sidi-abdelmoumene"
+    },
+    "code": {
+      "id": "DZ029_mohammadia_sidi-abdelmoumene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_mohammadia",
+      "level": 2,
+      "name": {
+        "local": "المحمدية",
+        "en": "Mohammadia",
+        "slug": "mohammadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_mohammadia",
+        "level": 2,
+        "name": {
+          "local": "المحمدية",
+          "en": "Mohammadia",
+          "slug": "mohammadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29054"
+    ],
+    "geo": {
+      "lat": "35.689",
+      "lon": "0.012"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

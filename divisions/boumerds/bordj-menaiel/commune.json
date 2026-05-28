@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ035_bordj-menaiel_bordj-menaiel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج منايل",
+      "en": "Bordj Menaiel",
+      "slug": "bordj-menaiel"
+    },
+    "code": {
+      "id": "DZ035_bordj-menaiel_bordj-menaiel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_bordj-menaiel",
+      "level": 2,
+      "name": {
+        "local": "برج منايل",
+        "en": "Bordj Menaiel",
+        "slug": "bordj-menaiel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_bordj-menaiel",
+        "level": 2,
+        "name": {
+          "local": "برج منايل",
+          "en": "Bordj Menaiel",
+          "slug": "bordj-menaiel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35001"
+    ],
+    "geo": {
+      "lat": "36.752",
+      "lon": "3.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_bordj-menaiel_djinet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جنات",
+      "en": "Djinet",
+      "slug": "djinet"
+    },
+    "code": {
+      "id": "DZ035_bordj-menaiel_djinet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_bordj-menaiel",
+      "level": 2,
+      "name": {
+        "local": "برج منايل",
+        "en": "Bordj Menaiel",
+        "slug": "bordj-menaiel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_bordj-menaiel",
+        "level": 2,
+        "name": {
+          "local": "برج منايل",
+          "en": "Bordj Menaiel",
+          "slug": "bordj-menaiel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35024"
+    ],
+    "geo": {
+      "lat": "36.847",
+      "lon": "3.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_bordj-menaiel_leghata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لقاطة",
+      "en": "Leghata",
+      "slug": "leghata"
+    },
+    "code": {
+      "id": "DZ035_bordj-menaiel_leghata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_bordj-menaiel",
+      "level": 2,
+      "name": {
+        "local": "برج منايل",
+        "en": "Bordj Menaiel",
+        "slug": "bordj-menaiel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_bordj-menaiel",
+        "level": 2,
+        "name": {
+          "local": "برج منايل",
+          "en": "Bordj Menaiel",
+          "slug": "bordj-menaiel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35026"
+    ],
+    "geo": {
+      "lat": "36.795",
+      "lon": "3.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_bordj-menaiel_zemmouri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زموري",
+      "en": "Zemmouri",
+      "slug": "zemmouri"
+    },
+    "code": {
+      "id": "DZ035_bordj-menaiel_zemmouri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_bordj-menaiel",
+      "level": 2,
+      "name": {
+        "local": "برج منايل",
+        "en": "Bordj Menaiel",
+        "slug": "bordj-menaiel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_bordj-menaiel",
+        "level": 2,
+        "name": {
+          "local": "برج منايل",
+          "en": "Bordj Menaiel",
+          "slug": "bordj-menaiel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35012"
+    ],
+    "geo": {
+      "lat": "36.786",
+      "lon": "3.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

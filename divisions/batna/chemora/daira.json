@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_chemora",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الشمرة",
+    "en": "Chemora",
+    "slug": "chemora"
+  },
+  "code": {
+    "id": "DZ005_chemora",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.633",
+    "lon": "6.608"
+  },
+  "metadata": {},
+  "source": {}
+}

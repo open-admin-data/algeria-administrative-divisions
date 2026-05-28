@@ -1,0 +1,45 @@
+{
+  "id": "DZ027038",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouamri",
+    "en": "Ouamri",
+    "slug": "ouamri-dz027038"
+  },
+  "code": {
+    "id": "DZ027038",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.257",
+    "lon": "2.556"
+  },
+  "metadata": {},
+  "source": {}
+}

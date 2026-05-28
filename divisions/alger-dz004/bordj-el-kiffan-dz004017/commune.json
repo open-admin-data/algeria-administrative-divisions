@@ -1,0 +1,45 @@
+{
+  "id": "DZ004017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj El Kiffan",
+    "en": "Bordj El Kiffan",
+    "slug": "bordj-el-kiffan-dz004017"
+  },
+  "code": {
+    "id": "DZ004017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.756",
+    "lon": "3.223"
+  },
+  "metadata": {},
+  "source": {}
+}

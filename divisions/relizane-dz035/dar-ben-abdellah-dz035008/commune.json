@@ -1,0 +1,45 @@
+{
+  "id": "DZ035008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Dar Ben Abdellah",
+    "en": "Dar Ben Abdellah",
+    "slug": "dar-ben-abdellah-dz035008"
+  },
+  "code": {
+    "id": "DZ035008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.683",
+    "lon": "0.723"
+  },
+  "metadata": {},
+  "source": {}
+}

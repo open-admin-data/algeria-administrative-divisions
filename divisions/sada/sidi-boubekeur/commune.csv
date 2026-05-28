@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+DZ020_sidi-boubekeur_hounet,هونت,Hounet,hounet,DZ020_sidi-boubekeur_hounet,20025,35.091,-0.158
+DZ020_sidi-boubekeur_ouled-khaled,أولاد خالد,Ouled Khaled,ouled-khaled,DZ020_sidi-boubekeur_ouled-khaled,20004,34.924,0.175
+DZ020_sidi-boubekeur_sidi-amar,سيدي عمر,Sidi Amar,sidi-amar,DZ020_sidi-boubekeur_sidi-amar,20019,36.56,2.322
+DZ020_sidi-boubekeur_sidi-boubekeur,سيدي بوبكر,Sidi Boubekeur,sidi-boubekeur,DZ020_sidi-boubekeur_sidi-boubekeur,20007,35.002,-0.027

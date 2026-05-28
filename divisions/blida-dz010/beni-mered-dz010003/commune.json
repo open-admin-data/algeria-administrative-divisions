@@ -1,0 +1,45 @@
+{
+  "id": "DZ010003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Mered",
+    "en": "Beni Mered",
+    "slug": "beni-mered-dz010003"
+  },
+  "code": {
+    "id": "DZ010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.536",
+    "lon": "2.86"
+  },
+  "metadata": {},
+  "source": {}
+}

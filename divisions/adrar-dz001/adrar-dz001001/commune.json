@@ -1,0 +1,45 @@
+{
+  "id": "DZ001001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Adrar",
+    "en": "Adrar",
+    "slug": "adrar-dz001001"
+  },
+  "code": {
+    "id": "DZ001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.942",
+    "lon": "-0.215"
+  },
+  "metadata": {},
+  "source": {}
+}

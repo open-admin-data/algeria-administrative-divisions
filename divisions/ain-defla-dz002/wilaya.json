@@ -1,0 +1,29 @@
+{
+  "id": "DZ002",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عين الدفلى",
+    "en": "Ain-Defla",
+    "slug": "ain-defla-dz002"
+  },
+  "code": {
+    "id": "DZ002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.161",
+    "lon": "2.086"
+  },
+  "metadata": {},
+  "source": {}
+}

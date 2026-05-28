@@ -1,0 +1,45 @@
+{
+  "id": "DZ007014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mechraa Houari Boumediene",
+    "en": "Mechraa Houari Boumediene",
+    "slug": "mechraa-houari-boumediene-dz007014"
+  },
+  "code": {
+    "id": "DZ007014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.679",
+    "lon": "-2.99"
+  },
+  "metadata": {},
+  "source": {}
+}

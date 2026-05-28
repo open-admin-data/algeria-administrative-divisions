@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_berrouaghia_berrouaghia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البرواقية",
+      "en": "Berrouaghia",
+      "slug": "berrouaghia"
+    },
+    "code": {
+      "id": "DZ026_berrouaghia_berrouaghia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_berrouaghia",
+      "level": 2,
+      "name": {
+        "local": "البرواقية",
+        "en": "Berrouaghia",
+        "slug": "berrouaghia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_berrouaghia",
+        "level": 2,
+        "name": {
+          "local": "البرواقية",
+          "en": "Berrouaghia",
+          "slug": "berrouaghia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26002"
+    ],
+    "geo": {
+      "lat": "36.157",
+      "lon": "2.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_berrouaghia_ouled-deid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد دايد",
+      "en": "Ouled Deid",
+      "slug": "ouled-deid"
+    },
+    "code": {
+      "id": "DZ026_berrouaghia_ouled-deid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_berrouaghia",
+      "level": 2,
+      "name": {
+        "local": "البرواقية",
+        "en": "Berrouaghia",
+        "slug": "berrouaghia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_berrouaghia",
+        "level": 2,
+        "name": {
+          "local": "البرواقية",
+          "en": "Berrouaghia",
+          "slug": "berrouaghia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26044"
+    ],
+    "geo": {
+      "lat": "36.092",
+      "lon": "3.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_berrouaghia_rebaia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الربعية",
+      "en": "Rebaia",
+      "slug": "rebaia"
+    },
+    "code": {
+      "id": "DZ026_berrouaghia_rebaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_berrouaghia",
+      "level": 2,
+      "name": {
+        "local": "البرواقية",
+        "en": "Berrouaghia",
+        "slug": "berrouaghia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_berrouaghia",
+        "level": 2,
+        "name": {
+          "local": "البرواقية",
+          "en": "Berrouaghia",
+          "slug": "berrouaghia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26039"
+    ],
+    "geo": {
+      "lat": "36.027",
+      "lon": "3.136"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

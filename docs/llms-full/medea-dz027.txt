@@ -1,0 +1,329 @@
+# Medea — Algeria Administrative Divisions
+
+> 64 communes
+> Code: DZ027
+> Coordinates: 35.978, 3.012
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Boucif
+
+Code: DZ027001, Coordinates: 35.838, 3.159
+
+
+### Ain Ouksir
+
+Code: DZ027002, Coordinates: 35.78, 3.485
+
+
+### Aissaouia
+
+Code: DZ027003, Coordinates: 36.414, 3.222
+
+
+### Aziz
+
+Code: DZ027004, Coordinates: 35.755, 2.507
+
+
+### Baata
+
+Code: DZ027005, Coordinates: 36.374, 3.134
+
+
+### Ben Chicao
+
+Code: DZ027006, Coordinates: 36.192, 2.856
+
+
+### Beni Slimane
+
+Code: DZ027007, Coordinates: 36.221, 3.299
+
+
+### Berrouaghia
+
+Code: DZ027008, Coordinates: 36.157, 2.922
+
+
+### Bir Ben Abed
+
+Code: DZ027009, Coordinates: 36.194, 3.41
+
+
+### Boghar
+
+Code: DZ027010, Coordinates: 35.94, 2.701
+
+
+### Bouaiche
+
+Code: DZ027011, Coordinates: 35.614, 2.369
+
+
+### Bouaichoune
+
+Code: DZ027012, Coordinates: 36.139, 2.652
+
+
+### Bouchrahil
+
+Code: DZ027013, Coordinates: 36.277, 3.195
+
+
+### Boughzoul
+
+Code: DZ027014, Coordinates: 35.684, 2.842
+
+
+### Bouskene
+
+Code: DZ027015, Coordinates: 36.198, 3.217
+
+
+### Chahbounia
+
+Code: DZ027016, Coordinates: 35.588, 2.594
+
+
+### Chellalat El Adhaoura
+
+Code: DZ027017, Coordinates: 35.966, 3.43
+
+
+### Cheniguel
+
+Code: DZ027018, Coordinates: 35.962, 3.526
+
+
+### Derrag
+
+Code: DZ027019, Coordinates: 35.846, 2.367
+
+
+### Deux Bassins
+
+Code: DZ027020, Coordinates: 36.471, 3.307
+
+
+### Djouab
+
+Code: DZ027021, Coordinates: 36.114, 3.44
+
+
+### Draa Essmar
+
+Code: DZ027022, Coordinates: 36.274, 2.704
+
+
+### El Aouinet
+
+Code: DZ027023, Coordinates: 35.867, 3.07
+
+
+### El Azizia
+
+Code: DZ027024, Coordinates: 36.319, 3.493
+
+
+### El Guelbelkebir
+
+Code: DZ027025, Coordinates: 36.252, 3.427
+
+
+### El Hamdania
+
+Code: DZ027026, Coordinates: 36.35, 2.858
+
+
+### El Omaria
+
+Code: DZ027027, Coordinates: 36.306, 3.009
+
+
+### Hannacha
+
+Code: DZ027028, Coordinates: 36.173, 2.598
+
+
+### Kef Lakhdar
+
+Code: DZ027029, Coordinates: 35.93, 3.257
+
+
+### Khams Djouamaa
+
+Code: DZ027030, Coordinates: 36.151, 3.137
+
+
+### Ksar El Boukhari
+
+Code: DZ027031, Coordinates: 35.879, 2.749
+
+
+### M&#39;Fatha
+
+Code: DZ027035, Coordinates: 35.885, 2.909
+
+
+### Maghraoua
+
+Code: DZ027032, Coordinates: 36.383, 3.531
+
+
+### Medea
+
+Code: DZ027033, Coordinates: 36.289, 2.761
+
+
+### Mezrenna
+
+Code: DZ027034, Coordinates: 36.35, 3.335
+
+
+### Mihoub
+
+Code: DZ027036, Coordinates: 36.389, 3.454
+
+
+### Moudjebeur
+
+Code: DZ027037, Coordinates: 35.96, 2.81
+
+
+### Ouamri
+
+Code: DZ027038, Coordinates: 36.257, 2.556
+
+
+### Oued Harbil
+
+Code: DZ027039, Coordinates: 36.244, 2.641
+
+
+### Ouled Antar
+
+Code: DZ027040, Coordinates: 35.957, 2.607
+
+
+### Ouled Bouachra
+
+Code: DZ027041, Coordinates: 36.102, 2.705
+
+
+### Ouled Brahim
+
+Code: DZ027042, Coordinates: 36.222, 2.964
+
+
+### Ouled Deide
+
+Code: DZ027043, Coordinates: 36.108, 3.046
+
+
+### Ouled Hellal
+
+Code: DZ027044, Coordinates: 36.006, 2.524
+
+
+### Ouled Maaref
+
+Code: DZ027045, Coordinates: 35.803, 3.062
+
+
+### Oum El Djalil
+
+Code: DZ027046, Coordinates: 35.833, 2.666
+
+
+### Ouzera
+
+Code: DZ027047, Coordinates: 36.265, 2.892
+
+
+### Rebaia
+
+Code: DZ027048, Coordinates: 36.027, 3.136
+
+
+### Saneg
+
+Code: DZ027049, Coordinates: 35.843, 2.82
+
+
+### Sedraia
+
+Code: DZ027050, Coordinates: 36.238, 3.521
+
+
+### Seghouane
+
+Code: DZ027051, Coordinates: 35.999, 2.899
+
+
+### Si Mahdjoub
+
+Code: DZ027052, Coordinates: 36.175, 2.759
+
+
+### Sidi Damed
+
+Code: DZ027053, Coordinates: 35.825, 3.33
+
+
+### Sidi Errabia
+
+Code: DZ027054, Coordinates: 36.286, 3.33
+
+
+### Sidi Naamane
+
+Code: DZ027055, Coordinates: 36.269, 3.083
+
+
+### Sidi Zahar
+
+Code: DZ027056, Coordinates: 36.075, 3.326
+
+
+### Sidi Ziane
+
+Code: DZ027057, Coordinates: 36.031, 3.249
+
+
+### Souagui
+
+Code: DZ027058, Coordinates: 36.115, 3.25
+
+
+### Tablat
+
+Code: DZ027059, Coordinates: 36.426, 3.336
+
+
+### Tafraout
+
+Code: DZ027060, Coordinates: 35.999, 3.34
+
+
+### Tamesguida
+
+Code: DZ027061, Coordinates: 36.323, 2.664
+
+
+### Tizi Mahdi
+
+Code: DZ027062, Coordinates: 36.215, 2.752
+
+
+### Tlatet Ed Douair
+
+Code: DZ027063, Coordinates: 36, 3.003
+
+
+### Zoubiria
+
+Code: DZ027064, Coordinates: 36.07, 2.86
+
+

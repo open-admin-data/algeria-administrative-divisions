@@ -1,0 +1,45 @@
+{
+  "id": "DZ033001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Beida",
+    "en": "Ain Beida",
+    "slug": "ain-beida-dz033001"
+  },
+  "code": {
+    "id": "DZ033001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.684",
+    "lon": "5.528"
+  },
+  "metadata": {},
+  "source": {}
+}

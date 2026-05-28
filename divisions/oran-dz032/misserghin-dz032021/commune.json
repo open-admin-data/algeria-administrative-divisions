@@ -1,0 +1,45 @@
+{
+  "id": "DZ032021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Misserghin",
+    "en": "Misserghin",
+    "slug": "misserghin-dz032021"
+  },
+  "code": {
+    "id": "DZ032021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.58",
+    "lon": "-0.699"
+  },
+  "metadata": {},
+  "source": {}
+}

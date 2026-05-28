@@ -1,0 +1,87 @@
+# Annaba — Algeria Administrative Divisions
+
+> 6 dairas, 12 communes
+> Code: DZ023
+> Coordinates: 36.846, 7.6
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الباردة (Ain El Berda)
+
+Code: DZ023_ain-el-berda, Coordinates: 36.446, 6.637
+Communes: 3
+
+#### عين الباردة (Ain El Berda)
+
+Code: DZ023_ain-el-berda_ain-el-berda, Postal: 23006, Coordinates: 36.446, 6.637
+
+#### الشرفة (Cheurfa)
+
+Code: DZ023_ain-el-berda_cheurfa, Postal: 23025, Coordinates: 36.723, 7.575
+
+#### العلمة (El Eulma)
+
+Code: DZ023_ain-el-berda_el-eulma, Postal: 19001, Coordinates: 36.169, 5.699
+
+### عنابة (Annaba)
+
+Code: DZ023_annaba, Coordinates: 36.933, 7.692
+Communes: 2
+
+#### عنابة (Annaba)
+
+Code: DZ023_annaba_annaba, Postal: 23000, Coordinates: 36.92, 7.742
+
+#### سرايدي (Seraidi)
+
+Code: DZ023_annaba_seraidi, Postal: 23015, Coordinates: 36.945, 7.642
+
+### برحال (Berrahal)
+
+Code: DZ023_berrahal, Coordinates: 36.936, 7.465
+Communes: 3
+
+#### برحال (Berrahal)
+
+Code: DZ023_berrahal_berrahal, Postal: 23009, Coordinates: 36.936, 7.465
+
+#### واد العنب (Oued El Aneb)
+
+Code: DZ023_berrahal_oued-el-aneb, Postal: 23021, Coordinates: 36.937, 7.524
+
+#### التريعات (Treat)
+
+Code: DZ023_berrahal_treat, Coordinates: 36.935, 7.406
+
+### شطايبي (Chetaibi)
+
+Code: DZ023_chetaibi, Coordinates: 37.012, 7.405
+Communes: 1
+
+#### شطايبي (Chetaibi)
+
+Code: DZ023_chetaibi_chetaibi, Postal: 23014, Coordinates: 37.012, 7.405
+
+### البوني (El Bouni)
+
+Code: DZ023_el-bouni, Coordinates: 36.843, 7.75
+Communes: 1
+
+#### البوني (El Bouni)
+
+Code: DZ023_el-bouni_el-bouni, Postal: 23010, Coordinates: 36.843, 7.75
+
+### الحجار (El Hadjar)
+
+Code: DZ023_el-hadjar, Coordinates: 36.669, 5.002
+Communes: 2
+
+#### الحجار (El Hadjar)
+
+Code: DZ023_el-hadjar_el-hadjar, Postal: 23004, Coordinates: 36.777, 7.681
+
+#### سيدي عمار (Sidi Amar)
+
+Code: DZ023_el-hadjar_sidi-amar, Postal: 20019, Coordinates: 36.56, 2.322
+

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ013_ghazaouet_dar-yaghmoracen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دار يغمراسن",
+      "en": "Dar Yaghmoracen",
+      "slug": "dar-yaghmoracen"
+    },
+    "code": {
+      "id": "DZ013_ghazaouet_dar-yaghmoracen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ghazaouet",
+      "level": 2,
+      "name": {
+        "local": "الغزوات",
+        "en": "Ghazaouet",
+        "slug": "ghazaouet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ghazaouet",
+        "level": 2,
+        "name": {
+          "local": "الغزوات",
+          "en": "Ghazaouet",
+          "slug": "ghazaouet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13032"
+    ],
+    "geo": {
+      "lat": "35.058",
+      "lon": "-1.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ghazaouet_ghazaouet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغزوات",
+      "en": "Ghazaouet",
+      "slug": "ghazaouet"
+    },
+    "code": {
+      "id": "DZ013_ghazaouet_ghazaouet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ghazaouet",
+      "level": 2,
+      "name": {
+        "local": "الغزوات",
+        "en": "Ghazaouet",
+        "slug": "ghazaouet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ghazaouet",
+        "level": 2,
+        "name": {
+          "local": "الغزوات",
+          "en": "Ghazaouet",
+          "slug": "ghazaouet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13002"
+    ],
+    "geo": {
+      "lat": "35.085",
+      "lon": "-1.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ghazaouet_souahlia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السواحلية",
+      "en": "Souahlia",
+      "slug": "souahlia"
+    },
+    "code": {
+      "id": "DZ013_ghazaouet_souahlia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ghazaouet",
+      "level": 2,
+      "name": {
+        "local": "الغزوات",
+        "en": "Ghazaouet",
+        "slug": "ghazaouet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ghazaouet",
+        "level": 2,
+        "name": {
+          "local": "الغزوات",
+          "en": "Ghazaouet",
+          "slug": "ghazaouet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13020"
+    ],
+    "geo": {
+      "lat": "35.03",
+      "lon": "-1.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ghazaouet_tianet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيانت",
+      "en": "Tianet",
+      "slug": "tianet"
+    },
+    "code": {
+      "id": "DZ013_ghazaouet_tianet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ghazaouet",
+      "level": 2,
+      "name": {
+        "local": "الغزوات",
+        "en": "Ghazaouet",
+        "slug": "ghazaouet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ghazaouet",
+        "level": 2,
+        "name": {
+          "local": "الغزوات",
+          "en": "Ghazaouet",
+          "slug": "ghazaouet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13047"
+    ],
+    "geo": {
+      "lat": "35.058",
+      "lon": "-1.879"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

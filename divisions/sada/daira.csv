@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ020_ain-el-hadjar,عين الحجر,Ain El Hadjar,ain-el-hadjar,DZ020_ain-el-hadjar,3,34.634,0.013
+DZ020_el-hassasna,الحساسنة,El Hassasna,el-hassasna,DZ020_el-hassasna,3,34.68,0.431
+DZ020_ouled-brahim,أولاد ابراهيم,Ouled Brahim,ouled-brahim,DZ020_ouled-brahim,3,35.397,2.83
+DZ020_saida,سعيدة,Saida,saida,DZ020_saida,1,34.847,0.127
+DZ020_sidi-boubekeur,سيدي بوبكر,Sidi Boubekeur,sidi-boubekeur,DZ020_sidi-boubekeur,4,35.394,0.578
+DZ020_youb,يوب,Youb,youb,DZ020_youb,2,34.892,-0.118

@@ -1,0 +1,45 @@
+{
+  "id": "DZ029025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Belattar",
+    "en": "Sidi Belattar",
+    "slug": "sidi-belattar-dz029025"
+  },
+  "code": {
+    "id": "DZ029025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.046",
+    "lon": "0.28"
+  },
+  "metadata": {},
+  "source": {}
+}

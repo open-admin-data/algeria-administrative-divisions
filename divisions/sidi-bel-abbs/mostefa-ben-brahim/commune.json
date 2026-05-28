@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_mostefa-ben-brahim_belarbi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلعربي",
+      "en": "Belarbi",
+      "slug": "belarbi"
+    },
+    "code": {
+      "id": "DZ022_mostefa-ben-brahim_belarbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_mostefa-ben-brahim",
+      "level": 2,
+      "name": {
+        "local": "مصطفى بن ابراهيم",
+        "en": "Mostefa  Ben Brahim",
+        "slug": "mostefa-ben-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_mostefa-ben-brahim",
+        "level": 2,
+        "name": {
+          "local": "مصطفى بن ابراهيم",
+          "en": "Mostefa  Ben Brahim",
+          "slug": "mostefa-ben-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22023"
+    ],
+    "geo": {
+      "lat": "35.134",
+      "lon": "-0.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_mostefa-ben-brahim_mostefa-ben-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مصطفى بن ابراهيم",
+      "en": "Mostefa  Ben Brahim",
+      "slug": "mostefa-ben-brahim"
+    },
+    "code": {
+      "id": "DZ022_mostefa-ben-brahim_mostefa-ben-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_mostefa-ben-brahim",
+      "level": 2,
+      "name": {
+        "local": "مصطفى بن ابراهيم",
+        "en": "Mostefa  Ben Brahim",
+        "slug": "mostefa-ben-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_mostefa-ben-brahim",
+        "level": 2,
+        "name": {
+          "local": "مصطفى بن ابراهيم",
+          "en": "Mostefa  Ben Brahim",
+          "slug": "mostefa-ben-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22013"
+    ],
+    "geo": {
+      "lat": "35.176",
+      "lon": "-0.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_mostefa-ben-brahim_tilmouni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تلموني",
+      "en": "Tilmouni",
+      "slug": "tilmouni"
+    },
+    "code": {
+      "id": "DZ022_mostefa-ben-brahim_tilmouni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_mostefa-ben-brahim",
+      "level": 2,
+      "name": {
+        "local": "مصطفى بن ابراهيم",
+        "en": "Mostefa  Ben Brahim",
+        "slug": "mostefa-ben-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_mostefa-ben-brahim",
+        "level": 2,
+        "name": {
+          "local": "مصطفى بن ابراهيم",
+          "en": "Mostefa  Ben Brahim",
+          "slug": "mostefa-ben-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22044"
+    ],
+    "geo": {
+      "lat": "35.188",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_mostefa-ben-brahim_zerouala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زروالة",
+      "en": "Zerouala",
+      "slug": "zerouala"
+    },
+    "code": {
+      "id": "DZ022_mostefa-ben-brahim_zerouala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_mostefa-ben-brahim",
+      "level": 2,
+      "name": {
+        "local": "مصطفى بن ابراهيم",
+        "en": "Mostefa  Ben Brahim",
+        "slug": "mostefa-ben-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_mostefa-ben-brahim",
+        "level": 2,
+        "name": {
+          "local": "مصطفى بن ابراهيم",
+          "en": "Mostefa  Ben Brahim",
+          "slug": "mostefa-ben-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22068"
+    ],
+    "geo": {
+      "lat": "35.246",
+      "lon": "-0.452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

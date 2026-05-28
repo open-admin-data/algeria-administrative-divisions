@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_draa-ben-khedda_draa-ben-khedda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ذراع بن خدة",
+      "en": "Draa-Ben-Khedda",
+      "slug": "draa-ben-khedda"
+    },
+    "code": {
+      "id": "DZ015_draa-ben-khedda_draa-ben-khedda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-ben-khedda",
+      "level": 2,
+      "name": {
+        "local": "ذراع بن خدة",
+        "en": "Draa Ben Khedda",
+        "slug": "draa-ben-khedda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-ben-khedda",
+        "level": 2,
+        "name": {
+          "local": "ذراع بن خدة",
+          "en": "Draa Ben Khedda",
+          "slug": "draa-ben-khedda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15004"
+    ],
+    "geo": {
+      "lat": "36.724",
+      "lon": "3.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-ben-khedda_sidi-namane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي نعمان",
+      "en": "Sidi Namane",
+      "slug": "sidi-namane"
+    },
+    "code": {
+      "id": "DZ015_draa-ben-khedda_sidi-namane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-ben-khedda",
+      "level": 2,
+      "name": {
+        "local": "ذراع بن خدة",
+        "en": "Draa Ben Khedda",
+        "slug": "draa-ben-khedda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-ben-khedda",
+        "level": 2,
+        "name": {
+          "local": "ذراع بن خدة",
+          "en": "Draa Ben Khedda",
+          "slug": "draa-ben-khedda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15042"
+    ],
+    "geo": {
+      "lat": "36.705",
+      "lon": "3.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-ben-khedda_tadmait",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تادمايت",
+      "en": "Tadmait",
+      "slug": "tadmait"
+    },
+    "code": {
+      "id": "DZ015_draa-ben-khedda_tadmait",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-ben-khedda",
+      "level": 2,
+      "name": {
+        "local": "ذراع بن خدة",
+        "en": "Draa Ben Khedda",
+        "slug": "draa-ben-khedda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-ben-khedda",
+        "level": 2,
+        "name": {
+          "local": "ذراع بن خدة",
+          "en": "Draa Ben Khedda",
+          "slug": "draa-ben-khedda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15018"
+    ],
+    "geo": {
+      "lat": "36.721",
+      "lon": "3.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_draa-ben-khedda_tirmitine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيرمتين",
+      "en": "Tirmitine",
+      "slug": "tirmitine"
+    },
+    "code": {
+      "id": "DZ015_draa-ben-khedda_tirmitine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_draa-ben-khedda",
+      "level": 2,
+      "name": {
+        "local": "ذراع بن خدة",
+        "en": "Draa Ben Khedda",
+        "slug": "draa-ben-khedda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_draa-ben-khedda",
+        "level": 2,
+        "name": {
+          "local": "ذراع بن خدة",
+          "en": "Draa Ben Khedda",
+          "slug": "draa-ben-khedda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15048"
+    ],
+    "geo": {
+      "lat": "36.671",
+      "lon": "3.966"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

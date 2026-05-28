@@ -1,0 +1,45 @@
+{
+  "id": "DZ013011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chabet El Ameur",
+    "en": "Chabet El Ameur",
+    "slug": "chabet-el-ameur-dz013011"
+  },
+  "code": {
+    "id": "DZ013011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.636",
+    "lon": "3.68"
+  },
+  "metadata": {},
+  "source": {}
+}

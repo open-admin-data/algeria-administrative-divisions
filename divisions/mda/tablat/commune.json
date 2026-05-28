@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ026_tablat_aissaouia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العيساوية",
+      "en": "Aissaouia",
+      "slug": "aissaouia"
+    },
+    "code": {
+      "id": "DZ026_tablat_aissaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_tablat",
+      "level": 2,
+      "name": {
+        "local": "تابلاط",
+        "en": "Tablat",
+        "slug": "tablat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_tablat",
+        "level": 2,
+        "name": {
+          "local": "تابلاط",
+          "en": "Tablat",
+          "slug": "tablat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26022"
+    ],
+    "geo": {
+      "lat": "36.414",
+      "lon": "3.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_tablat_el-haoudane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحوضان",
+      "en": "El Haoudane",
+      "slug": "el-haoudane"
+    },
+    "code": {
+      "id": "DZ026_tablat_el-haoudane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_tablat",
+      "level": 2,
+      "name": {
+        "local": "تابلاط",
+        "en": "Tablat",
+        "slug": "tablat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_tablat",
+        "level": 2,
+        "name": {
+          "local": "تابلاط",
+          "en": "Tablat",
+          "slug": "tablat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26058"
+    ],
+    "geo": {
+      "lat": "36.42",
+      "lon": "3.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_tablat_mezerana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مزغنة",
+      "en": "Mezerana",
+      "slug": "mezerana"
+    },
+    "code": {
+      "id": "DZ026_tablat_mezerana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_tablat",
+      "level": 2,
+      "name": {
+        "local": "تابلاط",
+        "en": "Tablat",
+        "slug": "tablat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_tablat",
+        "level": 2,
+        "name": {
+          "local": "تابلاط",
+          "en": "Tablat",
+          "slug": "tablat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.42",
+      "lon": "3.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_tablat_tablat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تابلاط",
+      "en": "Tablat",
+      "slug": "tablat"
+    },
+    "code": {
+      "id": "DZ026_tablat_tablat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_tablat",
+      "level": 2,
+      "name": {
+        "local": "تابلاط",
+        "en": "Tablat",
+        "slug": "tablat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_tablat",
+        "level": 2,
+        "name": {
+          "local": "تابلاط",
+          "en": "Tablat",
+          "slug": "tablat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26004"
+    ],
+    "geo": {
+      "lat": "36.426",
+      "lon": "3.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

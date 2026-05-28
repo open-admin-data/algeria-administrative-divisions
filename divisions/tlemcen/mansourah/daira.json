@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_mansourah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "منصورة",
+    "en": "Mansourah",
+    "slug": "mansourah"
+  },
+  "code": {
+    "id": "DZ013_mansourah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.835",
+    "lon": "-1.394"
+  },
+  "metadata": {},
+  "source": {}
+}

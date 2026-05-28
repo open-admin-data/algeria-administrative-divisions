@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_zelfana_zelfana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زلفانة",
+      "en": "Zelfana",
+      "slug": "zelfana"
+    },
+    "code": {
+      "id": "DZ047_zelfana_zelfana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_zelfana",
+      "level": 2,
+      "name": {
+        "local": "زلفانة",
+        "en": "Zelfana",
+        "slug": "zelfana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_zelfana",
+        "level": 2,
+        "name": {
+          "local": "زلفانة",
+          "en": "Zelfana",
+          "slug": "zelfana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47007"
+    ],
+    "geo": {
+      "lat": "32.411",
+      "lon": "4.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

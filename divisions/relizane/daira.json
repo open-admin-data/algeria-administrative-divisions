@@ -1,0 +1,613 @@
+[
+  {
+    "id": "DZ048_ain-tarek",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين طارق",
+      "en": "Ain Tarek",
+      "slug": "ain-tarek"
+    },
+    "code": {
+      "id": "DZ048_ain-tarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.776",
+      "lon": "1.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ammi-moussa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عمي موسى",
+      "en": "Ammi Moussa",
+      "slug": "ammi-moussa"
+    },
+    "code": {
+      "id": "DZ048_ammi-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.791",
+      "lon": "1.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_djidiouia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جديوية",
+      "en": "Djidiouia",
+      "slug": "djidiouia"
+    },
+    "code": {
+      "id": "DZ048_djidiouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.96",
+      "lon": "0.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-hmadna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحمادنة",
+      "en": "El H'madna",
+      "slug": "el-hmadna"
+    },
+    "code": {
+      "id": "DZ048_el-hmadna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.868",
+      "lon": "0.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-matmar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المطمر",
+      "en": "El Matmar",
+      "slug": "el-matmar"
+    },
+    "code": {
+      "id": "DZ048_el-matmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.736",
+      "lon": "0.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_mazouna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مازونة",
+      "en": "Mazouna",
+      "slug": "mazouna"
+    },
+    "code": {
+      "id": "DZ048_mazouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.097",
+      "lon": "0.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_mendes",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "منداس",
+      "en": "Mendes",
+      "slug": "mendes"
+    },
+    "code": {
+      "id": "DZ048_mendes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.611",
+      "lon": "0.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_oued-rhiou",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي رهيو",
+      "en": "Oued Rhiou",
+      "slug": "oued-rhiou"
+    },
+    "code": {
+      "id": "DZ048_oued-rhiou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.969",
+      "lon": "0.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ramka",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرمكة",
+      "en": "Ramka",
+      "slug": "ramka"
+    },
+    "code": {
+      "id": "DZ048_ramka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.897",
+      "lon": "1.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_relizane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    },
+    "code": {
+      "id": "DZ048_relizane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.892",
+      "lon": "2.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_sidi-mhamed-ben-ali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي أمحمد بن علي",
+      "en": "Sidi M'hamed Ben Ali",
+      "slug": "sidi-mhamed-ben-ali"
+    },
+    "code": {
+      "id": "DZ048_sidi-mhamed-ben-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.118",
+      "lon": "0.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_yellel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "يلل",
+      "en": "Yellel",
+      "slug": "yellel"
+    },
+    "code": {
+      "id": "DZ048_yellel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.675",
+      "lon": "0.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_zemmoura",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زمورة",
+      "en": "Zemmoura",
+      "slug": "zemmoura"
+    },
+    "code": {
+      "id": "DZ048_zemmoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.792",
+      "lon": "0.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

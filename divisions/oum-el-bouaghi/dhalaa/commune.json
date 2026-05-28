@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ004_dhalaa_dhalaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الضلعة",
+      "en": "Dhalaa",
+      "slug": "dhalaa"
+    },
+    "code": {
+      "id": "DZ004_dhalaa_dhalaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_dhalaa",
+      "level": 2,
+      "name": {
+        "local": "الضلعة",
+        "en": "Dhalaa",
+        "slug": "dhalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_dhalaa",
+        "level": 2,
+        "name": {
+          "local": "الضلعة",
+          "en": "Dhalaa",
+          "slug": "dhalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04008"
+    ],
+    "geo": {
+      "lat": "35.513",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_dhalaa_el-djazia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الجازية",
+      "en": "El Djazia",
+      "slug": "el-djazia"
+    },
+    "code": {
+      "id": "DZ004_dhalaa_el-djazia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_dhalaa",
+      "level": 2,
+      "name": {
+        "local": "الضلعة",
+        "en": "Dhalaa",
+        "slug": "dhalaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_dhalaa",
+        "level": 2,
+        "name": {
+          "local": "الضلعة",
+          "en": "Dhalaa",
+          "slug": "dhalaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04040"
+    ],
+    "geo": {
+      "lat": "35.513",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_tassadane-haddada_minar-zarza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مينار زارزة",
+      "en": "Minar Zarza",
+      "slug": "minar-zarza"
+    },
+    "code": {
+      "id": "DZ043_tassadane-haddada_minar-zarza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_tassadane-haddada",
+      "level": 2,
+      "name": {
+        "local": "تسدان حدادة",
+        "en": "Tassadane Haddada",
+        "slug": "tassadane-haddada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_tassadane-haddada",
+        "level": 2,
+        "name": {
+          "local": "تسدان حدادة",
+          "en": "Tassadane Haddada",
+          "slug": "tassadane-haddada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43036"
+    ],
+    "geo": {
+      "lat": "36.538",
+      "lon": "5.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_tassadane-haddada_tassadane-haddada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسدان حدادة",
+      "en": "Tassadane Haddada",
+      "slug": "tassadane-haddada"
+    },
+    "code": {
+      "id": "DZ043_tassadane-haddada_tassadane-haddada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_tassadane-haddada",
+      "level": 2,
+      "name": {
+        "local": "تسدان حدادة",
+        "en": "Tassadane Haddada",
+        "slug": "tassadane-haddada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_tassadane-haddada",
+        "level": 2,
+        "name": {
+          "local": "تسدان حدادة",
+          "en": "Tassadane Haddada",
+          "slug": "tassadane-haddada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43033"
+    ],
+    "geo": {
+      "lat": "36.518",
+      "lon": "5.825"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

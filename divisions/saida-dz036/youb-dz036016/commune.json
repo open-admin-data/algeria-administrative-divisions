@@ -1,0 +1,45 @@
+{
+  "id": "DZ036016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Youb",
+    "en": "Youb",
+    "slug": "youb-dz036016"
+  },
+  "code": {
+    "id": "DZ036016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.888",
+    "lon": "-0.224"
+  },
+  "metadata": {},
+  "source": {}
+}

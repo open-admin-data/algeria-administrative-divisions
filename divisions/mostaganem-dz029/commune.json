@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "DZ029001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abdelmalek Ramdane",
+      "en": "Abdelmalek Ramdane",
+      "slug": "abdelmalek-ramdane-dz029001"
+    },
+    "code": {
+      "id": "DZ029001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.082",
+      "lon": "0.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Achaacha",
+      "en": "Achaacha",
+      "slug": "achaacha-dz029002"
+    },
+    "code": {
+      "id": "DZ029002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.264",
+      "lon": "0.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Boudinar",
+      "en": "Ain Boudinar",
+      "slug": "ain-boudinar-dz029003"
+    },
+    "code": {
+      "id": "DZ029003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.993",
+      "lon": "0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Nouissi",
+      "en": "Ain Nouissi",
+      "slug": "ain-nouissi-dz029004"
+    },
+    "code": {
+      "id": "DZ029004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.808",
+      "lon": "0.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Sidi Cherif",
+      "en": "Ain Sidi Cherif",
+      "slug": "ain-sidi-cherif-dz029005"
+    },
+    "code": {
+      "id": "DZ029005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.818",
+      "lon": "0.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tedles",
+      "en": "Ain Tedles",
+      "slug": "ain-tedles-dz029006"
+    },
+    "code": {
+      "id": "DZ029006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.966",
+      "lon": "0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouguirat",
+      "en": "Bouguirat",
+      "slug": "bouguirat-dz029007"
+    },
+    "code": {
+      "id": "DZ029007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.77",
+      "lon": "0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hessiane",
+      "en": "El Hessiane",
+      "slug": "el-hessiane-dz029008"
+    },
+    "code": {
+      "id": "DZ029008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.741",
+      "lon": "0.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fornaka",
+      "en": "Fornaka",
+      "slug": "fornaka-dz029009"
+    },
+    "code": {
+      "id": "DZ029009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadjadj",
+      "en": "Hadjadj",
+      "slug": "hadjadj-dz029010"
+    },
+    "code": {
+      "id": "DZ029010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.126",
+      "lon": "0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Maameche",
+      "en": "Hassi Maameche",
+      "slug": "hassi-maameche-dz029011"
+    },
+    "code": {
+      "id": "DZ029011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.854",
+      "lon": "0.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khadra",
+      "en": "Khadra",
+      "slug": "khadra-dz029012"
+    },
+    "code": {
+      "id": "DZ029012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.235",
+      "lon": "0.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kheir Eddine",
+      "en": "Kheir Eddine",
+      "slug": "kheir-eddine-dz029013"
+    },
+    "code": {
+      "id": "DZ029013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.954",
+      "lon": "0.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mansourah",
+      "en": "Mansourah",
+      "slug": "mansourah-dz029014"
+    },
+    "code": {
+      "id": "DZ029014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.869",
+      "lon": "0.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mesra",
+      "en": "Mesra",
+      "slug": "mesra-dz029015"
+    },
+    "code": {
+      "id": "DZ029015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.846",
+      "lon": "0.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mezaghrane",
+      "en": "Mezaghrane",
+      "slug": "mezaghrane-dz029016"
+    },
+    "code": {
+      "id": "DZ029016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.89",
+      "lon": "0.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mostaganem",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029017"
+    },
+    "code": {
+      "id": "DZ029017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.978",
+      "lon": "0.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nekmaria",
+      "en": "Nekmaria",
+      "slug": "nekmaria-dz029018"
+    },
+    "code": {
+      "id": "DZ029018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "0.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Kheir",
+      "en": "Oued El Kheir",
+      "slug": "oued-el-kheir-dz029019"
+    },
+    "code": {
+      "id": "DZ029019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.944",
+      "lon": "0.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Boughalem",
+      "en": "Ouled Boughalem",
+      "slug": "ouled-boughalem-dz029020"
+    },
+    "code": {
+      "id": "DZ029020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.294",
+      "lon": "0.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Maalah",
+      "en": "Ouled Maalah",
+      "slug": "ouled-maalah-dz029021"
+    },
+    "code": {
+      "id": "DZ029021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.046",
+      "lon": "0.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Safsaf",
+      "en": "Safsaf",
+      "slug": "safsaf-dz029022"
+    },
+    "code": {
+      "id": "DZ029022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.87",
+      "lon": "0.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sayada",
+      "en": "Sayada",
+      "slug": "sayada-dz029023"
+    },
+    "code": {
+      "id": "DZ029023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.937",
+      "lon": "0.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ali",
+      "en": "Sidi Ali",
+      "slug": "sidi-ali-dz029024"
+    },
+    "code": {
+      "id": "DZ029024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.063",
+      "lon": "0.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Belattar",
+      "en": "Sidi Belattar",
+      "slug": "sidi-belattar-dz029025"
+    },
+    "code": {
+      "id": "DZ029025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.046",
+      "lon": "0.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Lakhdar",
+      "en": "Sidi Lakhdar",
+      "slug": "sidi-lakhdar-dz029026"
+    },
+    "code": {
+      "id": "DZ029026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.181",
+      "lon": "0.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sirat",
+      "en": "Sirat",
+      "slug": "sirat-dz029027"
+    },
+    "code": {
+      "id": "DZ029027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.737",
+      "lon": "0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souaflia",
+      "en": "Souaflia",
+      "slug": "souaflia-dz029028"
+    },
+    "code": {
+      "id": "DZ029028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.85",
+      "lon": "0.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sour",
+      "en": "Sour",
+      "slug": "sour-dz029029"
+    },
+    "code": {
+      "id": "DZ029029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.962",
+      "lon": "0.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Stidia",
+      "en": "Stidia",
+      "slug": "stidia-dz029030"
+    },
+    "code": {
+      "id": "DZ029030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.821",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tazgait",
+      "en": "Tazgait",
+      "slug": "tazgait-dz029031"
+    },
+    "code": {
+      "id": "DZ029031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.131",
+      "lon": "0.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touahria",
+      "en": "Touahria",
+      "slug": "touahria-dz029032"
+    },
+    "code": {
+      "id": "DZ029032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem-dz029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.812",
+      "lon": "0.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

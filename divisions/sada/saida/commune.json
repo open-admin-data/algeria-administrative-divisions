@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ020_saida_saida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida"
+    },
+    "code": {
+      "id": "DZ020_saida_saida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_saida",
+      "level": 2,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_saida",
+        "level": 2,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20000"
+    ],
+    "geo": {
+      "lat": "34.847",
+      "lon": "0.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

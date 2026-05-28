@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ013_mansourah_ain-ghoraba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين غرابة",
+      "en": "Ain Ghoraba",
+      "slug": "ain-ghoraba"
+    },
+    "code": {
+      "id": "DZ013_mansourah_ain-ghoraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_mansourah",
+      "level": 2,
+      "name": {
+        "local": "منصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_mansourah",
+        "level": 2,
+        "name": {
+          "local": "منصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13023"
+    ],
+    "geo": {
+      "lat": "34.739",
+      "lon": "-1.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_mansourah_beni-mester",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني مستر",
+      "en": "Beni Mester",
+      "slug": "beni-mester"
+    },
+    "code": {
+      "id": "DZ013_mansourah_beni-mester",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_mansourah",
+      "level": 2,
+      "name": {
+        "local": "منصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_mansourah",
+        "level": 2,
+        "name": {
+          "local": "منصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13038"
+    ],
+    "geo": {
+      "lat": "34.892",
+      "lon": "-1.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_mansourah_mansourah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "منصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ013_mansourah_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_mansourah",
+      "level": 2,
+      "name": {
+        "local": "منصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_mansourah",
+        "level": 2,
+        "name": {
+          "local": "منصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13100"
+    ],
+    "geo": {
+      "lat": "34.873",
+      "lon": "-1.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_mansourah_terny-beni-hediel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيرني بني هديل",
+      "en": "Terny Beni Hediel",
+      "slug": "terny-beni-hediel"
+    },
+    "code": {
+      "id": "DZ013_mansourah_terny-beni-hediel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_mansourah",
+      "level": 2,
+      "name": {
+        "local": "منصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_mansourah",
+        "level": 2,
+        "name": {
+          "local": "منصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13079"
+    ],
+    "geo": {
+      "lat": "34.835",
+      "lon": "-1.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

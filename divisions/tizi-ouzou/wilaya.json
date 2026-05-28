@@ -1,0 +1,30 @@
+{
+  "id": "DZ015",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تيزي وزو",
+    "en": "Tizi Ouzou",
+    "slug": "tizi-ouzou"
+  },
+  "code": {
+    "id": "DZ015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 21,
+    "commune": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.683",
+    "lon": "4.239"
+  },
+  "metadata": {},
+  "source": {}
+}

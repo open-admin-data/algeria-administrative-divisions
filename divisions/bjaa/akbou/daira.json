@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_akbou",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أقبو",
+    "en": "Akbou",
+    "slug": "akbou"
+  },
+  "code": {
+    "id": "DZ006_akbou",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.445",
+    "lon": "4.548"
+  },
+  "metadata": {},
+  "source": {}
+}

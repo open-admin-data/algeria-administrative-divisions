@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ024_hammam-debagh_bou-hamdane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحمدان",
+      "en": "Bou Hamdane",
+      "slug": "bou-hamdane"
+    },
+    "code": {
+      "id": "DZ024_hammam-debagh_bou-hamdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-debagh",
+      "level": 2,
+      "name": {
+        "local": "حمام دباغ",
+        "en": "Hammam Debagh",
+        "slug": "hammam-debagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-debagh",
+        "level": 2,
+        "name": {
+          "local": "حمام دباغ",
+          "en": "Hammam Debagh",
+          "slug": "hammam-debagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.535",
+      "lon": "7.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-debagh_hammam-debagh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام دباغ",
+      "en": "Hammam Debagh",
+      "slug": "hammam-debagh"
+    },
+    "code": {
+      "id": "DZ024_hammam-debagh_hammam-debagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-debagh",
+      "level": 2,
+      "name": {
+        "local": "حمام دباغ",
+        "en": "Hammam Debagh",
+        "slug": "hammam-debagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-debagh",
+        "level": 2,
+        "name": {
+          "local": "حمام دباغ",
+          "en": "Hammam Debagh",
+          "slug": "hammam-debagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24007"
+    ],
+    "geo": {
+      "lat": "36.485",
+      "lon": "7.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_hammam-debagh_roknia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الركنية",
+      "en": "Roknia",
+      "slug": "roknia"
+    },
+    "code": {
+      "id": "DZ024_hammam-debagh_roknia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_hammam-debagh",
+      "level": 2,
+      "name": {
+        "local": "حمام دباغ",
+        "en": "Hammam Debagh",
+        "slug": "hammam-debagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_hammam-debagh",
+        "level": 2,
+        "name": {
+          "local": "حمام دباغ",
+          "en": "Hammam Debagh",
+          "slug": "hammam-debagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24028"
+    ],
+    "geo": {
+      "lat": "36.585",
+      "lon": "7.19"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

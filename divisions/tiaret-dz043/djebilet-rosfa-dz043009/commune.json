@@ -1,0 +1,45 @@
+{
+  "id": "DZ043009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djebilet Rosfa",
+    "en": "Djebilet Rosfa",
+    "slug": "djebilet-rosfa-dz043009"
+  },
+  "code": {
+    "id": "DZ043009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.851",
+    "lon": "0.791"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ025_ibn-ziad_ibn-ziad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ابن زياد",
+      "en": "Ibn Ziad",
+      "slug": "ibn-ziad"
+    },
+    "code": {
+      "id": "DZ025_ibn-ziad_ibn-ziad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_ibn-ziad",
+      "level": 2,
+      "name": {
+        "local": "ابن زياد",
+        "en": "Ibn Ziad",
+        "slug": "ibn-ziad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_ibn-ziad",
+        "level": 2,
+        "name": {
+          "local": "ابن زياد",
+          "en": "Ibn Ziad",
+          "slug": "ibn-ziad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25027"
+    ],
+    "geo": {
+      "lat": "36.374",
+      "lon": "6.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_ibn-ziad_messaoud-boudjeriou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوجريو مسعود",
+      "en": "Messaoud Boudjeriou",
+      "slug": "messaoud-boudjeriou"
+    },
+    "code": {
+      "id": "DZ025_ibn-ziad_messaoud-boudjeriou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_ibn-ziad",
+      "level": 2,
+      "name": {
+        "local": "ابن زياد",
+        "en": "Ibn Ziad",
+        "slug": "ibn-ziad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_ibn-ziad",
+        "level": 2,
+        "name": {
+          "local": "ابن زياد",
+          "en": "Ibn Ziad",
+          "slug": "ibn-ziad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25032"
+    ],
+    "geo": {
+      "lat": "36.374",
+      "lon": "6.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

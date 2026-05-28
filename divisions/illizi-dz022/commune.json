@@ -1,0 +1,272 @@
+[
+  {
+    "id": "DZ022001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj El Haoues",
+      "en": "Bordj El Haoues",
+      "slug": "bordj-el-haoues-dz022001"
+    },
+    "code": {
+      "id": "DZ022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.484",
+      "lon": "8.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Omar Driss",
+      "en": "Bordj Omar Driss",
+      "slug": "bordj-omar-driss-dz022002"
+    },
+    "code": {
+      "id": "DZ022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.206",
+      "lon": "7.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Debdeb",
+      "en": "Debdeb",
+      "slug": "debdeb-dz022003"
+    },
+    "code": {
+      "id": "DZ022003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.522",
+      "lon": "8.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djanet",
+      "en": "Djanet",
+      "slug": "djanet-dz022004"
+    },
+    "code": {
+      "id": "DZ022004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.78",
+      "lon": "10.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Illizi",
+      "en": "Illizi",
+      "slug": "illizi-dz022005"
+    },
+    "code": {
+      "id": "DZ022005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.491",
+      "lon": "8.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "In Amenas",
+      "en": "In Amenas",
+      "slug": "in-amenas-dz022006"
+    },
+    "code": {
+      "id": "DZ022006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "اليزي",
+          "en": "Illizi",
+          "slug": "illizi-dz022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.02",
+      "lon": "9.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

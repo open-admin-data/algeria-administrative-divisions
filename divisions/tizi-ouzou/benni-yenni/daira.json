@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_benni-yenni",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني يني",
+    "en": "Benni Yenni",
+    "slug": "benni-yenni"
+  },
+  "code": {
+    "id": "DZ015_benni-yenni",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.581",
+    "lon": "4.201"
+  },
+  "metadata": {},
+  "source": {}
+}

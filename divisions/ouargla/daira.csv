@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ030_el-borma,البرمة,El Borma,el-borma,DZ030_el-borma,1,31.325,7.953
+DZ030_hassi-messaoud,حاسي مسعود,Hassi Messaoud,hassi-messaoud,DZ030_hassi-messaoud,1,30.54,5.44
+DZ030_ngoussa,انقوسة,N'goussa,ngoussa,DZ030_ngoussa,1,32.358,5.328
+DZ030_ouargla,ورقلة,Ouargla,ouargla,DZ030_ouargla,2,31.956,4.849
+DZ030_sidi-khouiled,سيدي خويلد,Sidi Khouiled,sidi-khouiled,DZ030_sidi-khouiled,3,33.348,6.208

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_rouached_rouached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرواشد",
+      "en": "Rouached",
+      "slug": "rouached"
+    },
+    "code": {
+      "id": "DZ043_rouached_rouached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_rouached",
+      "level": 2,
+      "name": {
+        "local": "الرواشد",
+        "en": "Rouached",
+        "slug": "rouached"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_rouached",
+        "level": 2,
+        "name": {
+          "local": "الرواشد",
+          "en": "Rouached",
+          "slug": "rouached"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43009"
+    ],
+    "geo": {
+      "lat": "36.476",
+      "lon": "5.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_rouached_tiberguent",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيبرقنت",
+      "en": "Tiberguent",
+      "slug": "tiberguent"
+    },
+    "code": {
+      "id": "DZ043_rouached_tiberguent",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_rouached",
+      "level": 2,
+      "name": {
+        "local": "الرواشد",
+        "en": "Rouached",
+        "slug": "rouached"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_rouached",
+        "level": 2,
+        "name": {
+          "local": "الرواشد",
+          "en": "Rouached",
+          "slug": "rouached"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43035"
+    ],
+    "geo": {
+      "lat": "36.4",
+      "lon": "6.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

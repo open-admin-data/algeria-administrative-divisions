@@ -1,0 +1,47 @@
+{
+  "id": "DZ024_bouchegouf",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوشقوف",
+    "en": "Bouchegouf",
+    "slug": "bouchegouf"
+  },
+  "code": {
+    "id": "DZ024_bouchegouf",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.507",
+    "lon": "7.739"
+  },
+  "metadata": {},
+  "source": {}
+}

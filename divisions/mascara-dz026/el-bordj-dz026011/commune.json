@@ -1,0 +1,45 @@
+{
+  "id": "DZ026011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Bordj",
+    "en": "El Bordj",
+    "slug": "el-bordj-dz026011"
+  },
+  "code": {
+    "id": "DZ026011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.507",
+    "lon": "0.332"
+  },
+  "metadata": {},
+  "source": {}
+}

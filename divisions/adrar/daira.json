@@ -1,0 +1,284 @@
+[
+  {
+    "id": "DZ001_adrar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    },
+    "code": {
+      "id": "DZ001_adrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.98",
+      "lon": "-0.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_aoulef",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولف",
+      "en": "Aoulef",
+      "slug": "aoulef"
+    },
+    "code": {
+      "id": "DZ001_aoulef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.826",
+      "lon": "1.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_fenoughil",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فنوغيل",
+      "en": "Fenoughil",
+      "slug": "fenoughil"
+    },
+    "code": {
+      "id": "DZ001_fenoughil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.529",
+      "lon": "-1.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_reggane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "رقان",
+      "en": "Reggane",
+      "slug": "reggane"
+    },
+    "code": {
+      "id": "DZ001_reggane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.061",
+      "lon": "-2.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_tsabit",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تسابيت",
+      "en": "Tsabit",
+      "slug": "tsabit"
+    },
+    "code": {
+      "id": "DZ001_tsabit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.467",
+      "lon": "-0.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_zaouiat-kounta",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زاوية كنتة",
+      "en": "Zaouiat Kounta",
+      "slug": "zaouiat-kounta"
+    },
+    "code": {
+      "id": "DZ001_zaouiat-kounta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.241",
+      "lon": "-1.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

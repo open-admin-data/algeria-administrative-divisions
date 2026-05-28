@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_bouzina",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوزينة",
+    "en": "Bouzina",
+    "slug": "bouzina"
+  },
+  "code": {
+    "id": "DZ005_bouzina",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.597",
+    "lon": "3.784"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,158 @@
+# Oran — Algeria Administrative Divisions
+
+> 9 dairas, 26 communes
+> Code: DZ031
+> Coordinates: 35.623, -0.703
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الترك (Ain Turk)
+
+Code: DZ031_ain-turk, Coordinates: 35.715, -0.798
+Communes: 4
+
+#### عين الترك (Ain Turk)
+
+Code: DZ031_ain-turk_ain-turk, Postal: 10033, Coordinates: 35.74, -0.776
+
+#### بوسفر (Bousfer)
+
+Code: DZ031_ain-turk_bousfer, Postal: 31025, Coordinates: 35.72, -0.813
+
+#### العنصر (El Ancor)
+
+Code: DZ031_ain-turk_el-ancor, Postal: 31043, Coordinates: 35.681, -0.886
+
+#### المرسى الكبير (Mers El Kebir)
+
+Code: DZ031_ain-turk_mers-el-kebir, Postal: 31019, Coordinates: 35.721, -0.719
+
+### أرزيو (Arzew)
+
+Code: DZ031_arzew, Coordinates: 35.856, -0.335
+Communes: 2
+
+#### أرزيو (Arzew)
+
+Code: DZ031_arzew_arzew, Postal: 31004, Coordinates: 35.856, -0.335
+
+#### سيدي بن يبقى (Sidi Ben Yebka)
+
+Code: DZ031_arzew_sidi-ben-yebka, Postal: 31058, Coordinates: 35.856, -0.335
+
+### بطيوة (Bethioua)
+
+Code: DZ031_bethioua, Coordinates: 35.758, -0.242
+Communes: 3
+
+#### عين البية (Ain Biya)
+
+Code: DZ031_bethioua_ain-biya, Postal: 31040, Coordinates: 35.783, -0.321
+
+#### بطيوة (Bethioua)
+
+Code: DZ031_bethioua_bethioua, Postal: 31015, Coordinates: 35.739, -0.23
+
+#### مرسى الحجاج (Marsat El Hadjadj)
+
+Code: DZ031_bethioua_marsat-el-hadjadj, Postal: 31030, Coordinates: 35.752, -0.174
+
+### بئر الجير (Bir El Djir)
+
+Code: DZ031_bir-el-djir, Coordinates: 35.729, -0.508
+Communes: 3
+
+#### بئر الجير (Bir El Djir)
+
+Code: DZ031_bir-el-djir_bir-el-djir, Postal: 31001, Coordinates: 35.737, -0.55
+
+#### حاسي بن عقبة (Hassi Ben Okba)
+
+Code: DZ031_bir-el-djir_hassi-ben-okba, Postal: 31049, Coordinates: 35.749, -0.48
+
+#### حاسي بونيف (Hassi Bounif)
+
+Code: DZ031_bir-el-djir_hassi-bounif, Postal: 31028, Coordinates: 35.7, -0.494
+
+### بوتليليس (Boutlelis)
+
+Code: DZ031_boutlelis, Coordinates: 35.624, -0.923
+Communes: 3
+
+#### عين الكرمة (Ain Kerma)
+
+Code: DZ031_boutlelis_ain-kerma, Postal: 31059, Coordinates: 35.64, -0.984
+
+#### بوتليليس (Boutlelis)
+
+Code: DZ031_boutlelis_boutlelis, Postal: 31016, Coordinates: 35.609, -0.862
+
+#### مسرغين (Messerghin)
+
+Code: DZ031_boutlelis_messerghin, Postal: 31031, Coordinates: 35.624, -0.923
+
+### السانية (Es Senia)
+
+Code: DZ031_es-senia, Coordinates: 35.656, -0.59
+Communes: 3
+
+#### الكرمة (El Kerma)
+
+Code: DZ031_es-senia_el-kerma, Postal: 31026, Coordinates: 35.656, -0.59
+
+#### السانية (Es Senia)
+
+Code: DZ031_es-senia_es-senia, Postal: 31005, Coordinates: 35.645, -0.651
+
+#### سيدي الشحمي (Sidi Chami)
+
+Code: DZ031_es-senia_sidi-chami, Postal: 31038, Coordinates: 35.666, -0.528
+
+### قديل (Gdyel)
+
+Code: DZ031_gdyel, Coordinates: 35.769, -0.399
+Communes: 3
+
+#### بن فريحة (Ben Freha)
+
+Code: DZ031_gdyel_ben-freha, Postal: 31027, Coordinates: 35.722, -0.376
+
+#### قديل (Gdyel)
+
+Code: DZ031_gdyel_gdyel, Postal: 31017, Coordinates: 35.802, -0.447
+
+#### حاسي مفسوخ (Hassi Mefsoukh)
+
+Code: DZ031_gdyel_hassi-mefsoukh, Postal: 31046, Coordinates: 35.783, -0.374
+
+### وهران (Oran)
+
+Code: DZ031_oran, Coordinates: 35.71, -0.615
+Communes: 1
+
+#### وهران (Oran)
+
+Code: DZ031_oran_oran, Postal: 31100, Coordinates: 35.71, -0.615
+
+### وادي تليلات (Oued Tlelat)
+
+Code: DZ031_oued-tlelat, Coordinates: 35.568, -0.47
+Communes: 4
+
+#### بوفاتيس (Boufatis)
+
+Code: DZ031_oued-tlelat_boufatis, Postal: 31024, Coordinates: 35.651, -0.381
+
+#### البراية (El Braya)
+
+Code: DZ031_oued-tlelat_el-braya, Postal: 31070, Coordinates: 35.612, -0.476
+
+#### وادي تليلات (Oued Tlelat)
+
+Code: DZ031_oued-tlelat_oued-tlelat, Postal: 31037, Coordinates: 35.563, -0.464
+
+#### طفراوي (Tafraoui)
+
+Code: DZ031_oued-tlelat_tafraoui, Postal: 31077, Coordinates: 35.447, -0.557
+

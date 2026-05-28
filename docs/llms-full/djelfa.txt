@@ -1,0 +1,213 @@
+# Djelfa — Algeria Administrative Divisions
+
+> 12 dairas, 36 communes
+> Code: DZ017
+> Coordinates: 34.347, 3.212
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الإبل (Ain El Ibel)
+
+Code: DZ017_ain-el-ibel, Coordinates: 34.431, 3.184
+Communes: 4
+
+#### عين الإبل (Ain El Ibel)
+
+Code: DZ017_ain-el-ibel_ain-el-ibel, Postal: 17011, Coordinates: 34.431, 3.184
+
+#### مجبارة (Moudjebara)
+
+Code: DZ017_ain-el-ibel_moudjebara, Postal: 17058, Coordinates: 34.431, 3.184
+
+#### تعظميت (Taadmit)
+
+Code: DZ017_ain-el-ibel_taadmit, Postal: 17037, Coordinates: 34.431, 3.184
+
+#### زكار (Zaccar)
+
+Code: DZ017_ain-el-ibel_zaccar, Postal: 17065, Coordinates: 34.431, 3.184
+
+### عين وسارة (Ain Oussera)
+
+Code: DZ017_ain-oussera, Coordinates: 35.172, 2.785
+Communes: 2
+
+#### عين وسارة (Ain Oussera)
+
+Code: DZ017_ain-oussera_ain-oussera, Postal: 17001, Coordinates: 35.172, 2.785
+
+#### قرنيني (Guernini)
+
+Code: DZ017_ain-oussera_guernini, Postal: 17054, Coordinates: 35.172, 2.785
+
+### بيرين (Birine)
+
+Code: DZ017_birine, Coordinates: 35.579, 3.155
+Communes: 2
+
+#### بنهار (Benhar)
+
+Code: DZ017_birine_benhar, Postal: 17043, Coordinates: 35.506, 3.051
+
+#### بيرين (Birine)
+
+Code: DZ017_birine_birine, Postal: 17014, Coordinates: 35.653, 3.259
+
+### الشارف (Charef)
+
+Code: DZ017_charef, Coordinates: 34.576, 2.725
+Communes: 3
+
+#### بن يعقوب (Benyagoub)
+
+Code: DZ017_charef_benyagoub, Postal: 17026, Coordinates: 34.576, 2.725
+
+#### الشارف (Charef)
+
+Code: DZ017_charef_charef, Postal: 19100, Coordinates: 34.576, 2.725
+
+#### القديد (El Guedid)
+
+Code: DZ017_charef_el-guedid, Postal: 17019, Coordinates: 34.576, 2.725
+
+### دار الشيوخ (Dar Chioukh)
+
+Code: DZ017_dar-chioukh, Coordinates: 34.952, 3.458
+Communes: 3
+
+#### دار الشيوخ (Dar Chioukh)
+
+Code: DZ017_dar-chioukh_dar-chioukh, Postal: 17006, Coordinates: 34.883, 3.486
+
+#### مليليحة (M&#39;liliha)
+
+Code: DZ017_dar-chioukh_mliliha, Postal: 17036, Coordinates: 34.952, 3.458
+
+#### سيدي بايزيد (Sidi Baizid)
+
+Code: DZ017_dar-chioukh_sidi-baizid, Postal: 17052, Coordinates: 35.021, 3.43
+
+### الجلفة (Djelfa)
+
+Code: DZ017_djelfa, Coordinates: 34.672, 3.208
+Communes: 1
+
+#### الجلفة (Djelfa)
+
+Code: DZ017_djelfa_djelfa, Postal: 17000, Coordinates: 34.672, 3.208
+
+### الادريسية (El Idrissia)
+
+Code: DZ017_el-idrissia, Coordinates: 34.305, 2.611
+Communes: 3
+
+#### عين الشهداء (Ain Chouhada)
+
+Code: DZ017_el-idrissia_ain-chouhada, Postal: 17039, Coordinates: 34.226, 2.579
+
+#### دويس (Douis)
+
+Code: DZ017_el-idrissia_douis, Postal: 17030, Coordinates: 34.262, 2.752
+
+#### الادريسية (El Idrissia)
+
+Code: DZ017_el-idrissia_el-idrissia, Postal: 17020, Coordinates: 34.428, 2.503
+
+### فيض البطمة (Faidh El Botma)
+
+Code: DZ017_faidh-el-botma, Coordinates: 33.668, 4.45
+Communes: 3
+
+#### عمورة (Amourah)
+
+Code: DZ017_faidh-el-botma_amourah, Postal: 17042, Coordinates: 33.668, 4.45
+
+#### فيض البطمة (Faidh El Botma)
+
+Code: DZ017_faidh-el-botma_faidh-el-botma, Postal: 17021, Coordinates: 33.668, 4.45
+
+#### أم العظام (Oum Laadham)
+
+Code: DZ017_faidh-el-botma_oum-laadham, Postal: 17061, Coordinates: 33.668, 4.45
+
+### حد الصحاري (Had Sahary)
+
+Code: DZ017_had-sahary, Coordinates: 35.331, 3.345
+Communes: 3
+
+#### عين فقه (Ain Fekka)
+
+Code: DZ017_had-sahary_ain-fekka, Postal: 17040, Coordinates: 35.426, 3.568
+
+#### بويرة الأحداب (Bouira Lahdab)
+
+Code: DZ017_had-sahary_bouira-lahdab, Postal: 17044, Coordinates: 35.218, 3.116
+
+#### حد الصحاري (Had Sahary)
+
+Code: DZ017_had-sahary_had-sahary, Postal: 17022, Coordinates: 35.348, 3.352
+
+### حاسي بحبح (Hassi Bahbah)
+
+Code: DZ017_hassi-bahbah, Coordinates: 34.93, 3.054
+Communes: 4
+
+#### عين معبد (Ain Maabed)
+
+Code: DZ017_hassi-bahbah_ain-maabed, Postal: 17025, Coordinates: 34.842, 3.148
+
+#### حاسي بحبح (Hassi Bahbah)
+
+Code: DZ017_hassi-bahbah_hassi-bahbah, Postal: 17002, Coordinates: 35.003, 2.925
+
+#### حاسي العش (Hassi El Euch)
+
+Code: DZ017_hassi-bahbah_hassi-el-euch, Postal: 17032, Coordinates: 35.079, 3.241
+
+#### زعفران (Zaafrane)
+
+Code: DZ017_hassi-bahbah_zaafrane, Postal: 17038, Coordinates: 34.797, 2.9
+
+### مسعد (Messaad)
+
+Code: DZ017_messaad, Coordinates: 33.856, 3.711
+Communes: 5
+
+#### دلدول (Deldoul)
+
+Code: DZ017_messaad_deldoul, Postal: 17046, Coordinates: 34.05, 3.364
+
+#### قطارة (Guettara)
+
+Code: DZ017_messaad_guettara, Postal: 17055, Coordinates: 33.294, 4.406
+
+#### مسعد (Messaad)
+
+Code: DZ017_messaad_messaad, Postal: 17003, Coordinates: 34.154, 3.499
+
+#### سد الرحال (Sed Rahal)
+
+Code: DZ017_messaad_sed-rahal, Postal: 17062, Coordinates: 33.748, 3.562
+
+#### سلمانة (Selmana)
+
+Code: DZ017_messaad_selmana, Postal: 17063, Coordinates: 34.033, 3.722
+
+### سيدي لعجال (Sidi Laadjel)
+
+Code: DZ017_sidi-laadjel, Coordinates: 35.395, 2.58
+Communes: 3
+
+#### الخميس (El Khemis)
+
+Code: DZ017_sidi-laadjel_el-khemis, Postal: 17051, Coordinates: 35.401, 2.695
+
+#### حاسي فدول (Hassi Fedoul)
+
+Code: DZ017_sidi-laadjel_hassi-fedoul, Postal: 17056, Coordinates: 35.395, 2.58
+
+#### سيدي لعجال (Sidi Laadjel)
+
+Code: DZ017_sidi-laadjel_sidi-laadjel, Postal: 17024, Coordinates: 35.389, 2.466
+

@@ -1,0 +1,30 @@
+{
+  "id": "DZ049",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تيميمون",
+    "en": "Timimoun",
+    "slug": "timimoun"
+  },
+  "code": {
+    "id": "DZ049",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 4,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.843",
+    "lon": "1.255"
+  },
+  "metadata": {},
+  "source": {}
+}

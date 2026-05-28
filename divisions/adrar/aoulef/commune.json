@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ001_aoulef_akabli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اقبلي",
+      "en": "Akabli",
+      "slug": "akabli"
+    },
+    "code": {
+      "id": "DZ001_aoulef_akabli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_aoulef",
+      "level": 2,
+      "name": {
+        "local": "أولف",
+        "en": "Aoulef",
+        "slug": "aoulef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_aoulef",
+        "level": 2,
+        "name": {
+          "local": "أولف",
+          "en": "Aoulef",
+          "slug": "aoulef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01044"
+    ],
+    "geo": {
+      "lat": "26.826",
+      "lon": "1.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_aoulef_aoulef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولف",
+      "en": "Aoulef",
+      "slug": "aoulef"
+    },
+    "code": {
+      "id": "DZ001_aoulef_aoulef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_aoulef",
+      "level": 2,
+      "name": {
+        "local": "أولف",
+        "en": "Aoulef",
+        "slug": "aoulef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_aoulef",
+        "level": 2,
+        "name": {
+          "local": "أولف",
+          "en": "Aoulef",
+          "slug": "aoulef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01003"
+    ],
+    "geo": {
+      "lat": "26.624",
+      "lon": "0.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_aoulef_timekten",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمقتن",
+      "en": "Timekten",
+      "slug": "timekten"
+    },
+    "code": {
+      "id": "DZ001_aoulef_timekten",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_aoulef",
+      "level": 2,
+      "name": {
+        "local": "أولف",
+        "en": "Aoulef",
+        "slug": "aoulef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_aoulef",
+        "level": 2,
+        "name": {
+          "local": "أولف",
+          "en": "Aoulef",
+          "slug": "aoulef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01041"
+    ],
+    "geo": {
+      "lat": "26.826",
+      "lon": "1.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_aoulef_tit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيت",
+      "en": "Tit",
+      "slug": "tit"
+    },
+    "code": {
+      "id": "DZ001_aoulef_tit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_aoulef",
+      "level": 2,
+      "name": {
+        "local": "أولف",
+        "en": "Aoulef",
+        "slug": "aoulef"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_aoulef",
+        "level": 2,
+        "name": {
+          "local": "أولف",
+          "en": "Aoulef",
+          "slug": "aoulef"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01031"
+    ],
+    "geo": {
+      "lat": "27.029",
+      "lon": "1.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_hachem_el-hachem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحشم",
+      "en": "El Hachem",
+      "slug": "el-hachem"
+    },
+    "code": {
+      "id": "DZ029_hachem_el-hachem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_hachem",
+      "level": 2,
+      "name": {
+        "local": "الحشم",
+        "en": "Hachem",
+        "slug": "hachem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_hachem",
+        "level": 2,
+        "name": {
+          "local": "الحشم",
+          "en": "Hachem",
+          "slug": "hachem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29013"
+    ],
+    "geo": {
+      "lat": "35.365",
+      "lon": "0.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_hachem_nesmot",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "نسمط",
+      "en": "Nesmot",
+      "slug": "nesmot"
+    },
+    "code": {
+      "id": "DZ029_hachem_nesmot",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_hachem",
+      "level": 2,
+      "name": {
+        "local": "الحشم",
+        "en": "Hachem",
+        "slug": "hachem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_hachem",
+        "level": 2,
+        "name": {
+          "local": "الحشم",
+          "en": "Hachem",
+          "slug": "hachem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29058"
+    ],
+    "geo": {
+      "lat": "35.365",
+      "lon": "0.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_hachem_zelamta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زلامطة",
+      "en": "Zelamta",
+      "slug": "zelamta"
+    },
+    "code": {
+      "id": "DZ029_hachem_zelamta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_hachem",
+      "level": 2,
+      "name": {
+        "local": "الحشم",
+        "en": "Hachem",
+        "slug": "hachem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_hachem",
+        "level": 2,
+        "name": {
+          "local": "الحشم",
+          "en": "Hachem",
+          "slug": "hachem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29057"
+    ],
+    "geo": {
+      "lat": "35.365",
+      "lon": "0.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

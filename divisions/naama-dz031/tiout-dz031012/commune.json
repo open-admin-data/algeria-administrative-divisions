@@ -1,0 +1,45 @@
+{
+  "id": "DZ031012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tiout",
+    "en": "Tiout",
+    "slug": "tiout-dz031012"
+  },
+  "code": {
+    "id": "DZ031012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.852",
+    "lon": "-0.388"
+  },
+  "metadata": {},
+  "source": {}
+}

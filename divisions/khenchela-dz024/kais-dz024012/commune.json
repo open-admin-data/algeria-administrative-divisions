@@ -1,0 +1,45 @@
+{
+  "id": "DZ024012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kais",
+    "en": "Kais",
+    "slug": "kais-dz024012"
+  },
+  "code": {
+    "id": "DZ024012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ024",
+    "level": 1,
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela-dz024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ024",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela-dz024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.507",
+    "lon": "6.947"
+  },
+  "metadata": {},
+  "source": {}
+}

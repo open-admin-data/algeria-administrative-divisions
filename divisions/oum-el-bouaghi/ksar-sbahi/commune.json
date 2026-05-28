@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ004_ksar-sbahi_ksar-sbahi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر الصباحي",
+      "en": "Ksar Sbahi",
+      "slug": "ksar-sbahi"
+    },
+    "code": {
+      "id": "DZ004_ksar-sbahi_ksar-sbahi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ksar-sbahi",
+      "level": 2,
+      "name": {
+        "local": "قصر الصباحي",
+        "en": "Ksar Sbahi",
+        "slug": "ksar-sbahi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ksar-sbahi",
+        "level": 2,
+        "name": {
+          "local": "قصر الصباحي",
+          "en": "Ksar Sbahi",
+          "slug": "ksar-sbahi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04018"
+    ],
+    "geo": {
+      "lat": "36.066",
+      "lon": "7.256"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

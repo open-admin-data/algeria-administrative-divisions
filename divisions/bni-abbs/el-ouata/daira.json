@@ -1,0 +1,47 @@
+{
+  "id": "DZ052_el-ouata",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الواتة",
+    "en": "El Ouata",
+    "slug": "el-ouata"
+  },
+  "code": {
+    "id": "DZ052_el-ouata",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ052",
+    "level": 1,
+    "name": {
+      "local": "بني عباس",
+      "en": "Béni Abbès",
+      "slug": "bni-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ052",
+      "level": 1,
+      "name": {
+        "local": "بني عباس",
+        "en": "Béni Abbès",
+        "slug": "bni-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.121",
+    "lon": "-1.382"
+  },
+  "metadata": {},
+  "source": {}
+}

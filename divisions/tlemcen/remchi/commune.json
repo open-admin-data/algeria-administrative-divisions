@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ013_remchi_ain-youcef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين يوسف",
+      "en": "Ain Youcef",
+      "slug": "ain-youcef"
+    },
+    "code": {
+      "id": "DZ013_remchi_ain-youcef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_remchi",
+      "level": 2,
+      "name": {
+        "local": "الرمشي",
+        "en": "Remchi",
+        "slug": "remchi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_remchi",
+        "level": 2,
+        "name": {
+          "local": "الرمشي",
+          "en": "Remchi",
+          "slug": "remchi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13013"
+    ],
+    "geo": {
+      "lat": "35.075",
+      "lon": "-1.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_remchi_beni-ouarsous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني وارسوس",
+      "en": "Beni Ouarsous",
+      "slug": "beni-ouarsous"
+    },
+    "code": {
+      "id": "DZ013_remchi_beni-ouarsous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_remchi",
+      "level": 2,
+      "name": {
+        "local": "الرمشي",
+        "en": "Remchi",
+        "slug": "remchi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_remchi",
+        "level": 2,
+        "name": {
+          "local": "الرمشي",
+          "en": "Remchi",
+          "slug": "remchi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13025"
+    ],
+    "geo": {
+      "lat": "35.095",
+      "lon": "-1.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_remchi_el-fehoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الفحول",
+      "en": "El Fehoul",
+      "slug": "el-fehoul"
+    },
+    "code": {
+      "id": "DZ013_remchi_el-fehoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_remchi",
+      "level": 2,
+      "name": {
+        "local": "الرمشي",
+        "en": "Remchi",
+        "slug": "remchi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_remchi",
+        "level": 2,
+        "name": {
+          "local": "الرمشي",
+          "en": "Remchi",
+          "slug": "remchi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13033"
+    ],
+    "geo": {
+      "lat": "35.141",
+      "lon": "-1.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_remchi_remchi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرمشي",
+      "en": "Remchi",
+      "slug": "remchi"
+    },
+    "code": {
+      "id": "DZ013_remchi_remchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_remchi",
+      "level": 2,
+      "name": {
+        "local": "الرمشي",
+        "en": "Remchi",
+        "slug": "remchi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_remchi",
+        "level": 2,
+        "name": {
+          "local": "الرمشي",
+          "en": "Remchi",
+          "slug": "remchi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13005"
+    ],
+    "geo": {
+      "lat": "35.113",
+      "lon": "-1.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_remchi_sebbaa-chioukh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سبعة شيوخ",
+      "en": "Sebbaa Chioukh",
+      "slug": "sebbaa-chioukh"
+    },
+    "code": {
+      "id": "DZ013_remchi_sebbaa-chioukh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_remchi",
+      "level": 2,
+      "name": {
+        "local": "الرمشي",
+        "en": "Remchi",
+        "slug": "remchi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_remchi",
+        "level": 2,
+        "name": {
+          "local": "الرمشي",
+          "en": "Remchi",
+          "slug": "remchi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13042"
+    ],
+    "geo": {
+      "lat": "35.106",
+      "lon": "-1.423"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

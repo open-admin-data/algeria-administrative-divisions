@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_ksar-chellala_ksar-chellala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر الشلالة",
+      "en": "Ksar Chellala",
+      "slug": "ksar-chellala"
+    },
+    "code": {
+      "id": "DZ014_ksar-chellala_ksar-chellala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ksar-chellala",
+      "level": 2,
+      "name": {
+        "local": "قصر الشلالة",
+        "en": "Ksar Chellala",
+        "slug": "ksar-chellala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ksar-chellala",
+        "level": 2,
+        "name": {
+          "local": "قصر الشلالة",
+          "en": "Ksar Chellala",
+          "slug": "ksar-chellala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14002"
+    ],
+    "geo": {
+      "lat": "35.25",
+      "lon": "2.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ksar-chellala_serghine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سرغين",
+      "en": "Serghine",
+      "slug": "serghine"
+    },
+    "code": {
+      "id": "DZ014_ksar-chellala_serghine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ksar-chellala",
+      "level": 2,
+      "name": {
+        "local": "قصر الشلالة",
+        "en": "Ksar Chellala",
+        "slug": "ksar-chellala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ksar-chellala",
+        "level": 2,
+        "name": {
+          "local": "قصر الشلالة",
+          "en": "Ksar Chellala",
+          "slug": "ksar-chellala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14051"
+    ],
+    "geo": {
+      "lat": "35.211",
+      "lon": "2.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ksar-chellala_zmalet-el-emir-abdelkade",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زمالة  الأمير عبد القادر",
+      "en": "Zmalet El Emir Abdelkade",
+      "slug": "zmalet-el-emir-abdelkade"
+    },
+    "code": {
+      "id": "DZ014_ksar-chellala_zmalet-el-emir-abdelkade",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_ksar-chellala",
+      "level": 2,
+      "name": {
+        "local": "قصر الشلالة",
+        "en": "Ksar Chellala",
+        "slug": "ksar-chellala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_ksar-chellala",
+        "level": 2,
+        "name": {
+          "local": "قصر الشلالة",
+          "en": "Ksar Chellala",
+          "slug": "ksar-chellala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14038"
+    ],
+    "geo": {
+      "lat": "35.23",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

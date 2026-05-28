@@ -1,0 +1,45 @@
+{
+  "id": "DZ038035",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Ali Boussidi",
+    "en": "Sidi Ali Boussidi",
+    "slug": "sidi-ali-boussidi-dz038035"
+  },
+  "code": {
+    "id": "DZ038035",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.107",
+    "lon": "-0.832"
+  },
+  "metadata": {},
+  "source": {}
+}

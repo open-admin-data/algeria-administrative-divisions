@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ022_ras-el-ma_oued-sebaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي السبع",
+      "en": "Oued Sebaa",
+      "slug": "oued-sebaa"
+    },
+    "code": {
+      "id": "DZ022_ras-el-ma_oued-sebaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ras-el-ma",
+      "level": 2,
+      "name": {
+        "local": "راس الماء",
+        "en": "Ras El Ma",
+        "slug": "ras-el-ma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ras-el-ma",
+        "level": 2,
+        "name": {
+          "local": "راس الماء",
+          "en": "Ras El Ma",
+          "slug": "ras-el-ma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22054"
+    ],
+    "geo": {
+      "lat": "34.504",
+      "lon": "-0.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ras-el-ma_ras-el-ma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "راس الماء",
+      "en": "Ras El Ma",
+      "slug": "ras-el-ma"
+    },
+    "code": {
+      "id": "DZ022_ras-el-ma_ras-el-ma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ras-el-ma",
+      "level": 2,
+      "name": {
+        "local": "راس الماء",
+        "en": "Ras El Ma",
+        "slug": "ras-el-ma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ras-el-ma",
+        "level": 2,
+        "name": {
+          "local": "راس الماء",
+          "en": "Ras El Ma",
+          "slug": "ras-el-ma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22069"
+    ],
+    "geo": {
+      "lat": "34.504",
+      "lon": "-0.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ras-el-ma_redjem-demouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رجم دموش",
+      "en": "Redjem Demouche",
+      "slug": "redjem-demouche"
+    },
+    "code": {
+      "id": "DZ022_ras-el-ma_redjem-demouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ras-el-ma",
+      "level": 2,
+      "name": {
+        "local": "راس الماء",
+        "en": "Ras El Ma",
+        "slug": "ras-el-ma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ras-el-ma",
+        "level": 2,
+        "name": {
+          "local": "راس الماء",
+          "en": "Ras El Ma",
+          "slug": "ras-el-ma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22058"
+    ],
+    "geo": {
+      "lat": "34.504",
+      "lon": "-0.789"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

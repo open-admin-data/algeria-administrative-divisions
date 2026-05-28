@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ031_ain-turk_ain-turk",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الترك",
+      "en": "Ain Turk",
+      "slug": "ain-turk"
+    },
+    "code": {
+      "id": "DZ031_ain-turk_ain-turk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_ain-turk",
+      "level": 2,
+      "name": {
+        "local": "عين الترك",
+        "en": "Ain Turk",
+        "slug": "ain-turk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_ain-turk",
+        "level": 2,
+        "name": {
+          "local": "عين الترك",
+          "en": "Ain Turk",
+          "slug": "ain-turk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10033"
+    ],
+    "geo": {
+      "lat": "35.74",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_ain-turk_bousfer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوسفر",
+      "en": "Bousfer",
+      "slug": "bousfer"
+    },
+    "code": {
+      "id": "DZ031_ain-turk_bousfer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_ain-turk",
+      "level": 2,
+      "name": {
+        "local": "عين الترك",
+        "en": "Ain Turk",
+        "slug": "ain-turk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_ain-turk",
+        "level": 2,
+        "name": {
+          "local": "عين الترك",
+          "en": "Ain Turk",
+          "slug": "ain-turk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31025"
+    ],
+    "geo": {
+      "lat": "35.72",
+      "lon": "-0.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_ain-turk_el-ancor",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العنصر",
+      "en": "El Ancor",
+      "slug": "el-ancor"
+    },
+    "code": {
+      "id": "DZ031_ain-turk_el-ancor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_ain-turk",
+      "level": 2,
+      "name": {
+        "local": "عين الترك",
+        "en": "Ain Turk",
+        "slug": "ain-turk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_ain-turk",
+        "level": 2,
+        "name": {
+          "local": "عين الترك",
+          "en": "Ain Turk",
+          "slug": "ain-turk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31043"
+    ],
+    "geo": {
+      "lat": "35.681",
+      "lon": "-0.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_ain-turk_mers-el-kebir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرسى الكبير",
+      "en": "Mers El Kebir",
+      "slug": "mers-el-kebir"
+    },
+    "code": {
+      "id": "DZ031_ain-turk_mers-el-kebir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_ain-turk",
+      "level": 2,
+      "name": {
+        "local": "عين الترك",
+        "en": "Ain Turk",
+        "slug": "ain-turk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_ain-turk",
+        "level": 2,
+        "name": {
+          "local": "عين الترك",
+          "en": "Ain Turk",
+          "slug": "ain-turk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31019"
+    ],
+    "geo": {
+      "lat": "35.721",
+      "lon": "-0.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

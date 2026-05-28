@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_honnaine_beni-khellad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني خلاد",
+      "en": "Beni Khellad",
+      "slug": "beni-khellad"
+    },
+    "code": {
+      "id": "DZ013_honnaine_beni-khellad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_honnaine",
+      "level": 2,
+      "name": {
+        "local": "هنين",
+        "en": "Honnaine",
+        "slug": "honnaine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_honnaine",
+        "level": 2,
+        "name": {
+          "local": "هنين",
+          "en": "Honnaine",
+          "slug": "honnaine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13074"
+    ],
+    "geo": {
+      "lat": "35.184",
+      "lon": "-1.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_honnaine_honnaine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "هنين",
+      "en": "Honnaine",
+      "slug": "honnaine"
+    },
+    "code": {
+      "id": "DZ013_honnaine_honnaine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_honnaine",
+      "level": 2,
+      "name": {
+        "local": "هنين",
+        "en": "Honnaine",
+        "slug": "honnaine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_honnaine",
+        "level": 2,
+        "name": {
+          "local": "هنين",
+          "en": "Honnaine",
+          "slug": "honnaine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13015"
+    ],
+    "geo": {
+      "lat": "35.184",
+      "lon": "-1.588"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

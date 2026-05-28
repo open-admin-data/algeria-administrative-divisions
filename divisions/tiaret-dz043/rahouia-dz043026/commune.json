@@ -1,0 +1,45 @@
+{
+  "id": "DZ043026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rahouia",
+    "en": "Rahouia",
+    "slug": "rahouia-dz043026"
+  },
+  "code": {
+    "id": "DZ043026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.532",
+    "lon": "1.016"
+  },
+  "metadata": {},
+  "source": {}
+}

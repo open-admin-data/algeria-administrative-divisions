@@ -1,0 +1,47 @@
+{
+  "id": "DZ002_zeboudja",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الزبوجة",
+    "en": "Zeboudja",
+    "slug": "zeboudja"
+  },
+  "code": {
+    "id": "DZ002_zeboudja",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": " الشلف",
+      "en": "Chlef",
+      "slug": "chlef"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": " الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.382",
+    "lon": "1.374"
+  },
+  "metadata": {},
+  "source": {}
+}

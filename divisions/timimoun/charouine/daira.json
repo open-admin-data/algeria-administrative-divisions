@@ -1,0 +1,47 @@
+{
+  "id": "DZ049_charouine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "شروين",
+    "en": "Charouine",
+    "slug": "charouine"
+  },
+  "code": {
+    "id": "DZ049_charouine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ049",
+    "level": 1,
+    "name": {
+      "local": "تيميمون",
+      "en": "Timimoun",
+      "slug": "timimoun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ049",
+      "level": 1,
+      "name": {
+        "local": "تيميمون",
+        "en": "Timimoun",
+        "slug": "timimoun"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.118",
+    "lon": "1.648"
+  },
+  "metadata": {},
+  "source": {}
+}

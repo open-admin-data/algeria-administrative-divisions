@@ -1,0 +1,47 @@
+{
+  "id": "DZ034_bordj-bou-arreridj",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج بوعريريج",
+    "en": "Bordj Bou Arreridj",
+    "slug": "bordj-bou-arreridj"
+  },
+  "code": {
+    "id": "DZ034_bordj-bou-arreridj",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.043",
+    "lon": "4.57"
+  },
+  "metadata": {},
+  "source": {}
+}

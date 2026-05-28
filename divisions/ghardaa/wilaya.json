@@ -1,0 +1,30 @@
+{
+  "id": "DZ047",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "غرداية",
+    "en": "Ghardaïa",
+    "slug": "ghardaa"
+  },
+  "code": {
+    "id": "DZ047",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 8,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.953",
+    "lon": "3.784"
+  },
+  "metadata": {},
+  "source": {}
+}

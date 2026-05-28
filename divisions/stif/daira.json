@@ -1,0 +1,942 @@
+[
+  {
+    "id": "DZ019_ain-arnat",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين أرنات",
+      "en": "Ain Arnat",
+      "slug": "ain-arnat"
+    },
+    "code": {
+      "id": "DZ019_ain-arnat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.217",
+      "lon": "5.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-azel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين أزال",
+      "en": "Ain Azel",
+      "slug": "ain-azel"
+    },
+    "code": {
+      "id": "DZ019_ain-azel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.923",
+      "lon": "5.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-el-kebira",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الكبيرة",
+      "en": "Ain El Kebira",
+      "slug": "ain-el-kebira"
+    },
+    "code": {
+      "id": "DZ019_ain-el-kebira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.366",
+      "lon": "5.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-oulmene",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين ولمان",
+      "en": "Ain Oulmene",
+      "slug": "ain-oulmene"
+    },
+    "code": {
+      "id": "DZ019_ain-oulmene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_amoucha",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عموشة",
+      "en": "Amoucha",
+      "slug": "amoucha"
+    },
+    "code": {
+      "id": "DZ019_amoucha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.438",
+      "lon": "5.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_babor",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بابور",
+      "en": "Babor",
+      "slug": "babor"
+    },
+    "code": {
+      "id": "DZ019_babor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.491",
+      "lon": "5.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-aziz",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني عزيز",
+      "en": "Beni Aziz",
+      "slug": "beni-aziz"
+    },
+    "code": {
+      "id": "DZ019_beni-aziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.451",
+      "lon": "5.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-ourtilane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني ورتيلان",
+      "en": "Beni Ourtilane",
+      "slug": "beni-ourtilane"
+    },
+    "code": {
+      "id": "DZ019_beni-ourtilane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.493",
+      "lon": "4.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bir-el-arch",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر العرش",
+      "en": "Bir El Arch",
+      "slug": "bir-el-arch"
+    },
+    "code": {
+      "id": "DZ019_bir-el-arch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.198",
+      "lon": "5.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bouandas",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوعنداس",
+      "en": "Bouandas",
+      "slug": "bouandas"
+    },
+    "code": {
+      "id": "DZ019_bouandas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.513",
+      "lon": "5.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bougaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوقاعة",
+      "en": "Bougaa",
+      "slug": "bougaa"
+    },
+    "code": {
+      "id": "DZ019_bougaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.333",
+      "lon": "5.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_djemila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جميلة",
+      "en": "Djemila",
+      "slug": "djemila"
+    },
+    "code": {
+      "id": "DZ019_djemila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.317",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_el-eulma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العلمة",
+      "en": "El Eulma",
+      "slug": "el-eulma"
+    },
+    "code": {
+      "id": "DZ019_el-eulma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.126",
+      "lon": "5.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_guenzet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قنزات",
+      "en": "Guenzet",
+      "slug": "guenzet"
+    },
+    "code": {
+      "id": "DZ019_guenzet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.349",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_guidjel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قجال",
+      "en": "Guidjel",
+      "slug": "guidjel"
+    },
+    "code": {
+      "id": "DZ019_guidjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.134",
+      "lon": "5.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_hammam-guergour",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام قرقور",
+      "en": "Hammam Guergour",
+      "slug": "hammam-guergour"
+    },
+    "code": {
+      "id": "DZ019_hammam-guergour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.387",
+      "lon": "5.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_hammam-sokhna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمام السخنة",
+      "en": "Hammam Sokhna",
+      "slug": "hammam-sokhna"
+    },
+    "code": {
+      "id": "DZ019_hammam-sokhna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.946",
+      "lon": "5.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_maoklane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ماوكلان",
+      "en": "Maoklane",
+      "slug": "maoklane"
+    },
+    "code": {
+      "id": "DZ019_maoklane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.455",
+      "lon": "5.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_salah-bey",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "صالح باي",
+      "en": "Salah Bey",
+      "slug": "salah-bey"
+    },
+    "code": {
+      "id": "DZ019_salah-bey",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.755",
+      "lon": "5.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_setif",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif"
+    },
+    "code": {
+      "id": "DZ019_setif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.192",
+      "lon": "5.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

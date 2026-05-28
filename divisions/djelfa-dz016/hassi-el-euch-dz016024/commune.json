@@ -1,0 +1,45 @@
+{
+  "id": "DZ016024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi El Euch",
+    "en": "Hassi El Euch",
+    "slug": "hassi-el-euch-dz016024"
+  },
+  "code": {
+    "id": "DZ016024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.079",
+    "lon": "3.241"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ058_el-menia_el-meniaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المنيعة",
+      "en": "El Meniaa",
+      "slug": "el-meniaa"
+    },
+    "code": {
+      "id": "DZ058_el-menia_el-meniaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ058_el-menia",
+      "level": 2,
+      "name": {
+        "local": "المنيعة",
+        "en": "El Menia",
+        "slug": "el-menia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ058",
+        "level": 1,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      },
+      {
+        "id": "DZ058_el-menia",
+        "level": 2,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ058_el-menia_hassi-gara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي القارة",
+      "en": "Hassi Gara",
+      "slug": "hassi-gara"
+    },
+    "code": {
+      "id": "DZ058_el-menia_hassi-gara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ058_el-menia",
+      "level": 2,
+      "name": {
+        "local": "المنيعة",
+        "en": "El Menia",
+        "slug": "el-menia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ058",
+        "level": 1,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      },
+      {
+        "id": "DZ058_el-menia",
+        "level": 2,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

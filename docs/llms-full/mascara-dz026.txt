@@ -1,0 +1,244 @@
+# Mascara — Algeria Administrative Divisions
+
+> 47 communes
+> Code: DZ026
+> Coordinates: 35.4, 0.241
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Fares
+
+Code: DZ026001, Coordinates: 35.481, 0.245
+
+
+### Ain Fekan
+
+Code: DZ026002, Coordinates: 35.183, -0.027
+
+
+### Ain Ferah
+
+Code: DZ026003, Coordinates: 35.373, 0.795
+
+
+### Ain Frass
+
+Code: DZ026004, Coordinates: 35.196, -0.151
+
+
+### Alaimia
+
+Code: DZ026005, Coordinates: 35.687, -0.238
+
+
+### Aouf
+
+Code: DZ026006, Coordinates: 35.127, 0.357
+
+
+### Benian
+
+Code: DZ026007, Coordinates: 35.086, 0.228
+
+
+### Bouhanifia
+
+Code: DZ026008, Coordinates: 35.307, -0.105
+
+
+### Bouhenni
+
+Code: DZ026009, Coordinates: 35.532, -0.046
+
+
+### Chorfa
+
+Code: DZ026010, Coordinates: 35.425, -0.2
+
+
+### El Bordj
+
+Code: DZ026011, Coordinates: 35.507, 0.332
+
+
+### El Gaada
+
+Code: DZ026012, Coordinates: 35.433, -0.344
+
+
+### El Ghomri
+
+Code: DZ026013, Coordinates: 35.68, 0.21
+
+
+### El Gueitna
+
+Code: DZ026014, Coordinates: 35.42, -0.066
+
+
+### El Hachem
+
+Code: DZ026015, Coordinates: 35.365, 0.542
+
+
+### El Keurt
+
+Code: DZ026016, Coordinates: 35.39, 0.061
+
+
+### El Mamounia
+
+Code: DZ026017, Coordinates: 35.464, 0.14
+
+
+### El Menaouer
+
+Code: DZ026018, Coordinates: 35.53, 0.433
+
+
+### Ferraguig
+
+Code: DZ026019, Coordinates: 35.555, 0.171
+
+
+### Froha
+
+Code: DZ026020, Coordinates: 35.28, 0.119
+
+
+### Gharrous
+
+Code: DZ026021, Coordinates: 35.147, 0.466
+
+
+### Ghriss
+
+Code: DZ026022, Coordinates: 35.232, 0.167
+
+
+### Guerdjoum
+
+Code: DZ026023, Coordinates: 35.198, 0.08
+
+
+### Hacine
+
+Code: DZ026024, Coordinates: 35.452, 0.018
+
+
+### Khalouia
+
+Code: DZ026025, Coordinates: 35.462, 0.298
+
+
+### Makda
+
+Code: DZ026026, Coordinates: 35.193, 0.269
+
+
+### Maoussa
+
+Code: DZ026027, Coordinates: 35.379, 0.23
+
+
+### Mascara
+
+Code: DZ026028, Coordinates: 35.387, 0.151
+
+
+### Matmore
+
+Code: DZ026029, Coordinates: 35.303, 0.204
+
+
+### Moctadouz
+
+Code: DZ026030, Coordinates: 35.688, -0.121
+
+
+### Mohammadia
+
+Code: DZ026031, Coordinates: 35.585, 0.058
+
+
+### Nesmoth
+
+Code: DZ026032, Coordinates: 35.244, 0.4
+
+
+### Oggaz
+
+Code: DZ026033, Coordinates: 35.574, -0.293
+
+
+### Oued El Abtal
+
+Code: DZ026034, Coordinates: 35.417, 0.712
+
+
+### Oued Taghia
+
+Code: DZ026035, Coordinates: 35.124, 0.093
+
+
+### Ras El Ain Amirouche
+
+Code: DZ026036, Coordinates: 35.626, -0.214
+
+
+### Sedjerara
+
+Code: DZ026037, Coordinates: 35.607, 0.234
+
+
+### Sehailia
+
+Code: DZ026038, Coordinates: 35.465, 0.391
+
+
+### Sidi Abdeldjabar
+
+Code: DZ026039, Coordinates: 35.466, 0.517
+
+
+### Sidi Abdelmoumene
+
+Code: DZ026040, Coordinates: 35.689, 0.012
+
+
+### Sidi Boussaid
+
+Code: DZ026041, Coordinates: 35.276, 0.297
+
+
+### Sidi Kada
+
+Code: DZ026042, Coordinates: 35.331, 0.339
+
+
+### Sig
+
+Code: DZ026043, Coordinates: 35.531, -0.165
+
+
+### Tighennif
+
+Code: DZ026044, Coordinates: 35.411, 0.345
+
+
+### Tizi
+
+Code: DZ026045, Coordinates: 35.32, 0.043
+
+
+### Zahana
+
+Code: DZ026046, Coordinates: 35.503, -0.4
+
+
+### Zelmata
+
+Code: DZ026047, Coordinates: 35.269, 0.53
+
+

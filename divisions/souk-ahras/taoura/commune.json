@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_taoura_drea",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدريعة",
+      "en": "Drea",
+      "slug": "drea"
+    },
+    "code": {
+      "id": "DZ041_taoura_drea",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_taoura",
+      "level": 2,
+      "name": {
+        "local": "تاورة",
+        "en": "Taoura",
+        "slug": "taoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_taoura",
+        "level": 2,
+        "name": {
+          "local": "تاورة",
+          "en": "Taoura",
+          "slug": "taoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41015"
+    ],
+    "geo": {
+      "lat": "36.061",
+      "lon": "7.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_taoura_taoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاورة",
+      "en": "Taoura",
+      "slug": "taoura"
+    },
+    "code": {
+      "id": "DZ041_taoura_taoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_taoura",
+      "level": 2,
+      "name": {
+        "local": "تاورة",
+        "en": "Taoura",
+        "slug": "taoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_taoura",
+        "level": 2,
+        "name": {
+          "local": "تاورة",
+          "en": "Taoura",
+          "slug": "taoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41009"
+    ],
+    "geo": {
+      "lat": "36.095",
+      "lon": "8.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_taoura_zaarouria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزعرورية",
+      "en": "Zaarouria",
+      "slug": "zaarouria"
+    },
+    "code": {
+      "id": "DZ041_taoura_zaarouria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_taoura",
+      "level": 2,
+      "name": {
+        "local": "تاورة",
+        "en": "Taoura",
+        "slug": "taoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_taoura",
+        "level": 2,
+        "name": {
+          "local": "تاورة",
+          "en": "Taoura",
+          "slug": "taoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41025"
+    ],
+    "geo": {
+      "lat": "36.196",
+      "lon": "7.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

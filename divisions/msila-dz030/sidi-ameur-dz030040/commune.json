@@ -1,0 +1,45 @@
+{
+  "id": "DZ030040",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Ameur",
+    "en": "Sidi Ameur",
+    "slug": "sidi-ameur-dz030040"
+  },
+  "code": {
+    "id": "DZ030040",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.368",
+    "lon": "3.824"
+  },
+  "metadata": {},
+  "source": {}
+}

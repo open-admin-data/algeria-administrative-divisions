@@ -1,0 +1,129 @@
+# Laghouat — Algeria Administrative Divisions
+
+> 24 communes
+> Code: DZ025
+> Coordinates: 33.75, 2.639
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Aflou
+
+Code: DZ025001, Coordinates: 34.157, 2.093
+
+
+### Ain Madhi
+
+Code: DZ025002, Coordinates: 33.34, 2.364
+
+
+### Ain Sidi Ali
+
+Code: DZ025003, Coordinates: 34.165, 1.562
+
+
+### Beidha
+
+Code: DZ025004, Coordinates: 34.53, 2.151
+
+
+### Brida
+
+Code: DZ025005, Coordinates: 33.996, 1.779
+
+
+### El Assafia
+
+Code: DZ025006, Coordinates: 33.908, 3.091
+
+
+### El Ghicha
+
+Code: DZ025007, Coordinates: 33.877, 2.134
+
+
+### El Haouaita
+
+Code: DZ025008, Coordinates: 33.55, 2.499
+
+
+### Gueltat Sidi Saad
+
+Code: DZ025009, Coordinates: 34.275, 1.838
+
+
+### Hadj Mechri
+
+Code: DZ025010, Coordinates: 34, 1.541
+
+
+### Hassi Dhelaa
+
+Code: DZ025011, Coordinates: 33.396, 3.704
+
+
+### Hassi R&#39;Mel
+
+Code: DZ025012, Coordinates: 33.141, 3.27
+
+
+### Kheneg
+
+Code: DZ025013, Coordinates: 33.442, 2.779
+
+
+### Ksar El Hirane
+
+Code: DZ025014, Coordinates: 33.707, 3.221
+
+
+### Laghouat
+
+Code: DZ025015, Coordinates: 33.845, 2.836
+
+
+### Mekhareg
+
+Code: DZ025016, Coordinates: 33.526, 3.039
+
+
+### Oued M&#39;Zi
+
+Code: DZ025018, Coordinates: 34.038, 2.338
+
+
+### Oued Morra
+
+Code: DZ025017, Coordinates: 34.208, 2.329
+
+
+### Sebgag
+
+Code: DZ025019, Coordinates: 34.056, 1.966
+
+
+### Sidi Bouzid
+
+Code: DZ025020, Coordinates: 34.329, 2.192
+
+
+### Sidi Makhlouf
+
+Code: DZ025021, Coordinates: 34.071, 2.862
+
+
+### Tadjemout
+
+Code: DZ025022, Coordinates: 34.143, 2.547
+
+
+### Tadjrouna
+
+Code: DZ025023, Coordinates: 33.556, 2.058
+
+
+### Taouila
+
+Code: DZ025024, Coordinates: 33.856, 1.84
+
+

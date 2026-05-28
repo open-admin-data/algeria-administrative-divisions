@@ -1,0 +1,45 @@
+{
+  "id": "DZ006057",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tigharghar",
+    "en": "Tigharghar",
+    "slug": "tigharghar-dz006057"
+  },
+  "code": {
+    "id": "DZ006057",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.08",
+    "lon": "5.978"
+  },
+  "metadata": {},
+  "source": {}
+}

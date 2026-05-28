@@ -1,0 +1,45 @@
+{
+  "id": "DZ007012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ksabi",
+    "en": "Ksabi",
+    "slug": "ksabi-dz007012"
+  },
+  "code": {
+    "id": "DZ007012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.099",
+    "lon": "-1.067"
+  },
+  "metadata": {},
+  "source": {}
+}

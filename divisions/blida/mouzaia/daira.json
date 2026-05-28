@@ -1,0 +1,47 @@
+{
+  "id": "DZ009_mouzaia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "موزاية",
+    "en": "Mouzaia",
+    "slug": "mouzaia"
+  },
+  "code": {
+    "id": "DZ009_mouzaia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.449",
+    "lon": "2.693"
+  },
+  "metadata": {},
+  "source": {}
+}

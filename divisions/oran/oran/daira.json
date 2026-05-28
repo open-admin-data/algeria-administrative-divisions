@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_oran",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "وهران",
+    "en": "Oran",
+    "slug": "oran"
+  },
+  "code": {
+    "id": "DZ031_oran",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.71",
+    "lon": "-0.615"
+  },
+  "metadata": {},
+  "source": {}
+}

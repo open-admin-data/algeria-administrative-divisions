@@ -1,0 +1,47 @@
+{
+  "id": "DZ022_merine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مرين",
+    "en": "Merine",
+    "slug": "merine"
+  },
+  "code": {
+    "id": "DZ022_merine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbès",
+      "slug": "sidi-bel-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.674",
+    "lon": "-0.266"
+  },
+  "metadata": {},
+  "source": {}
+}

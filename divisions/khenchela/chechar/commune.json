@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ040_chechar_chechar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ششار",
+      "en": "Chechar",
+      "slug": "chechar"
+    },
+    "code": {
+      "id": "DZ040_chechar_chechar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_chechar",
+      "level": 2,
+      "name": {
+        "local": "ششار",
+        "en": "Chechar",
+        "slug": "chechar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_chechar",
+        "level": 2,
+        "name": {
+          "local": "ششار",
+          "en": "Chechar",
+          "slug": "chechar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40008"
+    ],
+    "geo": {
+      "lat": "35.326",
+      "lon": "6.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_chechar_djellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جلال",
+      "en": "Djellal",
+      "slug": "djellal"
+    },
+    "code": {
+      "id": "DZ040_chechar_djellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_chechar",
+      "level": 2,
+      "name": {
+        "local": "ششار",
+        "en": "Chechar",
+        "slug": "chechar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_chechar",
+        "level": 2,
+        "name": {
+          "local": "ششار",
+          "en": "Chechar",
+          "slug": "chechar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40015"
+    ],
+    "geo": {
+      "lat": "34.877",
+      "lon": "6.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_chechar_el-oueldja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الولجة",
+      "en": "El Oueldja",
+      "slug": "el-oueldja"
+    },
+    "code": {
+      "id": "DZ040_chechar_el-oueldja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_chechar",
+      "level": 2,
+      "name": {
+        "local": "ششار",
+        "en": "Chechar",
+        "slug": "chechar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_chechar",
+        "level": 2,
+        "name": {
+          "local": "ششار",
+          "en": "Chechar",
+          "slug": "chechar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.089",
+      "lon": "5.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_chechar_khirane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خيران",
+      "en": "Khirane",
+      "slug": "khirane"
+    },
+    "code": {
+      "id": "DZ040_chechar_khirane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_chechar",
+      "level": 2,
+      "name": {
+        "local": "ششار",
+        "en": "Chechar",
+        "slug": "chechar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_chechar",
+        "level": 2,
+        "name": {
+          "local": "ششار",
+          "en": "Chechar",
+          "slug": "chechar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40036"
+    ],
+    "geo": {
+      "lat": "35.012",
+      "lon": "6.806"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

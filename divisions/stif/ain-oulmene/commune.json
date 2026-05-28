@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_ain-oulmene_ain-oulmene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين ولمان",
+      "en": "Ain Oulmene",
+      "slug": "ain-oulmene"
+    },
+    "code": {
+      "id": "DZ019_ain-oulmene_ain-oulmene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-oulmene",
+      "level": 2,
+      "name": {
+        "local": "عين ولمان",
+        "en": "Ain Oulmene",
+        "slug": "ain-oulmene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-oulmene",
+        "level": 2,
+        "name": {
+          "local": "عين ولمان",
+          "en": "Ain Oulmene",
+          "slug": "ain-oulmene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19002"
+    ],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-oulmene_guellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قلال",
+      "en": "Guellal",
+      "slug": "guellal"
+    },
+    "code": {
+      "id": "DZ019_ain-oulmene_guellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-oulmene",
+      "level": 2,
+      "name": {
+        "local": "عين ولمان",
+        "en": "Ain Oulmene",
+        "slug": "ain-oulmene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-oulmene",
+        "level": 2,
+        "name": {
+          "local": "عين ولمان",
+          "en": "Ain Oulmene",
+          "slug": "ain-oulmene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19050"
+    ],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-oulmene_kasr-el-abtal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر الابطال",
+      "en": "Kasr El Abtal",
+      "slug": "kasr-el-abtal"
+    },
+    "code": {
+      "id": "DZ019_ain-oulmene_kasr-el-abtal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-oulmene",
+      "level": 2,
+      "name": {
+        "local": "عين ولمان",
+        "en": "Ain Oulmene",
+        "slug": "ain-oulmene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-oulmene",
+        "level": 2,
+        "name": {
+          "local": "عين ولمان",
+          "en": "Ain Oulmene",
+          "slug": "ain-oulmene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19054"
+    ],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-oulmene_ouled-si-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد سي أحمد",
+      "en": "Ouled Si Ahmed",
+      "slug": "ouled-si-ahmed"
+    },
+    "code": {
+      "id": "DZ019_ain-oulmene_ouled-si-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-oulmene",
+      "level": 2,
+      "name": {
+        "local": "عين ولمان",
+        "en": "Ain Oulmene",
+        "slug": "ain-oulmene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-oulmene",
+        "level": 2,
+        "name": {
+          "local": "عين ولمان",
+          "en": "Ain Oulmene",
+          "slug": "ain-oulmene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19121"
+    ],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

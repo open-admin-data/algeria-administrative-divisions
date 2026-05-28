@@ -1,0 +1,29 @@
+{
+  "id": "DZ029",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "مستغانم",
+    "en": "Mostaganem",
+    "slug": "mostaganem-dz029"
+  },
+  "code": {
+    "id": "DZ029",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.004",
+    "lon": "0.368"
+  },
+  "metadata": {},
+  "source": {}
+}

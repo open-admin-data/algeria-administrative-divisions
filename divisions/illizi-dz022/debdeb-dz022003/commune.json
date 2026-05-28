@@ -1,0 +1,45 @@
+{
+  "id": "DZ022003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Debdeb",
+    "en": "Debdeb",
+    "slug": "debdeb-dz022003"
+  },
+  "code": {
+    "id": "DZ022003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "اليزي",
+      "en": "Illizi",
+      "slug": "illizi-dz022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.522",
+    "lon": "8.897"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_sidi-laadjel_el-khemis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخميس",
+      "en": "El Khemis",
+      "slug": "el-khemis"
+    },
+    "code": {
+      "id": "DZ017_sidi-laadjel_el-khemis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_sidi-laadjel",
+      "level": 2,
+      "name": {
+        "local": "سيدي لعجال",
+        "en": "Sidi Laadjel",
+        "slug": "sidi-laadjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_sidi-laadjel",
+        "level": 2,
+        "name": {
+          "local": "سيدي لعجال",
+          "en": "Sidi Laadjel",
+          "slug": "sidi-laadjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17051"
+    ],
+    "geo": {
+      "lat": "35.401",
+      "lon": "2.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_sidi-laadjel_hassi-fedoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي فدول",
+      "en": "Hassi Fedoul",
+      "slug": "hassi-fedoul"
+    },
+    "code": {
+      "id": "DZ017_sidi-laadjel_hassi-fedoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_sidi-laadjel",
+      "level": 2,
+      "name": {
+        "local": "سيدي لعجال",
+        "en": "Sidi Laadjel",
+        "slug": "sidi-laadjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_sidi-laadjel",
+        "level": 2,
+        "name": {
+          "local": "سيدي لعجال",
+          "en": "Sidi Laadjel",
+          "slug": "sidi-laadjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17056"
+    ],
+    "geo": {
+      "lat": "35.395",
+      "lon": "2.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_sidi-laadjel_sidi-laadjel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي لعجال",
+      "en": "Sidi Laadjel",
+      "slug": "sidi-laadjel"
+    },
+    "code": {
+      "id": "DZ017_sidi-laadjel_sidi-laadjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_sidi-laadjel",
+      "level": 2,
+      "name": {
+        "local": "سيدي لعجال",
+        "en": "Sidi Laadjel",
+        "slug": "sidi-laadjel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_sidi-laadjel",
+        "level": 2,
+        "name": {
+          "local": "سيدي لعجال",
+          "en": "Sidi Laadjel",
+          "slug": "sidi-laadjel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17024"
+    ],
+    "geo": {
+      "lat": "35.389",
+      "lon": "2.466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

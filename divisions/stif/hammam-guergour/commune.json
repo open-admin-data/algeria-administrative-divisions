@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_hammam-guergour_draa-kebila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ذراع قبيلة",
+      "en": "Draa-Kebila",
+      "slug": "draa-kebila"
+    },
+    "code": {
+      "id": "DZ019_hammam-guergour_draa-kebila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_hammam-guergour",
+      "level": 2,
+      "name": {
+        "local": "حمام قرقور",
+        "en": "Hammam Guergour",
+        "slug": "hammam-guergour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_hammam-guergour",
+        "level": 2,
+        "name": {
+          "local": "حمام قرقور",
+          "en": "Hammam Guergour",
+          "slug": "hammam-guergour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19029"
+    ],
+    "geo": {
+      "lat": "36.424",
+      "lon": "4.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_hammam-guergour_hammam-guergour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام قرقور",
+      "en": "Hammam Guergour",
+      "slug": "hammam-guergour"
+    },
+    "code": {
+      "id": "DZ019_hammam-guergour_hammam-guergour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_hammam-guergour",
+      "level": 2,
+      "name": {
+        "local": "حمام قرقور",
+        "en": "Hammam Guergour",
+        "slug": "hammam-guergour"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_hammam-guergour",
+        "level": 2,
+        "name": {
+          "local": "حمام قرقور",
+          "en": "Hammam Guergour",
+          "slug": "hammam-guergour"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19051"
+    ],
+    "geo": {
+      "lat": "36.35",
+      "lon": "5.033"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

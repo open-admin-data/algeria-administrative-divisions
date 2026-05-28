@@ -1,0 +1,45 @@
+{
+  "id": "DZ026034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued El Abtal",
+    "en": "Oued El Abtal",
+    "slug": "oued-el-abtal-dz026034"
+  },
+  "code": {
+    "id": "DZ026034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.417",
+    "lon": "0.712"
+  },
+  "metadata": {},
+  "source": {}
+}

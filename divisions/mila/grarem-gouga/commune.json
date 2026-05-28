@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_grarem-gouga_grarem-gouga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القرارم قوقة",
+      "en": "Grarem Gouga",
+      "slug": "grarem-gouga"
+    },
+    "code": {
+      "id": "DZ043_grarem-gouga_grarem-gouga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_grarem-gouga",
+      "level": 2,
+      "name": {
+        "local": "القرارم قوقة",
+        "en": "Grarem Gouga",
+        "slug": "grarem-gouga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_grarem-gouga",
+        "level": 2,
+        "name": {
+          "local": "القرارم قوقة",
+          "en": "Grarem Gouga",
+          "slug": "grarem-gouga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43004"
+    ],
+    "geo": {
+      "lat": "36.535",
+      "lon": "6.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_grarem-gouga_hamala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمالة",
+      "en": "Hamala",
+      "slug": "hamala"
+    },
+    "code": {
+      "id": "DZ043_grarem-gouga_hamala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_grarem-gouga",
+      "level": 2,
+      "name": {
+        "local": "القرارم قوقة",
+        "en": "Grarem Gouga",
+        "slug": "grarem-gouga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_grarem-gouga",
+        "level": 2,
+        "name": {
+          "local": "القرارم قوقة",
+          "en": "Grarem Gouga",
+          "slug": "grarem-gouga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43052"
+    ],
+    "geo": {
+      "lat": "36.583",
+      "lon": "6.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

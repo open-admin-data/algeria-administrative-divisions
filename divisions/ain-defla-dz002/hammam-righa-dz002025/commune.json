@@ -1,0 +1,45 @@
+{
+  "id": "DZ002025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hammam Righa",
+    "en": "Hammam Righa",
+    "slug": "hammam-righa-dz002025"
+  },
+  "code": {
+    "id": "DZ002025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.397",
+    "lon": "2.364"
+  },
+  "metadata": {},
+  "source": {}
+}

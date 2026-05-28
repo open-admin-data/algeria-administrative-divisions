@@ -1,0 +1,45 @@
+{
+  "id": "DZ003018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Sebbah",
+    "en": "Oued Sebbah",
+    "slug": "oued-sebbah-dz003018"
+  },
+  "code": {
+    "id": "DZ003018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.408",
+    "lon": "-0.799"
+  },
+  "metadata": {},
+  "source": {}
+}

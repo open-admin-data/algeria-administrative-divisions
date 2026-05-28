@@ -1,0 +1,29 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+DZ001001,Adrar,Adrar,adrar-dz001001,DZ001001,27.942,-0.215
+DZ001002,Akabili,Akabili,akabili-dz001002,DZ001002,26.536,1.114
+DZ001003,Aougrout,Aougrout,aougrout-dz001003,DZ001003,28.937,1.141
+DZ001004,Aoulef,Aoulef,aoulef-dz001004,DZ001004,26.624,0.862
+DZ001005,Bordj Badji Mokhtar,Bordj Badji Mokhtar,bordj-badji-mokhtar-dz001005,DZ001005,23.142,-0.263
+DZ001006,Bouda,Bouda,bouda-dz001006,DZ001006,28.017,-1.188
+DZ001007,Deldoul,Deldoul,deldoul-dz001007,DZ001007,28.861,0.007
+DZ001008,Fenoughil,Fenoughil,fenoughil-dz001008,DZ001008,27.611,-1.242
+DZ001009,Gharouine,Gharouine,gharouine-dz001009,DZ001009,29.086,-0.315
+DZ001010,Inzegmir,Inzegmir,inzegmir-dz001010,DZ001010,27.037,-1.45
+DZ001011,Ksar Kaddour,Ksar Kaddour,ksar-kaddour-dz001011,DZ001011,30.196,0.273
+DZ001012,Metarfa,Metarfa,metarfa-dz001012,DZ001012,28.571,0.044
+DZ001013,Ouled Ahmed Timi,Ouled Ahmed Timi,ouled-ahmed-timi-dz001013,DZ001013,27.84,-1.561
+DZ001014,Ouled Aissa,Ouled Aissa,ouled-aissa-dz001014,DZ001014,29.649,-0.172
+DZ001015,Ouled Said,Ouled Said,ouled-said-dz001015,DZ001015,29.431,0.286
+DZ001016,Reggane,Reggane,reggane-dz001016,DZ001016,25.383,-2.03
+DZ001017,Sali,Sali,sali-dz001017,DZ001017,26.74,-2.039
+DZ001018,Sebaa,Sebaa,sebaa-dz001018,DZ001018,28.255,-0.038
+DZ001019,Talmine,Talmine,talmine-dz001019,DZ001019,29.426,-0.515
+DZ001020,Tamentit,Tamentit,tamentit-dz001020,DZ001020,28.048,0.396
+DZ001021,Tamest,Tamest,tamest-dz001021,DZ001021,27.448,-1.409
+DZ001022,Timiaouine,Timiaouine,timiaouine-dz001022,DZ001022,20.908,1.759
+DZ001023,Timimoun,Timimoun,timimoun-dz001023,DZ001023,29.701,1.541
+DZ001024,Timokten,Timokten,timokten-dz001024,DZ001024,27.75,1.163
+DZ001025,Tinerkouk,Tinerkouk,tinerkouk-dz001025,DZ001025,30.464,1.346
+DZ001026,Tit,Tit,tit-dz001026,DZ001026,27.029,1.458
+DZ001027,Tsabit,Tsabit,tsabit-dz001027,DZ001027,28.679,-1.284
+DZ001028,Zaouiet Kounta,Zaouiet Kounta,zaouiet-kounta-dz001028,DZ001028,27.241,-1.332

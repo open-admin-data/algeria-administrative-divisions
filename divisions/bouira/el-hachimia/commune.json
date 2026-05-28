@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ010_el-hachimia_el-hachimia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الهاشمية",
+      "en": "El Hachimia",
+      "slug": "el-hachimia"
+    },
+    "code": {
+      "id": "DZ010_el-hachimia_el-hachimia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_el-hachimia",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "El Hachimia",
+        "slug": "el-hachimia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_el-hachimia",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "El Hachimia",
+          "slug": "el-hachimia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10023"
+    ],
+    "geo": {
+      "lat": "36.225",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_el-hachimia_oued-el-berdi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي البردي",
+      "en": "Oued El Berdi",
+      "slug": "oued-el-berdi"
+    },
+    "code": {
+      "id": "DZ010_el-hachimia_oued-el-berdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_el-hachimia",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "El Hachimia",
+        "slug": "el-hachimia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_el-hachimia",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "El Hachimia",
+          "slug": "el-hachimia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10075"
+    ],
+    "geo": {
+      "lat": "36.258",
+      "lon": "3.913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

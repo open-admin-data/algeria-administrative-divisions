@@ -1,0 +1,30 @@
+{
+  "id": "DZ011",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تمنراست",
+    "en": "Tamanrasset",
+    "slug": "tamanrasset"
+  },
+  "code": {
+    "id": "DZ011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 3,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.355",
+    "lon": "4.451"
+  },
+  "metadata": {},
+  "source": {}
+}

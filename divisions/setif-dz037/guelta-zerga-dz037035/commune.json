@@ -1,0 +1,45 @@
+{
+  "id": "DZ037035",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Guelta Zerga",
+    "en": "Guelta Zerga",
+    "slug": "guelta-zerga-dz037035"
+  },
+  "code": {
+    "id": "DZ037035",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.208",
+    "lon": "5.686"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ042_tipaza_tipaza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza"
+    },
+    "code": {
+      "id": "DZ042_tipaza_tipaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_tipaza",
+      "level": 2,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_tipaza",
+        "level": 2,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42000"
+    ],
+    "geo": {
+      "lat": "36.599",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

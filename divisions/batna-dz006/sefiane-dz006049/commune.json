@@ -1,0 +1,45 @@
+{
+  "id": "DZ006049",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sefiane",
+    "en": "Sefiane",
+    "slug": "sefiane-dz006049"
+  },
+  "code": {
+    "id": "DZ006049",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.429",
+    "lon": "5.582"
+  },
+  "metadata": {},
+  "source": {}
+}

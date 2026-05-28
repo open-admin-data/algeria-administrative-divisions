@@ -1,0 +1,45 @@
+{
+  "id": "DZ036015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tircine",
+    "en": "Tircine",
+    "slug": "tircine-dz036015"
+  },
+  "code": {
+    "id": "DZ036015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.973",
+    "lon": "0.615"
+  },
+  "metadata": {},
+  "source": {}
+}

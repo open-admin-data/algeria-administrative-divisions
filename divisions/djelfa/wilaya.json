@@ -1,0 +1,30 @@
+{
+  "id": "DZ017",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الجلفة",
+    "en": "Djelfa",
+    "slug": "djelfa"
+  },
+  "code": {
+    "id": "DZ017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 12,
+    "commune": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.347",
+    "lon": "3.212"
+  },
+  "metadata": {},
+  "source": {}
+}

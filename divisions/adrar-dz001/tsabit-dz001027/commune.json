@@ -1,0 +1,45 @@
+{
+  "id": "DZ001027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tsabit",
+    "en": "Tsabit",
+    "slug": "tsabit-dz001027"
+  },
+  "code": {
+    "id": "DZ001027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.679",
+    "lon": "-1.284"
+  },
+  "metadata": {},
+  "source": {}
+}

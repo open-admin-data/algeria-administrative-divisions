@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_ain-boucif",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين بوسيف",
+    "en": "Ain Boucif",
+    "slug": "ain-boucif"
+  },
+  "code": {
+    "id": "DZ026_ain-boucif",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.884",
+    "lon": "3.208"
+  },
+  "metadata": {},
+  "source": {}
+}

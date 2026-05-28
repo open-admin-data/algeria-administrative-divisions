@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ034_bordj-ghedir_belimour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بليمور",
+      "en": "Belimour",
+      "slug": "belimour"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir_belimour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-ghedir",
+      "level": 2,
+      "name": {
+        "local": "برج الغدير",
+        "en": "Bordj Ghedir",
+        "slug": "bordj-ghedir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-ghedir",
+        "level": 2,
+        "name": {
+          "local": "برج الغدير",
+          "en": "Bordj Ghedir",
+          "slug": "bordj-ghedir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34025"
+    ],
+    "geo": {
+      "lat": "35.984",
+      "lon": "4.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-ghedir_bordj-ghedir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الغدير",
+      "en": "Bordj Ghedir",
+      "slug": "bordj-ghedir"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir_bordj-ghedir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-ghedir",
+      "level": 2,
+      "name": {
+        "local": "برج الغدير",
+        "en": "Bordj Ghedir",
+        "slug": "bordj-ghedir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-ghedir",
+        "level": 2,
+        "name": {
+          "local": "برج الغدير",
+          "en": "Bordj Ghedir",
+          "slug": "bordj-ghedir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34004"
+    ],
+    "geo": {
+      "lat": "35.897",
+      "lon": "4.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-ghedir_el-annasseur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العناصر",
+      "en": "El Annasseur",
+      "slug": "el-annasseur"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir_el-annasseur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-ghedir",
+      "level": 2,
+      "name": {
+        "local": "برج الغدير",
+        "en": "Bordj Ghedir",
+        "slug": "bordj-ghedir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-ghedir",
+        "level": 2,
+        "name": {
+          "local": "برج الغدير",
+          "en": "Bordj Ghedir",
+          "slug": "bordj-ghedir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34030"
+    ],
+    "geo": {
+      "lat": "35.897",
+      "lon": "4.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-ghedir_ghailasa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غيلاسة",
+      "en": "Ghailasa",
+      "slug": "ghailasa"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir_ghailasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-ghedir",
+      "level": 2,
+      "name": {
+        "local": "برج الغدير",
+        "en": "Bordj Ghedir",
+        "slug": "bordj-ghedir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-ghedir",
+        "level": 2,
+        "name": {
+          "local": "برج الغدير",
+          "en": "Bordj Ghedir",
+          "slug": "bordj-ghedir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34031"
+    ],
+    "geo": {
+      "lat": "35.897",
+      "lon": "4.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bordj-ghedir_taglait",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تقلعيت",
+      "en": "Taglait",
+      "slug": "taglait"
+    },
+    "code": {
+      "id": "DZ034_bordj-ghedir_taglait",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bordj-ghedir",
+      "level": 2,
+      "name": {
+        "local": "برج الغدير",
+        "en": "Bordj Ghedir",
+        "slug": "bordj-ghedir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bordj-ghedir",
+        "level": 2,
+        "name": {
+          "local": "برج الغدير",
+          "en": "Bordj Ghedir",
+          "slug": "bordj-ghedir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34059"
+    ],
+    "geo": {
+      "lat": "35.809",
+      "lon": "4.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

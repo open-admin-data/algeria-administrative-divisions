@@ -1,0 +1,519 @@
+[
+  {
+    "id": "DZ018_chekfa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الشقفة",
+      "en": "Chekfa",
+      "slug": "chekfa"
+    },
+    "code": {
+      "id": "DZ018_chekfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_djimla",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جيملة",
+      "en": "Djimla",
+      "slug": "djimla"
+    },
+    "code": {
+      "id": "DZ018_djimla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-ancer",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العنصر",
+      "en": "El Ancer",
+      "slug": "el-ancer"
+    },
+    "code": {
+      "id": "DZ018_el-ancer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.767",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-aouana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العوانة",
+      "en": "El Aouana",
+      "slug": "el-aouana"
+    },
+    "code": {
+      "id": "DZ018_el-aouana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.742",
+      "lon": "5.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_el-milia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الميلية",
+      "en": "El Milia",
+      "slug": "el-milia"
+    },
+    "code": {
+      "id": "DZ018_el-milia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.807",
+      "lon": "6.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_jijel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel"
+    },
+    "code": {
+      "id": "DZ018_jijel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.798",
+      "lon": "5.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_settara",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "السطارة",
+      "en": "Settara",
+      "slug": "settara"
+    },
+    "code": {
+      "id": "DZ018_settara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.707",
+      "lon": "6.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_sidi-marouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي معروف",
+      "en": "Sidi Marouf",
+      "slug": "sidi-marouf"
+    },
+    "code": {
+      "id": "DZ018_sidi-marouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.627",
+      "lon": "6.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_taher",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الطاهير",
+      "en": "Taher",
+      "slug": "taher"
+    },
+    "code": {
+      "id": "DZ018_taher",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.719",
+      "lon": "5.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_texenna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تاكسنة",
+      "en": "Texenna",
+      "slug": "texenna"
+    },
+    "code": {
+      "id": "DZ018_texenna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.717",
+      "lon": "5.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_ziamah-mansouriah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زيامة منصورية",
+      "en": "Ziamah Mansouriah",
+      "slug": "ziamah-mansouriah"
+    },
+    "code": {
+      "id": "DZ018_ziamah-mansouriah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

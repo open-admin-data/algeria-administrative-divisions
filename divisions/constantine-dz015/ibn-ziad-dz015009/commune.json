@@ -1,0 +1,45 @@
+{
+  "id": "DZ015009",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ibn Ziad",
+    "en": "Ibn Ziad",
+    "slug": "ibn-ziad-dz015009"
+  },
+  "code": {
+    "id": "DZ015009",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.374",
+    "lon": "6.427"
+  },
+  "metadata": {},
+  "source": {}
+}

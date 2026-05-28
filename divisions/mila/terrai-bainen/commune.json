@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ043_terrai-bainen_amira-arres",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اعميرة اراس",
+      "en": "Amira Arres",
+      "slug": "amira-arres"
+    },
+    "code": {
+      "id": "DZ043_terrai-bainen_amira-arres",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_terrai-bainen",
+      "level": 2,
+      "name": {
+        "local": "ترعي باينان",
+        "en": "Terrai Bainen",
+        "slug": "terrai-bainen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_terrai-bainen",
+        "level": 2,
+        "name": {
+          "local": "ترعي باينان",
+          "en": "Terrai Bainen",
+          "slug": "terrai-bainen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43017"
+    ],
+    "geo": {
+      "lat": "36.555",
+      "lon": "6.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_terrai-bainen_tassala-lematai",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسالة لمطاعي",
+      "en": "Tassala Lematai",
+      "slug": "tassala-lematai"
+    },
+    "code": {
+      "id": "DZ043_terrai-bainen_tassala-lematai",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_terrai-bainen",
+      "level": 2,
+      "name": {
+        "local": "ترعي باينان",
+        "en": "Terrai Bainen",
+        "slug": "terrai-bainen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_terrai-bainen",
+        "level": 2,
+        "name": {
+          "local": "ترعي باينان",
+          "en": "Terrai Bainen",
+          "slug": "terrai-bainen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43034"
+    ],
+    "geo": {
+      "lat": "36.555",
+      "lon": "6.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_terrai-bainen_terrai-bainen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ترعي باينان",
+      "en": "Terrai Bainen",
+      "slug": "terrai-bainen"
+    },
+    "code": {
+      "id": "DZ043_terrai-bainen_terrai-bainen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_terrai-bainen",
+      "level": 2,
+      "name": {
+        "local": "ترعي باينان",
+        "en": "Terrai Bainen",
+        "slug": "terrai-bainen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_terrai-bainen",
+        "level": 2,
+        "name": {
+          "local": "ترعي باينان",
+          "en": "Terrai Bainen",
+          "slug": "terrai-bainen"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43018"
+    ],
+    "geo": {
+      "lat": "36.555",
+      "lon": "6.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,179 @@
+# Guelma — Algeria Administrative Divisions
+
+> 34 communes
+> Code: DZ021
+> Coordinates: 36.349, 7.412
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Ben Beida
+
+Code: DZ021001, Coordinates: 36.589, 7.648
+
+
+### Ain Larbi
+
+Code: DZ021002, Coordinates: 36.288, 7.392
+
+
+### Ain Makhlouf
+
+Code: DZ021003, Coordinates: 36.23, 7.244
+
+
+### Ain Reggada
+
+Code: DZ021004, Coordinates: 36.284, 7.079
+
+
+### Ain Sandel
+
+Code: DZ021005, Coordinates: 36.267, 7.552
+
+
+### Belkheir
+
+Code: DZ021006, Coordinates: 36.447, 7.485
+
+
+### Bendjerrah
+
+Code: DZ021007, Coordinates: 36.4, 7.36
+
+
+### Beni Mezline
+
+Code: DZ021008, Coordinates: 36.473, 7.623
+
+
+### Bordj Sabath
+
+Code: DZ021009, Coordinates: 36.408, 7.071
+
+
+### Bouati Mahmoud
+
+Code: DZ021010, Coordinates: 36.609, 7.351
+
+
+### Bouchegouf
+
+Code: DZ021011, Coordinates: 36.484, 7.74
+
+
+### Bouhachana
+
+Code: DZ021012, Coordinates: 36.303, 7.477
+
+
+### Bouhamdane
+
+Code: DZ021013, Coordinates: 36.468, 7.138
+
+
+### Boumahra Ahmed
+
+Code: DZ021014, Coordinates: 36.431, 7.559
+
+
+### Dahouara
+
+Code: DZ021015, Coordinates: 36.319, 7.703
+
+
+### Djeballah Khemissi
+
+Code: DZ021016, Coordinates: 36.502, 7.56
+
+
+### El Fedjoudj
+
+Code: DZ021017, Coordinates: 36.524, 7.381
+
+
+### Guelaat Bousbaa
+
+Code: DZ021018, Coordinates: 36.553, 7.492
+
+
+### Guelma
+
+Code: DZ021019, Coordinates: 36.456, 7.412
+
+
+### Hammam Debagh
+
+Code: DZ021020, Coordinates: 36.485, 7.272
+
+
+### Hammam N&#39;Bail
+
+Code: DZ021021, Coordinates: 36.326, 7.624
+
+
+### Heliopolis
+
+Code: DZ021022, Coordinates: 36.534, 7.438
+
+
+### Houari Boumediene
+
+Code: DZ021023, Coordinates: 36.425, 7.254
+
+
+### Khezara
+
+Code: DZ021024, Coordinates: 36.362, 7.5
+
+
+### Medjez Amar
+
+Code: DZ021025, Coordinates: 36.486, 7.324
+
+
+### Medjez Sfa
+
+Code: DZ021026, Coordinates: 36.448, 7.828
+
+
+### Nechmaya
+
+Code: DZ021027, Coordinates: 36.614, 7.479
+
+
+### Oued Cheham
+
+Code: DZ021028, Coordinates: 36.356, 7.792
+
+
+### Oued Fragha
+
+Code: DZ021029, Coordinates: 36.543, 7.689
+
+
+### Oued Zenati
+
+Code: DZ021030, Coordinates: 36.302, 7.167
+
+
+### Ras El Agba
+
+Code: DZ021031, Coordinates: 36.371, 7.201
+
+
+### Roknia
+
+Code: DZ021032, Coordinates: 36.585, 7.19
+
+
+### Seliaoua Announa
+
+Code: DZ021033, Coordinates: 36.352, 7.288
+
+
+### Tamlouka
+
+Code: DZ021034, Coordinates: 36.127, 7.125
+
+

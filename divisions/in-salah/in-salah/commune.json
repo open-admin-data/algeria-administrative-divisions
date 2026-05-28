@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ053_in-salah_ain-salah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين صالح",
+      "en": "Ain Salah",
+      "slug": "ain-salah"
+    },
+    "code": {
+      "id": "DZ053_in-salah_ain-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ053_in-salah",
+      "level": 2,
+      "name": {
+        "local": "عين صالح",
+        "en": "In Salah",
+        "slug": "in-salah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ053",
+        "level": 1,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      },
+      {
+        "id": "DZ053_in-salah",
+        "level": 2,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ053_in-salah_foggaret-ezzoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فقارة الزوى",
+      "en": "Foggaret Ezzoua",
+      "slug": "foggaret-ezzoua"
+    },
+    "code": {
+      "id": "DZ053_in-salah_foggaret-ezzoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ053_in-salah",
+      "level": 2,
+      "name": {
+        "local": "عين صالح",
+        "en": "In Salah",
+        "slug": "in-salah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ053",
+        "level": 1,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      },
+      {
+        "id": "DZ053_in-salah",
+        "level": 2,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

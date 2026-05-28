@@ -1,0 +1,30 @@
+{
+  "id": "DZ023",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "عنابة",
+    "en": "Annaba",
+    "slug": "annaba"
+  },
+  "code": {
+    "id": "DZ023",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 6,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.846",
+    "lon": "7.6"
+  },
+  "metadata": {},
+  "source": {}
+}

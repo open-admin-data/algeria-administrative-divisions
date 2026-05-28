@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_ain-tedeles",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين تادلس",
+    "en": "Ain Tedeles",
+    "slug": "ain-tedeles"
+  },
+  "code": {
+    "id": "DZ027_ain-tedeles",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.957",
+    "lon": "0.318"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ004034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hamma Anassers",
+    "en": "Hamma Anassers",
+    "slug": "hamma-anassers-dz004034"
+  },
+  "code": {
+    "id": "DZ004034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.753",
+    "lon": "3.07"
+  },
+  "metadata": {},
+  "source": {}
+}

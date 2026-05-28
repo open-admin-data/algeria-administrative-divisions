@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_bensekrane_bensekrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن سكران",
+      "en": "Bensekrane",
+      "slug": "bensekrane"
+    },
+    "code": {
+      "id": "DZ013_bensekrane_bensekrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_bensekrane",
+      "level": 2,
+      "name": {
+        "local": "بن سكران",
+        "en": "Bensekrane",
+        "slug": "bensekrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_bensekrane",
+        "level": 2,
+        "name": {
+          "local": "بن سكران",
+          "en": "Bensekrane",
+          "slug": "bensekrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13008"
+    ],
+    "geo": {
+      "lat": "35.114",
+      "lon": "-1.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_bensekrane_sidi-abdelli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي العبدلي",
+      "en": "Sidi Abdelli",
+      "slug": "sidi-abdelli"
+    },
+    "code": {
+      "id": "DZ013_bensekrane_sidi-abdelli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_bensekrane",
+      "level": 2,
+      "name": {
+        "local": "بن سكران",
+        "en": "Bensekrane",
+        "slug": "bensekrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_bensekrane",
+        "level": 2,
+        "name": {
+          "local": "بن سكران",
+          "en": "Bensekrane",
+          "slug": "bensekrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13019"
+    ],
+    "geo": {
+      "lat": "35.048",
+      "lon": "-1.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

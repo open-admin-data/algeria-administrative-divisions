@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_ghazaouet",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الغزوات",
+    "en": "Ghazaouet",
+    "slug": "ghazaouet"
+  },
+  "code": {
+    "id": "DZ013_ghazaouet",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.058",
+    "lon": "-1.879"
+  },
+  "metadata": {},
+  "source": {}
+}

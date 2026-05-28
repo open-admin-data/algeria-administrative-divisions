@@ -1,0 +1,45 @@
+{
+  "id": "DZ041008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tamanrasset",
+    "en": "Tamanrasset",
+    "slug": "tamanrasset-dz041008"
+  },
+  "code": {
+    "id": "DZ041008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.271",
+    "lon": "5.775"
+  },
+  "metadata": {},
+  "source": {}
+}

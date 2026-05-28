@@ -1,0 +1,47 @@
+{
+  "id": "DZ012_negrine",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "نقرين",
+    "en": "Negrine",
+    "slug": "negrine"
+  },
+  "code": {
+    "id": "DZ012_negrine",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.446",
+    "lon": "7.505"
+  },
+  "metadata": {},
+  "source": {}
+}

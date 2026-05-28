@@ -1,0 +1,45 @@
+{
+  "id": "DZ030019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hammam Dhalaa",
+    "en": "Hammam Dhalaa",
+    "slug": "hammam-dhalaa-dz030019"
+  },
+  "code": {
+    "id": "DZ030019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.932",
+    "lon": "4.378"
+  },
+  "metadata": {},
+  "source": {}
+}

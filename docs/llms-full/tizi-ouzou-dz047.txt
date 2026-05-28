@@ -1,0 +1,344 @@
+# Tizi Ouzou — Algeria Administrative Divisions
+
+> 67 communes
+> Code: DZ047
+> Coordinates: 36.683, 4.239
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Abi Youcef
+
+Code: DZ047001, Coordinates: 36.525, 4.346
+
+
+### Aghni Goughran
+
+Code: DZ047002, Coordinates: 36.507, 4.115
+
+
+### Aghrib
+
+Code: DZ047003, Coordinates: 36.822, 4.354
+
+
+### Ain El Hammam
+
+Code: DZ047004, Coordinates: 36.576, 4.28
+
+
+### Ain Zaouia
+
+Code: DZ047005, Coordinates: 36.578, 3.906
+
+
+### Ait Aggouacha
+
+Code: DZ047006, Coordinates: 36.624, 4.247
+
+
+### Ait Aissa Mimoun
+
+Code: DZ047007, Coordinates: 36.754, 4.112
+
+
+### Ait Bouadou
+
+Code: DZ047008, Coordinates: 36.506, 4.062
+
+
+### Ait Boumahdi
+
+Code: DZ047009, Coordinates: 36.49, 4.19
+
+
+### Ait Chaffaa
+
+Code: DZ047010, Coordinates: 36.827, 4.526
+
+
+### Ait Khelili
+
+Code: DZ047011, Coordinates: 36.678, 4.31
+
+
+### Ait Mahmoud
+
+Code: DZ047012, Coordinates: 36.613, 4.121
+
+
+### Ait Oumalou
+
+Code: DZ047013, Coordinates: 36.658, 4.23
+
+
+### Ait Toudert
+
+Code: DZ047014, Coordinates: 36.533, 4.168
+
+
+### Ait Yahia
+
+Code: DZ047015, Coordinates: 36.603, 4.344
+
+
+### Ait Yahia Moussa
+
+Code: DZ047016, Coordinates: 36.644, 3.877
+
+
+### Akbil
+
+Code: DZ047017, Coordinates: 36.507, 4.311
+
+
+### Akerrou
+
+Code: DZ047018, Coordinates: 36.811, 4.445
+
+
+### Assi Youcef
+
+Code: DZ047019, Coordinates: 36.502, 4.016
+
+
+### Azazga
+
+Code: DZ047020, Coordinates: 36.744, 4.367
+
+
+### Azeffoun
+
+Code: DZ047021, Coordinates: 36.87, 4.398
+
+
+### Beni Aissi
+
+Code: DZ047022, Coordinates: 36.661, 4.089
+
+
+### Beni Douala
+
+Code: DZ047023, Coordinates: 36.625, 4.083
+
+
+### Beni Yenni
+
+Code: DZ047024, Coordinates: 36.581, 4.201
+
+
+### Beni Ziki
+
+Code: DZ047025, Coordinates: 36.561, 4.501
+
+
+### Beni Zmenzer
+
+Code: DZ047026, Coordinates: 36.642, 4.04
+
+
+### Boghni
+
+Code: DZ047027, Coordinates: 36.517, 3.979
+
+
+### Boudjima
+
+Code: DZ047028, Coordinates: 36.807, 4.151
+
+
+### Bounouh
+
+Code: DZ047029, Coordinates: 36.495, 3.938
+
+
+### Bouzguen
+
+Code: DZ047030, Coordinates: 36.62, 4.487
+
+
+### Draa Ben Khedda
+
+Code: DZ047031, Coordinates: 36.724, 3.959
+
+
+### Draa El Mizan
+
+Code: DZ047032, Coordinates: 36.549, 3.814
+
+
+### Freha
+
+Code: DZ047033, Coordinates: 36.764, 4.298
+
+
+### Frikat
+
+Code: DZ047034, Coordinates: 36.5, 3.89
+
+
+### Iboudraren
+
+Code: DZ047035, Coordinates: 36.514, 4.252
+
+
+### Idjeur
+
+Code: DZ047036, Coordinates: 36.677, 4.538
+
+
+### Iferhounene
+
+Code: DZ047037, Coordinates: 36.524, 4.371
+
+
+### Ifigha
+
+Code: DZ047038, Coordinates: 36.667, 4.425
+
+
+### Iflissen
+
+Code: DZ047039, Coordinates: 36.873, 4.225
+
+
+### Illilten
+
+Code: DZ047040, Coordinates: 36.513, 4.402
+
+
+### Iloula Oumalou
+
+Code: DZ047041, Coordinates: 36.568, 4.45
+
+
+### Imsouhal
+
+Code: DZ047042, Coordinates: 36.583, 4.394
+
+
+### Irdjen
+
+Code: DZ047043, Coordinates: 36.671, 4.146
+
+
+### Larba Nait Irathen
+
+Code: DZ047044, Coordinates: 36.64, 4.186
+
+
+### M&#39;Kira
+
+Code: DZ047050, Coordinates: 36.634, 3.784
+
+
+### Maatka
+
+Code: DZ047045, Coordinates: 36.614, 3.971
+
+
+### Makouda
+
+Code: DZ047046, Coordinates: 36.796, 4.059
+
+
+### Mechtrass
+
+Code: DZ047047, Coordinates: 36.556, 3.995
+
+
+### Mekla
+
+Code: DZ047048, Coordinates: 36.679, 4.267
+
+
+### Mizrana
+
+Code: DZ047049, Coordinates: 36.863, 4.078
+
+
+### Ouacif
+
+Code: DZ047051, Coordinates: 36.52, 4.22
+
+
+### Ouadhia
+
+Code: DZ047052, Coordinates: 36.568, 4.119
+
+
+### Ouaguenoun
+
+Code: DZ047053, Coordinates: 36.762, 4.186
+
+
+### Sidi Naamane
+
+Code: DZ047054, Coordinates: 36.781, 4
+
+
+### Souamaa
+
+Code: DZ047055, Coordinates: 36.675, 4.353
+
+
+### Souk El Tenine
+
+Code: DZ047056, Coordinates: 36.605, 4.015
+
+
+### Tadmait
+
+Code: DZ047057, Coordinates: 36.721, 3.883
+
+
+### Tigzirt
+
+Code: DZ047058, Coordinates: 36.864, 4.146
+
+
+### Timizart
+
+Code: DZ047059, Coordinates: 36.8, 4.233
+
+
+### Tirmitine
+
+Code: DZ047060, Coordinates: 36.671, 3.966
+
+
+### Tizi Ghenif
+
+Code: DZ047061, Coordinates: 36.59, 3.773
+
+
+### Tizi N&#39;Thleta
+
+Code: DZ047062, Coordinates: 36.562, 4.049
+
+
+### Tizi Ouzou
+
+Code: DZ047063, Coordinates: 36.702, 4.056
+
+
+### Tizi Rached
+
+Code: DZ047064, Coordinates: 36.69, 4.189
+
+
+### Yakouren
+
+Code: DZ047065, Coordinates: 36.739, 4.462
+
+
+### Yatafen
+
+Code: DZ047066, Coordinates: 36.509, 4.279
+
+
+### Zekri
+
+Code: DZ047067, Coordinates: 36.792, 4.602
+
+

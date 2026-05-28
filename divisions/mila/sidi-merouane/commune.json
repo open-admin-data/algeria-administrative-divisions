@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_sidi-merouane_chigara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشيقارة",
+      "en": "Chigara",
+      "slug": "chigara"
+    },
+    "code": {
+      "id": "DZ043_sidi-merouane_chigara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_sidi-merouane",
+      "level": 2,
+      "name": {
+        "local": "سيدي مروان",
+        "en": "Sidi Merouane",
+        "slug": "sidi-merouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_sidi-merouane",
+        "level": 2,
+        "name": {
+          "local": "سيدي مروان",
+          "en": "Sidi Merouane",
+          "slug": "sidi-merouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43025"
+    ],
+    "geo": {
+      "lat": "36.515",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_sidi-merouane_sidi-merouane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي مروان",
+      "en": "Sidi Merouane",
+      "slug": "sidi-merouane"
+    },
+    "code": {
+      "id": "DZ043_sidi-merouane_sidi-merouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_sidi-merouane",
+      "level": 2,
+      "name": {
+        "local": "سيدي مروان",
+        "en": "Sidi Merouane",
+        "slug": "sidi-merouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_sidi-merouane",
+        "level": 2,
+        "name": {
+          "local": "سيدي مروان",
+          "en": "Sidi Merouane",
+          "slug": "sidi-merouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43010"
+    ],
+    "geo": {
+      "lat": "36.515",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

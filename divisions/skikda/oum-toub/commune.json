@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ021_oum-toub_oum-toub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم الطوب",
+      "en": "Oum Toub",
+      "slug": "oum-toub"
+    },
+    "code": {
+      "id": "DZ021_oum-toub_oum-toub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_oum-toub",
+      "level": 2,
+      "name": {
+        "local": "أم الطوب",
+        "en": "Oum Toub",
+        "slug": "oum-toub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_oum-toub",
+        "level": 2,
+        "name": {
+          "local": "أم الطوب",
+          "en": "Oum Toub",
+          "slug": "oum-toub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21020"
+    ],
+    "geo": {
+      "lat": "36.704",
+      "lon": "6.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

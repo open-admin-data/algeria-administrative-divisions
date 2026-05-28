@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ042_ahmar-el-ain_ahmer-el-ain",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أحمر العين",
+      "en": "Ahmer El Ain",
+      "slug": "ahmer-el-ain"
+    },
+    "code": {
+      "id": "DZ042_ahmar-el-ain_ahmer-el-ain",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_ahmar-el-ain",
+      "level": 2,
+      "name": {
+        "local": "أحمر العين",
+        "en": "Ahmar El Ain",
+        "slug": "ahmar-el-ain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_ahmar-el-ain",
+        "level": 2,
+        "name": {
+          "local": "أحمر العين",
+          "en": "Ahmar El Ain",
+          "slug": "ahmar-el-ain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42005"
+    ],
+    "geo": {
+      "lat": "36.504",
+      "lon": "2.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_ahmar-el-ain_bourkika",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بورقيقة",
+      "en": "Bourkika",
+      "slug": "bourkika"
+    },
+    "code": {
+      "id": "DZ042_ahmar-el-ain_bourkika",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_ahmar-el-ain",
+      "level": 2,
+      "name": {
+        "local": "أحمر العين",
+        "en": "Ahmar El Ain",
+        "slug": "ahmar-el-ain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_ahmar-el-ain",
+        "level": 2,
+        "name": {
+          "local": "أحمر العين",
+          "en": "Ahmar El Ain",
+          "slug": "ahmar-el-ain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42011"
+    ],
+    "geo": {
+      "lat": "36.482",
+      "lon": "2.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_ahmar-el-ain_sidi-rached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي راشد",
+      "en": "Sidi Rached",
+      "slug": "sidi-rached"
+    },
+    "code": {
+      "id": "DZ042_ahmar-el-ain_sidi-rached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_ahmar-el-ain",
+      "level": 2,
+      "name": {
+        "local": "أحمر العين",
+        "en": "Ahmar El Ain",
+        "slug": "ahmar-el-ain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_ahmar-el-ain",
+        "level": 2,
+        "name": {
+          "local": "أحمر العين",
+          "en": "Ahmar El Ain",
+          "slug": "ahmar-el-ain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42040"
+    ],
+    "geo": {
+      "lat": "36.558",
+      "lon": "2.536"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

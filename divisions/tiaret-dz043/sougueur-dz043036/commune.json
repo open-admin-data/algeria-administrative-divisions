@@ -1,0 +1,45 @@
+{
+  "id": "DZ043036",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sougueur",
+    "en": "Sougueur",
+    "slug": "sougueur-dz043036"
+  },
+  "code": {
+    "id": "DZ043036",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.226",
+    "lon": "1.427"
+  },
+  "metadata": {},
+  "source": {}
+}

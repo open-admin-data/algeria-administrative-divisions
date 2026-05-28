@@ -1,0 +1,895 @@
+[
+  {
+    "id": "DZ006_adekar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أدكار",
+      "en": "Adekar",
+      "slug": "adekar"
+    },
+    "code": {
+      "id": "DZ006_adekar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_akbou",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أقبو",
+      "en": "Akbou",
+      "slug": "akbou"
+    },
+    "code": {
+      "id": "DZ006_akbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.445",
+      "lon": "4.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_amizour",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أميزور",
+      "en": "Amizour",
+      "slug": "amizour"
+    },
+    "code": {
+      "id": "DZ006_amizour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.606",
+      "lon": "4.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_aokas",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أوقاس",
+      "en": "Aokas",
+      "slug": "aokas"
+    },
+    "code": {
+      "id": "DZ006_aokas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.606",
+      "lon": "5.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_barbacha",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برباشة",
+      "en": "Barbacha",
+      "slug": "barbacha"
+    },
+    "code": {
+      "id": "DZ006_barbacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.564",
+      "lon": "4.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_bejaia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia"
+    },
+    "code": {
+      "id": "DZ006_bejaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.745",
+      "lon": "5.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_beni-maouche",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني معوش",
+      "en": "Beni Maouche",
+      "slug": "beni-maouche"
+    },
+    "code": {
+      "id": "DZ006_beni-maouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.575",
+      "lon": "4.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_chemini",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شميني",
+      "en": "Chemini",
+      "slug": "chemini"
+    },
+    "code": {
+      "id": "DZ006_chemini",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.615",
+      "lon": "4.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_darguina",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "درقينة",
+      "en": "Darguina",
+      "slug": "darguina"
+    },
+    "code": {
+      "id": "DZ006_darguina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.557",
+      "lon": "5.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_el-kseur",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القصر",
+      "en": "El Kseur",
+      "slug": "el-kseur"
+    },
+    "code": {
+      "id": "DZ006_el-kseur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.755",
+      "lon": "4.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_ifri-ouzellaguene",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "إفري أوزلاقن",
+      "en": "Ifri Ouzellaguene",
+      "slug": "ifri-ouzellaguene"
+    },
+    "code": {
+      "id": "DZ006_ifri-ouzellaguene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.549",
+      "lon": "4.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_ighil-ali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "إغيل علي",
+      "en": "Ighil Ali",
+      "slug": "ighil-ali"
+    },
+    "code": {
+      "id": "DZ006_ighil-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.34",
+      "lon": "4.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_kherrata",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خراطة",
+      "en": "Kherrata",
+      "slug": "kherrata"
+    },
+    "code": {
+      "id": "DZ006_kherrata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.474",
+      "lon": "5.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_seddouk",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "صدوق",
+      "en": "Seddouk",
+      "slug": "seddouk"
+    },
+    "code": {
+      "id": "DZ006_seddouk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.486",
+      "lon": "4.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_sidi-aich",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي عيش",
+      "en": "Sidi Aich",
+      "slug": "sidi-aich"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.627",
+      "lon": "4.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_souk-el-tenine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سوق الإثنين",
+      "en": "Souk El Tenine",
+      "slug": "souk-el-tenine"
+    },
+    "code": {
+      "id": "DZ006_souk-el-tenine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.601",
+      "lon": "4.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tazmalt",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تازملت",
+      "en": "Tazmalt",
+      "slug": "tazmalt"
+    },
+    "code": {
+      "id": "DZ006_tazmalt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.362",
+      "lon": "4.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_tichy",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيشي",
+      "en": "Tichy",
+      "slug": "tichy"
+    },
+    "code": {
+      "id": "DZ006_tichy",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.667",
+      "lon": "5.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_timezrit",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيمزريت",
+      "en": "Timezrit",
+      "slug": "timezrit"
+    },
+    "code": {
+      "id": "DZ006_timezrit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.666",
+      "lon": "3.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

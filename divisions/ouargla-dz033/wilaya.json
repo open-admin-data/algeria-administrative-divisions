@@ -1,0 +1,29 @@
+{
+  "id": "DZ033",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "ورقلة",
+    "en": "Ouargla",
+    "slug": "ouargla-dz033"
+  },
+  "code": {
+    "id": "DZ033",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.23",
+    "lon": "6.769"
+  },
+  "metadata": {},
+  "source": {}
+}

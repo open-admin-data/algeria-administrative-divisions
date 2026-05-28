@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ014_tiaret_tiaret",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    },
+    "code": {
+      "id": "DZ014_tiaret_tiaret",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_tiaret",
+      "level": 2,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_tiaret",
+        "level": 2,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14000"
+    ],
+    "geo": {
+      "lat": "35.349",
+      "lon": "1.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

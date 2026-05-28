@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ017_ain-el-ibel_ain-el-ibel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الإبل",
+      "en": "Ain El Ibel",
+      "slug": "ain-el-ibel"
+    },
+    "code": {
+      "id": "DZ017_ain-el-ibel_ain-el-ibel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-el-ibel",
+      "level": 2,
+      "name": {
+        "local": "عين الإبل",
+        "en": "Ain El Ibel",
+        "slug": "ain-el-ibel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-el-ibel",
+        "level": 2,
+        "name": {
+          "local": "عين الإبل",
+          "en": "Ain El Ibel",
+          "slug": "ain-el-ibel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17011"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_ain-el-ibel_moudjebara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجبارة",
+      "en": "Moudjebara",
+      "slug": "moudjebara"
+    },
+    "code": {
+      "id": "DZ017_ain-el-ibel_moudjebara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-el-ibel",
+      "level": 2,
+      "name": {
+        "local": "عين الإبل",
+        "en": "Ain El Ibel",
+        "slug": "ain-el-ibel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-el-ibel",
+        "level": 2,
+        "name": {
+          "local": "عين الإبل",
+          "en": "Ain El Ibel",
+          "slug": "ain-el-ibel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17058"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_ain-el-ibel_taadmit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تعظميت",
+      "en": "Taadmit",
+      "slug": "taadmit"
+    },
+    "code": {
+      "id": "DZ017_ain-el-ibel_taadmit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-el-ibel",
+      "level": 2,
+      "name": {
+        "local": "عين الإبل",
+        "en": "Ain El Ibel",
+        "slug": "ain-el-ibel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-el-ibel",
+        "level": 2,
+        "name": {
+          "local": "عين الإبل",
+          "en": "Ain El Ibel",
+          "slug": "ain-el-ibel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17037"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_ain-el-ibel_zaccar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زكار",
+      "en": "Zaccar",
+      "slug": "zaccar"
+    },
+    "code": {
+      "id": "DZ017_ain-el-ibel_zaccar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_ain-el-ibel",
+      "level": 2,
+      "name": {
+        "local": "عين الإبل",
+        "en": "Ain El Ibel",
+        "slug": "ain-el-ibel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_ain-el-ibel",
+        "level": 2,
+        "name": {
+          "local": "عين الإبل",
+          "en": "Ain El Ibel",
+          "slug": "ain-el-ibel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17065"
+    ],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ018005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Douar El Ma",
+    "en": "Douar El Ma",
+    "slug": "douar-el-ma-dz018005"
+  },
+  "code": {
+    "id": "DZ018005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.803",
+    "lon": "7.678"
+  },
+  "metadata": {},
+  "source": {}
+}

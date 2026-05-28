@@ -1,0 +1,472 @@
+[
+  {
+    "id": "DZ009_blida",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida"
+    },
+    "code": {
+      "id": "DZ009_blida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.45",
+      "lon": "2.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_boufarik",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوفاريك",
+      "en": "Boufarik",
+      "slug": "boufarik"
+    },
+    "code": {
+      "id": "DZ009_boufarik",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.192",
+      "lon": "3.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_bougara",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوقرة",
+      "en": "Bougara",
+      "slug": "bougara"
+    },
+    "code": {
+      "id": "DZ009_bougara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.032",
+      "lon": "2.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_bouinan",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوعينان",
+      "en": "Bouinan",
+      "slug": "bouinan"
+    },
+    "code": {
+      "id": "DZ009_bouinan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.546",
+      "lon": "3.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_el-affroun",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "العفرون",
+      "en": "El Affroun",
+      "slug": "el-affroun"
+    },
+    "code": {
+      "id": "DZ009_el-affroun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.438",
+      "lon": "2.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_larbaa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الأربعاء",
+      "en": "Larbaa",
+      "slug": "larbaa"
+    },
+    "code": {
+      "id": "DZ009_larbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.222",
+      "lon": "2.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_meftah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مفتاح",
+      "en": "Meftah",
+      "slug": "meftah"
+    },
+    "code": {
+      "id": "DZ009_meftah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.606",
+      "lon": "3.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_mouzaia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "موزاية",
+      "en": "Mouzaia",
+      "slug": "mouzaia"
+    },
+    "code": {
+      "id": "DZ009_mouzaia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.449",
+      "lon": "2.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_oued-el-alleug",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي العلايق",
+      "en": "Oued El Alleug",
+      "slug": "oued-el-alleug"
+    },
+    "code": {
+      "id": "DZ009_oued-el-alleug",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.549",
+      "lon": "2.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_ouled-yaich",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد يعيش",
+      "en": "Ouled Yaich",
+      "slug": "ouled-yaich"
+    },
+    "code": {
+      "id": "DZ009_ouled-yaich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.257",
+      "lon": "2.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

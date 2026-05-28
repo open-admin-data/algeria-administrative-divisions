@@ -1,0 +1,314 @@
+# Batna — Algeria Administrative Divisions
+
+> 61 communes
+> Code: DZ006
+> Coordinates: 35.341, 5.731
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Djasser
+
+Code: DZ006001, Coordinates: 35.835, 5.985
+
+
+### Ain Touta
+
+Code: DZ006002, Coordinates: 35.367, 5.883
+
+
+### Ain Yagout
+
+Code: DZ006003, Coordinates: 35.788, 6.418
+
+
+### Arris
+
+Code: DZ006004, Coordinates: 35.315, 6.369
+
+
+### Barika
+
+Code: DZ006005, Coordinates: 35.374, 5.288
+
+
+### Batna
+
+Code: DZ006006, Coordinates: 35.58, 6.166
+
+
+### Beni Foudhala El Hakania
+
+Code: DZ006007, Coordinates: 35.381, 6.063
+
+
+### Bitam
+
+Code: DZ006008, Coordinates: 35.177, 5.35
+
+
+### Boulehilet
+
+Code: DZ006009, Coordinates: 35.726, 6.641
+
+
+### Boumaguer
+
+Code: DZ006010, Coordinates: 35.5, 5.569
+
+
+### Boumia
+
+Code: DZ006011, Coordinates: 35.709, 6.468
+
+
+### Bouzina
+
+Code: DZ006012, Coordinates: 35.28, 6.107
+
+
+### Chemora
+
+Code: DZ006013, Coordinates: 35.633, 6.608
+
+
+### Chir
+
+Code: DZ006014, Coordinates: 35.22, 6.132
+
+
+### Djerma
+
+Code: DZ006015, Coordinates: 35.688, 6.292
+
+
+### Djezzar
+
+Code: DZ006016, Coordinates: 35.517, 5.318
+
+
+### El Hassi
+
+Code: DZ006017, Coordinates: 35.783, 5.951
+
+
+### El Madher
+
+Code: DZ006018, Coordinates: 35.642, 6.408
+
+
+### Fesdis
+
+Code: DZ006019, Coordinates: 35.62, 6.223
+
+
+### Foum Toub
+
+Code: DZ006020, Coordinates: 35.39, 6.515
+
+
+### Ghassira
+
+Code: DZ006021, Coordinates: 35.064, 6.231
+
+
+### Gosbat
+
+Code: DZ006022, Coordinates: 35.623, 5.472
+
+
+### Guigba
+
+Code: DZ006023, Coordinates: 35.744, 5.563
+
+
+### Hidoussa
+
+Code: DZ006024, Coordinates: 35.531, 5.918
+
+
+### Ichemoul
+
+Code: DZ006025, Coordinates: 35.308, 6.465
+
+
+### Inoughissene
+
+Code: DZ006026, Coordinates: 35.28, 6.548
+
+
+### Kimmel
+
+Code: DZ006027, Coordinates: 35.002, 6.488
+
+
+### Ksar Belezma
+
+Code: DZ006028, Coordinates: 35.731, 5.892
+
+
+### Larbaa
+
+Code: DZ006029, Coordinates: 35.338, 6.106
+
+
+### Lazrou
+
+Code: DZ006030, Coordinates: 35.808, 6.263
+
+
+### Lemcen
+
+Code: DZ006031, Coordinates: 35.642, 5.787
+
+
+### M&#39;Doukal
+
+Code: DZ006033, Coordinates: 35.115, 5.143
+
+
+### Maafa
+
+Code: DZ006032, Coordinates: 35.279, 5.882
+
+
+### Menaa
+
+Code: DZ006034, Coordinates: 35.14, 6.089
+
+
+### Merouana
+
+Code: DZ006035, Coordinates: 35.644, 5.908
+
+
+### Metkaouak
+
+Code: DZ006036, Coordinates: 35.328, 5.014
+
+
+### N&#39;Gaous
+
+Code: DZ006037, Coordinates: 35.555, 5.581
+
+
+### Oued Chaaba
+
+Code: DZ006038, Coordinates: 35.526, 6.035
+
+
+### Oued El Ma
+
+Code: DZ006039, Coordinates: 35.671, 6.025
+
+
+### Oued Taga
+
+Code: DZ006040, Coordinates: 35.422, 6.395
+
+
+### Ouled Ammar
+
+Code: DZ006041, Coordinates: 35.466, 5.174
+
+
+### Ouled Aouf
+
+Code: DZ006042, Coordinates: 35.476, 5.78
+
+
+### Ouled Fadel
+
+Code: DZ006043, Coordinates: 35.557, 6.678
+
+
+### Ouled Sellam
+
+Code: DZ006044, Coordinates: 35.851, 5.786
+
+
+### Ouled Si Slimane
+
+Code: DZ006045, Coordinates: 35.569, 5.684
+
+
+### Ouyoun El Assafir
+
+Code: DZ006046, Coordinates: 35.55, 6.354
+
+
+### Rahbat
+
+Code: DZ006047, Coordinates: 35.727, 5.659
+
+
+### Ras El Aioun
+
+Code: DZ006048, Coordinates: 35.656, 5.601
+
+
+### Sefiane
+
+Code: DZ006049, Coordinates: 35.429, 5.582
+
+
+### Seggana
+
+Code: DZ006050, Coordinates: 35.341, 5.553
+
+
+### Seriana
+
+Code: DZ006051, Coordinates: 35.719, 6.207
+
+
+### T&#39;Kout
+
+Code: DZ006060, Coordinates: 35.157, 6.327
+
+
+### Talkhemt
+
+Code: DZ006052, Coordinates: 35.727, 5.771
+
+
+### Taxlent
+
+Code: DZ006053, Coordinates: 35.564, 5.799
+
+
+### Tazoult
+
+Code: DZ006054, Coordinates: 35.47, 6.26
+
+
+### Theniet El Abed
+
+Code: DZ006055, Coordinates: 35.29, 6.256
+
+
+### Tighanimine
+
+Code: DZ006056, Coordinates: 35.188, 6.249
+
+
+### Tigharghar
+
+Code: DZ006057, Coordinates: 35.08, 5.978
+
+
+### Tilatou
+
+Code: DZ006058, Coordinates: 35.315, 5.715
+
+
+### Timgad
+
+Code: DZ006059, Coordinates: 35.529, 6.5
+
+
+### Zana El Beida
+
+Code: DZ006061, Coordinates: 35.797, 6.106
+
+

@@ -1,0 +1,69 @@
+# Timimoun — Algeria Administrative Divisions
+
+> 4 dairas, 10 communes
+> Code: DZ049
+> Coordinates: 30.843, 1.255
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أوقروت (Aougrout)
+
+Code: DZ049_aougrout, Coordinates: 30.519, 1.516
+Communes: 3
+
+#### أوقروت (Aougrout)
+
+Code: DZ049_aougrout_aougrout, Postal: 01012, Coordinates: 28.937, 1.141
+
+#### دلدول (Deldoul)
+
+Code: DZ049_aougrout_deldoul, Postal: 17046, Coordinates: 34.05, 3.364
+
+#### المطارفة (Metarfa)
+
+Code: DZ049_aougrout_metarfa, Postal: 01033, Coordinates: 28.571, 0.044
+
+### شروين (Charouine)
+
+Code: DZ049_charouine, Coordinates: 33.118, 1.648
+Communes: 3
+
+#### شروين (Charouine)
+
+Code: DZ049_charouine_charouine, Postal: 01014, Coordinates: 33.118, 1.648
+
+#### أولاد عيسى (Ouled Aissa)
+
+Code: DZ049_charouine_ouled-aissa, Postal: 01051, Coordinates: 36.81, 3.812
+
+#### طالمين (Talmine)
+
+Code: DZ049_charouine_talmine, Postal: 01034, Coordinates: 29.426, -0.515
+
+### تيميمون (Timimoun)
+
+Code: DZ049_timimoun, Coordinates: 29.566, 0.913
+Communes: 2
+
+#### أولاد السعيد (Ouled Said)
+
+Code: DZ049_timimoun_ouled-said, Postal: 01039, Coordinates: 29.431, 0.286
+
+#### تيميمون (Timimoun)
+
+Code: DZ049_timimoun_timimoun, Postal: 01001, Coordinates: 29.701, 1.541
+
+### تنركوك (Tinerkouk)
+
+Code: DZ049_tinerkouk, Coordinates: 30.33, 0.81
+Communes: 2
+
+#### قصر قدور (Ksar Kaddour)
+
+Code: DZ049_tinerkouk_ksar-kaddour, Postal: 01035, Coordinates: 30.196, 0.273
+
+#### تنركوك (Tinerkouk)
+
+Code: DZ049_tinerkouk_tinerkouk, Postal: 01013, Coordinates: 30.464, 1.346
+

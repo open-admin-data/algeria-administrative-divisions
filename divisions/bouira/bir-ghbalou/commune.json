@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ010_bir-ghbalou_bir-ghbalou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر غبالو",
+      "en": "Bir Ghbalou",
+      "slug": "bir-ghbalou"
+    },
+    "code": {
+      "id": "DZ010_bir-ghbalou_bir-ghbalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bir-ghbalou",
+      "level": 2,
+      "name": {
+        "local": "بئر غبالو",
+        "en": "Bir Ghbalou",
+        "slug": "bir-ghbalou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bir-ghbalou",
+        "level": 2,
+        "name": {
+          "local": "بئر غبالو",
+          "en": "Bir Ghbalou",
+          "slug": "bir-ghbalou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10013"
+    ],
+    "geo": {
+      "lat": "36.272",
+      "lon": "3.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bir-ghbalou_el-khabouzia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخبوزية",
+      "en": "El Khabouzia",
+      "slug": "el-khabouzia"
+    },
+    "code": {
+      "id": "DZ010_bir-ghbalou_el-khabouzia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bir-ghbalou",
+      "level": 2,
+      "name": {
+        "local": "بئر غبالو",
+        "en": "Bir Ghbalou",
+        "slug": "bir-ghbalou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bir-ghbalou",
+        "level": 2,
+        "name": {
+          "local": "بئر غبالو",
+          "en": "Bir Ghbalou",
+          "slug": "bir-ghbalou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10038"
+    ],
+    "geo": {
+      "lat": "36.313",
+      "lon": "3.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_bir-ghbalou_raouraoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "روراوة",
+      "en": "Raouraoua",
+      "slug": "raouraoua"
+    },
+    "code": {
+      "id": "DZ010_bir-ghbalou_raouraoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_bir-ghbalou",
+      "level": 2,
+      "name": {
+        "local": "بئر غبالو",
+        "en": "Bir Ghbalou",
+        "slug": "bir-ghbalou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_bir-ghbalou",
+        "level": 2,
+        "name": {
+          "local": "بئر غبالو",
+          "en": "Bir Ghbalou",
+          "slug": "bir-ghbalou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10042"
+    ],
+    "geo": {
+      "lat": "36.218",
+      "lon": "3.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

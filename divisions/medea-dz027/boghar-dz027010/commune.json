@@ -1,0 +1,45 @@
+{
+  "id": "DZ027010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boghar",
+    "en": "Boghar",
+    "slug": "boghar-dz027010"
+  },
+  "code": {
+    "id": "DZ027010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.94",
+    "lon": "2.701"
+  },
+  "metadata": {},
+  "source": {}
+}

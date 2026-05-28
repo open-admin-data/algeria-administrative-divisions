@@ -1,0 +1,45 @@
+{
+  "id": "DZ048034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mersa Ben M'Hidi",
+    "en": "Mersa Ben M'Hidi",
+    "slug": "mersa-ben-mhidi-dz048034"
+  },
+  "code": {
+    "id": "DZ048034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.06",
+    "lon": "-2.164"
+  },
+  "metadata": {},
+  "source": {}
+}

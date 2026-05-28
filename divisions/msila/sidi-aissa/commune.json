@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ028_sidi-aissa_beni-ilmane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني يلمان",
+      "en": "Beni Ilmane",
+      "slug": "beni-ilmane"
+    },
+    "code": {
+      "id": "DZ028_sidi-aissa_beni-ilmane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_sidi-aissa",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيسى",
+        "en": "Sidi Aissa",
+        "slug": "sidi-aissa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_sidi-aissa",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيسى",
+          "en": "Sidi Aissa",
+          "slug": "sidi-aissa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28027"
+    ],
+    "geo": {
+      "lat": "35.747",
+      "lon": "3.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_sidi-aissa_bouti-sayeh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوطي السايح",
+      "en": "Bouti Sayeh",
+      "slug": "bouti-sayeh"
+    },
+    "code": {
+      "id": "DZ028_sidi-aissa_bouti-sayeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_sidi-aissa",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيسى",
+        "en": "Sidi Aissa",
+        "slug": "sidi-aissa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_sidi-aissa",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيسى",
+          "en": "Sidi Aissa",
+          "slug": "sidi-aissa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28042"
+    ],
+    "geo": {
+      "lat": "35.667",
+      "lon": "3.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_sidi-aissa_sidi-aissa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عيسى",
+      "en": "Sidi Aissa",
+      "slug": "sidi-aissa"
+    },
+    "code": {
+      "id": "DZ028_sidi-aissa_sidi-aissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_sidi-aissa",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيسى",
+        "en": "Sidi Aissa",
+        "slug": "sidi-aissa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_sidi-aissa",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيسى",
+          "en": "Sidi Aissa",
+          "slug": "sidi-aissa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28002"
+    ],
+    "geo": {
+      "lat": "35.827",
+      "lon": "3.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_tlemcen",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تلمسان",
+    "en": "Tlemcen",
+    "slug": "tlemcen"
+  },
+  "code": {
+    "id": "DZ013_tlemcen",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.898",
+    "lon": "-1.316"
+  },
+  "metadata": {},
+  "source": {}
+}

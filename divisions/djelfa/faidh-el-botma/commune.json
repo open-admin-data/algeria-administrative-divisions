@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_faidh-el-botma_amourah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عمورة",
+      "en": "Amourah",
+      "slug": "amourah"
+    },
+    "code": {
+      "id": "DZ017_faidh-el-botma_amourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_faidh-el-botma",
+      "level": 2,
+      "name": {
+        "local": "فيض البطمة",
+        "en": "Faidh El Botma",
+        "slug": "faidh-el-botma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_faidh-el-botma",
+        "level": 2,
+        "name": {
+          "local": "فيض البطمة",
+          "en": "Faidh El Botma",
+          "slug": "faidh-el-botma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17042"
+    ],
+    "geo": {
+      "lat": "33.668",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_faidh-el-botma_faidh-el-botma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فيض البطمة",
+      "en": "Faidh El Botma",
+      "slug": "faidh-el-botma"
+    },
+    "code": {
+      "id": "DZ017_faidh-el-botma_faidh-el-botma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_faidh-el-botma",
+      "level": 2,
+      "name": {
+        "local": "فيض البطمة",
+        "en": "Faidh El Botma",
+        "slug": "faidh-el-botma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_faidh-el-botma",
+        "level": 2,
+        "name": {
+          "local": "فيض البطمة",
+          "en": "Faidh El Botma",
+          "slug": "faidh-el-botma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17021"
+    ],
+    "geo": {
+      "lat": "33.668",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_faidh-el-botma_oum-laadham",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم العظام",
+      "en": "Oum Laadham",
+      "slug": "oum-laadham"
+    },
+    "code": {
+      "id": "DZ017_faidh-el-botma_oum-laadham",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_faidh-el-botma",
+      "level": 2,
+      "name": {
+        "local": "فيض البطمة",
+        "en": "Faidh El Botma",
+        "slug": "faidh-el-botma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_faidh-el-botma",
+        "level": 2,
+        "name": {
+          "local": "فيض البطمة",
+          "en": "Faidh El Botma",
+          "slug": "faidh-el-botma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17061"
+    ],
+    "geo": {
+      "lat": "33.668",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

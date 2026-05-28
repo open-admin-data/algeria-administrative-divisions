@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "DZ013001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Afir",
+      "en": "Afir",
+      "slug": "afir-dz013001"
+    },
+    "code": {
+      "id": "DZ013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.857",
+      "lon": "4.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ammal",
+      "en": "Ammal",
+      "slug": "ammal-dz013002"
+    },
+    "code": {
+      "id": "DZ013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.622",
+      "lon": "3.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baghlia",
+      "en": "Baghlia",
+      "slug": "baghlia-dz013003"
+    },
+    "code": {
+      "id": "DZ013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.799",
+      "lon": "3.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Choud",
+      "en": "Ben Choud",
+      "slug": "ben-choud-dz013004"
+    },
+    "code": {
+      "id": "DZ013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.854",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Amrane",
+      "en": "Beni Amrane",
+      "slug": "beni-amrane-dz013005"
+    },
+    "code": {
+      "id": "DZ013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.662",
+      "lon": "3.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Menaiel",
+      "en": "Bordj Menaiel",
+      "slug": "bordj-menaiel-dz013006"
+    },
+    "code": {
+      "id": "DZ013006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.752",
+      "lon": "3.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudouaou",
+      "en": "Boudouaou",
+      "slug": "boudouaou-dz013007"
+    },
+    "code": {
+      "id": "DZ013007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.712",
+      "lon": "3.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudouaou El Bahri",
+      "en": "Boudouaou El Bahri",
+      "slug": "boudouaou-el-bahri-dz013008"
+    },
+    "code": {
+      "id": "DZ013008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.763",
+      "lon": "3.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumerdes",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013009"
+    },
+    "code": {
+      "id": "DZ013009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.761",
+      "lon": "3.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouzegza Keddara",
+      "en": "Bouzegza Keddara",
+      "slug": "bouzegza-keddara-dz013010"
+    },
+    "code": {
+      "id": "DZ013010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.636",
+      "lon": "3.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chabet El Ameur",
+      "en": "Chabet El Ameur",
+      "slug": "chabet-el-ameur-dz013011"
+    },
+    "code": {
+      "id": "DZ013011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.636",
+      "lon": "3.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Corso",
+      "en": "Corso",
+      "slug": "corso-dz013012"
+    },
+    "code": {
+      "id": "DZ013012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.731",
+      "lon": "3.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dellys",
+      "en": "Dellys",
+      "slug": "dellys-dz013013"
+    },
+    "code": {
+      "id": "DZ013013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.871",
+      "lon": "3.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djinet",
+      "en": "Djinet",
+      "slug": "djinet-dz013014"
+    },
+    "code": {
+      "id": "DZ013014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.847",
+      "lon": "3.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kharrouba",
+      "en": "El Kharrouba",
+      "slug": "el-kharrouba-dz013015"
+    },
+    "code": {
+      "id": "DZ013015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.612",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammedi",
+      "en": "Hammedi",
+      "slug": "hammedi-dz013016"
+    },
+    "code": {
+      "id": "DZ013016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.681",
+      "lon": "3.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isser",
+      "en": "Isser",
+      "slug": "isser-dz013017"
+    },
+    "code": {
+      "id": "DZ013017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.697",
+      "lon": "3.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khemis El Khechna",
+      "en": "Khemis El Khechna",
+      "slug": "khemis-el-khechna-dz013018"
+    },
+    "code": {
+      "id": "DZ013018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.635",
+      "lon": "3.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Laghata",
+      "en": "Laghata",
+      "slug": "laghata-dz013019"
+    },
+    "code": {
+      "id": "DZ013019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.792",
+      "lon": "3.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larbatache",
+      "en": "Larbatache",
+      "slug": "larbatache-dz013020"
+    },
+    "code": {
+      "id": "DZ013020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.611",
+      "lon": "3.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Naciria",
+      "en": "Naciria",
+      "slug": "naciria-dz013021"
+    },
+    "code": {
+      "id": "DZ013021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.73",
+      "lon": "3.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Aissa",
+      "en": "Ouled Aissa",
+      "slug": "ouled-aissa-dz013022"
+    },
+    "code": {
+      "id": "DZ013022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.81",
+      "lon": "3.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Hadjadj",
+      "en": "Ouled Hadjadj",
+      "slug": "ouled-hadjadj-dz013023"
+    },
+    "code": {
+      "id": "DZ013023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.713",
+      "lon": "3.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Moussa",
+      "en": "Ouled Moussa",
+      "slug": "ouled-moussa-dz013024"
+    },
+    "code": {
+      "id": "DZ013024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.688",
+      "lon": "3.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Si Mustapha",
+      "en": "Si Mustapha",
+      "slug": "si-mustapha-dz013025"
+    },
+    "code": {
+      "id": "DZ013025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.736",
+      "lon": "3.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Daoud",
+      "en": "Sidi Daoud",
+      "slug": "sidi-daoud-dz013026"
+    },
+    "code": {
+      "id": "DZ013026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.866",
+      "lon": "3.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk El Had",
+      "en": "Souk El Had",
+      "slug": "souk-el-had-dz013027"
+    },
+    "code": {
+      "id": "DZ013027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.696",
+      "lon": "3.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taourga",
+      "en": "Taourga",
+      "slug": "taourga-dz013028"
+    },
+    "code": {
+      "id": "DZ013028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.796",
+      "lon": "3.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Thenia",
+      "en": "Thenia",
+      "slug": "thenia-dz013029"
+    },
+    "code": {
+      "id": "DZ013029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.737",
+      "lon": "3.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tidjelabine",
+      "en": "Tidjelabine",
+      "slug": "tidjelabine-dz013030"
+    },
+    "code": {
+      "id": "DZ013030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.718",
+      "lon": "3.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timezrit",
+      "en": "Timezrit",
+      "slug": "timezrit-dz013031"
+    },
+    "code": {
+      "id": "DZ013031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.666",
+      "lon": "3.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zemmouri",
+      "en": "Zemmouri",
+      "slug": "zemmouri-dz013032"
+    },
+    "code": {
+      "id": "DZ013032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdes",
+          "slug": "boumerdes-dz013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.786",
+      "lon": "3.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

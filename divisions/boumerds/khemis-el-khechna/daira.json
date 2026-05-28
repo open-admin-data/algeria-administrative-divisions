@@ -1,0 +1,47 @@
+{
+  "id": "DZ035_khemis-el-khechna",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "خميس الخشنة",
+    "en": "Khemis El Khechna",
+    "slug": "khemis-el-khechna"
+  },
+  "code": {
+    "id": "DZ035_khemis-el-khechna",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.654",
+    "lon": "3.333"
+  },
+  "metadata": {},
+  "source": {}
+}

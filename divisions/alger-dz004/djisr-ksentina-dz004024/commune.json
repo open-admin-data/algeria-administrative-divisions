@@ -1,0 +1,45 @@
+{
+  "id": "DZ004024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djisr Ksentina",
+    "en": "Djisr Ksentina",
+    "slug": "djisr-ksentina-dz004024"
+  },
+  "code": {
+    "id": "DZ004024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.695",
+    "lon": "3.074"
+  },
+  "metadata": {},
+  "source": {}
+}

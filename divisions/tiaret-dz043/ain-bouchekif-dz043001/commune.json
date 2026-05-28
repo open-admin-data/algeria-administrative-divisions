@@ -1,0 +1,45 @@
+{
+  "id": "DZ043001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Bouchekif",
+    "en": "Ain Bouchekif",
+    "slug": "ain-bouchekif-dz043001"
+  },
+  "code": {
+    "id": "DZ043001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.333",
+    "lon": "1.483"
+  },
+  "metadata": {},
+  "source": {}
+}

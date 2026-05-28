@@ -1,0 +1,45 @@
+{
+  "id": "DZ038025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mostefa Ben Brahim",
+    "en": "Mostefa Ben Brahim",
+    "slug": "mostefa-ben-brahim-dz038025"
+  },
+  "code": {
+    "id": "DZ038025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.176",
+    "lon": "-0.34"
+  },
+  "metadata": {},
+  "source": {}
+}

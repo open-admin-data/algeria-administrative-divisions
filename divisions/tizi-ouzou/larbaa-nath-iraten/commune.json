@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_larbaa-nath-iraten_ait-aggouacha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت عقـواشة",
+      "en": "Ait Aggouacha",
+      "slug": "ait-aggouacha"
+    },
+    "code": {
+      "id": "DZ015_larbaa-nath-iraten_ait-aggouacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_larbaa-nath-iraten",
+      "level": 2,
+      "name": {
+        "local": "الأربعاء ناث إيراثن",
+        "en": "Larbaa Nath Iraten",
+        "slug": "larbaa-nath-iraten"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_larbaa-nath-iraten",
+        "level": 2,
+        "name": {
+          "local": "الأربعاء ناث إيراثن",
+          "en": "Larbaa Nath Iraten",
+          "slug": "larbaa-nath-iraten"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15058"
+    ],
+    "geo": {
+      "lat": "36.624",
+      "lon": "4.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_larbaa-nath-iraten_irdjen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إيرجـــن",
+      "en": "Irdjen",
+      "slug": "irdjen"
+    },
+    "code": {
+      "id": "DZ015_larbaa-nath-iraten_irdjen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_larbaa-nath-iraten",
+      "level": 2,
+      "name": {
+        "local": "الأربعاء ناث إيراثن",
+        "en": "Larbaa Nath Iraten",
+        "slug": "larbaa-nath-iraten"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_larbaa-nath-iraten",
+        "level": 2,
+        "name": {
+          "local": "الأربعاء ناث إيراثن",
+          "en": "Larbaa Nath Iraten",
+          "slug": "larbaa-nath-iraten"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15038"
+    ],
+    "geo": {
+      "lat": "36.671",
+      "lon": "4.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_larbaa-nath-iraten_larbaa-nath-irathen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأربعــاء ناث إيراثن",
+      "en": "Larbaa Nath Irathen",
+      "slug": "larbaa-nath-irathen"
+    },
+    "code": {
+      "id": "DZ015_larbaa-nath-iraten_larbaa-nath-irathen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_larbaa-nath-iraten",
+      "level": 2,
+      "name": {
+        "local": "الأربعاء ناث إيراثن",
+        "en": "Larbaa Nath Iraten",
+        "slug": "larbaa-nath-iraten"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_larbaa-nath-iraten",
+        "level": 2,
+        "name": {
+          "local": "الأربعاء ناث إيراثن",
+          "en": "Larbaa Nath Iraten",
+          "slug": "larbaa-nath-iraten"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15100"
+    ],
+    "geo": {
+      "lat": "36.648",
+      "lon": "4.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

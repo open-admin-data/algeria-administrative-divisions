@@ -1,0 +1,45 @@
+{
+  "id": "DZ040003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bir Bou Haouch",
+    "en": "Bir Bou Haouch",
+    "slug": "bir-bou-haouch-dz040003"
+  },
+  "code": {
+    "id": "DZ040003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.035",
+    "lon": "7.443"
+  },
+  "metadata": {},
+  "source": {}
+}

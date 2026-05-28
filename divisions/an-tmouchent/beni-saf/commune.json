@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ046_beni-saf_beni-saf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني صاف",
+      "en": "Beni Saf",
+      "slug": "beni-saf"
+    },
+    "code": {
+      "id": "DZ046_beni-saf_beni-saf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_beni-saf",
+      "level": 2,
+      "name": {
+        "local": "بني صاف",
+        "en": "Beni Saf",
+        "slug": "beni-saf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_beni-saf",
+        "level": 2,
+        "name": {
+          "local": "بني صاف",
+          "en": "Beni Saf",
+          "slug": "beni-saf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46001"
+    ],
+    "geo": {
+      "lat": "35.29",
+      "lon": "-1.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_beni-saf_emir-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأمير عبد القادر",
+      "en": "Emir Abdelkader",
+      "slug": "emir-abdelkader"
+    },
+    "code": {
+      "id": "DZ046_beni-saf_emir-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_beni-saf",
+      "level": 2,
+      "name": {
+        "local": "بني صاف",
+        "en": "Beni Saf",
+        "slug": "beni-saf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_beni-saf",
+        "level": 2,
+        "name": {
+          "local": "بني صاف",
+          "en": "Beni Saf",
+          "slug": "beni-saf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18010"
+    ],
+    "geo": {
+      "lat": "36.756",
+      "lon": "5.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_beni-saf_sidi-safi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي صافي",
+      "en": "Sidi Safi",
+      "slug": "sidi-safi"
+    },
+    "code": {
+      "id": "DZ046_beni-saf_sidi-safi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_beni-saf",
+      "level": 2,
+      "name": {
+        "local": "بني صاف",
+        "en": "Beni Saf",
+        "slug": "beni-saf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_beni-saf",
+        "level": 2,
+        "name": {
+          "local": "بني صاف",
+          "en": "Beni Saf",
+          "slug": "beni-saf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46025"
+    ],
+    "geo": {
+      "lat": "35.293",
+      "lon": "-1.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

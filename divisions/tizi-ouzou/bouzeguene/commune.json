@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_bouzeguene_beni-zikki",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني زيكــي",
+      "en": "Beni-Zikki",
+      "slug": "beni-zikki"
+    },
+    "code": {
+      "id": "DZ015_bouzeguene_beni-zikki",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_bouzeguene",
+      "level": 2,
+      "name": {
+        "local": "بوزقن",
+        "en": "Bouzeguene",
+        "slug": "bouzeguene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_bouzeguene",
+        "level": 2,
+        "name": {
+          "local": "بوزقن",
+          "en": "Bouzeguene",
+          "slug": "bouzeguene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15118"
+    ],
+    "geo": {
+      "lat": "36.677",
+      "lon": "4.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_bouzeguene_bouzeguene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزقــن",
+      "en": "Bouzeguene",
+      "slug": "bouzeguene"
+    },
+    "code": {
+      "id": "DZ015_bouzeguene_bouzeguene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_bouzeguene",
+      "level": 2,
+      "name": {
+        "local": "بوزقن",
+        "en": "Bouzeguene",
+        "slug": "bouzeguene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_bouzeguene",
+        "level": 2,
+        "name": {
+          "local": "بوزقن",
+          "en": "Bouzeguene",
+          "slug": "bouzeguene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15009"
+    ],
+    "geo": {
+      "lat": "36.677",
+      "lon": "4.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_bouzeguene_idjeur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إيجــار",
+      "en": "Idjeur",
+      "slug": "idjeur"
+    },
+    "code": {
+      "id": "DZ015_bouzeguene_idjeur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_bouzeguene",
+      "level": 2,
+      "name": {
+        "local": "بوزقن",
+        "en": "Bouzeguene",
+        "slug": "bouzeguene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_bouzeguene",
+        "level": 2,
+        "name": {
+          "local": "بوزقن",
+          "en": "Bouzeguene",
+          "slug": "bouzeguene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15035"
+    ],
+    "geo": {
+      "lat": "36.677",
+      "lon": "4.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_bouzeguene_illoula-oumalou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إيلولة أومـــالو",
+      "en": "Illoula Oumalou",
+      "slug": "illoula-oumalou"
+    },
+    "code": {
+      "id": "DZ015_bouzeguene_illoula-oumalou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_bouzeguene",
+      "level": 2,
+      "name": {
+        "local": "بوزقن",
+        "en": "Bouzeguene",
+        "slug": "bouzeguene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_bouzeguene",
+        "level": 2,
+        "name": {
+          "local": "بوزقن",
+          "en": "Bouzeguene",
+          "slug": "bouzeguene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15037"
+    ],
+    "geo": {
+      "lat": "36.677",
+      "lon": "4.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

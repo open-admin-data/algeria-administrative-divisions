@@ -1,0 +1,45 @@
+{
+  "id": "DZ007007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ouata",
+    "en": "El Ouata",
+    "slug": "el-ouata-dz007007"
+  },
+  "code": {
+    "id": "DZ007007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.121",
+    "lon": "-1.382"
+  },
+  "metadata": {},
+  "source": {}
+}

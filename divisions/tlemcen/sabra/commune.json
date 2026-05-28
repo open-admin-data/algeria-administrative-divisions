@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_sabra_bouhlou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحلو",
+      "en": "Bouhlou",
+      "slug": "bouhlou"
+    },
+    "code": {
+      "id": "DZ013_sabra_bouhlou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sabra",
+      "level": 2,
+      "name": {
+        "local": "صبرة",
+        "en": "Sabra",
+        "slug": "sabra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sabra",
+        "level": 2,
+        "name": {
+          "local": "صبرة",
+          "en": "Sabra",
+          "slug": "sabra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13026"
+    ],
+    "geo": {
+      "lat": "34.812",
+      "lon": "-1.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sabra_sabra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صبرة",
+      "en": "Sabra",
+      "slug": "sabra"
+    },
+    "code": {
+      "id": "DZ013_sabra_sabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sabra",
+      "level": 2,
+      "name": {
+        "local": "صبرة",
+        "en": "Sabra",
+        "slug": "sabra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sabra",
+        "level": 2,
+        "name": {
+          "local": "صبرة",
+          "en": "Sabra",
+          "slug": "sabra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13011"
+    ],
+    "geo": {
+      "lat": "34.849",
+      "lon": "-1.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

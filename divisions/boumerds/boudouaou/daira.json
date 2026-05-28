@@ -1,0 +1,47 @@
+{
+  "id": "DZ035_boudouaou",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بودواو",
+    "en": "Boudouaou",
+    "slug": "boudouaou"
+  },
+  "code": {
+    "id": "DZ035_boudouaou",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdès",
+      "slug": "boumerds"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdès",
+        "slug": "boumerds"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.681",
+    "lon": "3.434"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "DZ040_ain-touila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الطويلة",
+      "en": "Ain Touila",
+      "slug": "ain-touila"
+    },
+    "code": {
+      "id": "DZ040_ain-touila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.524",
+      "lon": "7.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_babar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بابار",
+      "en": "Babar",
+      "slug": "babar"
+    },
+    "code": {
+      "id": "DZ040_babar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.766",
+      "lon": "7.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_bouhmama",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوحمامة",
+      "en": "Bouhmama",
+      "slug": "bouhmama"
+    },
+    "code": {
+      "id": "DZ040_bouhmama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.294",
+      "lon": "6.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_chechar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ششار",
+      "en": "Chechar",
+      "slug": "chechar"
+    },
+    "code": {
+      "id": "DZ040_chechar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.326",
+      "lon": "6.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_el-hamma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحامة",
+      "en": "El Hamma",
+      "slug": "el-hamma"
+    },
+    "code": {
+      "id": "DZ040_el-hamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.407",
+      "lon": "7.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_kais",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قايس",
+      "en": "Kais",
+      "slug": "kais"
+    },
+    "code": {
+      "id": "DZ040_kais",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.512",
+      "lon": "6.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_khenchela",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    },
+    "code": {
+      "id": "DZ040_khenchela",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.439",
+      "lon": "7.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_ouled-rechache",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد رشاش",
+      "en": "Ouled Rechache",
+      "slug": "ouled-rechache"
+    },
+    "code": {
+      "id": "DZ040_ouled-rechache",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.225",
+      "lon": "7.298"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

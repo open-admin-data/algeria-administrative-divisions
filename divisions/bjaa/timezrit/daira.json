@@ -1,0 +1,47 @@
+{
+  "id": "DZ006_timezrit",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تيمزريت",
+    "en": "Timezrit",
+    "slug": "timezrit"
+  },
+  "code": {
+    "id": "DZ006_timezrit",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": " بجاية",
+      "en": "Béjaïa",
+      "slug": "bjaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": " بجاية",
+        "en": "Béjaïa",
+        "slug": "bjaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.666",
+    "lon": "3.79"
+  },
+  "metadata": {},
+  "source": {}
+}

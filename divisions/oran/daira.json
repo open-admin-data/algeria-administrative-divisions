@@ -1,0 +1,425 @@
+[
+  {
+    "id": "DZ031_ain-turk",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الترك",
+      "en": "Ain Turk",
+      "slug": "ain-turk"
+    },
+    "code": {
+      "id": "DZ031_ain-turk",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.715",
+      "lon": "-0.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_arzew",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أرزيو",
+      "en": "Arzew",
+      "slug": "arzew"
+    },
+    "code": {
+      "id": "DZ031_arzew",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.856",
+      "lon": "-0.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bethioua",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بطيوة",
+      "en": "Bethioua",
+      "slug": "bethioua"
+    },
+    "code": {
+      "id": "DZ031_bethioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.758",
+      "lon": "-0.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_bir-el-djir",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر الجير",
+      "en": "Bir El Djir",
+      "slug": "bir-el-djir"
+    },
+    "code": {
+      "id": "DZ031_bir-el-djir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.729",
+      "lon": "-0.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_boutlelis",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوتليليس",
+      "en": "Boutlelis",
+      "slug": "boutlelis"
+    },
+    "code": {
+      "id": "DZ031_boutlelis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.624",
+      "lon": "-0.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_es-senia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "السانية",
+      "en": "Es Senia",
+      "slug": "es-senia"
+    },
+    "code": {
+      "id": "DZ031_es-senia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.656",
+      "lon": "-0.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_gdyel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قديل",
+      "en": "Gdyel",
+      "slug": "gdyel"
+    },
+    "code": {
+      "id": "DZ031_gdyel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.769",
+      "lon": "-0.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_oran",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    },
+    "code": {
+      "id": "DZ031_oran",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.71",
+      "lon": "-0.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_oued-tlelat",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي تليلات",
+      "en": "Oued Tlelat",
+      "slug": "oued-tlelat"
+    },
+    "code": {
+      "id": "DZ031_oued-tlelat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.568",
+      "lon": "-0.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

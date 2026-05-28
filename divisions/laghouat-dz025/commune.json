@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "DZ025001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aflou",
+      "en": "Aflou",
+      "slug": "aflou-dz025001"
+    },
+    "code": {
+      "id": "DZ025001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.157",
+      "lon": "2.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Madhi",
+      "en": "Ain Madhi",
+      "slug": "ain-madhi-dz025002"
+    },
+    "code": {
+      "id": "DZ025002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.34",
+      "lon": "2.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Sidi Ali",
+      "en": "Ain Sidi Ali",
+      "slug": "ain-sidi-ali-dz025003"
+    },
+    "code": {
+      "id": "DZ025003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.165",
+      "lon": "1.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beidha",
+      "en": "Beidha",
+      "slug": "beidha-dz025004"
+    },
+    "code": {
+      "id": "DZ025004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.53",
+      "lon": "2.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Brida",
+      "en": "Brida",
+      "slug": "brida-dz025005"
+    },
+    "code": {
+      "id": "DZ025005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.996",
+      "lon": "1.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Assafia",
+      "en": "El Assafia",
+      "slug": "el-assafia-dz025006"
+    },
+    "code": {
+      "id": "DZ025006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.908",
+      "lon": "3.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ghicha",
+      "en": "El Ghicha",
+      "slug": "el-ghicha-dz025007"
+    },
+    "code": {
+      "id": "DZ025007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.877",
+      "lon": "2.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Haouaita",
+      "en": "El Haouaita",
+      "slug": "el-haouaita-dz025008"
+    },
+    "code": {
+      "id": "DZ025008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.55",
+      "lon": "2.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gueltat Sidi Saad",
+      "en": "Gueltat Sidi Saad",
+      "slug": "gueltat-sidi-saad-dz025009"
+    },
+    "code": {
+      "id": "DZ025009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.275",
+      "lon": "1.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadj Mechri",
+      "en": "Hadj Mechri",
+      "slug": "hadj-mechri-dz025010"
+    },
+    "code": {
+      "id": "DZ025010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34",
+      "lon": "1.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Dhelaa",
+      "en": "Hassi Dhelaa",
+      "slug": "hassi-dhelaa-dz025011"
+    },
+    "code": {
+      "id": "DZ025011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.396",
+      "lon": "3.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi R'Mel",
+      "en": "Hassi R'Mel",
+      "slug": "hassi-rmel-dz025012"
+    },
+    "code": {
+      "id": "DZ025012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.141",
+      "lon": "3.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kheneg",
+      "en": "Kheneg",
+      "slug": "kheneg-dz025013"
+    },
+    "code": {
+      "id": "DZ025013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.442",
+      "lon": "2.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar El Hirane",
+      "en": "Ksar El Hirane",
+      "slug": "ksar-el-hirane-dz025014"
+    },
+    "code": {
+      "id": "DZ025014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.707",
+      "lon": "3.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Laghouat",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025015"
+    },
+    "code": {
+      "id": "DZ025015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.845",
+      "lon": "2.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mekhareg",
+      "en": "Mekhareg",
+      "slug": "mekhareg-dz025016"
+    },
+    "code": {
+      "id": "DZ025016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.526",
+      "lon": "3.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued M'Zi",
+      "en": "Oued M'Zi",
+      "slug": "oued-mzi-dz025018"
+    },
+    "code": {
+      "id": "DZ025018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.038",
+      "lon": "2.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Morra",
+      "en": "Oued Morra",
+      "slug": "oued-morra-dz025017"
+    },
+    "code": {
+      "id": "DZ025017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.208",
+      "lon": "2.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebgag",
+      "en": "Sebgag",
+      "slug": "sebgag-dz025019"
+    },
+    "code": {
+      "id": "DZ025019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.056",
+      "lon": "1.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Bouzid",
+      "en": "Sidi Bouzid",
+      "slug": "sidi-bouzid-dz025020"
+    },
+    "code": {
+      "id": "DZ025020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.329",
+      "lon": "2.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Makhlouf",
+      "en": "Sidi Makhlouf",
+      "slug": "sidi-makhlouf-dz025021"
+    },
+    "code": {
+      "id": "DZ025021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.071",
+      "lon": "2.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadjemout",
+      "en": "Tadjemout",
+      "slug": "tadjemout-dz025022"
+    },
+    "code": {
+      "id": "DZ025022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.143",
+      "lon": "2.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadjrouna",
+      "en": "Tadjrouna",
+      "slug": "tadjrouna-dz025023"
+    },
+    "code": {
+      "id": "DZ025023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.556",
+      "lon": "2.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taouila",
+      "en": "Taouila",
+      "slug": "taouila-dz025024"
+    },
+    "code": {
+      "id": "DZ025024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat-dz025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.856",
+      "lon": "1.84"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

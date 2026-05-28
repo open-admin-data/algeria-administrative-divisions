@@ -1,0 +1,137 @@
+# El Bayadh — Algeria Administrative Divisions
+
+> 8 dairas, 22 communes
+> Code: DZ032
+> Coordinates: 32.608, 1.11
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بوعلام (Boualem)
+
+Code: DZ032_boualem, Coordinates: 35.021, 2.255
+Communes: 5
+
+#### بوعلام (Boualem)
+
+Code: DZ032_boualem_boualem, Postal: 32006, Coordinates: 35.021, 2.255
+
+#### سيدي عامر (Sidi Ameur)
+
+Code: DZ032_boualem_sidi-ameur, Coordinates: 35.368, 3.824
+
+#### سيدي سليمان (Sidi Slimane)
+
+Code: DZ032_boualem_sidi-slimane, Postal: 30030, Coordinates: 35.857, 1.723
+
+#### سيدي طيفور (Sidi Tiffour)
+
+Code: DZ032_boualem_sidi-tiffour, Postal: 32032, Coordinates: 35.021, 2.255
+
+#### ستيتن (Stitten)
+
+Code: DZ032_boualem_stitten, Postal: 32033, Coordinates: 33.838, 1.218
+
+### بوقطب (Bougtoub)
+
+Code: DZ032_bougtoub, Coordinates: 33.825, 0.283
+Communes: 3
+
+#### بوقطب (Bougtoub)
+
+Code: DZ032_bougtoub_bougtoub, Postal: 32001, Coordinates: 34.031, 0.255
+
+#### الخيثر (El Kheiter)
+
+Code: DZ032_bougtoub_el-kheiter, Postal: 32011, Coordinates: 33.825, 0.283
+
+#### توسمولين (Tousmouline)
+
+Code: DZ032_bougtoub_tousmouline, Postal: 32034, Coordinates: 33.62, 0.312
+
+### بوسمغون (Boussemghoun)
+
+Code: DZ032_boussemghoun, Coordinates: 32.814, 0.051
+Communes: 1
+
+#### بوسمغون (Boussemghoun)
+
+Code: DZ032_boussemghoun_boussemghoun, Postal: 32014, Coordinates: 32.814, 0.051
+
+### بريزينة (Brezina)
+
+Code: DZ032_brezina, Coordinates: 33.133, 1.343
+Communes: 3
+
+#### بريزينة (Brezina)
+
+Code: DZ032_brezina_brezina, Postal: 32002, Coordinates: 32.536, 1.745
+
+#### الغاسول (Ghassoul)
+
+Code: DZ032_brezina_ghassoul, Postal: 32017, Coordinates: 33.496, 1.249
+
+#### كراكدة (Krakda)
+
+Code: DZ032_brezina_krakda, Postal: 32027, Coordinates: 33.367, 1.035
+
+### شلالة (Chellala)
+
+Code: DZ032_chellala, Coordinates: 33.15, 0.14
+Communes: 2
+
+#### شلالة (Chellala)
+
+Code: DZ032_chellala_chellala, Postal: 32015, Coordinates: 33.028, 0.085
+
+#### المحرة (El Mehara)
+
+Code: DZ032_chellala_el-mehara, Postal: 32024, Coordinates: 33.272, 0.195
+
+### البيض (El Bayadh)
+
+Code: DZ032_el-bayadh, Coordinates: 33.647, 1.01
+Communes: 1
+
+#### البيض (El Bayadh)
+
+Code: DZ032_el-bayadh_el-bayadh, Postal: 32000, Coordinates: 33.647, 1.01
+
+### الأبيض سيدي الشيخ (Labiodh Sidi Cheikh)
+
+Code: DZ032_labiodh-sidi-cheikh, Coordinates: 32.758, 0.572
+Communes: 4
+
+#### عين العراك (Ain El Orak)
+
+Code: DZ032_labiodh-sidi-cheikh_ain-el-orak, Postal: 32019, Coordinates: 33.423, 0.83
+
+#### اربوات (Arbaouat)
+
+Code: DZ032_labiodh-sidi-cheikh_arbaouat, Postal: 32005, Coordinates: 33.142, 0.585
+
+#### البنود (El Bnoud)
+
+Code: DZ032_labiodh-sidi-cheikh_el-bnoud, Postal: 32025, Coordinates: 31.71, 0.301
+
+#### الأبيض سيدي الشيخ (Labiodh Sidi Cheikh)
+
+Code: DZ032_labiodh-sidi-cheikh_labiodh-sidi-cheikh, Postal: 32003, Coordinates: 32.758, 0.572
+
+### رقاصة (Rogassa)
+
+Code: DZ032_rogassa, Coordinates: 33.954, 0.856
+Communes: 3
+
+#### الشقيق (Cheguig)
+
+Code: DZ032_rogassa_cheguig, Postal: 32022, Coordinates: 33.982, 1.113
+
+#### الكاف الأحمر (Kef El Ahmar)
+
+Code: DZ032_rogassa_kef-el-ahmar, Postal: 32013, Coordinates: 33.84, 0.622
+
+#### رقاصة (Rogassa)
+
+Code: DZ032_rogassa_rogassa, Postal: 32018, Coordinates: 34.04, 0.832
+

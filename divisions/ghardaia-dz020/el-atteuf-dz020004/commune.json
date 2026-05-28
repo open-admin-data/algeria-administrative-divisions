@@ -1,0 +1,45 @@
+{
+  "id": "DZ020004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Atteuf",
+    "en": "El Atteuf",
+    "slug": "el-atteuf-dz020004"
+  },
+  "code": {
+    "id": "DZ020004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.51",
+    "lon": "3.958"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "DZ018001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bayadha",
+      "en": "Bayadha",
+      "slug": "bayadha-dz018001"
+    },
+    "code": {
+      "id": "DZ018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.326",
+      "lon": "6.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Guecha",
+      "en": "Beni Guecha",
+      "slug": "beni-guecha-dz018002"
+    },
+    "code": {
+      "id": "DZ018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.123",
+      "lon": "7.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djamaa",
+      "en": "Djamaa",
+      "slug": "djamaa-dz018003"
+    },
+    "code": {
+      "id": "DZ018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.579",
+      "lon": "5.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebila",
+      "en": "Djebila",
+      "slug": "djebila-dz018004"
+    },
+    "code": {
+      "id": "DZ018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.54",
+      "lon": "6.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Douar El Ma",
+      "en": "Douar El Ma",
+      "slug": "douar-el-ma-dz018005"
+    },
+    "code": {
+      "id": "DZ018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.803",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El M'Ghair",
+      "en": "El M'Ghair",
+      "slug": "el-mghair-dz018006"
+    },
+    "code": {
+      "id": "DZ018006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.951",
+      "lon": "5.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ogla",
+      "en": "El Ogla",
+      "slug": "el-ogla-dz018007"
+    },
+    "code": {
+      "id": "DZ018007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.029",
+      "lon": "7.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Oued",
+      "en": "El Oued",
+      "slug": "el-oued-dz018008"
+    },
+    "code": {
+      "id": "DZ018008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.366",
+      "lon": "6.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guemar",
+      "en": "Guemar",
+      "slug": "guemar-dz018009"
+    },
+    "code": {
+      "id": "DZ018009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.82",
+      "lon": "6.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamraia",
+      "en": "Hamraia",
+      "slug": "hamraia-dz018010"
+    },
+    "code": {
+      "id": "DZ018010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.182",
+      "lon": "6.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassani Abdelkrim",
+      "en": "Hassani Abdelkrim",
+      "slug": "hassani-abdelkrim-dz018011"
+    },
+    "code": {
+      "id": "DZ018011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.467",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Khelifa",
+      "en": "Hassi Khelifa",
+      "slug": "hassi-khelifa-dz018012"
+    },
+    "code": {
+      "id": "DZ018012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.71",
+      "lon": "7.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouinine",
+      "en": "Kouinine",
+      "slug": "kouinine-dz018013"
+    },
+    "code": {
+      "id": "DZ018013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.397",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Rara",
+      "en": "M'Rara",
+      "slug": "mrara-dz018016"
+    },
+    "code": {
+      "id": "DZ018016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.596",
+      "lon": "5.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Magrane",
+      "en": "Magrane",
+      "slug": "magrane-dz018014"
+    },
+    "code": {
+      "id": "DZ018014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.797",
+      "lon": "6.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mih Ouensa",
+      "en": "Mih Ouensa",
+      "slug": "mih-ouensa-dz018015"
+    },
+    "code": {
+      "id": "DZ018015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.034",
+      "lon": "6.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nakhla",
+      "en": "Nakhla",
+      "slug": "nakhla-dz018017"
+    },
+    "code": {
+      "id": "DZ018017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.174",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Alenda",
+      "en": "Oued El Alenda",
+      "slug": "oued-el-alenda-dz018018"
+    },
+    "code": {
+      "id": "DZ018018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.03",
+      "lon": "6.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Tiour",
+      "en": "Oum Tiour",
+      "slug": "oum-tiour-dz018019"
+    },
+    "code": {
+      "id": "DZ018019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.228",
+      "lon": "5.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ourmes",
+      "en": "Ourmes",
+      "slug": "ourmes-dz018020"
+    },
+    "code": {
+      "id": "DZ018020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.353",
+      "lon": "6.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reguiba",
+      "en": "Reguiba",
+      "slug": "reguiba-dz018021"
+    },
+    "code": {
+      "id": "DZ018021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.771",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Robbah",
+      "en": "Robbah",
+      "slug": "robbah-dz018022"
+    },
+    "code": {
+      "id": "DZ018022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.935",
+      "lon": "6.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Amrane",
+      "en": "Sidi Amrane",
+      "slug": "sidi-amrane-dz018023"
+    },
+    "code": {
+      "id": "DZ018023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.456",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Aoun",
+      "en": "Sidi Aoun",
+      "slug": "sidi-aoun-dz018024"
+    },
+    "code": {
+      "id": "DZ018024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.902",
+      "lon": "6.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Khellil",
+      "en": "Sidi Khellil",
+      "slug": "sidi-khellil-dz018025"
+    },
+    "code": {
+      "id": "DZ018025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.827",
+      "lon": "5.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Still",
+      "en": "Still",
+      "slug": "still-dz018026"
+    },
+    "code": {
+      "id": "DZ018026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.354",
+      "lon": "5.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taghzout",
+      "en": "Taghzout",
+      "slug": "taghzout-dz018027"
+    },
+    "code": {
+      "id": "DZ018027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.5",
+      "lon": "6.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taleb Larbi",
+      "en": "Taleb Larbi",
+      "slug": "taleb-larbi-dz018028"
+    },
+    "code": {
+      "id": "DZ018028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.708",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tendla",
+      "en": "Tendla",
+      "slug": "tendla-dz018029"
+    },
+    "code": {
+      "id": "DZ018029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.743",
+      "lon": "5.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Trifaou",
+      "en": "Trifaou",
+      "slug": "trifaou-dz018030"
+    },
+    "code": {
+      "id": "DZ018030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued-dz018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.461",
+      "lon": "7.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

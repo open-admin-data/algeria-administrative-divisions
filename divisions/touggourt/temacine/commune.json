@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ055_temacine_blidet-amor",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلدة اعمر",
+      "en": "Blidet Amor",
+      "slug": "blidet-amor"
+    },
+    "code": {
+      "id": "DZ055_temacine_blidet-amor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_temacine",
+      "level": 2,
+      "name": {
+        "local": "تماسين",
+        "en": "Temacine",
+        "slug": "temacine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_temacine",
+        "level": 2,
+        "name": {
+          "local": "تماسين",
+          "en": "Temacine",
+          "slug": "temacine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30005"
+    ],
+    "geo": {
+      "lat": "33.312",
+      "lon": "5.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_temacine_temacine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تماسين",
+      "en": "Temacine",
+      "slug": "temacine"
+    },
+    "code": {
+      "id": "DZ055_temacine_temacine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_temacine",
+      "level": 2,
+      "name": {
+        "local": "تماسين",
+        "en": "Temacine",
+        "slug": "temacine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_temacine",
+        "level": 2,
+        "name": {
+          "local": "تماسين",
+          "en": "Temacine",
+          "slug": "temacine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30003"
+    ],
+    "geo": {
+      "lat": "33.312",
+      "lon": "5.693"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

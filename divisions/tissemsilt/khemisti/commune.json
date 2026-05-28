@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ038_khemisti_khemisti",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خميستي",
+      "en": "Khemisti",
+      "slug": "khemisti"
+    },
+    "code": {
+      "id": "DZ038_khemisti_khemisti",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_khemisti",
+      "level": 2,
+      "name": {
+        "local": "خميستي",
+        "en": "Khemisti",
+        "slug": "khemisti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_khemisti",
+        "level": 2,
+        "name": {
+          "local": "خميستي",
+          "en": "Khemisti",
+          "slug": "khemisti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38016"
+    ],
+    "geo": {
+      "lat": "35.688",
+      "lon": "1.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_khemisti_layoune",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العيون",
+      "en": "Layoune",
+      "slug": "layoune"
+    },
+    "code": {
+      "id": "DZ038_khemisti_layoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_khemisti",
+      "level": 2,
+      "name": {
+        "local": "خميستي",
+        "en": "Khemisti",
+        "slug": "khemisti"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_khemisti",
+        "level": 2,
+        "name": {
+          "local": "خميستي",
+          "en": "Khemisti",
+          "slug": "khemisti"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38007"
+    ],
+    "geo": {
+      "lat": "35.668",
+      "lon": "2.064"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

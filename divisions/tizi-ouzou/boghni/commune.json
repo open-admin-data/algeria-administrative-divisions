@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_boghni_assi-youcef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أسي يوسف",
+      "en": "Assi-Youcef",
+      "slug": "assi-youcef"
+    },
+    "code": {
+      "id": "DZ015_boghni_assi-youcef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_boghni",
+      "level": 2,
+      "name": {
+        "local": "بوغني",
+        "en": "Boghni",
+        "slug": "boghni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_boghni",
+        "level": 2,
+        "name": {
+          "local": "بوغني",
+          "en": "Boghni",
+          "slug": "boghni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15025"
+    ],
+    "geo": {
+      "lat": "36.502",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_boghni_boghni",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوغني",
+      "en": "Boghni",
+      "slug": "boghni"
+    },
+    "code": {
+      "id": "DZ015_boghni_boghni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_boghni",
+      "level": 2,
+      "name": {
+        "local": "بوغني",
+        "en": "Boghni",
+        "slug": "boghni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_boghni",
+        "level": 2,
+        "name": {
+          "local": "بوغني",
+          "en": "Boghni",
+          "slug": "boghni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15003"
+    ],
+    "geo": {
+      "lat": "36.517",
+      "lon": "3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_boghni_bounouh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بونوح",
+      "en": "Bounouh",
+      "slug": "bounouh"
+    },
+    "code": {
+      "id": "DZ015_boghni_bounouh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_boghni",
+      "level": 2,
+      "name": {
+        "local": "بوغني",
+        "en": "Boghni",
+        "slug": "boghni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_boghni",
+        "level": 2,
+        "name": {
+          "local": "بوغني",
+          "en": "Boghni",
+          "slug": "boghni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15031"
+    ],
+    "geo": {
+      "lat": "36.495",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_boghni_mechtras",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مشطراس",
+      "en": "Mechtras",
+      "slug": "mechtras"
+    },
+    "code": {
+      "id": "DZ015_boghni_mechtras",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_boghni",
+      "level": 2,
+      "name": {
+        "local": "بوغني",
+        "en": "Boghni",
+        "slug": "boghni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_boghni",
+        "level": 2,
+        "name": {
+          "local": "بوغني",
+          "en": "Boghni",
+          "slug": "boghni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15041"
+    ],
+    "geo": {
+      "lat": "36.505",
+      "lon": "3.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ008_lahmar_boukais",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوكايس",
+      "en": "Boukais",
+      "slug": "boukais"
+    },
+    "code": {
+      "id": "DZ008_lahmar_boukais",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_lahmar",
+      "level": 2,
+      "name": {
+        "local": "لحمر",
+        "en": "Lahmar",
+        "slug": "lahmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_lahmar",
+        "level": 2,
+        "name": {
+          "local": "لحمر",
+          "en": "Lahmar",
+          "slug": "lahmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08034"
+    ],
+    "geo": {
+      "lat": "31.969",
+      "lon": "-2.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_lahmar_lahmar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لحمر",
+      "en": "Lahmar",
+      "slug": "lahmar"
+    },
+    "code": {
+      "id": "DZ008_lahmar_lahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_lahmar",
+      "level": 2,
+      "name": {
+        "local": "لحمر",
+        "en": "Lahmar",
+        "slug": "lahmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_lahmar",
+        "level": 2,
+        "name": {
+          "local": "لحمر",
+          "en": "Lahmar",
+          "slug": "lahmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08026"
+    ],
+    "geo": {
+      "lat": "31.865",
+      "lon": "-2.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ008_lahmar_mogheul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "موغل",
+      "en": "Mogheul",
+      "slug": "mogheul"
+    },
+    "code": {
+      "id": "DZ008_lahmar_mogheul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_lahmar",
+      "level": 2,
+      "name": {
+        "local": "لحمر",
+        "en": "Lahmar",
+        "slug": "lahmar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_lahmar",
+        "level": 2,
+        "name": {
+          "local": "لحمر",
+          "en": "Lahmar",
+          "slug": "lahmar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08042"
+    ],
+    "geo": {
+      "lat": "31.917",
+      "lon": "-2.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "DZ038001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Adden",
+      "en": "Ain Adden",
+      "slug": "ain-adden-dz038001"
+    },
+    "code": {
+      "id": "DZ038001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.33",
+      "lon": "-0.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Berd",
+      "en": "Ain El Berd",
+      "slug": "ain-el-berd-dz038002"
+    },
+    "code": {
+      "id": "DZ038002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.386",
+      "lon": "-0.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kada",
+      "en": "Ain Kada",
+      "slug": "ain-kada-dz038003"
+    },
+    "code": {
+      "id": "DZ038003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.159",
+      "lon": "-0.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Thrid",
+      "en": "Ain Thrid",
+      "slug": "ain-thrid-dz038004"
+    },
+    "code": {
+      "id": "DZ038004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.297",
+      "lon": "-0.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tindamine",
+      "en": "Ain Tindamine",
+      "slug": "ain-tindamine-dz038005"
+    },
+    "code": {
+      "id": "DZ038005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.705",
+      "lon": "-0.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amarnas",
+      "en": "Amarnas",
+      "slug": "amarnas-dz038006"
+    },
+    "code": {
+      "id": "DZ038006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.103",
+      "lon": "-0.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bedrabine El Mokrani",
+      "en": "Bedrabine El Mokrani",
+      "slug": "bedrabine-el-mokrani-dz038007"
+    },
+    "code": {
+      "id": "DZ038007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.003",
+      "lon": "-0.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belarbi",
+      "en": "Belarbi",
+      "slug": "belarbi-dz038008"
+    },
+    "code": {
+      "id": "DZ038008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.134",
+      "lon": "-0.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Badis",
+      "en": "Ben Badis",
+      "slug": "ben-badis-dz038009"
+    },
+    "code": {
+      "id": "DZ038009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.928",
+      "lon": "-0.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benachiba Chelia",
+      "en": "Benachiba Chelia",
+      "slug": "benachiba-chelia-dz038010"
+    },
+    "code": {
+      "id": "DZ038010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.964",
+      "lon": "-0.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir El H'Mam",
+      "en": "Bir El H'Mam",
+      "slug": "bir-el-hmam-dz038011"
+    },
+    "code": {
+      "id": "DZ038011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.266",
+      "lon": "-0.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudjebaa El Bordj",
+      "en": "Boudjebaa El Bordj",
+      "slug": "boudjebaa-el-bordj-dz038012"
+    },
+    "code": {
+      "id": "DZ038012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.325",
+      "lon": "-0.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukanefis",
+      "en": "Boukanefis",
+      "slug": "boukanefis-dz038013"
+    },
+    "code": {
+      "id": "DZ038013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.049",
+      "lon": "-0.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chetouane Belaila",
+      "en": "Chetouane Belaila",
+      "slug": "chetouane-belaila-dz038014"
+    },
+    "code": {
+      "id": "DZ038014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.956",
+      "lon": "-0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dhaya",
+      "en": "Dhaya",
+      "slug": "dhaya-dz038015"
+    },
+    "code": {
+      "id": "DZ038015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.639",
+      "lon": "-0.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hacaiba",
+      "en": "El Hacaiba",
+      "slug": "el-hacaiba-dz038016"
+    },
+    "code": {
+      "id": "DZ038016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.719",
+      "lon": "-0.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Daho",
+      "en": "Hassi Daho",
+      "slug": "hassi-daho-dz038017"
+    },
+    "code": {
+      "id": "DZ038017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.108",
+      "lon": "-0.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Zahana",
+      "en": "Hassi Zahana",
+      "slug": "hassi-zahana-dz038018"
+    },
+    "code": {
+      "id": "DZ038018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.031",
+      "lon": "-0.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lamtar",
+      "en": "Lamtar",
+      "slug": "lamtar-dz038019"
+    },
+    "code": {
+      "id": "DZ038019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.059",
+      "lon": "-0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Cid",
+      "en": "M'Cid",
+      "slug": "mcid-dz038022"
+    },
+    "code": {
+      "id": "DZ038022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.147",
+      "lon": "-0.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makedra",
+      "en": "Makedra",
+      "slug": "makedra-dz038020"
+    },
+    "code": {
+      "id": "DZ038020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.418",
+      "lon": "-0.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marhoum",
+      "en": "Marhoum",
+      "slug": "marhoum-dz038021"
+    },
+    "code": {
+      "id": "DZ038021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.332",
+      "lon": "-0.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merine",
+      "en": "Merine",
+      "slug": "merine-dz038023"
+    },
+    "code": {
+      "id": "DZ038023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.795",
+      "lon": "-0.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mezaourou",
+      "en": "Mezaourou",
+      "slug": "mezaourou-dz038024"
+    },
+    "code": {
+      "id": "DZ038024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.839",
+      "lon": "-0.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mostefa Ben Brahim",
+      "en": "Mostefa Ben Brahim",
+      "slug": "mostefa-ben-brahim-dz038025"
+    },
+    "code": {
+      "id": "DZ038025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.176",
+      "lon": "-0.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moulay Slissen",
+      "en": "Moulay Slissen",
+      "slug": "moulay-slissen-dz038026"
+    },
+    "code": {
+      "id": "DZ038026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.834",
+      "lon": "-0.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Sbaa",
+      "en": "Oued Sbaa",
+      "slug": "oued-sbaa-dz038027"
+    },
+    "code": {
+      "id": "DZ038027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.533",
+      "lon": "-0.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Sefioun",
+      "en": "Oued Sefioun",
+      "slug": "oued-sefioun-dz038028"
+    },
+    "code": {
+      "id": "DZ038028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.997",
+      "lon": "-0.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Taourira",
+      "en": "Oued Taourira",
+      "slug": "oued-taourira-dz038029"
+    },
+    "code": {
+      "id": "DZ038029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.614",
+      "lon": "-0.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Ma",
+      "en": "Ras El Ma",
+      "slug": "ras-el-ma-dz038030"
+    },
+    "code": {
+      "id": "DZ038030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.504",
+      "lon": "-0.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Redjem Demmouche",
+      "en": "Redjem Demmouche",
+      "slug": "redjem-demmouche-dz038031"
+    },
+    "code": {
+      "id": "DZ038031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.343",
+      "lon": "-0.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sehala Thaoura",
+      "en": "Sehala Thaoura",
+      "slug": "sehala-thaoura-dz038032"
+    },
+    "code": {
+      "id": "DZ038032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.228",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sfisef",
+      "en": "Sfisef",
+      "slug": "sfisef-dz038033"
+    },
+    "code": {
+      "id": "DZ038033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.246",
+      "lon": "-0.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ali Benyoub",
+      "en": "Sidi Ali Benyoub",
+      "slug": "sidi-ali-benyoub-dz038034"
+    },
+    "code": {
+      "id": "DZ038034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.951",
+      "lon": "-0.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ali Boussidi",
+      "en": "Sidi Ali Boussidi",
+      "slug": "sidi-ali-boussidi-dz038035"
+    },
+    "code": {
+      "id": "DZ038035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.107",
+      "lon": "-0.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Bel Abbes",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038036"
+    },
+    "code": {
+      "id": "DZ038036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.21",
+      "lon": "-0.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Brahim",
+      "en": "Sidi Brahim",
+      "slug": "sidi-brahim-dz038037"
+    },
+    "code": {
+      "id": "DZ038037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.263",
+      "lon": "-0.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Chaib",
+      "en": "Sidi Chaib",
+      "slug": "sidi-chaib-dz038038"
+    },
+    "code": {
+      "id": "DZ038038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.572",
+      "lon": "-0.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Daho",
+      "en": "Sidi Daho",
+      "slug": "sidi-daho-dz038039"
+    },
+    "code": {
+      "id": "DZ038039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.13",
+      "lon": "-0.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Hamadouche",
+      "en": "Sidi Hamadouche",
+      "slug": "sidi-hamadouche-dz038040"
+    },
+    "code": {
+      "id": "DZ038040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.314",
+      "lon": "-0.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Khaled",
+      "en": "Sidi Khaled",
+      "slug": "sidi-khaled-dz038041"
+    },
+    "code": {
+      "id": "DZ038041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.124",
+      "lon": "-0.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Lahcene",
+      "en": "Sidi Lahcene",
+      "slug": "sidi-lahcene-dz038042"
+    },
+    "code": {
+      "id": "DZ038042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.197",
+      "lon": "-0.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Yacoub",
+      "en": "Sidi Yacoub",
+      "slug": "sidi-yacoub-dz038043"
+    },
+    "code": {
+      "id": "DZ038043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.159",
+      "lon": "-0.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabia",
+      "en": "Tabia",
+      "slug": "tabia-dz038044"
+    },
+    "code": {
+      "id": "DZ038044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.02",
+      "lon": "-0.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tafissour",
+      "en": "Tafissour",
+      "slug": "tafissour-dz038045"
+    },
+    "code": {
+      "id": "DZ038045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.7",
+      "lon": "-0.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taoudmout",
+      "en": "Taoudmout",
+      "slug": "taoudmout-dz038046"
+    },
+    "code": {
+      "id": "DZ038046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.614",
+      "lon": "-0.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Teghalimet",
+      "en": "Teghalimet",
+      "slug": "teghalimet-dz038047"
+    },
+    "code": {
+      "id": "DZ038047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.904",
+      "lon": "-0.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Telagh",
+      "en": "Telagh",
+      "slug": "telagh-dz038048"
+    },
+    "code": {
+      "id": "DZ038048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.806",
+      "lon": "-0.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tenira",
+      "en": "Tenira",
+      "slug": "tenira-dz038049"
+    },
+    "code": {
+      "id": "DZ038049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.006",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tessala",
+      "en": "Tessala",
+      "slug": "tessala-dz038050"
+    },
+    "code": {
+      "id": "DZ038050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.276",
+      "lon": "-0.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tilmouni",
+      "en": "Tilmouni",
+      "slug": "tilmouni-dz038051"
+    },
+    "code": {
+      "id": "DZ038051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.188",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zerouala",
+      "en": "Zerouala",
+      "slug": "zerouala-dz038052"
+    },
+    "code": {
+      "id": "DZ038052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbes",
+          "slug": "sidi-bel-abbes-dz038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.246",
+      "lon": "-0.452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

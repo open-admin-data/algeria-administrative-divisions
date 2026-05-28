@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ041_ouled-driss_ain-zana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الزانة",
+      "en": "Ain Zana",
+      "slug": "ain-zana"
+    },
+    "code": {
+      "id": "DZ041_ouled-driss_ain-zana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_ouled-driss",
+      "level": 2,
+      "name": {
+        "local": "أولاد إدريس",
+        "en": "Ouled Driss",
+        "slug": "ouled-driss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_ouled-driss",
+        "level": 2,
+        "name": {
+          "local": "أولاد إدريس",
+          "en": "Ouled Driss",
+          "slug": "ouled-driss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41027"
+    ],
+    "geo": {
+      "lat": "36.401",
+      "lon": "8.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_ouled-driss_ouled-driss",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد إدريس",
+      "en": "Ouled Driss",
+      "slug": "ouled-driss"
+    },
+    "code": {
+      "id": "DZ041_ouled-driss_ouled-driss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_ouled-driss",
+      "level": 2,
+      "name": {
+        "local": "أولاد إدريس",
+        "en": "Ouled Driss",
+        "slug": "ouled-driss"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_ouled-driss",
+        "level": 2,
+        "name": {
+          "local": "أولاد إدريس",
+          "en": "Ouled Driss",
+          "slug": "ouled-driss"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41005"
+    ],
+    "geo": {
+      "lat": "36.376",
+      "lon": "8.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

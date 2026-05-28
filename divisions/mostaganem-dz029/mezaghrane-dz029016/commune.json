@@ -1,0 +1,45 @@
+{
+  "id": "DZ029016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mezaghrane",
+    "en": "Mezaghrane",
+    "slug": "mezaghrane-dz029016"
+  },
+  "code": {
+    "id": "DZ029016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem-dz029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem-dz029"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.89",
+    "lon": "0.063"
+  },
+  "metadata": {},
+  "source": {}
+}

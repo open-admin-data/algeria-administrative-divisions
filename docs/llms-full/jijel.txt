@@ -1,0 +1,176 @@
+# Jijel — Algeria Administrative Divisions
+
+> 11 dairas, 28 communes
+> Code: DZ018
+> Coordinates: 36.731, 5.961
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### الشقفة (Chekfa)
+
+Code: DZ018_chekfa, Coordinates: 36.803, 6.004
+Communes: 4
+
+#### برج الطهر (Bordj T&#39;har)
+
+Code: DZ018_chekfa_bordj-thar, Postal: 18041, Coordinates: 36.803, 6.004
+
+#### الشقفة (Chekfa)
+
+Code: DZ018_chekfa_chekfa, Postal: 18003, Coordinates: 36.762, 5.97
+
+#### القنار نشفي (El Kennar Nouchfi)
+
+Code: DZ018_chekfa_el-kennar-nouchfi, Postal: 18030, Coordinates: 36.813, 5.991
+
+#### سيدي عبد العزيز (Sidi Abdelaziz)
+
+Code: DZ018_chekfa_sidi-abdelaziz, Postal: 18017, Coordinates: 36.834, 6.051
+
+### جيملة (Djimla)
+
+Code: DZ018_djimla, Coordinates: 36.731, 5.961
+Communes: 2
+
+#### بودريعة بني  ياجيس (Boudria Beniyadjis)
+
+Code: DZ018_djimla_boudria-beniyadjis, Postal: 18025, Coordinates: 36.731, 5.961
+
+#### جيملة (Djimla)
+
+Code: DZ018_djimla_djimla, Postal: 18031, Coordinates: 36.731, 5.961
+
+### العنصر (El Ancer)
+
+Code: DZ018_el-ancer, Coordinates: 36.767, 6.126
+Communes: 4
+
+#### بوراوي بلهادف (Bouraoui Belhadef)
+
+Code: DZ018_el-ancer_bouraoui-belhadef, Postal: 18023, Coordinates: 36.7, 6.099
+
+#### الجمعة بني حبيبي (Djemaa Beni Habibi)
+
+Code: DZ018_el-ancer_djemaa-beni-habibi, Postal: 18029, Coordinates: 36.804, 6.097
+
+#### العنصر (El Ancer)
+
+Code: DZ018_el-ancer_el-ancer, Postal: 18004, Coordinates: 36.798, 6.181
+
+#### خيري واد عجول (Khiri Oued Adjoul)
+
+Code: DZ018_el-ancer_khiri-oued-adjoul, Postal: 18024, Coordinates: 36.767, 6.126
+
+### العوانة (El Aouana)
+
+Code: DZ018_el-aouana, Coordinates: 36.742, 5.634
+Communes: 2
+
+#### العوانة (El Aouana)
+
+Code: DZ018_el-aouana_el-aouana, Postal: 18005, Coordinates: 36.742, 5.634
+
+#### سلمى بن زيادة (Selma Benziada)
+
+Code: DZ018_el-aouana_selma-benziada, Postal: 18049, Coordinates: 36.742, 5.634
+
+### الميلية (El Milia)
+
+Code: DZ018_el-milia, Coordinates: 36.807, 6.289
+Communes: 2
+
+#### الميلية (El Milia)
+
+Code: DZ018_el-milia_el-milia, Postal: 18001, Coordinates: 36.807, 6.289
+
+#### أولاد يحيى خدروش (Ouled Yahia Khadrouch)
+
+Code: DZ018_el-milia_ouled-yahia-khadrouch, Postal: 18021, Coordinates: 36.807, 6.289
+
+### جيجل (Jijel)
+
+Code: DZ018_jijel, Coordinates: 36.798, 5.745
+Communes: 1
+
+#### جيجل (Jijel)
+
+Code: DZ018_jijel_jijel, Postal: 18000, Coordinates: 36.798, 5.745
+
+### السطارة (Settara)
+
+Code: DZ018_settara, Coordinates: 36.707, 6.363
+Communes: 2
+
+#### غبالة (Ghebala)
+
+Code: DZ018_settara_ghebala, Postal: 18026, Coordinates: 36.707, 6.363
+
+#### السطارة (Settara)
+
+Code: DZ018_settara_settara, Postal: 18016, Coordinates: 36.707, 6.363
+
+### سيدي معروف (Sidi Marouf)
+
+Code: DZ018_sidi-marouf, Coordinates: 36.627, 6.176
+Communes: 2
+
+#### أولاد رابح (Ouled Rabah)
+
+Code: DZ018_sidi-marouf_ouled-rabah, Postal: 18046, Coordinates: 36.627, 6.176
+
+#### سيدي معروف (Sidi Marouf)
+
+Code: DZ018_sidi-marouf_sidi-marouf, Postal: 18018, Coordinates: 36.627, 6.176
+
+### الطاهير (Taher)
+
+Code: DZ018_taher, Coordinates: 36.719, 5.899
+Communes: 5
+
+#### بوسيف أولاد عسكر (Boussif Ouled Askeur)
+
+Code: DZ018_taher_boussif-ouled-askeur, Postal: 18036, Coordinates: 36.719, 5.899
+
+#### الشحنة (Chahna)
+
+Code: DZ018_taher_chahna, Postal: 18027, Coordinates: 36.665, 5.949
+
+#### الامير عبد القادر (Emir Abdelkader)
+
+Code: DZ018_taher_emir-abdelkader, Postal: 18010, Coordinates: 36.756, 5.849
+
+#### وجانة (Oudjana)
+
+Code: DZ018_taher_oudjana, Postal: 18047, Coordinates: 36.678, 5.887
+
+#### الطاهير (Taher)
+
+Code: DZ018_taher_taher, Postal: 18002, Coordinates: 36.779, 5.911
+
+### تاكسنة (Texenna)
+
+Code: DZ018_texenna, Coordinates: 36.717, 5.771
+Communes: 2
+
+#### قاوس (Kaous)
+
+Code: DZ018_texenna_kaous, Postal: 18015, Coordinates: 36.762, 5.764
+
+#### تاكسنة (Texenna)
+
+Code: DZ018_texenna_texenna, Postal: 18006, Coordinates: 36.672, 5.777
+
+### زيامة منصورية (Ziamah Mansouriah)
+
+Code: DZ018_ziamah-mansouriah, Coordinates: 36.731, 5.961
+Communes: 2
+
+#### أراقن سويسي (Erraguene Souissi)
+
+Code: DZ018_ziamah-mansouriah_erraguene-souissi, Postal: 18032, Coordinates: 36.731, 5.961
+
+#### زيامة منصورية (Ziama Mansouriah)
+
+Code: DZ018_ziamah-mansouriah_ziama-mansouriah, Postal: 18007, Coordinates: 36.731, 5.961
+

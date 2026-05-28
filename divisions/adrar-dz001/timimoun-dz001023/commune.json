@@ -1,0 +1,45 @@
+{
+  "id": "DZ001023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Timimoun",
+    "en": "Timimoun",
+    "slug": "timimoun-dz001023"
+  },
+  "code": {
+    "id": "DZ001023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.701",
+    "lon": "1.541"
+  },
+  "metadata": {},
+  "source": {}
+}

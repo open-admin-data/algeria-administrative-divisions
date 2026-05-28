@@ -1,0 +1,45 @@
+{
+  "id": "DZ013008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boudouaou El Bahri",
+    "en": "Boudouaou El Bahri",
+    "slug": "boudouaou-el-bahri-dz013008"
+  },
+  "code": {
+    "id": "DZ013008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.763",
+    "lon": "3.402"
+  },
+  "metadata": {},
+  "source": {}
+}

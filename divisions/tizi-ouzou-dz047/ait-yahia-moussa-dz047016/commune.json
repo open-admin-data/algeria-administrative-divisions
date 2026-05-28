@@ -1,0 +1,45 @@
+{
+  "id": "DZ047016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ait Yahia Moussa",
+    "en": "Ait Yahia Moussa",
+    "slug": "ait-yahia-moussa-dz047016"
+  },
+  "code": {
+    "id": "DZ047016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.644",
+    "lon": "3.877"
+  },
+  "metadata": {},
+  "source": {}
+}

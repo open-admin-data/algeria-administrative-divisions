@@ -1,0 +1,45 @@
+{
+  "id": "DZ014018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Labiodh Medjadja",
+    "en": "Labiodh Medjadja",
+    "slug": "labiodh-medjadja-dz014018"
+  },
+  "code": {
+    "id": "DZ014018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.271",
+    "lon": "1.396"
+  },
+  "metadata": {},
+  "source": {}
+}

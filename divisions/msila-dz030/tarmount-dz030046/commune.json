@@ -1,0 +1,45 @@
+{
+  "id": "DZ030046",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tarmount",
+    "en": "Tarmount",
+    "slug": "tarmount-dz030046"
+  },
+  "code": {
+    "id": "DZ030046",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.82",
+    "lon": "4.272"
+  },
+  "metadata": {},
+  "source": {}
+}

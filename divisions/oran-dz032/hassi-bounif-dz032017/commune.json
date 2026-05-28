@@ -1,0 +1,45 @@
+{
+  "id": "DZ032017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi Bounif",
+    "en": "Hassi Bounif",
+    "slug": "hassi-bounif-dz032017"
+  },
+  "code": {
+    "id": "DZ032017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.7",
+    "lon": "-0.494"
+  },
+  "metadata": {},
+  "source": {}
+}

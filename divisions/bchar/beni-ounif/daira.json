@@ -1,0 +1,47 @@
+{
+  "id": "DZ008_beni-ounif",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني ونيف",
+    "en": "Beni Ounif",
+    "slug": "beni-ounif"
+  },
+  "code": {
+    "id": "DZ008_beni-ounif",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Béchar",
+      "slug": "bchar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.556",
+    "lon": "-0.904"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ001007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Deldoul",
+    "en": "Deldoul",
+    "slug": "deldoul-dz001007"
+  },
+  "code": {
+    "id": "DZ001007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.861",
+    "lon": "0.007"
+  },
+  "metadata": {},
+  "source": {}
+}

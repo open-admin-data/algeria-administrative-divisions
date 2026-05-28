@@ -1,0 +1,45 @@
+{
+  "id": "DZ025020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Bouzid",
+    "en": "Sidi Bouzid",
+    "slug": "sidi-bouzid-dz025020"
+  },
+  "code": {
+    "id": "DZ025020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.329",
+    "lon": "2.192"
+  },
+  "metadata": {},
+  "source": {}
+}

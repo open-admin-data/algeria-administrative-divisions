@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ028_bousaada_bou-saada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوسعادة",
+      "en": "Bou Saada",
+      "slug": "bou-saada"
+    },
+    "code": {
+      "id": "DZ028_bousaada_bou-saada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_bousaada",
+      "level": 2,
+      "name": {
+        "local": "بوسعادة",
+        "en": "Bousaada",
+        "slug": "bousaada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_bousaada",
+        "level": 2,
+        "name": {
+          "local": "بوسعادة",
+          "en": "Bousaada",
+          "slug": "bousaada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28001"
+    ],
+    "geo": {
+      "lat": "35.119",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_bousaada_el-hamel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الهامل",
+      "en": "El Hamel",
+      "slug": "el-hamel"
+    },
+    "code": {
+      "id": "DZ028_bousaada_el-hamel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_bousaada",
+      "level": 2,
+      "name": {
+        "local": "بوسعادة",
+        "en": "Bousaada",
+        "slug": "bousaada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_bousaada",
+        "level": 2,
+        "name": {
+          "local": "بوسعادة",
+          "en": "Bousaada",
+          "slug": "bousaada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28015"
+    ],
+    "geo": {
+      "lat": "35.119",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_bousaada_oulteme",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ولتام",
+      "en": "Oulteme",
+      "slug": "oulteme"
+    },
+    "code": {
+      "id": "DZ028_bousaada_oulteme",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_bousaada",
+      "level": 2,
+      "name": {
+        "local": "بوسعادة",
+        "en": "Bousaada",
+        "slug": "bousaada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_bousaada",
+        "level": 2,
+        "name": {
+          "local": "بوسعادة",
+          "en": "Bousaada",
+          "slug": "bousaada"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28054"
+    ],
+    "geo": {
+      "lat": "35.119",
+      "lon": "4.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

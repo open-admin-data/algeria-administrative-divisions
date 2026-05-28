@@ -1,0 +1,45 @@
+{
+  "id": "DZ032006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bethioua",
+    "en": "Bethioua",
+    "slug": "bethioua-dz032006"
+  },
+  "code": {
+    "id": "DZ032006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.739",
+    "lon": "-0.23"
+  },
+  "metadata": {},
+  "source": {}
+}

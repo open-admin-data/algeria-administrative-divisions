@@ -1,0 +1,47 @@
+{
+  "id": "DZ042_hadjout",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حجوط",
+    "en": "Hadjout",
+    "slug": "hadjout"
+  },
+  "code": {
+    "id": "DZ042_hadjout",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.527",
+    "lon": "2.422"
+  },
+  "metadata": {},
+  "source": {}
+}

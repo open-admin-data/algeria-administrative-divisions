@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ034_bir-kasdali_bir-kasdali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر قاصد علي",
+      "en": "Bir Kasdali",
+      "slug": "bir-kasdali"
+    },
+    "code": {
+      "id": "DZ034_bir-kasdali_bir-kasdali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bir-kasdali",
+      "level": 2,
+      "name": {
+        "local": "بئر قاصد علي",
+        "en": "Bir Kasdali",
+        "slug": "bir-kasdali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bir-kasdali",
+        "level": 2,
+        "name": {
+          "local": "بئر قاصد علي",
+          "en": "Bir Kasdali",
+          "slug": "bir-kasdali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34011"
+    ],
+    "geo": {
+      "lat": "36.137",
+      "lon": "5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bir-kasdali_khelil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خليل",
+      "en": "Khelil",
+      "slug": "khelil"
+    },
+    "code": {
+      "id": "DZ034_bir-kasdali_khelil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bir-kasdali",
+      "level": 2,
+      "name": {
+        "local": "بئر قاصد علي",
+        "en": "Bir Kasdali",
+        "slug": "bir-kasdali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bir-kasdali",
+        "level": 2,
+        "name": {
+          "local": "بئر قاصد علي",
+          "en": "Bir Kasdali",
+          "slug": "bir-kasdali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34028"
+    ],
+    "geo": {
+      "lat": "36.238",
+      "lon": "5.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_bir-kasdali_sidi-embarek",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي أمبارك",
+      "en": "Sidi-Embarek",
+      "slug": "sidi-embarek"
+    },
+    "code": {
+      "id": "DZ034_bir-kasdali_sidi-embarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_bir-kasdali",
+      "level": 2,
+      "name": {
+        "local": "بئر قاصد علي",
+        "en": "Bir Kasdali",
+        "slug": "bir-kasdali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_bir-kasdali",
+        "level": 2,
+        "name": {
+          "local": "بئر قاصد علي",
+          "en": "Bir Kasdali",
+          "slug": "bir-kasdali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34020"
+    ],
+    "geo": {
+      "lat": "36.122",
+      "lon": "4.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

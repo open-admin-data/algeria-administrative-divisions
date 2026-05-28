@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ020_ouled-brahim_ain-soltane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين السلطان",
+      "en": "Ain Soltane",
+      "slug": "ain-soltane"
+    },
+    "code": {
+      "id": "DZ020_ouled-brahim_ain-soltane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ouled-brahim",
+      "level": 2,
+      "name": {
+        "local": "أولاد ابراهيم",
+        "en": "Ouled Brahim",
+        "slug": "ouled-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ouled-brahim",
+        "level": 2,
+        "name": {
+          "local": "أولاد ابراهيم",
+          "en": "Ouled Brahim",
+          "slug": "ouled-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20029"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "7.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_ouled-brahim_ouled-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد إبراهيم",
+      "en": "Ouled Brahim",
+      "slug": "ouled-brahim"
+    },
+    "code": {
+      "id": "DZ020_ouled-brahim_ouled-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ouled-brahim",
+      "level": 2,
+      "name": {
+        "local": "أولاد ابراهيم",
+        "en": "Ouled Brahim",
+        "slug": "ouled-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ouled-brahim",
+        "level": 2,
+        "name": {
+          "local": "أولاد ابراهيم",
+          "en": "Ouled Brahim",
+          "slug": "ouled-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20002"
+    ],
+    "geo": {
+      "lat": "35.037",
+      "lon": "0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_ouled-brahim_tircine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيرسين",
+      "en": "Tircine",
+      "slug": "tircine"
+    },
+    "code": {
+      "id": "DZ020_ouled-brahim_tircine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ouled-brahim",
+      "level": 2,
+      "name": {
+        "local": "أولاد ابراهيم",
+        "en": "Ouled Brahim",
+        "slug": "ouled-brahim"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ouled-brahim",
+        "level": 2,
+        "name": {
+          "local": "أولاد ابراهيم",
+          "en": "Ouled Brahim",
+          "slug": "ouled-brahim"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20035"
+    ],
+    "geo": {
+      "lat": "34.973",
+      "lon": "0.615"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

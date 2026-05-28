@@ -1,0 +1,45 @@
+{
+  "id": "DZ027061",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tamesguida",
+    "en": "Tamesguida",
+    "slug": "tamesguida-dz027061"
+  },
+  "code": {
+    "id": "DZ027061",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.323",
+    "lon": "2.664"
+  },
+  "metadata": {},
+  "source": {}
+}

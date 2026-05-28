@@ -1,0 +1,45 @@
+{
+  "id": "DZ048038",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Mimoun",
+    "en": "Ouled Mimoun",
+    "slug": "ouled-mimoun-dz048038"
+  },
+  "code": {
+    "id": "DZ048038",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.901",
+    "lon": "-1.045"
+  },
+  "metadata": {},
+  "source": {}
+}

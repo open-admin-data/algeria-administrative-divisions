@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_morsott_bir-dheheb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر الذهب",
+      "en": "Bir Dheheb",
+      "slug": "bir-dheheb"
+    },
+    "code": {
+      "id": "DZ012_morsott_bir-dheheb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_morsott",
+      "level": 2,
+      "name": {
+        "local": "مرسط",
+        "en": "Morsott",
+        "slug": "morsott"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_morsott",
+        "level": 2,
+        "name": {
+          "local": "مرسط",
+          "en": "Morsott",
+          "slug": "morsott"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12031"
+    ],
+    "geo": {
+      "lat": "35.562",
+      "lon": "7.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_morsott_morsott",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرسط",
+      "en": "Morsott",
+      "slug": "morsott"
+    },
+    "code": {
+      "id": "DZ012_morsott_morsott",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_morsott",
+      "level": 2,
+      "name": {
+        "local": "مرسط",
+        "en": "Morsott",
+        "slug": "morsott"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_morsott",
+        "level": 2,
+        "name": {
+          "local": "مرسط",
+          "en": "Morsott",
+          "slug": "morsott"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12017"
+    ],
+    "geo": {
+      "lat": "35.562",
+      "lon": "7.915"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

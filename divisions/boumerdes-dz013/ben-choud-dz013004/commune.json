@@ -1,0 +1,45 @@
+{
+  "id": "DZ013004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ben Choud",
+    "en": "Ben Choud",
+    "slug": "ben-choud-dz013004"
+  },
+  "code": {
+    "id": "DZ013004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.854",
+    "lon": "3.905"
+  },
+  "metadata": {},
+  "source": {}
+}

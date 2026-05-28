@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_achaacha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عشعاشة",
+    "en": "Achaacha",
+    "slug": "achaacha"
+  },
+  "code": {
+    "id": "DZ027_achaacha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.244",
+    "lon": "0.631"
+  },
+  "metadata": {},
+  "source": {}
+}

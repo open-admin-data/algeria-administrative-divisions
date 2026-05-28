@@ -1,0 +1,45 @@
+{
+  "id": "DZ026033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oggaz",
+    "en": "Oggaz",
+    "slug": "oggaz-dz026033"
+  },
+  "code": {
+    "id": "DZ026033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.574",
+    "lon": "-0.293"
+  },
+  "metadata": {},
+  "source": {}
+}

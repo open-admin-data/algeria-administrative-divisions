@@ -1,0 +1,47 @@
+{
+  "id": "DZ008_bechar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بشار",
+    "en": "Bechar",
+    "slug": "bechar"
+  },
+  "code": {
+    "id": "DZ008_bechar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Béchar",
+      "slug": "bchar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.615",
+    "lon": "-1.92"
+  },
+  "metadata": {},
+  "source": {}
+}

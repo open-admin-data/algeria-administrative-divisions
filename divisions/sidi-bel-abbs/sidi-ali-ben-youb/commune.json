@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ022_sidi-ali-ben-youb_boukhanefis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوخنفيس",
+      "en": "Boukhanefis",
+      "slug": "boukhanefis"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-ben-youb_boukhanefis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-ben-youb",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بن يوب",
+        "en": "Sidi Ali Ben Youb",
+        "slug": "sidi-ali-ben-youb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-ben-youb",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بن يوب",
+          "en": "Sidi Ali Ben Youb",
+          "slug": "sidi-ali-ben-youb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22008"
+    ],
+    "geo": {
+      "lat": "34.986",
+      "lon": "-0.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-ben-youb_sidi-ali-benyoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي علي بن يوب",
+      "en": "Sidi Ali Benyoub",
+      "slug": "sidi-ali-benyoub"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-ben-youb_sidi-ali-benyoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-ben-youb",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بن يوب",
+        "en": "Sidi Ali Ben Youb",
+        "slug": "sidi-ali-ben-youb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-ben-youb",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بن يوب",
+          "en": "Sidi Ali Ben Youb",
+          "slug": "sidi-ali-ben-youb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22028"
+    ],
+    "geo": {
+      "lat": "34.951",
+      "lon": "-0.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-ben-youb_tabia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طابية",
+      "en": "Tabia",
+      "slug": "tabia"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-ben-youb_tabia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_sidi-ali-ben-youb",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي بن يوب",
+        "en": "Sidi Ali Ben Youb",
+        "slug": "sidi-ali-ben-youb"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_sidi-ali-ben-youb",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي بن يوب",
+          "en": "Sidi Ali Ben Youb",
+          "slug": "sidi-ali-ben-youb"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22032"
+    ],
+    "geo": {
+      "lat": "35.02",
+      "lon": "-0.741"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ036013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Amar",
+    "en": "Sidi Amar",
+    "slug": "sidi-amar-dz036013"
+  },
+  "code": {
+    "id": "DZ036013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.003",
+    "lon": "0.133"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_medroussa_medroussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مدروسة",
+      "en": "Medroussa",
+      "slug": "medroussa"
+    },
+    "code": {
+      "id": "DZ014_medroussa_medroussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_medroussa",
+      "level": 2,
+      "name": {
+        "local": "مدروسة",
+        "en": "Medroussa",
+        "slug": "medroussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_medroussa",
+        "level": 2,
+        "name": {
+          "local": "مدروسة",
+          "en": "Medroussa",
+          "slug": "medroussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14023"
+    ],
+    "geo": {
+      "lat": "35.186",
+      "lon": "1.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_medroussa_mellakou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ملاكو",
+      "en": "Mellakou",
+      "slug": "mellakou"
+    },
+    "code": {
+      "id": "DZ014_medroussa_mellakou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_medroussa",
+      "level": 2,
+      "name": {
+        "local": "مدروسة",
+        "en": "Medroussa",
+        "slug": "medroussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_medroussa",
+        "level": 2,
+        "name": {
+          "local": "مدروسة",
+          "en": "Medroussa",
+          "slug": "medroussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14025"
+    ],
+    "geo": {
+      "lat": "35.24",
+      "lon": "1.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_medroussa_sidi-bakhti",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بختي",
+      "en": "Sidi Bakhti",
+      "slug": "sidi-bakhti"
+    },
+    "code": {
+      "id": "DZ014_medroussa_sidi-bakhti",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_medroussa",
+      "level": 2,
+      "name": {
+        "local": "مدروسة",
+        "en": "Medroussa",
+        "slug": "medroussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_medroussa",
+        "level": 2,
+        "name": {
+          "local": "مدروسة",
+          "en": "Medroussa",
+          "slug": "medroussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14065"
+    ],
+    "geo": {
+      "lat": "35.24",
+      "lon": "0.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

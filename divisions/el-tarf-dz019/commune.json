@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "DZ019001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Assel",
+      "en": "Ain El Assel",
+      "slug": "ain-el-assel-dz019001"
+    },
+    "code": {
+      "id": "DZ019001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.806",
+      "lon": "8.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kerma",
+      "en": "Ain Kerma",
+      "slug": "ain-kerma-dz019002"
+    },
+    "code": {
+      "id": "DZ019002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.565",
+      "lon": "8.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Asfour",
+      "en": "Asfour",
+      "slug": "asfour-dz019003"
+    },
+    "code": {
+      "id": "DZ019003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.647",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben M'Hidi",
+      "en": "Ben M'Hidi",
+      "slug": "ben-mhidi-dz019004"
+    },
+    "code": {
+      "id": "DZ019004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.773",
+      "lon": "7.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berrihane",
+      "en": "Berrihane",
+      "slug": "berrihane-dz019005"
+    },
+    "code": {
+      "id": "DZ019005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.838",
+      "lon": "8.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besbes",
+      "en": "Besbes",
+      "slug": "besbes-dz019006"
+    },
+    "code": {
+      "id": "DZ019006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.723",
+      "lon": "7.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougous",
+      "en": "Bougous",
+      "slug": "bougous-dz019007"
+    },
+    "code": {
+      "id": "DZ019007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.672",
+      "lon": "8.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouhadjar",
+      "en": "Bouhadjar",
+      "slug": "bouhadjar-dz019008"
+    },
+    "code": {
+      "id": "DZ019008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.52",
+      "lon": "8.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouteldja",
+      "en": "Bouteldja",
+      "slug": "bouteldja-dz019009"
+    },
+    "code": {
+      "id": "DZ019009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.784",
+      "lon": "8.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chbaita Mokhtar",
+      "en": "Chbaita Mokhtar",
+      "slug": "chbaita-mokhtar-dz019010"
+    },
+    "code": {
+      "id": "DZ019010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.745",
+      "lon": "7.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chefia",
+      "en": "Chefia",
+      "slug": "chefia-dz019011"
+    },
+    "code": {
+      "id": "DZ019011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.674",
+      "lon": "8.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chihani",
+      "en": "Chihani",
+      "slug": "chihani-dz019012"
+    },
+    "code": {
+      "id": "DZ019012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.611",
+      "lon": "7.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Drean",
+      "en": "Drean",
+      "slug": "drean-dz019013"
+    },
+    "code": {
+      "id": "DZ019013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.688",
+      "lon": "7.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Echatt",
+      "en": "Echatt",
+      "slug": "echatt-dz019014"
+    },
+    "code": {
+      "id": "DZ019014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.811",
+      "lon": "7.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Aioun",
+      "en": "El Aioun",
+      "slug": "el-aioun-dz019015"
+    },
+    "code": {
+      "id": "DZ019015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.823",
+      "lon": "8.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kala",
+      "en": "El Kala",
+      "slug": "el-kala-dz019016"
+    },
+    "code": {
+      "id": "DZ019016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.877",
+      "lon": "8.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El-Tarf",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019017"
+    },
+    "code": {
+      "id": "DZ019017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.757",
+      "lon": "8.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Beni Salah",
+      "en": "Hammam Beni Salah",
+      "slug": "hammam-beni-salah-dz019018"
+    },
+    "code": {
+      "id": "DZ019018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.539",
+      "lon": "7.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lac Des Oiseaux",
+      "en": "Lac Des Oiseaux",
+      "slug": "lac-des-oiseaux-dz019019"
+    },
+    "code": {
+      "id": "DZ019019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.763",
+      "lon": "8.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Zitoun",
+      "en": "Oued Zitoun",
+      "slug": "oued-zitoun-dz019020"
+    },
+    "code": {
+      "id": "DZ019020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.446",
+      "lon": "8.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Raml Souk",
+      "en": "Raml Souk",
+      "slug": "raml-souk-dz019021"
+    },
+    "code": {
+      "id": "DZ019021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.815",
+      "lon": "8.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souarekh",
+      "en": "Souarekh",
+      "slug": "souarekh-dz019022"
+    },
+    "code": {
+      "id": "DZ019022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.89",
+      "lon": "8.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zerizer",
+      "en": "Zerizer",
+      "slug": "zerizer-dz019023"
+    },
+    "code": {
+      "id": "DZ019023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.724",
+      "lon": "7.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zitouna",
+      "en": "Zitouna",
+      "slug": "zitouna-dz019024"
+    },
+    "code": {
+      "id": "DZ019024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El-Tarf",
+          "slug": "el-tarf-dz019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.634",
+      "lon": "8.246"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

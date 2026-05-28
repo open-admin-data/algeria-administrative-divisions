@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "DZ001001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adrar",
+      "en": "Adrar",
+      "slug": "adrar-dz001001"
+    },
+    "code": {
+      "id": "DZ001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.942",
+      "lon": "-0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akabili",
+      "en": "Akabili",
+      "slug": "akabili-dz001002"
+    },
+    "code": {
+      "id": "DZ001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.536",
+      "lon": "1.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aougrout",
+      "en": "Aougrout",
+      "slug": "aougrout-dz001003"
+    },
+    "code": {
+      "id": "DZ001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.937",
+      "lon": "1.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aoulef",
+      "en": "Aoulef",
+      "slug": "aoulef-dz001004"
+    },
+    "code": {
+      "id": "DZ001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.624",
+      "lon": "0.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Badji Mokhtar",
+      "en": "Bordj Badji Mokhtar",
+      "slug": "bordj-badji-mokhtar-dz001005"
+    },
+    "code": {
+      "id": "DZ001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.142",
+      "lon": "-0.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouda",
+      "en": "Bouda",
+      "slug": "bouda-dz001006"
+    },
+    "code": {
+      "id": "DZ001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.017",
+      "lon": "-1.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Deldoul",
+      "en": "Deldoul",
+      "slug": "deldoul-dz001007"
+    },
+    "code": {
+      "id": "DZ001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.861",
+      "lon": "0.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoughil",
+      "en": "Fenoughil",
+      "slug": "fenoughil-dz001008"
+    },
+    "code": {
+      "id": "DZ001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.611",
+      "lon": "-1.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gharouine",
+      "en": "Gharouine",
+      "slug": "gharouine-dz001009"
+    },
+    "code": {
+      "id": "DZ001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.086",
+      "lon": "-0.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inzegmir",
+      "en": "Inzegmir",
+      "slug": "inzegmir-dz001010"
+    },
+    "code": {
+      "id": "DZ001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.037",
+      "lon": "-1.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar Kaddour",
+      "en": "Ksar Kaddour",
+      "slug": "ksar-kaddour-dz001011"
+    },
+    "code": {
+      "id": "DZ001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.196",
+      "lon": "0.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Metarfa",
+      "en": "Metarfa",
+      "slug": "metarfa-dz001012"
+    },
+    "code": {
+      "id": "DZ001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.571",
+      "lon": "0.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Ahmed Timi",
+      "en": "Ouled Ahmed Timi",
+      "slug": "ouled-ahmed-timi-dz001013"
+    },
+    "code": {
+      "id": "DZ001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.84",
+      "lon": "-1.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Aissa",
+      "en": "Ouled Aissa",
+      "slug": "ouled-aissa-dz001014"
+    },
+    "code": {
+      "id": "DZ001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.649",
+      "lon": "-0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Said",
+      "en": "Ouled Said",
+      "slug": "ouled-said-dz001015"
+    },
+    "code": {
+      "id": "DZ001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.431",
+      "lon": "0.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reggane",
+      "en": "Reggane",
+      "slug": "reggane-dz001016"
+    },
+    "code": {
+      "id": "DZ001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.383",
+      "lon": "-2.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sali",
+      "en": "Sali",
+      "slug": "sali-dz001017"
+    },
+    "code": {
+      "id": "DZ001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.74",
+      "lon": "-2.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebaa",
+      "en": "Sebaa",
+      "slug": "sebaa-dz001018"
+    },
+    "code": {
+      "id": "DZ001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.255",
+      "lon": "-0.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talmine",
+      "en": "Talmine",
+      "slug": "talmine-dz001019"
+    },
+    "code": {
+      "id": "DZ001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.426",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamentit",
+      "en": "Tamentit",
+      "slug": "tamentit-dz001020"
+    },
+    "code": {
+      "id": "DZ001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.048",
+      "lon": "0.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamest",
+      "en": "Tamest",
+      "slug": "tamest-dz001021"
+    },
+    "code": {
+      "id": "DZ001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.448",
+      "lon": "-1.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timiaouine",
+      "en": "Timiaouine",
+      "slug": "timiaouine-dz001022"
+    },
+    "code": {
+      "id": "DZ001022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.908",
+      "lon": "1.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timimoun",
+      "en": "Timimoun",
+      "slug": "timimoun-dz001023"
+    },
+    "code": {
+      "id": "DZ001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.701",
+      "lon": "1.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timokten",
+      "en": "Timokten",
+      "slug": "timokten-dz001024"
+    },
+    "code": {
+      "id": "DZ001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.75",
+      "lon": "1.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tinerkouk",
+      "en": "Tinerkouk",
+      "slug": "tinerkouk-dz001025"
+    },
+    "code": {
+      "id": "DZ001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.464",
+      "lon": "1.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tit",
+      "en": "Tit",
+      "slug": "tit-dz001026"
+    },
+    "code": {
+      "id": "DZ001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.029",
+      "lon": "1.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsabit",
+      "en": "Tsabit",
+      "slug": "tsabit-dz001027"
+    },
+    "code": {
+      "id": "DZ001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "28.679",
+      "lon": "-1.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zaouiet Kounta",
+      "en": "Zaouiet Kounta",
+      "slug": "zaouiet-kounta-dz001028"
+    },
+    "code": {
+      "id": "DZ001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرا",
+          "en": "Adrar",
+          "slug": "adrar-dz001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.241",
+      "lon": "-1.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

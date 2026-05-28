@@ -1,0 +1,45 @@
+{
+  "id": "DZ042005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bir El Ater",
+    "en": "Bir El Ater",
+    "slug": "bir-el-ater-dz042005"
+  },
+  "code": {
+    "id": "DZ042005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.685",
+    "lon": "8.028"
+  },
+  "metadata": {},
+  "source": {}
+}

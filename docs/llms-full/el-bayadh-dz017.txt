@@ -1,0 +1,119 @@
+# El Bayadh — Algeria Administrative Divisions
+
+> 22 communes
+> Code: DZ017
+> Coordinates: 32.608, 1.11
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain El Orak
+
+Code: DZ017001, Coordinates: 33.423, 0.83
+
+
+### Arbaouat
+
+Code: DZ017002, Coordinates: 33.142, 0.585
+
+
+### Bougtoub
+
+Code: DZ017003, Coordinates: 34.031, 0.255
+
+
+### Boussemghoun
+
+Code: DZ017004, Coordinates: 32.814, 0.051
+
+
+### Brezina
+
+Code: DZ017005, Coordinates: 32.536, 1.745
+
+
+### Cheguig
+
+Code: DZ017006, Coordinates: 33.982, 1.113
+
+
+### Chellala
+
+Code: DZ017007, Coordinates: 33.028, 0.085
+
+
+### El Abiodh Sidi Cheikh
+
+Code: DZ017008, Coordinates: 32.104, 1.106
+
+
+### El Bayadh
+
+Code: DZ017009, Coordinates: 33.647, 1.01
+
+
+### El Bnoud
+
+Code: DZ017010, Coordinates: 31.71, 0.301
+
+
+### El Kheither
+
+Code: DZ017011, Coordinates: 34.221, 0.125
+
+
+### El Mehara
+
+Code: DZ017012, Coordinates: 33.272, 0.195
+
+
+### Ghassoul
+
+Code: DZ017013, Coordinates: 33.496, 1.249
+
+
+### Hadj Mechri Boualem
+
+Code: DZ017014, Coordinates: 33.695, 1.514
+
+
+### Kef El Ahmar
+
+Code: DZ017015, Coordinates: 33.84, 0.622
+
+
+### Krakda
+
+Code: DZ017016, Coordinates: 33.367, 1.035
+
+
+### Rogassa
+
+Code: DZ017017, Coordinates: 34.04, 0.832
+
+
+### Sidi Ameur
+
+Code: DZ017018, Coordinates: 33.614, 1.361
+
+
+### Sidi Slimane
+
+Code: DZ017019, Coordinates: 33.786, 1.757
+
+
+### Sidi Tifour
+
+Code: DZ017020, Coordinates: 33.63, 1.727
+
+
+### Stitten
+
+Code: DZ017021, Coordinates: 33.838, 1.218
+
+
+### Tousmouline
+
+Code: DZ017022, Coordinates: 33.62, 0.312
+
+

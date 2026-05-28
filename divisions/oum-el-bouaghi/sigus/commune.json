@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ004_sigus_el-amiria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "El Amiria",
+      "slug": "el-amiria"
+    },
+    "code": {
+      "id": "DZ004_sigus_el-amiria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_sigus",
+      "level": 2,
+      "name": {
+        "local": "سيقوس",
+        "en": "Sigus",
+        "slug": "sigus"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_sigus",
+        "level": 2,
+        "name": {
+          "local": "سيقوس",
+          "en": "Sigus",
+          "slug": "sigus"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04038"
+    ],
+    "geo": {
+      "lat": "36.073",
+      "lon": "6.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_sigus_sigus",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيقوس",
+      "en": "Sigus",
+      "slug": "sigus"
+    },
+    "code": {
+      "id": "DZ004_sigus_sigus",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_sigus",
+      "level": 2,
+      "name": {
+        "local": "سيقوس",
+        "en": "Sigus",
+        "slug": "sigus"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_sigus",
+        "level": 2,
+        "name": {
+          "local": "سيقوس",
+          "en": "Sigus",
+          "slug": "sigus"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04011"
+    ],
+    "geo": {
+      "lat": "36.111",
+      "lon": "6.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ027_mostaganem_mostaganem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    },
+    "code": {
+      "id": "DZ027_mostaganem_mostaganem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_mostaganem",
+      "level": 2,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_mostaganem",
+        "level": 2,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27000"
+    ],
+    "geo": {
+      "lat": "35.978",
+      "lon": "0.109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

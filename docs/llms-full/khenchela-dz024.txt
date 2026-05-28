@@ -1,0 +1,114 @@
+# Khenchela — Algeria Administrative Divisions
+
+> 21 communes
+> Code: DZ024
+> Coordinates: 34.916, 6.904
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Touila
+
+Code: DZ024001, Coordinates: 35.48, 7.374
+
+
+### Babar
+
+Code: DZ024002, Coordinates: 34.766, 7.282
+
+
+### Baghai
+
+Code: DZ024003, Coordinates: 35.52, 7.185
+
+
+### Bouhmama
+
+Code: DZ024004, Coordinates: 35.213, 6.822
+
+
+### Chelia
+
+Code: DZ024005, Coordinates: 35.412, 6.834
+
+
+### Cherchar
+
+Code: DZ024006, Coordinates: 34.911, 7.059
+
+
+### Djellal
+
+Code: DZ024007, Coordinates: 34.877, 6.852
+
+
+### El Hamma
+
+Code: DZ024008, Coordinates: 35.473, 7.085
+
+
+### El Mahmal
+
+Code: DZ024009, Coordinates: 35.246, 7.247
+
+
+### El Oueldja
+
+Code: DZ024010, Coordinates: 34.905, 6.65
+
+
+### Ensigha
+
+Code: DZ024011, Coordinates: 35.339, 7.061
+
+
+### Kais
+
+Code: DZ024012, Coordinates: 35.507, 6.947
+
+
+### Khenchela
+
+Code: DZ024013, Coordinates: 35.439, 7.138
+
+
+### Khirane
+
+Code: DZ024014, Coordinates: 35.012, 6.806
+
+
+### M&#39;Sara
+
+Code: DZ024015, Coordinates: 35.156, 6.66
+
+
+### M&#39;Toussa
+
+Code: DZ024016, Coordinates: 35.568, 7.257
+
+
+### Ouled Rechache
+
+Code: DZ024017, Coordinates: 35.205, 7.349
+
+
+### Remila
+
+Code: DZ024018, Coordinates: 35.589, 6.903
+
+
+### Tamza
+
+Code: DZ024019, Coordinates: 35.297, 6.923
+
+
+### Taouzianat
+
+Code: DZ024020, Coordinates: 35.439, 6.777
+
+
+### Yabous
+
+Code: DZ024021, Coordinates: 35.395, 6.644
+
+

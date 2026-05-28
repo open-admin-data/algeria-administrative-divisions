@@ -1,0 +1,47 @@
+{
+  "id": "DZ022_sidi-lahcene",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي لحسن",
+    "en": "Sidi Lahcene",
+    "slug": "sidi-lahcene"
+  },
+  "code": {
+    "id": "DZ022_sidi-lahcene",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbès",
+      "slug": "sidi-bel-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.146",
+    "lon": "-0.714"
+  },
+  "metadata": {},
+  "source": {}
+}

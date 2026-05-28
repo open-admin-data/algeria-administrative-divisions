@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_guenzet_guenzet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قنزات",
+      "en": "Guenzet",
+      "slug": "guenzet"
+    },
+    "code": {
+      "id": "DZ019_guenzet_guenzet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_guenzet",
+      "level": 2,
+      "name": {
+        "local": "قنزات",
+        "en": "Guenzet",
+        "slug": "guenzet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_guenzet",
+        "level": 2,
+        "name": {
+          "local": "قنزات",
+          "en": "Guenzet",
+          "slug": "guenzet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19026"
+    ],
+    "geo": {
+      "lat": "36.349",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_guenzet_harbil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حربيل",
+      "en": "Harbil",
+      "slug": "harbil"
+    },
+    "code": {
+      "id": "DZ019_guenzet_harbil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_guenzet",
+      "level": 2,
+      "name": {
+        "local": "قنزات",
+        "en": "Guenzet",
+        "slug": "guenzet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_guenzet",
+        "level": 2,
+        "name": {
+          "local": "قنزات",
+          "en": "Guenzet",
+          "slug": "guenzet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19032"
+    ],
+    "geo": {
+      "lat": "36.349",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

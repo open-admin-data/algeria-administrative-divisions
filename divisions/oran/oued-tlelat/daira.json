@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_oued-tlelat",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "وادي تليلات",
+    "en": "Oued Tlelat",
+    "slug": "oued-tlelat"
+  },
+  "code": {
+    "id": "DZ031_oued-tlelat",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.568",
+    "lon": "-0.47"
+  },
+  "metadata": {},
+  "source": {}
+}

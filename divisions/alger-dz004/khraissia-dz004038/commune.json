@@ -1,0 +1,45 @@
+{
+  "id": "DZ004038",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khraissia",
+    "en": "Khraissia",
+    "slug": "khraissia-dz004038"
+  },
+  "code": {
+    "id": "DZ004038",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.672",
+    "lon": "2.993"
+  },
+  "metadata": {},
+  "source": {}
+}

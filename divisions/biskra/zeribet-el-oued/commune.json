@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ007_zeribet-el-oued_el-feidh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الفيض",
+      "en": "El Feidh",
+      "slug": "el-feidh"
+    },
+    "code": {
+      "id": "DZ007_zeribet-el-oued_el-feidh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_zeribet-el-oued",
+      "level": 2,
+      "name": {
+        "local": "زريبة الوادي",
+        "en": "Zeribet El Oued",
+        "slug": "zeribet-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_zeribet-el-oued",
+        "level": 2,
+        "name": {
+          "local": "زريبة الوادي",
+          "en": "Zeribet El Oued",
+          "slug": "zeribet-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07026"
+    ],
+    "geo": {
+      "lat": "34.501",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_zeribet-el-oued_khenguet-sidi-nadji",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خنقة سيدي ناجي",
+      "en": "Khenguet Sidi Nadji",
+      "slug": "khenguet-sidi-nadji"
+    },
+    "code": {
+      "id": "DZ007_zeribet-el-oued_khenguet-sidi-nadji",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_zeribet-el-oued",
+      "level": 2,
+      "name": {
+        "local": "زريبة الوادي",
+        "en": "Zeribet El Oued",
+        "slug": "zeribet-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_zeribet-el-oued",
+        "level": 2,
+        "name": {
+          "local": "زريبة الوادي",
+          "en": "Zeribet El Oued",
+          "slug": "zeribet-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07032"
+    ],
+    "geo": {
+      "lat": "34.593",
+      "lon": "6.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_zeribet-el-oued_meziraa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المزيرعة",
+      "en": "Meziraa",
+      "slug": "meziraa"
+    },
+    "code": {
+      "id": "DZ007_zeribet-el-oued_meziraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_zeribet-el-oued",
+      "level": 2,
+      "name": {
+        "local": "زريبة الوادي",
+        "en": "Zeribet El Oued",
+        "slug": "zeribet-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_zeribet-el-oued",
+        "level": 2,
+        "name": {
+          "local": "زريبة الوادي",
+          "en": "Zeribet El Oued",
+          "slug": "zeribet-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07043"
+    ],
+    "geo": {
+      "lat": "34.593",
+      "lon": "6.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_zeribet-el-oued_zeribet-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زريبة الوادي",
+      "en": "Zeribet El Oued",
+      "slug": "zeribet-el-oued"
+    },
+    "code": {
+      "id": "DZ007_zeribet-el-oued_zeribet-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_zeribet-el-oued",
+      "level": 2,
+      "name": {
+        "local": "زريبة الوادي",
+        "en": "Zeribet El Oued",
+        "slug": "zeribet-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_zeribet-el-oued",
+        "level": 2,
+        "name": {
+          "local": "زريبة الوادي",
+          "en": "Zeribet El Oued",
+          "slug": "zeribet-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07012"
+    ],
+    "geo": {
+      "lat": "34.684",
+      "lon": "6.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

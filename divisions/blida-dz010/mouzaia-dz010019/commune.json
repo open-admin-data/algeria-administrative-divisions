@@ -1,0 +1,45 @@
+{
+  "id": "DZ010019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mouzaia",
+    "en": "Mouzaia",
+    "slug": "mouzaia-dz010019"
+  },
+  "code": {
+    "id": "DZ010019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida-dz010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida-dz010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.507",
+    "lon": "2.678"
+  },
+  "metadata": {},
+  "source": {}
+}

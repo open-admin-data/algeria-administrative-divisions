@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_djimla_boudria-beniyadjis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بودريعة بني  ياجيس",
+      "en": "Boudria Beniyadjis",
+      "slug": "boudria-beniyadjis"
+    },
+    "code": {
+      "id": "DZ018_djimla_boudria-beniyadjis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_djimla",
+      "level": 2,
+      "name": {
+        "local": "جيملة",
+        "en": "Djimla",
+        "slug": "djimla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_djimla",
+        "level": 2,
+        "name": {
+          "local": "جيملة",
+          "en": "Djimla",
+          "slug": "djimla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18025"
+    ],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_djimla_djimla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جيملة",
+      "en": "Djimla",
+      "slug": "djimla"
+    },
+    "code": {
+      "id": "DZ018_djimla_djimla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_djimla",
+      "level": 2,
+      "name": {
+        "local": "جيملة",
+        "en": "Djimla",
+        "slug": "djimla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_djimla",
+        "level": 2,
+        "name": {
+          "local": "جيملة",
+          "en": "Djimla",
+          "slug": "djimla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18031"
+    ],
+    "geo": {
+      "lat": "36.731",
+      "lon": "5.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

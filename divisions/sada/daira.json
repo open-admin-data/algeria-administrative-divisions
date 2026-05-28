@@ -1,0 +1,284 @@
+[
+  {
+    "id": "DZ020_ain-el-hadjar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الحجر",
+      "en": "Ain El Hadjar",
+      "slug": "ain-el-hadjar"
+    },
+    "code": {
+      "id": "DZ020_ain-el-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.634",
+      "lon": "0.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_el-hassasna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحساسنة",
+      "en": "El Hassasna",
+      "slug": "el-hassasna"
+    },
+    "code": {
+      "id": "DZ020_el-hassasna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.68",
+      "lon": "0.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_ouled-brahim",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد ابراهيم",
+      "en": "Ouled Brahim",
+      "slug": "ouled-brahim"
+    },
+    "code": {
+      "id": "DZ020_ouled-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.397",
+      "lon": "2.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_saida",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida"
+    },
+    "code": {
+      "id": "DZ020_saida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.847",
+      "lon": "0.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_sidi-boubekeur",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي بوبكر",
+      "en": "Sidi Boubekeur",
+      "slug": "sidi-boubekeur"
+    },
+    "code": {
+      "id": "DZ020_sidi-boubekeur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.394",
+      "lon": "0.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_youb",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "يوب",
+      "en": "Youb",
+      "slug": "youb"
+    },
+    "code": {
+      "id": "DZ020_youb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saïda",
+        "slug": "sada"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.892",
+      "lon": "-0.118"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

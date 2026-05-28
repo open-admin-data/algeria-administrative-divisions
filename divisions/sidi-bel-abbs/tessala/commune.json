@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ022_tessala_ain-thrid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الثريد",
+      "en": "Ain Thrid",
+      "slug": "ain-thrid"
+    },
+    "code": {
+      "id": "DZ022_tessala_ain-thrid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tessala",
+      "level": 2,
+      "name": {
+        "local": "تسالة",
+        "en": "Tessala",
+        "slug": "tessala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tessala",
+        "level": 2,
+        "name": {
+          "local": "تسالة",
+          "en": "Tessala",
+          "slug": "tessala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22037"
+    ],
+    "geo": {
+      "lat": "35.297",
+      "lon": "-0.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tessala_sehala-thaoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السهالة الثورة",
+      "en": "Sehala Thaoura",
+      "slug": "sehala-thaoura"
+    },
+    "code": {
+      "id": "DZ022_tessala_sehala-thaoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tessala",
+      "level": 2,
+      "name": {
+        "local": "تسالة",
+        "en": "Tessala",
+        "slug": "tessala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tessala",
+        "level": 2,
+        "name": {
+          "local": "تسالة",
+          "en": "Tessala",
+          "slug": "tessala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22060"
+    ],
+    "geo": {
+      "lat": "35.228",
+      "lon": "-0.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tessala_tessala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تسالة",
+      "en": "Tessala",
+      "slug": "tessala"
+    },
+    "code": {
+      "id": "DZ022_tessala_tessala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tessala",
+      "level": 2,
+      "name": {
+        "local": "تسالة",
+        "en": "Tessala",
+        "slug": "tessala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tessala",
+        "level": 2,
+        "name": {
+          "local": "تسالة",
+          "en": "Tessala",
+          "slug": "tessala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22033"
+    ],
+    "geo": {
+      "lat": "35.276",
+      "lon": "-0.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

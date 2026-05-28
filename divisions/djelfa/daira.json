@@ -1,0 +1,566 @@
+[
+  {
+    "id": "DZ017_ain-el-ibel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الإبل",
+      "en": "Ain El Ibel",
+      "slug": "ain-el-ibel"
+    },
+    "code": {
+      "id": "DZ017_ain-el-ibel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_ain-oussera",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين وسارة",
+      "en": "Ain Oussera",
+      "slug": "ain-oussera"
+    },
+    "code": {
+      "id": "DZ017_ain-oussera",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.172",
+      "lon": "2.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_birine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بيرين",
+      "en": "Birine",
+      "slug": "birine"
+    },
+    "code": {
+      "id": "DZ017_birine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.579",
+      "lon": "3.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_charef",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الشارف",
+      "en": "Charef",
+      "slug": "charef"
+    },
+    "code": {
+      "id": "DZ017_charef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.576",
+      "lon": "2.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_dar-chioukh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "دار الشيوخ",
+      "en": "Dar Chioukh",
+      "slug": "dar-chioukh"
+    },
+    "code": {
+      "id": "DZ017_dar-chioukh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.952",
+      "lon": "3.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_djelfa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    },
+    "code": {
+      "id": "DZ017_djelfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.672",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_el-idrissia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الادريسية",
+      "en": "El Idrissia",
+      "slug": "el-idrissia"
+    },
+    "code": {
+      "id": "DZ017_el-idrissia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.305",
+      "lon": "2.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_faidh-el-botma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فيض البطمة",
+      "en": "Faidh El Botma",
+      "slug": "faidh-el-botma"
+    },
+    "code": {
+      "id": "DZ017_faidh-el-botma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.668",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_had-sahary",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حد الصحاري",
+      "en": "Had Sahary",
+      "slug": "had-sahary"
+    },
+    "code": {
+      "id": "DZ017_had-sahary",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.331",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_hassi-bahbah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حاسي بحبح",
+      "en": "Hassi Bahbah",
+      "slug": "hassi-bahbah"
+    },
+    "code": {
+      "id": "DZ017_hassi-bahbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.93",
+      "lon": "3.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_messaad",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مسعد",
+      "en": "Messaad",
+      "slug": "messaad"
+    },
+    "code": {
+      "id": "DZ017_messaad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.856",
+      "lon": "3.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_sidi-laadjel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي لعجال",
+      "en": "Sidi Laadjel",
+      "slug": "sidi-laadjel"
+    },
+    "code": {
+      "id": "DZ017_sidi-laadjel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.395",
+      "lon": "2.58"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_chelghoum-laid",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "شلغوم العيد",
+    "en": "Chelghoum Laid",
+    "slug": "chelghoum-laid"
+  },
+  "code": {
+    "id": "DZ043_chelghoum-laid",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.22",
+    "lon": "6.16"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_ben-badis_bedrabine-el-mokrani",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بضرابين المقراني",
+      "en": "Bedrabine El Mokrani",
+      "slug": "bedrabine-el-mokrani"
+    },
+    "code": {
+      "id": "DZ022_ben-badis_bedrabine-el-mokrani",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ben-badis",
+      "level": 2,
+      "name": {
+        "local": "بن باديس",
+        "en": "Ben Badis",
+        "slug": "ben-badis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ben-badis",
+        "level": 2,
+        "name": {
+          "local": "بن باديس",
+          "en": "Ben Badis",
+          "slug": "ben-badis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22038"
+    ],
+    "geo": {
+      "lat": "35.003",
+      "lon": "-0.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ben-badis_ben-badis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن باديس",
+      "en": "Ben Badis",
+      "slug": "ben-badis"
+    },
+    "code": {
+      "id": "DZ022_ben-badis_ben-badis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ben-badis",
+      "level": 2,
+      "name": {
+        "local": "بن باديس",
+        "en": "Ben Badis",
+        "slug": "ben-badis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ben-badis",
+        "level": 2,
+        "name": {
+          "local": "بن باديس",
+          "en": "Ben Badis",
+          "slug": "ben-badis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22004"
+    ],
+    "geo": {
+      "lat": "34.928",
+      "lon": "-0.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ben-badis_chetouane-belaila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شيطوان البلايلة",
+      "en": "Chetouane Belaila",
+      "slug": "chetouane-belaila"
+    },
+    "code": {
+      "id": "DZ022_ben-badis_chetouane-belaila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ben-badis",
+      "level": 2,
+      "name": {
+        "local": "بن باديس",
+        "en": "Ben Badis",
+        "slug": "ben-badis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ben-badis",
+        "level": 2,
+        "name": {
+          "local": "بن باديس",
+          "en": "Ben Badis",
+          "slug": "ben-badis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22039"
+    ],
+    "geo": {
+      "lat": "34.956",
+      "lon": "-0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ben-badis_hassi-zahana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي زهانة",
+      "en": "Hassi Zahana",
+      "slug": "hassi-zahana"
+    },
+    "code": {
+      "id": "DZ022_ben-badis_hassi-zahana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ben-badis",
+      "level": 2,
+      "name": {
+        "local": "بن باديس",
+        "en": "Ben Badis",
+        "slug": "ben-badis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ben-badis",
+        "level": 2,
+        "name": {
+          "local": "بن باديس",
+          "en": "Ben Badis",
+          "slug": "ben-badis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22010"
+    ],
+    "geo": {
+      "lat": "35.031",
+      "lon": "-0.903"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

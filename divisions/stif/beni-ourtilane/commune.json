@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_beni-ourtilane_ain-legradj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين لقراج",
+      "en": "Ain-Legradj",
+      "slug": "ain-legradj"
+    },
+    "code": {
+      "id": "DZ019_beni-ourtilane_ain-legradj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-ourtilane",
+      "level": 2,
+      "name": {
+        "local": "بني ورتيلان",
+        "en": "Beni Ourtilane",
+        "slug": "beni-ourtilane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-ourtilane",
+        "level": 2,
+        "name": {
+          "local": "بني ورتيلان",
+          "en": "Beni Ourtilane",
+          "slug": "beni-ourtilane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19035"
+    ],
+    "geo": {
+      "lat": "36.493",
+      "lon": "4.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-ourtilane_beni-chebana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني شبانة",
+      "en": "Beni Chebana",
+      "slug": "beni-chebana"
+    },
+    "code": {
+      "id": "DZ019_beni-ourtilane_beni-chebana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-ourtilane",
+      "level": 2,
+      "name": {
+        "local": "بني ورتيلان",
+        "en": "Beni Ourtilane",
+        "slug": "beni-ourtilane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-ourtilane",
+        "level": 2,
+        "name": {
+          "local": "بني ورتيلان",
+          "en": "Beni Ourtilane",
+          "slug": "beni-ourtilane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19031"
+    ],
+    "geo": {
+      "lat": "36.47",
+      "lon": "4.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-ourtilane_beni-ourtilane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني ورتيلان",
+      "en": "Beni Ourtilane",
+      "slug": "beni-ourtilane"
+    },
+    "code": {
+      "id": "DZ019_beni-ourtilane_beni-ourtilane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-ourtilane",
+      "level": 2,
+      "name": {
+        "local": "بني ورتيلان",
+        "en": "Beni Ourtilane",
+        "slug": "beni-ourtilane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-ourtilane",
+        "level": 2,
+        "name": {
+          "local": "بني ورتيلان",
+          "en": "Beni Ourtilane",
+          "slug": "beni-ourtilane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19011"
+    ],
+    "geo": {
+      "lat": "36.493",
+      "lon": "4.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-ourtilane_beni-mouhli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني موحلي",
+      "en": "Beni-Mouhli",
+      "slug": "beni-mouhli"
+    },
+    "code": {
+      "id": "DZ019_beni-ourtilane_beni-mouhli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-ourtilane",
+      "level": 2,
+      "name": {
+        "local": "بني ورتيلان",
+        "en": "Beni Ourtilane",
+        "slug": "beni-ourtilane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-ourtilane",
+        "level": 2,
+        "name": {
+          "local": "بني ورتيلان",
+          "en": "Beni Ourtilane",
+          "slug": "beni-ourtilane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19038"
+    ],
+    "geo": {
+      "lat": "36.516",
+      "lon": "4.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

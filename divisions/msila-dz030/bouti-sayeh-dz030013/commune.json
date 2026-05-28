@@ -1,0 +1,45 @@
+{
+  "id": "DZ030013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouti Sayeh",
+    "en": "Bouti Sayeh",
+    "slug": "bouti-sayeh-dz030013"
+  },
+  "code": {
+    "id": "DZ030013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.667",
+    "lon": "3.676"
+  },
+  "metadata": {},
+  "source": {}
+}

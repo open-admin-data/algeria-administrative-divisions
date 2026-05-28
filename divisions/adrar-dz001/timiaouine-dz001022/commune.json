@@ -1,0 +1,45 @@
+{
+  "id": "DZ001022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Timiaouine",
+    "en": "Timiaouine",
+    "slug": "timiaouine-dz001022"
+  },
+  "code": {
+    "id": "DZ001022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.908",
+    "lon": "1.759"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "DZ003001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghlal",
+      "en": "Aghlal",
+      "slug": "aghlal-dz003001"
+    },
+    "code": {
+      "id": "DZ003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.204",
+      "lon": "-1.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Arbaa",
+      "en": "Ain El Arbaa",
+      "slug": "ain-el-arbaa-dz003002"
+    },
+    "code": {
+      "id": "DZ003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.419",
+      "lon": "-0.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kihel",
+      "en": "Ain Kihel",
+      "slug": "ain-kihel-dz003003"
+    },
+    "code": {
+      "id": "DZ003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.222",
+      "lon": "-1.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tolba",
+      "en": "Ain Tolba",
+      "slug": "ain-tolba-dz003004"
+    },
+    "code": {
+      "id": "DZ003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.243",
+      "lon": "-1.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain-Temouchent",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003005"
+    },
+    "code": {
+      "id": "DZ003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.269",
+      "lon": "-1.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Saf",
+      "en": "Beni Saf",
+      "slug": "beni-saf-dz003006"
+    },
+    "code": {
+      "id": "DZ003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.29",
+      "lon": "-1.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouzedjar",
+      "en": "Bouzedjar",
+      "slug": "bouzedjar-dz003007"
+    },
+    "code": {
+      "id": "DZ003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.598",
+      "lon": "-1.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chaabet El Ham",
+      "en": "Chaabet El Ham",
+      "slug": "chaabet-el-ham-dz003008"
+    },
+    "code": {
+      "id": "DZ003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.33",
+      "lon": "-1.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chentouf",
+      "en": "Chentouf",
+      "slug": "chentouf-dz003009"
+    },
+    "code": {
+      "id": "DZ003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.296",
+      "lon": "-1.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Amria",
+      "en": "El Amria",
+      "slug": "el-amria-dz003010"
+    },
+    "code": {
+      "id": "DZ003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.54",
+      "lon": "-1.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Emir Abdelkader",
+      "en": "El Emir Abdelkader",
+      "slug": "el-emir-abdelkader-dz003011"
+    },
+    "code": {
+      "id": "DZ003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.235",
+      "lon": "-1.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El M'Said",
+      "en": "El M'Said",
+      "slug": "el-msaid-dz003013"
+    },
+    "code": {
+      "id": "DZ003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.528",
+      "lon": "-1.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Malah",
+      "en": "El Malah",
+      "slug": "el-malah-dz003012"
+    },
+    "code": {
+      "id": "DZ003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.401",
+      "lon": "-1.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Bouhadjar",
+      "en": "Hammam Bouhadjar",
+      "slug": "hammam-bouhadjar-dz003014"
+    },
+    "code": {
+      "id": "DZ003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.392",
+      "lon": "-0.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassasna",
+      "en": "Hassasna",
+      "slug": "hassasna-dz003015"
+    },
+    "code": {
+      "id": "DZ003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.25",
+      "lon": "-0.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi El Ghella",
+      "en": "Hassi El Ghella",
+      "slug": "hassi-el-ghella-dz003016"
+    },
+    "code": {
+      "id": "DZ003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.445",
+      "lon": "-1.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Berkeche",
+      "en": "Oued Berkeche",
+      "slug": "oued-berkeche-dz003017"
+    },
+    "code": {
+      "id": "DZ003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.213",
+      "lon": "-0.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Sebbah",
+      "en": "Oued Sebbah",
+      "slug": "oued-sebbah-dz003018"
+    },
+    "code": {
+      "id": "DZ003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.408",
+      "lon": "-0.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ougbellil",
+      "en": "Ougbellil",
+      "slug": "ougbellil-dz003019"
+    },
+    "code": {
+      "id": "DZ003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.148",
+      "lon": "-1.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Boudjemaa",
+      "en": "Ouled Boudjemaa",
+      "slug": "ouled-boudjemaa-dz003020"
+    },
+    "code": {
+      "id": "DZ003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.482",
+      "lon": "-1.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Kihal",
+      "en": "Ouled Kihal",
+      "slug": "ouled-kihal-dz003021"
+    },
+    "code": {
+      "id": "DZ003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.366",
+      "lon": "-1.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oulhaca Gherraba",
+      "en": "Oulhaca Gherraba",
+      "slug": "oulhaca-gherraba-dz003022"
+    },
+    "code": {
+      "id": "DZ003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.251",
+      "lon": "-1.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ben Adda",
+      "en": "Sidi Ben Adda",
+      "slug": "sidi-ben-adda-dz003023"
+    },
+    "code": {
+      "id": "DZ003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.325",
+      "lon": "-1.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Boumediene",
+      "en": "Sidi Boumediene",
+      "slug": "sidi-boumediene-dz003024"
+    },
+    "code": {
+      "id": "DZ003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.341",
+      "lon": "-0.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Safi",
+      "en": "Sidi Safi",
+      "slug": "sidi-safi-dz003025"
+    },
+    "code": {
+      "id": "DZ003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.293",
+      "lon": "-1.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadmaya",
+      "en": "Tadmaya",
+      "slug": "tadmaya-dz003026"
+    },
+    "code": {
+      "id": "DZ003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.193",
+      "lon": "-1.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamzougha",
+      "en": "Tamzougha",
+      "slug": "tamzougha-dz003027"
+    },
+    "code": {
+      "id": "DZ003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.441",
+      "lon": "-0.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terga",
+      "en": "Terga",
+      "slug": "terga-dz003028"
+    },
+    "code": {
+      "id": "DZ003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "عين تموشنت",
+          "en": "Ain-Temouchent",
+          "slug": "ain-temouchent-dz003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.405",
+      "lon": "-1.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

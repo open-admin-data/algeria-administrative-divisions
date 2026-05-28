@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_ouled-fares_chettia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشطية",
+      "en": "Chettia",
+      "slug": "chettia"
+    },
+    "code": {
+      "id": "DZ002_ouled-fares_chettia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ouled-fares",
+      "level": 2,
+      "name": {
+        "local": "أولاد فارس",
+        "en": "Ouled Fares",
+        "slug": "ouled-fares"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ouled-fares",
+        "level": 2,
+        "name": {
+          "local": "أولاد فارس",
+          "en": "Ouled Fares",
+          "slug": "ouled-fares"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02007"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "1.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_ouled-fares_labiod-medjadja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأبيض مجاجة",
+      "en": "Labiod Medjadja",
+      "slug": "labiod-medjadja"
+    },
+    "code": {
+      "id": "DZ002_ouled-fares_labiod-medjadja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ouled-fares",
+      "level": 2,
+      "name": {
+        "local": "أولاد فارس",
+        "en": "Ouled Fares",
+        "slug": "ouled-fares"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ouled-fares",
+        "level": 2,
+        "name": {
+          "local": "أولاد فارس",
+          "en": "Ouled Fares",
+          "slug": "ouled-fares"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02073"
+    ],
+    "geo": {
+      "lat": "36.207",
+      "lon": "1.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_ouled-fares_ouled-fares",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد فارس",
+      "en": "Ouled Fares",
+      "slug": "ouled-fares"
+    },
+    "code": {
+      "id": "DZ002_ouled-fares_ouled-fares",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ouled-fares",
+      "level": 2,
+      "name": {
+        "local": "أولاد فارس",
+        "en": "Ouled Fares",
+        "slug": "ouled-fares"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ouled-fares",
+        "level": 2,
+        "name": {
+          "local": "أولاد فارس",
+          "en": "Ouled Fares",
+          "slug": "ouled-fares"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02010"
+    ],
+    "geo": {
+      "lat": "36.233",
+      "lon": "1.21"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

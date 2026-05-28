@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_el-hadaiek_ain-zouit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين زويت",
+      "en": "Ain Zouit",
+      "slug": "ain-zouit"
+    },
+    "code": {
+      "id": "DZ021_el-hadaiek_ain-zouit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-hadaiek",
+      "level": 2,
+      "name": {
+        "local": "الحدائق",
+        "en": "El Hadaiek",
+        "slug": "el-hadaiek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-hadaiek",
+        "level": 2,
+        "name": {
+          "local": "الحدائق",
+          "en": "El Hadaiek",
+          "slug": "el-hadaiek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21051"
+    ],
+    "geo": {
+      "lat": "36.901",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-hadaiek_bouchetata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوشطاطة",
+      "en": "Bouchetata",
+      "slug": "bouchetata"
+    },
+    "code": {
+      "id": "DZ021_el-hadaiek_bouchetata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-hadaiek",
+      "level": 2,
+      "name": {
+        "local": "الحدائق",
+        "en": "El Hadaiek",
+        "slug": "el-hadaiek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-hadaiek",
+        "level": 2,
+        "name": {
+          "local": "الحدائق",
+          "en": "El Hadaiek",
+          "slug": "el-hadaiek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21053"
+    ],
+    "geo": {
+      "lat": "36.864",
+      "lon": "6.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-hadaiek_el-hadaiek",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحدائق",
+      "en": "El Hadaiek",
+      "slug": "el-hadaiek"
+    },
+    "code": {
+      "id": "DZ021_el-hadaiek_el-hadaiek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_el-hadaiek",
+      "level": 2,
+      "name": {
+        "local": "الحدائق",
+        "en": "El Hadaiek",
+        "slug": "el-hadaiek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_el-hadaiek",
+        "level": 2,
+        "name": {
+          "local": "الحدائق",
+          "en": "El Hadaiek",
+          "slug": "el-hadaiek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21015"
+    ],
+    "geo": {
+      "lat": "36.827",
+      "lon": "6.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

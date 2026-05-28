@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ003_aflou,أفلو,Aflou,aflou,DZ003_aflou,3,34.181,2.084
+DZ003_ain-madhi,عين ماضي,Ain Madhi,ain-madhi,DZ003_ain-madhi,5,33.606,2.449
+DZ003_brida,بريدة,Brida,brida,DZ003_brida,3,33.998,1.66
+DZ003_el-ghicha,الغيشة,El Ghicha,el-ghicha,DZ003_el-ghicha,1,33.877,2.134
+DZ003_gueltat-sidi-saad,قتلة سيدي سعيد,Gueltat Sidi Saad,gueltat-sidi-saad,DZ003_gueltat-sidi-saad,3,34.22,1.7
+DZ003_hassi-rmel,حاسي الرمل,Hassi R'mel,hassi-rmel,DZ003_hassi-rmel,2,33.141,3.27
+DZ003_ksar-el-hirane,قصر الحيران,Ksar El Hirane,ksar-el-hirane,DZ003_ksar-el-hirane,2,33.707,3.221
+DZ003_laghouat,الأغواط,Laghouat,laghouat,DZ003_laghouat,1,33.845,2.836
+DZ003_oued-morra,وادي مرة,Oued Morra,oued-morra,DZ003_oued-morra,2,34.123,2.333
+DZ003_sidi-makhlouf,سيدي مخلوف,Sidi Makhlouf,sidi-makhlouf,DZ003_sidi-makhlouf,2,33.989,2.977

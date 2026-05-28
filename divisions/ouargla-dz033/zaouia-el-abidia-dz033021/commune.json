@@ -1,0 +1,45 @@
+{
+  "id": "DZ033021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zaouia El Abidia",
+    "en": "Zaouia El Abidia",
+    "slug": "zaouia-el-abidia-dz033021"
+  },
+  "code": {
+    "id": "DZ033021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.157",
+    "lon": "6.104"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,199 @@
+# Relizane — Algeria Administrative Divisions
+
+> 38 communes
+> Code: DZ035
+> Coordinates: 35.839, 0.911
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Rahma
+
+Code: DZ035001, Coordinates: 35.64, 0.409
+
+
+### Ain Tarek
+
+Code: DZ035002, Coordinates: 35.776, 1.168
+
+
+### Ammi Moussa
+
+Code: DZ035003, Coordinates: 35.84, 1.213
+
+
+### Belaassel Bouzegza
+
+Code: DZ035004, Coordinates: 35.824, 0.489
+
+
+### Ben Daoud
+
+Code: DZ035005, Coordinates: 35.652, 0.507
+
+
+### Beni Dergoun
+
+Code: DZ035006, Coordinates: 35.816, 0.783
+
+
+### Beni Zentis
+
+Code: DZ035007, Coordinates: 36.093, 0.668
+
+
+### Dar Ben Abdellah
+
+Code: DZ035008, Coordinates: 35.683, 0.723
+
+
+### Djidiouia
+
+Code: DZ035009, Coordinates: 35.953, 0.814
+
+
+### El Guettar
+
+Code: DZ035010, Coordinates: 36.084, 0.828
+
+
+### El H&#39;Madna
+
+Code: DZ035013, Coordinates: 35.897, 0.763
+
+
+### El Hamri
+
+Code: DZ035011, Coordinates: 36.034, 0.717
+
+
+### El Hassi
+
+Code: DZ035012, Coordinates: 35.741, 1.02
+
+
+### El Matmar
+
+Code: DZ035014, Coordinates: 35.722, 0.454
+
+
+### El Oueldja
+
+Code: DZ035015, Coordinates: 35.938, 1.106
+
+
+### Had Chekkala
+
+Code: DZ035016, Coordinates: 35.683, 1.136
+
+
+### Kalaa
+
+Code: DZ035017, Coordinates: 35.608, 0.344
+
+
+### Lahlef
+
+Code: DZ035018, Coordinates: 35.899, 0.968
+
+
+### Mazouna
+
+Code: DZ035019, Coordinates: 36.11, 0.892
+
+
+### Mediouna
+
+Code: DZ035020, Coordinates: 36.142, 0.745
+
+
+### Mendes
+
+Code: DZ035021, Coordinates: 35.672, 0.93
+
+
+### Merdjet Sidi Abed
+
+Code: DZ035022, Coordinates: 36.001, 1.018
+
+
+### Ouarizane
+
+Code: DZ035023, Coordinates: 36.037, 0.881
+
+
+### Oued El Djemaa
+
+Code: DZ035024, Coordinates: 35.839, 0.648
+
+
+### Oued Essalem
+
+Code: DZ035025, Coordinates: 35.544, 0.83
+
+
+### Oued Rhiou
+
+Code: DZ035026, Coordinates: 35.972, 0.906
+
+
+### Ouled Sidi Mihoub
+
+Code: DZ035027, Coordinates: 35.967, 0.682
+
+
+### Ouled Yaich
+
+Code: DZ035028, Coordinates: 35.807, 0.971
+
+
+### Ramka
+
+Code: DZ035029, Coordinates: 35.855, 1.322
+
+
+### Relizane
+
+Code: DZ035030, Coordinates: 35.728, 0.579
+
+
+### Sidi Khettab
+
+Code: DZ035031, Coordinates: 35.911, 0.555
+
+
+### Sidi Lazreg
+
+Code: DZ035032, Coordinates: 35.617, 0.795
+
+
+### Sidi M&#39;Hamed Ben Ali
+
+Code: DZ035033, Coordinates: 36.173, 0.876
+
+
+### Sidi M&#39;Hamed Benaouda
+
+Code: DZ035034, Coordinates: 35.574, 0.62
+
+
+### Sidi Saada
+
+Code: DZ035035, Coordinates: 35.702, 0.278
+
+
+### Souk El Had
+
+Code: DZ035036, Coordinates: 35.938, 1.269
+
+
+### Yellel
+
+Code: DZ035037, Coordinates: 35.75, 0.37
+
+
+### Zemmoura
+
+Code: DZ035038, Coordinates: 35.768, 0.875
+
+

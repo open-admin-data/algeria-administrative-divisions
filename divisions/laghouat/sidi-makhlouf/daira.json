@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_sidi-makhlouf",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي مخلوف",
+    "en": "Sidi Makhlouf",
+    "slug": "sidi-makhlouf"
+  },
+  "code": {
+    "id": "DZ003_sidi-makhlouf",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.989",
+    "lon": "2.977"
+  },
+  "metadata": {},
+  "source": {}
+}

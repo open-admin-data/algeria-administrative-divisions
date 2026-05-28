@@ -1,0 +1,45 @@
+{
+  "id": "DZ032007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bir El Djir",
+    "en": "Bir El Djir",
+    "slug": "bir-el-djir-dz032007"
+  },
+  "code": {
+    "id": "DZ032007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.737",
+    "lon": "-0.55"
+  },
+  "metadata": {},
+  "source": {}
+}

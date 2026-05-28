@@ -1,0 +1,45 @@
+{
+  "id": "DZ032015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gdyel",
+    "en": "Gdyel",
+    "slug": "gdyel-dz032015"
+  },
+  "code": {
+    "id": "DZ032015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.802",
+    "lon": "-0.447"
+  },
+  "metadata": {},
+  "source": {}
+}

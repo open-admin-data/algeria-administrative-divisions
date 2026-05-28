@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_oued-el-abtal_ain-ferah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فراح",
+      "en": "Ain Ferah",
+      "slug": "ain-ferah"
+    },
+    "code": {
+      "id": "DZ029_oued-el-abtal_ain-ferah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oued-el-abtal",
+      "level": 2,
+      "name": {
+        "local": "وادي الأبطال",
+        "en": "Oued El Abtal",
+        "slug": "oued-el-abtal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oued-el-abtal",
+        "level": 2,
+        "name": {
+          "local": "وادي الأبطال",
+          "en": "Oued El Abtal",
+          "slug": "oued-el-abtal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29032"
+    ],
+    "geo": {
+      "lat": "35.373",
+      "lon": "0.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oued-el-abtal_oued-el-abtal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الأبطال",
+      "en": "Oued El Abtal",
+      "slug": "oued-el-abtal"
+    },
+    "code": {
+      "id": "DZ029_oued-el-abtal_oued-el-abtal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oued-el-abtal",
+      "level": 2,
+      "name": {
+        "local": "وادي الأبطال",
+        "en": "Oued El Abtal",
+        "slug": "oued-el-abtal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oued-el-abtal",
+        "level": 2,
+        "name": {
+          "local": "وادي الأبطال",
+          "en": "Oued El Abtal",
+          "slug": "oued-el-abtal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29016"
+    ],
+    "geo": {
+      "lat": "35.417",
+      "lon": "0.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oued-el-abtal_sidi-abdeldjebar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عبد الجبار",
+      "en": "Sidi Abdeldjebar",
+      "slug": "sidi-abdeldjebar"
+    },
+    "code": {
+      "id": "DZ029_oued-el-abtal_sidi-abdeldjebar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oued-el-abtal",
+      "level": 2,
+      "name": {
+        "local": "وادي الأبطال",
+        "en": "Oued El Abtal",
+        "slug": "oued-el-abtal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oued-el-abtal",
+        "level": 2,
+        "name": {
+          "local": "وادي الأبطال",
+          "en": "Oued El Abtal",
+          "slug": "oued-el-abtal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29065"
+    ],
+    "geo": {
+      "lat": "35.395",
+      "lon": "0.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

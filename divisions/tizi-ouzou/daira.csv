@@ -1,0 +1,22 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ015_ain-el-hammam,عين الحمام,Ain El Hammam,ain-el-hammam,DZ015_ain-el-hammam,4,36.553,4.32
+DZ015_azazga,عزازقة,Azazga,azazga,DZ015_azazga,5,36.742,4.423
+DZ015_azeffoun,أزفون,Azeffoun,azeffoun,DZ015_azeffoun,4,36.84,4.421
+DZ015_beni-douala,بني دوالة,Beni Douala,beni-douala,DZ015_beni-douala,4,36.635,4.083
+DZ015_benni-yenni,بني يني,Benni Yenni,benni-yenni,DZ015_benni-yenni,3,36.581,4.201
+DZ015_boghni,بوغني,Boghni,boghni,DZ015_boghni,4,36.505,3.978
+DZ015_bouzeguene,بوزقن,Bouzeguene,bouzeguene,DZ015_bouzeguene,4,36.677,4.538
+DZ015_draa-ben-khedda,ذراع بن خدة,Draa Ben Khedda,draa-ben-khedda,DZ015_draa-ben-khedda,4,36.705,3.936
+DZ015_draa-el-mizan,ذراع الميزان,Draa El Mizan,draa-el-mizan,DZ015_draa-el-mizan,4,36.568,3.872
+DZ015_iferhounene,إفرحونان,Iferhounene,iferhounene,DZ015_iferhounene,3,36.54,4.389
+DZ015_larbaa-nath-iraten,الأربعاء ناث إيراثن,Larbaa Nath Iraten,larbaa-nath-iraten,DZ015_larbaa-nath-iraten,3,36.648,4.197
+DZ015_maatkas,معاتقة,Maatkas,maatkas,DZ015_maatkas,2,36.605,4.015
+DZ015_makouda,ماكودة,Makouda,makouda,DZ015_makouda,2,36.802,4.105
+DZ015_mekla,مقلع,Mekla,mekla,DZ015_mekla,3,36.679,4.267
+DZ015_ouacif,واسيف,Ouacif,ouacif,DZ015_ouacif,3,36.514,4.193
+DZ015_ouadhias,واضية,Ouadhias,ouadhias,DZ015_ouadhias,4,36.683,4.239
+DZ015_ouaguenoun,واقنون,Ouaguenoun,ouaguenoun,DZ015_ouaguenoun,3,36.772,4.177
+DZ015_tigzirt,تيقزيرت,Tigzirt,tigzirt,DZ015_tigzirt,3,36.867,4.15
+DZ015_tizi-ouzou,تيزي وزو,Tizi Ouzou,tizi-ouzou,DZ015_tizi-ouzou,1,36.702,4.056
+DZ015_tizi-rached,تيزي راشد,Tizi Rached,tizi-rached,DZ015_tizi-rached,2,36.674,4.21
+DZ015_tizi-ghenif,تيزي غنيف,Tizi-Ghenif,tizi-ghenif,DZ015_tizi-ghenif,2,36.634,3.784

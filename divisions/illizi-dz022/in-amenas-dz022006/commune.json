@@ -1,0 +1,45 @@
+{
+  "id": "DZ022006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "In Amenas",
+    "en": "In Amenas",
+    "slug": "in-amenas-dz022006"
+  },
+  "code": {
+    "id": "DZ022006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "اليزي",
+      "en": "Illizi",
+      "slug": "illizi-dz022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.02",
+    "lon": "9.289"
+  },
+  "metadata": {},
+  "source": {}
+}

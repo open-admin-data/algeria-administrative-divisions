@@ -1,0 +1,45 @@
+{
+  "id": "DZ003024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Boumediene",
+    "en": "Sidi Boumediene",
+    "slug": "sidi-boumediene-dz003024"
+  },
+  "code": {
+    "id": "DZ003024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "عين تموشنت",
+      "en": "Ain-Temouchent",
+      "slug": "ain-temouchent-dz003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "عين تموشنت",
+        "en": "Ain-Temouchent",
+        "slug": "ain-temouchent-dz003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.341",
+    "lon": "-0.889"
+  },
+  "metadata": {},
+  "source": {}
+}

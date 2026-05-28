@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ027_mesra_ain-sidi-cherif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين سيدي الشريف",
+      "en": "Ain-Sidi Cherif",
+      "slug": "ain-sidi-cherif"
+    },
+    "code": {
+      "id": "DZ027_mesra_ain-sidi-cherif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_mesra",
+      "level": 2,
+      "name": {
+        "local": "ماسرة",
+        "en": "Mesra",
+        "slug": "mesra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_mesra",
+        "level": 2,
+        "name": {
+          "local": "ماسرة",
+          "en": "Mesra",
+          "slug": "mesra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27024"
+    ],
+    "geo": {
+      "lat": "35.818",
+      "lon": "0.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_mesra_mansourah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "منصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ027_mesra_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_mesra",
+      "level": 2,
+      "name": {
+        "local": "ماسرة",
+        "en": "Mesra",
+        "slug": "mesra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_mesra",
+        "level": 2,
+        "name": {
+          "local": "ماسرة",
+          "en": "Mesra",
+          "slug": "mesra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13100"
+    ],
+    "geo": {
+      "lat": "34.873",
+      "lon": "-1.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_mesra_mesra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ماسرة",
+      "en": "Mesra",
+      "slug": "mesra"
+    },
+    "code": {
+      "id": "DZ027_mesra_mesra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_mesra",
+      "level": 2,
+      "name": {
+        "local": "ماسرة",
+        "en": "Mesra",
+        "slug": "mesra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_mesra",
+        "level": 2,
+        "name": {
+          "local": "ماسرة",
+          "en": "Mesra",
+          "slug": "mesra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27018"
+    ],
+    "geo": {
+      "lat": "35.846",
+      "lon": "0.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_mesra_touahria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطواهرية",
+      "en": "Touahria",
+      "slug": "touahria"
+    },
+    "code": {
+      "id": "DZ027_mesra_touahria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_mesra",
+      "level": 2,
+      "name": {
+        "local": "ماسرة",
+        "en": "Mesra",
+        "slug": "mesra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_mesra",
+        "level": 2,
+        "name": {
+          "local": "ماسرة",
+          "en": "Mesra",
+          "slug": "mesra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27013"
+    ],
+    "geo": {
+      "lat": "35.812",
+      "lon": "0.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

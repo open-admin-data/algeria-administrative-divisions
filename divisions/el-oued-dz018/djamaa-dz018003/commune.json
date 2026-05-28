@@ -1,0 +1,45 @@
+{
+  "id": "DZ018003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djamaa",
+    "en": "Djamaa",
+    "slug": "djamaa-dz018003"
+  },
+  "code": {
+    "id": "DZ018003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.579",
+    "lon": "5.815"
+  },
+  "metadata": {},
+  "source": {}
+}

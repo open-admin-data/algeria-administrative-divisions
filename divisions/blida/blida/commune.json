@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ009_blida_blida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البليدة",
+      "en": "Blida",
+      "slug": "blida"
+    },
+    "code": {
+      "id": "DZ009_blida_blida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_blida",
+      "level": 2,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_blida",
+        "level": 2,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09000"
+    ],
+    "geo": {
+      "lat": "36.483",
+      "lon": "2.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_blida_bouarfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعرفة",
+      "en": "Bouarfa",
+      "slug": "bouarfa"
+    },
+    "code": {
+      "id": "DZ009_blida_bouarfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_blida",
+      "level": 2,
+      "name": {
+        "local": "البليدة",
+        "en": "Blida",
+        "slug": "blida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_blida",
+        "level": 2,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09019"
+    ],
+    "geo": {
+      "lat": "36.417",
+      "lon": "2.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

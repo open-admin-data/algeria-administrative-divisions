@@ -1,0 +1,45 @@
+{
+  "id": "DZ036007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Maamora",
+    "en": "Maamora",
+    "slug": "maamora-dz036007"
+  },
+  "code": {
+    "id": "DZ036007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.606",
+    "lon": "0.524"
+  },
+  "metadata": {},
+  "source": {}
+}

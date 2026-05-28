@@ -1,0 +1,30 @@
+{
+  "id": "DZ045",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "النعامة",
+    "en": "Naâma",
+    "slug": "nama"
+  },
+  "code": {
+    "id": "DZ045",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 7,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.962",
+    "lon": "-0.674"
+  },
+  "metadata": {},
+  "source": {}
+}

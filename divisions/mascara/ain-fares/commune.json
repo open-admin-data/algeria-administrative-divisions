@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ029_ain-fares_ain-fares",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فارس",
+      "en": "Ain Fares",
+      "slug": "ain-fares"
+    },
+    "code": {
+      "id": "DZ029_ain-fares_ain-fares",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ain-fares",
+      "level": 2,
+      "name": {
+        "local": "عين فارس",
+        "en": "Ain Fares",
+        "slug": "ain-fares"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ain-fares",
+        "level": 2,
+        "name": {
+          "local": "عين فارس",
+          "en": "Ain Fares",
+          "slug": "ain-fares"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28023"
+    ],
+    "geo": {
+      "lat": "34.749",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ain-fares_el-mamounia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المأمونية",
+      "en": "El Mamounia",
+      "slug": "el-mamounia"
+    },
+    "code": {
+      "id": "DZ029_ain-fares_el-mamounia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_ain-fares",
+      "level": 2,
+      "name": {
+        "local": "عين فارس",
+        "en": "Ain Fares",
+        "slug": "ain-fares"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_ain-fares",
+        "level": 2,
+        "name": {
+          "local": "عين فارس",
+          "en": "Ain Fares",
+          "slug": "ain-fares"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29056"
+    ],
+    "geo": {
+      "lat": "35.464",
+      "lon": "0.14"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

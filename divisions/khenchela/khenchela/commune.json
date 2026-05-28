@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ040_khenchela_khenchela",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خنشلة",
+      "en": "Khenchela",
+      "slug": "khenchela"
+    },
+    "code": {
+      "id": "DZ040_khenchela_khenchela",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_khenchela",
+      "level": 2,
+      "name": {
+        "local": "خنشلة",
+        "en": "Khenchela",
+        "slug": "khenchela"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_khenchela",
+        "level": 2,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40000"
+    ],
+    "geo": {
+      "lat": "35.439",
+      "lon": "7.138"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

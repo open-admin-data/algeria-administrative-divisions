@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ048_yellel_ain-rahma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الرحمة",
+      "en": "Ain Rahma",
+      "slug": "ain-rahma"
+    },
+    "code": {
+      "id": "DZ048_yellel_ain-rahma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_yellel",
+      "level": 2,
+      "name": {
+        "local": "يلل",
+        "en": "Yellel",
+        "slug": "yellel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_yellel",
+        "level": 2,
+        "name": {
+          "local": "يلل",
+          "en": "Yellel",
+          "slug": "yellel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48033"
+    ],
+    "geo": {
+      "lat": "35.64",
+      "lon": "0.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_yellel_kalaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القلعة",
+      "en": "Kalaa",
+      "slug": "kalaa"
+    },
+    "code": {
+      "id": "DZ048_yellel_kalaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_yellel",
+      "level": 2,
+      "name": {
+        "local": "يلل",
+        "en": "Yellel",
+        "slug": "yellel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_yellel",
+        "level": 2,
+        "name": {
+          "local": "يلل",
+          "en": "Yellel",
+          "slug": "yellel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48018"
+    ],
+    "geo": {
+      "lat": "35.608",
+      "lon": "0.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_yellel_sidi-saada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي سعادة",
+      "en": "Sidi Saada",
+      "slug": "sidi-saada"
+    },
+    "code": {
+      "id": "DZ048_yellel_sidi-saada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_yellel",
+      "level": 2,
+      "name": {
+        "local": "يلل",
+        "en": "Yellel",
+        "slug": "yellel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_yellel",
+        "level": 2,
+        "name": {
+          "local": "يلل",
+          "en": "Yellel",
+          "slug": "yellel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48067"
+    ],
+    "geo": {
+      "lat": "35.702",
+      "lon": "0.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_yellel_yellel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "يلل",
+      "en": "Yellel",
+      "slug": "yellel"
+    },
+    "code": {
+      "id": "DZ048_yellel_yellel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_yellel",
+      "level": 2,
+      "name": {
+        "local": "يلل",
+        "en": "Yellel",
+        "slug": "yellel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_yellel",
+        "level": 2,
+        "name": {
+          "local": "يلل",
+          "en": "Yellel",
+          "slug": "yellel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48006"
+    ],
+    "geo": {
+      "lat": "35.75",
+      "lon": "0.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

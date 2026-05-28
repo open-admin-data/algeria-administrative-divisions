@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ036_besbes_asfour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عصفور",
+      "en": "Asfour",
+      "slug": "asfour"
+    },
+    "code": {
+      "id": "DZ036_besbes_asfour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_besbes",
+      "level": 2,
+      "name": {
+        "local": "البسباس",
+        "en": "Besbes",
+        "slug": "besbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_besbes",
+        "level": 2,
+        "name": {
+          "local": "البسباس",
+          "en": "Besbes",
+          "slug": "besbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36012"
+    ],
+    "geo": {
+      "lat": "36.647",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_besbes_besbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البسباس",
+      "en": "Besbes",
+      "slug": "besbes"
+    },
+    "code": {
+      "id": "DZ036_besbes_besbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_besbes",
+      "level": 2,
+      "name": {
+        "local": "البسباس",
+        "en": "Besbes",
+        "slug": "besbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_besbes",
+        "level": 2,
+        "name": {
+          "local": "البسباس",
+          "en": "Besbes",
+          "slug": "besbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36017"
+    ],
+    "geo": {
+      "lat": "36.723",
+      "lon": "7.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_besbes_zerizer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زريزر",
+      "en": "Zerizer",
+      "slug": "zerizer"
+    },
+    "code": {
+      "id": "DZ036_besbes_zerizer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_besbes",
+      "level": 2,
+      "name": {
+        "local": "البسباس",
+        "en": "Besbes",
+        "slug": "besbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_besbes",
+        "level": 2,
+        "name": {
+          "local": "البسباس",
+          "en": "Besbes",
+          "slug": "besbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36015"
+    ],
+    "geo": {
+      "lat": "36.724",
+      "lon": "7.909"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_reguiba",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الرقيبة",
+    "en": "Reguiba",
+    "slug": "reguiba"
+  },
+  "code": {
+    "id": "DZ039_reguiba",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.977",
+    "lon": "6.479"
+  },
+  "metadata": {},
+  "source": {}
+}

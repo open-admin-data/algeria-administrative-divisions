@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ028_msila_msila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المسيلة",
+      "en": "M'sila",
+      "slug": "msila"
+    },
+    "code": {
+      "id": "DZ028_msila_msila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_msila",
+      "level": 2,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'sila",
+        "slug": "msila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_msila",
+        "level": 2,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'sila",
+          "slug": "msila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28000"
+    ],
+    "geo": {
+      "lat": "35.723",
+      "lon": "4.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

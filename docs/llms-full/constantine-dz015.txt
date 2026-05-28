@@ -1,0 +1,69 @@
+# Constantine — Algeria Administrative Divisions
+
+> 12 communes
+> Code: DZ015
+> Coordinates: 36.36, 6.668
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Abid
+
+Code: DZ015001, Coordinates: 36.252, 6.944
+
+
+### Ain Smara
+
+Code: DZ015002, Coordinates: 36.295, 6.487
+
+
+### Ben Badis
+
+Code: DZ015003, Coordinates: 36.351, 6.858
+
+
+### Beni Hamidene
+
+Code: DZ015004, Coordinates: 36.523, 6.567
+
+
+### Constantine
+
+Code: DZ015005, Coordinates: 36.356, 6.61
+
+
+### Didouche Mourad
+
+Code: DZ015006, Coordinates: 36.467, 6.667
+
+
+### El Khroub
+
+Code: DZ015007, Coordinates: 36.285, 6.713
+
+
+### Hamma Bouziane
+
+Code: DZ015008, Coordinates: 36.43, 6.575
+
+
+### Ibn Ziad
+
+Code: DZ015009, Coordinates: 36.374, 6.427
+
+
+### Mesaoud Boudjeriou
+
+Code: DZ015010, Coordinates: 36.45, 6.417
+
+
+### Ouled Rahmoun
+
+Code: DZ015011, Coordinates: 36.182, 6.697
+
+
+### Zighoud Youcef
+
+Code: DZ015012, Coordinates: 36.532, 6.74
+
+

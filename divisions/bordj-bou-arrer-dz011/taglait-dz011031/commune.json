@@ -1,0 +1,45 @@
+{
+  "id": "DZ011031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Taglait",
+    "en": "Taglait",
+    "slug": "taglait-dz011031"
+  },
+  "code": {
+    "id": "DZ011031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.809",
+    "lon": "4.996"
+  },
+  "metadata": {},
+  "source": {}
+}

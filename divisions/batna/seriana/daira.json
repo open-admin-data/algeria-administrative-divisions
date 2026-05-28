@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_seriana",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سريانة",
+    "en": "Seriana",
+    "slug": "seriana"
+  },
+  "code": {
+    "id": "DZ005_seriana",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.764",
+    "lon": "6.235"
+  },
+  "metadata": {},
+  "source": {}
+}

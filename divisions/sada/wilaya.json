@@ -1,0 +1,30 @@
+{
+  "id": "DZ020",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سعيدة",
+    "en": "Saïda",
+    "slug": "sada"
+  },
+  "code": {
+    "id": "DZ020",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 6,
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.044",
+    "lon": "0.773"
+  },
+  "metadata": {},
+  "source": {}
+}

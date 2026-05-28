@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ016_baraki_baraki",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "براقي",
+      "en": "Baraki",
+      "slug": "baraki"
+    },
+    "code": {
+      "id": "DZ016_baraki_baraki",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_baraki",
+      "level": 2,
+      "name": {
+        "local": "براقي",
+        "en": "Baraki",
+        "slug": "baraki"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_baraki",
+        "level": 2,
+        "name": {
+          "local": "براقي",
+          "en": "Baraki",
+          "slug": "baraki"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16027"
+    ],
+    "geo": {
+      "lat": "36.672",
+      "lon": "3.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_baraki_les-eucalyptus",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكاليتوس",
+      "en": "Les Eucalyptus",
+      "slug": "les-eucalyptus"
+    },
+    "code": {
+      "id": "DZ016_baraki_les-eucalyptus",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_baraki",
+      "level": 2,
+      "name": {
+        "local": "براقي",
+        "en": "Baraki",
+        "slug": "baraki"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_baraki",
+        "level": 2,
+        "name": {
+          "local": "براقي",
+          "en": "Baraki",
+          "slug": "baraki"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16057"
+    ],
+    "geo": {
+      "lat": "36.67",
+      "lon": "3.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_baraki_sidi-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي موسى",
+      "en": "Sidi Moussa",
+      "slug": "sidi-moussa"
+    },
+    "code": {
+      "id": "DZ016_baraki_sidi-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_baraki",
+      "level": 2,
+      "name": {
+        "local": "براقي",
+        "en": "Baraki",
+        "slug": "baraki"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_baraki",
+        "level": 2,
+        "name": {
+          "local": "براقي",
+          "en": "Baraki",
+          "slug": "baraki"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16189"
+    ],
+    "geo": {
+      "lat": "36.618",
+      "lon": "3.097"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

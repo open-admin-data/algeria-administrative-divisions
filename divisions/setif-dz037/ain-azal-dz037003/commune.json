@@ -1,0 +1,45 @@
+{
+  "id": "DZ037003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Azal",
+    "en": "Ain Azal",
+    "slug": "ain-azal-dz037003"
+  },
+  "code": {
+    "id": "DZ037003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.82",
+    "lon": "5.492"
+  },
+  "metadata": {},
+  "source": {}
+}

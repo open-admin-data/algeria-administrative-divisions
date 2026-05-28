@@ -1,0 +1,47 @@
+{
+  "id": "DZ022_moulay-slissen",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مولاي سليسن",
+    "en": "Moulay Slissen",
+    "slug": "moulay-slissen"
+  },
+  "code": {
+    "id": "DZ022_moulay-slissen",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbès",
+      "slug": "sidi-bel-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.753",
+    "lon": "-0.748"
+  },
+  "metadata": {},
+  "source": {}
+}

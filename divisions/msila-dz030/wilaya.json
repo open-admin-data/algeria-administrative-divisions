@@ -1,0 +1,29 @@
+{
+  "id": "DZ030",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "المسيلة",
+    "en": "M'Sila",
+    "slug": "msila-dz030"
+  },
+  "code": {
+    "id": "DZ030",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.125",
+    "lon": "4.21"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ019_ain-el-kebira_ain-el-kebira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الكبيرة",
+      "en": "Ain El Kebira",
+      "slug": "ain-el-kebira"
+    },
+    "code": {
+      "id": "DZ019_ain-el-kebira_ain-el-kebira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-el-kebira",
+      "level": 2,
+      "name": {
+        "local": "عين الكبيرة",
+        "en": "Ain El Kebira",
+        "slug": "ain-el-kebira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-el-kebira",
+        "level": 2,
+        "name": {
+          "local": "عين الكبيرة",
+          "en": "Ain El Kebira",
+          "slug": "ain-el-kebira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19008"
+    ],
+    "geo": {
+      "lat": "36.381",
+      "lon": "5.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-el-kebira_dehamcha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدهامشة",
+      "en": "Dehamcha",
+      "slug": "dehamcha"
+    },
+    "code": {
+      "id": "DZ019_ain-el-kebira_dehamcha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-el-kebira",
+      "level": 2,
+      "name": {
+        "local": "عين الكبيرة",
+        "en": "Ain El Kebira",
+        "slug": "ain-el-kebira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-el-kebira",
+        "level": 2,
+        "name": {
+          "local": "عين الكبيرة",
+          "en": "Ain El Kebira",
+          "slug": "ain-el-kebira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19041"
+    ],
+    "geo": {
+      "lat": "36.381",
+      "lon": "5.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-el-kebira_ouled-addouane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عدوان",
+      "en": "Ouled Addouane",
+      "slug": "ouled-addouane"
+    },
+    "code": {
+      "id": "DZ019_ain-el-kebira_ouled-addouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-el-kebira",
+      "level": 2,
+      "name": {
+        "local": "عين الكبيرة",
+        "en": "Ain El Kebira",
+        "slug": "ain-el-kebira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-el-kebira",
+        "level": 2,
+        "name": {
+          "local": "عين الكبيرة",
+          "en": "Ain El Kebira",
+          "slug": "ain-el-kebira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19053"
+    ],
+    "geo": {
+      "lat": "36.336",
+      "lon": "5.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

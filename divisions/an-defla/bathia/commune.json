@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_bathia_bathia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بطحية",
+      "en": "Bathia",
+      "slug": "bathia"
+    },
+    "code": {
+      "id": "DZ044_bathia_bathia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bathia",
+      "level": 2,
+      "name": {
+        "local": "بطحية",
+        "en": "Bathia",
+        "slug": "bathia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bathia",
+        "level": 2,
+        "name": {
+          "local": "بطحية",
+          "en": "Bathia",
+          "slug": "bathia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44041"
+    ],
+    "geo": {
+      "lat": "35.925",
+      "lon": "1.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bathia_belaas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلعاص",
+      "en": "Belaas",
+      "slug": "belaas"
+    },
+    "code": {
+      "id": "DZ044_bathia_belaas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bathia",
+      "level": 2,
+      "name": {
+        "local": "بطحية",
+        "en": "Bathia",
+        "slug": "bathia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bathia",
+        "level": 2,
+        "name": {
+          "local": "بطحية",
+          "en": "Bathia",
+          "slug": "bathia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44038"
+    ],
+    "geo": {
+      "lat": "36.028",
+      "lon": "1.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_bathia_hassania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحسانية",
+      "en": "Hassania",
+      "slug": "hassania"
+    },
+    "code": {
+      "id": "DZ044_bathia_hassania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_bathia",
+      "level": 2,
+      "name": {
+        "local": "بطحية",
+        "en": "Bathia",
+        "slug": "bathia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_bathia",
+        "level": 2,
+        "name": {
+          "local": "بطحية",
+          "en": "Bathia",
+          "slug": "bathia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44022"
+    ],
+    "geo": {
+      "lat": "35.977",
+      "lon": "1.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

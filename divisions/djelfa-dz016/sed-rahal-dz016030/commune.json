@@ -1,0 +1,45 @@
+{
+  "id": "DZ016030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sed Rahal",
+    "en": "Sed Rahal",
+    "slug": "sed-rahal-dz016030"
+  },
+  "code": {
+    "id": "DZ016030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.748",
+    "lon": "3.562"
+  },
+  "metadata": {},
+  "source": {}
+}

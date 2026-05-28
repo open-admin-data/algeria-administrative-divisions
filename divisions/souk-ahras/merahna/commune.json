@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ041_merahna_merahna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المراهنة",
+      "en": "Merahna",
+      "slug": "merahna"
+    },
+    "code": {
+      "id": "DZ041_merahna_merahna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_merahna",
+      "level": 2,
+      "name": {
+        "local": "المراهنة",
+        "en": "Merahna",
+        "slug": "merahna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_merahna",
+        "level": 2,
+        "name": {
+          "local": "المراهنة",
+          "en": "Merahna",
+          "slug": "merahna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41004"
+    ],
+    "geo": {
+      "lat": "36.198",
+      "lon": "8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_merahna_ouillen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ويلان",
+      "en": "Ouillen",
+      "slug": "ouillen"
+    },
+    "code": {
+      "id": "DZ041_merahna_ouillen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_merahna",
+      "level": 2,
+      "name": {
+        "local": "المراهنة",
+        "en": "Merahna",
+        "slug": "merahna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_merahna",
+        "level": 2,
+        "name": {
+          "local": "المراهنة",
+          "en": "Merahna",
+          "slug": "merahna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41029"
+    ],
+    "geo": {
+      "lat": "36.138",
+      "lon": "8.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_merahna_sidi-fredj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي فرج",
+      "en": "Sidi Fredj",
+      "slug": "sidi-fredj"
+    },
+    "code": {
+      "id": "DZ041_merahna_sidi-fredj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_merahna",
+      "level": 2,
+      "name": {
+        "local": "المراهنة",
+        "en": "Merahna",
+        "slug": "merahna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_merahna",
+        "level": 2,
+        "name": {
+          "local": "المراهنة",
+          "en": "Merahna",
+          "slug": "merahna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.078",
+      "lon": "8.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

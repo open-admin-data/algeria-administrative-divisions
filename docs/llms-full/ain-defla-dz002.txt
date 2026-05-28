@@ -1,0 +1,189 @@
+# Ain-Defla — Algeria Administrative Divisions
+
+> 36 communes
+> Code: DZ002
+> Coordinates: 36.161, 2.086
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Benian
+
+Code: DZ002001, Coordinates: 36.35, 2.384
+
+
+### Ain Bouyahia
+
+Code: DZ002002, Coordinates: 36.345, 1.749
+
+
+### Ain Lechiakh
+
+Code: DZ002003, Coordinates: 36.124, 2.408
+
+
+### Ain Soltane
+
+Code: DZ002004, Coordinates: 36.208, 2.298
+
+
+### Ain Torki
+
+Code: DZ002005, Coordinates: 36.346, 2.292
+
+
+### Ain-Defla
+
+Code: DZ002006, Coordinates: 36.257, 1.955
+
+
+### Arib
+
+Code: DZ002007, Coordinates: 36.349, 2.043
+
+
+### Barbouche
+
+Code: DZ002008, Coordinates: 36.114, 2.498
+
+
+### Bathia
+
+Code: DZ002009, Coordinates: 35.925, 1.792
+
+
+### Belaas
+
+Code: DZ002010, Coordinates: 36.028, 1.794
+
+
+### Ben Allal
+
+Code: DZ002011, Coordinates: 36.353, 2.172
+
+
+### Bir Ouled Khelifa
+
+Code: DZ002012, Coordinates: 36.191, 2.213
+
+
+### Bordj Emir Khaled
+
+Code: DZ002013, Coordinates: 36.104, 2.175
+
+
+### Boumedfaa
+
+Code: DZ002014, Coordinates: 36.354, 2.498
+
+
+### Bourached
+
+Code: DZ002015, Coordinates: 36.182, 1.913
+
+
+### Djelida
+
+Code: DZ002016, Coordinates: 36.175, 2.079
+
+
+### Djemaa Ouled Cheikh
+
+Code: DZ002017, Coordinates: 36.073, 1.994
+
+
+### Djendel
+
+Code: DZ002018, Coordinates: 36.245, 2.413
+
+
+### El Abbadia
+
+Code: DZ002019, Coordinates: 36.281, 1.66
+
+
+### El Amra
+
+Code: DZ002020, Coordinates: 36.345, 1.856
+
+
+### El Attaf
+
+Code: DZ002021, Coordinates: 36.217, 1.703
+
+
+### El Hassania
+
+Code: DZ002022, Coordinates: 35.989, 1.932
+
+
+### El Hoceinia
+
+Code: DZ002023, Coordinates: 36.308, 2.397
+
+
+### El Mayene
+
+Code: DZ002024, Coordinates: 36.075, 1.72
+
+
+### Hammam Righa
+
+Code: DZ002025, Coordinates: 36.397, 2.364
+
+
+### Khemis Miliana
+
+Code: DZ002026, Coordinates: 36.259, 2.221
+
+
+### Mekhatria
+
+Code: DZ002027, Coordinates: 36.358, 1.963
+
+
+### Miliana
+
+Code: DZ002028, Coordinates: 36.315, 2.235
+
+
+### Oued Chorfa
+
+Code: DZ002029, Coordinates: 36.152, 2.542
+
+
+### Oued Djemaa
+
+Code: DZ002030, Coordinates: 36.044, 2.372
+
+
+### Rouina
+
+Code: DZ002031, Coordinates: 36.233, 1.821
+
+
+### Sidi Lakhdar
+
+Code: DZ002032, Coordinates: 36.261, 2.144
+
+
+### Tachta Zegarra
+
+Code: DZ002033, Coordinates: 36.379, 1.615
+
+
+### Tarik Ibn Ziad
+
+Code: DZ002034, Coordinates: 35.984, 2.153
+
+
+### Tiberkanine
+
+Code: DZ002035, Coordinates: 36.153, 1.646
+
+
+### Zeddine
+
+Code: DZ002036, Coordinates: 36.135, 1.856
+
+

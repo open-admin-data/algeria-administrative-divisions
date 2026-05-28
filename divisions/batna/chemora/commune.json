@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_chemora_boulhilat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بولهيلات",
+      "en": "Boulhilat",
+      "slug": "boulhilat"
+    },
+    "code": {
+      "id": "DZ005_chemora_boulhilat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_chemora",
+      "level": 2,
+      "name": {
+        "local": "الشمرة",
+        "en": "Chemora",
+        "slug": "chemora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_chemora",
+        "level": 2,
+        "name": {
+          "local": "الشمرة",
+          "en": "Chemora",
+          "slug": "chemora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05062"
+    ],
+    "geo": {
+      "lat": "35.633",
+      "lon": "6.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_chemora_chemora",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشمرة",
+      "en": "Chemora",
+      "slug": "chemora"
+    },
+    "code": {
+      "id": "DZ005_chemora_chemora",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_chemora",
+      "level": 2,
+      "name": {
+        "local": "الشمرة",
+        "en": "Chemora",
+        "slug": "chemora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_chemora",
+        "level": 2,
+        "name": {
+          "local": "الشمرة",
+          "en": "Chemora",
+          "slug": "chemora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05039"
+    ],
+    "geo": {
+      "lat": "35.633",
+      "lon": "6.608"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

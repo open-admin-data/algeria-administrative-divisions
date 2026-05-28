@@ -1,0 +1,45 @@
+{
+  "id": "DZ016033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Laadjel",
+    "en": "Sidi Laadjel",
+    "slug": "sidi-laadjel-dz016033"
+  },
+  "code": {
+    "id": "DZ016033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.389",
+    "lon": "2.466"
+  },
+  "metadata": {},
+  "source": {}
+}

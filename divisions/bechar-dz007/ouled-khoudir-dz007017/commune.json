@@ -1,0 +1,45 @@
+{
+  "id": "DZ007017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Khoudir",
+    "en": "Ouled Khoudir",
+    "slug": "ouled-khoudir-dz007017"
+  },
+  "code": {
+    "id": "DZ007017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.332",
+    "lon": "-0.877"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ023014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Emir Abdelkader",
+    "en": "Emir Abdelkader",
+    "slug": "emir-abdelkader-dz023014"
+  },
+  "code": {
+    "id": "DZ023014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.756",
+    "lon": "5.849"
+  },
+  "metadata": {},
+  "source": {}
+}

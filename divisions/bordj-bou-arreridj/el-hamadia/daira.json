@@ -1,0 +1,47 @@
+{
+  "id": "DZ034_el-hamadia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحمادية",
+    "en": "El Hamadia",
+    "slug": "el-hamadia"
+  },
+  "code": {
+    "id": "DZ034_el-hamadia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ034",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ034",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arreridj",
+        "slug": "bordj-bou-arreridj"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.934",
+    "lon": "4.65"
+  },
+  "metadata": {},
+  "source": {}
+}

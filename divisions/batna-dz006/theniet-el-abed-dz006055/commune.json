@@ -1,0 +1,45 @@
+{
+  "id": "DZ006055",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Theniet El Abed",
+    "en": "Theniet El Abed",
+    "slug": "theniet-el-abed-dz006055"
+  },
+  "code": {
+    "id": "DZ006055",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.29",
+    "lon": "6.256"
+  },
+  "metadata": {},
+  "source": {}
+}

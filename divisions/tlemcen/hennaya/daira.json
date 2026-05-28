@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_hennaya",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحناية",
+    "en": "Hennaya",
+    "slug": "hennaya"
+  },
+  "code": {
+    "id": "DZ013_hennaya",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.993",
+    "lon": "-1.478"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_telagh_dhaya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الضاية",
+      "en": "Dhaya",
+      "slug": "dhaya"
+    },
+    "code": {
+      "id": "DZ022_telagh_dhaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_telagh",
+      "level": 2,
+      "name": {
+        "local": "تلاغ",
+        "en": "Telagh",
+        "slug": "telagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_telagh",
+        "level": 2,
+        "name": {
+          "local": "تلاغ",
+          "en": "Telagh",
+          "slug": "telagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22009"
+    ],
+    "geo": {
+      "lat": "34.639",
+      "lon": "-0.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_telagh_mezaourou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مزاورو",
+      "en": "Mezaourou",
+      "slug": "mezaourou"
+    },
+    "code": {
+      "id": "DZ022_telagh_mezaourou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_telagh",
+      "level": 2,
+      "name": {
+        "local": "تلاغ",
+        "en": "Telagh",
+        "slug": "telagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_telagh",
+        "level": 2,
+        "name": {
+          "local": "تلاغ",
+          "en": "Telagh",
+          "slug": "telagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22025"
+    ],
+    "geo": {
+      "lat": "34.839",
+      "lon": "-0.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_telagh_teghalimet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تغاليمت",
+      "en": "Teghalimet",
+      "slug": "teghalimet"
+    },
+    "code": {
+      "id": "DZ022_telagh_teghalimet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_telagh",
+      "level": 2,
+      "name": {
+        "local": "تلاغ",
+        "en": "Telagh",
+        "slug": "telagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_telagh",
+        "level": 2,
+        "name": {
+          "local": "تلاغ",
+          "en": "Telagh",
+          "slug": "telagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22066"
+    ],
+    "geo": {
+      "lat": "34.904",
+      "lon": "-0.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_telagh_telagh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تلاغ",
+      "en": "Telagh",
+      "slug": "telagh"
+    },
+    "code": {
+      "id": "DZ022_telagh_telagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_telagh",
+      "level": 2,
+      "name": {
+        "local": "تلاغ",
+        "en": "Telagh",
+        "slug": "telagh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_telagh",
+        "level": 2,
+        "name": {
+          "local": "تلاغ",
+          "en": "Telagh",
+          "slug": "telagh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22007"
+    ],
+    "geo": {
+      "lat": "34.806",
+      "lon": "-0.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

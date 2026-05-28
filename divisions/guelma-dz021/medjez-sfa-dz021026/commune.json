@@ -1,0 +1,45 @@
+{
+  "id": "DZ021026",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Medjez Sfa",
+    "en": "Medjez Sfa",
+    "slug": "medjez-sfa-dz021026"
+  },
+  "code": {
+    "id": "DZ021026",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.448",
+    "lon": "7.828"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_bir-el-arch_bellaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلاعة",
+      "en": "Bellaa",
+      "slug": "bellaa"
+    },
+    "code": {
+      "id": "DZ019_bir-el-arch_bellaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bir-el-arch",
+      "level": 2,
+      "name": {
+        "local": "بئر العرش",
+        "en": "Bir El Arch",
+        "slug": "bir-el-arch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bir-el-arch",
+        "level": 2,
+        "name": {
+          "local": "بئر العرش",
+          "en": "Bir El Arch",
+          "slug": "bir-el-arch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19022"
+    ],
+    "geo": {
+      "lat": "36.222",
+      "lon": "5.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bir-el-arch_bir-el-arch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر العرش",
+      "en": "Bir-El-Arch",
+      "slug": "bir-el-arch"
+    },
+    "code": {
+      "id": "DZ019_bir-el-arch_bir-el-arch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bir-el-arch",
+      "level": 2,
+      "name": {
+        "local": "بئر العرش",
+        "en": "Bir El Arch",
+        "slug": "bir-el-arch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bir-el-arch",
+        "level": 2,
+        "name": {
+          "local": "بئر العرش",
+          "en": "Bir El Arch",
+          "slug": "bir-el-arch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19024"
+    ],
+    "geo": {
+      "lat": "36.103",
+      "lon": "5.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bir-el-arch_el-ouldja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الولجة",
+      "en": "El-Ouldja",
+      "slug": "el-ouldja"
+    },
+    "code": {
+      "id": "DZ019_bir-el-arch_el-ouldja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bir-el-arch",
+      "level": 2,
+      "name": {
+        "local": "بئر العرش",
+        "en": "Bir El Arch",
+        "slug": "bir-el-arch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bir-el-arch",
+        "level": 2,
+        "name": {
+          "local": "بئر العرش",
+          "en": "Bir El Arch",
+          "slug": "bir-el-arch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19046"
+    ],
+    "geo": {
+      "lat": "36.198",
+      "lon": "5.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bir-el-arch_tachouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاشودة",
+      "en": "Tachouda",
+      "slug": "tachouda"
+    },
+    "code": {
+      "id": "DZ019_bir-el-arch_tachouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bir-el-arch",
+      "level": 2,
+      "name": {
+        "local": "بئر العرش",
+        "en": "Bir El Arch",
+        "slug": "bir-el-arch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bir-el-arch",
+        "level": 2,
+        "name": {
+          "local": "بئر العرش",
+          "en": "Bir El Arch",
+          "slug": "bir-el-arch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19125"
+    ],
+    "geo": {
+      "lat": "36.268",
+      "lon": "5.741"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ018025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Khellil",
+    "en": "Sidi Khellil",
+    "slug": "sidi-khellil-dz018025"
+  },
+  "code": {
+    "id": "DZ018025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued-dz018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued-dz018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.827",
+    "lon": "5.708"
+  },
+  "metadata": {},
+  "source": {}
+}

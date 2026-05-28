@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_aziz_aziz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عزيز",
+      "en": "Aziz",
+      "slug": "aziz"
+    },
+    "code": {
+      "id": "DZ026_aziz_aziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_aziz",
+      "level": 2,
+      "name": {
+        "local": "عزيز",
+        "en": "Aziz",
+        "slug": "aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_aziz",
+        "level": 2,
+        "name": {
+          "local": "عزيز",
+          "en": "Aziz",
+          "slug": "aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26040"
+    ],
+    "geo": {
+      "lat": "35.755",
+      "lon": "2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_aziz_derrag",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دراق",
+      "en": "Derrag",
+      "slug": "derrag"
+    },
+    "code": {
+      "id": "DZ026_aziz_derrag",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_aziz",
+      "level": 2,
+      "name": {
+        "local": "عزيز",
+        "en": "Aziz",
+        "slug": "aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_aziz",
+        "level": 2,
+        "name": {
+          "local": "عزيز",
+          "en": "Aziz",
+          "slug": "aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26015"
+    ],
+    "geo": {
+      "lat": "35.846",
+      "lon": "2.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_aziz_oum-el-djellil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم الجليل",
+      "en": "Oum El Djellil",
+      "slug": "oum-el-djellil"
+    },
+    "code": {
+      "id": "DZ026_aziz_oum-el-djellil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_aziz",
+      "level": 2,
+      "name": {
+        "local": "عزيز",
+        "en": "Aziz",
+        "slug": "aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_aziz",
+        "level": 2,
+        "name": {
+          "local": "عزيز",
+          "en": "Aziz",
+          "slug": "aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26042"
+    ],
+    "geo": {
+      "lat": "35.8",
+      "lon": "2.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

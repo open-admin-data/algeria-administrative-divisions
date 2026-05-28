@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ054_in-guezzam_ain-guezzam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين قزام",
+      "en": "Ain Guezzam",
+      "slug": "ain-guezzam"
+    },
+    "code": {
+      "id": "DZ054_in-guezzam_ain-guezzam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ054_in-guezzam",
+      "level": 2,
+      "name": {
+        "local": "عين قزام",
+        "en": "In Guezzam",
+        "slug": "in-guezzam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ054",
+        "level": 1,
+        "name": {
+          "local": "عين قزام",
+          "en": "In Guezzam",
+          "slug": "in-guezzam"
+        }
+      },
+      {
+        "id": "DZ054_in-guezzam",
+        "level": 2,
+        "name": {
+          "local": "عين قزام",
+          "en": "In Guezzam",
+          "slug": "in-guezzam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ024_ain-makhlouf_ain-larbi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين العربي",
+      "en": "Ain Larbi",
+      "slug": "ain-larbi"
+    },
+    "code": {
+      "id": "DZ024_ain-makhlouf_ain-larbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-makhlouf",
+      "level": 2,
+      "name": {
+        "local": "عين مخلوف",
+        "en": "Ain Makhlouf",
+        "slug": "ain-makhlouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-makhlouf",
+        "level": 2,
+        "name": {
+          "local": "عين مخلوف",
+          "en": "Ain Makhlouf",
+          "slug": "ain-makhlouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24012"
+    ],
+    "geo": {
+      "lat": "36.288",
+      "lon": "7.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-makhlouf_ain-makhlouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين مخلوف",
+      "en": "Ain Makhlouf",
+      "slug": "ain-makhlouf"
+    },
+    "code": {
+      "id": "DZ024_ain-makhlouf_ain-makhlouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-makhlouf",
+      "level": 2,
+      "name": {
+        "local": "عين مخلوف",
+        "en": "Ain Makhlouf",
+        "slug": "ain-makhlouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-makhlouf",
+        "level": 2,
+        "name": {
+          "local": "عين مخلوف",
+          "en": "Ain Makhlouf",
+          "slug": "ain-makhlouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24013"
+    ],
+    "geo": {
+      "lat": "36.23",
+      "lon": "7.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_ain-makhlouf_tamlouka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاملوكة",
+      "en": "Tamlouka",
+      "slug": "tamlouka"
+    },
+    "code": {
+      "id": "DZ024_ain-makhlouf_tamlouka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_ain-makhlouf",
+      "level": 2,
+      "name": {
+        "local": "عين مخلوف",
+        "en": "Ain Makhlouf",
+        "slug": "ain-makhlouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_ain-makhlouf",
+        "level": 2,
+        "name": {
+          "local": "عين مخلوف",
+          "en": "Ain Makhlouf",
+          "slug": "ain-makhlouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24010"
+    ],
+    "geo": {
+      "lat": "36.127",
+      "lon": "7.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ027058",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Souagui",
+    "en": "Souagui",
+    "slug": "souagui-dz027058"
+  },
+  "code": {
+    "id": "DZ027058",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.115",
+    "lon": "3.25"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,185 @@
+# Oum El Bouaghi — Algeria Administrative Divisions
+
+> 12 dairas, 29 communes
+> Code: DZ004
+> Coordinates: 35.813, 7.017
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين ببوش (Ain Babouche)
+
+Code: DZ004_ain-babouche, Coordinates: 35.999, 7.098
+Communes: 2
+
+#### عين ببوش (Ain Babouche)
+
+Code: DZ004_ain-babouche_ain-babouche, Postal: 04020, Coordinates: 35.983, 7.161
+
+#### عين الديس (Ain Diss)
+
+Code: DZ004_ain-babouche_ain-diss, Postal: 04025, Coordinates: 36.016, 7.034
+
+### عين البيضاء (Ain Beida)
+
+Code: DZ004_ain-beida, Coordinates: 35.854, 7.367
+Communes: 3
+
+#### عين البيضاء (Ain Beida)
+
+Code: DZ004_ain-beida_ain-beida, Postal: 04001, Coordinates: 35.795, 7.379
+
+#### بريش (Berriche)
+
+Code: DZ004_ain-beida_berriche, Postal: 04022, Coordinates: 35.913, 7.355
+
+#### الزرق (Zorg)
+
+Code: DZ004_ain-beida_zorg, Postal: 04024, Coordinates: 35.854, 7.367
+
+### عين فكرون (Ain Fekroun)
+
+Code: DZ004_ain-fekroun, Coordinates: 35.813, 7.017
+Communes: 2
+
+#### عين فكرون (Ain Fekroun)
+
+Code: DZ004_ain-fekroun_ain-fekroun, Postal: 04005, Coordinates: 35.813, 7.017
+
+#### الفجوج بوغرارة سعودي (El Fedjoudj Boughrara Sa)
+
+Code: DZ004_ain-fekroun_el-fedjoudj-boughrara-sa, Postal: 04042, Coordinates: 35.813, 7.017
+
+### عين كرشة (Ain Kercha)
+
+Code: DZ004_ain-kercha, Coordinates: 35.904, 6.689
+Communes: 3
+
+#### عين كرشة (Ain Kercha)
+
+Code: DZ004_ain-kercha_ain-kercha, Postal: 04006, Coordinates: 35.884, 6.701
+
+#### الحرملية (El Harmilia)
+
+Code: DZ004_ain-kercha_el-harmilia, Postal: 04032, Coordinates: 35.889, 6.603
+
+#### هنشير تومغني (Hanchir Toumghani)
+
+Code: DZ004_ain-kercha_hanchir-toumghani, Postal: 04012, Coordinates: 35.939, 6.763
+
+### عين مليلة (Ain M&#39;lila)
+
+Code: DZ004_ain-mlila, Coordinates: 36.05, 6.57
+Communes: 3
+
+#### عين مليلة (Ain M&#39;lila)
+
+Code: DZ004_ain-mlila_ain-mlila, Postal: 04002, Coordinates: 36.028, 6.56
+
+#### أولاد قاسم (Ouled Gacem)
+
+Code: DZ004_ain-mlila_ouled-gacem, Postal: 04041, Coordinates: 36.038, 6.689
+
+#### أولاد حملة (Ouled Hamla)
+
+Code: DZ004_ain-mlila_ouled-hamla, Postal: 04019, Coordinates: 36.083, 6.462
+
+### الضلعة (Dhalaa)
+
+Code: DZ004_dhalaa, Coordinates: 35.513, 7.561
+Communes: 2
+
+#### الضلعة (Dhalaa)
+
+Code: DZ004_dhalaa_dhalaa, Postal: 04008, Coordinates: 35.513, 7.561
+
+#### الجازية (El Djazia)
+
+Code: DZ004_dhalaa_el-djazia, Postal: 04040, Coordinates: 35.513, 7.561
+
+### فكيرينة (F&#39;kirina)
+
+Code: DZ004_fkirina, Coordinates: 35.647, 7.365
+Communes: 2
+
+#### فكيرينة (Fkirina)
+
+Code: DZ004_fkirina_fkirina, Postal: 04013, Coordinates: 35.709, 7.333
+
+#### وادي نيني (Oued Nini)
+
+Code: DZ004_fkirina_oued-nini, Postal: 04047, Coordinates: 35.584, 7.398
+
+### قصر الصباحي (Ksar Sbahi)
+
+Code: DZ004_ksar-sbahi, Coordinates: 36.066, 7.256
+Communes: 1
+
+#### قصر الصباحي (Ksar Sbahi)
+
+Code: DZ004_ksar-sbahi_ksar-sbahi, Postal: 04018, Coordinates: 36.066, 7.256
+
+### مسكيانة (Meskiana)
+
+Code: DZ004_meskiana, Coordinates: 35.705, 7.714
+Communes: 4
+
+#### بحير الشرقي (Behir Chergui)
+
+Code: DZ004_meskiana_behir-chergui, Postal: 04026, Coordinates: 35.819, 7.732
+
+#### البلالة (El Belala)
+
+Code: DZ004_meskiana_el-belala, Postal: 04044, Coordinates: 35.669, 7.762
+
+#### مسكيانة (Meskiana)
+
+Code: DZ004_meskiana_meskiana, Postal: 04004, Coordinates: 35.627, 7.648
+
+#### الرحية (Rahia)
+
+Code: DZ004_meskiana_rahia, Postal: 04045, Coordinates: 35.705, 7.714
+
+### أم البواقي (Oum El Bouaghi)
+
+Code: DZ004_oum-el-bouaghi, Coordinates: 35.778, 7.107
+Communes: 2
+
+#### عين الزيتون (Ain Zitoun)
+
+Code: DZ004_oum-el-bouaghi_ain-zitoun, Postal: 04023, Coordinates: 35.715, 7.058
+
+#### أم البواقي (Oum El Bouaghi)
+
+Code: DZ004_oum-el-bouaghi_oum-el-bouaghi, Postal: 04000, Coordinates: 35.84, 7.157
+
+### سيقوس (Sigus)
+
+Code: DZ004_sigus, Coordinates: 36.092, 6.832
+Communes: 2
+
+#### العامرية (El Amiria)
+
+Code: DZ004_sigus_el-amiria, Postal: 04038, Coordinates: 36.073, 6.908
+
+#### سيقوس (Sigus)
+
+Code: DZ004_sigus_sigus, Postal: 04011, Coordinates: 36.111, 6.756
+
+### سوق نعمان (Souk Naamane)
+
+Code: DZ004_souk-naamane, Coordinates: 35.911, 6.384
+Communes: 3
+
+#### بئر الشهداء (Bir Chouhada)
+
+Code: DZ004_souk-naamane_bir-chouhada, Postal: 04021, Coordinates: 35.915, 6.244
+
+#### أولاد زواي (Ouled Zouai)
+
+Code: DZ004_souk-naamane_ouled-zouai, Coordinates: 35.877, 6.506
+
+#### سوق نعمان (Souk Naamane)
+
+Code: DZ004_souk-naamane_souk-naamane, Postal: 04010, Coordinates: 35.942, 6.401
+

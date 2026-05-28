@@ -1,0 +1,129 @@
+# El-Tarf — Algeria Administrative Divisions
+
+> 24 communes
+> Code: DZ019
+> Coordinates: 36.672, 8.072
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain El Assel
+
+Code: DZ019001, Coordinates: 36.806, 8.453
+
+
+### Ain Kerma
+
+Code: DZ019002, Coordinates: 36.565, 8.2
+
+
+### Asfour
+
+Code: DZ019003, Coordinates: 36.647, 7.974
+
+
+### Ben M&#39;Hidi
+
+Code: DZ019004, Coordinates: 36.773, 7.953
+
+
+### Berrihane
+
+Code: DZ019005, Coordinates: 36.838, 8.097
+
+
+### Besbes
+
+Code: DZ019006, Coordinates: 36.723, 7.821
+
+
+### Bougous
+
+Code: DZ019007, Coordinates: 36.672, 8.383
+
+
+### Bouhadjar
+
+Code: DZ019008, Coordinates: 36.52, 8.121
+
+
+### Bouteldja
+
+Code: DZ019009, Coordinates: 36.784, 8.233
+
+
+### Chbaita Mokhtar
+
+Code: DZ019010, Coordinates: 36.745, 7.735
+
+
+### Chefia
+
+Code: DZ019011, Coordinates: 36.674, 8.108
+
+
+### Chihani
+
+Code: DZ019012, Coordinates: 36.611, 7.868
+
+
+### Drean
+
+Code: DZ019013, Coordinates: 36.688, 7.724
+
+
+### Echatt
+
+Code: DZ019014, Coordinates: 36.811, 7.835
+
+
+### El Aioun
+
+Code: DZ019015, Coordinates: 36.823, 8.628
+
+
+### El Kala
+
+Code: DZ019016, Coordinates: 36.877, 8.384
+
+
+### El-Tarf
+
+Code: DZ019017, Coordinates: 36.757, 8.317
+
+
+### Hammam Beni Salah
+
+Code: DZ019018, Coordinates: 36.539, 7.999
+
+
+### Lac Des Oiseaux
+
+Code: DZ019019, Coordinates: 36.763, 8.097
+
+
+### Oued Zitoun
+
+Code: DZ019020, Coordinates: 36.446, 8.058
+
+
+### Raml Souk
+
+Code: DZ019021, Coordinates: 36.815, 8.544
+
+
+### Souarekh
+
+Code: DZ019022, Coordinates: 36.89, 8.582
+
+
+### Zerizer
+
+Code: DZ019023, Coordinates: 36.724, 7.909
+
+
+### Zitouna
+
+Code: DZ019024, Coordinates: 36.634, 8.246
+
+

@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_guemar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قمار",
+    "en": "Guemar",
+    "slug": "guemar"
+  },
+  "code": {
+    "id": "DZ039_guemar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.558",
+    "lon": "6.598"
+  },
+  "metadata": {},
+  "source": {}
+}

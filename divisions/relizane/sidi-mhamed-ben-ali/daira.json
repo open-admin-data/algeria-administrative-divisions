@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_sidi-mhamed-ben-ali",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي أمحمد بن علي",
+    "en": "Sidi M'hamed Ben Ali",
+    "slug": "sidi-mhamed-ben-ali"
+  },
+  "code": {
+    "id": "DZ048_sidi-mhamed-ben-ali",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.118",
+    "lon": "0.707"
+  },
+  "metadata": {},
+  "source": {}
+}

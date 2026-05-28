@@ -1,0 +1,45 @@
+{
+  "id": "DZ046003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Lahcene",
+    "en": "Beni Lahcene",
+    "slug": "beni-lahcene-dz046003"
+  },
+  "code": {
+    "id": "DZ046003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.793",
+    "lon": "1.716"
+  },
+  "metadata": {},
+  "source": {}
+}

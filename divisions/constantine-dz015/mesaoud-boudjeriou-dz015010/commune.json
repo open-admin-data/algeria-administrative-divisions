@@ -1,0 +1,45 @@
+{
+  "id": "DZ015010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mesaoud Boudjeriou",
+    "en": "Mesaoud Boudjeriou",
+    "slug": "mesaoud-boudjeriou-dz015010"
+  },
+  "code": {
+    "id": "DZ015010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.45",
+    "lon": "6.417"
+  },
+  "metadata": {},
+  "source": {}
+}

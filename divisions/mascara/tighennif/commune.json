@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_tighennif_sehailia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السهايلية",
+      "en": "Sehailia",
+      "slug": "sehailia"
+    },
+    "code": {
+      "id": "DZ029_tighennif_sehailia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tighennif",
+      "level": 2,
+      "name": {
+        "local": "تيغنيف",
+        "en": "Tighennif",
+        "slug": "tighennif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tighennif",
+        "level": 2,
+        "name": {
+          "local": "تيغنيف",
+          "en": "Tighennif",
+          "slug": "tighennif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29063"
+    ],
+    "geo": {
+      "lat": "35.465",
+      "lon": "0.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tighennif_sidi-kada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي قادة",
+      "en": "Sidi Kada",
+      "slug": "sidi-kada"
+    },
+    "code": {
+      "id": "DZ029_tighennif_sidi-kada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tighennif",
+      "level": 2,
+      "name": {
+        "local": "تيغنيف",
+        "en": "Tighennif",
+        "slug": "tighennif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tighennif",
+        "level": 2,
+        "name": {
+          "local": "تيغنيف",
+          "en": "Tighennif",
+          "slug": "tighennif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29030"
+    ],
+    "geo": {
+      "lat": "35.331",
+      "lon": "0.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tighennif_tighennif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيغنيف",
+      "en": "Tighennif",
+      "slug": "tighennif"
+    },
+    "code": {
+      "id": "DZ029_tighennif_tighennif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tighennif",
+      "level": 2,
+      "name": {
+        "local": "تيغنيف",
+        "en": "Tighennif",
+        "slug": "tighennif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tighennif",
+        "level": 2,
+        "name": {
+          "local": "تيغنيف",
+          "en": "Tighennif",
+          "slug": "tighennif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29004"
+    ],
+    "geo": {
+      "lat": "35.411",
+      "lon": "0.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

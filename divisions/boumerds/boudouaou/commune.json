@@ -1,0 +1,280 @@
+[
+  {
+    "id": "DZ035_boudouaou_boudouaou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بودواو",
+      "en": "Boudouaou",
+      "slug": "boudouaou"
+    },
+    "code": {
+      "id": "DZ035_boudouaou_boudouaou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boudouaou",
+      "level": 2,
+      "name": {
+        "local": "بودواو",
+        "en": "Boudouaou",
+        "slug": "boudouaou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boudouaou",
+        "level": 2,
+        "name": {
+          "local": "بودواو",
+          "en": "Boudouaou",
+          "slug": "boudouaou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35003"
+    ],
+    "geo": {
+      "lat": "36.712",
+      "lon": "3.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boudouaou_boudouaou-el-bahri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بودواو البحري",
+      "en": "Boudouaou El Bahri",
+      "slug": "boudouaou-el-bahri"
+    },
+    "code": {
+      "id": "DZ035_boudouaou_boudouaou-el-bahri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boudouaou",
+      "level": 2,
+      "name": {
+        "local": "بودواو",
+        "en": "Boudouaou",
+        "slug": "boudouaou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boudouaou",
+        "level": 2,
+        "name": {
+          "local": "بودواو",
+          "en": "Boudouaou",
+          "slug": "boudouaou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35023"
+    ],
+    "geo": {
+      "lat": "36.763",
+      "lon": "3.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boudouaou_bouzegza-keddara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزقزة قدارة",
+      "en": "Bouzegza Keddara",
+      "slug": "bouzegza-keddara"
+    },
+    "code": {
+      "id": "DZ035_boudouaou_bouzegza-keddara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boudouaou",
+      "level": 2,
+      "name": {
+        "local": "بودواو",
+        "en": "Boudouaou",
+        "slug": "boudouaou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boudouaou",
+        "level": 2,
+        "name": {
+          "local": "بودواو",
+          "en": "Boudouaou",
+          "slug": "boudouaou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35038"
+    ],
+    "geo": {
+      "lat": "36.636",
+      "lon": "3.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boudouaou_el-kharrouba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الخروبة",
+      "en": "El Kharrouba",
+      "slug": "el-kharrouba"
+    },
+    "code": {
+      "id": "DZ035_boudouaou_el-kharrouba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boudouaou",
+      "level": 2,
+      "name": {
+        "local": "بودواو",
+        "en": "Boudouaou",
+        "slug": "boudouaou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boudouaou",
+        "level": 2,
+        "name": {
+          "local": "بودواو",
+          "en": "Boudouaou",
+          "slug": "boudouaou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.612",
+      "lon": "3.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_boudouaou_ouled-hedadj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد هداج",
+      "en": "Ouled Hedadj",
+      "slug": "ouled-hedadj"
+    },
+    "code": {
+      "id": "DZ035_boudouaou_ouled-hedadj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_boudouaou",
+      "level": 2,
+      "name": {
+        "local": "بودواو",
+        "en": "Boudouaou",
+        "slug": "boudouaou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_boudouaou",
+        "level": 2,
+        "name": {
+          "local": "بودواو",
+          "en": "Boudouaou",
+          "slug": "boudouaou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35052"
+    ],
+    "geo": {
+      "lat": "36.681",
+      "lon": "3.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

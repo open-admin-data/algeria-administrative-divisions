@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ047_bounoura_bounoura",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بونورة",
+      "en": "Bounoura",
+      "slug": "bounoura"
+    },
+    "code": {
+      "id": "DZ047_bounoura_bounoura",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_bounoura",
+      "level": 2,
+      "name": {
+        "local": "بونورة",
+        "en": "Bounoura",
+        "slug": "bounoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_bounoura",
+        "level": 2,
+        "name": {
+          "local": "بونورة",
+          "en": "Bounoura",
+          "slug": "bounoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47005"
+    ],
+    "geo": {
+      "lat": "32.534",
+      "lon": "3.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_bounoura_el-atteuf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العطف",
+      "en": "El Atteuf",
+      "slug": "el-atteuf"
+    },
+    "code": {
+      "id": "DZ047_bounoura_el-atteuf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_bounoura",
+      "level": 2,
+      "name": {
+        "local": "بونورة",
+        "en": "Bounoura",
+        "slug": "bounoura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_bounoura",
+        "level": 2,
+        "name": {
+          "local": "بونورة",
+          "en": "Bounoura",
+          "slug": "bounoura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47012"
+    ],
+    "geo": {
+      "lat": "32.51",
+      "lon": "3.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

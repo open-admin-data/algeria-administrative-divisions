@@ -1,0 +1,358 @@
+# Batna — Algeria Administrative Divisions
+
+> 21 dairas, 61 communes
+> Code: DZ005
+> Coordinates: 35.341, 5.731
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين جاسر (Ain Djasser)
+
+Code: DZ005_ain-djasser, Coordinates: 35.788, 3.503
+Communes: 2
+
+#### عين جاسر (Ain Djasser)
+
+Code: DZ005_ain-djasser_ain-djasser, Postal: 05032, Coordinates: 35.835, 5.985
+
+#### الحاسي (El Hassi)
+
+Code: DZ005_ain-djasser_el-hassi, Postal: 05116, Coordinates: 35.741, 1.02
+
+### عين التوتة (Ain Touta)
+
+Code: DZ005_ain-touta, Coordinates: 35.376, 5.902
+Communes: 4
+
+#### عين التوتة (Ain Touta)
+
+Code: DZ005_ain-touta_ain-touta, Postal: 05002, Coordinates: 35.367, 5.883
+
+#### بني فضالة الحقانية (Beni Foudhala El Hakania)
+
+Code: DZ005_ain-touta_beni-foudhala-el-hakania, Postal: 05141, Coordinates: 35.381, 6.063
+
+#### معافة (Maafa)
+
+Code: DZ005_ain-touta_maafa, Postal: 05123, Coordinates: 35.279, 5.882
+
+#### أولاد عوف (Ouled Aouf)
+
+Code: DZ005_ain-touta_ouled-aouf, Postal: 05122, Coordinates: 35.476, 5.78
+
+### أريس (Arris)
+
+Code: DZ005_arris, Coordinates: 35.252, 6.309
+Communes: 2
+
+#### أريس (Arris)
+
+Code: DZ005_arris_arris, Postal: 05007, Coordinates: 35.315, 6.369
+
+#### تيغانمين (Tighanimine)
+
+Code: DZ005_arris_tighanimine, Postal: 05060, Coordinates: 35.188, 6.249
+
+### بريكة (Barika)
+
+Code: DZ005_barika, Coordinates: 35.276, 5.319
+Communes: 3
+
+#### بريكة (Barika)
+
+Code: DZ005_barika_barika, Postal: 05001, Coordinates: 35.374, 5.288
+
+#### بيطام (Bitam)
+
+Code: DZ005_barika_bitam, Postal: 05045, Coordinates: 35.177, 5.35
+
+#### إمدوكل (M Doukal)
+
+Code: DZ005_barika_m-doukal, Postal: 05037, Coordinates: 35.276, 5.319
+
+### باتنة (Batna)
+
+Code: DZ005_batna, Coordinates: 35.575, 6.141
+Communes: 3
+
+#### باتنة (Batna)
+
+Code: DZ005_batna_batna, Postal: 05000, Coordinates: 35.58, 6.166
+
+#### فسديس (Fesdis)
+
+Code: DZ005_batna_fesdis, Postal: 05077, Coordinates: 35.62, 6.223
+
+#### وادي الشعبة (Oued Chaaba)
+
+Code: DZ005_batna_oued-chaaba, Postal: 05054, Coordinates: 35.526, 6.035
+
+### بوزينة (Bouzina)
+
+Code: DZ005_bouzina, Coordinates: 35.597, 3.784
+Communes: 2
+
+#### بوزينة (Bouzina)
+
+Code: DZ005_bouzina_bouzina, Postal: 05041, Coordinates: 35.28, 6.107
+
+#### لارباع (Larbaa)
+
+Code: DZ005_bouzina_larbaa, Postal: 09002, Coordinates: 35.914, 1.462
+
+### الشمرة (Chemora)
+
+Code: DZ005_chemora, Coordinates: 35.633, 6.608
+Communes: 2
+
+#### بولهيلات (Boulhilat)
+
+Code: DZ005_chemora_boulhilat, Postal: 05062, Coordinates: 35.633, 6.608
+
+#### الشمرة (Chemora)
+
+Code: DZ005_chemora_chemora, Postal: 05039, Coordinates: 35.633, 6.608
+
+### الجزار (Djezzar)
+
+Code: DZ005_djezzar, Coordinates: 35.492, 5.246
+Communes: 3
+
+#### عزيل عبد القادر (Azil Abedelkader)
+
+Code: DZ005_djezzar_azil-abedelkader, Postal: 05087, Coordinates: 35.492, 5.246
+
+#### الجزار (Djezzar)
+
+Code: DZ005_djezzar_djezzar, Postal: 05046, Coordinates: 35.517, 5.318
+
+#### أولاد عمار (Ouled Ammar)
+
+Code: DZ005_djezzar_ouled-ammar, Postal: 05121, Coordinates: 35.466, 5.174
+
+### المعذر (El Madher)
+
+Code: DZ005_el-madher, Coordinates: 35.707, 6.396
+Communes: 4
+
+#### عين ياقوت (Ain Yagout)
+
+Code: DZ005_el-madher_ain-yagout, Postal: 05031, Coordinates: 35.788, 6.418
+
+#### بومية (Boumia)
+
+Code: DZ005_el-madher_boumia, Postal: 05104, Coordinates: 35.709, 6.468
+
+#### جرمة (Djerma)
+
+Code: DZ005_el-madher_djerma, Postal: 05105, Coordinates: 35.688, 6.292
+
+#### المعذر (El Madher)
+
+Code: DZ005_el-madher_el-madher, Postal: 05015, Coordinates: 35.642, 6.408
+
+### إشمول (Ichemoul)
+
+Code: DZ005_ichemoul, Coordinates: 35.349, 6.49
+Communes: 3
+
+#### فم الطوب (Foum Toub)
+
+Code: DZ005_ichemoul_foum-toub, Postal: 05049, Coordinates: 35.39, 6.515
+
+#### إشمول (Ichemoul)
+
+Code: DZ005_ichemoul_ichemoul, Postal: 05026, Coordinates: 35.308, 6.465
+
+#### إينوغيسن (Inoughissen)
+
+Code: DZ005_ichemoul_inoughissen, Postal: 05083, Coordinates: 35.349, 6.49
+
+### منعة (Menaa)
+
+Code: DZ005_menaa, Coordinates: 35.108, 4.848
+Communes: 2
+
+#### منعة (Menaa)
+
+Code: DZ005_menaa_menaa, Postal: 05100, Coordinates: 35.135, 3.719
+
+#### تغرغار (Tigharghar)
+
+Code: DZ005_menaa_tigharghar, Postal: 05059, Coordinates: 35.08, 5.978
+
+### مروانة (Merouana)
+
+Code: DZ005_merouana, Coordinates: 35.615, 5.95
+Communes: 4
+
+#### حيدوسة (Hidoussa)
+
+Code: DZ005_merouana_hidoussa, Postal: 05033, Coordinates: 35.531, 5.918
+
+#### قصر بلزمة (Ksar Bellezma)
+
+Code: DZ005_merouana_ksar-bellezma, Postal: 05047, Coordinates: 35.615, 5.95
+
+#### مروانة (Merouana)
+
+Code: DZ005_merouana_merouana, Postal: 05013, Coordinates: 35.644, 5.908
+
+#### وادي الماء (Oued El Ma)
+
+Code: DZ005_merouana_oued-el-ma, Postal: 05016, Coordinates: 35.671, 6.025
+
+### نقاوس (N&#39;gaous)
+
+Code: DZ005_ngaous, Coordinates: 35.429, 5.582
+Communes: 3
+
+#### بومقر (Boumagueur)
+
+Code: DZ005_ngaous_boumagueur, Postal: 05057, Coordinates: 35.429, 5.582
+
+#### نقاوس (N Gaous)
+
+Code: DZ005_ngaous_n-gaous, Postal: 05004, Coordinates: 35.429, 5.582
+
+#### سفيان (Sefiane)
+
+Code: DZ005_ngaous_sefiane, Postal: 05064, Coordinates: 35.429, 5.582
+
+### أولاد سي سليمان (Ouled Si Slimane)
+
+Code: DZ005_ouled-si-slimane, Coordinates: 35.567, 5.742
+Communes: 3
+
+#### لمسان (Lemcene)
+
+Code: DZ005_ouled-si-slimane_lemcene, Coordinates: 35.567, 5.742
+
+#### أولاد سي سليمان (Ouled Si Slimane)
+
+Code: DZ005_ouled-si-slimane_ouled-si-slimane, Postal: 05066, Coordinates: 35.569, 5.684
+
+#### تاكسلانت (Taxlent)
+
+Code: DZ005_ouled-si-slimane_taxlent, Postal: 05055, Coordinates: 35.564, 5.799
+
+### رأس العيون (Ras El Aioun)
+
+Code: DZ005_ras-el-aioun, Coordinates: 35.688, 5.574
+Communes: 6
+
+#### القصبات (Gosbat)
+
+Code: DZ005_ras-el-aioun_gosbat, Postal: 05090, Coordinates: 35.623, 5.472
+
+#### القيقبة (Guigba)
+
+Code: DZ005_ras-el-aioun_guigba, Postal: 05067, Coordinates: 35.744, 5.563
+
+#### أولاد سلام (Ouled Sellem)
+
+Code: DZ005_ras-el-aioun_ouled-sellem, Postal: 05044, Coordinates: 35.688, 5.574
+
+#### الرحبات (Rahbat)
+
+Code: DZ005_ras-el-aioun_rahbat, Postal: 05091, Coordinates: 35.727, 5.659
+
+#### رأس العيون (Ras El Aioun)
+
+Code: DZ005_ras-el-aioun_ras-el-aioun, Postal: 05009, Coordinates: 35.656, 5.601
+
+#### تالخمت (Talkhamt)
+
+Code: DZ005_ras-el-aioun_talkhamt, Coordinates: 35.688, 5.574
+
+### سقانة (Seggana)
+
+Code: DZ005_seggana, Coordinates: 35.328, 5.634
+Communes: 2
+
+#### سقانة (Seggana)
+
+Code: DZ005_seggana_seggana, Postal: 05027, Coordinates: 35.341, 5.553
+
+#### تيلاطو (Tilatou)
+
+Code: DZ005_seggana_tilatou, Postal: 05127, Coordinates: 35.315, 5.715
+
+### سريانة (Seriana)
+
+Code: DZ005_seriana, Coordinates: 35.764, 6.235
+Communes: 3
+
+#### لازرو (Lazrou)
+
+Code: DZ005_seriana_lazrou, Postal: 05117, Coordinates: 35.808, 6.263
+
+#### سريانة (Seriana)
+
+Code: DZ005_seriana_seriana, Postal: 05025, Coordinates: 35.719, 6.207
+
+#### زانة البيضاء (Zanet El Beida)
+
+Code: DZ005_seriana_zanet-el-beida, Postal: 05071, Coordinates: 35.764, 6.235
+
+### تازولت (Tazoult)
+
+Code: DZ005_tazoult, Coordinates: 35.51, 6.307
+Communes: 2
+
+#### عيون العصافير (Ouyoun El Assafir)
+
+Code: DZ005_tazoult_ouyoun-el-assafir, Postal: 05069, Coordinates: 35.55, 6.354
+
+#### تازولت (Tazoult)
+
+Code: DZ005_tazoult_tazoult, Postal: 05011, Coordinates: 35.47, 6.26
+
+### ثنية العابد (Theniet El Abed)
+
+Code: DZ005_theniet-el-abed, Coordinates: 35.321, 6.263
+Communes: 3
+
+#### شير (Chir)
+
+Code: DZ005_theniet-el-abed_chir, Postal: 05038, Coordinates: 35.22, 6.132
+
+#### وادي الطاقة (Oued Taga)
+
+Code: DZ005_theniet-el-abed_oued-taga, Postal: 05036, Coordinates: 35.422, 6.395
+
+#### ثنية العابد (Teniet El Abed)
+
+Code: DZ005_theniet-el-abed_teniet-el-abed, Postal: 05035, Coordinates: 35.321, 6.263
+
+### تيمقاد (Timgad)
+
+Code: DZ005_timgad, Coordinates: 35.543, 6.589
+Communes: 2
+
+#### أولاد فاضل (Ouled Fadel)
+
+Code: DZ005_timgad_ouled-fadel, Postal: 05063, Coordinates: 35.557, 6.678
+
+#### تيمقاد (Timgad)
+
+Code: DZ005_timgad_timgad, Postal: 05023, Coordinates: 35.529, 6.5
+
+### تكوت (Tkout)
+
+Code: DZ005_tkout, Coordinates: 35.033, 6.36
+Communes: 3
+
+#### غسيرة (Ghassira)
+
+Code: DZ005_tkout_ghassira, Postal: 05043, Coordinates: 35.064, 6.231
+
+#### كيمل (Kimmel)
+
+Code: DZ005_tkout_kimmel, Postal: 05079, Coordinates: 35.002, 6.488
+
+#### تكوت (T Kout)
+
+Code: DZ005_tkout_t-kout, Postal: 05020, Coordinates: 35.033, 6.36
+

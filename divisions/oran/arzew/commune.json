@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ031_arzew_arzew",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أرزيو",
+      "en": "Arzew",
+      "slug": "arzew"
+    },
+    "code": {
+      "id": "DZ031_arzew_arzew",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_arzew",
+      "level": 2,
+      "name": {
+        "local": "أرزيو",
+        "en": "Arzew",
+        "slug": "arzew"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_arzew",
+        "level": 2,
+        "name": {
+          "local": "أرزيو",
+          "en": "Arzew",
+          "slug": "arzew"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31004"
+    ],
+    "geo": {
+      "lat": "35.856",
+      "lon": "-0.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_arzew_sidi-ben-yebka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بن يبقى",
+      "en": "Sidi Ben Yebka",
+      "slug": "sidi-ben-yebka"
+    },
+    "code": {
+      "id": "DZ031_arzew_sidi-ben-yebka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_arzew",
+      "level": 2,
+      "name": {
+        "local": "أرزيو",
+        "en": "Arzew",
+        "slug": "arzew"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_arzew",
+        "level": 2,
+        "name": {
+          "local": "أرزيو",
+          "en": "Arzew",
+          "slug": "arzew"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31058"
+    ],
+    "geo": {
+      "lat": "35.856",
+      "lon": "-0.335"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

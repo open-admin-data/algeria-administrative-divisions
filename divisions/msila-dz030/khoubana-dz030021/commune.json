@@ -1,0 +1,45 @@
+{
+  "id": "DZ030021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khoubana",
+    "en": "Khoubana",
+    "slug": "khoubana-dz030021"
+  },
+  "code": {
+    "id": "DZ030021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.326",
+    "lon": "4.481"
+  },
+  "metadata": {},
+  "source": {}
+}

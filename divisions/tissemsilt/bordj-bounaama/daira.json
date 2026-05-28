@@ -1,0 +1,47 @@
+{
+  "id": "DZ038_bordj-bounaama",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "برج بونعامة",
+    "en": "Bordj Bounaama",
+    "slug": "bordj-bounaama"
+  },
+  "code": {
+    "id": "DZ038_bordj-bounaama",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.833",
+    "lon": "1.714"
+  },
+  "metadata": {},
+  "source": {}
+}

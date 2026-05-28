@@ -1,0 +1,45 @@
+{
+  "id": "DZ017004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boussemghoun",
+    "en": "Boussemghoun",
+    "slug": "boussemghoun-dz017004"
+  },
+  "code": {
+    "id": "DZ017004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.814",
+    "lon": "0.051"
+  },
+  "metadata": {},
+  "source": {}
+}

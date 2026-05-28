@@ -1,0 +1,45 @@
+{
+  "id": "DZ027064",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Zoubiria",
+    "en": "Zoubiria",
+    "slug": "zoubiria-dz027064"
+  },
+  "code": {
+    "id": "DZ027064",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.07",
+    "lon": "2.86"
+  },
+  "metadata": {},
+  "source": {}
+}

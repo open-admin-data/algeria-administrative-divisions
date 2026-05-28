@@ -1,0 +1,45 @@
+{
+  "id": "DZ043005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Zarit",
+    "en": "Ain Zarit",
+    "slug": "ain-zarit-dz043005"
+  },
+  "code": {
+    "id": "DZ043005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.358",
+    "lon": "1.72"
+  },
+  "metadata": {},
+  "source": {}
+}

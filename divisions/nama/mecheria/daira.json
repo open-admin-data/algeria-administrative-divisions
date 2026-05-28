@@ -1,0 +1,47 @@
+{
+  "id": "DZ045_mecheria",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "المشرية",
+    "en": "Mecheria",
+    "slug": "mecheria"
+  },
+  "code": {
+    "id": "DZ045_mecheria",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naâma",
+      "slug": "nama"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naâma",
+        "slug": "nama"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.164",
+    "lon": "-0.95"
+  },
+  "metadata": {},
+  "source": {}
+}

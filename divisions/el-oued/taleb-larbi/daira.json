@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_taleb-larbi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الطالب العربي",
+    "en": "Taleb Larbi",
+    "slug": "taleb-larbi"
+  },
+  "code": {
+    "id": "DZ039_taleb-larbi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.708",
+    "lon": "7.451"
+  },
+  "metadata": {},
+  "source": {}
+}

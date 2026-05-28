@@ -1,0 +1,47 @@
+{
+  "id": "DZ007_ourlal",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أورلال",
+    "en": "Ourlal",
+    "slug": "ourlal"
+  },
+  "code": {
+    "id": "DZ007_ourlal",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.57",
+    "lon": "5.532"
+  },
+  "metadata": {},
+  "source": {}
+}

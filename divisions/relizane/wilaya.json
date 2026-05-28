@@ -1,0 +1,30 @@
+{
+  "id": "DZ048",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "غليزان",
+    "en": "Relizane",
+    "slug": "relizane"
+  },
+  "code": {
+    "id": "DZ048",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 13,
+    "commune": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.839",
+    "lon": "0.911"
+  },
+  "metadata": {},
+  "source": {}
+}

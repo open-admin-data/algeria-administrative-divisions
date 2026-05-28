@@ -1,0 +1,294 @@
+# Alger — Algeria Administrative Divisions
+
+> 57 communes
+> Code: DZ004
+> Coordinates: 36.702, 3.032
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Benian
+
+Code: DZ004001, Coordinates: 36.796, 2.929
+
+
+### Ain Taya
+
+Code: DZ004002, Coordinates: 36.79, 3.29
+
+
+### Alger
+
+Code: DZ004003, Coordinates: 36.774, 3.055
+
+
+### Bab El Oued
+
+Code: DZ004004, Coordinates: 36.794, 3.051
+
+
+### Bab Ezzouar
+
+Code: DZ004009, Coordinates: 36.725, 3.185
+
+
+### Baba Hassen
+
+Code: DZ004005, Coordinates: 36.697, 2.974
+
+
+### Bach Djerrah
+
+Code: DZ004006, Coordinates: 36.726, 3.114
+
+
+### Bains Romains
+
+Code: DZ004007, Coordinates: 36.803, 2.977
+
+
+### Baraki
+
+Code: DZ004008, Coordinates: 36.672, 3.101
+
+
+### Ben Aknoun
+
+Code: DZ004010, Coordinates: 36.76, 3.013
+
+
+### Beni Messous
+
+Code: DZ004011, Coordinates: 36.788, 2.975
+
+
+### Bir Khadem
+
+Code: DZ004012, Coordinates: 36.718, 3.047
+
+
+### Bir Mourad Rais
+
+Code: DZ004013, Coordinates: 36.734, 3.053
+
+
+### Birtouta
+
+Code: DZ004014, Coordinates: 36.647, 3.028
+
+
+### Bologhine Ibn Ziri
+
+Code: DZ004015, Coordinates: 36.805, 3.036
+
+
+### Bordj El Bahri
+
+Code: DZ004016, Coordinates: 36.791, 3.254
+
+
+### Bordj El Kiffan
+
+Code: DZ004017, Coordinates: 36.756, 3.223
+
+
+### Bourouba
+
+Code: DZ004018, Coordinates: 36.717, 3.119
+
+
+### Bouzareah
+
+Code: DZ004019, Coordinates: 36.791, 3.008
+
+
+### Casbah
+
+Code: DZ004020, Coordinates: 36.786, 3.058
+
+
+### Cheraga
+
+Code: DZ004021, Coordinates: 36.764, 2.935
+
+
+### Dar El Beida
+
+Code: DZ004022, Coordinates: 36.704, 3.228
+
+
+### Dely Brahim
+
+Code: DZ004023, Coordinates: 36.759, 2.987
+
+
+### Djisr Ksentina
+
+Code: DZ004024, Coordinates: 36.695, 3.074
+
+
+### Douera
+
+Code: DZ004025, Coordinates: 36.673, 2.945
+
+
+### Draria
+
+Code: DZ004026, Coordinates: 36.716, 3.001
+
+
+### El Achour
+
+Code: DZ004027, Coordinates: 36.729, 2.977
+
+
+### El Biar
+
+Code: DZ004028, Coordinates: 36.769, 3.031
+
+
+### El Harrach
+
+Code: DZ004029, Coordinates: 36.714, 3.14
+
+
+### El Madania
+
+Code: DZ004030, Coordinates: 36.745, 3.07
+
+
+### El Magharia
+
+Code: DZ004031, Coordinates: 36.733, 3.108
+
+
+### El Marsa
+
+Code: DZ004032, Coordinates: 36.808, 3.244
+
+
+### El Mouradia
+
+Code: DZ004033, Coordinates: 36.752, 3.05
+
+
+### Hamma Anassers
+
+Code: DZ004034, Coordinates: 36.753, 3.07
+
+
+### Haraoua
+
+Code: DZ004035, Coordinates: 36.769, 3.309
+
+
+### Hussein Dey
+
+Code: DZ004036, Coordinates: 36.74, 3.105
+
+
+### Hydra
+
+Code: DZ004037, Coordinates: 36.744, 3.025
+
+
+### Khraissia
+
+Code: DZ004038, Coordinates: 36.672, 2.993
+
+
+### Kouba
+
+Code: DZ004039, Coordinates: 36.727, 3.079
+
+
+### Les Eucalyptus
+
+Code: DZ004040, Coordinates: 36.67, 3.167
+
+
+### Mahelma
+
+Code: DZ004041, Coordinates: 36.674, 2.882
+
+
+### Mohammadia
+
+Code: DZ004042, Coordinates: 36.737, 3.155
+
+
+### Oued Koriche
+
+Code: DZ004043, Coordinates: 36.787, 3.045
+
+
+### Oued Smar
+
+Code: DZ004044, Coordinates: 36.711, 3.201
+
+
+### Ouled Chebel
+
+Code: DZ004045, Coordinates: 36.612, 2.994
+
+
+### Ouled Fayet
+
+Code: DZ004046, Coordinates: 36.726, 2.94
+
+
+### Rahmania
+
+Code: DZ004047, Coordinates: 36.683, 2.91
+
+
+### Rais Hamidou
+
+Code: DZ004048, Coordinates: 36.809, 3.006
+
+
+### Reghaia
+
+Code: DZ004049, Coordinates: 36.752, 3.357
+
+
+### Rouiba
+
+Code: DZ004050, Coordinates: 36.741, 3.283
+
+
+### Saoula
+
+Code: DZ004051, Coordinates: 36.69, 3.031
+
+
+### Sidi M&#39;Hamed
+
+Code: DZ004052, Coordinates: 36.764, 3.055
+
+
+### Sidi Moussa
+
+Code: DZ004053, Coordinates: 36.618, 3.097
+
+
+### Souidania
+
+Code: DZ004054, Coordinates: 36.715, 2.902
+
+
+### Staoueli
+
+Code: DZ004055, Coordinates: 36.744, 2.874
+
+
+### Tassala El Merdja
+
+Code: DZ004056, Coordinates: 36.628, 2.918
+
+
+### Zeralda
+
+Code: DZ004057, Coordinates: 36.696, 2.835
+
+

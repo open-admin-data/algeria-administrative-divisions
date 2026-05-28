@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ024_khezaras_ain-sandel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين صندل",
+      "en": "Ain Sandel",
+      "slug": "ain-sandel"
+    },
+    "code": {
+      "id": "DZ024_khezaras_ain-sandel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_khezaras",
+      "level": 2,
+      "name": {
+        "local": "خزارة",
+        "en": "Khezaras",
+        "slug": "khezaras"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_khezaras",
+        "level": 2,
+        "name": {
+          "local": "خزارة",
+          "en": "Khezaras",
+          "slug": "khezaras"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24032"
+    ],
+    "geo": {
+      "lat": "36.267",
+      "lon": "7.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_khezaras_bou-hachana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحشانة",
+      "en": "Bou Hachana",
+      "slug": "bou-hachana"
+    },
+    "code": {
+      "id": "DZ024_khezaras_bou-hachana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_khezaras",
+      "level": 2,
+      "name": {
+        "local": "خزارة",
+        "en": "Khezaras",
+        "slug": "khezaras"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_khezaras",
+        "level": 2,
+        "name": {
+          "local": "خزارة",
+          "en": "Khezaras",
+          "slug": "khezaras"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24037"
+    ],
+    "geo": {
+      "lat": "36.267",
+      "lon": "7.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_khezaras_khezaras",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لخزارة",
+      "en": "Khezaras",
+      "slug": "khezaras"
+    },
+    "code": {
+      "id": "DZ024_khezaras_khezaras",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_khezaras",
+      "level": 2,
+      "name": {
+        "local": "خزارة",
+        "en": "Khezaras",
+        "slug": "khezaras"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_khezaras",
+        "level": 2,
+        "name": {
+          "local": "خزارة",
+          "en": "Khezaras",
+          "slug": "khezaras"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.267",
+      "lon": "7.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

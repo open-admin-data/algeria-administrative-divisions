@@ -1,0 +1,174 @@
+# Biskra — Algeria Administrative Divisions
+
+> 33 communes
+> Code: DZ009
+> Coordinates: 34.323, 4.714
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Naga
+
+Code: DZ009001, Coordinates: 34.65, 6.146
+
+
+### Ain Zaatout
+
+Code: DZ009002, Coordinates: 35.171, 5.834
+
+
+### Besbes
+
+Code: DZ009003, Coordinates: 34.238, 4.936
+
+
+### Biskra
+
+Code: DZ009004, Coordinates: 34.852, 5.726
+
+
+### Bordj Ben Azzouz
+
+Code: DZ009005, Coordinates: 34.731, 5.348
+
+
+### Bouchagroun
+
+Code: DZ009006, Coordinates: 34.741, 5.475
+
+
+### Branis
+
+Code: DZ009007, Coordinates: 34.974, 5.786
+
+
+### Chetma
+
+Code: DZ009008, Coordinates: 34.868, 5.839
+
+
+### Djemorah
+
+Code: DZ009009, Coordinates: 35.102, 5.697
+
+
+### Doucen
+
+Code: DZ009010, Coordinates: 34.615, 5.113
+
+
+### Ech Chaiba
+
+Code: DZ009011, Coordinates: 34.629, 4.752
+
+
+### El Feidh
+
+Code: DZ009012, Coordinates: 34.501, 6.465
+
+
+### El Ghrous
+
+Code: DZ009013, Coordinates: 34.722, 5.242
+
+
+### El Hadjeb
+
+Code: DZ009014, Coordinates: 34.8, 5.6
+
+
+### El Haouch
+
+Code: DZ009015, Coordinates: 34.558, 6.045
+
+
+### El Kantara
+
+Code: DZ009016, Coordinates: 35.206, 5.695
+
+
+### El Outaya
+
+Code: DZ009017, Coordinates: 34.98, 5.553
+
+
+### Foughala
+
+Code: DZ009018, Coordinates: 34.764, 5.304
+
+
+### Khangat Sidi Nadji
+
+Code: DZ009019, Coordinates: 34.786, 6.725
+
+
+### Lichana
+
+Code: DZ009020, Coordinates: 34.762, 5.43
+
+
+### Lioua
+
+Code: DZ009021, Coordinates: 34.564, 5.356
+
+
+### M&#39;Chouneche
+
+Code: DZ009022, Coordinates: 34.909, 6.001
+
+
+### M&#39;Ziraa
+
+Code: DZ009023, Coordinates: 34.889, 6.27
+
+
+### Mekhadma
+
+Code: DZ009024, Coordinates: 34.559, 5.455
+
+
+### Mlili
+
+Code: DZ009025, Coordinates: 34.581, 5.621
+
+
+### Oughlal
+
+Code: DZ009026, Coordinates: 34.583, 5.526
+
+
+### Ouled Djellal
+
+Code: DZ009027, Coordinates: 34.425, 5.101
+
+
+### Oumache
+
+Code: DZ009028, Coordinates: 34.587, 5.786
+
+
+### Ras El Miaad
+
+Code: DZ009029, Coordinates: 34.014, 4.583
+
+
+### Sidi Khaled
+
+Code: DZ009030, Coordinates: 34.389, 4.967
+
+
+### Sidi Okba
+
+Code: DZ009031, Coordinates: 34.779, 5.908
+
+
+### Tolga
+
+Code: DZ009032, Coordinates: 34.889, 5.242
+
+
+### Zeribet El Oued
+
+Code: DZ009033, Coordinates: 34.684, 6.517
+
+

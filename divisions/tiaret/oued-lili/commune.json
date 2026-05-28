@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_oued-lili_oued-lilli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي ليلي",
+      "en": "Oued Lilli",
+      "slug": "oued-lilli"
+    },
+    "code": {
+      "id": "DZ014_oued-lili_oued-lilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_oued-lili",
+      "level": 2,
+      "name": {
+        "local": "وادي ليلي",
+        "en": "Oued Lili",
+        "slug": "oued-lili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_oued-lili",
+        "level": 2,
+        "name": {
+          "local": "وادي ليلي",
+          "en": "Oued Lili",
+          "slug": "oued-lili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14014"
+    ],
+    "geo": {
+      "lat": "35.51",
+      "lon": "1.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_oued-lili_sidi-ali-mellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي علي ملال",
+      "en": "Sidi Ali Mellal",
+      "slug": "sidi-ali-mellal"
+    },
+    "code": {
+      "id": "DZ014_oued-lili_sidi-ali-mellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_oued-lili",
+      "level": 2,
+      "name": {
+        "local": "وادي ليلي",
+        "en": "Oued Lili",
+        "slug": "oued-lili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_oued-lili",
+        "level": 2,
+        "name": {
+          "local": "وادي ليلي",
+          "en": "Oued Lili",
+          "slug": "oued-lili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14064"
+    ],
+    "geo": {
+      "lat": "35.603",
+      "lon": "1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_oued-lili_tidda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيدة",
+      "en": "Tidda",
+      "slug": "tidda"
+    },
+    "code": {
+      "id": "DZ014_oued-lili_tidda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_oued-lili",
+      "level": 2,
+      "name": {
+        "local": "وادي ليلي",
+        "en": "Oued Lili",
+        "slug": "oued-lili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_oued-lili",
+        "level": 2,
+        "name": {
+          "local": "وادي ليلي",
+          "en": "Oued Lili",
+          "slug": "oued-lili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14071"
+    ],
+    "geo": {
+      "lat": "35.605",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

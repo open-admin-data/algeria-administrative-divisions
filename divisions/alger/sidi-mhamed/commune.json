@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ016_sidi-mhamed_alger-centre",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الجزائر الوسطى",
+      "en": "Alger Centre",
+      "slug": "alger-centre"
+    },
+    "code": {
+      "id": "DZ016_sidi-mhamed_alger-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_sidi-mhamed",
+      "level": 2,
+      "name": {
+        "local": "سيدي امحمد",
+        "en": "Sidi M'hamed",
+        "slug": "sidi-mhamed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_sidi-mhamed",
+        "level": 2,
+        "name": {
+          "local": "سيدي امحمد",
+          "en": "Sidi M'hamed",
+          "slug": "sidi-mhamed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16000"
+    ],
+    "geo": {
+      "lat": "36.091",
+      "lon": "3.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_sidi-mhamed_el-madania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المدنية",
+      "en": "El Madania",
+      "slug": "el-madania"
+    },
+    "code": {
+      "id": "DZ016_sidi-mhamed_el-madania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_sidi-mhamed",
+      "level": 2,
+      "name": {
+        "local": "سيدي امحمد",
+        "en": "Sidi M'hamed",
+        "slug": "sidi-mhamed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_sidi-mhamed",
+        "level": 2,
+        "name": {
+          "local": "سيدي امحمد",
+          "en": "Sidi M'hamed",
+          "slug": "sidi-mhamed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16015"
+    ],
+    "geo": {
+      "lat": "36.745",
+      "lon": "3.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_sidi-mhamed_el-mouradia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرادية",
+      "en": "El Mouradia",
+      "slug": "el-mouradia"
+    },
+    "code": {
+      "id": "DZ016_sidi-mhamed_el-mouradia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_sidi-mhamed",
+      "level": 2,
+      "name": {
+        "local": "سيدي امحمد",
+        "en": "Sidi M'hamed",
+        "slug": "sidi-mhamed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_sidi-mhamed",
+        "level": 2,
+        "name": {
+          "local": "سيدي امحمد",
+          "en": "Sidi M'hamed",
+          "slug": "sidi-mhamed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16035"
+    ],
+    "geo": {
+      "lat": "36.752",
+      "lon": "3.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_sidi-mhamed_sidi-mhamed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي امحمد",
+      "en": "Sidi M'hamed",
+      "slug": "sidi-mhamed"
+    },
+    "code": {
+      "id": "DZ016_sidi-mhamed_sidi-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_sidi-mhamed",
+      "level": 2,
+      "name": {
+        "local": "سيدي امحمد",
+        "en": "Sidi M'hamed",
+        "slug": "sidi-mhamed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_sidi-mhamed",
+        "level": 2,
+        "name": {
+          "local": "سيدي امحمد",
+          "en": "Sidi M'hamed",
+          "slug": "sidi-mhamed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16002"
+    ],
+    "geo": {
+      "lat": "34.775",
+      "lon": "4.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

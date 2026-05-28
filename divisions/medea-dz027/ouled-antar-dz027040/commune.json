@@ -1,0 +1,45 @@
+{
+  "id": "DZ027040",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Antar",
+    "en": "Ouled Antar",
+    "slug": "ouled-antar-dz027040"
+  },
+  "code": {
+    "id": "DZ027040",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.957",
+    "lon": "2.607"
+  },
+  "metadata": {},
+  "source": {}
+}

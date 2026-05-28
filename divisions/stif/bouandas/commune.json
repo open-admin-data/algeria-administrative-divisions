@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_bouandas_ait-naoual-mezada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت نوال مزادة",
+      "en": "Ait Naoual Mezada",
+      "slug": "ait-naoual-mezada"
+    },
+    "code": {
+      "id": "DZ019_bouandas_ait-naoual-mezada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bouandas",
+      "level": 2,
+      "name": {
+        "local": "بوعنداس",
+        "en": "Bouandas",
+        "slug": "bouandas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bouandas",
+        "level": 2,
+        "name": {
+          "local": "بوعنداس",
+          "en": "Bouandas",
+          "slug": "bouandas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19076"
+    ],
+    "geo": {
+      "lat": "36.513",
+      "lon": "5.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bouandas_ait-tizi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ايت تيزي",
+      "en": "Ait-Tizi",
+      "slug": "ait-tizi"
+    },
+    "code": {
+      "id": "DZ019_bouandas_ait-tizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bouandas",
+      "level": 2,
+      "name": {
+        "local": "بوعنداس",
+        "en": "Bouandas",
+        "slug": "bouandas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bouandas",
+        "level": 2,
+        "name": {
+          "local": "بوعنداس",
+          "en": "Bouandas",
+          "slug": "bouandas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19077"
+    ],
+    "geo": {
+      "lat": "36.538",
+      "lon": "5.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bouandas_bouandas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعنداس",
+      "en": "Bouandas",
+      "slug": "bouandas"
+    },
+    "code": {
+      "id": "DZ019_bouandas_bouandas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bouandas",
+      "level": 2,
+      "name": {
+        "local": "بوعنداس",
+        "en": "Bouandas",
+        "slug": "bouandas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bouandas",
+        "level": 2,
+        "name": {
+          "local": "بوعنداس",
+          "en": "Bouandas",
+          "slug": "bouandas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19012"
+    ],
+    "geo": {
+      "lat": "36.506",
+      "lon": "5.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_bouandas_bousselam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوسلام",
+      "en": "Bousselam",
+      "slug": "bousselam"
+    },
+    "code": {
+      "id": "DZ019_bouandas_bousselam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_bouandas",
+      "level": 2,
+      "name": {
+        "local": "بوعنداس",
+        "en": "Bouandas",
+        "slug": "bouandas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_bouandas",
+        "level": 2,
+        "name": {
+          "local": "بوعنداس",
+          "en": "Bouandas",
+          "slug": "bouandas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19052"
+    ],
+    "geo": {
+      "lat": "36.496",
+      "lon": "5.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

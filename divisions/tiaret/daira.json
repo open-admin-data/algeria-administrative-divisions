@@ -1,0 +1,660 @@
+[
+  {
+    "id": "DZ014_ain-deheb",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين الذهب",
+      "en": "Ain Deheb",
+      "slug": "ain-deheb"
+    },
+    "code": {
+      "id": "DZ014_ain-deheb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.659",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ain-kermes",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين كرمس",
+      "en": "Ain Kermes",
+      "slug": "ain-kermes"
+    },
+    "code": {
+      "id": "DZ014_ain-kermes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.786",
+      "lon": "1.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_dahmouni",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "دحموني",
+      "en": "Dahmouni",
+      "slug": "dahmouni"
+    },
+    "code": {
+      "id": "DZ014_dahmouni",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.393",
+      "lon": "1.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_frenda",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فرندة",
+      "en": "Frenda",
+      "slug": "frenda"
+    },
+    "code": {
+      "id": "DZ014_frenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.11",
+      "lon": "0.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_hamadia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حمادية",
+      "en": "Hamadia",
+      "slug": "hamadia"
+    },
+    "code": {
+      "id": "DZ014_hamadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.448",
+      "lon": "1.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_ksar-chellala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "قصر الشلالة",
+      "en": "Ksar Chellala",
+      "slug": "ksar-chellala"
+    },
+    "code": {
+      "id": "DZ014_ksar-chellala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.23",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mahdia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مهدية",
+      "en": "Mahdia",
+      "slug": "mahdia"
+    },
+    "code": {
+      "id": "DZ014_mahdia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.379",
+      "lon": "1.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_mechraa-sfa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مشرع الصفا",
+      "en": "Mechraa Sfa",
+      "slug": "mechraa-sfa"
+    },
+    "code": {
+      "id": "DZ014_mechraa-sfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.356",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_medroussa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مدروسة",
+      "en": "Medroussa",
+      "slug": "medroussa"
+    },
+    "code": {
+      "id": "DZ014_medroussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.222",
+      "lon": "1.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_meghila",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مغيلة",
+      "en": "Meghila",
+      "slug": "meghila"
+    },
+    "code": {
+      "id": "DZ014_meghila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.596",
+      "lon": "1.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_oued-lili",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي ليلي",
+      "en": "Oued Lili",
+      "slug": "oued-lili"
+    },
+    "code": {
+      "id": "DZ014_oued-lili",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.573",
+      "lon": "1.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_rahouia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "رحوية",
+      "en": "Rahouia",
+      "slug": "rahouia"
+    },
+    "code": {
+      "id": "DZ014_rahouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.492",
+      "lon": "1.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_sougueur",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "السوقر",
+      "en": "Sougueur",
+      "slug": "sougueur"
+    },
+    "code": {
+      "id": "DZ014_sougueur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.073",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_tiaret",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    },
+    "code": {
+      "id": "DZ014_tiaret",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.349",
+      "lon": "1.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

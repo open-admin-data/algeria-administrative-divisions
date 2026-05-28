@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ023_el-hadjar_el-hadjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحجار",
+      "en": "El Hadjar",
+      "slug": "el-hadjar"
+    },
+    "code": {
+      "id": "DZ023_el-hadjar_el-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_el-hadjar",
+      "level": 2,
+      "name": {
+        "local": "الحجار",
+        "en": "El Hadjar",
+        "slug": "el-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_el-hadjar",
+        "level": 2,
+        "name": {
+          "local": "الحجار",
+          "en": "El Hadjar",
+          "slug": "el-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23004"
+    ],
+    "geo": {
+      "lat": "36.777",
+      "lon": "7.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_el-hadjar_sidi-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عمار",
+      "en": "Sidi Amar",
+      "slug": "sidi-amar"
+    },
+    "code": {
+      "id": "DZ023_el-hadjar_sidi-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_el-hadjar",
+      "level": 2,
+      "name": {
+        "local": "الحجار",
+        "en": "El Hadjar",
+        "slug": "el-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_el-hadjar",
+        "level": 2,
+        "name": {
+          "local": "الحجار",
+          "en": "El Hadjar",
+          "slug": "el-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20019"
+    ],
+    "geo": {
+      "lat": "36.56",
+      "lon": "2.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

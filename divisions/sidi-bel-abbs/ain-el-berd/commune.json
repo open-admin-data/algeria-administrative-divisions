@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_ain-el-berd_ain-el-berd",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين البرد",
+      "en": "Ain El Berd",
+      "slug": "ain-el-berd"
+    },
+    "code": {
+      "id": "DZ022_ain-el-berd_ain-el-berd",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ain-el-berd",
+      "level": 2,
+      "name": {
+        "local": "عين البرد",
+        "en": "Ain El Berd",
+        "slug": "ain-el-berd"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ain-el-berd",
+        "level": 2,
+        "name": {
+          "local": "عين البرد",
+          "en": "Ain El Berd",
+          "slug": "ain-el-berd"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22022"
+    ],
+    "geo": {
+      "lat": "35.386",
+      "lon": "-0.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ain-el-berd_makedra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مكدرة",
+      "en": "Makedra",
+      "slug": "makedra"
+    },
+    "code": {
+      "id": "DZ022_ain-el-berd_makedra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ain-el-berd",
+      "level": 2,
+      "name": {
+        "local": "عين البرد",
+        "en": "Ain El Berd",
+        "slug": "ain-el-berd"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ain-el-berd",
+        "level": 2,
+        "name": {
+          "local": "عين البرد",
+          "en": "Ain El Berd",
+          "slug": "ain-el-berd"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22051"
+    ],
+    "geo": {
+      "lat": "35.418",
+      "lon": "-0.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ain-el-berd_sidi-brahim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي ابراهيم",
+      "en": "Sidi Brahim",
+      "slug": "sidi-brahim"
+    },
+    "code": {
+      "id": "DZ022_ain-el-berd_sidi-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ain-el-berd",
+      "level": 2,
+      "name": {
+        "local": "عين البرد",
+        "en": "Ain El Berd",
+        "slug": "ain-el-berd"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ain-el-berd",
+        "level": 2,
+        "name": {
+          "local": "عين البرد",
+          "en": "Ain El Berd",
+          "slug": "ain-el-berd"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22029"
+    ],
+    "geo": {
+      "lat": "35.263",
+      "lon": "-0.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ain-el-berd_sidi-hamadouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي حمادوش",
+      "en": "Sidi Hamadouche",
+      "slug": "sidi-hamadouche"
+    },
+    "code": {
+      "id": "DZ022_ain-el-berd_sidi-hamadouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_ain-el-berd",
+      "level": 2,
+      "name": {
+        "local": "عين البرد",
+        "en": "Ain El Berd",
+        "slug": "ain-el-berd"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_ain-el-berd",
+        "level": 2,
+        "name": {
+          "local": "عين البرد",
+          "en": "Ain El Berd",
+          "slug": "ain-el-berd"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22019"
+    ],
+    "geo": {
+      "lat": "35.314",
+      "lon": "-0.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

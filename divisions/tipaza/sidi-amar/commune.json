@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ042_sidi-amar_menaceur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مناصر",
+      "en": "Menaceur",
+      "slug": "menaceur"
+    },
+    "code": {
+      "id": "DZ042_sidi-amar_menaceur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_sidi-amar",
+      "level": 2,
+      "name": {
+        "local": "سيدي أعمر",
+        "en": "Sidi Amar",
+        "slug": "sidi-amar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_sidi-amar",
+        "level": 2,
+        "name": {
+          "local": "سيدي أعمر",
+          "en": "Sidi Amar",
+          "slug": "sidi-amar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42018"
+    ],
+    "geo": {
+      "lat": "36.504",
+      "lon": "2.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_sidi-amar_nador",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الناظور",
+      "en": "Nador",
+      "slug": "nador"
+    },
+    "code": {
+      "id": "DZ042_sidi-amar_nador",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_sidi-amar",
+      "level": 2,
+      "name": {
+        "local": "سيدي أعمر",
+        "en": "Sidi Amar",
+        "slug": "sidi-amar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_sidi-amar",
+        "level": 2,
+        "name": {
+          "local": "سيدي أعمر",
+          "en": "Sidi Amar",
+          "slug": "sidi-amar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42039"
+    ],
+    "geo": {
+      "lat": "36.588",
+      "lon": "2.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_sidi-amar_sidi-amar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عامر",
+      "en": "Sidi-Amar",
+      "slug": "sidi-amar"
+    },
+    "code": {
+      "id": "DZ042_sidi-amar_sidi-amar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_sidi-amar",
+      "level": 2,
+      "name": {
+        "local": "سيدي أعمر",
+        "en": "Sidi Amar",
+        "slug": "sidi-amar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_sidi-amar",
+        "level": 2,
+        "name": {
+          "local": "سيدي أعمر",
+          "en": "Sidi Amar",
+          "slug": "sidi-amar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.56",
+      "lon": "2.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

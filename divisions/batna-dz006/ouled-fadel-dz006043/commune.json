@@ -1,0 +1,45 @@
+{
+  "id": "DZ006043",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Fadel",
+    "en": "Ouled Fadel",
+    "slug": "ouled-fadel-dz006043"
+  },
+  "code": {
+    "id": "DZ006043",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.557",
+    "lon": "6.678"
+  },
+  "metadata": {},
+  "source": {}
+}

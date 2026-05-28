@@ -1,0 +1,754 @@
+[
+  {
+    "id": "DZ029_ain-fares",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين فارس",
+      "en": "Ain Fares",
+      "slug": "ain-fares"
+    },
+    "code": {
+      "id": "DZ029_ain-fares",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.106",
+      "lon": "2.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ain-fekan",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين فكان",
+      "en": "Ain Fekan",
+      "slug": "ain-fekan"
+    },
+    "code": {
+      "id": "DZ029_ain-fekan",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.189",
+      "lon": "-0.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_aouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عوف",
+      "en": "Aouf",
+      "slug": "aouf"
+    },
+    "code": {
+      "id": "DZ029_aouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.12",
+      "lon": "0.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_bouhanifia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوحنيفية",
+      "en": "Bouhanifia",
+      "slug": "bouhanifia"
+    },
+    "code": {
+      "id": "DZ029_bouhanifia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.38",
+      "lon": "-0.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_el-bordj",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البرج",
+      "en": "El Bordj",
+      "slug": "el-bordj"
+    },
+    "code": {
+      "id": "DZ029_el-bordj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.5",
+      "lon": "0.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_ghriss",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "غريس",
+      "en": "Ghriss",
+      "slug": "ghriss"
+    },
+    "code": {
+      "id": "DZ029_ghriss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.296",
+      "lon": "0.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_hachem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحشم",
+      "en": "Hachem",
+      "slug": "hachem"
+    },
+    "code": {
+      "id": "DZ029_hachem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.365",
+      "lon": "0.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mascara",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    },
+    "code": {
+      "id": "DZ029_mascara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.387",
+      "lon": "0.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_mohammadia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المحمدية",
+      "en": "Mohammadia",
+      "slug": "mohammadia"
+    },
+    "code": {
+      "id": "DZ029_mohammadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.623",
+      "lon": "0.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oggaz",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عقاز",
+      "en": "Oggaz",
+      "slug": "oggaz"
+    },
+    "code": {
+      "id": "DZ029_oggaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.629",
+      "lon": "-0.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oued-el-abtal",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي الأبطال",
+      "en": "Oued El Abtal",
+      "slug": "oued-el-abtal"
+    },
+    "code": {
+      "id": "DZ029_oued-el-abtal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.395",
+      "lon": "0.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oued-taria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "وادي التاغية",
+      "en": "Oued Taria",
+      "slug": "oued-taria"
+    },
+    "code": {
+      "id": "DZ029_oued-taria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.198",
+      "lon": "0.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_sig",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيق",
+      "en": "Sig",
+      "slug": "sig"
+    },
+    "code": {
+      "id": "DZ029_sig",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.478",
+      "lon": "-0.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tighennif",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيغنيف",
+      "en": "Tighennif",
+      "slug": "tighennif"
+    },
+    "code": {
+      "id": "DZ029_tighennif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.402",
+      "lon": "0.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tizi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيزي",
+      "en": "Tizi",
+      "slug": "tizi"
+    },
+    "code": {
+      "id": "DZ029_tizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.33",
+      "lon": "0.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_zahana",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زهانة",
+      "en": "Zahana",
+      "slug": "zahana"
+    },
+    "code": {
+      "id": "DZ029_zahana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.468",
+      "lon": "-0.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

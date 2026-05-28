@@ -1,0 +1,45 @@
+{
+  "id": "DZ037033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ouricia",
+    "en": "El Ouricia",
+    "slug": "el-ouricia-dz037033"
+  },
+  "code": {
+    "id": "DZ037033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.272",
+    "lon": "5.402"
+  },
+  "metadata": {},
+  "source": {}
+}

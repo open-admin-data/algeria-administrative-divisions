@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_hamadia_bougara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقرة",
+      "en": "Bougara",
+      "slug": "bougara"
+    },
+    "code": {
+      "id": "DZ014_hamadia_bougara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_hamadia",
+      "level": 2,
+      "name": {
+        "local": "حمادية",
+        "en": "Hamadia",
+        "slug": "hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_hamadia",
+        "level": 2,
+        "name": {
+          "local": "حمادية",
+          "en": "Hamadia",
+          "slug": "hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09008"
+    ],
+    "geo": {
+      "lat": "35.548",
+      "lon": "1.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_hamadia_hamadia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمادية",
+      "en": "Hamadia",
+      "slug": "hamadia"
+    },
+    "code": {
+      "id": "DZ014_hamadia_hamadia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_hamadia",
+      "level": 2,
+      "name": {
+        "local": "حمادية",
+        "en": "Hamadia",
+        "slug": "hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_hamadia",
+        "level": 2,
+        "name": {
+          "local": "حمادية",
+          "en": "Hamadia",
+          "slug": "hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14020"
+    ],
+    "geo": {
+      "lat": "35.481",
+      "lon": "1.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_hamadia_rechaiga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرشايقة",
+      "en": "Rechaiga",
+      "slug": "rechaiga"
+    },
+    "code": {
+      "id": "DZ014_hamadia_rechaiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_hamadia",
+      "level": 2,
+      "name": {
+        "local": "حمادية",
+        "en": "Hamadia",
+        "slug": "hamadia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_hamadia",
+        "level": 2,
+        "name": {
+          "local": "حمادية",
+          "en": "Hamadia",
+          "slug": "hamadia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14026"
+    ],
+    "geo": {
+      "lat": "35.315",
+      "lon": "2.118"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

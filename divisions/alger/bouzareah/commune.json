@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ016_bouzareah_ben-aknoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ابن عكنون",
+      "en": "Ben Aknoun",
+      "slug": "ben-aknoun"
+    },
+    "code": {
+      "id": "DZ016_bouzareah_ben-aknoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bouzareah",
+      "level": 2,
+      "name": {
+        "local": "بوزريعة",
+        "en": "Bouzareah",
+        "slug": "bouzareah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bouzareah",
+        "level": 2,
+        "name": {
+          "local": "بوزريعة",
+          "en": "Bouzareah",
+          "slug": "bouzareah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16028"
+    ],
+    "geo": {
+      "lat": "36.76",
+      "lon": "3.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bouzareah_beni-messous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني مسوس",
+      "en": "Beni Messous",
+      "slug": "beni-messous"
+    },
+    "code": {
+      "id": "DZ016_bouzareah_beni-messous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bouzareah",
+      "level": 2,
+      "name": {
+        "local": "بوزريعة",
+        "en": "Bouzareah",
+        "slug": "bouzareah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bouzareah",
+        "level": 2,
+        "name": {
+          "local": "بوزريعة",
+          "en": "Bouzareah",
+          "slug": "bouzareah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16044"
+    ],
+    "geo": {
+      "lat": "36.788",
+      "lon": "2.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bouzareah_bouzareah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوزريعة",
+      "en": "Bouzareah",
+      "slug": "bouzareah"
+    },
+    "code": {
+      "id": "DZ016_bouzareah_bouzareah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bouzareah",
+      "level": 2,
+      "name": {
+        "local": "بوزريعة",
+        "en": "Bouzareah",
+        "slug": "bouzareah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bouzareah",
+        "level": 2,
+        "name": {
+          "local": "بوزريعة",
+          "en": "Bouzareah",
+          "slug": "bouzareah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16032"
+    ],
+    "geo": {
+      "lat": "36.791",
+      "lon": "3.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bouzareah_el-biar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الابيار",
+      "en": "El Biar",
+      "slug": "el-biar"
+    },
+    "code": {
+      "id": "DZ016_bouzareah_el-biar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bouzareah",
+      "level": 2,
+      "name": {
+        "local": "بوزريعة",
+        "en": "Bouzareah",
+        "slug": "bouzareah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bouzareah",
+        "level": 2,
+        "name": {
+          "local": "بوزريعة",
+          "en": "Bouzareah",
+          "slug": "bouzareah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16003"
+    ],
+    "geo": {
+      "lat": "36.769",
+      "lon": "3.031"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

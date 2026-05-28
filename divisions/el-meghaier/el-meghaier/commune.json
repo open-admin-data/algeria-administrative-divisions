@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ057_el-meghaier_el-mghaier",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المغير",
+      "en": "El-M'ghaier",
+      "slug": "el-mghaier"
+    },
+    "code": {
+      "id": "DZ057_el-meghaier_el-mghaier",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_el-meghaier",
+      "level": 2,
+      "name": {
+        "local": "المغير",
+        "en": "El Meghaier",
+        "slug": "el-meghaier"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_el-meghaier",
+        "level": 2,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39005"
+    ],
+    "geo": {
+      "lat": "34.354",
+      "lon": "5.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_el-meghaier_oum-touyour",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم الطيور",
+      "en": "Oum Touyour",
+      "slug": "oum-touyour"
+    },
+    "code": {
+      "id": "DZ057_el-meghaier_oum-touyour",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_el-meghaier",
+      "level": 2,
+      "name": {
+        "local": "المغير",
+        "en": "El Meghaier",
+        "slug": "el-meghaier"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_el-meghaier",
+        "level": 2,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39034"
+    ],
+    "geo": {
+      "lat": "34.354",
+      "lon": "5.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_el-meghaier_sidi-khelil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي خليل",
+      "en": "Sidi Khelil",
+      "slug": "sidi-khelil"
+    },
+    "code": {
+      "id": "DZ057_el-meghaier_sidi-khelil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_el-meghaier",
+      "level": 2,
+      "name": {
+        "local": "المغير",
+        "en": "El Meghaier",
+        "slug": "el-meghaier"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_el-meghaier",
+        "level": 2,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39038"
+    ],
+    "geo": {
+      "lat": "34.354",
+      "lon": "5.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ057_el-meghaier_still",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سطيل",
+      "en": "Still",
+      "slug": "still"
+    },
+    "code": {
+      "id": "DZ057_el-meghaier_still",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ057_el-meghaier",
+      "level": 2,
+      "name": {
+        "local": "المغير",
+        "en": "El Meghaier",
+        "slug": "el-meghaier"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ057",
+        "level": 1,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      },
+      {
+        "id": "DZ057_el-meghaier",
+        "level": 2,
+        "name": {
+          "local": "المغير",
+          "en": "El Meghaier",
+          "slug": "el-meghaier"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39039"
+    ],
+    "geo": {
+      "lat": "34.354",
+      "lon": "5.74"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

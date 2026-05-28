@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ040_babar_babar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بابار",
+      "en": "Babar",
+      "slug": "babar"
+    },
+    "code": {
+      "id": "DZ040_babar_babar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_babar",
+      "level": 2,
+      "name": {
+        "local": "بابار",
+        "en": "Babar",
+        "slug": "babar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_babar",
+        "level": 2,
+        "name": {
+          "local": "بابار",
+          "en": "Babar",
+          "slug": "babar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40006"
+    ],
+    "geo": {
+      "lat": "34.766",
+      "lon": "7.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

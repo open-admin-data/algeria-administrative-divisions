@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_draa-ben-khedda",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ذراع بن خدة",
+    "en": "Draa Ben Khedda",
+    "slug": "draa-ben-khedda"
+  },
+  "code": {
+    "id": "DZ015_draa-ben-khedda",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.705",
+    "lon": "3.936"
+  },
+  "metadata": {},
+  "source": {}
+}

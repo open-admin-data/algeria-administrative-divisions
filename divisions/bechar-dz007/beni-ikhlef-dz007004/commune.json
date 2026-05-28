@@ -1,0 +1,45 @@
+{
+  "id": "DZ007004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Ikhlef",
+    "en": "Beni Ikhlef",
+    "slug": "beni-ikhlef-dz007004"
+  },
+  "code": {
+    "id": "DZ007004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.714",
+    "lon": "-1.497"
+  },
+  "metadata": {},
+  "source": {}
+}

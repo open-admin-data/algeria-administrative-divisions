@@ -1,0 +1,47 @@
+{
+  "id": "DZ042_bou-ismail",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بواسماعيل",
+    "en": "Bou Ismail",
+    "slug": "bou-ismail"
+  },
+  "code": {
+    "id": "DZ042_bou-ismail",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.309",
+    "lon": "2.419"
+  },
+  "metadata": {},
+  "source": {}
+}

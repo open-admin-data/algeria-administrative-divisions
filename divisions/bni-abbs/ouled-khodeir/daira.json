@@ -1,0 +1,47 @@
+{
+  "id": "DZ052_ouled-khodeir",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد خضير",
+    "en": "Ouled Khodeir",
+    "slug": "ouled-khodeir"
+  },
+  "code": {
+    "id": "DZ052_ouled-khodeir",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ052",
+    "level": 1,
+    "name": {
+      "local": "بني عباس",
+      "en": "Béni Abbès",
+      "slug": "bni-abbs"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ052",
+      "level": 1,
+      "name": {
+        "local": "بني عباس",
+        "en": "Béni Abbès",
+        "slug": "bni-abbs"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.099",
+    "lon": "-1.067"
+  },
+  "metadata": {},
+  "source": {}
+}

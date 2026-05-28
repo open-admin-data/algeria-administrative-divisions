@@ -1,0 +1,45 @@
+{
+  "id": "DZ035019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mazouna",
+    "en": "Mazouna",
+    "slug": "mazouna-dz035019"
+  },
+  "code": {
+    "id": "DZ035019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.11",
+    "lon": "0.892"
+  },
+  "metadata": {},
+  "source": {}
+}

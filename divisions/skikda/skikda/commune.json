@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_skikda_filfila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فلفلة",
+      "en": "Filfila",
+      "slug": "filfila"
+    },
+    "code": {
+      "id": "DZ021_skikda_filfila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_skikda",
+      "level": 2,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_skikda",
+        "level": 2,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21042"
+    ],
+    "geo": {
+      "lat": "36.881",
+      "lon": "6.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_skikda_hammadi-krouma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمادي كرومة",
+      "en": "Hammadi Krouma",
+      "slug": "hammadi-krouma"
+    },
+    "code": {
+      "id": "DZ021_skikda_hammadi-krouma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_skikda",
+      "level": 2,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_skikda",
+        "level": 2,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21038"
+    ],
+    "geo": {
+      "lat": "36.881",
+      "lon": "6.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_skikda_skikda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    },
+    "code": {
+      "id": "DZ021_skikda_skikda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_skikda",
+      "level": 2,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_skikda",
+        "level": 2,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "36.881",
+      "lon": "6.888"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

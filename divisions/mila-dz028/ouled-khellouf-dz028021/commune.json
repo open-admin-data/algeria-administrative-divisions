@@ -1,0 +1,45 @@
+{
+  "id": "DZ028021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Khellouf",
+    "en": "Ouled Khellouf",
+    "slug": "ouled-khellouf-dz028021"
+  },
+  "code": {
+    "id": "DZ028021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.989",
+    "lon": "6.074"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ025008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Haouaita",
+    "en": "El Haouaita",
+    "slug": "el-haouaita-dz025008"
+  },
+  "code": {
+    "id": "DZ025008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.55",
+    "lon": "2.499"
+  },
+  "metadata": {},
+  "source": {}
+}

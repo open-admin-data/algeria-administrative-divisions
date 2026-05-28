@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "DZ043001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Bouchekif",
+      "en": "Ain Bouchekif",
+      "slug": "ain-bouchekif-dz043001"
+    },
+    "code": {
+      "id": "DZ043001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.333",
+      "lon": "1.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Deheb",
+      "en": "Ain Deheb",
+      "slug": "ain-deheb-dz043002"
+    },
+    "code": {
+      "id": "DZ043002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.623",
+      "lon": "1.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Hadid",
+      "en": "Ain El Hadid",
+      "slug": "ain-el-hadid-dz043003"
+    },
+    "code": {
+      "id": "DZ043003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.138",
+      "lon": "0.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Kermes",
+      "en": "Ain Kermes",
+      "slug": "ain-kermes-dz043004"
+    },
+    "code": {
+      "id": "DZ043004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.941",
+      "lon": "1.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zarit",
+      "en": "Ain Zarit",
+      "slug": "ain-zarit-dz043005"
+    },
+    "code": {
+      "id": "DZ043005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.358",
+      "lon": "1.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougara",
+      "en": "Bougara",
+      "slug": "bougara-dz043006"
+    },
+    "code": {
+      "id": "DZ043006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.548",
+      "lon": "1.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chehaima",
+      "en": "Chehaima",
+      "slug": "chehaima-dz043007"
+    },
+    "code": {
+      "id": "DZ043007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.542",
+      "lon": "1.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dahmouni",
+      "en": "Dahmouni",
+      "slug": "dahmouni-dz043008"
+    },
+    "code": {
+      "id": "DZ043008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.453",
+      "lon": "1.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebilet Rosfa",
+      "en": "Djebilet Rosfa",
+      "slug": "djebilet-rosfa-dz043009"
+    },
+    "code": {
+      "id": "DZ043009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.851",
+      "lon": "0.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djillali Ben Amar",
+      "en": "Djillali Ben Amar",
+      "slug": "djillali-ben-amar-dz043010"
+    },
+    "code": {
+      "id": "DZ043010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.356",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faidja",
+      "en": "Faidja",
+      "slug": "faidja-dz043011"
+    },
+    "code": {
+      "id": "DZ043011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "1.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Frenda",
+      "en": "Frenda",
+      "slug": "frenda-dz043012"
+    },
+    "code": {
+      "id": "DZ043012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.082",
+      "lon": "1.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guertoufa",
+      "en": "Guertoufa",
+      "slug": "guertoufa-dz043013"
+    },
+    "code": {
+      "id": "DZ043013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.452",
+      "lon": "1.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamadia",
+      "en": "Hamadia",
+      "slug": "hamadia-dz043014"
+    },
+    "code": {
+      "id": "DZ043014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.481",
+      "lon": "1.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar Chellala",
+      "en": "Ksar Chellala",
+      "slug": "ksar-chellala-dz043015"
+    },
+    "code": {
+      "id": "DZ043015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.25",
+      "lon": "2.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Machraa Sfa",
+      "en": "Machraa Sfa",
+      "slug": "machraa-sfa-dz043016"
+    },
+    "code": {
+      "id": "DZ043016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.377",
+      "lon": "1.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madna",
+      "en": "Madna",
+      "slug": "madna-dz043017"
+    },
+    "code": {
+      "id": "DZ043017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.759",
+      "lon": "0.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahdia",
+      "en": "Mahdia",
+      "slug": "mahdia-dz043018"
+    },
+    "code": {
+      "id": "DZ043018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.458",
+      "lon": "1.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medrissa",
+      "en": "Medrissa",
+      "slug": "medrissa-dz043019"
+    },
+    "code": {
+      "id": "DZ043019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.835",
+      "lon": "1.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medroussa",
+      "en": "Medroussa",
+      "slug": "medroussa-dz043020"
+    },
+    "code": {
+      "id": "DZ043020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.186",
+      "lon": "1.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Meghila",
+      "en": "Meghila",
+      "slug": "meghila-dz043021"
+    },
+    "code": {
+      "id": "DZ043021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.609",
+      "lon": "1.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mellakou",
+      "en": "Mellakou",
+      "slug": "mellakou-dz043022"
+    },
+    "code": {
+      "id": "DZ043022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "1.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nadorah",
+      "en": "Nadorah",
+      "slug": "nadorah-dz043023"
+    },
+    "code": {
+      "id": "DZ043023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.219",
+      "lon": "1.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Naima",
+      "en": "Naima",
+      "slug": "naima-dz043024"
+    },
+    "code": {
+      "id": "DZ043024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Lilli",
+      "en": "Oued Lilli",
+      "slug": "oued-lilli-dz043025"
+    },
+    "code": {
+      "id": "DZ043025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.51",
+      "lon": "1.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rahouia",
+      "en": "Rahouia",
+      "slug": "rahouia-dz043026"
+    },
+    "code": {
+      "id": "DZ043026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.532",
+      "lon": "1.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rechaiga",
+      "en": "Rechaiga",
+      "slug": "rechaiga-dz043027"
+    },
+    "code": {
+      "id": "DZ043027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.315",
+      "lon": "2.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebaine",
+      "en": "Sebaine",
+      "slug": "sebaine-dz043028"
+    },
+    "code": {
+      "id": "DZ043028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.46",
+      "lon": "1.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sebt",
+      "en": "Sebt",
+      "slug": "sebt-dz043029"
+    },
+    "code": {
+      "id": "DZ043029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.649",
+      "lon": "1.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Serghine",
+      "en": "Serghine",
+      "slug": "serghine-dz043030"
+    },
+    "code": {
+      "id": "DZ043030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.211",
+      "lon": "2.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abdelghani",
+      "en": "Sidi Abdelghani",
+      "slug": "sidi-abdelghani-dz043031"
+    },
+    "code": {
+      "id": "DZ043031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.21",
+      "lon": "1.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Abderrahmane",
+      "en": "Sidi Abderrahmane",
+      "slug": "sidi-abderrahmane-dz043032"
+    },
+    "code": {
+      "id": "DZ043032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.543",
+      "lon": "1.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ali Mellal",
+      "en": "Sidi Ali Mellal",
+      "slug": "sidi-ali-mellal-dz043033"
+    },
+    "code": {
+      "id": "DZ043033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.603",
+      "lon": "1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Bakhti",
+      "en": "Sidi Bakhti",
+      "slug": "sidi-bakhti-dz043034"
+    },
+    "code": {
+      "id": "DZ043034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "0.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Hosni",
+      "en": "Sidi Hosni",
+      "slug": "sidi-hosni-dz043035"
+    },
+    "code": {
+      "id": "DZ043035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.531",
+      "lon": "1.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sougueur",
+      "en": "Sougueur",
+      "slug": "sougueur-dz043036"
+    },
+    "code": {
+      "id": "DZ043036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.226",
+      "lon": "1.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tagdemt",
+      "en": "Tagdemt",
+      "slug": "tagdemt-dz043037"
+    },
+    "code": {
+      "id": "DZ043037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.362",
+      "lon": "1.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Takhmaret",
+      "en": "Takhmaret",
+      "slug": "takhmaret-dz043038"
+    },
+    "code": {
+      "id": "DZ043038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.121",
+      "lon": "0.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiaret",
+      "en": "Tiaret",
+      "slug": "tiaret-dz043039"
+    },
+    "code": {
+      "id": "DZ043039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.349",
+      "lon": "1.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tidda",
+      "en": "Tidda",
+      "slug": "tidda-dz043040"
+    },
+    "code": {
+      "id": "DZ043040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.605",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tousnina",
+      "en": "Tousnina",
+      "slug": "tousnina-dz043041"
+    },
+    "code": {
+      "id": "DZ043041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.097",
+      "lon": "1.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zmalet Emir Abdelkader",
+      "en": "Zmalet Emir Abdelkader",
+      "slug": "zmalet-emir-abdelkader-dz043042"
+    },
+    "code": {
+      "id": "DZ043042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret-dz043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret-dz043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.006",
+      "lon": "2.349"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

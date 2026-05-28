@@ -1,0 +1,163 @@
+# Souk Ahras — Algeria Administrative Divisions
+
+> 10 dairas, 26 communes
+> Code: DZ041
+> Coordinates: 36.165, 7.886
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### بئر بوحوش (Bir Bouhouche)
+
+Code: DZ041_bir-bouhouche, Coordinates: 36.05, 7.437
+Communes: 3
+
+#### بئر بوحوش (Bir Bouhouche)
+
+Code: DZ041_bir-bouhouche_bir-bouhouche, Postal: 41011, Coordinates: 36.05, 7.437
+
+#### سافل الويدان (Safel El Ouiden)
+
+Code: DZ041_bir-bouhouche_safel-el-ouiden, Postal: 41035, Coordinates: 35.975, 7.475
+
+#### الزوابي (Zouabi)
+
+Code: DZ041_bir-bouhouche_zouabi, Postal: 41039, Coordinates: 36.124, 7.399
+
+### الحدادة (Haddada)
+
+Code: DZ041_haddada, Coordinates: 36.284, 8.284
+Communes: 3
+
+#### الحدادة (Haddada)
+
+Code: DZ041_haddada_haddada, Postal: 41012, Coordinates: 36.184, 8.274
+
+#### الخضارة (Khedara)
+
+Code: DZ041_haddada_khedara, Postal: 41013, Coordinates: 36.292, 8.257
+
+#### أولاد مومن (Ouled Moumen)
+
+Code: DZ041_haddada_ouled-moumen, Postal: 41034, Coordinates: 36.375, 8.32
+
+### مداوروش (M&#39;daourouche)
+
+Code: DZ041_mdaourouche, Coordinates: 36.119, 7.809
+Communes: 3
+
+#### مداوروش (M&#39;daourouche)
+
+Code: DZ041_mdaourouche_mdaourouche, Postal: 41001, Coordinates: 36.066, 7.82
+
+#### الراقوبة (Ragouba)
+
+Code: DZ041_mdaourouche_ragouba, Postal: 41033, Coordinates: 36.119, 7.809
+
+#### تيفاش (Tiffech)
+
+Code: DZ041_mdaourouche_tiffech, Postal: 41038, Coordinates: 36.172, 7.799
+
+### المشروحة (Mechroha)
+
+Code: DZ041_mechroha, Coordinates: 36.165, 7.886
+Communes: 2
+
+#### الحنانشة (Hanencha)
+
+Code: DZ041_mechroha_hanencha, Postal: 41016, Coordinates: 36.165, 7.886
+
+#### المشروحة (Machroha)
+
+Code: DZ041_mechroha_machroha, Postal: 41010, Coordinates: 36.165, 7.886
+
+### المراهنة (Merahna)
+
+Code: DZ041_merahna, Coordinates: 36.138, 8.194
+Communes: 3
+
+#### المراهنة (Merahna)
+
+Code: DZ041_merahna_merahna, Postal: 41004, Coordinates: 36.198, 8.154
+
+#### ويلان (Ouillen)
+
+Code: DZ041_merahna_ouillen, Postal: 41029, Coordinates: 36.138, 8.194
+
+#### سيدي فرج (Sidi Fredj)
+
+Code: DZ041_merahna_sidi-fredj, Coordinates: 36.078, 8.233
+
+### أولاد إدريس (Ouled Driss)
+
+Code: DZ041_ouled-driss, Coordinates: 36.389, 8.136
+Communes: 2
+
+#### عين الزانة (Ain Zana)
+
+Code: DZ041_ouled-driss_ain-zana, Postal: 41027, Coordinates: 36.401, 8.215
+
+#### أولاد إدريس (Ouled Driss)
+
+Code: DZ041_ouled-driss_ouled-driss, Postal: 41005, Coordinates: 36.376, 8.058
+
+### أم العظايم (Oum El Adhaim)
+
+Code: DZ041_oum-el-adhaim, Coordinates: 35.95, 7.639
+Communes: 3
+
+#### وادي الكبريت (Oued Kebrit)
+
+Code: DZ041_oum-el-adhaim_oued-kebrit, Postal: 41018, Coordinates: 35.95, 7.639
+
+#### أم العظايم (Oum El Adhaim)
+
+Code: DZ041_oum-el-adhaim_oum-el-adhaim, Postal: 41019, Coordinates: 35.994, 7.667
+
+#### ترقالت (Terraguelt)
+
+Code: DZ041_oum-el-adhaim_terraguelt, Postal: 41037, Coordinates: 35.905, 7.612
+
+### سدراتة (Sedrata)
+
+Code: DZ041_sedrata, Coordinates: 36.173, 7.505
+Communes: 3
+
+#### عين سلطان (Ain Soltane)
+
+Code: DZ041_sedrata_ain-soltane, Postal: 20029, Coordinates: 36.182, 7.36
+
+#### خميسة (Khemissa)
+
+Code: DZ041_sedrata_khemissa, Postal: 41031, Coordinates: 36.189, 7.618
+
+#### سدراتة (Sedrata)
+
+Code: DZ041_sedrata_sedrata, Postal: 41006, Coordinates: 36.148, 7.538
+
+### سوق أهراس (Souk Ahras)
+
+Code: DZ041_souk-ahras, Coordinates: 36.286, 7.962
+Communes: 1
+
+#### سوق أهراس (Souk Ahras)
+
+Code: DZ041_souk-ahras_souk-ahras, Postal: 41000, Coordinates: 36.286, 7.962
+
+### تاورة (Taoura)
+
+Code: DZ041_taoura, Coordinates: 36.117, 7.989
+Communes: 3
+
+#### الدريعة (Drea)
+
+Code: DZ041_taoura_drea, Postal: 41015, Coordinates: 36.061, 7.965
+
+#### تاورة (Taoura)
+
+Code: DZ041_taoura_taoura, Postal: 41009, Coordinates: 36.095, 8.043
+
+#### الزعرورية (Zaarouria)
+
+Code: DZ041_taoura_zaarouria, Postal: 41025, Coordinates: 36.196, 7.959
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_ben-azzouz_bekkouche-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بكوش لخضر",
+      "en": "Bekkouche Lakhdar",
+      "slug": "bekkouche-lakhdar"
+    },
+    "code": {
+      "id": "DZ021_ben-azzouz_bekkouche-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ben-azzouz",
+      "level": 2,
+      "name": {
+        "local": "بن عزوز",
+        "en": "Ben Azzouz",
+        "slug": "ben-azzouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ben-azzouz",
+        "level": 2,
+        "name": {
+          "local": "بن عزوز",
+          "en": "Ben Azzouz",
+          "slug": "ben-azzouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21009"
+    ],
+    "geo": {
+      "lat": "36.696",
+      "lon": "7.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ben-azzouz_ben-azzouz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن عزوز",
+      "en": "Ben Azzouz",
+      "slug": "ben-azzouz"
+    },
+    "code": {
+      "id": "DZ021_ben-azzouz_ben-azzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ben-azzouz",
+      "level": 2,
+      "name": {
+        "local": "بن عزوز",
+        "en": "Ben Azzouz",
+        "slug": "ben-azzouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ben-azzouz",
+        "level": 2,
+        "name": {
+          "local": "بن عزوز",
+          "en": "Ben Azzouz",
+          "slug": "ben-azzouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21010"
+    ],
+    "geo": {
+      "lat": "36.898",
+      "lon": "7.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ben-azzouz_el-marsa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المرسى",
+      "en": "El Marsa",
+      "slug": "el-marsa"
+    },
+    "code": {
+      "id": "DZ021_ben-azzouz_el-marsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_ben-azzouz",
+      "level": 2,
+      "name": {
+        "local": "بن عزوز",
+        "en": "Ben Azzouz",
+        "slug": "ben-azzouz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_ben-azzouz",
+        "level": 2,
+        "name": {
+          "local": "بن عزوز",
+          "en": "Ben Azzouz",
+          "slug": "ben-azzouz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02015"
+    ],
+    "geo": {
+      "lat": "37.008",
+      "lon": "7.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

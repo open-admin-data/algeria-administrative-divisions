@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_messaad",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مسعد",
+    "en": "Messaad",
+    "slug": "messaad"
+  },
+  "code": {
+    "id": "DZ017_messaad",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.856",
+    "lon": "3.711"
+  },
+  "metadata": {},
+  "source": {}
+}

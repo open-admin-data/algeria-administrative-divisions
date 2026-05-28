@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ004_fkirina_fkirina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فكيرينة",
+      "en": "Fkirina",
+      "slug": "fkirina"
+    },
+    "code": {
+      "id": "DZ004_fkirina_fkirina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_fkirina",
+      "level": 2,
+      "name": {
+        "local": "فكيرينة",
+        "en": "F'kirina",
+        "slug": "fkirina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_fkirina",
+        "level": 2,
+        "name": {
+          "local": "فكيرينة",
+          "en": "F'kirina",
+          "slug": "fkirina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04013"
+    ],
+    "geo": {
+      "lat": "35.709",
+      "lon": "7.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_fkirina_oued-nini",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي نيني",
+      "en": "Oued Nini",
+      "slug": "oued-nini"
+    },
+    "code": {
+      "id": "DZ004_fkirina_oued-nini",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_fkirina",
+      "level": 2,
+      "name": {
+        "local": "فكيرينة",
+        "en": "F'kirina",
+        "slug": "fkirina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_fkirina",
+        "level": 2,
+        "name": {
+          "local": "فكيرينة",
+          "en": "F'kirina",
+          "slug": "fkirina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04047"
+    ],
+    "geo": {
+      "lat": "35.584",
+      "lon": "7.398"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

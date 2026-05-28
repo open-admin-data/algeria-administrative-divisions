@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "DZ011001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Taghrout",
+      "en": "Ain Taghrout",
+      "slug": "ain-taghrout-dz011001"
+    },
+    "code": {
+      "id": "DZ011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.149",
+      "lon": "5.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tassera",
+      "en": "Ain Tassera",
+      "slug": "ain-tassera-dz011002"
+    },
+    "code": {
+      "id": "DZ011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.023",
+      "lon": "4.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belimour",
+      "en": "Belimour",
+      "slug": "belimour-dz011003"
+    },
+    "code": {
+      "id": "DZ011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.984",
+      "lon": "4.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bendaoud",
+      "en": "Bendaoud",
+      "slug": "bendaoud-dz011004"
+    },
+    "code": {
+      "id": "DZ011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.056",
+      "lon": "4.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Kasdali",
+      "en": "Bir Kasdali",
+      "slug": "bir-kasdali-dz011005"
+    },
+    "code": {
+      "id": "DZ011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.137",
+      "lon": "5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Bou Arreridj",
+      "en": "Bordj Bou Arreridj",
+      "slug": "bordj-bou-arreridj-dz011006"
+    },
+    "code": {
+      "id": "DZ011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.071",
+      "lon": "4.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Ghdir",
+      "en": "Bordj Ghdir",
+      "slug": "bordj-ghdir-dz011007"
+    },
+    "code": {
+      "id": "DZ011007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.897",
+      "lon": "4.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bordj Zemoura",
+      "en": "Bordj Zemoura",
+      "slug": "bordj-zemoura-dz011008"
+    },
+    "code": {
+      "id": "DZ011008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.252",
+      "lon": "4.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Colla",
+      "en": "Colla",
+      "slug": "colla-dz011009"
+    },
+    "code": {
+      "id": "DZ011009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.25",
+      "lon": "4.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djaafra",
+      "en": "Djaafra",
+      "slug": "djaafra-dz011010"
+    },
+    "code": {
+      "id": "DZ011010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.293",
+      "lon": "4.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Achir",
+      "en": "El Achir",
+      "slug": "el-achir-dz011011"
+    },
+    "code": {
+      "id": "DZ011011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.07",
+      "lon": "4.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Anseur",
+      "en": "El Anseur",
+      "slug": "el-anseur-dz011012"
+    },
+    "code": {
+      "id": "DZ011012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.039",
+      "lon": "4.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Euch",
+      "en": "El Euch",
+      "slug": "el-euch-dz011013"
+    },
+    "code": {
+      "id": "DZ011013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.9",
+      "lon": "4.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hammadia",
+      "en": "El Hammadia",
+      "slug": "el-hammadia-dz011014"
+    },
+    "code": {
+      "id": "DZ011014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.977",
+      "lon": "4.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El M'Hir",
+      "en": "El M'Hir",
+      "slug": "el-mhir-dz011016"
+    },
+    "code": {
+      "id": "DZ011016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.096",
+      "lon": "4.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Main",
+      "en": "El Main",
+      "slug": "el-main-dz011015"
+    },
+    "code": {
+      "id": "DZ011015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.385",
+      "lon": "4.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghilassa",
+      "en": "Ghilassa",
+      "slug": "ghilassa-dz011017"
+    },
+    "code": {
+      "id": "DZ011017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.851",
+      "lon": "4.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haraza",
+      "en": "Haraza",
+      "slug": "haraza-dz011018"
+    },
+    "code": {
+      "id": "DZ011018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.165",
+      "lon": "4.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hasnaoua",
+      "en": "Hasnaoua",
+      "slug": "hasnaoua-dz011019"
+    },
+    "code": {
+      "id": "DZ011019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.164",
+      "lon": "4.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khelil",
+      "en": "Khelil",
+      "slug": "khelil-dz011020"
+    },
+    "code": {
+      "id": "DZ011020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.238",
+      "lon": "5.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksour",
+      "en": "Ksour",
+      "slug": "ksour-dz011021"
+    },
+    "code": {
+      "id": "DZ011021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.99",
+      "lon": "4.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mansoura",
+      "en": "Mansoura",
+      "slug": "mansoura-dz011022"
+    },
+    "code": {
+      "id": "DZ011022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.103",
+      "lon": "4.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Medjana",
+      "en": "Medjana",
+      "slug": "medjana-dz011023"
+    },
+    "code": {
+      "id": "DZ011023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.151",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Brahem",
+      "en": "Ouled Brahem",
+      "slug": "ouled-brahem-dz011024"
+    },
+    "code": {
+      "id": "DZ011024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.9",
+      "lon": "5.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Dahmane",
+      "en": "Ouled Dahmane",
+      "slug": "ouled-dahmane-dz011025"
+    },
+    "code": {
+      "id": "DZ011025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.234",
+      "lon": "4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Sidi Brahim",
+      "en": "Ouled Sidi Brahim",
+      "slug": "ouled-sidi-brahim-dz011026"
+    },
+    "code": {
+      "id": "DZ011026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.238",
+      "lon": "4.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rabta",
+      "en": "Rabta",
+      "slug": "rabta-dz011027"
+    },
+    "code": {
+      "id": "DZ011027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.913",
+      "lon": "4.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Oued",
+      "en": "Ras El Oued",
+      "slug": "ras-el-oued-dz011028"
+    },
+    "code": {
+      "id": "DZ011028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.937",
+      "lon": "5.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Embarek",
+      "en": "Sidi Embarek",
+      "slug": "sidi-embarek-dz011029"
+    },
+    "code": {
+      "id": "DZ011029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.122",
+      "lon": "4.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tafreg",
+      "en": "Tafreg",
+      "slug": "tafreg-dz011030"
+    },
+    "code": {
+      "id": "DZ011030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.305",
+      "lon": "4.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taglait",
+      "en": "Taglait",
+      "slug": "taglait-dz011031"
+    },
+    "code": {
+      "id": "DZ011031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.809",
+      "lon": "4.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tesmart",
+      "en": "Tesmart",
+      "slug": "tesmart-dz011032"
+    },
+    "code": {
+      "id": "DZ011032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.277",
+      "lon": "4.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Theniet El Anseur",
+      "en": "Theniet El Anseur",
+      "slug": "theniet-el-anseur-dz011033"
+    },
+    "code": {
+      "id": "DZ011033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.208",
+      "lon": "4.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tixter",
+      "en": "Tixter",
+      "slug": "tixter-dz011034"
+    },
+    "code": {
+      "id": "DZ011034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arrer",
+          "slug": "bordj-bou-arrer-dz011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.034",
+      "lon": "5.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

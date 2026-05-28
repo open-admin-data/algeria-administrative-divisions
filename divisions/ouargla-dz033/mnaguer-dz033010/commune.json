@@ -1,0 +1,45 @@
+{
+  "id": "DZ033010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "M'Naguer",
+    "en": "M'Naguer",
+    "slug": "mnaguer-dz033010"
+  },
+  "code": {
+    "id": "DZ033010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.128",
+    "lon": "6.27"
+  },
+  "metadata": {},
+  "source": {}
+}

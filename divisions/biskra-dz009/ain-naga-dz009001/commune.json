@@ -1,0 +1,45 @@
+{
+  "id": "DZ009001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Naga",
+    "en": "Ain Naga",
+    "slug": "ain-naga-dz009001"
+  },
+  "code": {
+    "id": "DZ009001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.65",
+    "lon": "6.146"
+  },
+  "metadata": {},
+  "source": {}
+}

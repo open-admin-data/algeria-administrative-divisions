@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_ichemoul_foum-toub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فم الطوب",
+      "en": "Foum Toub",
+      "slug": "foum-toub"
+    },
+    "code": {
+      "id": "DZ005_ichemoul_foum-toub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ichemoul",
+      "level": 2,
+      "name": {
+        "local": "إشمول",
+        "en": "Ichemoul",
+        "slug": "ichemoul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ichemoul",
+        "level": 2,
+        "name": {
+          "local": "إشمول",
+          "en": "Ichemoul",
+          "slug": "ichemoul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05049"
+    ],
+    "geo": {
+      "lat": "35.39",
+      "lon": "6.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ichemoul_ichemoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إشمول",
+      "en": "Ichemoul",
+      "slug": "ichemoul"
+    },
+    "code": {
+      "id": "DZ005_ichemoul_ichemoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ichemoul",
+      "level": 2,
+      "name": {
+        "local": "إشمول",
+        "en": "Ichemoul",
+        "slug": "ichemoul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ichemoul",
+        "level": 2,
+        "name": {
+          "local": "إشمول",
+          "en": "Ichemoul",
+          "slug": "ichemoul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05026"
+    ],
+    "geo": {
+      "lat": "35.308",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ichemoul_inoughissen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إينوغيسن",
+      "en": "Inoughissen",
+      "slug": "inoughissen"
+    },
+    "code": {
+      "id": "DZ005_ichemoul_inoughissen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ichemoul",
+      "level": 2,
+      "name": {
+        "local": "إشمول",
+        "en": "Ichemoul",
+        "slug": "ichemoul"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ichemoul",
+        "level": 2,
+        "name": {
+          "local": "إشمول",
+          "en": "Ichemoul",
+          "slug": "ichemoul"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05083"
+    ],
+    "geo": {
+      "lat": "35.349",
+      "lon": "6.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

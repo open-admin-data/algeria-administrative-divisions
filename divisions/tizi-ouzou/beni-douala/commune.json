@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_beni-douala_ait-mahmoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت محمود",
+      "en": "Ait-Mahmoud",
+      "slug": "ait-mahmoud"
+    },
+    "code": {
+      "id": "DZ015_beni-douala_ait-mahmoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_beni-douala",
+      "level": 2,
+      "name": {
+        "local": "بني دوالة",
+        "en": "Beni Douala",
+        "slug": "beni-douala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_beni-douala",
+        "level": 2,
+        "name": {
+          "local": "بني دوالة",
+          "en": "Beni Douala",
+          "slug": "beni-douala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15044"
+    ],
+    "geo": {
+      "lat": "36.613",
+      "lon": "4.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_beni-douala_beni-zmenzer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بنــــي زمنزار",
+      "en": "Beni Zmenzer",
+      "slug": "beni-zmenzer"
+    },
+    "code": {
+      "id": "DZ015_beni-douala_beni-zmenzer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_beni-douala",
+      "level": 2,
+      "name": {
+        "local": "بني دوالة",
+        "en": "Beni Douala",
+        "slug": "beni-douala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_beni-douala",
+        "level": 2,
+        "name": {
+          "local": "بني دوالة",
+          "en": "Beni Douala",
+          "slug": "beni-douala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15028"
+    ],
+    "geo": {
+      "lat": "36.642",
+      "lon": "4.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_beni-douala_beni-aissi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني عيسي",
+      "en": "Beni-Aissi",
+      "slug": "beni-aissi"
+    },
+    "code": {
+      "id": "DZ015_beni-douala_beni-aissi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_beni-douala",
+      "level": 2,
+      "name": {
+        "local": "بني دوالة",
+        "en": "Beni Douala",
+        "slug": "beni-douala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_beni-douala",
+        "level": 2,
+        "name": {
+          "local": "بني دوالة",
+          "en": "Beni Douala",
+          "slug": "beni-douala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15069"
+    ],
+    "geo": {
+      "lat": "36.661",
+      "lon": "4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_beni-douala_beni-douala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني دوالة",
+      "en": "Beni-Douala",
+      "slug": "beni-douala"
+    },
+    "code": {
+      "id": "DZ015_beni-douala_beni-douala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_beni-douala",
+      "level": 2,
+      "name": {
+        "local": "بني دوالة",
+        "en": "Beni Douala",
+        "slug": "beni-douala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_beni-douala",
+        "level": 2,
+        "name": {
+          "local": "بني دوالة",
+          "en": "Beni Douala",
+          "slug": "beni-douala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15011"
+    ],
+    "geo": {
+      "lat": "36.625",
+      "lon": "4.083"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

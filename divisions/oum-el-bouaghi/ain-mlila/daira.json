@@ -1,0 +1,47 @@
+{
+  "id": "DZ004_ain-mlila",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين مليلة",
+    "en": "Ain M'lila",
+    "slug": "ain-mlila"
+  },
+  "code": {
+    "id": "DZ004_ain-mlila",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.05",
+    "lon": "6.57"
+  },
+  "metadata": {},
+  "source": {}
+}

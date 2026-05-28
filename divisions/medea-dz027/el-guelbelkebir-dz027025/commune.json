@@ -1,0 +1,45 @@
+{
+  "id": "DZ027025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Guelbelkebir",
+    "en": "El Guelbelkebir",
+    "slug": "el-guelbelkebir-dz027025"
+  },
+  "code": {
+    "id": "DZ027025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.252",
+    "lon": "3.427"
+  },
+  "metadata": {},
+  "source": {}
+}

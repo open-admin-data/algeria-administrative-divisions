@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_ksar-el-boukhari_ksar-el-boukhari",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قصر البخاري",
+      "en": "Ksar El Boukhari",
+      "slug": "ksar-el-boukhari"
+    },
+    "code": {
+      "id": "DZ026_ksar-el-boukhari_ksar-el-boukhari",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ksar-el-boukhari",
+      "level": 2,
+      "name": {
+        "local": "قصر البخاري",
+        "en": "Ksar El Boukhari",
+        "slug": "ksar-el-boukhari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ksar-el-boukhari",
+        "level": 2,
+        "name": {
+          "local": "قصر البخاري",
+          "en": "Ksar El Boukhari",
+          "slug": "ksar-el-boukhari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26003"
+    ],
+    "geo": {
+      "lat": "35.879",
+      "lon": "2.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ksar-el-boukhari_mfatha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مفاتحة",
+      "en": "M'fatha",
+      "slug": "mfatha"
+    },
+    "code": {
+      "id": "DZ026_ksar-el-boukhari_mfatha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ksar-el-boukhari",
+      "level": 2,
+      "name": {
+        "local": "قصر البخاري",
+        "en": "Ksar El Boukhari",
+        "slug": "ksar-el-boukhari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ksar-el-boukhari",
+        "level": 2,
+        "name": {
+          "local": "قصر البخاري",
+          "en": "Ksar El Boukhari",
+          "slug": "ksar-el-boukhari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26049"
+    ],
+    "geo": {
+      "lat": "35.885",
+      "lon": "2.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ksar-el-boukhari_saneg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السانق",
+      "en": "Saneg",
+      "slug": "saneg"
+    },
+    "code": {
+      "id": "DZ026_ksar-el-boukhari_saneg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ksar-el-boukhari",
+      "level": 2,
+      "name": {
+        "local": "قصر البخاري",
+        "en": "Ksar El Boukhari",
+        "slug": "ksar-el-boukhari"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ksar-el-boukhari",
+        "level": 2,
+        "name": {
+          "local": "قصر البخاري",
+          "en": "Ksar El Boukhari",
+          "slug": "ksar-el-boukhari"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26067"
+    ],
+    "geo": {
+      "lat": "35.843",
+      "lon": "2.82"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

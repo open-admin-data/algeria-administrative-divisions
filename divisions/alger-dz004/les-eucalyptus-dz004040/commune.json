@@ -1,0 +1,45 @@
+{
+  "id": "DZ004040",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Les Eucalyptus",
+    "en": "Les Eucalyptus",
+    "slug": "les-eucalyptus-dz004040"
+  },
+  "code": {
+    "id": "DZ004040",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.67",
+    "lon": "3.167"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ045013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gouraya",
+    "en": "Gouraya",
+    "slug": "gouraya-dz045013"
+  },
+  "code": {
+    "id": "DZ045013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.532",
+    "lon": "1.917"
+  },
+  "metadata": {},
+  "source": {}
+}

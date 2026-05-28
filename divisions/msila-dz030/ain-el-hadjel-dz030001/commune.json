@@ -1,0 +1,45 @@
+{
+  "id": "DZ030001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Hadjel",
+    "en": "Ain El Hadjel",
+    "slug": "ain-el-hadjel-dz030001"
+  },
+  "code": {
+    "id": "DZ030001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.62",
+    "lon": "3.864"
+  },
+  "metadata": {},
+  "source": {}
+}

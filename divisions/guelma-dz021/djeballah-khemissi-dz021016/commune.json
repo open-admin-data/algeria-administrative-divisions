@@ -1,0 +1,45 @@
+{
+  "id": "DZ021016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djeballah Khemissi",
+    "en": "Djeballah Khemissi",
+    "slug": "djeballah-khemissi-dz021016"
+  },
+  "code": {
+    "id": "DZ021016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.502",
+    "lon": "7.56"
+  },
+  "metadata": {},
+  "source": {}
+}

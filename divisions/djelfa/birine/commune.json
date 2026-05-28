@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ017_birine_benhar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بنهار",
+      "en": "Benhar",
+      "slug": "benhar"
+    },
+    "code": {
+      "id": "DZ017_birine_benhar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_birine",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Birine",
+        "slug": "birine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_birine",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Birine",
+          "slug": "birine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17043"
+    ],
+    "geo": {
+      "lat": "35.506",
+      "lon": "3.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_birine_birine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بيرين",
+      "en": "Birine",
+      "slug": "birine"
+    },
+    "code": {
+      "id": "DZ017_birine_birine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_birine",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Birine",
+        "slug": "birine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_birine",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Birine",
+          "slug": "birine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17014"
+    ],
+    "geo": {
+      "lat": "35.653",
+      "lon": "3.259"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

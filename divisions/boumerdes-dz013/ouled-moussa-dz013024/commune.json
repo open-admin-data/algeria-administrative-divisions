@@ -1,0 +1,45 @@
+{
+  "id": "DZ013024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Moussa",
+    "en": "Ouled Moussa",
+    "slug": "ouled-moussa-dz013024"
+  },
+  "code": {
+    "id": "DZ013024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.688",
+    "lon": "3.379"
+  },
+  "metadata": {},
+  "source": {}
+}

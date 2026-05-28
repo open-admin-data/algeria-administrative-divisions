@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ036_bouhadjar_ain-kerma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الكرمة",
+      "en": "Ain Kerma",
+      "slug": "ain-kerma"
+    },
+    "code": {
+      "id": "DZ036_bouhadjar_ain-kerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouhadjar",
+      "level": 2,
+      "name": {
+        "local": "بوحجار",
+        "en": "Bouhadjar",
+        "slug": "bouhadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouhadjar",
+        "level": 2,
+        "name": {
+          "local": "بوحجار",
+          "en": "Bouhadjar",
+          "slug": "bouhadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31059"
+    ],
+    "geo": {
+      "lat": "35.64",
+      "lon": "-0.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouhadjar_bouhadjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحجار",
+      "en": "Bouhadjar",
+      "slug": "bouhadjar"
+    },
+    "code": {
+      "id": "DZ036_bouhadjar_bouhadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouhadjar",
+      "level": 2,
+      "name": {
+        "local": "بوحجار",
+        "en": "Bouhadjar",
+        "slug": "bouhadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouhadjar",
+        "level": 2,
+        "name": {
+          "local": "بوحجار",
+          "en": "Bouhadjar",
+          "slug": "bouhadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36005"
+    ],
+    "geo": {
+      "lat": "36.52",
+      "lon": "8.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouhadjar_hammam-beni-salah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام بني صالح",
+      "en": "Hammam Beni Salah",
+      "slug": "hammam-beni-salah"
+    },
+    "code": {
+      "id": "DZ036_bouhadjar_hammam-beni-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouhadjar",
+      "level": 2,
+      "name": {
+        "local": "بوحجار",
+        "en": "Bouhadjar",
+        "slug": "bouhadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouhadjar",
+        "level": 2,
+        "name": {
+          "local": "بوحجار",
+          "en": "Bouhadjar",
+          "slug": "bouhadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36036"
+    ],
+    "geo": {
+      "lat": "36.539",
+      "lon": "7.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036_bouhadjar_oued-zitoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الزيتون",
+      "en": "Oued Zitoun",
+      "slug": "oued-zitoun"
+    },
+    "code": {
+      "id": "DZ036_bouhadjar_oued-zitoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036_bouhadjar",
+      "level": 2,
+      "name": {
+        "local": "بوحجار",
+        "en": "Bouhadjar",
+        "slug": "bouhadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "الطارف",
+          "en": "El Tarf",
+          "slug": "el-tarf"
+        }
+      },
+      {
+        "id": "DZ036_bouhadjar",
+        "level": 2,
+        "name": {
+          "local": "بوحجار",
+          "en": "Bouhadjar",
+          "slug": "bouhadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36044"
+    ],
+    "geo": {
+      "lat": "36.446",
+      "lon": "8.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

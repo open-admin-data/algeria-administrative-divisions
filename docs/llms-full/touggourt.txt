@@ -1,0 +1,86 @@
+# Touggourt — Algeria Administrative Divisions
+
+> 5 dairas, 13 communes
+> Code: DZ055
+> Coordinates: 33.312, 5.693
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### الحجيرة (El-Hadjira)
+
+Code: DZ055_el-hadjira, Coordinates: 32.749, 5.835
+Communes: 2
+
+#### العالية (El Alia)
+
+Code: DZ055_el-hadjira_el-alia, Postal: 30023, Coordinates: 32.749, 5.835
+
+#### الحجيرة (El-Hadjira)
+
+Code: DZ055_el-hadjira_el-hadjira, Postal: 30006, Coordinates: 32.749, 5.835
+
+### المقارين (Megarine)
+
+Code: DZ055_megarine, Coordinates: 34.531, 3.841
+Communes: 2
+
+#### المقارين (Megarine)
+
+Code: DZ055_megarine_megarine, Postal: 30009, Coordinates: 33.205, 5.958
+
+#### سيدي سليمان (Sidi Slimane)
+
+Code: DZ055_megarine_sidi-slimane, Postal: 30030, Coordinates: 35.857, 1.723
+
+### الطيبات (Taibet)
+
+Code: DZ055_taibet, Coordinates: 32.944, 6.441
+Communes: 3
+
+#### بن ناصر (Benaceur)
+
+Code: DZ055_taibet_benaceur, Postal: 30020, Coordinates: 32.61, 6.677
+
+#### المنقر (M&#39;naguer)
+
+Code: DZ055_taibet_mnaguer, Postal: 30029, Coordinates: 33.128, 6.27
+
+#### الطيبات (Taibet)
+
+Code: DZ055_taibet_taibet, Postal: 30015, Coordinates: 33.093, 6.377
+
+### تماسين (Temacine)
+
+Code: DZ055_temacine, Coordinates: 33.312, 5.693
+Communes: 2
+
+#### بلدة اعمر (Blidet Amor)
+
+Code: DZ055_temacine_blidet-amor, Postal: 30005, Coordinates: 33.312, 5.693
+
+#### تماسين (Temacine)
+
+Code: DZ055_temacine_temacine, Postal: 30003, Coordinates: 33.312, 5.693
+
+### تقرت (Touggourt)
+
+Code: DZ055_touggourt, Coordinates: 33.119, 6.024
+Communes: 4
+
+#### النزلة (Nezla)
+
+Code: DZ055_touggourt_nezla, Postal: 30004, Coordinates: 33.072, 5.967
+
+#### تبسبست (Tebesbest)
+
+Code: DZ055_touggourt_tebesbest, Postal: 30058, Coordinates: 33.116, 6.107
+
+#### تقرت (Touggourt)
+
+Code: DZ055_touggourt_touggourt, Postal: 30002, Coordinates: 33.131, 5.916
+
+#### الزاوية العابدية (Zaouia El Abidia)
+
+Code: DZ055_touggourt_zaouia-el-abidia, Postal: 30018, Coordinates: 33.157, 6.104
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ012_bir-mokadem_bir-mokkadem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر مقدم",
+      "en": "Bir Mokkadem",
+      "slug": "bir-mokkadem"
+    },
+    "code": {
+      "id": "DZ012_bir-mokadem_bir-mokkadem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_bir-mokadem",
+      "level": 2,
+      "name": {
+        "local": "بئر مقدم",
+        "en": "Bir Mokadem",
+        "slug": "bir-mokadem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_bir-mokadem",
+        "level": 2,
+        "name": {
+          "local": "بئر مقدم",
+          "en": "Bir Mokadem",
+          "slug": "bir-mokadem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12011"
+    ],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_bir-mokadem_guorriguer",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قريقر",
+      "en": "Guorriguer",
+      "slug": "guorriguer"
+    },
+    "code": {
+      "id": "DZ012_bir-mokadem_guorriguer",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_bir-mokadem",
+      "level": 2,
+      "name": {
+        "local": "بئر مقدم",
+        "en": "Bir Mokadem",
+        "slug": "bir-mokadem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_bir-mokadem",
+        "level": 2,
+        "name": {
+          "local": "بئر مقدم",
+          "en": "Bir Mokadem",
+          "slug": "bir-mokadem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12046"
+    ],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_bir-mokadem_hammamet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمامات",
+      "en": "Hammamet",
+      "slug": "hammamet"
+    },
+    "code": {
+      "id": "DZ012_bir-mokadem_hammamet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_bir-mokadem",
+      "level": 2,
+      "name": {
+        "local": "بئر مقدم",
+        "en": "Bir Mokadem",
+        "slug": "bir-mokadem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_bir-mokadem",
+        "level": 2,
+        "name": {
+          "local": "بئر مقدم",
+          "en": "Bir Mokadem",
+          "slug": "bir-mokadem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12016"
+    ],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

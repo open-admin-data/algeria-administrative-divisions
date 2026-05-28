@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ021_zitouna_kanoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قنواع",
+      "en": "Kanoua",
+      "slug": "kanoua"
+    },
+    "code": {
+      "id": "DZ021_zitouna_kanoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_zitouna",
+      "level": 2,
+      "name": {
+        "local": "الزيتونة",
+        "en": "Zitouna",
+        "slug": "zitouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_zitouna",
+        "level": 2,
+        "name": {
+          "local": "الزيتونة",
+          "en": "Zitouna",
+          "slug": "zitouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21062"
+    ],
+    "geo": {
+      "lat": "37.049",
+      "lon": "6.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_zitouna_zitouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزيتونة",
+      "en": "Zitouna",
+      "slug": "zitouna"
+    },
+    "code": {
+      "id": "DZ021_zitouna_zitouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_zitouna",
+      "level": 2,
+      "name": {
+        "local": "الزيتونة",
+        "en": "Zitouna",
+        "slug": "zitouna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_zitouna",
+        "level": 2,
+        "name": {
+          "local": "الزيتونة",
+          "en": "Zitouna",
+          "slug": "zitouna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21028"
+    ],
+    "geo": {
+      "lat": "36.991",
+      "lon": "6.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ035022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Merdjet Sidi Abed",
+    "en": "Merdjet Sidi Abed",
+    "slug": "merdjet-sidi-abed-dz035022"
+  },
+  "code": {
+    "id": "DZ035022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.001",
+    "lon": "1.018"
+  },
+  "metadata": {},
+  "source": {}
+}

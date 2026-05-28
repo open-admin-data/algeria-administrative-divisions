@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ052_igli_igli",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إقلي",
+      "en": "Igli",
+      "slug": "igli"
+    },
+    "code": {
+      "id": "DZ052_igli_igli",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_igli",
+      "level": 2,
+      "name": {
+        "local": "إقلي",
+        "en": "Igli",
+        "slug": "igli"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_igli",
+        "level": 2,
+        "name": {
+          "local": "إقلي",
+          "en": "Igli",
+          "slug": "igli"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08021"
+    ],
+    "geo": {
+      "lat": "30.479",
+      "lon": "-2.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

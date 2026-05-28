@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ018_settara_ghebala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غبالة",
+      "en": "Ghebala",
+      "slug": "ghebala"
+    },
+    "code": {
+      "id": "DZ018_settara_ghebala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_settara",
+      "level": 2,
+      "name": {
+        "local": "السطارة",
+        "en": "Settara",
+        "slug": "settara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_settara",
+        "level": 2,
+        "name": {
+          "local": "السطارة",
+          "en": "Settara",
+          "slug": "settara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18026"
+    ],
+    "geo": {
+      "lat": "36.707",
+      "lon": "6.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_settara_settara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السطارة",
+      "en": "Settara",
+      "slug": "settara"
+    },
+    "code": {
+      "id": "DZ018_settara_settara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_settara",
+      "level": 2,
+      "name": {
+        "local": "السطارة",
+        "en": "Settara",
+        "slug": "settara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_settara",
+        "level": 2,
+        "name": {
+          "local": "السطارة",
+          "en": "Settara",
+          "slug": "settara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18016"
+    ],
+    "geo": {
+      "lat": "36.707",
+      "lon": "6.363"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

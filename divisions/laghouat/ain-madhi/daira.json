@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_ain-madhi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين ماضي",
+    "en": "Ain Madhi",
+    "slug": "ain-madhi"
+  },
+  "code": {
+    "id": "DZ003_ain-madhi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.606",
+    "lon": "2.449"
+  },
+  "metadata": {},
+  "source": {}
+}

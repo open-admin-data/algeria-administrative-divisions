@@ -1,0 +1,184 @@
+# Chlef — Algeria Administrative Divisions
+
+> 35 communes
+> Code: DZ014
+> Coordinates: 36.205, 1.267
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Abou El Hassen
+
+Code: DZ014001, Coordinates: 36.412, 1.194
+
+
+### Ain Merane
+
+Code: DZ014002, Coordinates: 36.179, 0.973
+
+
+### Benairia
+
+Code: DZ014003, Coordinates: 36.388, 1.377
+
+
+### Beni Bouattab
+
+Code: DZ014004, Coordinates: 35.992, 1.658
+
+
+### Beni Haoua
+
+Code: DZ014005, Coordinates: 36.494, 1.548
+
+
+### Beni Rached
+
+Code: DZ014006, Coordinates: 36.296, 1.532
+
+
+### Boukadir
+
+Code: DZ014007, Coordinates: 36.026, 1.13
+
+
+### Bouzeghaia
+
+Code: DZ014008, Coordinates: 36.365, 1.264
+
+
+### Breira
+
+Code: DZ014009, Coordinates: 36.451, 1.584
+
+
+### Chettia
+
+Code: DZ014010, Coordinates: 36.182, 1.256
+
+
+### Chlef
+
+Code: DZ014011, Coordinates: 36.174, 1.337
+
+
+### Dahra
+
+Code: DZ014012, Coordinates: 36.279, 0.79
+
+
+### El Hadjadj
+
+Code: DZ014013, Coordinates: 36.007, 1.375
+
+
+### El Karimia
+
+Code: DZ014014, Coordinates: 36.079, 1.589
+
+
+### El Marsa
+
+Code: DZ014015, Coordinates: 36.401, 0.963
+
+
+### Harchoun
+
+Code: DZ014016, Coordinates: 36.122, 1.487
+
+
+### Herenfa
+
+Code: DZ014017, Coordinates: 36.245, 1.061
+
+
+### Labiodh Medjadja
+
+Code: DZ014018, Coordinates: 36.271, 1.396
+
+
+### Moussadek
+
+Code: DZ014019, Coordinates: 36.353, 1.018
+
+
+### Oued Fodda
+
+Code: DZ014020, Coordinates: 36.204, 1.565
+
+
+### Oued Ghoussine
+
+Code: DZ014021, Coordinates: 36.496, 1.453
+
+
+### Oued Sly
+
+Code: DZ014022, Coordinates: 36.082, 1.228
+
+
+### Ouled Abbes
+
+Code: DZ014023, Coordinates: 36.216, 1.482
+
+
+### Ouled Ben Abdelkader
+
+Code: DZ014024, Coordinates: 35.97, 1.333
+
+
+### Ouled Fares
+
+Code: DZ014025, Coordinates: 36.233, 1.21
+
+
+### Oum Drou
+
+Code: DZ014026, Coordinates: 36.207, 1.403
+
+
+### Sendjas
+
+Code: DZ014027, Coordinates: 36.043, 1.456
+
+
+### Sidi Abderrahmane
+
+Code: DZ014028, Coordinates: 36.48, 1.129
+
+
+### Sidi Akkacha
+
+Code: DZ014029, Coordinates: 36.439, 1.343
+
+
+### Sobha
+
+Code: DZ014030, Coordinates: 36.108, 1.032
+
+
+### Tadjena
+
+Code: DZ014031, Coordinates: 36.339, 1.118
+
+
+### Talassa
+
+Code: DZ014032, Coordinates: 36.422, 1.072
+
+
+### Taougrite
+
+Code: DZ014033, Coordinates: 36.288, 0.932
+
+
+### Tenes
+
+Code: DZ014034, Coordinates: 36.508, 1.349
+
+
+### Zeboudja
+
+Code: DZ014035, Coordinates: 36.393, 1.48
+
+

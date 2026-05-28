@@ -1,0 +1,247 @@
+# Tiaret — Algeria Administrative Divisions
+
+> 14 dairas, 42 communes
+> Code: DZ014
+> Coordinates: 34.897, 1.591
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الذهب (Ain Deheb)
+
+Code: DZ014_ain-deheb, Coordinates: 34.659, 1.568
+Communes: 3
+
+#### عين الذهب (Ain Deheb)
+
+Code: DZ014_ain-deheb_ain-deheb, Postal: 14007, Coordinates: 34.623, 1.615
+
+#### شحيمة (Chehaima)
+
+Code: DZ014_ain-deheb_chehaima, Postal: 14046, Coordinates: 34.542, 1.388
+
+#### النعيمة (Naima)
+
+Code: DZ014_ain-deheb_naima, Postal: 14060, Coordinates: 34.812, 1.7
+
+### عين كرمس (Ain Kermes)
+
+Code: DZ014_ain-kermes, Coordinates: 34.786, 1.014
+Communes: 5
+
+#### عين كرمس (Ain Kermes)
+
+Code: DZ014_ain-kermes_ain-kermes, Postal: 14009, Coordinates: 34.941, 1.072
+
+#### جبيلات الرصفاء (Djebilet Rosfa)
+
+Code: DZ014_ain-kermes_djebilet-rosfa, Postal: 14061, Coordinates: 34.851, 0.791
+
+#### مادنة (Madna)
+
+Code: DZ014_ain-kermes_madna, Postal: 14055, Coordinates: 34.759, 0.919
+
+#### مدريسة (Medrissa)
+
+Code: DZ014_ain-kermes_medrissa, Postal: 14013, Coordinates: 34.835, 1.232
+
+#### سيدي عبد الرحمن (Sidi Abderrahmane)
+
+Code: DZ014_ain-kermes_sidi-abderrahmane, Postal: 02066, Coordinates: 34.543, 1.055
+
+### دحموني (Dahmouni)
+
+Code: DZ014_dahmouni, Coordinates: 35.393, 1.453
+Communes: 2
+
+#### عين بوشقيف (Ain Bouchekif)
+
+Code: DZ014_dahmouni_ain-bouchekif, Postal: 14040, Coordinates: 35.333, 1.483
+
+#### دحموني (Dahmouni)
+
+Code: DZ014_dahmouni_dahmouni, Postal: 14010, Coordinates: 35.453, 1.422
+
+### فرندة (Frenda)
+
+Code: DZ014_frenda, Coordinates: 35.11, 0.952
+Communes: 3
+
+#### عين الحديد (Ain El Hadid)
+
+Code: DZ014_frenda_ain-el-hadid, Postal: 14008, Coordinates: 35.138, 0.838
+
+#### فرندة (Frenda)
+
+Code: DZ014_frenda_frenda, Postal: 14001, Coordinates: 35.082, 1.067
+
+#### تخمرت (Takhemaret)
+
+Code: DZ014_frenda_takhemaret, Postal: 14015, Coordinates: 35.11, 0.952
+
+### حمادية (Hamadia)
+
+Code: DZ014_hamadia, Coordinates: 35.448, 1.995
+Communes: 3
+
+#### بوقرة (Bougara)
+
+Code: DZ014_hamadia_bougara, Postal: 09008, Coordinates: 35.548, 1.988
+
+#### حمادية (Hamadia)
+
+Code: DZ014_hamadia_hamadia, Postal: 14020, Coordinates: 35.481, 1.878
+
+#### الرشايقة (Rechaiga)
+
+Code: DZ014_hamadia_rechaiga, Postal: 14026, Coordinates: 35.315, 2.118
+
+### قصر الشلالة (Ksar Chellala)
+
+Code: DZ014_ksar-chellala, Coordinates: 35.23, 2.415
+Communes: 3
+
+#### قصر الشلالة (Ksar Chellala)
+
+Code: DZ014_ksar-chellala_ksar-chellala, Postal: 14002, Coordinates: 35.25, 2.314
+
+#### سرغين (Serghine)
+
+Code: DZ014_ksar-chellala_serghine, Postal: 14051, Coordinates: 35.211, 2.516
+
+#### زمالة  الأمير عبد القادر (Zmalet El Emir Abdelkade)
+
+Code: DZ014_ksar-chellala_zmalet-el-emir-abdelkade, Postal: 14038, Coordinates: 35.23, 2.415
+
+### مهدية (Mahdia)
+
+Code: DZ014_mahdia, Coordinates: 35.379, 1.751
+Communes: 4
+
+#### عين دزاريت (Ain Dzarit)
+
+Code: DZ014_mahdia_ain-dzarit, Postal: 14017, Coordinates: 35.379, 1.751
+
+#### مهدية (Mahdia)
+
+Code: DZ014_mahdia_mahdia, Postal: 14004, Coordinates: 35.458, 1.739
+
+#### الناظورة (Nadorah)
+
+Code: DZ014_mahdia_nadorah, Postal: 14058, Coordinates: 35.219, 1.91
+
+#### السبعين (Sebaine)
+
+Code: DZ014_mahdia_sebaine, Postal: 14030, Coordinates: 35.46, 1.605
+
+### مشرع الصفا (Mechraa Sfa)
+
+Code: DZ014_mechraa-sfa, Coordinates: 35.356, 0.896
+Communes: 3
+
+#### جيلالي بن عمار (Djillali Ben Amar)
+
+Code: DZ014_mechraa-sfa_djillali-ben-amar, Postal: 14016, Coordinates: 35.356, 0.896
+
+#### مشرع الصفا (Mechraa Safa)
+
+Code: DZ014_mechraa-sfa_mechraa-safa, Postal: 14012, Coordinates: 35.356, 0.896
+
+#### تاقدمت (Tagdempt)
+
+Code: DZ014_mechraa-sfa_tagdempt, Postal: 14068, Coordinates: 35.356, 0.896
+
+### مدروسة (Medroussa)
+
+Code: DZ014_medroussa, Coordinates: 35.222, 1.142
+Communes: 3
+
+#### مدروسة (Medroussa)
+
+Code: DZ014_medroussa_medroussa, Postal: 14023, Coordinates: 35.186, 1.152
+
+#### ملاكو (Mellakou)
+
+Code: DZ014_medroussa_mellakou, Postal: 14025, Coordinates: 35.24, 1.278
+
+#### سيدي بختي (Sidi Bakhti)
+
+Code: DZ014_medroussa_sidi-bakhti, Postal: 14065, Coordinates: 35.24, 0.995
+
+### مغيلة (Meghila)
+
+Code: DZ014_meghila, Coordinates: 35.596, 1.439
+Communes: 3
+
+#### مغيلة (Meghila)
+
+Code: DZ014_meghila_meghila, Postal: 14024, Coordinates: 35.609, 1.434
+
+#### السبت (Sebt)
+
+Code: DZ014_meghila_sebt, Coordinates: 35.649, 1.379
+
+#### سيدي حسني (Sidi Hosni)
+
+Code: DZ014_meghila_sidi-hosni, Postal: 14029, Coordinates: 35.531, 1.505
+
+### وادي ليلي (Oued Lili)
+
+Code: DZ014_oued-lili, Coordinates: 35.573, 1.233
+Communes: 3
+
+#### وادي ليلي (Oued Lilli)
+
+Code: DZ014_oued-lili_oued-lilli, Postal: 14014, Coordinates: 35.51, 1.266
+
+#### سيدي علي ملال (Sidi Ali Mellal)
+
+Code: DZ014_oued-lili_sidi-ali-mellal, Postal: 14064, Coordinates: 35.603, 1.165
+
+#### تيدة (Tidda)
+
+Code: DZ014_oued-lili_tidda, Postal: 14071, Coordinates: 35.605, 1.269
+
+### رحوية (Rahouia)
+
+Code: DZ014_rahouia, Coordinates: 35.492, 1.091
+Communes: 2
+
+#### قرطوفة (Guertoufa)
+
+Code: DZ014_rahouia_guertoufa, Postal: 14019, Coordinates: 35.452, 1.166
+
+#### الرحوية (Rahouia)
+
+Code: DZ014_rahouia_rahouia, Postal: 14005, Coordinates: 35.532, 1.016
+
+### السوقر (Sougueur)
+
+Code: DZ014_sougueur, Coordinates: 35.073, 1.568
+Communes: 4
+
+#### الفايجة (Faidja)
+
+Code: DZ014_sougueur_faidja, Postal: 14049, Coordinates: 34.897, 1.956
+
+#### سي عبد الغني (Si Abdelghani)
+
+Code: DZ014_sougueur_si-abdelghani, Postal: 14027, Coordinates: 35.073, 1.568
+
+#### السوقر (Sougueur)
+
+Code: DZ014_sougueur_sougueur, Postal: 14003, Coordinates: 35.226, 1.427
+
+#### توسنينة (Tousnina)
+
+Code: DZ014_sougueur_tousnina, Postal: 14037, Coordinates: 35.097, 1.32
+
+### تيارت (Tiaret)
+
+Code: DZ014_tiaret, Coordinates: 35.349, 1.332
+Communes: 1
+
+#### تيارت (Tiaret)
+
+Code: DZ014_tiaret_tiaret, Postal: 14000, Coordinates: 35.349, 1.332
+

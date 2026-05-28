@@ -1,0 +1,134 @@
+# Blida — Algeria Administrative Divisions
+
+> 25 communes
+> Code: DZ010
+> Coordinates: 36.504, 2.956
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Romana
+
+Code: DZ010001, Coordinates: 36.391, 2.672
+
+
+### Ben Khelil
+
+Code: DZ010002, Coordinates: 36.601, 2.849
+
+
+### Beni Mered
+
+Code: DZ010003, Coordinates: 36.536, 2.86
+
+
+### Beni Tamou
+
+Code: DZ010004, Coordinates: 36.543, 2.818
+
+
+### Blida
+
+Code: DZ010005, Coordinates: 36.483, 2.808
+
+
+### Bouarfa
+
+Code: DZ010006, Coordinates: 36.417, 2.793
+
+
+### Boufarik
+
+Code: DZ010007, Coordinates: 36.582, 2.921
+
+
+### Bougara
+
+Code: DZ010008, Coordinates: 36.497, 3.096
+
+
+### Bouinan
+
+Code: DZ010009, Coordinates: 36.519, 2.99
+
+
+### Chebli
+
+Code: DZ010010, Coordinates: 36.572, 3.018
+
+
+### Chiffa
+
+Code: DZ010011, Coordinates: 36.45, 2.73
+
+
+### Chrea
+
+Code: DZ010012, Coordinates: 36.429, 2.883
+
+
+### Djebabra
+
+Code: DZ010013, Coordinates: 36.586, 3.258
+
+
+### El Affroun
+
+Code: DZ010014, Coordinates: 36.45, 2.623
+
+
+### Guerrouaou
+
+Code: DZ010015, Coordinates: 36.505, 2.891
+
+
+### Hammam Melouane
+
+Code: DZ010016, Coordinates: 36.439, 2.999
+
+
+### Larbaa
+
+Code: DZ010017, Coordinates: 36.581, 3.153
+
+
+### Meftah
+
+Code: DZ010018, Coordinates: 36.626, 3.229
+
+
+### Mouzaia
+
+Code: DZ010019, Coordinates: 36.507, 2.678
+
+
+### Oued Djer
+
+Code: DZ010020, Coordinates: 36.426, 2.541
+
+
+### Oued El Alleug
+
+Code: DZ010021, Coordinates: 36.554, 2.771
+
+
+### Ouled Slama
+
+Code: DZ010022, Coordinates: 36.517, 3.127
+
+
+### Ouled Yaich
+
+Code: DZ010023, Coordinates: 36.489, 2.868
+
+
+### Souhane
+
+Code: DZ010024, Coordinates: 36.531, 3.25
+
+
+### Soumaa
+
+Code: DZ010025, Coordinates: 36.509, 2.912
+
+

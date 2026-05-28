@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ032_el-bayadh_el-bayadh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh"
+    },
+    "code": {
+      "id": "DZ032_el-bayadh_el-bayadh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_el-bayadh",
+      "level": 2,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_el-bayadh",
+        "level": 2,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32000"
+    ],
+    "geo": {
+      "lat": "33.647",
+      "lon": "1.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

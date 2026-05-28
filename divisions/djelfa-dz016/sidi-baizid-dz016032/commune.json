@@ -1,0 +1,45 @@
+{
+  "id": "DZ016032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Baizid",
+    "en": "Sidi Baizid",
+    "slug": "sidi-baizid-dz016032"
+  },
+  "code": {
+    "id": "DZ016032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.021",
+    "lon": "3.43"
+  },
+  "metadata": {},
+  "source": {}
+}

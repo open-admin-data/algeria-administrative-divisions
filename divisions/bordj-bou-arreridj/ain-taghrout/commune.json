@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ034_ain-taghrout_ain-taghrout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تاغروت",
+      "en": "Ain Taghrout",
+      "slug": "ain-taghrout"
+    },
+    "code": {
+      "id": "DZ034_ain-taghrout_ain-taghrout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_ain-taghrout",
+      "level": 2,
+      "name": {
+        "local": "عين تاغروت",
+        "en": "Ain Taghrout",
+        "slug": "ain-taghrout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_ain-taghrout",
+        "level": 2,
+        "name": {
+          "local": "عين تاغروت",
+          "en": "Ain Taghrout",
+          "slug": "ain-taghrout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34010"
+    ],
+    "geo": {
+      "lat": "36.149",
+      "lon": "5.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_ain-taghrout_tixter",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيكستار",
+      "en": "Tixter",
+      "slug": "tixter"
+    },
+    "code": {
+      "id": "DZ034_ain-taghrout_tixter",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_ain-taghrout",
+      "level": 2,
+      "name": {
+        "local": "عين تاغروت",
+        "en": "Ain Taghrout",
+        "slug": "ain-taghrout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_ain-taghrout",
+        "level": 2,
+        "name": {
+          "local": "عين تاغروت",
+          "en": "Ain Taghrout",
+          "slug": "ain-taghrout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34022"
+    ],
+    "geo": {
+      "lat": "36.034",
+      "lon": "5.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

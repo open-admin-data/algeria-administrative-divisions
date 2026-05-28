@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ028_khoubana_el-houamed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحوامد",
+      "en": "El Houamed",
+      "slug": "el-houamed"
+    },
+    "code": {
+      "id": "DZ028_khoubana_el-houamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_khoubana",
+      "level": 2,
+      "name": {
+        "local": "خبانة",
+        "en": "Khoubana",
+        "slug": "khoubana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_khoubana",
+        "level": 2,
+        "name": {
+          "local": "خبانة",
+          "en": "Khoubana",
+          "slug": "khoubana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.168",
+      "lon": "4.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_khoubana_khoubana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خبانة",
+      "en": "Khoubana",
+      "slug": "khoubana"
+    },
+    "code": {
+      "id": "DZ028_khoubana_khoubana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_khoubana",
+      "level": 2,
+      "name": {
+        "local": "خبانة",
+        "en": "Khoubana",
+        "slug": "khoubana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_khoubana",
+        "level": 2,
+        "name": {
+          "local": "خبانة",
+          "en": "Khoubana",
+          "slug": "khoubana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28030"
+    ],
+    "geo": {
+      "lat": "35.326",
+      "lon": "4.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_khoubana_mcif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسيف",
+      "en": "M'cif",
+      "slug": "mcif"
+    },
+    "code": {
+      "id": "DZ028_khoubana_mcif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_khoubana",
+      "level": 2,
+      "name": {
+        "local": "خبانة",
+        "en": "Khoubana",
+        "slug": "khoubana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_khoubana",
+        "level": 2,
+        "name": {
+          "local": "خبانة",
+          "en": "Khoubana",
+          "slug": "khoubana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28029"
+    ],
+    "geo": {
+      "lat": "35.328",
+      "lon": "4.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

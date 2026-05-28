@@ -1,0 +1,47 @@
+{
+  "id": "DZ015_larbaa-nath-iraten",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الأربعاء ناث إيراثن",
+    "en": "Larbaa Nath Iraten",
+    "slug": "larbaa-nath-iraten"
+  },
+  "code": {
+    "id": "DZ015_larbaa-nath-iraten",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.648",
+    "lon": "4.197"
+  },
+  "metadata": {},
+  "source": {}
+}

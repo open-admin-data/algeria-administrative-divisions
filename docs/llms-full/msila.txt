@@ -1,0 +1,272 @@
+# M&#39;Sila — Algeria Administrative Divisions
+
+> 15 dairas, 47 communes
+> Code: DZ028
+> Coordinates: 35.125, 4.21
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الحجل (Ain El Hadjel)
+
+Code: DZ028_ain-el-hadjel, Coordinates: 35.662, 3.963
+Communes: 2
+
+#### عين الحجل (Ain El Hadjel)
+
+Code: DZ028_ain-el-hadjel_ain-el-hadjel, Postal: 28003, Coordinates: 35.62, 3.864
+
+#### سيدي هجرس (Sidi Hadjeres)
+
+Code: DZ028_ain-el-hadjel_sidi-hadjeres, Postal: 28036, Coordinates: 35.703, 4.063
+
+### عين الملح (Ain El Melh)
+
+Code: DZ028_ain-el-melh, Coordinates: 34.772, 4.321
+Communes: 5
+
+#### عين الملح (Ain El Melh)
+
+Code: DZ028_ain-el-melh_ain-el-melh, Postal: 28004, Coordinates: 34.793, 4.161
+
+#### عين فارس (Ain Fares)
+
+Code: DZ028_ain-el-melh_ain-fares, Postal: 28023, Coordinates: 34.749, 4.484
+
+#### عين الريش (Ain Rich)
+
+Code: DZ028_ain-el-melh_ain-rich, Postal: 28025, Coordinates: 34.772, 4.321
+
+#### بئر فضة (Bir Foda)
+
+Code: DZ028_ain-el-melh_bir-foda, Postal: 28043, Coordinates: 34.772, 4.321
+
+#### سيدي امحمد (Sidi M&#39;hamed)
+
+Code: DZ028_ain-el-melh_sidi-mhamed, Postal: 16002, Coordinates: 34.775, 4.319
+
+### بن سرور (Ben Srour)
+
+Code: DZ028_ben-srour, Coordinates: 34.942, 4.637
+Communes: 4
+
+#### بن سرور (Ben Srour)
+
+Code: DZ028_ben-srour_ben-srour, Postal: 28009, Coordinates: 34.994, 4.554
+
+#### محمد بوضياف (Mohamed Boudiaf)
+
+Code: DZ028_ben-srour_mohamed-boudiaf, Postal: 28033, Coordinates: 34.902, 4.504
+
+#### أولاد سليمان (Ouled Slimane)
+
+Code: DZ028_ben-srour_ouled-slimane, Postal: 28031, Coordinates: 34.929, 4.854
+
+#### زرزور (Zarzour)
+
+Code: DZ028_ben-srour_zarzour, Postal: 28067, Coordinates: 34.942, 4.637
+
+### بوسعادة (Bousaada)
+
+Code: DZ028_bousaada, Coordinates: 35.119, 4.06
+Communes: 3
+
+#### بوسعادة (Bou Saada)
+
+Code: DZ028_bousaada_bou-saada, Postal: 28001, Coordinates: 35.119, 4.06
+
+#### الهامل (El Hamel)
+
+Code: DZ028_bousaada_el-hamel, Postal: 28015, Coordinates: 35.119, 4.06
+
+#### ولتام (Oulteme)
+
+Code: DZ028_bousaada_oulteme, Postal: 28054, Coordinates: 35.119, 4.06
+
+### شلال (Chellal)
+
+Code: DZ028_chellal, Coordinates: 35.457, 4.426
+Communes: 4
+
+#### شلال (Chellal)
+
+Code: DZ028_chellal_chellal, Postal: 28014, Coordinates: 35.511, 4.382
+
+#### خطوطي سد الجير (Khettouti Sed-El-Jir)
+
+Code: DZ028_chellal_khettouti-sed-el-jir, Postal: 28056, Coordinates: 35.457, 4.426
+
+#### معاريف (Maarif)
+
+Code: DZ028_chellal_maarif, Postal: 28041, Coordinates: 35.367, 4.294
+
+#### أولاد ماضي (Ouled Madhi)
+
+Code: DZ028_chellal_ouled-madhi, Postal: 28047, Coordinates: 35.492, 4.603
+
+### جبل مساعد (Djebel Messaad)
+
+Code: DZ028_djebel-messaad, Coordinates: 34.972, 3.979
+Communes: 2
+
+#### جبل مساعد (Djebel Messaad)
+
+Code: DZ028_djebel-messaad_djebel-messaad, Postal: 28024, Coordinates: 34.987, 4.096
+
+#### سليم (Slim)
+
+Code: DZ028_djebel-messaad_slim, Postal: 28037, Coordinates: 34.957, 3.862
+
+### حمام الضلعة (Hammam Dalaa)
+
+Code: DZ028_hammam-dalaa, Coordinates: 35.776, 4.329
+Communes: 4
+
+#### حمام الضلعة (Hammam Dalaa)
+
+Code: DZ028_hammam-dalaa_hammam-dalaa, Postal: 28005, Coordinates: 35.776, 4.329
+
+#### ونوغة (Ouanougha)
+
+Code: DZ028_hammam-dalaa_ouanougha, Postal: 28017, Coordinates: 35.776, 4.329
+
+#### أولاد منصور (Ouled Mansour)
+
+Code: DZ028_hammam-dalaa_ouled-mansour, Postal: 28060, Coordinates: 35.733, 4.386
+
+#### تارمونت (Tarmount)
+
+Code: DZ028_hammam-dalaa_tarmount, Postal: 28038, Coordinates: 35.82, 4.272
+
+### خبانة (Khoubana)
+
+Code: DZ028_khoubana, Coordinates: 35.274, 4.591
+Communes: 3
+
+#### الحوامد (El Houamed)
+
+Code: DZ028_khoubana_el-houamed, Coordinates: 35.168, 4.557
+
+#### خبانة (Khoubana)
+
+Code: DZ028_khoubana_khoubana, Postal: 28030, Coordinates: 35.326, 4.481
+
+#### مسيف (M&#39;cif)
+
+Code: DZ028_khoubana_mcif, Postal: 28029, Coordinates: 35.328, 4.735
+
+### المسيلة (M&#39;sila)
+
+Code: DZ028_msila, Coordinates: 35.723, 4.505
+Communes: 1
+
+#### المسيلة (M&#39;sila)
+
+Code: DZ028_msila_msila, Postal: 28000, Coordinates: 35.723, 4.505
+
+### مقرة (Magra)
+
+Code: DZ028_magra, Coordinates: 35.621, 5.055
+Communes: 5
+
+#### عين الخضراء (Ain Khadra)
+
+Code: DZ028_magra_ain-khadra, Postal: 28008, Coordinates: 35.55, 4.936
+
+#### بلعايبة (Belaiba)
+
+Code: DZ028_magra_belaiba, Postal: 28026, Coordinates: 35.572, 5.181
+
+#### برهوم (Berhoum)
+
+Code: DZ028_magra_berhoum, Postal: 28010, Coordinates: 35.636, 4.993
+
+#### دهاهنة (Dehahna)
+
+Code: DZ028_magra_dehahna, Postal: 28048, Coordinates: 35.734, 5.03
+
+#### مقرة (Magra)
+
+Code: DZ028_magra_magra, Postal: 28006, Coordinates: 35.613, 5.134
+
+### امجدل (Medjedel)
+
+Code: DZ028_medjedel, Coordinates: 35.099, 3.694
+Communes: 2
+
+#### امجدل (Medjedel)
+
+Code: DZ028_medjedel_medjedel, Postal: 28016, Coordinates: 35.063, 3.67
+
+#### مناعة (Menaa)
+
+Code: DZ028_medjedel_menaa, Postal: 05100, Coordinates: 35.135, 3.719
+
+### أولاد دراج (Ouled Derradj)
+
+Code: DZ028_ouled-derradj, Coordinates: 35.902, 4.691
+Communes: 5
+
+#### المطارفة (M&#39;tarfa)
+
+Code: DZ028_ouled-derradj_mtarfa, Coordinates: 35.69, 4.652
+
+#### المعاضيد (Maadid)
+
+Code: DZ028_ouled-derradj_maadid, Postal: 28011, Coordinates: 35.796, 4.757
+
+#### أولاد عدي لقبالة (Ouled Addi Guebala)
+
+Code: DZ028_ouled-derradj_ouled-addi-guebala, Postal: 28021, Coordinates: 35.677, 4.906
+
+#### أولاد دراج (Ouled Derradj)
+
+Code: DZ028_ouled-derradj_ouled-derradj, Postal: 28022, Coordinates: 35.674, 4.786
+
+#### السوامع (Souamaa)
+
+Code: DZ028_ouled-derradj_souamaa, Postal: 28064, Coordinates: 36.675, 4.353
+
+### أولاد سيدي ابراهيم (Ouled Sidi Brahim)
+
+Code: DZ028_ouled-sidi-brahim, Coordinates: 35.412, 4.12
+Communes: 2
+
+#### بن زوه (Benzouh)
+
+Code: DZ028_ouled-sidi-brahim_benzouh, Postal: 28028, Coordinates: 35.468, 4.101
+
+#### أولاد سيدي ابراهيم (Ouled Sidi Brahim)
+
+Code: DZ028_ouled-sidi-brahim_ouled-sidi-brahim, Postal: 28032, Coordinates: 35.356, 4.138
+
+### سيدي عيسى (Sidi Aissa)
+
+Code: DZ028_sidi-aissa, Coordinates: 35.747, 3.743
+Communes: 3
+
+#### بني يلمان (Beni Ilmane)
+
+Code: DZ028_sidi-aissa_beni-ilmane, Postal: 28027, Coordinates: 35.747, 3.743
+
+#### بوطي السايح (Bouti Sayeh)
+
+Code: DZ028_sidi-aissa_bouti-sayeh, Postal: 28042, Coordinates: 35.667, 3.676
+
+#### سيدي عيسى (Sidi Aissa)
+
+Code: DZ028_sidi-aissa_sidi-aissa, Postal: 28002, Coordinates: 35.827, 3.809
+
+### سيدي عامر (Sidi Ameur)
+
+Code: DZ028_sidi-ameur, Coordinates: 35.287, 3.874
+Communes: 2
+
+#### سيدي عامر (Sidi Ameur)
+
+Code: DZ028_sidi-ameur_sidi-ameur, Coordinates: 35.368, 3.824
+
+#### تامسة (Tamsa)
+
+Code: DZ028_sidi-ameur_tamsa, Postal: 28065, Coordinates: 35.205, 3.924
+

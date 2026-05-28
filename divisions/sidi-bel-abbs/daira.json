@@ -1,0 +1,707 @@
+[
+  {
+    "id": "DZ022_ain-el-berd",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين البرد",
+      "en": "Ain El Berd",
+      "slug": "ain-el-berd"
+    },
+    "code": {
+      "id": "DZ022_ain-el-berd",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.345",
+      "lon": "-0.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ben-badis",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بن باديس",
+      "en": "Ben Badis",
+      "slug": "ben-badis"
+    },
+    "code": {
+      "id": "DZ022_ben-badis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.98",
+      "lon": "-0.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_marhoum",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مرحوم",
+      "en": "Marhoum",
+      "slug": "marhoum"
+    },
+    "code": {
+      "id": "DZ022_marhoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.452",
+      "lon": "-0.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_merine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مرين",
+      "en": "Merine",
+      "slug": "merine"
+    },
+    "code": {
+      "id": "DZ022_merine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.674",
+      "lon": "-0.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_mostefa-ben-brahim",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مصطفى بن ابراهيم",
+      "en": "Mostefa  Ben Brahim",
+      "slug": "mostefa-ben-brahim"
+    },
+    "code": {
+      "id": "DZ022_mostefa-ben-brahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.186",
+      "lon": "-0.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_moulay-slissen",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مولاي سليسن",
+      "en": "Moulay Slissen",
+      "slug": "moulay-slissen"
+    },
+    "code": {
+      "id": "DZ022_moulay-slissen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.753",
+      "lon": "-0.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_ras-el-ma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "راس الماء",
+      "en": "Ras El Ma",
+      "slug": "ras-el-ma"
+    },
+    "code": {
+      "id": "DZ022_ras-el-ma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.504",
+      "lon": "-0.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sfisef",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سفيزف",
+      "en": "Sfisef",
+      "slug": "sfisef"
+    },
+    "code": {
+      "id": "DZ022_sfisef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.262",
+      "lon": "-0.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-ben-youb",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي علي بن يوب",
+      "en": "Sidi Ali Ben Youb",
+      "slug": "sidi-ali-ben-youb"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-ben-youb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.986",
+      "lon": "-0.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-ali-boussidi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي علي بوسيدي",
+      "en": "Sidi Ali Boussidi",
+      "slug": "sidi-ali-boussidi"
+    },
+    "code": {
+      "id": "DZ022_sidi-ali-boussidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.108",
+      "lon": "-0.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-bel-abbes",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes"
+    },
+    "code": {
+      "id": "DZ022_sidi-bel-abbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.21",
+      "lon": "-0.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_sidi-lahcene",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي لحسن",
+      "en": "Sidi Lahcene",
+      "slug": "sidi-lahcene"
+    },
+    "code": {
+      "id": "DZ022_sidi-lahcene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.146",
+      "lon": "-0.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_telagh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تلاغ",
+      "en": "Telagh",
+      "slug": "telagh"
+    },
+    "code": {
+      "id": "DZ022_telagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.797",
+      "lon": "-0.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tenira",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تنيرة",
+      "en": "Tenira",
+      "slug": "tenira"
+    },
+    "code": {
+      "id": "DZ022_tenira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-0.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tessala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تسالة",
+      "en": "Tessala",
+      "slug": "tessala"
+    },
+    "code": {
+      "id": "DZ022_tessala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbès",
+        "slug": "sidi-bel-abbs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.267",
+      "lon": "-0.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ006012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouzina",
+    "en": "Bouzina",
+    "slug": "bouzina-dz006012"
+  },
+  "code": {
+    "id": "DZ006012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.28",
+    "lon": "6.107"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ021033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Seliaoua Announa",
+    "en": "Seliaoua Announa",
+    "slug": "seliaoua-announa-dz021033"
+  },
+  "code": {
+    "id": "DZ021033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.352",
+    "lon": "7.288"
+  },
+  "metadata": {},
+  "source": {}
+}

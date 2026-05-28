@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ006_el-kseur_el-kseur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصر",
+      "en": "El Kseur",
+      "slug": "el-kseur"
+    },
+    "code": {
+      "id": "DZ006_el-kseur_el-kseur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_el-kseur",
+      "level": 2,
+      "name": {
+        "local": "القصر",
+        "en": "El Kseur",
+        "slug": "el-kseur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_el-kseur",
+        "level": 2,
+        "name": {
+          "local": "القصر",
+          "en": "El Kseur",
+          "slug": "el-kseur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06003"
+    ],
+    "geo": {
+      "lat": "36.721",
+      "lon": "4.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_el-kseur_fenaia-il-maten",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فناية الماثن",
+      "en": "Fenaia Il Maten",
+      "slug": "fenaia-il-maten"
+    },
+    "code": {
+      "id": "DZ006_el-kseur_fenaia-il-maten",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_el-kseur",
+      "level": 2,
+      "name": {
+        "local": "القصر",
+        "en": "El Kseur",
+        "slug": "el-kseur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_el-kseur",
+        "level": 2,
+        "name": {
+          "local": "القصر",
+          "en": "El Kseur",
+          "slug": "el-kseur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06041"
+    ],
+    "geo": {
+      "lat": "36.755",
+      "lon": "4.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_el-kseur_toudja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "توجة",
+      "en": "Toudja",
+      "slug": "toudja"
+    },
+    "code": {
+      "id": "DZ006_el-kseur_toudja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_el-kseur",
+      "level": 2,
+      "name": {
+        "local": "القصر",
+        "en": "El Kseur",
+        "slug": "el-kseur"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_el-kseur",
+        "level": 2,
+        "name": {
+          "local": "القصر",
+          "en": "El Kseur",
+          "slug": "el-kseur"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06030"
+    ],
+    "geo": {
+      "lat": "36.79",
+      "lon": "4.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

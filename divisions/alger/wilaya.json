@@ -1,0 +1,30 @@
+{
+  "id": "DZ016",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الجزائر",
+    "en": "Alger",
+    "slug": "alger"
+  },
+  "code": {
+    "id": "DZ016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 13,
+    "commune": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.702",
+    "lon": "3.032"
+  },
+  "metadata": {},
+  "source": {}
+}

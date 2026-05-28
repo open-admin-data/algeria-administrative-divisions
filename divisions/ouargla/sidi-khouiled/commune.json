@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ030_sidi-khouiled_ain-beida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين البيضاء",
+      "en": "Ain Beida",
+      "slug": "ain-beida"
+    },
+    "code": {
+      "id": "DZ030_sidi-khouiled_ain-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_sidi-khouiled",
+      "level": 2,
+      "name": {
+        "local": "سيدي خويلد",
+        "en": "Sidi Khouiled",
+        "slug": "sidi-khouiled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_sidi-khouiled",
+        "level": 2,
+        "name": {
+          "local": "سيدي خويلد",
+          "en": "Sidi Khouiled",
+          "slug": "sidi-khouiled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04001"
+    ],
+    "geo": {
+      "lat": "35.795",
+      "lon": "7.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_sidi-khouiled_hassi-ben-abdellah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي بن عبد الله",
+      "en": "Hassi Ben Abdellah",
+      "slug": "hassi-ben-abdellah"
+    },
+    "code": {
+      "id": "DZ030_sidi-khouiled_hassi-ben-abdellah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_sidi-khouiled",
+      "level": 2,
+      "name": {
+        "local": "سيدي خويلد",
+        "en": "Sidi Khouiled",
+        "slug": "sidi-khouiled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_sidi-khouiled",
+        "level": 2,
+        "name": {
+          "local": "سيدي خويلد",
+          "en": "Sidi Khouiled",
+          "slug": "sidi-khouiled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30052"
+    ],
+    "geo": {
+      "lat": "32.225",
+      "lon": "5.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ030_sidi-khouiled_sidi-khouiled",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي خويلد",
+      "en": "Sidi Khouiled",
+      "slug": "sidi-khouiled"
+    },
+    "code": {
+      "id": "DZ030_sidi-khouiled_sidi-khouiled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ030_sidi-khouiled",
+      "level": 2,
+      "name": {
+        "local": "سيدي خويلد",
+        "en": "Sidi Khouiled",
+        "slug": "sidi-khouiled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ030",
+        "level": 1,
+        "name": {
+          "local": "ورقلة",
+          "en": "Ouargla",
+          "slug": "ouargla"
+        }
+      },
+      {
+        "id": "DZ030_sidi-khouiled",
+        "level": 2,
+        "name": {
+          "local": "سيدي خويلد",
+          "en": "Sidi Khouiled",
+          "slug": "sidi-khouiled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30035"
+    ],
+    "geo": {
+      "lat": "32.025",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

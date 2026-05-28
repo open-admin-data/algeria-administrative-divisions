@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ023_ain-el-berda_ain-el-berda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الباردة",
+      "en": "Ain El Berda",
+      "slug": "ain-el-berda"
+    },
+    "code": {
+      "id": "DZ023_ain-el-berda_ain-el-berda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_ain-el-berda",
+      "level": 2,
+      "name": {
+        "local": "عين الباردة",
+        "en": "Ain El Berda",
+        "slug": "ain-el-berda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_ain-el-berda",
+        "level": 2,
+        "name": {
+          "local": "عين الباردة",
+          "en": "Ain El Berda",
+          "slug": "ain-el-berda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23006"
+    ],
+    "geo": {
+      "lat": "36.446",
+      "lon": "6.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_ain-el-berda_cheurfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشرفة",
+      "en": "Cheurfa",
+      "slug": "cheurfa"
+    },
+    "code": {
+      "id": "DZ023_ain-el-berda_cheurfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_ain-el-berda",
+      "level": 2,
+      "name": {
+        "local": "عين الباردة",
+        "en": "Ain El Berda",
+        "slug": "ain-el-berda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_ain-el-berda",
+        "level": 2,
+        "name": {
+          "local": "عين الباردة",
+          "en": "Ain El Berda",
+          "slug": "ain-el-berda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23025"
+    ],
+    "geo": {
+      "lat": "36.723",
+      "lon": "7.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_ain-el-berda_el-eulma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العلمة",
+      "en": "El Eulma",
+      "slug": "el-eulma"
+    },
+    "code": {
+      "id": "DZ023_ain-el-berda_el-eulma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_ain-el-berda",
+      "level": 2,
+      "name": {
+        "local": "عين الباردة",
+        "en": "Ain El Berda",
+        "slug": "ain-el-berda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_ain-el-berda",
+        "level": 2,
+        "name": {
+          "local": "عين الباردة",
+          "en": "Ain El Berda",
+          "slug": "ain-el-berda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19001"
+    ],
+    "geo": {
+      "lat": "36.169",
+      "lon": "5.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

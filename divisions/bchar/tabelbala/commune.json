@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ008_tabelbala_tabelbala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تبلبالة",
+      "en": "Tabelbala",
+      "slug": "tabelbala"
+    },
+    "code": {
+      "id": "DZ008_tabelbala_tabelbala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_tabelbala",
+      "level": 2,
+      "name": {
+        "local": "تبلبالة",
+        "en": "Tabelbala",
+        "slug": "tabelbala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_tabelbala",
+        "level": 2,
+        "name": {
+          "local": "تبلبالة",
+          "en": "Tabelbala",
+          "slug": "tabelbala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08029"
+    ],
+    "geo": {
+      "lat": "28.961",
+      "lon": "-3.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

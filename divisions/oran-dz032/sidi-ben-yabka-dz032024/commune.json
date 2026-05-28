@@ -1,0 +1,45 @@
+{
+  "id": "DZ032024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Ben Yabka",
+    "en": "Sidi Ben Yabka",
+    "slug": "sidi-ben-yabka-dz032024"
+  },
+  "code": {
+    "id": "DZ032024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.852",
+    "lon": "-0.406"
+  },
+  "metadata": {},
+  "source": {}
+}

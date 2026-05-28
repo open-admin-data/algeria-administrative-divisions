@@ -1,0 +1,269 @@
+# Sidi Bel Abbes — Algeria Administrative Divisions
+
+> 52 communes
+> Code: DZ038
+> Coordinates: 34.687, -0.44
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Adden
+
+Code: DZ038001, Coordinates: 35.33, -0.24
+
+
+### Ain El Berd
+
+Code: DZ038002, Coordinates: 35.386, -0.513
+
+
+### Ain Kada
+
+Code: DZ038003, Coordinates: 35.159, -0.846
+
+
+### Ain Thrid
+
+Code: DZ038004, Coordinates: 35.297, -0.676
+
+
+### Ain Tindamine
+
+Code: DZ038005, Coordinates: 34.705, -0.695
+
+
+### Amarnas
+
+Code: DZ038006, Coordinates: 35.103, -0.613
+
+
+### Bedrabine El Mokrani
+
+Code: DZ038007, Coordinates: 35.003, -0.836
+
+
+### Belarbi
+
+Code: DZ038008, Coordinates: 35.134, -0.451
+
+
+### Ben Badis
+
+Code: DZ038009, Coordinates: 34.928, -0.913
+
+
+### Benachiba Chelia
+
+Code: DZ038010, Coordinates: 34.964, -0.614
+
+
+### Bir El H&#39;Mam
+
+Code: DZ038011, Coordinates: 34.266, -0.403
+
+
+### Boudjebaa El Bordj
+
+Code: DZ038012, Coordinates: 35.325, -0.362
+
+
+### Boukanefis
+
+Code: DZ038013, Coordinates: 35.049, -0.691
+
+
+### Chetouane Belaila
+
+Code: DZ038014, Coordinates: 34.956, -0.83
+
+
+### Dhaya
+
+Code: DZ038015, Coordinates: 34.639, -0.639
+
+
+### El Hacaiba
+
+Code: DZ038016, Coordinates: 34.719, -0.745
+
+
+### Hassi Daho
+
+Code: DZ038017, Coordinates: 35.108, -0.547
+
+
+### Hassi Zahana
+
+Code: DZ038018, Coordinates: 35.031, -0.903
+
+
+### Lamtar
+
+Code: DZ038019, Coordinates: 35.059, -0.808
+
+
+### M&#39;Cid
+
+Code: DZ038022, Coordinates: 35.147, -0.264
+
+
+### Makedra
+
+Code: DZ038020, Coordinates: 35.418, -0.444
+
+
+### Marhoum
+
+Code: DZ038021, Coordinates: 34.332, -0.156
+
+
+### Merine
+
+Code: DZ038023, Coordinates: 34.795, -0.375
+
+
+### Mezaourou
+
+Code: DZ038024, Coordinates: 34.839, -0.656
+
+
+### Mostefa Ben Brahim
+
+Code: DZ038025, Coordinates: 35.176, -0.34
+
+
+### Moulay Slissen
+
+Code: DZ038026, Coordinates: 34.834, -0.805
+
+
+### Oued Sbaa
+
+Code: DZ038027, Coordinates: 34.533, -0.715
+
+
+### Oued Sefioun
+
+Code: DZ038028, Coordinates: 34.997, -0.368
+
+
+### Oued Taourira
+
+Code: DZ038029, Coordinates: 34.614, -0.3
+
+
+### Ras El Ma
+
+Code: DZ038030, Coordinates: 34.504, -0.789
+
+
+### Redjem Demmouche
+
+Code: DZ038031, Coordinates: 34.343, -0.853
+
+
+### Sehala Thaoura
+
+Code: DZ038032, Coordinates: 35.228, -0.861
+
+
+### Sfisef
+
+Code: DZ038033, Coordinates: 35.246, -0.274
+
+
+### Sidi Ali Benyoub
+
+Code: DZ038034, Coordinates: 34.951, -0.73
+
+
+### Sidi Ali Boussidi
+
+Code: DZ038035, Coordinates: 35.107, -0.832
+
+
+### Sidi Bel Abbes
+
+Code: DZ038036, Coordinates: 35.21, -0.631
+
+
+### Sidi Brahim
+
+Code: DZ038037, Coordinates: 35.263, -0.569
+
+
+### Sidi Chaib
+
+Code: DZ038038, Coordinates: 34.572, -0.547
+
+
+### Sidi Daho
+
+Code: DZ038039, Coordinates: 35.13, -0.922
+
+
+### Sidi Hamadouche
+
+Code: DZ038040, Coordinates: 35.314, -0.52
+
+
+### Sidi Khaled
+
+Code: DZ038041, Coordinates: 35.124, -0.71
+
+
+### Sidi Lahcene
+
+Code: DZ038042, Coordinates: 35.197, -0.758
+
+
+### Sidi Yacoub
+
+Code: DZ038043, Coordinates: 35.159, -0.776
+
+
+### Tabia
+
+Code: DZ038044, Coordinates: 35.02, -0.741
+
+
+### Tafissour
+
+Code: DZ038045, Coordinates: 34.7, -0.239
+
+
+### Taoudmout
+
+Code: DZ038046, Coordinates: 34.614, -0.122
+
+
+### Teghalimet
+
+Code: DZ038047, Coordinates: 34.904, -0.484
+
+
+### Telagh
+
+Code: DZ038048, Coordinates: 34.806, -0.532
+
+
+### Tenira
+
+Code: DZ038049, Coordinates: 35.006, -0.515
+
+
+### Tessala
+
+Code: DZ038050, Coordinates: 35.276, -0.8
+
+
+### Tilmouni
+
+Code: DZ038051, Coordinates: 35.188, -0.515
+
+
+### Zerouala
+
+Code: DZ038052, Coordinates: 35.246, -0.452
+
+

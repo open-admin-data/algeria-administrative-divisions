@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ048_el-hmadna_el-hmadna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمادنة",
+      "en": "El H'madna",
+      "slug": "el-hmadna"
+    },
+    "code": {
+      "id": "DZ048_el-hmadna_el-hmadna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-hmadna",
+      "level": 2,
+      "name": {
+        "local": "الحمادنة",
+        "en": "El H'madna",
+        "slug": "el-hmadna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-hmadna",
+        "level": 2,
+        "name": {
+          "local": "الحمادنة",
+          "en": "El H'madna",
+          "slug": "el-hmadna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48017"
+    ],
+    "geo": {
+      "lat": "35.897",
+      "lon": "0.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_el-hmadna_oued-el-djemaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الجمعة",
+      "en": "Oued El Djemaa",
+      "slug": "oued-el-djemaa"
+    },
+    "code": {
+      "id": "DZ048_el-hmadna_oued-el-djemaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_el-hmadna",
+      "level": 2,
+      "name": {
+        "local": "الحمادنة",
+        "en": "El H'madna",
+        "slug": "el-hmadna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_el-hmadna",
+        "level": 2,
+        "name": {
+          "local": "الحمادنة",
+          "en": "El H'madna",
+          "slug": "el-hmadna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48021"
+    ],
+    "geo": {
+      "lat": "35.839",
+      "lon": "0.648"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

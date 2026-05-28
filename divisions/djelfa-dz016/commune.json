@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "DZ016001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Chouhada",
+      "en": "Ain Chouhada",
+      "slug": "ain-chouhada-dz016001"
+    },
+    "code": {
+      "id": "DZ016001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.226",
+      "lon": "2.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Ibel",
+      "en": "Ain El Ibel",
+      "slug": "ain-el-ibel-dz016002"
+    },
+    "code": {
+      "id": "DZ016002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.431",
+      "lon": "3.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Fekka",
+      "en": "Ain Fekka",
+      "slug": "ain-fekka-dz016003"
+    },
+    "code": {
+      "id": "DZ016003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.426",
+      "lon": "3.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Maabed",
+      "en": "Ain Maabed",
+      "slug": "ain-maabed-dz016004"
+    },
+    "code": {
+      "id": "DZ016004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.842",
+      "lon": "3.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Ouessara",
+      "en": "Ain Ouessara",
+      "slug": "ain-ouessara-dz016005"
+    },
+    "code": {
+      "id": "DZ016005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.52",
+      "lon": "2.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amoura",
+      "en": "Amoura",
+      "slug": "amoura-dz016006"
+    },
+    "code": {
+      "id": "DZ016006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.213",
+      "lon": "3.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benhar",
+      "en": "Benhar",
+      "slug": "benhar-dz016007"
+    },
+    "code": {
+      "id": "DZ016007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.506",
+      "lon": "3.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Yagoub",
+      "en": "Beni Yagoub",
+      "slug": "beni-yagoub-dz016008"
+    },
+    "code": {
+      "id": "DZ016008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.479",
+      "lon": "2.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birine",
+      "en": "Birine",
+      "slug": "birine-dz016009"
+    },
+    "code": {
+      "id": "DZ016009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.653",
+      "lon": "3.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouira Lahdab",
+      "en": "Bouira Lahdab",
+      "slug": "bouira-lahdab-dz016010"
+    },
+    "code": {
+      "id": "DZ016010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.218",
+      "lon": "3.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Charef",
+      "en": "Charef",
+      "slug": "charef-dz016011"
+    },
+    "code": {
+      "id": "DZ016011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.576",
+      "lon": "2.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar Chioukh",
+      "en": "Dar Chioukh",
+      "slug": "dar-chioukh-dz016012"
+    },
+    "code": {
+      "id": "DZ016012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.883",
+      "lon": "3.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Deldoul",
+      "en": "Deldoul",
+      "slug": "deldoul-dz016013"
+    },
+    "code": {
+      "id": "DZ016013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.05",
+      "lon": "3.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djelfa",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016014"
+    },
+    "code": {
+      "id": "DZ016014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.672",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Douis",
+      "en": "Douis",
+      "slug": "douis-dz016015"
+    },
+    "code": {
+      "id": "DZ016015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.262",
+      "lon": "2.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Gueddid",
+      "en": "El Gueddid",
+      "slug": "el-gueddid-dz016016"
+    },
+    "code": {
+      "id": "DZ016016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.679",
+      "lon": "2.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Idrissia",
+      "en": "El Idrissia",
+      "slug": "el-idrissia-dz016017"
+    },
+    "code": {
+      "id": "DZ016017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.428",
+      "lon": "2.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Khemis",
+      "en": "El Khemis",
+      "slug": "el-khemis-dz016018"
+    },
+    "code": {
+      "id": "DZ016018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.401",
+      "lon": "2.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Feidh El Botma",
+      "en": "Feidh El Botma",
+      "slug": "feidh-el-botma-dz016019"
+    },
+    "code": {
+      "id": "DZ016019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.484",
+      "lon": "3.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guernini",
+      "en": "Guernini",
+      "slug": "guernini-dz016020"
+    },
+    "code": {
+      "id": "DZ016020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.172",
+      "lon": "2.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guettara",
+      "en": "Guettara",
+      "slug": "guettara-dz016021"
+    },
+    "code": {
+      "id": "DZ016021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.294",
+      "lon": "4.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Had Sahary",
+      "en": "Had Sahary",
+      "slug": "had-sahary-dz016022"
+    },
+    "code": {
+      "id": "DZ016022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.348",
+      "lon": "3.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Bahbah",
+      "en": "Hassi Bahbah",
+      "slug": "hassi-bahbah-dz016023"
+    },
+    "code": {
+      "id": "DZ016023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.003",
+      "lon": "2.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi El Euch",
+      "en": "Hassi El Euch",
+      "slug": "hassi-el-euch-dz016024"
+    },
+    "code": {
+      "id": "DZ016024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.079",
+      "lon": "3.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hassi Fdoul",
+      "en": "Hassi Fdoul",
+      "slug": "hassi-fdoul-dz016025"
+    },
+    "code": {
+      "id": "DZ016025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.451",
+      "lon": "2.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Messaad",
+      "en": "Messaad",
+      "slug": "messaad-dz016026"
+    },
+    "code": {
+      "id": "DZ016026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.154",
+      "lon": "3.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mliliha",
+      "en": "Mliliha",
+      "slug": "mliliha-dz016027"
+    },
+    "code": {
+      "id": "DZ016027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.729",
+      "lon": "3.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mouadjebar",
+      "en": "Mouadjebar",
+      "slug": "mouadjebar-dz016028"
+    },
+    "code": {
+      "id": "DZ016028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.5",
+      "lon": "3.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Laadham",
+      "en": "Oum Laadham",
+      "slug": "oum-laadham-dz016029"
+    },
+    "code": {
+      "id": "DZ016029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.668",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sed Rahal",
+      "en": "Sed Rahal",
+      "slug": "sed-rahal-dz016030"
+    },
+    "code": {
+      "id": "DZ016030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.748",
+      "lon": "3.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Selmana",
+      "en": "Selmana",
+      "slug": "selmana-dz016031"
+    },
+    "code": {
+      "id": "DZ016031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.033",
+      "lon": "3.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Baizid",
+      "en": "Sidi Baizid",
+      "slug": "sidi-baizid-dz016032"
+    },
+    "code": {
+      "id": "DZ016032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.021",
+      "lon": "3.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Laadjel",
+      "en": "Sidi Laadjel",
+      "slug": "sidi-laadjel-dz016033"
+    },
+    "code": {
+      "id": "DZ016033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.389",
+      "lon": "2.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadmit",
+      "en": "Tadmit",
+      "slug": "tadmit-dz016034"
+    },
+    "code": {
+      "id": "DZ016034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.292",
+      "lon": "2.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zaafrane",
+      "en": "Zaafrane",
+      "slug": "zaafrane-dz016035"
+    },
+    "code": {
+      "id": "DZ016035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.797",
+      "lon": "2.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zakkar",
+      "en": "Zakkar",
+      "slug": "zakkar-dz016036"
+    },
+    "code": {
+      "id": "DZ016036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa-dz016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.468",
+      "lon": "3.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

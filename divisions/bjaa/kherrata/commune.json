@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ006_kherrata_dra-el-caid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ذراع القايد",
+      "en": "Dra El Caid",
+      "slug": "dra-el-caid"
+    },
+    "code": {
+      "id": "DZ006_kherrata_dra-el-caid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_kherrata",
+      "level": 2,
+      "name": {
+        "local": "خراطة",
+        "en": "Kherrata",
+        "slug": "kherrata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_kherrata",
+        "level": 2,
+        "name": {
+          "local": "خراطة",
+          "en": "Kherrata",
+          "slug": "kherrata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06070"
+    ],
+    "geo": {
+      "lat": "36.474",
+      "lon": "5.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_kherrata_kherrata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خراطة",
+      "en": "Kherrata",
+      "slug": "kherrata"
+    },
+    "code": {
+      "id": "DZ006_kherrata_kherrata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_kherrata",
+      "level": 2,
+      "name": {
+        "local": "خراطة",
+        "en": "Kherrata",
+        "slug": "kherrata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_kherrata",
+        "level": 2,
+        "name": {
+          "local": "خراطة",
+          "en": "Kherrata",
+          "slug": "kherrata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06004"
+    ],
+    "geo": {
+      "lat": "36.474",
+      "lon": "5.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

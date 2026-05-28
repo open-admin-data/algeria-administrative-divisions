@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ002_taougrit_dahra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الظهرة",
+      "en": "Dahra",
+      "slug": "dahra"
+    },
+    "code": {
+      "id": "DZ002_taougrit_dahra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_taougrit",
+      "level": 2,
+      "name": {
+        "local": "تاوقريت",
+        "en": "Taougrit",
+        "slug": "taougrit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_taougrit",
+        "level": 2,
+        "name": {
+          "local": "تاوقريت",
+          "en": "Taougrit",
+          "slug": "taougrit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02032"
+    ],
+    "geo": {
+      "lat": "36.279",
+      "lon": "0.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_taougrit_taougrit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاوقريت",
+      "en": "Taougrit",
+      "slug": "taougrit"
+    },
+    "code": {
+      "id": "DZ002_taougrit_taougrit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_taougrit",
+      "level": 2,
+      "name": {
+        "local": "تاوقريت",
+        "en": "Taougrit",
+        "slug": "taougrit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_taougrit",
+        "level": 2,
+        "name": {
+          "local": "تاوقريت",
+          "en": "Taougrit",
+          "slug": "taougrit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02012"
+    ],
+    "geo": {
+      "lat": "36.279",
+      "lon": "0.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

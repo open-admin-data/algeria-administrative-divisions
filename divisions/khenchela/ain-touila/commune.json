@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ040_ain-touila_ain-touila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الطويلة",
+      "en": "Ain Touila",
+      "slug": "ain-touila"
+    },
+    "code": {
+      "id": "DZ040_ain-touila_ain-touila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_ain-touila",
+      "level": 2,
+      "name": {
+        "local": "عين الطويلة",
+        "en": "Ain Touila",
+        "slug": "ain-touila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_ain-touila",
+        "level": 2,
+        "name": {
+          "local": "عين الطويلة",
+          "en": "Ain Touila",
+          "slug": "ain-touila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40028"
+    ],
+    "geo": {
+      "lat": "35.48",
+      "lon": "7.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_ain-touila_mtoussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "متوسة",
+      "en": "M'toussa",
+      "slug": "mtoussa"
+    },
+    "code": {
+      "id": "DZ040_ain-touila_mtoussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_ain-touila",
+      "level": 2,
+      "name": {
+        "local": "عين الطويلة",
+        "en": "Ain Touila",
+        "slug": "ain-touila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_ain-touila",
+        "level": 2,
+        "name": {
+          "local": "عين الطويلة",
+          "en": "Ain Touila",
+          "slug": "ain-touila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40021"
+    ],
+    "geo": {
+      "lat": "35.568",
+      "lon": "7.257"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_ain-tellout",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين تالوت",
+    "en": "Ain Tellout",
+    "slug": "ain-tellout"
+  },
+  "code": {
+    "id": "DZ013_ain-tellout",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.035",
+    "lon": "-0.988"
+  },
+  "metadata": {},
+  "source": {}
+}

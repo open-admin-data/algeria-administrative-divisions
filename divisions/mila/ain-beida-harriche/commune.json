@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_ain-beida-harriche_ain-beida-harriche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": " عين البيضاء أحريش",
+      "en": "Ain Beida Harriche",
+      "slug": "ain-beida-harriche"
+    },
+    "code": {
+      "id": "DZ043_ain-beida-harriche_ain-beida-harriche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_ain-beida-harriche",
+      "level": 2,
+      "name": {
+        "local": "عين البيضاء أحريش",
+        "en": "Ain Beida Harriche",
+        "slug": "ain-beida-harriche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_ain-beida-harriche",
+        "level": 2,
+        "name": {
+          "local": "عين البيضاء أحريش",
+          "en": "Ain Beida Harriche",
+          "slug": "ain-beida-harriche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43014"
+    ],
+    "geo": {
+      "lat": "36.39",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_ain-beida-harriche_el-ayadi-barbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العياضي برباس",
+      "en": "El Ayadi Barbes",
+      "slug": "el-ayadi-barbes"
+    },
+    "code": {
+      "id": "DZ043_ain-beida-harriche_el-ayadi-barbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_ain-beida-harriche",
+      "level": 2,
+      "name": {
+        "local": "عين البيضاء أحريش",
+        "en": "Ain Beida Harriche",
+        "slug": "ain-beida-harriche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_ain-beida-harriche",
+        "level": 2,
+        "name": {
+          "local": "عين البيضاء أحريش",
+          "en": "Ain Beida Harriche",
+          "slug": "ain-beida-harriche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43050"
+    ],
+    "geo": {
+      "lat": "36.44",
+      "lon": "5.824"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

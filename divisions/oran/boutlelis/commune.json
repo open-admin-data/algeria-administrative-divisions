@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ031_boutlelis_ain-kerma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الكرمة",
+      "en": "Ain Kerma",
+      "slug": "ain-kerma"
+    },
+    "code": {
+      "id": "DZ031_boutlelis_ain-kerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_boutlelis",
+      "level": 2,
+      "name": {
+        "local": "بوتليليس",
+        "en": "Boutlelis",
+        "slug": "boutlelis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_boutlelis",
+        "level": 2,
+        "name": {
+          "local": "بوتليليس",
+          "en": "Boutlelis",
+          "slug": "boutlelis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31059"
+    ],
+    "geo": {
+      "lat": "35.64",
+      "lon": "-0.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_boutlelis_boutlelis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوتليليس",
+      "en": "Boutlelis",
+      "slug": "boutlelis"
+    },
+    "code": {
+      "id": "DZ031_boutlelis_boutlelis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_boutlelis",
+      "level": 2,
+      "name": {
+        "local": "بوتليليس",
+        "en": "Boutlelis",
+        "slug": "boutlelis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_boutlelis",
+        "level": 2,
+        "name": {
+          "local": "بوتليليس",
+          "en": "Boutlelis",
+          "slug": "boutlelis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31016"
+    ],
+    "geo": {
+      "lat": "35.609",
+      "lon": "-0.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ031_boutlelis_messerghin",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسرغين",
+      "en": "Messerghin",
+      "slug": "messerghin"
+    },
+    "code": {
+      "id": "DZ031_boutlelis_messerghin",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ031_boutlelis",
+      "level": 2,
+      "name": {
+        "local": "بوتليليس",
+        "en": "Boutlelis",
+        "slug": "boutlelis"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ031",
+        "level": 1,
+        "name": {
+          "local": "وهران",
+          "en": "Oran",
+          "slug": "oran"
+        }
+      },
+      {
+        "id": "DZ031_boutlelis",
+        "level": 2,
+        "name": {
+          "local": "بوتليليس",
+          "en": "Boutlelis",
+          "slug": "boutlelis"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31031"
+    ],
+    "geo": {
+      "lat": "35.624",
+      "lon": "-0.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ012028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Haizer",
+    "en": "Haizer",
+    "slug": "haizer-dz012028"
+  },
+  "code": {
+    "id": "DZ012028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira-dz012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira-dz012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.409",
+    "lon": "4.03"
+  },
+  "metadata": {},
+  "source": {}
+}

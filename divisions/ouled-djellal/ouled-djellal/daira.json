@@ -1,0 +1,47 @@
+{
+  "id": "DZ051_ouled-djellal",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد جلال",
+    "en": "Ouled Djellal",
+    "slug": "ouled-djellal"
+  },
+  "code": {
+    "id": "DZ051_ouled-djellal",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ051",
+    "level": 1,
+    "name": {
+      "local": "أولاد جلال",
+      "en": "Ouled Djellal",
+      "slug": "ouled-djellal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ051",
+      "level": 1,
+      "name": {
+        "local": "أولاد جلال",
+        "en": "Ouled Djellal",
+        "slug": "ouled-djellal"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.218",
+    "lon": "4.316"
+  },
+  "metadata": {},
+  "source": {}
+}

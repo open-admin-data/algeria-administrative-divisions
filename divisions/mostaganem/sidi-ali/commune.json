@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ027_sidi-ali_ouled-maalah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد مع الله",
+      "en": "Ouled-Maalah",
+      "slug": "ouled-maalah"
+    },
+    "code": {
+      "id": "DZ027_sidi-ali_ouled-maalah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي",
+        "en": "Sidi Ali",
+        "slug": "sidi-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي",
+          "en": "Sidi Ali",
+          "slug": "sidi-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27028"
+    ],
+    "geo": {
+      "lat": "36.046",
+      "lon": "0.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-ali_sidi-ali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي علي",
+      "en": "Sidi Ali",
+      "slug": "sidi-ali"
+    },
+    "code": {
+      "id": "DZ027_sidi-ali_sidi-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي",
+        "en": "Sidi Ali",
+        "slug": "sidi-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي",
+          "en": "Sidi Ali",
+          "slug": "sidi-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27032"
+    ],
+    "geo": {
+      "lat": "36.063",
+      "lon": "0.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-ali_tazgait",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تزقايت",
+      "en": "Tazgait",
+      "slug": "tazgait"
+    },
+    "code": {
+      "id": "DZ027_sidi-ali_tazgait",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-ali",
+      "level": 2,
+      "name": {
+        "local": "سيدي علي",
+        "en": "Sidi Ali",
+        "slug": "sidi-ali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-ali",
+        "level": 2,
+        "name": {
+          "local": "سيدي علي",
+          "en": "Sidi Ali",
+          "slug": "sidi-ali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27047"
+    ],
+    "geo": {
+      "lat": "36.131",
+      "lon": "0.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

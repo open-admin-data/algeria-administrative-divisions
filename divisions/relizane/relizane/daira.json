@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_relizane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "غليزان",
+    "en": "Relizane",
+    "slug": "relizane"
+  },
+  "code": {
+    "id": "DZ048_relizane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.892",
+    "lon": "2.377"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ039028",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouldja Boulbellout",
+    "en": "Ouldja Boulbellout",
+    "slug": "ouldja-boulbellout-dz039028"
+  },
+  "code": {
+    "id": "DZ039028",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.821",
+    "lon": "6.392"
+  },
+  "metadata": {},
+  "source": {}
+}

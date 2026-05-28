@@ -1,0 +1,47 @@
+{
+  "id": "DZ028_medjedel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "امجدل",
+    "en": "Medjedel",
+    "slug": "medjedel"
+  },
+  "code": {
+    "id": "DZ028_medjedel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.099",
+    "lon": "3.694"
+  },
+  "metadata": {},
+  "source": {}
+}

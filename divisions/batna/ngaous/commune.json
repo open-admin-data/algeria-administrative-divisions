@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_ngaous_boumagueur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بومقر",
+      "en": "Boumagueur",
+      "slug": "boumagueur"
+    },
+    "code": {
+      "id": "DZ005_ngaous_boumagueur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ngaous",
+      "level": 2,
+      "name": {
+        "local": "نقاوس",
+        "en": "N'gaous",
+        "slug": "ngaous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ngaous",
+        "level": 2,
+        "name": {
+          "local": "نقاوس",
+          "en": "N'gaous",
+          "slug": "ngaous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05057"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "5.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ngaous_n-gaous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "نقاوس",
+      "en": "N Gaous",
+      "slug": "n-gaous"
+    },
+    "code": {
+      "id": "DZ005_ngaous_n-gaous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ngaous",
+      "level": 2,
+      "name": {
+        "local": "نقاوس",
+        "en": "N'gaous",
+        "slug": "ngaous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ngaous",
+        "level": 2,
+        "name": {
+          "local": "نقاوس",
+          "en": "N'gaous",
+          "slug": "ngaous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05004"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "5.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ngaous_sefiane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سفيان",
+      "en": "Sefiane",
+      "slug": "sefiane"
+    },
+    "code": {
+      "id": "DZ005_ngaous_sefiane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ngaous",
+      "level": 2,
+      "name": {
+        "local": "نقاوس",
+        "en": "N'gaous",
+        "slug": "ngaous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ngaous",
+        "level": 2,
+        "name": {
+          "local": "نقاوس",
+          "en": "N'gaous",
+          "slug": "ngaous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05064"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "5.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

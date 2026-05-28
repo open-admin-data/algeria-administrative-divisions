@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "DZ040001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Soltane",
+      "en": "Ain Soltane",
+      "slug": "ain-soltane-dz040001"
+    },
+    "code": {
+      "id": "DZ040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "7.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zana",
+      "en": "Ain Zana",
+      "slug": "ain-zana-dz040002"
+    },
+    "code": {
+      "id": "DZ040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.401",
+      "lon": "8.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Bou Haouch",
+      "en": "Bir Bou Haouch",
+      "slug": "bir-bou-haouch-dz040003"
+    },
+    "code": {
+      "id": "DZ040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.035",
+      "lon": "7.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Drea",
+      "en": "Drea",
+      "slug": "drea-dz040004"
+    },
+    "code": {
+      "id": "DZ040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.061",
+      "lon": "7.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haddada",
+      "en": "Haddada",
+      "slug": "haddada-dz040005"
+    },
+    "code": {
+      "id": "DZ040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.184",
+      "lon": "8.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hanancha",
+      "en": "Hanancha",
+      "slug": "hanancha-dz040006"
+    },
+    "code": {
+      "id": "DZ040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.254",
+      "lon": "7.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khedara",
+      "en": "Khedara",
+      "slug": "khedara-dz040007"
+    },
+    "code": {
+      "id": "DZ040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.292",
+      "lon": "8.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khemissa",
+      "en": "Khemissa",
+      "slug": "khemissa-dz040008"
+    },
+    "code": {
+      "id": "DZ040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.189",
+      "lon": "7.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Daourouche",
+      "en": "M'Daourouche",
+      "slug": "mdaourouche-dz040009"
+    },
+    "code": {
+      "id": "DZ040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.066",
+      "lon": "7.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mechroha",
+      "en": "Mechroha",
+      "slug": "mechroha-dz040010"
+    },
+    "code": {
+      "id": "DZ040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.384",
+      "lon": "7.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merahna",
+      "en": "Merahna",
+      "slug": "merahna-dz040011"
+    },
+    "code": {
+      "id": "DZ040011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.198",
+      "lon": "8.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Keberit",
+      "en": "Oued Keberit",
+      "slug": "oued-keberit-dz040012"
+    },
+    "code": {
+      "id": "DZ040012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.979",
+      "lon": "7.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Driss",
+      "en": "Ouled Driss",
+      "slug": "ouled-driss-dz040013"
+    },
+    "code": {
+      "id": "DZ040013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.376",
+      "lon": "8.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Moumen",
+      "en": "Ouled Moumen",
+      "slug": "ouled-moumen-dz040014"
+    },
+    "code": {
+      "id": "DZ040014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.375",
+      "lon": "8.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum El Adhaim",
+      "en": "Oum El Adhaim",
+      "slug": "oum-el-adhaim-dz040015"
+    },
+    "code": {
+      "id": "DZ040015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.994",
+      "lon": "7.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quillen",
+      "en": "Quillen",
+      "slug": "quillen-dz040016"
+    },
+    "code": {
+      "id": "DZ040016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.274",
+      "lon": "8.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Raggouba",
+      "en": "Raggouba",
+      "slug": "raggouba-dz040017"
+    },
+    "code": {
+      "id": "DZ040017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.119",
+      "lon": "7.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Safel El Ouiden",
+      "en": "Safel El Ouiden",
+      "slug": "safel-el-ouiden-dz040018"
+    },
+    "code": {
+      "id": "DZ040018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.975",
+      "lon": "7.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sedrata",
+      "en": "Sedrata",
+      "slug": "sedrata-dz040019"
+    },
+    "code": {
+      "id": "DZ040019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.148",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Fredj",
+      "en": "Sidi Fredj",
+      "slug": "sidi-fredj-dz040020"
+    },
+    "code": {
+      "id": "DZ040020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.078",
+      "lon": "8.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk-Ahras",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040021"
+    },
+    "code": {
+      "id": "DZ040021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "7.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taoura",
+      "en": "Taoura",
+      "slug": "taoura-dz040022"
+    },
+    "code": {
+      "id": "DZ040022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.095",
+      "lon": "8.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terraguelt",
+      "en": "Terraguelt",
+      "slug": "terraguelt-dz040023"
+    },
+    "code": {
+      "id": "DZ040023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.905",
+      "lon": "7.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiffech",
+      "en": "Tiffech",
+      "slug": "tiffech-dz040024"
+    },
+    "code": {
+      "id": "DZ040024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.172",
+      "lon": "7.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zaarouria",
+      "en": "Zaarouria",
+      "slug": "zaarouria-dz040025"
+    },
+    "code": {
+      "id": "DZ040025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.196",
+      "lon": "7.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zouabi",
+      "en": "Zouabi",
+      "slug": "zouabi-dz040026"
+    },
+    "code": {
+      "id": "DZ040026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk-Ahras",
+          "slug": "souk-ahras-dz040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.124",
+      "lon": "7.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

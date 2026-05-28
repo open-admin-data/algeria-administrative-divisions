@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ003_oued-morra_oued-mzi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي مزي",
+      "en": "Oued M'zi",
+      "slug": "oued-mzi"
+    },
+    "code": {
+      "id": "DZ003_oued-morra_oued-mzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_oued-morra",
+      "level": 2,
+      "name": {
+        "local": "وادي مرة",
+        "en": "Oued Morra",
+        "slug": "oued-morra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_oued-morra",
+        "level": 2,
+        "name": {
+          "local": "وادي مرة",
+          "en": "Oued Morra",
+          "slug": "oued-morra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03041"
+    ],
+    "geo": {
+      "lat": "34.038",
+      "lon": "2.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_oued-morra_oued-morra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي مرة",
+      "en": "Oued Morra",
+      "slug": "oued-morra"
+    },
+    "code": {
+      "id": "DZ003_oued-morra_oued-morra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_oued-morra",
+      "level": 2,
+      "name": {
+        "local": "وادي مرة",
+        "en": "Oued Morra",
+        "slug": "oued-morra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_oued-morra",
+        "level": 2,
+        "name": {
+          "local": "وادي مرة",
+          "en": "Oued Morra",
+          "slug": "oued-morra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03027"
+    ],
+    "geo": {
+      "lat": "34.208",
+      "lon": "2.329"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

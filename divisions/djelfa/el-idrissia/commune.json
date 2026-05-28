@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ017_el-idrissia_ain-chouhada",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الشهداء",
+      "en": "Ain Chouhada",
+      "slug": "ain-chouhada"
+    },
+    "code": {
+      "id": "DZ017_el-idrissia_ain-chouhada",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_el-idrissia",
+      "level": 2,
+      "name": {
+        "local": "الادريسية",
+        "en": "El Idrissia",
+        "slug": "el-idrissia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_el-idrissia",
+        "level": 2,
+        "name": {
+          "local": "الادريسية",
+          "en": "El Idrissia",
+          "slug": "el-idrissia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17039"
+    ],
+    "geo": {
+      "lat": "34.226",
+      "lon": "2.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_el-idrissia_douis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دويس",
+      "en": "Douis",
+      "slug": "douis"
+    },
+    "code": {
+      "id": "DZ017_el-idrissia_douis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_el-idrissia",
+      "level": 2,
+      "name": {
+        "local": "الادريسية",
+        "en": "El Idrissia",
+        "slug": "el-idrissia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_el-idrissia",
+        "level": 2,
+        "name": {
+          "local": "الادريسية",
+          "en": "El Idrissia",
+          "slug": "el-idrissia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17030"
+    ],
+    "geo": {
+      "lat": "34.262",
+      "lon": "2.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_el-idrissia_el-idrissia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الادريسية",
+      "en": "El Idrissia",
+      "slug": "el-idrissia"
+    },
+    "code": {
+      "id": "DZ017_el-idrissia_el-idrissia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_el-idrissia",
+      "level": 2,
+      "name": {
+        "local": "الادريسية",
+        "en": "El Idrissia",
+        "slug": "el-idrissia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_el-idrissia",
+        "level": 2,
+        "name": {
+          "local": "الادريسية",
+          "en": "El Idrissia",
+          "slug": "el-idrissia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17020"
+    ],
+    "geo": {
+      "lat": "34.428",
+      "lon": "2.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

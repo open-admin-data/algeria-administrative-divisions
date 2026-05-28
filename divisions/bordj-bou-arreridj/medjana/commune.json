@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ034_medjana_el-achir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الياشير",
+      "en": "El Achir",
+      "slug": "el-achir"
+    },
+    "code": {
+      "id": "DZ034_medjana_el-achir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_medjana",
+      "level": 2,
+      "name": {
+        "local": "مجانة",
+        "en": "Medjana",
+        "slug": "medjana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_medjana",
+        "level": 2,
+        "name": {
+          "local": "مجانة",
+          "en": "Medjana",
+          "slug": "medjana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34006"
+    ],
+    "geo": {
+      "lat": "36.07",
+      "lon": "4.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_medjana_hasnaoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حسناوة",
+      "en": "Hasnaoua",
+      "slug": "hasnaoua"
+    },
+    "code": {
+      "id": "DZ034_medjana_hasnaoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_medjana",
+      "level": 2,
+      "name": {
+        "local": "مجانة",
+        "en": "Medjana",
+        "slug": "medjana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_medjana",
+        "level": 2,
+        "name": {
+          "local": "مجانة",
+          "en": "Medjana",
+          "slug": "medjana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34068"
+    ],
+    "geo": {
+      "lat": "36.164",
+      "lon": "4.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_medjana_medjana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجانة",
+      "en": "Medjana",
+      "slug": "medjana"
+    },
+    "code": {
+      "id": "DZ034_medjana_medjana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_medjana",
+      "level": 2,
+      "name": {
+        "local": "مجانة",
+        "en": "Medjana",
+        "slug": "medjana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_medjana",
+        "level": 2,
+        "name": {
+          "local": "مجانة",
+          "en": "Medjana",
+          "slug": "medjana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34009"
+    ],
+    "geo": {
+      "lat": "36.151",
+      "lon": "4.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_medjana_teniet-en-nasr",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ثنية النصر",
+      "en": "Teniet En Nasr",
+      "slug": "teniet-en-nasr"
+    },
+    "code": {
+      "id": "DZ034_medjana_teniet-en-nasr",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_medjana",
+      "level": 2,
+      "name": {
+        "local": "مجانة",
+        "en": "Medjana",
+        "slug": "medjana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_medjana",
+        "level": 2,
+        "name": {
+          "local": "مجانة",
+          "en": "Medjana",
+          "slug": "medjana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34021"
+    ],
+    "geo": {
+      "lat": "36.128",
+      "lon": "4.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

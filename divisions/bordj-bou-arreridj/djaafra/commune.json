@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ034_djaafra_colla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القلة",
+      "en": "Colla",
+      "slug": "colla"
+    },
+    "code": {
+      "id": "DZ034_djaafra_colla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_djaafra",
+      "level": 2,
+      "name": {
+        "local": "جعافرة",
+        "en": "Djaafra",
+        "slug": "djaafra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_djaafra",
+        "level": 2,
+        "name": {
+          "local": "جعافرة",
+          "en": "Djaafra",
+          "slug": "djaafra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34015"
+    ],
+    "geo": {
+      "lat": "36.25",
+      "lon": "4.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_djaafra_djaafra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جعافرة",
+      "en": "Djaafra",
+      "slug": "djaafra"
+    },
+    "code": {
+      "id": "DZ034_djaafra_djaafra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_djaafra",
+      "level": 2,
+      "name": {
+        "local": "جعافرة",
+        "en": "Djaafra",
+        "slug": "djaafra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_djaafra",
+        "level": 2,
+        "name": {
+          "local": "جعافرة",
+          "en": "Djaafra",
+          "slug": "djaafra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34016"
+    ],
+    "geo": {
+      "lat": "36.293",
+      "lon": "4.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_djaafra_el-main",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الماين",
+      "en": "El Main",
+      "slug": "el-main"
+    },
+    "code": {
+      "id": "DZ034_djaafra_el-main",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_djaafra",
+      "level": 2,
+      "name": {
+        "local": "جعافرة",
+        "en": "Djaafra",
+        "slug": "djaafra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_djaafra",
+        "level": 2,
+        "name": {
+          "local": "جعافرة",
+          "en": "Djaafra",
+          "slug": "djaafra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34018"
+    ],
+    "geo": {
+      "lat": "36.385",
+      "lon": "4.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_djaafra_tefreg",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تفرق",
+      "en": "Tefreg",
+      "slug": "tefreg"
+    },
+    "code": {
+      "id": "DZ034_djaafra_tefreg",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_djaafra",
+      "level": 2,
+      "name": {
+        "local": "جعافرة",
+        "en": "Djaafra",
+        "slug": "djaafra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_djaafra",
+        "level": 2,
+        "name": {
+          "local": "جعافرة",
+          "en": "Djaafra",
+          "slug": "djaafra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34061"
+    ],
+    "geo": {
+      "lat": "36.309",
+      "lon": "4.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

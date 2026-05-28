@@ -1,0 +1,45 @@
+{
+  "id": "DZ014021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Ghoussine",
+    "en": "Oued Ghoussine",
+    "slug": "oued-ghoussine-dz014021"
+  },
+  "code": {
+    "id": "DZ014021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.496",
+    "lon": "1.453"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ011004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bendaoud",
+    "en": "Bendaoud",
+    "slug": "bendaoud-dz011004"
+  },
+  "code": {
+    "id": "DZ011004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.056",
+    "lon": "4.174"
+  },
+  "metadata": {},
+  "source": {}
+}

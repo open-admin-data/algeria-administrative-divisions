@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ045_ain-sefra_ain-sefra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الصفراء",
+      "en": "Ain Sefra",
+      "slug": "ain-sefra"
+    },
+    "code": {
+      "id": "DZ045_ain-sefra_ain-sefra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_ain-sefra",
+      "level": 2,
+      "name": {
+        "local": "عين الصفراء",
+        "en": "Ain Sefra",
+        "slug": "ain-sefra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_ain-sefra",
+        "level": 2,
+        "name": {
+          "local": "عين الصفراء",
+          "en": "Ain Sefra",
+          "slug": "ain-sefra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45001"
+    ],
+    "geo": {
+      "lat": "32.789",
+      "lon": "-0.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ045_ain-sefra_tiout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيوت",
+      "en": "Tiout",
+      "slug": "tiout"
+    },
+    "code": {
+      "id": "DZ045_ain-sefra_tiout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_ain-sefra",
+      "level": 2,
+      "name": {
+        "local": "عين الصفراء",
+        "en": "Ain Sefra",
+        "slug": "ain-sefra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_ain-sefra",
+        "level": 2,
+        "name": {
+          "local": "عين الصفراء",
+          "en": "Ain Sefra",
+          "slug": "ain-sefra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45030"
+    ],
+    "geo": {
+      "lat": "32.852",
+      "lon": "-0.388"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

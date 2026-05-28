@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ019_salah-bey_boutaleb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوطالب",
+      "en": "Boutaleb",
+      "slug": "boutaleb"
+    },
+    "code": {
+      "id": "DZ019_salah-bey_boutaleb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_salah-bey",
+      "level": 2,
+      "name": {
+        "local": "صالح باي",
+        "en": "Salah Bey",
+        "slug": "salah-bey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_salah-bey",
+        "level": 2,
+        "name": {
+          "local": "صالح باي",
+          "en": "Salah Bey",
+          "slug": "salah-bey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19089"
+    ],
+    "geo": {
+      "lat": "35.684",
+      "lon": "5.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_salah-bey_hamma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحامة",
+      "en": "Hamma",
+      "slug": "hamma"
+    },
+    "code": {
+      "id": "DZ019_salah-bey_hamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_salah-bey",
+      "level": 2,
+      "name": {
+        "local": "صالح باي",
+        "en": "Salah Bey",
+        "slug": "salah-bey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_salah-bey",
+        "level": 2,
+        "name": {
+          "local": "صالح باي",
+          "en": "Salah Bey",
+          "slug": "salah-bey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19015"
+    ],
+    "geo": {
+      "lat": "35.69",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_salah-bey_ouled-tebben",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد تبان",
+      "en": "Ouled Tebben",
+      "slug": "ouled-tebben"
+    },
+    "code": {
+      "id": "DZ019_salah-bey_ouled-tebben",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_salah-bey",
+      "level": 2,
+      "name": {
+        "local": "صالح باي",
+        "en": "Salah Bey",
+        "slug": "salah-bey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_salah-bey",
+        "level": 2,
+        "name": {
+          "local": "صالح باي",
+          "en": "Salah Bey",
+          "slug": "salah-bey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19030"
+    ],
+    "geo": {
+      "lat": "35.791",
+      "lon": "5.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_salah-bey_rosfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرصفة",
+      "en": "Rosfa",
+      "slug": "rosfa"
+    },
+    "code": {
+      "id": "DZ019_salah-bey_rosfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_salah-bey",
+      "level": 2,
+      "name": {
+        "local": "صالح باي",
+        "en": "Salah Bey",
+        "slug": "salah-bey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_salah-bey",
+        "level": 2,
+        "name": {
+          "local": "صالح باي",
+          "en": "Salah Bey",
+          "slug": "salah-bey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19060"
+    ],
+    "geo": {
+      "lat": "35.782",
+      "lon": "5.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_salah-bey_salah-bey",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صالح باي",
+      "en": "Salah Bey",
+      "slug": "salah-bey"
+    },
+    "code": {
+      "id": "DZ019_salah-bey_salah-bey",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_salah-bey",
+      "level": 2,
+      "name": {
+        "local": "صالح باي",
+        "en": "Salah Bey",
+        "slug": "salah-bey"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_salah-bey",
+        "level": 2,
+        "name": {
+          "local": "صالح باي",
+          "en": "Salah Bey",
+          "slug": "salah-bey"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19013"
+    ],
+    "geo": {
+      "lat": "35.826",
+      "lon": "5.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

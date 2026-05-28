@@ -1,0 +1,45 @@
+{
+  "id": "DZ027063",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tlatet Ed Douair",
+    "en": "Tlatet Ed Douair",
+    "slug": "tlatet-ed-douair-dz027063"
+  },
+  "code": {
+    "id": "DZ027063",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36",
+    "lon": "3.003"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ021_tamalous_bin-el-ouiden",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بين الويدان",
+      "en": "Bin El Ouiden",
+      "slug": "bin-el-ouiden"
+    },
+    "code": {
+      "id": "DZ021_tamalous_bin-el-ouiden",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_tamalous",
+      "level": 2,
+      "name": {
+        "local": "تمالوس",
+        "en": "Tamalous",
+        "slug": "tamalous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_tamalous",
+        "level": 2,
+        "name": {
+          "local": "تمالوس",
+          "en": "Tamalous",
+          "slug": "tamalous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21052"
+    ],
+    "geo": {
+      "lat": "36.857",
+      "lon": "6.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_tamalous_kerkara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكركرة",
+      "en": "Kerkara",
+      "slug": "kerkara"
+    },
+    "code": {
+      "id": "DZ021_tamalous_kerkara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_tamalous",
+      "level": 2,
+      "name": {
+        "local": "تمالوس",
+        "en": "Tamalous",
+        "slug": "tamalous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_tamalous",
+        "level": 2,
+        "name": {
+          "local": "تمالوس",
+          "en": "Tamalous",
+          "slug": "tamalous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21019"
+    ],
+    "geo": {
+      "lat": "36.857",
+      "lon": "6.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_tamalous_tamalous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تمالوس",
+      "en": "Tamalous",
+      "slug": "tamalous"
+    },
+    "code": {
+      "id": "DZ021_tamalous_tamalous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021_tamalous",
+      "level": 2,
+      "name": {
+        "local": "تمالوس",
+        "en": "Tamalous",
+        "slug": "tamalous"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      },
+      {
+        "id": "DZ021_tamalous",
+        "level": 2,
+        "name": {
+          "local": "تمالوس",
+          "en": "Tamalous",
+          "slug": "tamalous"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21005"
+    ],
+    "geo": {
+      "lat": "36.857",
+      "lon": "6.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

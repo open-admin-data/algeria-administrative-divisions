@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ012_el-kouif_bekkaria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بكارية",
+      "en": "Bekkaria",
+      "slug": "bekkaria"
+    },
+    "code": {
+      "id": "DZ012_el-kouif_bekkaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-kouif",
+      "level": 2,
+      "name": {
+        "local": "الكويف",
+        "en": "El Kouif",
+        "slug": "el-kouif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-kouif",
+        "level": 2,
+        "name": {
+          "local": "الكويف",
+          "en": "El Kouif",
+          "slug": "el-kouif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12019"
+    ],
+    "geo": {
+      "lat": "35.381",
+      "lon": "8.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-kouif_boulhaf-dyr",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بولحاف الدير",
+      "en": "Boulhaf Dyr",
+      "slug": "boulhaf-dyr"
+    },
+    "code": {
+      "id": "DZ012_el-kouif_boulhaf-dyr",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-kouif",
+      "level": 2,
+      "name": {
+        "local": "الكويف",
+        "en": "El Kouif",
+        "slug": "el-kouif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-kouif",
+        "level": 2,
+        "name": {
+          "local": "الكويف",
+          "en": "El Kouif",
+          "slug": "el-kouif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12039"
+    ],
+    "geo": {
+      "lat": "35.524",
+      "lon": "8.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-kouif_el-kouif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكويف",
+      "en": "El Kouif",
+      "slug": "el-kouif"
+    },
+    "code": {
+      "id": "DZ012_el-kouif_el-kouif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-kouif",
+      "level": 2,
+      "name": {
+        "local": "الكويف",
+        "en": "El Kouif",
+        "slug": "el-kouif"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-kouif",
+        "level": 2,
+        "name": {
+          "local": "الكويف",
+          "en": "El Kouif",
+          "slug": "el-kouif"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12006"
+    ],
+    "geo": {
+      "lat": "35.498",
+      "lon": "8.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

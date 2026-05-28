@@ -1,0 +1,47 @@
+{
+  "id": "DZ004_oum-el-bouaghi",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أم البواقي",
+    "en": "Oum El Bouaghi",
+    "slug": "oum-el-bouaghi"
+  },
+  "code": {
+    "id": "DZ004_oum-el-bouaghi",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.778",
+    "lon": "7.107"
+  },
+  "metadata": {},
+  "source": {}
+}

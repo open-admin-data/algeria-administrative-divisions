@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_arris_arris",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أريس",
+      "en": "Arris",
+      "slug": "arris"
+    },
+    "code": {
+      "id": "DZ005_arris_arris",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_arris",
+      "level": 2,
+      "name": {
+        "local": "أريس",
+        "en": "Arris",
+        "slug": "arris"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_arris",
+        "level": 2,
+        "name": {
+          "local": "أريس",
+          "en": "Arris",
+          "slug": "arris"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05007"
+    ],
+    "geo": {
+      "lat": "35.315",
+      "lon": "6.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_arris_tighanimine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيغانمين",
+      "en": "Tighanimine",
+      "slug": "tighanimine"
+    },
+    "code": {
+      "id": "DZ005_arris_tighanimine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_arris",
+      "level": 2,
+      "name": {
+        "local": "أريس",
+        "en": "Arris",
+        "slug": "arris"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_arris",
+        "level": 2,
+        "name": {
+          "local": "أريس",
+          "en": "Arris",
+          "slug": "arris"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05060"
+    ],
+    "geo": {
+      "lat": "35.188",
+      "lon": "6.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

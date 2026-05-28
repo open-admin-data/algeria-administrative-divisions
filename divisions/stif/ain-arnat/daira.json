@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_ain-arnat",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين أرنات",
+    "en": "Ain Arnat",
+    "slug": "ain-arnat"
+  },
+  "code": {
+    "id": "DZ019_ain-arnat",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.217",
+    "lon": "5.317"
+  },
+  "metadata": {},
+  "source": {}
+}

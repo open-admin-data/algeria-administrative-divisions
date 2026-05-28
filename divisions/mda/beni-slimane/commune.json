@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_beni-slimane_beni-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني سليمان",
+      "en": "Beni Slimane",
+      "slug": "beni-slimane"
+    },
+    "code": {
+      "id": "DZ026_beni-slimane_beni-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_beni-slimane",
+      "level": 2,
+      "name": {
+        "local": "بني سليمان",
+        "en": "Beni Slimane",
+        "slug": "beni-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_beni-slimane",
+        "level": 2,
+        "name": {
+          "local": "بني سليمان",
+          "en": "Beni Slimane",
+          "slug": "beni-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26001"
+    ],
+    "geo": {
+      "lat": "36.221",
+      "lon": "3.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_beni-slimane_bouskene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوسكن",
+      "en": "Bouskene",
+      "slug": "bouskene"
+    },
+    "code": {
+      "id": "DZ026_beni-slimane_bouskene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_beni-slimane",
+      "level": 2,
+      "name": {
+        "local": "بني سليمان",
+        "en": "Beni Slimane",
+        "slug": "beni-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_beni-slimane",
+        "level": 2,
+        "name": {
+          "local": "بني سليمان",
+          "en": "Beni Slimane",
+          "slug": "beni-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26025"
+    ],
+    "geo": {
+      "lat": "36.198",
+      "lon": "3.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_beni-slimane_sidi-rabie",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي الربيع",
+      "en": "Sidi Rabie",
+      "slug": "sidi-rabie"
+    },
+    "code": {
+      "id": "DZ026_beni-slimane_sidi-rabie",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_beni-slimane",
+      "level": 2,
+      "name": {
+        "local": "بني سليمان",
+        "en": "Beni Slimane",
+        "slug": "beni-slimane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_beni-slimane",
+        "level": 2,
+        "name": {
+          "local": "بني سليمان",
+          "en": "Beni Slimane",
+          "slug": "beni-slimane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26070"
+    ],
+    "geo": {
+      "lat": "36.209",
+      "lon": "3.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

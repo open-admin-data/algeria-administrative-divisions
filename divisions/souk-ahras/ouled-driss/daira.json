@@ -1,0 +1,47 @@
+{
+  "id": "DZ041_ouled-driss",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أولاد إدريس",
+    "en": "Ouled Driss",
+    "slug": "ouled-driss"
+  },
+  "code": {
+    "id": "DZ041_ouled-driss",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk Ahras",
+      "slug": "souk-ahras"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk Ahras",
+        "slug": "souk-ahras"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.389",
+    "lon": "8.136"
+  },
+  "metadata": {},
+  "source": {}
+}

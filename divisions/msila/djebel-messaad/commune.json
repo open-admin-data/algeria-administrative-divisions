@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ028_djebel-messaad_djebel-messaad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جبل مساعد",
+      "en": "Djebel Messaad",
+      "slug": "djebel-messaad"
+    },
+    "code": {
+      "id": "DZ028_djebel-messaad_djebel-messaad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_djebel-messaad",
+      "level": 2,
+      "name": {
+        "local": "جبل مساعد",
+        "en": "Djebel Messaad",
+        "slug": "djebel-messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_djebel-messaad",
+        "level": 2,
+        "name": {
+          "local": "جبل مساعد",
+          "en": "Djebel Messaad",
+          "slug": "djebel-messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28024"
+    ],
+    "geo": {
+      "lat": "34.987",
+      "lon": "4.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_djebel-messaad_slim",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سليم",
+      "en": "Slim",
+      "slug": "slim"
+    },
+    "code": {
+      "id": "DZ028_djebel-messaad_slim",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_djebel-messaad",
+      "level": 2,
+      "name": {
+        "local": "جبل مساعد",
+        "en": "Djebel Messaad",
+        "slug": "djebel-messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_djebel-messaad",
+        "level": 2,
+        "name": {
+          "local": "جبل مساعد",
+          "en": "Djebel Messaad",
+          "slug": "djebel-messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28037"
+    ],
+    "geo": {
+      "lat": "34.957",
+      "lon": "3.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

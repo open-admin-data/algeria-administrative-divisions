@@ -1,0 +1,47 @@
+{
+  "id": "DZ012_el-ogla",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "العقلة",
+    "en": "El Ogla",
+    "slug": "el-ogla"
+  },
+  "code": {
+    "id": "DZ012_el-ogla",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.14",
+    "lon": "7.475"
+  },
+  "metadata": {},
+  "source": {}
+}

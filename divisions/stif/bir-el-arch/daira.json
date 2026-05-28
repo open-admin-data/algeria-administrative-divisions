@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_bir-el-arch",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر العرش",
+    "en": "Bir El Arch",
+    "slug": "bir-el-arch"
+  },
+  "code": {
+    "id": "DZ019_bir-el-arch",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.198",
+    "lon": "5.805"
+  },
+  "metadata": {},
+  "source": {}
+}

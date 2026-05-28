@@ -1,0 +1,45 @@
+{
+  "id": "DZ033002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Balidat Ameur",
+    "en": "Balidat Ameur",
+    "slug": "balidat-ameur-dz033002"
+  },
+  "code": {
+    "id": "DZ033002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.926",
+    "lon": "6.054"
+  },
+  "metadata": {},
+  "source": {}
+}

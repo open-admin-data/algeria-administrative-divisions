@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_magrane_magrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المقرن",
+      "en": "Magrane",
+      "slug": "magrane"
+    },
+    "code": {
+      "id": "DZ039_magrane_magrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_magrane",
+      "level": 2,
+      "name": {
+        "local": "المقرن",
+        "en": "Magrane",
+        "slug": "magrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_magrane",
+        "level": 2,
+        "name": {
+          "local": "المقرن",
+          "en": "Magrane",
+          "slug": "magrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39015"
+    ],
+    "geo": {
+      "lat": "33.797",
+      "lon": "6.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_magrane_sidi-aoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عون",
+      "en": "Sidi Aoun",
+      "slug": "sidi-aoun"
+    },
+    "code": {
+      "id": "DZ039_magrane_sidi-aoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_magrane",
+      "level": 2,
+      "name": {
+        "local": "المقرن",
+        "en": "Magrane",
+        "slug": "magrane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_magrane",
+        "level": 2,
+        "name": {
+          "local": "المقرن",
+          "en": "Magrane",
+          "slug": "magrane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39037"
+    ],
+    "geo": {
+      "lat": "33.902",
+      "lon": "6.81"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ035035",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Saada",
+    "en": "Sidi Saada",
+    "slug": "sidi-saada-dz035035"
+  },
+  "code": {
+    "id": "DZ035035",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ035",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane-dz035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.702",
+    "lon": "0.278"
+  },
+  "metadata": {},
+  "source": {}
+}

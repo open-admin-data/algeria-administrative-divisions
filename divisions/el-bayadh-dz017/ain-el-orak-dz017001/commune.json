@@ -1,0 +1,45 @@
+{
+  "id": "DZ017001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Orak",
+    "en": "Ain El Orak",
+    "slug": "ain-el-orak-dz017001"
+  },
+  "code": {
+    "id": "DZ017001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.423",
+    "lon": "0.83"
+  },
+  "metadata": {},
+  "source": {}
+}

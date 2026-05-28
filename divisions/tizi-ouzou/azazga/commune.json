@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ015_azazga_azazga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عزازقة",
+      "en": "Azazga",
+      "slug": "azazga"
+    },
+    "code": {
+      "id": "DZ015_azazga_azazga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azazga",
+      "level": 2,
+      "name": {
+        "local": "عزازقة",
+        "en": "Azazga",
+        "slug": "azazga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azazga",
+        "level": 2,
+        "name": {
+          "local": "عزازقة",
+          "en": "Azazga",
+          "slug": "azazga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15001"
+    ],
+    "geo": {
+      "lat": "36.744",
+      "lon": "4.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azazga_freha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فريحة",
+      "en": "Freha",
+      "slug": "freha"
+    },
+    "code": {
+      "id": "DZ015_azazga_freha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azazga",
+      "level": 2,
+      "name": {
+        "local": "عزازقة",
+        "en": "Azazga",
+        "slug": "azazga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azazga",
+        "level": 2,
+        "name": {
+          "local": "عزازقة",
+          "en": "Azazga",
+          "slug": "azazga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15012"
+    ],
+    "geo": {
+      "lat": "36.764",
+      "lon": "4.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azazga_ifigha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إيفيغاء",
+      "en": "Ifigha",
+      "slug": "ifigha"
+    },
+    "code": {
+      "id": "DZ015_azazga_ifigha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azazga",
+      "level": 2,
+      "name": {
+        "local": "عزازقة",
+        "en": "Azazga",
+        "slug": "azazga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azazga",
+        "level": 2,
+        "name": {
+          "local": "عزازقة",
+          "en": "Azazga",
+          "slug": "azazga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15034"
+    ],
+    "geo": {
+      "lat": "36.667",
+      "lon": "4.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azazga_yakourene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إعــكورن",
+      "en": "Yakourene",
+      "slug": "yakourene"
+    },
+    "code": {
+      "id": "DZ015_azazga_yakourene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azazga",
+      "level": 2,
+      "name": {
+        "local": "عزازقة",
+        "en": "Azazga",
+        "slug": "azazga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azazga",
+        "level": 2,
+        "name": {
+          "local": "عزازقة",
+          "en": "Azazga",
+          "slug": "azazga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15051"
+    ],
+    "geo": {
+      "lat": "36.742",
+      "lon": "4.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_azazga_zekri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زكري",
+      "en": "Zekri",
+      "slug": "zekri"
+    },
+    "code": {
+      "id": "DZ015_azazga_zekri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_azazga",
+      "level": 2,
+      "name": {
+        "local": "عزازقة",
+        "en": "Azazga",
+        "slug": "azazga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_azazga",
+        "level": 2,
+        "name": {
+          "local": "عزازقة",
+          "en": "Azazga",
+          "slug": "azazga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15076"
+    ],
+    "geo": {
+      "lat": "36.792",
+      "lon": "4.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

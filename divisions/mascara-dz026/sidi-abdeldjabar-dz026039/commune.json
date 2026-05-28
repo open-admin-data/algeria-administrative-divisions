@@ -1,0 +1,45 @@
+{
+  "id": "DZ026039",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Abdeldjabar",
+    "en": "Sidi Abdeldjabar",
+    "slug": "sidi-abdeldjabar-dz026039"
+  },
+  "code": {
+    "id": "DZ026039",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.466",
+    "lon": "0.517"
+  },
+  "metadata": {},
+  "source": {}
+}

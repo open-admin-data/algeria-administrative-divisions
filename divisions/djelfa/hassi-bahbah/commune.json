@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ017_hassi-bahbah_ain-maabed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين معبد",
+      "en": "Ain Maabed",
+      "slug": "ain-maabed"
+    },
+    "code": {
+      "id": "DZ017_hassi-bahbah_ain-maabed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_hassi-bahbah",
+      "level": 2,
+      "name": {
+        "local": "حاسي بحبح",
+        "en": "Hassi Bahbah",
+        "slug": "hassi-bahbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_hassi-bahbah",
+        "level": 2,
+        "name": {
+          "local": "حاسي بحبح",
+          "en": "Hassi Bahbah",
+          "slug": "hassi-bahbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17025"
+    ],
+    "geo": {
+      "lat": "34.842",
+      "lon": "3.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_hassi-bahbah_hassi-bahbah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي بحبح",
+      "en": "Hassi Bahbah",
+      "slug": "hassi-bahbah"
+    },
+    "code": {
+      "id": "DZ017_hassi-bahbah_hassi-bahbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_hassi-bahbah",
+      "level": 2,
+      "name": {
+        "local": "حاسي بحبح",
+        "en": "Hassi Bahbah",
+        "slug": "hassi-bahbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_hassi-bahbah",
+        "level": 2,
+        "name": {
+          "local": "حاسي بحبح",
+          "en": "Hassi Bahbah",
+          "slug": "hassi-bahbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17002"
+    ],
+    "geo": {
+      "lat": "35.003",
+      "lon": "2.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_hassi-bahbah_hassi-el-euch",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي العش",
+      "en": "Hassi El Euch",
+      "slug": "hassi-el-euch"
+    },
+    "code": {
+      "id": "DZ017_hassi-bahbah_hassi-el-euch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_hassi-bahbah",
+      "level": 2,
+      "name": {
+        "local": "حاسي بحبح",
+        "en": "Hassi Bahbah",
+        "slug": "hassi-bahbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_hassi-bahbah",
+        "level": 2,
+        "name": {
+          "local": "حاسي بحبح",
+          "en": "Hassi Bahbah",
+          "slug": "hassi-bahbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17032"
+    ],
+    "geo": {
+      "lat": "35.079",
+      "lon": "3.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_hassi-bahbah_zaafrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زعفران",
+      "en": "Zaafrane",
+      "slug": "zaafrane"
+    },
+    "code": {
+      "id": "DZ017_hassi-bahbah_zaafrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_hassi-bahbah",
+      "level": 2,
+      "name": {
+        "local": "حاسي بحبح",
+        "en": "Hassi Bahbah",
+        "slug": "hassi-bahbah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_hassi-bahbah",
+        "level": 2,
+        "name": {
+          "local": "حاسي بحبح",
+          "en": "Hassi Bahbah",
+          "slug": "hassi-bahbah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17038"
+    ],
+    "geo": {
+      "lat": "34.797",
+      "lon": "2.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

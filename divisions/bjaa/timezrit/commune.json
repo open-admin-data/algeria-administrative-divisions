@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ006_timezrit_timezrit",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيمزريت",
+      "en": "Timezrit",
+      "slug": "timezrit"
+    },
+    "code": {
+      "id": "DZ006_timezrit_timezrit",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_timezrit",
+      "level": 2,
+      "name": {
+        "local": "تيمزريت",
+        "en": "Timezrit",
+        "slug": "timezrit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_timezrit",
+        "level": 2,
+        "name": {
+          "local": "تيمزريت",
+          "en": "Timezrit",
+          "slug": "timezrit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06019"
+    ],
+    "geo": {
+      "lat": "36.666",
+      "lon": "3.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

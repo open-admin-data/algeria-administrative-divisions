@@ -1,0 +1,47 @@
+{
+  "id": "DZ048_el-hmadna",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الحمادنة",
+    "en": "El H'madna",
+    "slug": "el-hmadna"
+  },
+  "code": {
+    "id": "DZ048_el-hmadna",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "غليزان",
+      "en": "Relizane",
+      "slug": "relizane"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.868",
+    "lon": "0.706"
+  },
+  "metadata": {},
+  "source": {}
+}

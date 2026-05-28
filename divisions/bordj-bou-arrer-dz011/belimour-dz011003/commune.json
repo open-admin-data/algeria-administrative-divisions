@@ -1,0 +1,45 @@
+{
+  "id": "DZ011003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Belimour",
+    "en": "Belimour",
+    "slug": "belimour-dz011003"
+  },
+  "code": {
+    "id": "DZ011003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.984",
+    "lon": "4.884"
+  },
+  "metadata": {},
+  "source": {}
+}

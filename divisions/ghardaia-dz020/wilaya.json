@@ -1,0 +1,29 @@
+{
+  "id": "DZ020",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "غرداية",
+    "en": "Ghardaia",
+    "slug": "ghardaia-dz020"
+  },
+  "code": {
+    "id": "DZ020",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.967",
+    "lon": "3.083"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ035_baghlia,بغلية,Baghlia,baghlia,DZ035_baghlia,3,36.82,3.88
+DZ035_bordj-menaiel,برج منايل,Bordj Menaiel,bordj-menaiel,DZ035_bordj-menaiel,4,36.795,3.692
+DZ035_boudouaou,بودواو,Boudouaou,boudouaou,DZ035_boudouaou,5,36.681,3.434
+DZ035_boumerdes,بومرداس,Boumerdes,boumerdes,DZ035_boumerdes,3,36.737,3.478
+DZ035_dellys,دلس,Dellys,dellys,DZ035_dellys,3,36.861,3.949
+DZ035_isser,يسر,Isser,isser,DZ035_isser,4,36.684,3.695
+DZ035_khemis-el-khechna,خميس الخشنة,Khemis El Khechna,khemis-el-khechna,DZ035_khemis-el-khechna,4,36.654,3.333
+DZ035_naciria,الناصرية,Naciria,naciria,DZ035_naciria,2,36.77,3.817
+DZ035_thenia,الثنية,Thenia,thenia,DZ035_thenia,4,36.49,2.996

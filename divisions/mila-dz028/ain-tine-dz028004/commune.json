@@ -1,0 +1,45 @@
+{
+  "id": "DZ028004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Tine",
+    "en": "Ain Tine",
+    "slug": "ain-tine-dz028004"
+  },
+  "code": {
+    "id": "DZ028004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ028",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila-dz028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ028",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila-dz028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.416",
+    "lon": "6.328"
+  },
+  "metadata": {},
+  "source": {}
+}

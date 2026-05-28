@@ -1,0 +1,378 @@
+[
+  {
+    "id": "DZ032_boualem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوعلام",
+      "en": "Boualem",
+      "slug": "boualem"
+    },
+    "code": {
+      "id": "DZ032_boualem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.021",
+      "lon": "2.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_bougtoub",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوقطب",
+      "en": "Bougtoub",
+      "slug": "bougtoub"
+    },
+    "code": {
+      "id": "DZ032_bougtoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.825",
+      "lon": "0.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_boussemghoun",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوسمغون",
+      "en": "Boussemghoun",
+      "slug": "boussemghoun"
+    },
+    "code": {
+      "id": "DZ032_boussemghoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.814",
+      "lon": "0.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_brezina",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بريزينة",
+      "en": "Brezina",
+      "slug": "brezina"
+    },
+    "code": {
+      "id": "DZ032_brezina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.133",
+      "lon": "1.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_chellala",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شلالة",
+      "en": "Chellala",
+      "slug": "chellala"
+    },
+    "code": {
+      "id": "DZ032_chellala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.15",
+      "lon": "0.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_el-bayadh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh"
+    },
+    "code": {
+      "id": "DZ032_el-bayadh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.647",
+      "lon": "1.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_labiodh-sidi-cheikh",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الأبيض سيدي الشيخ",
+      "en": "Labiodh Sidi Cheikh",
+      "slug": "labiodh-sidi-cheikh"
+    },
+    "code": {
+      "id": "DZ032_labiodh-sidi-cheikh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.758",
+      "lon": "0.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_rogassa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "رقاصة",
+      "en": "Rogassa",
+      "slug": "rogassa"
+    },
+    "code": {
+      "id": "DZ032_rogassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.954",
+      "lon": "0.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ035_dellys_afir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أعفير",
+      "en": "Afir",
+      "slug": "afir"
+    },
+    "code": {
+      "id": "DZ035_dellys_afir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_dellys",
+      "level": 2,
+      "name": {
+        "local": "دلس",
+        "en": "Dellys",
+        "slug": "dellys"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_dellys",
+        "level": 2,
+        "name": {
+          "local": "دلس",
+          "en": "Dellys",
+          "slug": "dellys"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35022"
+    ],
+    "geo": {
+      "lat": "36.857",
+      "lon": "4.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_dellys_ben-choud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن شود",
+      "en": "Ben Choud",
+      "slug": "ben-choud"
+    },
+    "code": {
+      "id": "DZ035_dellys_ben-choud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_dellys",
+      "level": 2,
+      "name": {
+        "local": "دلس",
+        "en": "Dellys",
+        "slug": "dellys"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_dellys",
+        "level": 2,
+        "name": {
+          "local": "دلس",
+          "en": "Dellys",
+          "slug": "dellys"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35033"
+    ],
+    "geo": {
+      "lat": "36.854",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_dellys_dellys",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دلس",
+      "en": "Dellys",
+      "slug": "dellys"
+    },
+    "code": {
+      "id": "DZ035_dellys_dellys",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_dellys",
+      "level": 2,
+      "name": {
+        "local": "دلس",
+        "en": "Dellys",
+        "slug": "dellys"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_dellys",
+        "level": 2,
+        "name": {
+          "local": "دلس",
+          "en": "Dellys",
+          "slug": "dellys"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35004"
+    ],
+    "geo": {
+      "lat": "36.871",
+      "lon": "3.941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

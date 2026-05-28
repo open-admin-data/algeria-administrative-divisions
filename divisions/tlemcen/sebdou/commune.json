@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_sebdou_el-aricha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العريشة",
+      "en": "El Aricha",
+      "slug": "el-aricha"
+    },
+    "code": {
+      "id": "DZ013_sebdou_el-aricha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sebdou",
+      "level": 2,
+      "name": {
+        "local": "سبدو",
+        "en": "Sebdou",
+        "slug": "sebdou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sebdou",
+        "level": 2,
+        "name": {
+          "local": "سبدو",
+          "en": "Sebdou",
+          "slug": "sebdou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13031"
+    ],
+    "geo": {
+      "lat": "34.394",
+      "lon": "-1.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sebdou_el-gor",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القور",
+      "en": "El Gor",
+      "slug": "el-gor"
+    },
+    "code": {
+      "id": "DZ013_sebdou_el-gor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sebdou",
+      "level": 2,
+      "name": {
+        "local": "سبدو",
+        "en": "Sebdou",
+        "slug": "sebdou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sebdou",
+        "level": 2,
+        "name": {
+          "local": "سبدو",
+          "en": "Sebdou",
+          "slug": "sebdou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13034"
+    ],
+    "geo": {
+      "lat": "34.552",
+      "lon": "-1.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sebdou_sebdou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سبدو",
+      "en": "Sebdou",
+      "slug": "sebdou"
+    },
+    "code": {
+      "id": "DZ013_sebdou_sebdou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sebdou",
+      "level": 2,
+      "name": {
+        "local": "سبدو",
+        "en": "Sebdou",
+        "slug": "sebdou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sebdou",
+        "level": 2,
+        "name": {
+          "local": "سبدو",
+          "en": "Sebdou",
+          "slug": "sebdou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13006"
+    ],
+    "geo": {
+      "lat": "34.644",
+      "lon": "-1.287"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

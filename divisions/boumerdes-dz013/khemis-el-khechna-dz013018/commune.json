@@ -1,0 +1,45 @@
+{
+  "id": "DZ013018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khemis El Khechna",
+    "en": "Khemis El Khechna",
+    "slug": "khemis-el-khechna-dz013018"
+  },
+  "code": {
+    "id": "DZ013018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "بومرداس",
+      "en": "Boumerdes",
+      "slug": "boumerdes-dz013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "بومرداس",
+        "en": "Boumerdes",
+        "slug": "boumerdes-dz013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.635",
+    "lon": "3.323"
+  },
+  "metadata": {},
+  "source": {}
+}

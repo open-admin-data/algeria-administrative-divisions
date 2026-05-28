@@ -1,0 +1,47 @@
+{
+  "id": "DZ029_oggaz",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عقاز",
+    "en": "Oggaz",
+    "slug": "oggaz"
+  },
+  "code": {
+    "id": "DZ029_oggaz",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.629",
+    "lon": "-0.248"
+  },
+  "metadata": {},
+  "source": {}
+}

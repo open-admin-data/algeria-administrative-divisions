@@ -1,0 +1,45 @@
+{
+  "id": "DZ040015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oum El Adhaim",
+    "en": "Oum El Adhaim",
+    "slug": "oum-el-adhaim-dz040015"
+  },
+  "code": {
+    "id": "DZ040015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ040",
+    "level": 1,
+    "name": {
+      "local": "سوق أهراس",
+      "en": "Souk-Ahras",
+      "slug": "souk-ahras-dz040"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ040",
+      "level": 1,
+      "name": {
+        "local": "سوق أهراس",
+        "en": "Souk-Ahras",
+        "slug": "souk-ahras-dz040"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.994",
+    "lon": "7.667"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ006_aokas_aokas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أوقاس",
+      "en": "Aokas",
+      "slug": "aokas"
+    },
+    "code": {
+      "id": "DZ006_aokas_aokas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_aokas",
+      "level": 2,
+      "name": {
+        "local": "أوقاس",
+        "en": "Aokas",
+        "slug": "aokas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_aokas",
+        "level": 2,
+        "name": {
+          "local": "أوقاس",
+          "en": "Aokas",
+          "slug": "aokas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06007"
+    ],
+    "geo": {
+      "lat": "36.62",
+      "lon": "5.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_aokas_tizi-nberber",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي نبربر",
+      "en": "Tizi-N'berber",
+      "slug": "tizi-nberber"
+    },
+    "code": {
+      "id": "DZ006_aokas_tizi-nberber",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_aokas",
+      "level": 2,
+      "name": {
+        "local": "أوقاس",
+        "en": "Aokas",
+        "slug": "aokas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_aokas",
+        "level": 2,
+        "name": {
+          "local": "أوقاس",
+          "en": "Aokas",
+          "slug": "aokas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06058"
+    ],
+    "geo": {
+      "lat": "36.593",
+      "lon": "5.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

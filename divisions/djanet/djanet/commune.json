@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ056_djanet_bordj-el-haouass",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الحواس",
+      "en": "Bordj El Haouass",
+      "slug": "bordj-el-haouass"
+    },
+    "code": {
+      "id": "DZ056_djanet_bordj-el-haouass",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ056_djanet",
+      "level": 2,
+      "name": {
+        "local": "جانت",
+        "en": "Djanet",
+        "slug": "djanet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ056",
+        "level": 1,
+        "name": {
+          "local": "جانت",
+          "en": "Djanet",
+          "slug": "djanet"
+        }
+      },
+      {
+        "id": "DZ056_djanet",
+        "level": 2,
+        "name": {
+          "local": "جانت",
+          "en": "Djanet",
+          "slug": "djanet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33008"
+    ],
+    "geo": {
+      "lat": "23.78",
+      "lon": "10.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ056_djanet_djanet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جانت",
+      "en": "Djanet",
+      "slug": "djanet"
+    },
+    "code": {
+      "id": "DZ056_djanet_djanet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ056_djanet",
+      "level": 2,
+      "name": {
+        "local": "جانت",
+        "en": "Djanet",
+        "slug": "djanet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ056",
+        "level": 1,
+        "name": {
+          "local": "جانت",
+          "en": "Djanet",
+          "slug": "djanet"
+        }
+      },
+      {
+        "id": "DZ056_djanet",
+        "level": 2,
+        "name": {
+          "local": "جانت",
+          "en": "Djanet",
+          "slug": "djanet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33002"
+    ],
+    "geo": {
+      "lat": "23.78",
+      "lon": "10.135"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

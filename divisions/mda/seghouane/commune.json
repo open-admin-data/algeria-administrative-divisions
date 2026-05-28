@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ026_seghouane_medjebar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجبر",
+      "en": "Medjebar",
+      "slug": "medjebar"
+    },
+    "code": {
+      "id": "DZ026_seghouane_medjebar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_seghouane",
+      "level": 2,
+      "name": {
+        "local": "سغوان",
+        "en": "Seghouane",
+        "slug": "seghouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_seghouane",
+        "level": 2,
+        "name": {
+          "local": "سغوان",
+          "en": "Seghouane",
+          "slug": "seghouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26033"
+    ],
+    "geo": {
+      "lat": "36.035",
+      "lon": "2.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_seghouane_seghouane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سغوان",
+      "en": "Seghouane",
+      "slug": "seghouane"
+    },
+    "code": {
+      "id": "DZ026_seghouane_seghouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_seghouane",
+      "level": 2,
+      "name": {
+        "local": "سغوان",
+        "en": "Seghouane",
+        "slug": "seghouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_seghouane",
+        "level": 2,
+        "name": {
+          "local": "سغوان",
+          "en": "Seghouane",
+          "slug": "seghouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26041"
+    ],
+    "geo": {
+      "lat": "35.999",
+      "lon": "2.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_seghouane_tletat-ed-douair",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ثلاث دوائر",
+      "en": "Tletat Ed Douair",
+      "slug": "tletat-ed-douair"
+    },
+    "code": {
+      "id": "DZ026_seghouane_tletat-ed-douair",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_seghouane",
+      "level": 2,
+      "name": {
+        "local": "سغوان",
+        "en": "Seghouane",
+        "slug": "seghouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_seghouane",
+        "level": 2,
+        "name": {
+          "local": "سغوان",
+          "en": "Seghouane",
+          "slug": "seghouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26046"
+    ],
+    "geo": {
+      "lat": "36.035",
+      "lon": "2.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_seghouane_zoubiria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزبيرية",
+      "en": "Zoubiria",
+      "slug": "zoubiria"
+    },
+    "code": {
+      "id": "DZ026_seghouane_zoubiria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_seghouane",
+      "level": 2,
+      "name": {
+        "local": "سغوان",
+        "en": "Seghouane",
+        "slug": "seghouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_seghouane",
+        "level": 2,
+        "name": {
+          "local": "سغوان",
+          "en": "Seghouane",
+          "slug": "seghouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26021"
+    ],
+    "geo": {
+      "lat": "36.07",
+      "lon": "2.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

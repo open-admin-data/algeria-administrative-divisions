@@ -1,0 +1,45 @@
+{
+  "id": "DZ019019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Lac Des Oiseaux",
+    "en": "Lac Des Oiseaux",
+    "slug": "lac-des-oiseaux-dz019019"
+  },
+  "code": {
+    "id": "DZ019019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "الطارف",
+      "en": "El-Tarf",
+      "slug": "el-tarf-dz019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "الطارف",
+        "en": "El-Tarf",
+        "slug": "el-tarf-dz019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.763",
+    "lon": "8.097"
+  },
+  "metadata": {},
+  "source": {}
+}

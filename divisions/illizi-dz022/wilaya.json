@@ -1,0 +1,29 @@
+{
+  "id": "DZ022",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "اليزي",
+    "en": "Illizi",
+    "slug": "illizi-dz022"
+  },
+  "code": {
+    "id": "DZ022",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.526",
+    "lon": "8.07"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ035_baghlia_baghlia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بغلية",
+      "en": "Baghlia",
+      "slug": "baghlia"
+    },
+    "code": {
+      "id": "DZ035_baghlia_baghlia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_baghlia",
+      "level": 2,
+      "name": {
+        "local": "بغلية",
+        "en": "Baghlia",
+        "slug": "baghlia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_baghlia",
+        "level": 2,
+        "name": {
+          "local": "بغلية",
+          "en": "Baghlia",
+          "slug": "baghlia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35013"
+    ],
+    "geo": {
+      "lat": "36.799",
+      "lon": "3.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_baghlia_sidi-daoud",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي داود",
+      "en": "Sidi Daoud",
+      "slug": "sidi-daoud"
+    },
+    "code": {
+      "id": "DZ035_baghlia_sidi-daoud",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_baghlia",
+      "level": 2,
+      "name": {
+        "local": "بغلية",
+        "en": "Baghlia",
+        "slug": "baghlia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_baghlia",
+        "level": 2,
+        "name": {
+          "local": "بغلية",
+          "en": "Baghlia",
+          "slug": "baghlia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35019"
+    ],
+    "geo": {
+      "lat": "36.866",
+      "lon": "3.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_baghlia_taourga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاورقة",
+      "en": "Taourga",
+      "slug": "taourga"
+    },
+    "code": {
+      "id": "DZ035_baghlia_taourga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_baghlia",
+      "level": 2,
+      "name": {
+        "local": "بغلية",
+        "en": "Baghlia",
+        "slug": "baghlia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_baghlia",
+        "level": 2,
+        "name": {
+          "local": "بغلية",
+          "en": "Baghlia",
+          "slug": "baghlia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35029"
+    ],
+    "geo": {
+      "lat": "36.796",
+      "lon": "3.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

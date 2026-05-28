@@ -1,0 +1,45 @@
+{
+  "id": "DZ036001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain El Hadjar",
+    "en": "Ain El Hadjar",
+    "slug": "ain-el-hadjar-dz036001"
+  },
+  "code": {
+    "id": "DZ036001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ036",
+    "level": 1,
+    "name": {
+      "local": "سعيدة",
+      "en": "Saida",
+      "slug": "saida-dz036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.763",
+    "lon": "0.018"
+  },
+  "metadata": {},
+  "source": {}
+}

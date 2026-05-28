@@ -1,0 +1,45 @@
+{
+  "id": "DZ032020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mers El Kebir",
+    "en": "Mers El Kebir",
+    "slug": "mers-el-kebir-dz032020"
+  },
+  "code": {
+    "id": "DZ032020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.721",
+    "lon": "-0.719"
+  },
+  "metadata": {},
+  "source": {}
+}

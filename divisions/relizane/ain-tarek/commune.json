@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ048_ain-tarek_ain-tarek",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين طارق",
+      "en": "Ain-Tarek",
+      "slug": "ain-tarek"
+    },
+    "code": {
+      "id": "DZ048_ain-tarek_ain-tarek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ain-tarek",
+      "level": 2,
+      "name": {
+        "local": "عين طارق",
+        "en": "Ain Tarek",
+        "slug": "ain-tarek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ain-tarek",
+        "level": 2,
+        "name": {
+          "local": "عين طارق",
+          "en": "Ain Tarek",
+          "slug": "ain-tarek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48015"
+    ],
+    "geo": {
+      "lat": "35.776",
+      "lon": "1.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ain-tarek_had-echkalla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حد الشكالة",
+      "en": "Had Echkalla",
+      "slug": "had-echkalla"
+    },
+    "code": {
+      "id": "DZ048_ain-tarek_had-echkalla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ain-tarek",
+      "level": 2,
+      "name": {
+        "local": "عين طارق",
+        "en": "Ain Tarek",
+        "slug": "ain-tarek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ain-tarek",
+        "level": 2,
+        "name": {
+          "local": "عين طارق",
+          "en": "Ain Tarek",
+          "slug": "ain-tarek"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48050"
+    ],
+    "geo": {
+      "lat": "35.776",
+      "lon": "1.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

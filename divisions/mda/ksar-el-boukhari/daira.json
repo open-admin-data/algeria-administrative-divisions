@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_ksar-el-boukhari",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "قصر البخاري",
+    "en": "Ksar El Boukhari",
+    "slug": "ksar-el-boukhari"
+  },
+  "code": {
+    "id": "DZ026_ksar-el-boukhari",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.869",
+    "lon": "2.826"
+  },
+  "metadata": {},
+  "source": {}
+}

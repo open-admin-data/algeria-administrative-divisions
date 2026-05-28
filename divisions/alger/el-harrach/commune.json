@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ016_el-harrach_bachedjerah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "باش جراح",
+      "en": "Bachedjerah",
+      "slug": "bachedjerah"
+    },
+    "code": {
+      "id": "DZ016_el-harrach_bachedjerah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_el-harrach",
+      "level": 2,
+      "name": {
+        "local": "الحراش",
+        "en": "El Harrach",
+        "slug": "el-harrach"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_el-harrach",
+        "level": 2,
+        "name": {
+          "local": "الحراش",
+          "en": "El Harrach",
+          "slug": "el-harrach"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16200"
+    ],
+    "geo": {
+      "lat": "36.714",
+      "lon": "3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_el-harrach_bourouba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوروبة",
+      "en": "Bourouba",
+      "slug": "bourouba"
+    },
+    "code": {
+      "id": "DZ016_el-harrach_bourouba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_el-harrach",
+      "level": 2,
+      "name": {
+        "local": "الحراش",
+        "en": "El Harrach",
+        "slug": "el-harrach"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_el-harrach",
+        "level": 2,
+        "name": {
+          "local": "الحراش",
+          "en": "El Harrach",
+          "slug": "el-harrach"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16054"
+    ],
+    "geo": {
+      "lat": "36.717",
+      "lon": "3.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_el-harrach_el-harrach",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحراش",
+      "en": "El Harrach",
+      "slug": "el-harrach"
+    },
+    "code": {
+      "id": "DZ016_el-harrach_el-harrach",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_el-harrach",
+      "level": 2,
+      "name": {
+        "local": "الحراش",
+        "en": "El Harrach",
+        "slug": "el-harrach"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_el-harrach",
+        "level": 2,
+        "name": {
+          "local": "الحراش",
+          "en": "El Harrach",
+          "slug": "el-harrach"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16004"
+    ],
+    "geo": {
+      "lat": "36.714",
+      "lon": "3.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_el-harrach_oued-smar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي السمار",
+      "en": "Oued Smar",
+      "slug": "oued-smar"
+    },
+    "code": {
+      "id": "DZ016_el-harrach_oued-smar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_el-harrach",
+      "level": 2,
+      "name": {
+        "local": "الحراش",
+        "en": "El Harrach",
+        "slug": "el-harrach"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_el-harrach",
+        "level": 2,
+        "name": {
+          "local": "الحراش",
+          "en": "El Harrach",
+          "slug": "el-harrach"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16059"
+    ],
+    "geo": {
+      "lat": "36.711",
+      "lon": "3.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

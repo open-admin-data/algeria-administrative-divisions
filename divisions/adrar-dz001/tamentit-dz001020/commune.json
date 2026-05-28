@@ -1,0 +1,45 @@
+{
+  "id": "DZ001020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tamentit",
+    "en": "Tamentit",
+    "slug": "tamentit-dz001020"
+  },
+  "code": {
+    "id": "DZ001020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.048",
+    "lon": "0.396"
+  },
+  "metadata": {},
+  "source": {}
+}

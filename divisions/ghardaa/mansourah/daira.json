@@ -1,0 +1,47 @@
+{
+  "id": "DZ047_mansourah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "المنصورة",
+    "en": "Mansourah",
+    "slug": "mansourah"
+  },
+  "code": {
+    "id": "DZ047_mansourah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaïa",
+      "slug": "ghardaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.103",
+    "lon": "4.473"
+  },
+  "metadata": {},
+  "source": {}
+}

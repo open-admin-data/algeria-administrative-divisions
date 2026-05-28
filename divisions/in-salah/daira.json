@@ -1,0 +1,96 @@
+[
+  {
+    "id": "DZ053_in-ghar",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "إينغر",
+      "en": "In Ghar",
+      "slug": "in-ghar"
+    },
+    "code": {
+      "id": "DZ053_in-ghar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ053",
+      "level": 1,
+      "name": {
+        "local": "عين صالح",
+        "en": "In Salah",
+        "slug": "in-salah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ053",
+        "level": 1,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ053_in-salah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين صالح",
+      "en": "In Salah",
+      "slug": "in-salah"
+    },
+    "code": {
+      "id": "DZ053_in-salah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ053",
+      "level": 1,
+      "name": {
+        "local": "عين صالح",
+        "en": "In Salah",
+        "slug": "in-salah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ053",
+        "level": 1,
+        "name": {
+          "local": "عين صالح",
+          "en": "In Salah",
+          "slug": "in-salah"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

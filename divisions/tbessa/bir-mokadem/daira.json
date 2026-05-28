@@ -1,0 +1,47 @@
+{
+  "id": "DZ012_bir-mokadem",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بئر مقدم",
+    "en": "Bir Mokadem",
+    "slug": "bir-mokadem"
+  },
+  "code": {
+    "id": "DZ012_bir-mokadem",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.476",
+    "lon": "7.954"
+  },
+  "metadata": {},
+  "source": {}
+}

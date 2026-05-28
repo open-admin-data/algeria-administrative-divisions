@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ009_bougara_bougara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوقرة",
+      "en": "Bougara",
+      "slug": "bougara"
+    },
+    "code": {
+      "id": "DZ009_bougara_bougara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_bougara",
+      "level": 2,
+      "name": {
+        "local": "بوقرة",
+        "en": "Bougara",
+        "slug": "bougara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_bougara",
+        "level": 2,
+        "name": {
+          "local": "بوقرة",
+          "en": "Bougara",
+          "slug": "bougara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09008"
+    ],
+    "geo": {
+      "lat": "35.548",
+      "lon": "1.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_bougara_hammam-elouane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام ملوان",
+      "en": "Hammam Elouane",
+      "slug": "hammam-elouane"
+    },
+    "code": {
+      "id": "DZ009_bougara_hammam-elouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_bougara",
+      "level": 2,
+      "name": {
+        "local": "بوقرة",
+        "en": "Bougara",
+        "slug": "bougara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_bougara",
+        "level": 2,
+        "name": {
+          "local": "بوقرة",
+          "en": "Bougara",
+          "slug": "bougara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09030"
+    ],
+    "geo": {
+      "lat": "36.032",
+      "lon": "2.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_bougara_ouled-slama",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اولاد سلامة",
+      "en": "Ouled Slama",
+      "slug": "ouled-slama"
+    },
+    "code": {
+      "id": "DZ009_bougara_ouled-slama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_bougara",
+      "level": 2,
+      "name": {
+        "local": "بوقرة",
+        "en": "Bougara",
+        "slug": "bougara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_bougara",
+        "level": 2,
+        "name": {
+          "local": "بوقرة",
+          "en": "Bougara",
+          "slug": "bougara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09033"
+    ],
+    "geo": {
+      "lat": "36.517",
+      "lon": "3.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

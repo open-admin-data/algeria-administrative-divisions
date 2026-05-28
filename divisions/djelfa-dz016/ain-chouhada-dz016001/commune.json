@@ -1,0 +1,45 @@
+{
+  "id": "DZ016001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Chouhada",
+    "en": "Ain Chouhada",
+    "slug": "ain-chouhada-dz016001"
+  },
+  "code": {
+    "id": "DZ016001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ016",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa-dz016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa-dz016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.226",
+    "lon": "2.579"
+  },
+  "metadata": {},
+  "source": {}
+}

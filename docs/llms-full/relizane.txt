@@ -1,0 +1,226 @@
+# Relizane — Algeria Administrative Divisions
+
+> 13 dairas, 38 communes
+> Code: DZ048
+> Coordinates: 35.839, 0.911
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين طارق (Ain Tarek)
+
+Code: DZ048_ain-tarek, Coordinates: 35.776, 1.168
+Communes: 2
+
+#### عين طارق (Ain-Tarek)
+
+Code: DZ048_ain-tarek_ain-tarek, Postal: 48015, Coordinates: 35.776, 1.168
+
+#### حد الشكالة (Had Echkalla)
+
+Code: DZ048_ain-tarek_had-echkalla, Postal: 48050, Coordinates: 35.776, 1.168
+
+### عمي موسى (Ammi Moussa)
+
+Code: DZ048_ammi-moussa, Coordinates: 35.791, 1.117
+Communes: 4
+
+#### عمي موسى (Ammi Moussa)
+
+Code: DZ048_ammi-moussa_ammi-moussa, Postal: 48004, Coordinates: 35.84, 1.213
+
+#### الحاسي (El Hassi)
+
+Code: DZ048_ammi-moussa_el-hassi, Postal: 05116, Coordinates: 35.741, 1.02
+
+#### الولجة (El Ouldja)
+
+Code: DZ048_ammi-moussa_el-ouldja, Coordinates: 35.791, 1.117
+
+#### أولاد يعيش (Ouled Aiche)
+
+Code: DZ048_ammi-moussa_ouled-aiche, Postal: 48019, Coordinates: 35.791, 1.117
+
+### جديوية (Djidiouia)
+
+Code: DZ048_djidiouia, Coordinates: 35.96, 0.748
+Communes: 3
+
+#### جديوية (Djidiouia)
+
+Code: DZ048_djidiouia_djidiouia, Postal: 48005, Coordinates: 35.953, 0.814
+
+#### حمري (Hamri)
+
+Code: DZ048_djidiouia_hamri, Postal: 48051, Coordinates: 35.96, 0.748
+
+#### أولاد سيدي الميهوب (Ouled Sidi Mihoub)
+
+Code: DZ048_djidiouia_ouled-sidi-mihoub, Postal: 48061, Coordinates: 35.967, 0.682
+
+### الحمادنة (El H&#39;madna)
+
+Code: DZ048_el-hmadna, Coordinates: 35.868, 0.706
+Communes: 2
+
+#### الحمادنة (El H&#39;madna)
+
+Code: DZ048_el-hmadna_el-hmadna, Postal: 48017, Coordinates: 35.897, 0.763
+
+#### وادي الجمعة (Oued El Djemaa)
+
+Code: DZ048_el-hmadna_oued-el-djemaa, Postal: 48021, Coordinates: 35.839, 0.648
+
+### المطمر (El Matmar)
+
+Code: DZ048_el-matmar, Coordinates: 35.736, 0.543
+Communes: 4
+
+#### بلعسل بوزقزة (Belaassel Bouzagza)
+
+Code: DZ048_el-matmar_belaassel-bouzagza, Postal: 48036, Coordinates: 35.736, 0.543
+
+#### المطمر (El-Matmar)
+
+Code: DZ048_el-matmar_el-matmar, Postal: 48009, Coordinates: 35.722, 0.454
+
+#### سيدي  خطاب (Sidi Khettab)
+
+Code: DZ048_el-matmar_sidi-khettab, Postal: 48029, Coordinates: 35.911, 0.555
+
+#### سيدي امحمد بن عودة (Sidi M&#39;hamed Benaouda)
+
+Code: DZ048_el-matmar_sidi-mhamed-benaouda, Postal: 48030, Coordinates: 35.574, 0.62
+
+### مازونة (Mazouna)
+
+Code: DZ048_mazouna, Coordinates: 36.097, 0.86
+Communes: 2
+
+#### القطار (El-Guettar)
+
+Code: DZ048_mazouna_el-guettar, Postal: 48016, Coordinates: 36.084, 0.828
+
+#### مازونة (Mazouna)
+
+Code: DZ048_mazouna_mazouna, Postal: 48002, Coordinates: 36.11, 0.892
+
+### منداس (Mendes)
+
+Code: DZ048_mendes, Coordinates: 35.611, 0.852
+Communes: 3
+
+#### منداس (Mendes)
+
+Code: DZ048_mendes_mendes, Postal: 48012, Coordinates: 35.672, 0.93
+
+#### وادي السلام (Oued Essalem)
+
+Code: DZ048_mendes_oued-essalem, Postal: 48022, Coordinates: 35.544, 0.83
+
+#### سيدي لزرق (Sidi Lazreg)
+
+Code: DZ048_mendes_sidi-lazreg, Postal: 48065, Coordinates: 35.617, 0.795
+
+### وادي رهيو (Oued Rhiou)
+
+Code: DZ048_oued-rhiou, Coordinates: 35.969, 0.918
+Communes: 4
+
+#### لحلاف (Lahlef)
+
+Code: DZ048_oued-rhiou_lahlef, Postal: 48020, Coordinates: 35.899, 0.968
+
+#### مرجة سيدي عابد (Merdja Sidi Abed)
+
+Code: DZ048_oued-rhiou_merdja-sidi-abed, Postal: 48056, Coordinates: 35.969, 0.918
+
+#### واريزان (Ouarizane)
+
+Code: DZ048_oued-rhiou_ouarizane, Postal: 48013, Coordinates: 36.037, 0.881
+
+#### وادي رهيو (Oued-Rhiou)
+
+Code: DZ048_oued-rhiou_oued-rhiou, Postal: 48001, Coordinates: 35.972, 0.906
+
+### الرمكة (Ramka)
+
+Code: DZ048_ramka, Coordinates: 35.897, 1.296
+Communes: 2
+
+#### الرمكة (Ramka)
+
+Code: DZ048_ramka_ramka, Postal: 48024, Coordinates: 35.855, 1.322
+
+#### سوق الحد (Souk El Had)
+
+Code: DZ048_ramka_souk-el-had, Coordinates: 35.938, 1.269
+
+### غليزان (Relizane)
+
+Code: DZ048_relizane, Coordinates: 35.892, 2.377
+Communes: 2
+
+#### بن داود (Bendaoud)
+
+Code: DZ048_relizane_bendaoud, Postal: 48053, Coordinates: 36.056, 4.174
+
+#### غليزان (Relizane)
+
+Code: DZ048_relizane_relizane, Postal: 48000, Coordinates: 35.728, 0.579
+
+### سيدي أمحمد بن علي (Sidi M&#39;hamed Ben Ali)
+
+Code: DZ048_sidi-mhamed-ben-ali, Coordinates: 36.118, 0.707
+Communes: 3
+
+#### بني زنطيس (Beni Zentis)
+
+Code: DZ048_sidi-mhamed-ben-ali_beni-zentis, Postal: 48041, Coordinates: 36.093, 0.668
+
+#### مديونة (Mediouna)
+
+Code: DZ048_sidi-mhamed-ben-ali_mediouna, Postal: 48011, Coordinates: 36.142, 0.745
+
+#### سيدي أمحمد بن علي (Sidi M&#39;hamed Benali)
+
+Code: DZ048_sidi-mhamed-ben-ali_sidi-mhamed-benali, Postal: 48003, Coordinates: 36.118, 0.707
+
+### يلل (Yellel)
+
+Code: DZ048_yellel, Coordinates: 35.675, 0.35
+Communes: 4
+
+#### عين الرحمة (Ain Rahma)
+
+Code: DZ048_yellel_ain-rahma, Postal: 48033, Coordinates: 35.64, 0.409
+
+#### القلعة (Kalaa)
+
+Code: DZ048_yellel_kalaa, Postal: 48018, Coordinates: 35.608, 0.344
+
+#### سيدي سعادة (Sidi Saada)
+
+Code: DZ048_yellel_sidi-saada, Postal: 48067, Coordinates: 35.702, 0.278
+
+#### يلل (Yellel)
+
+Code: DZ048_yellel_yellel, Postal: 48006, Coordinates: 35.75, 0.37
+
+### زمورة (Zemmoura)
+
+Code: DZ048_zemmoura, Coordinates: 35.792, 0.829
+Communes: 3
+
+#### بني درقن (Beni Dergoun)
+
+Code: DZ048_zemmoura_beni-dergoun, Postal: 48039, Coordinates: 35.816, 0.783
+
+#### دار بن عبد الله (Dar Ben Abdelah)
+
+Code: DZ048_zemmoura_dar-ben-abdelah, Postal: 48044, Coordinates: 35.792, 0.829
+
+#### زمورة (Zemmoura)
+
+Code: DZ048_zemmoura_zemmoura, Postal: 48008, Coordinates: 35.768, 0.875
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_fellaoucene_ain-fetah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فتاح",
+      "en": "Ain Fetah",
+      "slug": "ain-fetah"
+    },
+    "code": {
+      "id": "DZ013_fellaoucene_ain-fetah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_fellaoucene",
+      "level": 2,
+      "name": {
+        "local": "فلاوسن",
+        "en": "Fellaoucene",
+        "slug": "fellaoucene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_fellaoucene",
+        "level": 2,
+        "name": {
+          "local": "فلاوسن",
+          "en": "Fellaoucene",
+          "slug": "fellaoucene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13028"
+    ],
+    "geo": {
+      "lat": "34.975",
+      "lon": "-1.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_fellaoucene_ain-kebira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الكبيرة",
+      "en": "Ain Kebira",
+      "slug": "ain-kebira"
+    },
+    "code": {
+      "id": "DZ013_fellaoucene_ain-kebira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_fellaoucene",
+      "level": 2,
+      "name": {
+        "local": "فلاوسن",
+        "en": "Fellaoucene",
+        "slug": "fellaoucene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_fellaoucene",
+        "level": 2,
+        "name": {
+          "local": "فلاوسن",
+          "en": "Fellaoucene",
+          "slug": "fellaoucene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13049"
+    ],
+    "geo": {
+      "lat": "35.03",
+      "lon": "-1.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_fellaoucene_fellaoucene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فلاوسن",
+      "en": "Fellaoucene",
+      "slug": "fellaoucene"
+    },
+    "code": {
+      "id": "DZ013_fellaoucene_fellaoucene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_fellaoucene",
+      "level": 2,
+      "name": {
+        "local": "فلاوسن",
+        "en": "Fellaoucene",
+        "slug": "fellaoucene"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_fellaoucene",
+        "level": 2,
+        "name": {
+          "local": "فلاوسن",
+          "en": "Fellaoucene",
+          "slug": "fellaoucene"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13035"
+    ],
+    "geo": {
+      "lat": "35.017",
+      "lon": "-1.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

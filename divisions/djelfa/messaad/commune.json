@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ017_messaad_deldoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دلدول",
+      "en": "Deldoul",
+      "slug": "deldoul"
+    },
+    "code": {
+      "id": "DZ017_messaad_deldoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_messaad",
+      "level": 2,
+      "name": {
+        "local": "مسعد",
+        "en": "Messaad",
+        "slug": "messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_messaad",
+        "level": 2,
+        "name": {
+          "local": "مسعد",
+          "en": "Messaad",
+          "slug": "messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17046"
+    ],
+    "geo": {
+      "lat": "34.05",
+      "lon": "3.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_messaad_guettara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قطارة",
+      "en": "Guettara",
+      "slug": "guettara"
+    },
+    "code": {
+      "id": "DZ017_messaad_guettara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_messaad",
+      "level": 2,
+      "name": {
+        "local": "مسعد",
+        "en": "Messaad",
+        "slug": "messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_messaad",
+        "level": 2,
+        "name": {
+          "local": "مسعد",
+          "en": "Messaad",
+          "slug": "messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17055"
+    ],
+    "geo": {
+      "lat": "33.294",
+      "lon": "4.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_messaad_messaad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مسعد",
+      "en": "Messaad",
+      "slug": "messaad"
+    },
+    "code": {
+      "id": "DZ017_messaad_messaad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_messaad",
+      "level": 2,
+      "name": {
+        "local": "مسعد",
+        "en": "Messaad",
+        "slug": "messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_messaad",
+        "level": 2,
+        "name": {
+          "local": "مسعد",
+          "en": "Messaad",
+          "slug": "messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17003"
+    ],
+    "geo": {
+      "lat": "34.154",
+      "lon": "3.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_messaad_sed-rahal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سد الرحال",
+      "en": "Sed Rahal",
+      "slug": "sed-rahal"
+    },
+    "code": {
+      "id": "DZ017_messaad_sed-rahal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_messaad",
+      "level": 2,
+      "name": {
+        "local": "مسعد",
+        "en": "Messaad",
+        "slug": "messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_messaad",
+        "level": 2,
+        "name": {
+          "local": "مسعد",
+          "en": "Messaad",
+          "slug": "messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17062"
+    ],
+    "geo": {
+      "lat": "33.748",
+      "lon": "3.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017_messaad_selmana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سلمانة",
+      "en": "Selmana",
+      "slug": "selmana"
+    },
+    "code": {
+      "id": "DZ017_messaad_selmana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_messaad",
+      "level": 2,
+      "name": {
+        "local": "مسعد",
+        "en": "Messaad",
+        "slug": "messaad"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_messaad",
+        "level": 2,
+        "name": {
+          "local": "مسعد",
+          "en": "Messaad",
+          "slug": "messaad"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17063"
+    ],
+    "geo": {
+      "lat": "34.033",
+      "lon": "3.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

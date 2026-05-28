@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ005_el-madher_ain-yagout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين ياقوت",
+      "en": "Ain Yagout",
+      "slug": "ain-yagout"
+    },
+    "code": {
+      "id": "DZ005_el-madher_ain-yagout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_el-madher",
+      "level": 2,
+      "name": {
+        "local": "المعذر",
+        "en": "El Madher",
+        "slug": "el-madher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_el-madher",
+        "level": 2,
+        "name": {
+          "local": "المعذر",
+          "en": "El Madher",
+          "slug": "el-madher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05031"
+    ],
+    "geo": {
+      "lat": "35.788",
+      "lon": "6.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_el-madher_boumia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بومية",
+      "en": "Boumia",
+      "slug": "boumia"
+    },
+    "code": {
+      "id": "DZ005_el-madher_boumia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_el-madher",
+      "level": 2,
+      "name": {
+        "local": "المعذر",
+        "en": "El Madher",
+        "slug": "el-madher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_el-madher",
+        "level": 2,
+        "name": {
+          "local": "المعذر",
+          "en": "El Madher",
+          "slug": "el-madher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05104"
+    ],
+    "geo": {
+      "lat": "35.709",
+      "lon": "6.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_el-madher_djerma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جرمة",
+      "en": "Djerma",
+      "slug": "djerma"
+    },
+    "code": {
+      "id": "DZ005_el-madher_djerma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_el-madher",
+      "level": 2,
+      "name": {
+        "local": "المعذر",
+        "en": "El Madher",
+        "slug": "el-madher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_el-madher",
+        "level": 2,
+        "name": {
+          "local": "المعذر",
+          "en": "El Madher",
+          "slug": "el-madher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05105"
+    ],
+    "geo": {
+      "lat": "35.688",
+      "lon": "6.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_el-madher_el-madher",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعذر",
+      "en": "El Madher",
+      "slug": "el-madher"
+    },
+    "code": {
+      "id": "DZ005_el-madher_el-madher",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_el-madher",
+      "level": 2,
+      "name": {
+        "local": "المعذر",
+        "en": "El Madher",
+        "slug": "el-madher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_el-madher",
+        "level": 2,
+        "name": {
+          "local": "المعذر",
+          "en": "El Madher",
+          "slug": "el-madher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05015"
+    ],
+    "geo": {
+      "lat": "35.642",
+      "lon": "6.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

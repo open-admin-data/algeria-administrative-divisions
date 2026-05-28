@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ004_oum-el-bouaghi_ain-zitoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الزيتون",
+      "en": "Ain Zitoun",
+      "slug": "ain-zitoun"
+    },
+    "code": {
+      "id": "DZ004_oum-el-bouaghi_ain-zitoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_oum-el-bouaghi",
+      "level": 2,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_oum-el-bouaghi",
+        "level": 2,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04023"
+    ],
+    "geo": {
+      "lat": "35.715",
+      "lon": "7.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_oum-el-bouaghi_oum-el-bouaghi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم البواقي",
+      "en": "Oum El Bouaghi",
+      "slug": "oum-el-bouaghi"
+    },
+    "code": {
+      "id": "DZ004_oum-el-bouaghi_oum-el-bouaghi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_oum-el-bouaghi",
+      "level": 2,
+      "name": {
+        "local": "أم البواقي",
+        "en": "Oum El Bouaghi",
+        "slug": "oum-el-bouaghi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_oum-el-bouaghi",
+        "level": 2,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04000"
+    ],
+    "geo": {
+      "lat": "35.84",
+      "lon": "7.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

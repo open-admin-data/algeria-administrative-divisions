@@ -1,0 +1,29 @@
+{
+  "id": "DZ009",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "بسكرة",
+    "en": "Biskra",
+    "slug": "biskra-dz009"
+  },
+  "code": {
+    "id": "DZ009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.323",
+    "lon": "4.714"
+  },
+  "metadata": {},
+  "source": {}
+}

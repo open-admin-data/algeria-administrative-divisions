@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ023_berrahal_berrahal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برحال",
+      "en": "Berrahal",
+      "slug": "berrahal"
+    },
+    "code": {
+      "id": "DZ023_berrahal_berrahal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_berrahal",
+      "level": 2,
+      "name": {
+        "local": "برحال",
+        "en": "Berrahal",
+        "slug": "berrahal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_berrahal",
+        "level": 2,
+        "name": {
+          "local": "برحال",
+          "en": "Berrahal",
+          "slug": "berrahal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23009"
+    ],
+    "geo": {
+      "lat": "36.936",
+      "lon": "7.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_berrahal_oued-el-aneb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واد العنب",
+      "en": "Oued El Aneb",
+      "slug": "oued-el-aneb"
+    },
+    "code": {
+      "id": "DZ023_berrahal_oued-el-aneb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_berrahal",
+      "level": 2,
+      "name": {
+        "local": "برحال",
+        "en": "Berrahal",
+        "slug": "berrahal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_berrahal",
+        "level": 2,
+        "name": {
+          "local": "برحال",
+          "en": "Berrahal",
+          "slug": "berrahal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23021"
+    ],
+    "geo": {
+      "lat": "36.937",
+      "lon": "7.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_berrahal_treat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "التريعات",
+      "en": "Treat",
+      "slug": "treat"
+    },
+    "code": {
+      "id": "DZ023_berrahal_treat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_berrahal",
+      "level": 2,
+      "name": {
+        "local": "برحال",
+        "en": "Berrahal",
+        "slug": "berrahal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_berrahal",
+        "level": 2,
+        "name": {
+          "local": "برحال",
+          "en": "Berrahal",
+          "slug": "berrahal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.935",
+      "lon": "7.406"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

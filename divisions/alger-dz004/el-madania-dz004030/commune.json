@@ -1,0 +1,45 @@
+{
+  "id": "DZ004030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Madania",
+    "en": "El Madania",
+    "slug": "el-madania-dz004030"
+  },
+  "code": {
+    "id": "DZ004030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.745",
+    "lon": "3.07"
+  },
+  "metadata": {},
+  "source": {}
+}

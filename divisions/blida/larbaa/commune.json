@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ009_larbaa_larbaa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأربعاء",
+      "en": "Larbaa",
+      "slug": "larbaa"
+    },
+    "code": {
+      "id": "DZ009_larbaa_larbaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_larbaa",
+      "level": 2,
+      "name": {
+        "local": "الأربعاء",
+        "en": "Larbaa",
+        "slug": "larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_larbaa",
+        "level": 2,
+        "name": {
+          "local": "الأربعاء",
+          "en": "Larbaa",
+          "slug": "larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09002"
+    ],
+    "geo": {
+      "lat": "35.914",
+      "lon": "1.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_larbaa_souhane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "صوحان",
+      "en": "Souhane",
+      "slug": "souhane"
+    },
+    "code": {
+      "id": "DZ009_larbaa_souhane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_larbaa",
+      "level": 2,
+      "name": {
+        "local": "الأربعاء",
+        "en": "Larbaa",
+        "slug": "larbaa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_larbaa",
+        "level": 2,
+        "name": {
+          "local": "الأربعاء",
+          "en": "Larbaa",
+          "slug": "larbaa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09034"
+    ],
+    "geo": {
+      "lat": "36.531",
+      "lon": "3.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

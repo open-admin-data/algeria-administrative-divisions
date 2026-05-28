@@ -1,0 +1,360 @@
+# Médéa — Algeria Administrative Divisions
+
+> 19 dairas, 64 communes
+> Code: DZ026
+> Coordinates: 36.097, 2.957
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين بوسيف (Ain Boucif)
+
+Code: DZ026_ain-boucif, Coordinates: 35.884, 3.208
+Communes: 5
+
+#### عين بوسيف (Ain Boucif)
+
+Code: DZ026_ain-boucif_ain-boucif, Postal: 26005, Coordinates: 35.838, 3.159
+
+#### العوينات (El Ouinet)
+
+Code: DZ026_ain-boucif_el-ouinet, Coordinates: 35.884, 3.208
+
+#### الكاف الاخضر (Kef Lakhdar)
+
+Code: DZ026_ain-boucif_kef-lakhdar, Postal: 26051, Coordinates: 35.93, 3.257
+
+#### أولاد امعرف (Ouled Emaaraf)
+
+Code: DZ026_ain-boucif_ouled-emaaraf, Postal: 26038, Coordinates: 35.884, 3.208
+
+#### سيدي دامد (Sidi Demed)
+
+Code: DZ026_ain-boucif_sidi-demed, Postal: 26069, Coordinates: 35.884, 3.208
+
+### عزيز (Aziz)
+
+Code: DZ026_aziz, Coordinates: 35.8, 2.437
+Communes: 3
+
+#### عزيز (Aziz)
+
+Code: DZ026_aziz_aziz, Postal: 26040, Coordinates: 35.755, 2.507
+
+#### دراق (Derrag)
+
+Code: DZ026_aziz_derrag, Postal: 26015, Coordinates: 35.846, 2.367
+
+#### أم الجليل (Oum El Djellil)
+
+Code: DZ026_aziz_oum-el-djellil, Postal: 26042, Coordinates: 35.8, 2.437
+
+### بني سليمان (Beni Slimane)
+
+Code: DZ026_beni-slimane, Coordinates: 36.209, 3.258
+Communes: 3
+
+#### بني سليمان (Beni Slimane)
+
+Code: DZ026_beni-slimane_beni-slimane, Postal: 26001, Coordinates: 36.221, 3.299
+
+#### بوسكن (Bouskene)
+
+Code: DZ026_beni-slimane_bouskene, Postal: 26025, Coordinates: 36.198, 3.217
+
+#### سيدي الربيع (Sidi Rabie)
+
+Code: DZ026_beni-slimane_sidi-rabie, Postal: 26070, Coordinates: 36.209, 3.258
+
+### البرواقية (Berrouaghia)
+
+Code: DZ026_berrouaghia, Coordinates: 36.092, 3.029
+Communes: 3
+
+#### البرواقية (Berrouaghia)
+
+Code: DZ026_berrouaghia_berrouaghia, Postal: 26002, Coordinates: 36.157, 2.922
+
+#### أولاد دايد (Ouled Deid)
+
+Code: DZ026_berrouaghia_ouled-deid, Postal: 26044, Coordinates: 36.092, 3.029
+
+#### الربعية (Rebaia)
+
+Code: DZ026_berrouaghia_rebaia, Postal: 26039, Coordinates: 36.027, 3.136
+
+### الشهبونية (Chahbounia)
+
+Code: DZ026_chahbounia, Coordinates: 35.649, 2.606
+Communes: 3
+
+#### بوعيش (Bouaiche)
+
+Code: DZ026_chahbounia_bouaiche, Coordinates: 35.614, 2.369
+
+#### بوغزول (Boughzoul)
+
+Code: DZ026_chahbounia_boughzoul, Postal: 26023, Coordinates: 35.684, 2.842
+
+#### الشهبونية (Chabounia)
+
+Code: DZ026_chahbounia_chabounia, Postal: 26026, Coordinates: 35.649, 2.606
+
+### شلالة العذاورة (Chellalat El Adhaoura)
+
+Code: DZ026_chellalat-el-adhaoura, Coordinates: 35.914, 3.45
+Communes: 4
+
+#### عين اقصير (Ain Ouksir)
+
+Code: DZ026_chellalat-el-adhaoura_ain-ouksir, Postal: 26048, Coordinates: 35.78, 3.485
+
+#### شلالة العذاورة (Chelalet El Adhaoura)
+
+Code: DZ026_chellalat-el-adhaoura_chelalet-el-adhaoura, Postal: 26007, Coordinates: 35.914, 3.45
+
+#### شنيقل (Cheniguel)
+
+Code: DZ026_chellalat-el-adhaoura_cheniguel, Postal: 26057, Coordinates: 35.962, 3.526
+
+#### تفراوت (Tafraout)
+
+Code: DZ026_chellalat-el-adhaoura_tafraout, Postal: 26074, Coordinates: 35.999, 3.34
+
+### العزيزية (El Azizia)
+
+Code: DZ026_el-azizia, Coordinates: 36.364, 3.493
+Communes: 3
+
+#### العزيزية (El Azizia)
+
+Code: DZ026_el-azizia_el-azizia, Postal: 26018, Coordinates: 36.319, 3.493
+
+#### مغراوة (Maghraoua)
+
+Code: DZ026_el-azizia_maghraoua, Postal: 26063, Coordinates: 36.383, 3.531
+
+#### ميهوب (Mihoub)
+
+Code: DZ026_el-azizia_mihoub, Postal: 26032, Coordinates: 36.389, 3.454
+
+### العمارية (El Omaria)
+
+Code: DZ026_el-omaria, Coordinates: 35.906, 2.219
+Communes: 3
+
+#### بعطة (Baata)
+
+Code: DZ026_el-omaria_baata, Postal: 26050, Coordinates: 36.374, 3.134
+
+#### العمارية (El Omaria)
+
+Code: DZ026_el-omaria_el-omaria, Postal: 26008, Coordinates: 36.306, 3.009
+
+#### أولاد إبراهيم (Ouled Brahim)
+
+Code: DZ026_el-omaria_ouled-brahim, Postal: 20002, Coordinates: 35.037, 0.515
+
+### القلب الكبير (Guelb El Kebir)
+
+Code: DZ026_guelb-el-kebir, Coordinates: 36.252, 3.427
+Communes: 3
+
+#### بئر بن عابد (Bir Ben Laabed)
+
+Code: DZ026_guelb-el-kebir_bir-ben-laabed, Postal: 26053, Coordinates: 36.252, 3.427
+
+#### القلب الكبير (El Guelbelkebir)
+
+Code: DZ026_guelb-el-kebir_el-guelbelkebir, Postal: 26030, Coordinates: 36.252, 3.427
+
+#### سدراية (Sedraya)
+
+Code: DZ026_guelb-el-kebir_sedraya, Postal: 26068, Coordinates: 36.252, 3.427
+
+### قصر البخاري (Ksar El Boukhari)
+
+Code: DZ026_ksar-el-boukhari, Coordinates: 35.869, 2.826
+Communes: 3
+
+#### قصر البخاري (Ksar El Boukhari)
+
+Code: DZ026_ksar-el-boukhari_ksar-el-boukhari, Postal: 26003, Coordinates: 35.879, 2.749
+
+#### مفاتحة (M&#39;fatha)
+
+Code: DZ026_ksar-el-boukhari_mfatha, Postal: 26049, Coordinates: 35.885, 2.909
+
+#### السانق (Saneg)
+
+Code: DZ026_ksar-el-boukhari_saneg, Postal: 26067, Coordinates: 35.843, 2.82
+
+### المدية (Medea)
+
+Code: DZ026_medea, Coordinates: 36.306, 2.713
+Communes: 3
+
+#### ذراع السمار (Draa Esmar)
+
+Code: DZ026_medea_draa-esmar, Postal: 26017, Coordinates: 36.306, 2.713
+
+#### المدية (Medea)
+
+Code: DZ026_medea_medea, Postal: 26000, Coordinates: 36.289, 2.761
+
+#### تمسقيدة (Tamesguida)
+
+Code: DZ026_medea_tamesguida, Postal: 26075, Coordinates: 36.323, 2.664
+
+### عوامري (Ouamri)
+
+Code: DZ026_ouamri, Coordinates: 36.225, 2.598
+Communes: 3
+
+#### حناشة (Hannacha)
+
+Code: DZ026_ouamri_hannacha, Postal: 26027, Coordinates: 36.173, 2.598
+
+#### عوامري (Ouamri)
+
+Code: DZ026_ouamri_ouamri, Postal: 26034, Coordinates: 36.257, 2.556
+
+#### وادي حربيل (Oued Harbil)
+
+Code: DZ026_ouamri_oued-harbil, Postal: 26061, Coordinates: 36.244, 2.641
+
+### أولاد عنتر (Ouled Antar)
+
+Code: DZ026_ouled-antar, Coordinates: 35.968, 2.611
+Communes: 3
+
+#### بوغار (Boghar)
+
+Code: DZ026_ouled-antar_boghar, Postal: 26013, Coordinates: 35.94, 2.701
+
+#### أولاد عنتر (Ouled Antar)
+
+Code: DZ026_ouled-antar_ouled-antar, Postal: 26035, Coordinates: 35.957, 2.607
+
+#### أولاد هلال (Ouled Hellal)
+
+Code: DZ026_ouled-antar_ouled-hellal, Postal: 26037, Coordinates: 36.006, 2.524
+
+### وزرة (Ouzera)
+
+Code: DZ026_ouzera, Coordinates: 36.255, 2.84
+Communes: 4
+
+#### بن شكاو (Ben Chicao)
+
+Code: DZ026_ouzera_ben-chicao, Postal: 26012, Coordinates: 36.192, 2.856
+
+#### الحمدانية (El Hamdania)
+
+Code: DZ026_ouzera_el-hamdania, Postal: 26060, Coordinates: 36.35, 2.858
+
+#### وزرة (Ouzera)
+
+Code: DZ026_ouzera_ouzera, Postal: 26019, Coordinates: 36.265, 2.892
+
+#### تيزي مهدي (Tizi Mahdi)
+
+Code: DZ026_ouzera_tizi-mahdi, Postal: 26076, Coordinates: 36.215, 2.752
+
+### سغوان (Seghouane)
+
+Code: DZ026_seghouane, Coordinates: 36.035, 2.88
+Communes: 4
+
+#### مجبر (Medjebar)
+
+Code: DZ026_seghouane_medjebar, Postal: 26033, Coordinates: 36.035, 2.88
+
+#### سغوان (Seghouane)
+
+Code: DZ026_seghouane_seghouane, Postal: 26041, Coordinates: 35.999, 2.899
+
+#### ثلاث دوائر (Tletat Ed Douair)
+
+Code: DZ026_seghouane_tletat-ed-douair, Postal: 26046, Coordinates: 36.035, 2.88
+
+#### الزبيرية (Zoubiria)
+
+Code: DZ026_seghouane_zoubiria, Postal: 26021, Coordinates: 36.07, 2.86
+
+### سي المحجوب (Si Mahdjoub)
+
+Code: DZ026_si-mahdjoub, Coordinates: 36.139, 2.705
+Communes: 3
+
+#### بوعيشون (Bouaichoune)
+
+Code: DZ026_si-mahdjoub_bouaichoune, Postal: 26055, Coordinates: 36.139, 2.652
+
+#### أولاد بوعشرة (Ouled Bouachra)
+
+Code: DZ026_si-mahdjoub_ouled-bouachra, Postal: 26064, Coordinates: 36.102, 2.705
+
+#### سي المحجوب (Si Mahdjoub)
+
+Code: DZ026_si-mahdjoub_si-mahdjoub, Postal: 26045, Coordinates: 36.175, 2.759
+
+### سيدي نعمان (Sidi Naamane)
+
+Code: DZ026_sidi-naamane, Coordinates: 36.403, 3.444
+Communes: 3
+
+#### بوشراحيل (Bouchrahil)
+
+Code: DZ026_sidi-naamane_bouchrahil, Postal: 26014, Coordinates: 36.277, 3.195
+
+#### خمس جوامع (Khams Djouamaa)
+
+Code: DZ026_sidi-naamane_khams-djouamaa, Postal: 26062, Coordinates: 36.151, 3.137
+
+#### سيدي نعمان (Sidi Naamane)
+
+Code: DZ026_sidi-naamane_sidi-naamane, Postal: 26071, Coordinates: 36.781, 4
+
+### السواقي (Souaghi)
+
+Code: DZ026_souaghi, Coordinates: 36.084, 3.316
+Communes: 4
+
+#### جواب (Djouab)
+
+Code: DZ026_souaghi_djouab, Postal: 26016, Coordinates: 36.114, 3.44
+
+#### سيدي زهار (Sidi Zahar)
+
+Code: DZ026_souaghi_sidi-zahar, Postal: 26072, Coordinates: 36.075, 3.326
+
+#### سيدي زيان (Sidi Ziane)
+
+Code: DZ026_souaghi_sidi-ziane, Coordinates: 36.031, 3.249
+
+#### السواقي (Souagui)
+
+Code: DZ026_souaghi_souagui, Postal: 26020, Coordinates: 36.115, 3.25
+
+### تابلاط (Tablat)
+
+Code: DZ026_tablat, Coordinates: 36.42, 3.279
+Communes: 4
+
+#### العيساوية (Aissaouia)
+
+Code: DZ026_tablat_aissaouia, Postal: 26022, Coordinates: 36.414, 3.222
+
+#### الحوضان (El Haoudane)
+
+Code: DZ026_tablat_el-haoudane, Postal: 26058, Coordinates: 36.42, 3.279
+
+#### مزغنة (Mezerana)
+
+Code: DZ026_tablat_mezerana, Coordinates: 36.42, 3.279
+
+#### تابلاط (Tablat)
+
+Code: DZ026_tablat_tablat, Postal: 26004, Coordinates: 36.426, 3.336
+

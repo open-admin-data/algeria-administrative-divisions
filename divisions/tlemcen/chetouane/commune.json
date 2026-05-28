@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_chetouane_ain-fezza",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين فزة",
+      "en": "Ain Fezza",
+      "slug": "ain-fezza"
+    },
+    "code": {
+      "id": "DZ013_chetouane_ain-fezza",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_chetouane",
+      "level": 2,
+      "name": {
+        "local": "شتوان",
+        "en": "Chetouane",
+        "slug": "chetouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_chetouane",
+        "level": 2,
+        "name": {
+          "local": "شتوان",
+          "en": "Chetouane",
+          "slug": "chetouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13022"
+    ],
+    "geo": {
+      "lat": "34.887",
+      "lon": "-1.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_chetouane_amieur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عمير",
+      "en": "Amieur",
+      "slug": "amieur"
+    },
+    "code": {
+      "id": "DZ013_chetouane_amieur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_chetouane",
+      "level": 2,
+      "name": {
+        "local": "شتوان",
+        "en": "Chetouane",
+        "slug": "chetouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_chetouane",
+        "level": 2,
+        "name": {
+          "local": "شتوان",
+          "en": "Chetouane",
+          "slug": "chetouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13058"
+    ],
+    "geo": {
+      "lat": "35.007",
+      "lon": "-1.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_chetouane_chetouane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شتوان",
+      "en": "Chetouane",
+      "slug": "chetouane"
+    },
+    "code": {
+      "id": "DZ013_chetouane_chetouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_chetouane",
+      "level": 2,
+      "name": {
+        "local": "شتوان",
+        "en": "Chetouane",
+        "slug": "chetouane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_chetouane",
+        "level": 2,
+        "name": {
+          "local": "شتوان",
+          "en": "Chetouane",
+          "slug": "chetouane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13048"
+    ],
+    "geo": {
+      "lat": "34.938",
+      "lon": "-1.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

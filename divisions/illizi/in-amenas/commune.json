@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ033_in-amenas_bordj-omar-driss",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج عمر إدريس",
+      "en": "Bordj Omar Driss",
+      "slug": "bordj-omar-driss"
+    },
+    "code": {
+      "id": "DZ033_in-amenas_bordj-omar-driss",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033_in-amenas",
+      "level": 2,
+      "name": {
+        "local": "إن أمناس",
+        "en": "In Amenas",
+        "slug": "in-amenas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "إليزي",
+          "en": "Illizi",
+          "slug": "illizi"
+        }
+      },
+      {
+        "id": "DZ033_in-amenas",
+        "level": 2,
+        "name": {
+          "local": "إن أمناس",
+          "en": "In Amenas",
+          "slug": "in-amenas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33003"
+    ],
+    "geo": {
+      "lat": "28.206",
+      "lon": "7.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033_in-amenas_debdeb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دبداب",
+      "en": "Debdeb",
+      "slug": "debdeb"
+    },
+    "code": {
+      "id": "DZ033_in-amenas_debdeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033_in-amenas",
+      "level": 2,
+      "name": {
+        "local": "إن أمناس",
+        "en": "In Amenas",
+        "slug": "in-amenas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "إليزي",
+          "en": "Illizi",
+          "slug": "illizi"
+        }
+      },
+      {
+        "id": "DZ033_in-amenas",
+        "level": 2,
+        "name": {
+          "local": "إن أمناس",
+          "en": "In Amenas",
+          "slug": "in-amenas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33004"
+    ],
+    "geo": {
+      "lat": "29.522",
+      "lon": "8.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ033_in-amenas_in-amenas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إن أمناس",
+      "en": "In Amenas",
+      "slug": "in-amenas"
+    },
+    "code": {
+      "id": "DZ033_in-amenas_in-amenas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ033_in-amenas",
+      "level": 2,
+      "name": {
+        "local": "إن أمناس",
+        "en": "In Amenas",
+        "slug": "in-amenas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ033",
+        "level": 1,
+        "name": {
+          "local": "إليزي",
+          "en": "Illizi",
+          "slug": "illizi"
+        }
+      },
+      {
+        "id": "DZ033_in-amenas",
+        "level": 2,
+        "name": {
+          "local": "إن أمناس",
+          "en": "In Amenas",
+          "slug": "in-amenas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33001"
+    ],
+    "geo": {
+      "lat": "28.02",
+      "lon": "9.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

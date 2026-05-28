@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ038_bordj-bounaama_beni-chaib",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني شعيب",
+      "en": "Beni Chaib",
+      "slug": "beni-chaib"
+    },
+    "code": {
+      "id": "DZ038_bordj-bounaama_beni-chaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-bounaama",
+      "level": 2,
+      "name": {
+        "local": "برج بونعامة",
+        "en": "Bordj Bounaama",
+        "slug": "bordj-bounaama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-bounaama",
+        "level": 2,
+        "name": {
+          "local": "برج بونعامة",
+          "en": "Bordj Bounaama",
+          "slug": "bordj-bounaama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38019"
+    ],
+    "geo": {
+      "lat": "35.827",
+      "lon": "1.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-bounaama_beni-lahcene",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني لحسن",
+      "en": "Beni Lahcene",
+      "slug": "beni-lahcene"
+    },
+    "code": {
+      "id": "DZ038_bordj-bounaama_beni-lahcene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-bounaama",
+      "level": 2,
+      "name": {
+        "local": "برج بونعامة",
+        "en": "Bordj Bounaama",
+        "slug": "bordj-bounaama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-bounaama",
+        "level": 2,
+        "name": {
+          "local": "برج بونعامة",
+          "en": "Bordj Bounaama",
+          "slug": "bordj-bounaama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38020"
+    ],
+    "geo": {
+      "lat": "35.793",
+      "lon": "1.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-bounaama_bordj-bounaama",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج بونعامة",
+      "en": "Bordj Bounaama",
+      "slug": "bordj-bounaama"
+    },
+    "code": {
+      "id": "DZ038_bordj-bounaama_bordj-bounaama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-bounaama",
+      "level": 2,
+      "name": {
+        "local": "برج بونعامة",
+        "en": "Bordj Bounaama",
+        "slug": "bordj-bounaama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-bounaama",
+        "level": 2,
+        "name": {
+          "local": "برج بونعامة",
+          "en": "Bordj Bounaama",
+          "slug": "bordj-bounaama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38001"
+    ],
+    "geo": {
+      "lat": "35.855",
+      "lon": "1.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-bounaama_sidi-slimane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي سليمان",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane"
+    },
+    "code": {
+      "id": "DZ038_bordj-bounaama_sidi-slimane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_bordj-bounaama",
+      "level": 2,
+      "name": {
+        "local": "برج بونعامة",
+        "en": "Bordj Bounaama",
+        "slug": "bordj-bounaama"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_bordj-bounaama",
+        "level": 2,
+        "name": {
+          "local": "برج بونعامة",
+          "en": "Bordj Bounaama",
+          "slug": "bordj-bounaama"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30030"
+    ],
+    "geo": {
+      "lat": "35.857",
+      "lon": "1.723"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

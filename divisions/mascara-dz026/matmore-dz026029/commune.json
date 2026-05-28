@@ -1,0 +1,45 @@
+{
+  "id": "DZ026029",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Matmore",
+    "en": "Matmore",
+    "slug": "matmore-dz026029"
+  },
+  "code": {
+    "id": "DZ026029",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.303",
+    "lon": "0.204"
+  },
+  "metadata": {},
+  "source": {}
+}

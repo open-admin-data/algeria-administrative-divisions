@@ -1,0 +1,45 @@
+{
+  "id": "DZ008002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ait R'Zine",
+    "en": "Ait R'Zine",
+    "slug": "ait-rzine-dz008002"
+  },
+  "code": {
+    "id": "DZ008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.388",
+    "lon": "4.525"
+  },
+  "metadata": {},
+  "source": {}
+}

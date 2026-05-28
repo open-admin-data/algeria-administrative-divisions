@@ -1,0 +1,452 @@
+[
+  {
+    "id": "DZ041001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abalessa",
+      "en": "Abalessa",
+      "slug": "abalessa-dz041001"
+    },
+    "code": {
+      "id": "DZ041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.943",
+      "lon": "3.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fouggarat Ez Zouaia",
+      "en": "Fouggarat Ez Zouaia",
+      "slug": "fouggarat-ez-zouaia-dz041002"
+    },
+    "code": {
+      "id": "DZ041002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.973",
+      "lon": "4.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Idles",
+      "en": "Idles",
+      "slug": "idles-dz041003"
+    },
+    "code": {
+      "id": "DZ041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.366",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "In Amguel",
+      "en": "In Amguel",
+      "slug": "in-amguel-dz041004"
+    },
+    "code": {
+      "id": "DZ041004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.909",
+      "lon": "3.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "In Ghar",
+      "en": "In Ghar",
+      "slug": "in-ghar-dz041005"
+    },
+    "code": {
+      "id": "DZ041005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.565",
+      "lon": "1.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "In Guezzam",
+      "en": "In Guezzam",
+      "slug": "in-guezzam-dz041006"
+    },
+    "code": {
+      "id": "DZ041006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.382",
+      "lon": "5.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "In Salah",
+      "en": "In Salah",
+      "slug": "in-salah-dz041007"
+    },
+    "code": {
+      "id": "DZ041007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.225",
+      "lon": "2.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamanrasset",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041008"
+    },
+    "code": {
+      "id": "DZ041008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.271",
+      "lon": "5.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tazrouk",
+      "en": "Tazrouk",
+      "slug": "tazrouk-dz041009"
+    },
+    "code": {
+      "id": "DZ041009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.668",
+      "lon": "8.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tin Zaouatine",
+      "en": "Tin Zaouatine",
+      "slug": "tin-zaouatine-dz041010"
+    },
+    "code": {
+      "id": "DZ041010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset-dz041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.439",
+      "lon": "3.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

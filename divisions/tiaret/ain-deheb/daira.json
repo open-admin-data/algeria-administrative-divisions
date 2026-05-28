@@ -1,0 +1,47 @@
+{
+  "id": "DZ014_ain-deheb",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الذهب",
+    "en": "Ain Deheb",
+    "slug": "ain-deheb"
+  },
+  "code": {
+    "id": "DZ014_ain-deheb",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.659",
+    "lon": "1.568"
+  },
+  "metadata": {},
+  "source": {}
+}

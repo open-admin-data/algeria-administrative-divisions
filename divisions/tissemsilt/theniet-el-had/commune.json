@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ038_theniet-el-had_sidi-boutouchent",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي بوتوشنت",
+      "en": "Sidi Boutouchent",
+      "slug": "sidi-boutouchent"
+    },
+    "code": {
+      "id": "DZ038_theniet-el-had_sidi-boutouchent",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_theniet-el-had",
+      "level": 2,
+      "name": {
+        "local": "ثنية الاحد",
+        "en": "Theniet El Had",
+        "slug": "theniet-el-had"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_theniet-el-had",
+        "level": 2,
+        "name": {
+          "local": "ثنية الاحد",
+          "en": "Theniet El Had",
+          "slug": "theniet-el-had"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38026"
+    ],
+    "geo": {
+      "lat": "35.825",
+      "lon": "1.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_theniet-el-had_theniet-el-had",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ثنية الاحد",
+      "en": "Theniet El Had",
+      "slug": "theniet-el-had"
+    },
+    "code": {
+      "id": "DZ038_theniet-el-had_theniet-el-had",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_theniet-el-had",
+      "level": 2,
+      "name": {
+        "local": "ثنية الاحد",
+        "en": "Theniet El Had",
+        "slug": "theniet-el-had"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_theniet-el-had",
+        "level": 2,
+        "name": {
+          "local": "ثنية الاحد",
+          "en": "Theniet El Had",
+          "slug": "theniet-el-had"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38003"
+    ],
+    "geo": {
+      "lat": "35.85",
+      "lon": "2.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

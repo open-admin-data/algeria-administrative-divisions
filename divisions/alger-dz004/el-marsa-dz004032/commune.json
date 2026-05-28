@@ -1,0 +1,45 @@
+{
+  "id": "DZ004032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Marsa",
+    "en": "El Marsa",
+    "slug": "el-marsa-dz004032"
+  },
+  "code": {
+    "id": "DZ004032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.808",
+    "lon": "3.244"
+  },
+  "metadata": {},
+  "source": {}
+}

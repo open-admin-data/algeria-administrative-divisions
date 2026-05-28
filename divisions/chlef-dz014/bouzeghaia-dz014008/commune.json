@@ -1,0 +1,45 @@
+{
+  "id": "DZ014008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bouzeghaia",
+    "en": "Bouzeghaia",
+    "slug": "bouzeghaia-dz014008"
+  },
+  "code": {
+    "id": "DZ014008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.365",
+    "lon": "1.264"
+  },
+  "metadata": {},
+  "source": {}
+}

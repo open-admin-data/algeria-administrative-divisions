@@ -1,0 +1,47 @@
+{
+  "id": "DZ011_tazrouk",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تاظروك",
+    "en": "Tazrouk",
+    "slug": "tazrouk"
+  },
+  "code": {
+    "id": "DZ011_tazrouk",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.017",
+    "lon": "7.045"
+  },
+  "metadata": {},
+  "source": {}
+}

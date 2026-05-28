@@ -1,0 +1,169 @@
+# Mila — Algeria Administrative Divisions
+
+> 32 communes
+> Code: DZ028
+> Coordinates: 36.252, 6.165
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ahmed Rachdi
+
+Code: DZ028001, Coordinates: 36.361, 6.153
+
+
+### Ain Beida Harriche
+
+Code: DZ028002, Coordinates: 36.39, 5.869
+
+
+### Ain Mellouk
+
+Code: DZ028003, Coordinates: 36.275, 6.146
+
+
+### Ain Tine
+
+Code: DZ028004, Coordinates: 36.416, 6.328
+
+
+### Amira Arres
+
+Code: DZ028005, Coordinates: 36.555, 6.059
+
+
+### Benyahia Abderrahmane
+
+Code: DZ028006, Coordinates: 36.217, 6.011
+
+
+### Bouhatem
+
+Code: DZ028007, Coordinates: 36.317, 6.053
+
+
+### Chelghoum Laid
+
+Code: DZ028008, Coordinates: 36.165, 6.174
+
+
+### Cheraga
+
+Code: DZ028009, Coordinates: 36.57, 6.233
+
+
+### Derradji Bousselah
+
+Code: DZ028010, Coordinates: 36.302, 5.931
+
+
+### El Ayadi Barbes
+
+Code: DZ028011, Coordinates: 36.44, 5.824
+
+
+### El M&#39;Chira
+
+Code: DZ028012, Coordinates: 36.017, 6.239
+
+
+### Ferdjioua
+
+Code: DZ028013, Coordinates: 36.408, 5.939
+
+
+### Grarem Gouga
+
+Code: DZ028014, Coordinates: 36.535, 6.39
+
+
+### Hamala
+
+Code: DZ028015, Coordinates: 36.583, 6.348
+
+
+### Mila
+
+Code: DZ028016, Coordinates: 36.44, 6.249
+
+
+### Minar Zarza
+
+Code: DZ028017, Coordinates: 36.538, 5.913
+
+
+### Oued Athmania
+
+Code: DZ028018, Coordinates: 36.268, 6.312
+
+
+### Oued Endja
+
+Code: DZ028019, Coordinates: 36.454, 6.109
+
+
+### Oued Seguen
+
+Code: DZ028020, Coordinates: 36.204, 6.458
+
+
+### Ouled Khellouf
+
+Code: DZ028021, Coordinates: 35.989, 6.074
+
+
+### Rouached
+
+Code: DZ028022, Coordinates: 36.476, 5.997
+
+
+### Sidi Khelifa
+
+Code: DZ028023, Coordinates: 36.367, 6.262
+
+
+### Sidi Merouane
+
+Code: DZ028024, Coordinates: 36.515, 6.26
+
+
+### Tadjenanet
+
+Code: DZ028025, Coordinates: 36.049, 6.029
+
+
+### Tassadane Haddada
+
+Code: DZ028026, Coordinates: 36.518, 5.825
+
+
+### Tassala Lemtai
+
+Code: DZ028027, Coordinates: 36.554, 6.004
+
+
+### Telaghma
+
+Code: DZ028028, Coordinates: 36.076, 6.343
+
+
+### Terrai Bainem
+
+Code: DZ028029, Coordinates: 36.552, 6.14
+
+
+### Tiberguent
+
+Code: DZ028030, Coordinates: 36.4, 6.06
+
+
+### Yahia Beni Guecha
+
+Code: DZ028031, Coordinates: 36.396, 5.995
+
+
+### Zeghaia
+
+Code: DZ028032, Coordinates: 36.483, 6.168
+
+

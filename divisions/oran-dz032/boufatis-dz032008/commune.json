@@ -1,0 +1,45 @@
+{
+  "id": "DZ032008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boufatis",
+    "en": "Boufatis",
+    "slug": "boufatis-dz032008"
+  },
+  "code": {
+    "id": "DZ032008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.651",
+    "lon": "-0.381"
+  },
+  "metadata": {},
+  "source": {}
+}

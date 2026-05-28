@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_ras-el-aioun",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "رأس العيون",
+    "en": "Ras El Aioun",
+    "slug": "ras-el-aioun"
+  },
+  "code": {
+    "id": "DZ005_ras-el-aioun",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.688",
+    "lon": "5.574"
+  },
+  "metadata": {},
+  "source": {}
+}

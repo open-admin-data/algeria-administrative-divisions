@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_dar-chioukh",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "دار الشيوخ",
+    "en": "Dar Chioukh",
+    "slug": "dar-chioukh"
+  },
+  "code": {
+    "id": "DZ017_dar-chioukh",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.952",
+    "lon": "3.458"
+  },
+  "metadata": {},
+  "source": {}
+}

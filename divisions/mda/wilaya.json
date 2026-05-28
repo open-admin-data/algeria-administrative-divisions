@@ -1,0 +1,30 @@
+{
+  "id": "DZ026",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "المدية",
+    "en": "Médéa",
+    "slug": "mda"
+  },
+  "code": {
+    "id": "DZ026",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 19,
+    "commune": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.097",
+    "lon": "2.957"
+  },
+  "metadata": {},
+  "source": {}
+}

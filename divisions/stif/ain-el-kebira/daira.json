@@ -1,0 +1,47 @@
+{
+  "id": "DZ019_ain-el-kebira",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين الكبيرة",
+    "en": "Ain El Kebira",
+    "slug": "ain-el-kebira"
+  },
+  "code": {
+    "id": "DZ019_ain-el-kebira",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ019",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Sétif",
+      "slug": "stif"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ019",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Sétif",
+        "slug": "stif"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.366",
+    "lon": "5.532"
+  },
+  "metadata": {},
+  "source": {}
+}

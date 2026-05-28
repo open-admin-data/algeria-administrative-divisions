@@ -1,0 +1,47 @@
+{
+  "id": "DZ043_terrai-bainen",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "ترعي باينان",
+    "en": "Terrai Bainen",
+    "slug": "terrai-bainen"
+  },
+  "code": {
+    "id": "DZ043_terrai-bainen",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ043",
+    "level": 1,
+    "name": {
+      "local": "ميلة",
+      "en": "Mila",
+      "slug": "mila"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ043",
+      "level": 1,
+      "name": {
+        "local": "ميلة",
+        "en": "Mila",
+        "slug": "mila"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.555",
+    "lon": "6.059"
+  },
+  "metadata": {},
+  "source": {}
+}

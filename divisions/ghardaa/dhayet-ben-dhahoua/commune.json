@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ047_dhayet-ben-dhahoua_dhayet-bendhahoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ضاية بن ضحوة",
+      "en": "Dhayet Bendhahoua",
+      "slug": "dhayet-bendhahoua"
+    },
+    "code": {
+      "id": "DZ047_dhayet-ben-dhahoua_dhayet-bendhahoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_dhayet-ben-dhahoua",
+      "level": 2,
+      "name": {
+        "local": "ضاية بن ضحوة",
+        "en": "Dhayet Ben Dhahoua",
+        "slug": "dhayet-ben-dhahoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_dhayet-ben-dhahoua",
+        "level": 2,
+        "name": {
+          "local": "ضاية بن ضحوة",
+          "en": "Dhayet Ben Dhahoua",
+          "slug": "dhayet-ben-dhahoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47011"
+    ],
+    "geo": {
+      "lat": "32.953",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

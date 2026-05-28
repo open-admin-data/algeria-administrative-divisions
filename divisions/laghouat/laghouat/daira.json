@@ -1,0 +1,47 @@
+{
+  "id": "DZ003_laghouat",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الأغواط",
+    "en": "Laghouat",
+    "slug": "laghouat"
+  },
+  "code": {
+    "id": "DZ003_laghouat",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ003",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ003",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.845",
+    "lon": "2.836"
+  },
+  "metadata": {},
+  "source": {}
+}

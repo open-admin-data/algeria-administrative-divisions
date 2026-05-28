@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ028_chellal_chellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شلال",
+      "en": "Chellal",
+      "slug": "chellal"
+    },
+    "code": {
+      "id": "DZ028_chellal_chellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_chellal",
+      "level": 2,
+      "name": {
+        "local": "شلال",
+        "en": "Chellal",
+        "slug": "chellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_chellal",
+        "level": 2,
+        "name": {
+          "local": "شلال",
+          "en": "Chellal",
+          "slug": "chellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28014"
+    ],
+    "geo": {
+      "lat": "35.511",
+      "lon": "4.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_chellal_khettouti-sed-el-jir",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خطوطي سد الجير",
+      "en": "Khettouti Sed-El-Jir",
+      "slug": "khettouti-sed-el-jir"
+    },
+    "code": {
+      "id": "DZ028_chellal_khettouti-sed-el-jir",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_chellal",
+      "level": 2,
+      "name": {
+        "local": "شلال",
+        "en": "Chellal",
+        "slug": "chellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_chellal",
+        "level": 2,
+        "name": {
+          "local": "شلال",
+          "en": "Chellal",
+          "slug": "chellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28056"
+    ],
+    "geo": {
+      "lat": "35.457",
+      "lon": "4.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_chellal_maarif",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معاريف",
+      "en": "Maarif",
+      "slug": "maarif"
+    },
+    "code": {
+      "id": "DZ028_chellal_maarif",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_chellal",
+      "level": 2,
+      "name": {
+        "local": "شلال",
+        "en": "Chellal",
+        "slug": "chellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_chellal",
+        "level": 2,
+        "name": {
+          "local": "شلال",
+          "en": "Chellal",
+          "slug": "chellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28041"
+    ],
+    "geo": {
+      "lat": "35.367",
+      "lon": "4.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_chellal_ouled-madhi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد ماضي",
+      "en": "Ouled Madhi",
+      "slug": "ouled-madhi"
+    },
+    "code": {
+      "id": "DZ028_chellal_ouled-madhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_chellal",
+      "level": 2,
+      "name": {
+        "local": "شلال",
+        "en": "Chellal",
+        "slug": "chellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_chellal",
+        "level": 2,
+        "name": {
+          "local": "شلال",
+          "en": "Chellal",
+          "slug": "chellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28047"
+    ],
+    "geo": {
+      "lat": "35.492",
+      "lon": "4.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

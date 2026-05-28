@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_sidi-djillali_bouihi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "البويهي",
+      "en": "Bouihi",
+      "slug": "bouihi"
+    },
+    "code": {
+      "id": "DZ013_sidi-djillali_bouihi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sidi-djillali",
+      "level": 2,
+      "name": {
+        "local": "سيدي الجيلالي",
+        "en": "Sidi Djillali",
+        "slug": "sidi-djillali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sidi-djillali",
+        "level": 2,
+        "name": {
+          "local": "سيدي الجيلالي",
+          "en": "Sidi Djillali",
+          "slug": "sidi-djillali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13030"
+    ],
+    "geo": {
+      "lat": "34.421",
+      "lon": "-1.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sidi-djillali_sidi-djillali",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي الجيلالي",
+      "en": "Sidi Djillali",
+      "slug": "sidi-djillali"
+    },
+    "code": {
+      "id": "DZ013_sidi-djillali_sidi-djillali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_sidi-djillali",
+      "level": 2,
+      "name": {
+        "local": "سيدي الجيلالي",
+        "en": "Sidi Djillali",
+        "slug": "sidi-djillali"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_sidi-djillali",
+        "level": 2,
+        "name": {
+          "local": "سيدي الجيلالي",
+          "en": "Sidi Djillali",
+          "slug": "sidi-djillali"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13043"
+    ],
+    "geo": {
+      "lat": "34.421",
+      "lon": "-1.499"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

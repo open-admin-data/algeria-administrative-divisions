@@ -1,0 +1,45 @@
+{
+  "id": "DZ027006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ben Chicao",
+    "en": "Ben Chicao",
+    "slug": "ben-chicao-dz027006"
+  },
+  "code": {
+    "id": "DZ027006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.192",
+    "lon": "2.856"
+  },
+  "metadata": {},
+  "source": {}
+}

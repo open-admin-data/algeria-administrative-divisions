@@ -1,0 +1,47 @@
+{
+  "id": "DZ045_mekmen-ben-amar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مكمن بن عمار",
+    "en": "Mekmen Ben Amar",
+    "slug": "mekmen-ben-amar"
+  },
+  "code": {
+    "id": "DZ045_mekmen-ben-amar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naâma",
+      "slug": "nama"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naâma",
+        "slug": "nama"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.642",
+    "lon": "-1.393"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ042025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Safsaf El Ouesra",
+    "en": "Safsaf El Ouesra",
+    "slug": "safsaf-el-ouesra-dz042025"
+  },
+  "code": {
+    "id": "DZ042025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.929",
+    "lon": "8.172"
+  },
+  "metadata": {},
+  "source": {}
+}

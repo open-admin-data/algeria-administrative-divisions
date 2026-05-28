@@ -1,0 +1,45 @@
+{
+  "id": "DZ007006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boukais",
+    "en": "Boukais",
+    "slug": "boukais-dz007006"
+  },
+  "code": {
+    "id": "DZ007006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.969",
+    "lon": "-2.617"
+  },
+  "metadata": {},
+  "source": {}
+}

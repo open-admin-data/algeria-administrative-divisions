@@ -1,0 +1,45 @@
+{
+  "id": "DZ030007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ben Srour",
+    "en": "Ben Srour",
+    "slug": "ben-srour-dz030007"
+  },
+  "code": {
+    "id": "DZ030007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.994",
+    "lon": "4.554"
+  },
+  "metadata": {},
+  "source": {}
+}

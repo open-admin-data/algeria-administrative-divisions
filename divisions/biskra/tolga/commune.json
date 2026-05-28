@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ007_tolga_bordj-ben-azzouz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج بن عزوز",
+      "en": "Bordj Ben Azzouz",
+      "slug": "bordj-ben-azzouz"
+    },
+    "code": {
+      "id": "DZ007_tolga_bordj-ben-azzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_tolga",
+      "level": 2,
+      "name": {
+        "local": "طولقة",
+        "en": "Tolga",
+        "slug": "tolga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_tolga",
+        "level": 2,
+        "name": {
+          "local": "طولقة",
+          "en": "Tolga",
+          "slug": "tolga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07021"
+    ],
+    "geo": {
+      "lat": "34.731",
+      "lon": "5.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_tolga_bouchakroun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوشقرون",
+      "en": "Bouchakroun",
+      "slug": "bouchakroun"
+    },
+    "code": {
+      "id": "DZ007_tolga_bouchakroun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_tolga",
+      "level": 2,
+      "name": {
+        "local": "طولقة",
+        "en": "Tolga",
+        "slug": "tolga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_tolga",
+        "level": 2,
+        "name": {
+          "local": "طولقة",
+          "en": "Tolga",
+          "slug": "tolga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07022"
+    ],
+    "geo": {
+      "lat": "34.794",
+      "lon": "5.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_tolga_lichana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ليشانة",
+      "en": "Lichana",
+      "slug": "lichana"
+    },
+    "code": {
+      "id": "DZ007_tolga_lichana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_tolga",
+      "level": 2,
+      "name": {
+        "local": "طولقة",
+        "en": "Tolga",
+        "slug": "tolga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_tolga",
+        "level": 2,
+        "name": {
+          "local": "طولقة",
+          "en": "Tolga",
+          "slug": "tolga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07009"
+    ],
+    "geo": {
+      "lat": "34.762",
+      "lon": "5.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_tolga_tolga",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "طولقة",
+      "en": "Tolga",
+      "slug": "tolga"
+    },
+    "code": {
+      "id": "DZ007_tolga_tolga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_tolga",
+      "level": 2,
+      "name": {
+        "local": "طولقة",
+        "en": "Tolga",
+        "slug": "tolga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_tolga",
+        "level": 2,
+        "name": {
+          "local": "طولقة",
+          "en": "Tolga",
+          "slug": "tolga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07003"
+    ],
+    "geo": {
+      "lat": "34.889",
+      "lon": "5.242"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

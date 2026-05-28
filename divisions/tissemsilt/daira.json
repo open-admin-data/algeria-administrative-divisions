@@ -1,0 +1,378 @@
+[
+  {
+    "id": "DZ038_ammari",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عماري",
+      "en": "Ammari",
+      "slug": "ammari"
+    },
+    "code": {
+      "id": "DZ038_ammari",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.658",
+      "lon": "1.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-bounaama",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج بونعامة",
+      "en": "Bordj Bounaama",
+      "slug": "bordj-bounaama"
+    },
+    "code": {
+      "id": "DZ038_bordj-bounaama",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.833",
+      "lon": "1.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_bordj-emir-abdelkader",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "برج الأمير عبد القادر",
+      "en": "Bordj Emir Abdelkader",
+      "slug": "bordj-emir-abdelkader"
+    },
+    "code": {
+      "id": "DZ038_bordj-emir-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.861",
+      "lon": "2.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_khemisti",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "خميستي",
+      "en": "Khemisti",
+      "slug": "khemisti"
+    },
+    "code": {
+      "id": "DZ038_khemisti",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.678",
+      "lon": "2.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lardjem",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "لرجام",
+      "en": "Lardjem",
+      "slug": "lardjem"
+    },
+    "code": {
+      "id": "DZ038_lardjem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.739",
+      "lon": "1.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_lazharia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الأزهرية",
+      "en": "Lazharia",
+      "slug": "lazharia"
+    },
+    "code": {
+      "id": "DZ038_lazharia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.927",
+      "lon": "1.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_theniet-el-had",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ثنية الاحد",
+      "en": "Theniet El Had",
+      "slug": "theniet-el-had"
+    },
+    "code": {
+      "id": "DZ038_theniet-el-had",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.838",
+      "lon": "1.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_tissemsilt",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    },
+    "code": {
+      "id": "DZ038_tissemsilt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.614",
+      "lon": "1.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

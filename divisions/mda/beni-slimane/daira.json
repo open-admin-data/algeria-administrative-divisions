@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_beni-slimane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني سليمان",
+    "en": "Beni Slimane",
+    "slug": "beni-slimane"
+  },
+  "code": {
+    "id": "DZ026_beni-slimane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.209",
+    "lon": "3.258"
+  },
+  "metadata": {},
+  "source": {}
+}

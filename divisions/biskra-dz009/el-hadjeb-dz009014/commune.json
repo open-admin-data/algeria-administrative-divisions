@@ -1,0 +1,45 @@
+{
+  "id": "DZ009014",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hadjeb",
+    "en": "El Hadjeb",
+    "slug": "el-hadjeb-dz009014"
+  },
+  "code": {
+    "id": "DZ009014",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.8",
+    "lon": "5.6"
+  },
+  "metadata": {},
+  "source": {}
+}

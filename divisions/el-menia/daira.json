@@ -1,0 +1,96 @@
+[
+  {
+    "id": "DZ058_el-menia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المنيعة",
+      "en": "El Menia",
+      "slug": "el-menia"
+    },
+    "code": {
+      "id": "DZ058_el-menia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ058",
+      "level": 1,
+      "name": {
+        "local": "المنيعة",
+        "en": "El Menia",
+        "slug": "el-menia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ058",
+        "level": 1,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ058_mansourah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ058_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ058",
+      "level": 1,
+      "name": {
+        "local": "المنيعة",
+        "en": "El Menia",
+        "slug": "el-menia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ058",
+        "level": 1,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

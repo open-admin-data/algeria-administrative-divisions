@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ019_amoucha_amoucha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عموشة",
+      "en": "Amoucha",
+      "slug": "amoucha"
+    },
+    "code": {
+      "id": "DZ019_amoucha_amoucha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_amoucha",
+      "level": 2,
+      "name": {
+        "local": "عموشة",
+        "en": "Amoucha",
+        "slug": "amoucha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_amoucha",
+        "level": 2,
+        "name": {
+          "local": "عموشة",
+          "en": "Amoucha",
+          "slug": "amoucha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19009"
+    ],
+    "geo": {
+      "lat": "36.379",
+      "lon": "5.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_amoucha_oued-el-bared",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واد البارد",
+      "en": "Oued El Bared",
+      "slug": "oued-el-bared"
+    },
+    "code": {
+      "id": "DZ019_amoucha_oued-el-bared",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_amoucha",
+      "level": 2,
+      "name": {
+        "local": "عموشة",
+        "en": "Amoucha",
+        "slug": "amoucha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_amoucha",
+        "level": 2,
+        "name": {
+          "local": "عموشة",
+          "en": "Amoucha",
+          "slug": "amoucha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19115"
+    ],
+    "geo": {
+      "lat": "36.5",
+      "lon": "5.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_amoucha_tizi-nbechar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي نبشار",
+      "en": "Tizi N'bechar",
+      "slug": "tizi-nbechar"
+    },
+    "code": {
+      "id": "DZ019_amoucha_tizi-nbechar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_amoucha",
+      "level": 2,
+      "name": {
+        "local": "عموشة",
+        "en": "Amoucha",
+        "slug": "amoucha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_amoucha",
+        "level": 2,
+        "name": {
+          "local": "عموشة",
+          "en": "Amoucha",
+          "slug": "amoucha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19068"
+    ],
+    "geo": {
+      "lat": "36.434",
+      "lon": "5.365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

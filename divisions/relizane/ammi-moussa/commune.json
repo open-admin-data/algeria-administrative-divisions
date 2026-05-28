@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ048_ammi-moussa_ammi-moussa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عمي موسى",
+      "en": "Ammi Moussa",
+      "slug": "ammi-moussa"
+    },
+    "code": {
+      "id": "DZ048_ammi-moussa_ammi-moussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ammi-moussa",
+      "level": 2,
+      "name": {
+        "local": "عمي موسى",
+        "en": "Ammi Moussa",
+        "slug": "ammi-moussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ammi-moussa",
+        "level": 2,
+        "name": {
+          "local": "عمي موسى",
+          "en": "Ammi Moussa",
+          "slug": "ammi-moussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48004"
+    ],
+    "geo": {
+      "lat": "35.84",
+      "lon": "1.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ammi-moussa_el-hassi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحاسي",
+      "en": "El Hassi",
+      "slug": "el-hassi"
+    },
+    "code": {
+      "id": "DZ048_ammi-moussa_el-hassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ammi-moussa",
+      "level": 2,
+      "name": {
+        "local": "عمي موسى",
+        "en": "Ammi Moussa",
+        "slug": "ammi-moussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ammi-moussa",
+        "level": 2,
+        "name": {
+          "local": "عمي موسى",
+          "en": "Ammi Moussa",
+          "slug": "ammi-moussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05116"
+    ],
+    "geo": {
+      "lat": "35.741",
+      "lon": "1.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ammi-moussa_el-ouldja",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الولجة",
+      "en": "El Ouldja",
+      "slug": "el-ouldja"
+    },
+    "code": {
+      "id": "DZ048_ammi-moussa_el-ouldja",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ammi-moussa",
+      "level": 2,
+      "name": {
+        "local": "عمي موسى",
+        "en": "Ammi Moussa",
+        "slug": "ammi-moussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ammi-moussa",
+        "level": 2,
+        "name": {
+          "local": "عمي موسى",
+          "en": "Ammi Moussa",
+          "slug": "ammi-moussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.791",
+      "lon": "1.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_ammi-moussa_ouled-aiche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد يعيش",
+      "en": "Ouled Aiche",
+      "slug": "ouled-aiche"
+    },
+    "code": {
+      "id": "DZ048_ammi-moussa_ouled-aiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_ammi-moussa",
+      "level": 2,
+      "name": {
+        "local": "عمي موسى",
+        "en": "Ammi Moussa",
+        "slug": "ammi-moussa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_ammi-moussa",
+        "level": 2,
+        "name": {
+          "local": "عمي موسى",
+          "en": "Ammi Moussa",
+          "slug": "ammi-moussa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48019"
+    ],
+    "geo": {
+      "lat": "35.791",
+      "lon": "1.117"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

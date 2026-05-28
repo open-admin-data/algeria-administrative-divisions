@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ019_hammam-sokhna_hamam-soukhna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام السخنة",
+      "en": "Hamam Soukhna",
+      "slug": "hamam-soukhna"
+    },
+    "code": {
+      "id": "DZ019_hammam-sokhna_hamam-soukhna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_hammam-sokhna",
+      "level": 2,
+      "name": {
+        "local": "حمام السخنة",
+        "en": "Hammam Sokhna",
+        "slug": "hammam-sokhna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_hammam-sokhna",
+        "level": 2,
+        "name": {
+          "local": "حمام السخنة",
+          "en": "Hammam Sokhna",
+          "slug": "hammam-sokhna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19059"
+    ],
+    "geo": {
+      "lat": "35.946",
+      "lon": "5.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_hammam-sokhna_taya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطاية",
+      "en": "Taya",
+      "slug": "taya"
+    },
+    "code": {
+      "id": "DZ019_hammam-sokhna_taya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_hammam-sokhna",
+      "level": 2,
+      "name": {
+        "local": "حمام السخنة",
+        "en": "Hammam Sokhna",
+        "slug": "hammam-sokhna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_hammam-sokhna",
+        "level": 2,
+        "name": {
+          "local": "حمام السخنة",
+          "en": "Hammam Sokhna",
+          "slug": "hammam-sokhna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19067"
+    ],
+    "geo": {
+      "lat": "35.926",
+      "lon": "5.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_hammam-sokhna_tella",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "التلة",
+      "en": "Tella",
+      "slug": "tella"
+    },
+    "code": {
+      "id": "DZ019_hammam-sokhna_tella",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_hammam-sokhna",
+      "level": 2,
+      "name": {
+        "local": "حمام السخنة",
+        "en": "Hammam Sokhna",
+        "slug": "hammam-sokhna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_hammam-sokhna",
+        "level": 2,
+        "name": {
+          "local": "حمام السخنة",
+          "en": "Hammam Sokhna",
+          "slug": "hammam-sokhna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19087"
+    ],
+    "geo": {
+      "lat": "35.965",
+      "lon": "5.709"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

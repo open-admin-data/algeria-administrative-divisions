@@ -1,0 +1,47 @@
+{
+  "id": "DZ002_beni-haoua",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بني حواء",
+    "en": "Beni Haoua",
+    "slug": "beni-haoua"
+  },
+  "code": {
+    "id": "DZ002_beni-haoua",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": " الشلف",
+      "en": "Chlef",
+      "slug": "chlef"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": " الشلف",
+        "en": "Chlef",
+        "slug": "chlef"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.472",
+    "lon": "1.566"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ021_sidi-mezghiche",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي مزغيش",
+    "en": "Sidi Mezghiche",
+    "slug": "sidi-mezghiche"
+  },
+  "code": {
+    "id": "DZ021_sidi-mezghiche",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.655",
+    "lon": "6.691"
+  },
+  "metadata": {},
+  "source": {}
+}

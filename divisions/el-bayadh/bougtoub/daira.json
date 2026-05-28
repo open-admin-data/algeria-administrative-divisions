@@ -1,0 +1,47 @@
+{
+  "id": "DZ032_bougtoub",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوقطب",
+    "en": "Bougtoub",
+    "slug": "bougtoub"
+  },
+  "code": {
+    "id": "DZ032_bougtoub",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.825",
+    "lon": "0.283"
+  },
+  "metadata": {},
+  "source": {}
+}

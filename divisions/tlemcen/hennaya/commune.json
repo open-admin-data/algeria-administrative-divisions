@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_hennaya_hennaya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحناية",
+      "en": "Hennaya",
+      "slug": "hennaya"
+    },
+    "code": {
+      "id": "DZ013_hennaya_hennaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_hennaya",
+      "level": 2,
+      "name": {
+        "local": "الحناية",
+        "en": "Hennaya",
+        "slug": "hennaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_hennaya",
+        "level": 2,
+        "name": {
+          "local": "الحناية",
+          "en": "Hennaya",
+          "slug": "hennaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13009"
+    ],
+    "geo": {
+      "lat": "34.993",
+      "lon": "-1.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_hennaya_ouled-riyah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد رياح",
+      "en": "Ouled Riyah",
+      "slug": "ouled-riyah"
+    },
+    "code": {
+      "id": "DZ013_hennaya_ouled-riyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_hennaya",
+      "level": 2,
+      "name": {
+        "local": "الحناية",
+        "en": "Hennaya",
+        "slug": "hennaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_hennaya",
+        "level": 2,
+        "name": {
+          "local": "الحناية",
+          "en": "Hennaya",
+          "slug": "hennaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13070"
+    ],
+    "geo": {
+      "lat": "34.993",
+      "lon": "-1.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_hennaya_zenata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زناتة",
+      "en": "Zenata",
+      "slug": "zenata"
+    },
+    "code": {
+      "id": "DZ013_hennaya_zenata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_hennaya",
+      "level": 2,
+      "name": {
+        "local": "الحناية",
+        "en": "Hennaya",
+        "slug": "hennaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_hennaya",
+        "level": 2,
+        "name": {
+          "local": "الحناية",
+          "en": "Hennaya",
+          "slug": "hennaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13051"
+    ],
+    "geo": {
+      "lat": "34.993",
+      "lon": "-1.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

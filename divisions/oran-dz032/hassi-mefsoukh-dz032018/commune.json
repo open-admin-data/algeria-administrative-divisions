@@ -1,0 +1,45 @@
+{
+  "id": "DZ032018",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi Mefsoukh",
+    "en": "Hassi Mefsoukh",
+    "slug": "hassi-mefsoukh-dz032018"
+  },
+  "code": {
+    "id": "DZ032018",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ032",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran-dz032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ032",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran-dz032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.783",
+    "lon": "-0.374"
+  },
+  "metadata": {},
+  "source": {}
+}

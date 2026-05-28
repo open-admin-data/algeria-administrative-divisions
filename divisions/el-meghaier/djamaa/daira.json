@@ -1,0 +1,47 @@
+{
+  "id": "DZ057_djamaa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "جامعة",
+    "en": "Djamaa",
+    "slug": "djamaa"
+  },
+  "code": {
+    "id": "DZ057_djamaa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ057",
+    "level": 1,
+    "name": {
+      "local": "المغير",
+      "en": "El Meghaier",
+      "slug": "el-meghaier"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ057",
+      "level": 1,
+      "name": {
+        "local": "المغير",
+        "en": "El Meghaier",
+        "slug": "el-meghaier"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.544",
+    "lon": "5.716"
+  },
+  "metadata": {},
+  "source": {}
+}

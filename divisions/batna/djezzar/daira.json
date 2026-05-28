@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_djezzar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الجزار",
+    "en": "Djezzar",
+    "slug": "djezzar"
+  },
+  "code": {
+    "id": "DZ005_djezzar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.492",
+    "lon": "5.246"
+  },
+  "metadata": {},
+  "source": {}
+}

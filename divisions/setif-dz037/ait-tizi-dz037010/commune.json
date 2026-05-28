@@ -1,0 +1,45 @@
+{
+  "id": "DZ037010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ait Tizi",
+    "en": "Ait Tizi",
+    "slug": "ait-tizi-dz037010"
+  },
+  "code": {
+    "id": "DZ037010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.538",
+    "lon": "5.157"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ014023",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Abbes",
+    "en": "Ouled Abbes",
+    "slug": "ouled-abbes-dz014023"
+  },
+  "code": {
+    "id": "DZ014023",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.216",
+    "lon": "1.482"
+  },
+  "metadata": {},
+  "source": {}
+}

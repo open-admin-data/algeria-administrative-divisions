@@ -1,0 +1,45 @@
+{
+  "id": "DZ006021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ghassira",
+    "en": "Ghassira",
+    "slug": "ghassira-dz006021"
+  },
+  "code": {
+    "id": "DZ006021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.064",
+    "lon": "6.231"
+  },
+  "metadata": {},
+  "source": {}
+}

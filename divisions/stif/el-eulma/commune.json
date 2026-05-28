@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ019_el-eulma_bazer-sakra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بازر سكرة",
+      "en": "Bazer-Sakra",
+      "slug": "bazer-sakra"
+    },
+    "code": {
+      "id": "DZ019_el-eulma_bazer-sakra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_el-eulma",
+      "level": 2,
+      "name": {
+        "local": "العلمة",
+        "en": "El Eulma",
+        "slug": "el-eulma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_el-eulma",
+        "level": 2,
+        "name": {
+          "local": "العلمة",
+          "en": "El Eulma",
+          "slug": "el-eulma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19036"
+    ],
+    "geo": {
+      "lat": "36.083",
+      "lon": "5.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_el-eulma_el-eulma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العلمة",
+      "en": "El Eulma",
+      "slug": "el-eulma"
+    },
+    "code": {
+      "id": "DZ019_el-eulma_el-eulma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_el-eulma",
+      "level": 2,
+      "name": {
+        "local": "العلمة",
+        "en": "El Eulma",
+        "slug": "el-eulma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_el-eulma",
+        "level": 2,
+        "name": {
+          "local": "العلمة",
+          "en": "El Eulma",
+          "slug": "el-eulma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19001"
+    ],
+    "geo": {
+      "lat": "36.169",
+      "lon": "5.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_el-eulma_guelta-zerka",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قلتة زرقاء",
+      "en": "Guelta Zerka",
+      "slug": "guelta-zerka"
+    },
+    "code": {
+      "id": "DZ019_el-eulma_guelta-zerka",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_el-eulma",
+      "level": 2,
+      "name": {
+        "local": "العلمة",
+        "en": "El Eulma",
+        "slug": "el-eulma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_el-eulma",
+        "level": 2,
+        "name": {
+          "local": "العلمة",
+          "en": "El Eulma",
+          "slug": "el-eulma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.126",
+      "lon": "5.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

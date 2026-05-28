@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,zip_codes,geo.lat,geo.lon
+DZ007_sidi-okba_ain-naga,عين الناقة,Ain Naga,ain-naga,DZ007_sidi-okba_ain-naga,07039,34.65,6.146
+DZ007_sidi-okba_chetma,شتمة,Chetma,chetma,DZ007_sidi-okba_chetma,07024,34.868,5.839
+DZ007_sidi-okba_el-haouch,الحوش,El Haouch,el-haouch,DZ007_sidi-okba_el-haouch,07028,34.558,6.045
+DZ007_sidi-okba_sidi-okba,سيدي عقبة,Sidi Okba,sidi-okba,DZ007_sidi-okba_sidi-okba,07005,34.779,5.908

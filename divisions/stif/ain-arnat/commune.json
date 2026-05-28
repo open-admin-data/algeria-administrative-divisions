@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ019_ain-arnat_ain-abessa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين عباسة",
+      "en": "Ain Abessa",
+      "slug": "ain-abessa"
+    },
+    "code": {
+      "id": "DZ019_ain-arnat_ain-abessa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-arnat",
+      "level": 2,
+      "name": {
+        "local": "عين أرنات",
+        "en": "Ain Arnat",
+        "slug": "ain-arnat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-arnat",
+        "level": 2,
+        "name": {
+          "local": "عين أرنات",
+          "en": "Ain Arnat",
+          "slug": "ain-arnat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19016"
+    ],
+    "geo": {
+      "lat": "36.311",
+      "lon": "5.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-arnat_ain-arnat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين أرنات",
+      "en": "Ain Arnat",
+      "slug": "ain-arnat"
+    },
+    "code": {
+      "id": "DZ019_ain-arnat_ain-arnat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-arnat",
+      "level": 2,
+      "name": {
+        "local": "عين أرنات",
+        "en": "Ain Arnat",
+        "slug": "ain-arnat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-arnat",
+        "level": 2,
+        "name": {
+          "local": "عين أرنات",
+          "en": "Ain Arnat",
+          "slug": "ain-arnat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19017"
+    ],
+    "geo": {
+      "lat": "36.18",
+      "lon": "5.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-arnat_el-ouricia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أوريسيا",
+      "en": "El Ouricia",
+      "slug": "el-ouricia"
+    },
+    "code": {
+      "id": "DZ019_ain-arnat_el-ouricia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-arnat",
+      "level": 2,
+      "name": {
+        "local": "عين أرنات",
+        "en": "Ain Arnat",
+        "slug": "ain-arnat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-arnat",
+        "level": 2,
+        "name": {
+          "local": "عين أرنات",
+          "en": "Ain Arnat",
+          "slug": "ain-arnat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19047"
+    ],
+    "geo": {
+      "lat": "36.272",
+      "lon": "5.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_ain-arnat_mezloug",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مزلوق",
+      "en": "Mezloug",
+      "slug": "mezloug"
+    },
+    "code": {
+      "id": "DZ019_ain-arnat_mezloug",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_ain-arnat",
+      "level": 2,
+      "name": {
+        "local": "عين أرنات",
+        "en": "Ain Arnat",
+        "slug": "ain-arnat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_ain-arnat",
+        "level": 2,
+        "name": {
+          "local": "عين أرنات",
+          "en": "Ain Arnat",
+          "slug": "ain-arnat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19056"
+    ],
+    "geo": {
+      "lat": "36.104",
+      "lon": "5.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

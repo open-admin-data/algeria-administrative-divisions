@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ054_tin-zouatine_tin-zouatine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تين زواتين",
+      "en": "Tin Zouatine",
+      "slug": "tin-zouatine"
+    },
+    "code": {
+      "id": "DZ054_tin-zouatine_tin-zouatine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ054_tin-zouatine",
+      "level": 2,
+      "name": {
+        "local": "تين زواتين",
+        "en": "Tin Zouatine",
+        "slug": "tin-zouatine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ054",
+        "level": 1,
+        "name": {
+          "local": "عين قزام",
+          "en": "In Guezzam",
+          "slug": "in-guezzam"
+        }
+      },
+      {
+        "id": "DZ054_tin-zouatine",
+        "level": 2,
+        "name": {
+          "local": "تين زواتين",
+          "en": "Tin Zouatine",
+          "slug": "tin-zouatine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ048_oued-rhiou_lahlef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "لحلاف",
+      "en": "Lahlef",
+      "slug": "lahlef"
+    },
+    "code": {
+      "id": "DZ048_oued-rhiou_lahlef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_oued-rhiou",
+      "level": 2,
+      "name": {
+        "local": "وادي رهيو",
+        "en": "Oued Rhiou",
+        "slug": "oued-rhiou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_oued-rhiou",
+        "level": 2,
+        "name": {
+          "local": "وادي رهيو",
+          "en": "Oued Rhiou",
+          "slug": "oued-rhiou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48020"
+    ],
+    "geo": {
+      "lat": "35.899",
+      "lon": "0.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_oued-rhiou_merdja-sidi-abed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرجة سيدي عابد",
+      "en": "Merdja Sidi Abed",
+      "slug": "merdja-sidi-abed"
+    },
+    "code": {
+      "id": "DZ048_oued-rhiou_merdja-sidi-abed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_oued-rhiou",
+      "level": 2,
+      "name": {
+        "local": "وادي رهيو",
+        "en": "Oued Rhiou",
+        "slug": "oued-rhiou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_oued-rhiou",
+        "level": 2,
+        "name": {
+          "local": "وادي رهيو",
+          "en": "Oued Rhiou",
+          "slug": "oued-rhiou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48056"
+    ],
+    "geo": {
+      "lat": "35.969",
+      "lon": "0.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_oued-rhiou_ouarizane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واريزان",
+      "en": "Ouarizane",
+      "slug": "ouarizane"
+    },
+    "code": {
+      "id": "DZ048_oued-rhiou_ouarizane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_oued-rhiou",
+      "level": 2,
+      "name": {
+        "local": "وادي رهيو",
+        "en": "Oued Rhiou",
+        "slug": "oued-rhiou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_oued-rhiou",
+        "level": 2,
+        "name": {
+          "local": "وادي رهيو",
+          "en": "Oued Rhiou",
+          "slug": "oued-rhiou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48013"
+    ],
+    "geo": {
+      "lat": "36.037",
+      "lon": "0.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ048_oued-rhiou_oued-rhiou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي رهيو",
+      "en": "Oued-Rhiou",
+      "slug": "oued-rhiou"
+    },
+    "code": {
+      "id": "DZ048_oued-rhiou_oued-rhiou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ048_oued-rhiou",
+      "level": 2,
+      "name": {
+        "local": "وادي رهيو",
+        "en": "Oued Rhiou",
+        "slug": "oued-rhiou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ048",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane"
+        }
+      },
+      {
+        "id": "DZ048_oued-rhiou",
+        "level": 2,
+        "name": {
+          "local": "وادي رهيو",
+          "en": "Oued Rhiou",
+          "slug": "oued-rhiou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48001"
+    ],
+    "geo": {
+      "lat": "35.972",
+      "lon": "0.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

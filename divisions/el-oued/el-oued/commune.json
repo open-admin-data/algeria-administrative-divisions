@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_el-oued_el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الوادي",
+      "en": "El-Oued",
+      "slug": "el-oued"
+    },
+    "code": {
+      "id": "DZ039_el-oued_el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_el-oued",
+      "level": 2,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_el-oued",
+        "level": 2,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39000"
+    ],
+    "geo": {
+      "lat": "33.366",
+      "lon": "6.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_el-oued_kouinine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "كوينين",
+      "en": "Kouinine",
+      "slug": "kouinine"
+    },
+    "code": {
+      "id": "DZ039_el-oued_kouinine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_el-oued",
+      "level": 2,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_el-oued",
+        "level": 2,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39014"
+    ],
+    "geo": {
+      "lat": "33.397",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

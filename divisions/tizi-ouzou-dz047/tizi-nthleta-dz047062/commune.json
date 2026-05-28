@@ -1,0 +1,45 @@
+{
+  "id": "DZ047062",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tizi N'Thleta",
+    "en": "Tizi N'Thleta",
+    "slug": "tizi-nthleta-dz047062"
+  },
+  "code": {
+    "id": "DZ047062",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.562",
+    "lon": "4.049"
+  },
+  "metadata": {},
+  "source": {}
+}

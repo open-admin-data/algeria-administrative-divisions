@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_bir-bouhouche_bir-bouhouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر بوحوش",
+      "en": "Bir Bouhouche",
+      "slug": "bir-bouhouche"
+    },
+    "code": {
+      "id": "DZ041_bir-bouhouche_bir-bouhouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_bir-bouhouche",
+      "level": 2,
+      "name": {
+        "local": "بئر بوحوش",
+        "en": "Bir Bouhouche",
+        "slug": "bir-bouhouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_bir-bouhouche",
+        "level": 2,
+        "name": {
+          "local": "بئر بوحوش",
+          "en": "Bir Bouhouche",
+          "slug": "bir-bouhouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41011"
+    ],
+    "geo": {
+      "lat": "36.05",
+      "lon": "7.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_bir-bouhouche_safel-el-ouiden",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سافل الويدان",
+      "en": "Safel El Ouiden",
+      "slug": "safel-el-ouiden"
+    },
+    "code": {
+      "id": "DZ041_bir-bouhouche_safel-el-ouiden",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_bir-bouhouche",
+      "level": 2,
+      "name": {
+        "local": "بئر بوحوش",
+        "en": "Bir Bouhouche",
+        "slug": "bir-bouhouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_bir-bouhouche",
+        "level": 2,
+        "name": {
+          "local": "بئر بوحوش",
+          "en": "Bir Bouhouche",
+          "slug": "bir-bouhouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41035"
+    ],
+    "geo": {
+      "lat": "35.975",
+      "lon": "7.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_bir-bouhouche_zouabi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزوابي",
+      "en": "Zouabi",
+      "slug": "zouabi"
+    },
+    "code": {
+      "id": "DZ041_bir-bouhouche_zouabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_bir-bouhouche",
+      "level": 2,
+      "name": {
+        "local": "بئر بوحوش",
+        "en": "Bir Bouhouche",
+        "slug": "bir-bouhouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_bir-bouhouche",
+        "level": 2,
+        "name": {
+          "local": "بئر بوحوش",
+          "en": "Bir Bouhouche",
+          "slug": "bir-bouhouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41039"
+    ],
+    "geo": {
+      "lat": "36.124",
+      "lon": "7.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

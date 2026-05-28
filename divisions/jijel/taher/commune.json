@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ018_taher_boussif-ouled-askeur",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوسيف أولاد عسكر",
+      "en": "Boussif Ouled Askeur",
+      "slug": "boussif-ouled-askeur"
+    },
+    "code": {
+      "id": "DZ018_taher_boussif-ouled-askeur",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_taher",
+      "level": 2,
+      "name": {
+        "local": "الطاهير",
+        "en": "Taher",
+        "slug": "taher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_taher",
+        "level": 2,
+        "name": {
+          "local": "الطاهير",
+          "en": "Taher",
+          "slug": "taher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18036"
+    ],
+    "geo": {
+      "lat": "36.719",
+      "lon": "5.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_taher_chahna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشحنة",
+      "en": "Chahna",
+      "slug": "chahna"
+    },
+    "code": {
+      "id": "DZ018_taher_chahna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_taher",
+      "level": 2,
+      "name": {
+        "local": "الطاهير",
+        "en": "Taher",
+        "slug": "taher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_taher",
+        "level": 2,
+        "name": {
+          "local": "الطاهير",
+          "en": "Taher",
+          "slug": "taher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18027"
+    ],
+    "geo": {
+      "lat": "36.665",
+      "lon": "5.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_taher_emir-abdelkader",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الامير عبد القادر",
+      "en": "Emir Abdelkader",
+      "slug": "emir-abdelkader"
+    },
+    "code": {
+      "id": "DZ018_taher_emir-abdelkader",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_taher",
+      "level": 2,
+      "name": {
+        "local": "الطاهير",
+        "en": "Taher",
+        "slug": "taher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_taher",
+        "level": 2,
+        "name": {
+          "local": "الطاهير",
+          "en": "Taher",
+          "slug": "taher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18010"
+    ],
+    "geo": {
+      "lat": "36.756",
+      "lon": "5.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_taher_oudjana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وجانة",
+      "en": "Oudjana",
+      "slug": "oudjana"
+    },
+    "code": {
+      "id": "DZ018_taher_oudjana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_taher",
+      "level": 2,
+      "name": {
+        "local": "الطاهير",
+        "en": "Taher",
+        "slug": "taher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_taher",
+        "level": 2,
+        "name": {
+          "local": "الطاهير",
+          "en": "Taher",
+          "slug": "taher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18047"
+    ],
+    "geo": {
+      "lat": "36.678",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_taher_taher",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطاهير",
+      "en": "Taher",
+      "slug": "taher"
+    },
+    "code": {
+      "id": "DZ018_taher_taher",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_taher",
+      "level": 2,
+      "name": {
+        "local": "الطاهير",
+        "en": "Taher",
+        "slug": "taher"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_taher",
+        "level": 2,
+        "name": {
+          "local": "الطاهير",
+          "en": "Taher",
+          "slug": "taher"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18002"
+    ],
+    "geo": {
+      "lat": "36.779",
+      "lon": "5.911"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

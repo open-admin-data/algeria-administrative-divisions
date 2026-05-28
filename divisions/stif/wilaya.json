@@ -1,0 +1,30 @@
+{
+  "id": "DZ019",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سطيف",
+    "en": "Sétif",
+    "slug": "stif"
+  },
+  "code": {
+    "id": "DZ019",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 20,
+    "commune": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.23",
+    "lon": "5.41"
+  },
+  "metadata": {},
+  "source": {}
+}

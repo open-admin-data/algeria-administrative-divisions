@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ039_hassi-khalifa_hassi-khalifa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي خليفة",
+      "en": "Hassi Khalifa",
+      "slug": "hassi-khalifa"
+    },
+    "code": {
+      "id": "DZ039_hassi-khalifa_hassi-khalifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_hassi-khalifa",
+      "level": 2,
+      "name": {
+        "local": "حاسي خليفة",
+        "en": "Hassi Khalifa",
+        "slug": "hassi-khalifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_hassi-khalifa",
+        "level": 2,
+        "name": {
+          "local": "حاسي خليفة",
+          "en": "Hassi Khalifa",
+          "slug": "hassi-khalifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39013"
+    ],
+    "geo": {
+      "lat": "33.258",
+      "lon": "7.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ039_hassi-khalifa_trifaoui",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الطريفاوي",
+      "en": "Trifaoui",
+      "slug": "trifaoui"
+    },
+    "code": {
+      "id": "DZ039_hassi-khalifa_trifaoui",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ039_hassi-khalifa",
+      "level": 2,
+      "name": {
+        "local": "حاسي خليفة",
+        "en": "Hassi Khalifa",
+        "slug": "hassi-khalifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ039",
+        "level": 1,
+        "name": {
+          "local": "الوادي",
+          "en": "El Oued",
+          "slug": "el-oued"
+        }
+      },
+      {
+        "id": "DZ039_hassi-khalifa",
+        "level": 2,
+        "name": {
+          "local": "حاسي خليفة",
+          "en": "Hassi Khalifa",
+          "slug": "hassi-khalifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "39044"
+    ],
+    "geo": {
+      "lat": "33.258",
+      "lon": "7.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

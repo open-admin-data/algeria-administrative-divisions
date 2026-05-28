@@ -1,0 +1,39 @@
+# Illizi — Algeria Administrative Divisions
+
+> 6 communes
+> Code: DZ022
+> Coordinates: 26.526, 8.07
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Bordj El Haoues
+
+Code: DZ022001, Coordinates: 24.484, 8.107
+
+
+### Bordj Omar Driss
+
+Code: DZ022002, Coordinates: 28.206, 7.181
+
+
+### Debdeb
+
+Code: DZ022003, Coordinates: 29.522, 8.897
+
+
+### Djanet
+
+Code: DZ022004, Coordinates: 23.78, 10.135
+
+
+### Illizi
+
+Code: DZ022005, Coordinates: 26.491, 8.349
+
+
+### In Amenas
+
+Code: DZ022006, Coordinates: 28.02, 9.289
+
+

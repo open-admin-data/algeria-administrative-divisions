@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ019_beni-aziz_ain-sebt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين السبت",
+      "en": "Ain-Sebt",
+      "slug": "ain-sebt"
+    },
+    "code": {
+      "id": "DZ019_beni-aziz_ain-sebt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-aziz",
+      "level": 2,
+      "name": {
+        "local": "بني عزيز",
+        "en": "Beni Aziz",
+        "slug": "beni-aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-aziz",
+        "level": 2,
+        "name": {
+          "local": "بني عزيز",
+          "en": "Beni Aziz",
+          "slug": "beni-aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19033"
+    ],
+    "geo": {
+      "lat": "36.497",
+      "lon": "5.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-aziz_beni-aziz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني عزيز",
+      "en": "Beni-Aziz",
+      "slug": "beni-aziz"
+    },
+    "code": {
+      "id": "DZ019_beni-aziz_beni-aziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-aziz",
+      "level": 2,
+      "name": {
+        "local": "بني عزيز",
+        "en": "Beni Aziz",
+        "slug": "beni-aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-aziz",
+        "level": 2,
+        "name": {
+          "local": "بني عزيز",
+          "en": "Beni Aziz",
+          "slug": "beni-aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19010"
+    ],
+    "geo": {
+      "lat": "36.478",
+      "lon": "5.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_beni-aziz_maaouia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معاوية",
+      "en": "Maaouia",
+      "slug": "maaouia"
+    },
+    "code": {
+      "id": "DZ019_beni-aziz_maaouia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_beni-aziz",
+      "level": 2,
+      "name": {
+        "local": "بني عزيز",
+        "en": "Beni Aziz",
+        "slug": "beni-aziz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_beni-aziz",
+        "level": 2,
+        "name": {
+          "local": "بني عزيز",
+          "en": "Beni Aziz",
+          "slug": "beni-aziz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19055"
+    ],
+    "geo": {
+      "lat": "36.377",
+      "lon": "5.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

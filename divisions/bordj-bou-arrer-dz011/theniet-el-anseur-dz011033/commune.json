@@ -1,0 +1,45 @@
+{
+  "id": "DZ011033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Theniet El Anseur",
+    "en": "Theniet El Anseur",
+    "slug": "theniet-el-anseur-dz011033"
+  },
+  "code": {
+    "id": "DZ011033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ011",
+    "level": 1,
+    "name": {
+      "local": "برج بوعريريج",
+      "en": "Bordj Bou Arrer",
+      "slug": "bordj-bou-arrer-dz011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ011",
+      "level": 1,
+      "name": {
+        "local": "برج بوعريريج",
+        "en": "Bordj Bou Arrer",
+        "slug": "bordj-bou-arrer-dz011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.208",
+    "lon": "4.499"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ003_brida_brida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريدة",
+      "en": "Brida",
+      "slug": "brida"
+    },
+    "code": {
+      "id": "DZ003_brida_brida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_brida",
+      "level": 2,
+      "name": {
+        "local": "بريدة",
+        "en": "Brida",
+        "slug": "brida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_brida",
+        "level": 2,
+        "name": {
+          "local": "بريدة",
+          "en": "Brida",
+          "slug": "brida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03005"
+    ],
+    "geo": {
+      "lat": "33.996",
+      "lon": "1.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_brida_hadj-mechri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحاج مشري",
+      "en": "Hadj Mechri",
+      "slug": "hadj-mechri"
+    },
+    "code": {
+      "id": "DZ003_brida_hadj-mechri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_brida",
+      "level": 2,
+      "name": {
+        "local": "بريدة",
+        "en": "Brida",
+        "slug": "brida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_brida",
+        "level": 2,
+        "name": {
+          "local": "بريدة",
+          "en": "Brida",
+          "slug": "brida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03038"
+    ],
+    "geo": {
+      "lat": "34",
+      "lon": "1.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ003_brida_taouiala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاويالة",
+      "en": "Taouiala",
+      "slug": "taouiala"
+    },
+    "code": {
+      "id": "DZ003_brida_taouiala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ003_brida",
+      "level": 2,
+      "name": {
+        "local": "بريدة",
+        "en": "Brida",
+        "slug": "brida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ003",
+        "level": 1,
+        "name": {
+          "local": "الأغواط",
+          "en": "Laghouat",
+          "slug": "laghouat"
+        }
+      },
+      {
+        "id": "DZ003_brida",
+        "level": 2,
+        "name": {
+          "local": "بريدة",
+          "en": "Brida",
+          "slug": "brida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "03026"
+    ],
+    "geo": {
+      "lat": "33.998",
+      "lon": "1.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

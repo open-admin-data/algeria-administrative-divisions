@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ011_tamanrasset_ain-amguel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين امقل",
+      "en": "Ain Amguel",
+      "slug": "ain-amguel"
+    },
+    "code": {
+      "id": "DZ011_tamanrasset_ain-amguel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011_tamanrasset",
+      "level": 2,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      },
+      {
+        "id": "DZ011_tamanrasset",
+        "level": 2,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11003"
+    ],
+    "geo": {
+      "lat": "22.271",
+      "lon": "5.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ011_tamanrasset_tamanrasset",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset"
+    },
+    "code": {
+      "id": "DZ011_tamanrasset_tamanrasset",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ011_tamanrasset",
+      "level": 2,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ011",
+        "level": 1,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      },
+      {
+        "id": "DZ011_tamanrasset",
+        "level": 2,
+        "name": {
+          "local": "تمنراست",
+          "en": "Tamanrasset",
+          "slug": "tamanrasset"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "11000"
+    ],
+    "geo": {
+      "lat": "22.271",
+      "lon": "5.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

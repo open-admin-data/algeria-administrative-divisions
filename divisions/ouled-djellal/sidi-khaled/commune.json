@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ051_sidi-khaled_besbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بسباس",
+      "en": "Besbes",
+      "slug": "besbes"
+    },
+    "code": {
+      "id": "DZ051_sidi-khaled_besbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_sidi-khaled",
+      "level": 2,
+      "name": {
+        "local": "سيدي  خالد",
+        "en": "Sidi Khaled",
+        "slug": "sidi-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_sidi-khaled",
+        "level": 2,
+        "name": {
+          "local": "سيدي  خالد",
+          "en": "Sidi Khaled",
+          "slug": "sidi-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36017"
+    ],
+    "geo": {
+      "lat": "36.723",
+      "lon": "7.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ051_sidi-khaled_ras-el-miad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رأس الميعاد",
+      "en": "Ras El Miad",
+      "slug": "ras-el-miad"
+    },
+    "code": {
+      "id": "DZ051_sidi-khaled_ras-el-miad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_sidi-khaled",
+      "level": 2,
+      "name": {
+        "local": "سيدي  خالد",
+        "en": "Sidi Khaled",
+        "slug": "sidi-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_sidi-khaled",
+        "level": 2,
+        "name": {
+          "local": "سيدي  خالد",
+          "en": "Sidi Khaled",
+          "slug": "sidi-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07062"
+    ],
+    "geo": {
+      "lat": "35.924",
+      "lon": "3.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ051_sidi-khaled_sidi-khaled",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي  خالد",
+      "en": "Sidi Khaled",
+      "slug": "sidi-khaled"
+    },
+    "code": {
+      "id": "DZ051_sidi-khaled_sidi-khaled",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_sidi-khaled",
+      "level": 2,
+      "name": {
+        "local": "سيدي  خالد",
+        "en": "Sidi Khaled",
+        "slug": "sidi-khaled"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_sidi-khaled",
+        "level": 2,
+        "name": {
+          "local": "سيدي  خالد",
+          "en": "Sidi Khaled",
+          "slug": "sidi-khaled"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07004"
+    ],
+    "geo": {
+      "lat": "35.124",
+      "lon": "-0.71"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

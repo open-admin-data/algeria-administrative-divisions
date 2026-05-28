@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ051_ouled-djellal_chaiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشعيبة",
+      "en": "Chaiba",
+      "slug": "chaiba"
+    },
+    "code": {
+      "id": "DZ051_ouled-djellal_chaiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_ouled-djellal",
+      "level": 2,
+      "name": {
+        "local": "أولاد جلال",
+        "en": "Ouled Djellal",
+        "slug": "ouled-djellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_ouled-djellal",
+        "level": 2,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42047"
+    ],
+    "geo": {
+      "lat": "36.613",
+      "lon": "2.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ051_ouled-djellal_doucen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدوسن",
+      "en": "Doucen",
+      "slug": "doucen"
+    },
+    "code": {
+      "id": "DZ051_ouled-djellal_doucen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_ouled-djellal",
+      "level": 2,
+      "name": {
+        "local": "أولاد جلال",
+        "en": "Ouled Djellal",
+        "slug": "ouled-djellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_ouled-djellal",
+        "level": 2,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07007"
+    ],
+    "geo": {
+      "lat": "34.615",
+      "lon": "5.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ051_ouled-djellal_ouled-djellal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد جلال",
+      "en": "Ouled Djellal",
+      "slug": "ouled-djellal"
+    },
+    "code": {
+      "id": "DZ051_ouled-djellal_ouled-djellal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ051_ouled-djellal",
+      "level": 2,
+      "name": {
+        "local": "أولاد جلال",
+        "en": "Ouled Djellal",
+        "slug": "ouled-djellal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ051",
+        "level": 1,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      },
+      {
+        "id": "DZ051_ouled-djellal",
+        "level": 2,
+        "name": {
+          "local": "أولاد جلال",
+          "en": "Ouled Djellal",
+          "slug": "ouled-djellal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07002"
+    ],
+    "geo": {
+      "lat": "34.425",
+      "lon": "5.101"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

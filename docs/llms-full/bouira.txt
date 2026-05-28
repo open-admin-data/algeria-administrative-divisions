@@ -1,0 +1,249 @@
+# Bouira — Algeria Administrative Divisions
+
+> 12 dairas, 45 communes
+> Code: DZ010
+> Coordinates: 36.233, 3.908
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين بسام (Ain Bessem)
+
+Code: DZ010_ain-bessem, Coordinates: 35.536, 1.885
+Communes: 3
+
+#### عين الحجر (Ain El Hadjar)
+
+Code: DZ010_ain-bessem_ain-el-hadjar, Postal: 10031, Coordinates: 34.763, 0.018
+
+#### عين العلوي (Ain Laloui)
+
+Code: DZ010_ain-bessem_ain-laloui, Postal: 10032, Coordinates: 36.309, 3.752
+
+#### عين بسام (Ain-Bessem)
+
+Code: DZ010_ain-bessem_ain-bessem, Postal: 10005, Coordinates: 35.536, 1.885
+
+### بشلول (Bechloul)
+
+Code: DZ010_bechloul, Coordinates: 36.315, 4.082
+Communes: 5
+
+#### أهل القصر (Ahl El Ksar)
+
+Code: DZ010_bechloul_ahl-el-ksar, Postal: 10008, Coordinates: 36.245, 4.027
+
+#### بشلول (Bechloul)
+
+Code: DZ010_bechloul_bechloul, Postal: 10012, Coordinates: 36.377, 4.089
+
+#### العجيبة (El Adjiba)
+
+Code: DZ010_bechloul_el-adjiba, Postal: 10021, Coordinates: 36.374, 4.147
+
+#### الأسنام (El Asnam)
+
+Code: DZ010_bechloul_el-asnam, Postal: 10022, Coordinates: 36.373, 4.029
+
+#### أولاد راشد (Ouled Rached)
+
+Code: DZ010_bechloul_ouled-rached, Coordinates: 36.206, 4.117
+
+### بئر غبالو (Bir Ghbalou)
+
+Code: DZ010_bir-ghbalou, Coordinates: 36.268, 3.602
+Communes: 3
+
+#### بئر غبالو (Bir Ghbalou)
+
+Code: DZ010_bir-ghbalou_bir-ghbalou, Postal: 10013, Coordinates: 36.272, 3.59
+
+#### الخبوزية (El Khabouzia)
+
+Code: DZ010_bir-ghbalou_el-khabouzia, Postal: 10038, Coordinates: 36.313, 3.599
+
+#### روراوة (Raouraoua)
+
+Code: DZ010_bir-ghbalou_raouraoua, Postal: 10042, Coordinates: 36.218, 3.617
+
+### برج أوخريص (Bordj Okhriss)
+
+Code: DZ010_bordj-okhriss, Coordinates: 36.012, 3.941
+Communes: 4
+
+#### برج أوخريص (Bordj Okhriss)
+
+Code: DZ010_bordj-okhriss_bordj-okhriss, Postal: 10014, Coordinates: 36.012, 3.941
+
+#### الحجرة الزرقاء (Hadjera Zerga)
+
+Code: DZ010_bordj-okhriss_hadjera-zerga, Postal: 10065, Coordinates: 35.949, 3.821
+
+#### مزدور (Mezdour)
+
+Code: DZ010_bordj-okhriss_mezdour, Postal: 10040, Coordinates: 36.075, 4.06
+
+#### تاقديت (Taguedite)
+
+Code: DZ010_bordj-okhriss_taguedite, Postal: 10045, Coordinates: 36.012, 3.941
+
+### البويرة (Bouira)
+
+Code: DZ010_bouira, Coordinates: 36.187, 2.332
+Communes: 3
+
+#### عين الترك (Ain Turk)
+
+Code: DZ010_bouira_ain-turk, Postal: 10033, Coordinates: 35.74, -0.776
+
+#### أيت لعزيز (Ait Laaziz)
+
+Code: DZ010_bouira_ait-laaziz, Postal: 10034, Coordinates: 36.446, 3.881
+
+#### البويرة (Bouira)
+
+Code: DZ010_bouira_bouira, Postal: 10000, Coordinates: 36.375, 3.891
+
+### الهاشمية (El Hachimia)
+
+Code: DZ010_el-hachimia, Coordinates: 36.242, 3.864
+Communes: 2
+
+#### الهاشمية (El Hachimia)
+
+Code: DZ010_el-hachimia_el-hachimia, Postal: 10023, Coordinates: 36.225, 3.816
+
+#### وادي البردي (Oued El Berdi)
+
+Code: DZ010_el-hachimia_oued-el-berdi, Postal: 10075, Coordinates: 36.258, 3.913
+
+### الحيزر (Haizer)
+
+Code: DZ010_haizer, Coordinates: 34.954, 5.298
+Communes: 2
+
+#### حيزر (Haizer)
+
+Code: DZ010_haizer_haizer, Postal: 10024, Coordinates: 36.409, 4.03
+
+#### تاغزوت (Taghzout)
+
+Code: DZ010_haizer_taghzout, Postal: 10055, Coordinates: 33.5, 6.565
+
+### القادرية (Kadiria)
+
+Code: DZ010_kadiria, Coordinates: 36.498, 3.704
+Communes: 3
+
+#### أعمر (Aomar)
+
+Code: DZ010_kadiria_aomar, Postal: 10010, Coordinates: 36.503, 3.771
+
+#### جباحية (Djebahia)
+
+Code: DZ010_kadiria_djebahia, Postal: 10036, Coordinates: 36.463, 3.717
+
+#### قادرية (Kadiria)
+
+Code: DZ010_kadiria_kadiria, Postal: 10006, Coordinates: 36.527, 3.625
+
+### الأخضرية (Lakhdaria)
+
+Code: DZ010_lakhdaria, Coordinates: 36.524, 3.49
+Communes: 6
+
+#### بودربالة (Bouderbala)
+
+Code: DZ010_lakhdaria_bouderbala, Postal: 10016, Coordinates: 36.57, 3.484
+
+#### بوكرم (Boukram)
+
+Code: DZ010_lakhdaria_boukram, Postal: 10054, Coordinates: 36.521, 3.368
+
+#### قرومة (Guerrouma)
+
+Code: DZ010_lakhdaria_guerrouma, Postal: 10037, Coordinates: 36.471, 3.415
+
+#### الأخضرية (Lakhdaria)
+
+Code: DZ010_lakhdaria_lakhdaria, Postal: 10002, Coordinates: 36.564, 3.594
+
+#### معلة (Maala)
+
+Code: DZ010_lakhdaria_maala, Postal: 10039, Coordinates: 36.496, 3.59
+
+#### زبربر (Z&#39;barbar (El Isseri ))
+
+Code: DZ010_lakhdaria_zbarbar-el-isseri, Postal: 10047, Coordinates: 36.524, 3.49
+
+### مشد الله (M&#39;chedallah)
+
+Code: DZ010_mchedallah, Coordinates: 36.171, 3.385
+Communes: 6
+
+#### أغبالو (Aghbalou)
+
+Code: DZ010_mchedallah_aghbalou, Postal: 10007, Coordinates: 36.429, 4.354
+
+#### آث  منصور (Ath Mansour)
+
+Code: DZ010_mchedallah_ath-mansour, Postal: 10011, Coordinates: 36.302, 4.315
+
+#### شرفة (Chorfa)
+
+Code: DZ010_mchedallah_chorfa, Postal: 10019, Coordinates: 35.425, -0.2
+
+#### حنيف (Hanif)
+
+Code: DZ010_mchedallah_hanif, Postal: 10100, Coordinates: 36.266, 4.203
+
+#### أمشدالة (M Chedallah)
+
+Code: DZ010_mchedallah_m-chedallah, Postal: 10003, Coordinates: 36.171, 3.385
+
+#### سحاريج (Saharidj)
+
+Code: DZ010_mchedallah_saharidj, Postal: 10043, Coordinates: 36.433, 4.253
+
+### سوق الخميس (Souk El Khemis)
+
+Code: DZ010_souk-el-khemis, Coordinates: 36.413, 3.622
+Communes: 2
+
+#### المقراني (El-Mokrani)
+
+Code: DZ010_souk-el-khemis_el-mokrani, Postal: 10060, Coordinates: 36.429, 3.607
+
+#### سوق الخميس (Souk El Khemis)
+
+Code: DZ010_souk-el-khemis_souk-el-khemis, Postal: 10044, Coordinates: 36.396, 3.636
+
+### سور الغزلان (Sour El Ghozlane)
+
+Code: DZ010_sour-el-ghozlane, Coordinates: 35.848, 3.133
+Communes: 6
+
+#### الدشمية (Dechmia)
+
+Code: DZ010_sour-el-ghozlane_dechmia, Postal: 10057, Coordinates: 36.139, 3.559
+
+#### ديرة (Dirah)
+
+Code: DZ010_sour-el-ghozlane_dirah, Postal: 10020, Coordinates: 36.004, 3.722
+
+#### الحاكمية (El-Hakimia)
+
+Code: DZ010_sour-el-ghozlane_el-hakimia, Postal: 10058, Coordinates: 36.093, 3.795
+
+#### المعمورة (Maamora)
+
+Code: DZ010_sour-el-ghozlane_maamora, Postal: 10071, Coordinates: 34.606, 0.524
+
+#### ريدان (Ridane)
+
+Code: DZ010_sour-el-ghozlane_ridane, Postal: 10083, Coordinates: 36.072, 3.497
+
+#### سور الغزلان (Sour El Ghozlane)
+
+Code: DZ010_sour-el-ghozlane_sour-el-ghozlane, Postal: 10004, Coordinates: 36.171, 3.702
+

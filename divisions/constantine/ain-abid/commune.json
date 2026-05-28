@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ025_ain-abid_ain-abid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين عبيد",
+      "en": "Ain Abid",
+      "slug": "ain-abid"
+    },
+    "code": {
+      "id": "DZ025_ain-abid_ain-abid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_ain-abid",
+      "level": 2,
+      "name": {
+        "local": "عين عبيد",
+        "en": "Ain Abid",
+        "slug": "ain-abid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_ain-abid",
+        "level": 2,
+        "name": {
+          "local": "عين عبيد",
+          "en": "Ain Abid",
+          "slug": "ain-abid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25015"
+    ],
+    "geo": {
+      "lat": "36.252",
+      "lon": "6.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ025_ain-abid_ben-badis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أبن باديس الهرية",
+      "en": "Ben Badis",
+      "slug": "ben-badis"
+    },
+    "code": {
+      "id": "DZ025_ain-abid_ben-badis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ025_ain-abid",
+      "level": 2,
+      "name": {
+        "local": "عين عبيد",
+        "en": "Ain Abid",
+        "slug": "ain-abid"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ025",
+        "level": 1,
+        "name": {
+          "local": "قسنطينة",
+          "en": "Constantine",
+          "slug": "constantine"
+        }
+      },
+      {
+        "id": "DZ025_ain-abid",
+        "level": 2,
+        "name": {
+          "local": "عين عبيد",
+          "en": "Ain Abid",
+          "slug": "ain-abid"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22004"
+    ],
+    "geo": {
+      "lat": "34.928",
+      "lon": "-0.913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

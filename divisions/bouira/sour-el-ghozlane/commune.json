@@ -1,0 +1,338 @@
+[
+  {
+    "id": "DZ010_sour-el-ghozlane_dechmia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الدشمية",
+      "en": "Dechmia",
+      "slug": "dechmia"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_dechmia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10057"
+    ],
+    "geo": {
+      "lat": "36.139",
+      "lon": "3.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_sour-el-ghozlane_dirah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ديرة",
+      "en": "Dirah",
+      "slug": "dirah"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_dirah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10020"
+    ],
+    "geo": {
+      "lat": "36.004",
+      "lon": "3.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_sour-el-ghozlane_el-hakimia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحاكمية",
+      "en": "El-Hakimia",
+      "slug": "el-hakimia"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_el-hakimia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10058"
+    ],
+    "geo": {
+      "lat": "36.093",
+      "lon": "3.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_sour-el-ghozlane_maamora",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعمورة",
+      "en": "Maamora",
+      "slug": "maamora"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_maamora",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10071"
+    ],
+    "geo": {
+      "lat": "34.606",
+      "lon": "0.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_sour-el-ghozlane_ridane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ريدان",
+      "en": "Ridane",
+      "slug": "ridane"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_ridane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10083"
+    ],
+    "geo": {
+      "lat": "36.072",
+      "lon": "3.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_sour-el-ghozlane_sour-el-ghozlane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سور الغزلان",
+      "en": "Sour El Ghozlane",
+      "slug": "sour-el-ghozlane"
+    },
+    "code": {
+      "id": "DZ010_sour-el-ghozlane_sour-el-ghozlane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_sour-el-ghozlane",
+      "level": 2,
+      "name": {
+        "local": "سور الغزلان",
+        "en": "Sour El Ghozlane",
+        "slug": "sour-el-ghozlane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_sour-el-ghozlane",
+        "level": 2,
+        "name": {
+          "local": "سور الغزلان",
+          "en": "Sour El Ghozlane",
+          "slug": "sour-el-ghozlane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10004"
+    ],
+    "geo": {
+      "lat": "36.171",
+      "lon": "3.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

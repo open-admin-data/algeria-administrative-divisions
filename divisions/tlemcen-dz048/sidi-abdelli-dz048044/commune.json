@@ -1,0 +1,45 @@
+{
+  "id": "DZ048044",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Abdelli",
+    "en": "Sidi Abdelli",
+    "slug": "sidi-abdelli-dz048044"
+  },
+  "code": {
+    "id": "DZ048044",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.048",
+    "lon": "-1.115"
+  },
+  "metadata": {},
+  "source": {}
+}

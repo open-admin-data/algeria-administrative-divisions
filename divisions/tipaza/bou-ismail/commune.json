@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ042_bou-ismail_ain-tagourait",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تاقورايت",
+      "en": "Ain Tagourait",
+      "slug": "ain-tagourait"
+    },
+    "code": {
+      "id": "DZ042_bou-ismail_ain-tagourait",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_bou-ismail",
+      "level": 2,
+      "name": {
+        "local": "بواسماعيل",
+        "en": "Bou Ismail",
+        "slug": "bou-ismail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_bou-ismail",
+        "level": 2,
+        "name": {
+          "local": "بواسماعيل",
+          "en": "Bou Ismail",
+          "slug": "bou-ismail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42023"
+    ],
+    "geo": {
+      "lat": "36.596",
+      "lon": "2.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_bou-ismail_bou-haroun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوهارون",
+      "en": "Bou Haroun",
+      "slug": "bou-haroun"
+    },
+    "code": {
+      "id": "DZ042_bou-ismail_bou-haroun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_bou-ismail",
+      "level": 2,
+      "name": {
+        "local": "بواسماعيل",
+        "en": "Bou Ismail",
+        "slug": "bou-ismail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_bou-ismail",
+        "level": 2,
+        "name": {
+          "local": "بواسماعيل",
+          "en": "Bou Ismail",
+          "slug": "bou-ismail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42009"
+    ],
+    "geo": {
+      "lat": "36.309",
+      "lon": "2.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_bou-ismail_bou-ismail",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بواسماعيل",
+      "en": "Bou Ismail",
+      "slug": "bou-ismail"
+    },
+    "code": {
+      "id": "DZ042_bou-ismail_bou-ismail",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_bou-ismail",
+      "level": 2,
+      "name": {
+        "local": "بواسماعيل",
+        "en": "Bou Ismail",
+        "slug": "bou-ismail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_bou-ismail",
+        "level": 2,
+        "name": {
+          "local": "بواسماعيل",
+          "en": "Bou Ismail",
+          "slug": "bou-ismail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42004"
+    ],
+    "geo": {
+      "lat": "36.644",
+      "lon": "2.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_bou-ismail_khemisti",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خميستي",
+      "en": "Khemisti",
+      "slug": "khemisti"
+    },
+    "code": {
+      "id": "DZ042_bou-ismail_khemisti",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_bou-ismail",
+      "level": 2,
+      "name": {
+        "local": "بواسماعيل",
+        "en": "Bou Ismail",
+        "slug": "bou-ismail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_bou-ismail",
+        "level": 2,
+        "name": {
+          "local": "بواسماعيل",
+          "en": "Bou Ismail",
+          "slug": "bou-ismail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38016"
+    ],
+    "geo": {
+      "lat": "35.688",
+      "lon": "1.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

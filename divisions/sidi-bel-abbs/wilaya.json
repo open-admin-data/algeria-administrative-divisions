@@ -1,0 +1,30 @@
+{
+  "id": "DZ022",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "سيدي بلعباس",
+    "en": "Sidi Bel Abbès",
+    "slug": "sidi-bel-abbs"
+  },
+  "code": {
+    "id": "DZ022",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 15,
+    "commune": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.018",
+    "lon": "-0.59"
+  },
+  "metadata": {},
+  "source": {}
+}

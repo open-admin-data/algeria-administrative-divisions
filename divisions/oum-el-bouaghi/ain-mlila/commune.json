@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ004_ain-mlila_ain-mlila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين مليلة",
+      "en": "Ain M'lila",
+      "slug": "ain-mlila"
+    },
+    "code": {
+      "id": "DZ004_ain-mlila_ain-mlila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-mlila",
+      "level": 2,
+      "name": {
+        "local": "عين مليلة",
+        "en": "Ain M'lila",
+        "slug": "ain-mlila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-mlila",
+        "level": 2,
+        "name": {
+          "local": "عين مليلة",
+          "en": "Ain M'lila",
+          "slug": "ain-mlila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04002"
+    ],
+    "geo": {
+      "lat": "36.028",
+      "lon": "6.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-mlila_ouled-gacem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد قاسم",
+      "en": "Ouled Gacem",
+      "slug": "ouled-gacem"
+    },
+    "code": {
+      "id": "DZ004_ain-mlila_ouled-gacem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-mlila",
+      "level": 2,
+      "name": {
+        "local": "عين مليلة",
+        "en": "Ain M'lila",
+        "slug": "ain-mlila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-mlila",
+        "level": 2,
+        "name": {
+          "local": "عين مليلة",
+          "en": "Ain M'lila",
+          "slug": "ain-mlila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04041"
+    ],
+    "geo": {
+      "lat": "36.038",
+      "lon": "6.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ004_ain-mlila_ouled-hamla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد حملة",
+      "en": "Ouled Hamla",
+      "slug": "ouled-hamla"
+    },
+    "code": {
+      "id": "DZ004_ain-mlila_ouled-hamla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ004_ain-mlila",
+      "level": 2,
+      "name": {
+        "local": "عين مليلة",
+        "en": "Ain M'lila",
+        "slug": "ain-mlila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ004",
+        "level": 1,
+        "name": {
+          "local": "أم البواقي",
+          "en": "Oum El Bouaghi",
+          "slug": "oum-el-bouaghi"
+        }
+      },
+      {
+        "id": "DZ004_ain-mlila",
+        "level": 2,
+        "name": {
+          "local": "عين مليلة",
+          "en": "Ain M'lila",
+          "slug": "ain-mlila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "04019"
+    ],
+    "geo": {
+      "lat": "36.083",
+      "lon": "6.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

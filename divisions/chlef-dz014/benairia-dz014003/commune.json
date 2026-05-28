@@ -1,0 +1,45 @@
+{
+  "id": "DZ014003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Benairia",
+    "en": "Benairia",
+    "slug": "benairia-dz014003"
+  },
+  "code": {
+    "id": "DZ014003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.388",
+    "lon": "1.377"
+  },
+  "metadata": {},
+  "source": {}
+}

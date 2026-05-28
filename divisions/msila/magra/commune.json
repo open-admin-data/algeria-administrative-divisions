@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ028_magra_ain-khadra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الخضراء",
+      "en": "Ain Khadra",
+      "slug": "ain-khadra"
+    },
+    "code": {
+      "id": "DZ028_magra_ain-khadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_magra",
+      "level": 2,
+      "name": {
+        "local": "مقرة",
+        "en": "Magra",
+        "slug": "magra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_magra",
+        "level": 2,
+        "name": {
+          "local": "مقرة",
+          "en": "Magra",
+          "slug": "magra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28008"
+    ],
+    "geo": {
+      "lat": "35.55",
+      "lon": "4.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_magra_belaiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بلعايبة",
+      "en": "Belaiba",
+      "slug": "belaiba"
+    },
+    "code": {
+      "id": "DZ028_magra_belaiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_magra",
+      "level": 2,
+      "name": {
+        "local": "مقرة",
+        "en": "Magra",
+        "slug": "magra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_magra",
+        "level": 2,
+        "name": {
+          "local": "مقرة",
+          "en": "Magra",
+          "slug": "magra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28026"
+    ],
+    "geo": {
+      "lat": "35.572",
+      "lon": "5.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_magra_berhoum",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برهوم",
+      "en": "Berhoum",
+      "slug": "berhoum"
+    },
+    "code": {
+      "id": "DZ028_magra_berhoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_magra",
+      "level": 2,
+      "name": {
+        "local": "مقرة",
+        "en": "Magra",
+        "slug": "magra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_magra",
+        "level": 2,
+        "name": {
+          "local": "مقرة",
+          "en": "Magra",
+          "slug": "magra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28010"
+    ],
+    "geo": {
+      "lat": "35.636",
+      "lon": "4.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_magra_dehahna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دهاهنة",
+      "en": "Dehahna",
+      "slug": "dehahna"
+    },
+    "code": {
+      "id": "DZ028_magra_dehahna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_magra",
+      "level": 2,
+      "name": {
+        "local": "مقرة",
+        "en": "Magra",
+        "slug": "magra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_magra",
+        "level": 2,
+        "name": {
+          "local": "مقرة",
+          "en": "Magra",
+          "slug": "magra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28048"
+    ],
+    "geo": {
+      "lat": "35.734",
+      "lon": "5.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ028_magra_magra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مقرة",
+      "en": "Magra",
+      "slug": "magra"
+    },
+    "code": {
+      "id": "DZ028_magra_magra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ028_magra",
+      "level": 2,
+      "name": {
+        "local": "مقرة",
+        "en": "Magra",
+        "slug": "magra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ028",
+        "level": 1,
+        "name": {
+          "local": "المسيلة",
+          "en": "M'Sila",
+          "slug": "msila"
+        }
+      },
+      {
+        "id": "DZ028_magra",
+        "level": 2,
+        "name": {
+          "local": "مقرة",
+          "en": "Magra",
+          "slug": "magra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28006"
+    ],
+    "geo": {
+      "lat": "35.613",
+      "lon": "5.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ023019",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oudjana",
+    "en": "Oudjana",
+    "slug": "oudjana-dz023019"
+  },
+  "code": {
+    "id": "DZ023019",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.678",
+    "lon": "5.887"
+  },
+  "metadata": {},
+  "source": {}
+}

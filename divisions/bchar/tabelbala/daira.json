@@ -1,0 +1,47 @@
+{
+  "id": "DZ008_tabelbala",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تبلبالة",
+    "en": "Tabelbala",
+    "slug": "tabelbala"
+  },
+  "code": {
+    "id": "DZ008_tabelbala",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Béchar",
+      "slug": "bchar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Béchar",
+        "slug": "bchar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.961",
+    "lon": "-3.42"
+  },
+  "metadata": {},
+  "source": {}
+}

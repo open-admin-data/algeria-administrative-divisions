@@ -1,0 +1,942 @@
+[
+  {
+    "id": "DZ013_ain-tellout",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين تالوت",
+      "en": "Ain Tellout",
+      "slug": "ain-tellout"
+    },
+    "code": {
+      "id": "DZ013_ain-tellout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.035",
+      "lon": "-0.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_bab-el-assa",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "باب العسة",
+      "en": "Bab El Assa",
+      "slug": "bab-el-assa"
+    },
+    "code": {
+      "id": "DZ013_bab-el-assa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.954",
+      "lon": "-1.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_beni-boussaid",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني بوسعيد",
+      "en": "Beni Boussaid",
+      "slug": "beni-boussaid"
+    },
+    "code": {
+      "id": "DZ013_beni-boussaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.697",
+      "lon": "-1.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_beni-snous",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بني سنوس",
+      "en": "Beni Snous",
+      "slug": "beni-snous"
+    },
+    "code": {
+      "id": "DZ013_beni-snous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.671",
+      "lon": "-1.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_bensekrane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بن سكران",
+      "en": "Bensekrane",
+      "slug": "bensekrane"
+    },
+    "code": {
+      "id": "DZ013_bensekrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.081",
+      "lon": "-1.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_chetouane",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "شتوان",
+      "en": "Chetouane",
+      "slug": "chetouane"
+    },
+    "code": {
+      "id": "DZ013_chetouane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.944",
+      "lon": "-1.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_fellaoucene",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "فلاوسن",
+      "en": "Fellaoucene",
+      "slug": "fellaoucene"
+    },
+    "code": {
+      "id": "DZ013_fellaoucene",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.007",
+      "lon": "-1.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ghazaouet",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الغزوات",
+      "en": "Ghazaouet",
+      "slug": "ghazaouet"
+    },
+    "code": {
+      "id": "DZ013_ghazaouet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.058",
+      "lon": "-1.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_hennaya",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحناية",
+      "en": "Hennaya",
+      "slug": "hennaya"
+    },
+    "code": {
+      "id": "DZ013_hennaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.993",
+      "lon": "-1.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_honnaine",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "هنين",
+      "en": "Honnaine",
+      "slug": "honnaine"
+    },
+    "code": {
+      "id": "DZ013_honnaine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.184",
+      "lon": "-1.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_maghnia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مغنية",
+      "en": "Maghnia",
+      "slug": "maghnia"
+    },
+    "code": {
+      "id": "DZ013_maghnia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.882",
+      "lon": "-1.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_mansourah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "منصورة",
+      "en": "Mansourah",
+      "slug": "mansourah"
+    },
+    "code": {
+      "id": "DZ013_mansourah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.835",
+      "lon": "-1.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_marsa-ben-mehdi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "مرسى بن مهيدي",
+      "en": "Marsa Ben Mehdi",
+      "slug": "marsa-ben-mehdi"
+    },
+    "code": {
+      "id": "DZ013_marsa-ben-mehdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.023",
+      "lon": "-2.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_nedroma",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "ندرومة",
+      "en": "Nedroma",
+      "slug": "nedroma"
+    },
+    "code": {
+      "id": "DZ013_nedroma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.005",
+      "lon": "-1.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ouled-mimoun",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد ميمون",
+      "en": "Ouled Mimoun",
+      "slug": "ouled-mimoun"
+    },
+    "code": {
+      "id": "DZ013_ouled-mimoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.901",
+      "lon": "-1.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_remchi",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرمشي",
+      "en": "Remchi",
+      "slug": "remchi"
+    },
+    "code": {
+      "id": "DZ013_remchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.106",
+      "lon": "-1.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sabra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "صبرة",
+      "en": "Sabra",
+      "slug": "sabra"
+    },
+    "code": {
+      "id": "DZ013_sabra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.831",
+      "lon": "-1.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sebdou",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سبدو",
+      "en": "Sebdou",
+      "slug": "sebdou"
+    },
+    "code": {
+      "id": "DZ013_sebdou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.53",
+      "lon": "-1.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_sidi-djillali",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي الجيلالي",
+      "en": "Sidi Djillali",
+      "slug": "sidi-djillali"
+    },
+    "code": {
+      "id": "DZ013_sidi-djillali",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.421",
+      "lon": "-1.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_tlemcen",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    },
+    "code": {
+      "id": "DZ013_tlemcen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.898",
+      "lon": "-1.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

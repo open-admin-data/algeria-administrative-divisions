@@ -1,0 +1,45 @@
+{
+  "id": "DZ026010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Chorfa",
+    "en": "Chorfa",
+    "slug": "chorfa-dz026010"
+  },
+  "code": {
+    "id": "DZ026010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.425",
+    "lon": "-0.2"
+  },
+  "metadata": {},
+  "source": {}
+}

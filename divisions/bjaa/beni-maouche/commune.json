@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ006_beni-maouche_benimaouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني معوش",
+      "en": "Benimaouche",
+      "slug": "benimaouche"
+    },
+    "code": {
+      "id": "DZ006_beni-maouche_benimaouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_beni-maouche",
+      "level": 2,
+      "name": {
+        "local": "بني معوش",
+        "en": "Beni Maouche",
+        "slug": "beni-maouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_beni-maouche",
+        "level": 2,
+        "name": {
+          "local": "بني معوش",
+          "en": "Beni Maouche",
+          "slug": "beni-maouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06024"
+    ],
+    "geo": {
+      "lat": "36.575",
+      "lon": "4.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

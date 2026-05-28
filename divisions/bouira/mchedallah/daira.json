@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_mchedallah",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مشد الله",
+    "en": "M'chedallah",
+    "slug": "mchedallah"
+  },
+  "code": {
+    "id": "DZ010_mchedallah",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.171",
+    "lon": "3.385"
+  },
+  "metadata": {},
+  "source": {}
+}

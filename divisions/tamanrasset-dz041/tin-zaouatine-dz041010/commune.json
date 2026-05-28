@@ -1,0 +1,45 @@
+{
+  "id": "DZ041010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tin Zaouatine",
+    "en": "Tin Zaouatine",
+    "slug": "tin-zaouatine-dz041010"
+  },
+  "code": {
+    "id": "DZ041010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ041",
+    "level": 1,
+    "name": {
+      "local": "تمنراست",
+      "en": "Tamanrasset",
+      "slug": "tamanrasset-dz041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ041",
+      "level": 1,
+      "name": {
+        "local": "تمنراست",
+        "en": "Tamanrasset",
+        "slug": "tamanrasset-dz041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.439",
+    "lon": "3.163"
+  },
+  "metadata": {},
+  "source": {}
+}

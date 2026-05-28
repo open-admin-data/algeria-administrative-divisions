@@ -1,0 +1,30 @@
+{
+  "id": "DZ038",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "تيسمسيلت",
+    "en": "Tissemsilt",
+    "slug": "tissemsilt"
+  },
+  "code": {
+    "id": "DZ038",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 8,
+    "commune": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.788",
+    "lon": "1.833"
+  },
+  "metadata": {},
+  "source": {}
+}

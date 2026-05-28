@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ040_kais_kais",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قايس",
+      "en": "Kais",
+      "slug": "kais"
+    },
+    "code": {
+      "id": "DZ040_kais_kais",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_kais",
+      "level": 2,
+      "name": {
+        "local": "قايس",
+        "en": "Kais",
+        "slug": "kais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_kais",
+        "level": 2,
+        "name": {
+          "local": "قايس",
+          "en": "Kais",
+          "slug": "kais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40001"
+    ],
+    "geo": {
+      "lat": "35.507",
+      "lon": "6.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_kais_remila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرميلة",
+      "en": "Remila",
+      "slug": "remila"
+    },
+    "code": {
+      "id": "DZ040_kais_remila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_kais",
+      "level": 2,
+      "name": {
+        "local": "قايس",
+        "en": "Kais",
+        "slug": "kais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_kais",
+        "level": 2,
+        "name": {
+          "local": "قايس",
+          "en": "Kais",
+          "slug": "kais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40041"
+    ],
+    "geo": {
+      "lat": "35.589",
+      "lon": "6.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_kais_taouzianat",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاوزيانت",
+      "en": "Taouzianat",
+      "slug": "taouzianat"
+    },
+    "code": {
+      "id": "DZ040_kais_taouzianat",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_kais",
+      "level": 2,
+      "name": {
+        "local": "قايس",
+        "en": "Kais",
+        "slug": "kais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_kais",
+        "level": 2,
+        "name": {
+          "local": "قايس",
+          "en": "Kais",
+          "slug": "kais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40011"
+    ],
+    "geo": {
+      "lat": "35.439",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

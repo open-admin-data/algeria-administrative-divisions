@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_ouamri_hannacha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حناشة",
+      "en": "Hannacha",
+      "slug": "hannacha"
+    },
+    "code": {
+      "id": "DZ026_ouamri_hannacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouamri",
+      "level": 2,
+      "name": {
+        "local": "عوامري",
+        "en": "Ouamri",
+        "slug": "ouamri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouamri",
+        "level": 2,
+        "name": {
+          "local": "عوامري",
+          "en": "Ouamri",
+          "slug": "ouamri"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26027"
+    ],
+    "geo": {
+      "lat": "36.173",
+      "lon": "2.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouamri_ouamri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عوامري",
+      "en": "Ouamri",
+      "slug": "ouamri"
+    },
+    "code": {
+      "id": "DZ026_ouamri_ouamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouamri",
+      "level": 2,
+      "name": {
+        "local": "عوامري",
+        "en": "Ouamri",
+        "slug": "ouamri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouamri",
+        "level": 2,
+        "name": {
+          "local": "عوامري",
+          "en": "Ouamri",
+          "slug": "ouamri"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26034"
+    ],
+    "geo": {
+      "lat": "36.257",
+      "lon": "2.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouamri_oued-harbil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي حربيل",
+      "en": "Oued Harbil",
+      "slug": "oued-harbil"
+    },
+    "code": {
+      "id": "DZ026_ouamri_oued-harbil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouamri",
+      "level": 2,
+      "name": {
+        "local": "عوامري",
+        "en": "Ouamri",
+        "slug": "ouamri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouamri",
+        "level": 2,
+        "name": {
+          "local": "عوامري",
+          "en": "Ouamri",
+          "slug": "ouamri"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26061"
+    ],
+    "geo": {
+      "lat": "36.244",
+      "lon": "2.641"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

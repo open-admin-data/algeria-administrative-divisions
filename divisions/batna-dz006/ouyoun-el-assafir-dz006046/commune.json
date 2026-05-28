@@ -1,0 +1,45 @@
+{
+  "id": "DZ006046",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouyoun El Assafir",
+    "en": "Ouyoun El Assafir",
+    "slug": "ouyoun-el-assafir-dz006046"
+  },
+  "code": {
+    "id": "DZ006046",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.55",
+    "lon": "6.354"
+  },
+  "metadata": {},
+  "source": {}
+}

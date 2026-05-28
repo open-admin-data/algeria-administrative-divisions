@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ007_ourlal_lioua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ليوة",
+      "en": "Lioua",
+      "slug": "lioua"
+    },
+    "code": {
+      "id": "DZ007_ourlal_lioua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_ourlal",
+      "level": 2,
+      "name": {
+        "local": "أورلال",
+        "en": "Ourlal",
+        "slug": "ourlal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_ourlal",
+        "level": 2,
+        "name": {
+          "local": "أورلال",
+          "en": "Ourlal",
+          "slug": "ourlal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07033"
+    ],
+    "geo": {
+      "lat": "34.564",
+      "lon": "5.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_ourlal_mlili",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مليلي",
+      "en": "M'lili",
+      "slug": "mlili"
+    },
+    "code": {
+      "id": "DZ007_ourlal_mlili",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_ourlal",
+      "level": 2,
+      "name": {
+        "local": "أورلال",
+        "en": "Ourlal",
+        "slug": "ourlal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_ourlal",
+        "level": 2,
+        "name": {
+          "local": "أورلال",
+          "en": "Ourlal",
+          "slug": "ourlal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07068"
+    ],
+    "geo": {
+      "lat": "34.57",
+      "lon": "5.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_ourlal_mekhadma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مخادمة",
+      "en": "Mekhadma",
+      "slug": "mekhadma"
+    },
+    "code": {
+      "id": "DZ007_ourlal_mekhadma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_ourlal",
+      "level": 2,
+      "name": {
+        "local": "أورلال",
+        "en": "Ourlal",
+        "slug": "ourlal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_ourlal",
+        "level": 2,
+        "name": {
+          "local": "أورلال",
+          "en": "Ourlal",
+          "slug": "ourlal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07034"
+    ],
+    "geo": {
+      "lat": "34.559",
+      "lon": "5.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_ourlal_oumache",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أوماش",
+      "en": "Oumache",
+      "slug": "oumache"
+    },
+    "code": {
+      "id": "DZ007_ourlal_oumache",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_ourlal",
+      "level": 2,
+      "name": {
+        "local": "أورلال",
+        "en": "Ourlal",
+        "slug": "ourlal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_ourlal",
+        "level": 2,
+        "name": {
+          "local": "أورلال",
+          "en": "Ourlal",
+          "slug": "ourlal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07035"
+    ],
+    "geo": {
+      "lat": "34.587",
+      "lon": "5.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_ourlal_ourlal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أورلال",
+      "en": "Ourlal",
+      "slug": "ourlal"
+    },
+    "code": {
+      "id": "DZ007_ourlal_ourlal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_ourlal",
+      "level": 2,
+      "name": {
+        "local": "أورلال",
+        "en": "Ourlal",
+        "slug": "ourlal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_ourlal",
+        "level": 2,
+        "name": {
+          "local": "أورلال",
+          "en": "Ourlal",
+          "slug": "ourlal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07011"
+    ],
+    "geo": {
+      "lat": "34.57",
+      "lon": "5.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "DZ021_ben-azzouz",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بن عزوز",
+    "en": "Ben Azzouz",
+    "slug": "ben-azzouz"
+  },
+  "code": {
+    "id": "DZ021_ben-azzouz",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.867",
+    "lon": "7.305"
+  },
+  "metadata": {},
+  "source": {}
+}

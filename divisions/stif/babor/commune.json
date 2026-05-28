@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_babor_babor",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بابور",
+      "en": "Babor",
+      "slug": "babor"
+    },
+    "code": {
+      "id": "DZ019_babor_babor",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_babor",
+      "level": 2,
+      "name": {
+        "local": "بابور",
+        "en": "Babor",
+        "slug": "babor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_babor",
+        "level": 2,
+        "name": {
+          "local": "بابور",
+          "en": "Babor",
+          "slug": "babor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19020"
+    ],
+    "geo": {
+      "lat": "36.504",
+      "lon": "5.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_babor_serdj-el-ghoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سرج الغول",
+      "en": "Serdj-El-Ghoul",
+      "slug": "serdj-el-ghoul"
+    },
+    "code": {
+      "id": "DZ019_babor_serdj-el-ghoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_babor",
+      "level": 2,
+      "name": {
+        "local": "بابور",
+        "en": "Babor",
+        "slug": "babor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_babor",
+        "level": 2,
+        "name": {
+          "local": "بابور",
+          "en": "Babor",
+          "slug": "babor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19086"
+    ],
+    "geo": {
+      "lat": "36.478",
+      "lon": "5.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

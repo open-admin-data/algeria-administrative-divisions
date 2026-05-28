@@ -1,0 +1,45 @@
+{
+  "id": "DZ048024",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Bouihi",
+    "en": "El Bouihi",
+    "slug": "el-bouihi-dz048024"
+  },
+  "code": {
+    "id": "DZ048024",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.309",
+    "lon": "-1.607"
+  },
+  "metadata": {},
+  "source": {}
+}

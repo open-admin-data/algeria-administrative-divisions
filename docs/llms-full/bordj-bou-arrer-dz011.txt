@@ -1,0 +1,179 @@
+# Bordj Bou Arrer — Algeria Administrative Divisions
+
+> 34 communes
+> Code: DZ011
+> Coordinates: 36.098, 4.663
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Taghrout
+
+Code: DZ011001, Coordinates: 36.149, 5.111
+
+
+### Ain Tassera
+
+Code: DZ011002, Coordinates: 36.023, 4.973
+
+
+### Belimour
+
+Code: DZ011003, Coordinates: 35.984, 4.884
+
+
+### Bendaoud
+
+Code: DZ011004, Coordinates: 36.056, 4.174
+
+
+### Bir Kasdali
+
+Code: DZ011005, Coordinates: 36.137, 5.009
+
+
+### Bordj Bou Arreridj
+
+Code: DZ011006, Coordinates: 36.071, 4.746
+
+
+### Bordj Ghdir
+
+Code: DZ011007, Coordinates: 35.897, 4.913
+
+
+### Bordj Zemoura
+
+Code: DZ011008, Coordinates: 36.252, 4.888
+
+
+### Colla
+
+Code: DZ011009, Coordinates: 36.25, 4.666
+
+
+### Djaafra
+
+Code: DZ011010, Coordinates: 36.293, 4.628
+
+
+### El Achir
+
+Code: DZ011011, Coordinates: 36.07, 4.634
+
+
+### El Anseur
+
+Code: DZ011012, Coordinates: 36.039, 4.839
+
+
+### El Euch
+
+Code: DZ011013, Coordinates: 35.9, 4.598
+
+
+### El Hammadia
+
+Code: DZ011014, Coordinates: 35.977, 4.769
+
+
+### El M&#39;Hir
+
+Code: DZ011016, Coordinates: 36.096, 4.301
+
+
+### El Main
+
+Code: DZ011015, Coordinates: 36.385, 4.745
+
+
+### Ghilassa
+
+Code: DZ011017, Coordinates: 35.851, 4.907
+
+
+### Haraza
+
+Code: DZ011018, Coordinates: 36.165, 4.241
+
+
+### Hasnaoua
+
+Code: DZ011019, Coordinates: 36.164, 4.828
+
+
+### Khelil
+
+Code: DZ011020, Coordinates: 36.238, 5.017
+
+
+### Ksour
+
+Code: DZ011021, Coordinates: 35.99, 4.567
+
+
+### Mansoura
+
+Code: DZ011022, Coordinates: 36.103, 4.473
+
+
+### Medjana
+
+Code: DZ011023, Coordinates: 36.151, 4.657
+
+
+### Ouled Brahem
+
+Code: DZ011024, Coordinates: 35.9, 5.08
+
+
+### Ouled Dahmane
+
+Code: DZ011025, Coordinates: 36.234, 4.777
+
+
+### Ouled Sidi Brahim
+
+Code: DZ011026, Coordinates: 36.238, 4.327
+
+
+### Rabta
+
+Code: DZ011027, Coordinates: 35.913, 4.784
+
+
+### Ras El Oued
+
+Code: DZ011028, Coordinates: 35.937, 5.026
+
+
+### Sidi Embarek
+
+Code: DZ011029, Coordinates: 36.122, 4.906
+
+
+### Tafreg
+
+Code: DZ011030, Coordinates: 36.305, 4.718
+
+
+### Taglait
+
+Code: DZ011031, Coordinates: 35.809, 4.996
+
+
+### Tesmart
+
+Code: DZ011032, Coordinates: 36.277, 4.8
+
+
+### Theniet El Anseur
+
+Code: DZ011033, Coordinates: 36.208, 4.499
+
+
+### Tixter
+
+Code: DZ011034, Coordinates: 36.034, 5.113
+
+

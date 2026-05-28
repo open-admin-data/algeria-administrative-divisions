@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ032_brezina_brezina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريزينة",
+      "en": "Brezina",
+      "slug": "brezina"
+    },
+    "code": {
+      "id": "DZ032_brezina_brezina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_brezina",
+      "level": 2,
+      "name": {
+        "local": "بريزينة",
+        "en": "Brezina",
+        "slug": "brezina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_brezina",
+        "level": 2,
+        "name": {
+          "local": "بريزينة",
+          "en": "Brezina",
+          "slug": "brezina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32002"
+    ],
+    "geo": {
+      "lat": "32.536",
+      "lon": "1.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_brezina_ghassoul",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغاسول",
+      "en": "Ghassoul",
+      "slug": "ghassoul"
+    },
+    "code": {
+      "id": "DZ032_brezina_ghassoul",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_brezina",
+      "level": 2,
+      "name": {
+        "local": "بريزينة",
+        "en": "Brezina",
+        "slug": "brezina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_brezina",
+        "level": 2,
+        "name": {
+          "local": "بريزينة",
+          "en": "Brezina",
+          "slug": "brezina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32017"
+    ],
+    "geo": {
+      "lat": "33.496",
+      "lon": "1.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ032_brezina_krakda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "كراكدة",
+      "en": "Krakda",
+      "slug": "krakda"
+    },
+    "code": {
+      "id": "DZ032_brezina_krakda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ032_brezina",
+      "level": 2,
+      "name": {
+        "local": "بريزينة",
+        "en": "Brezina",
+        "slug": "brezina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ032",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh"
+        }
+      },
+      {
+        "id": "DZ032_brezina",
+        "level": 2,
+        "name": {
+          "local": "بريزينة",
+          "en": "Brezina",
+          "slug": "brezina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32027"
+    ],
+    "geo": {
+      "lat": "33.367",
+      "lon": "1.035"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

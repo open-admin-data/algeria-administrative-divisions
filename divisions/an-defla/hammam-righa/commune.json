@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_hammam-righa_ain-benian",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين البنيان",
+      "en": "Ain-Benian",
+      "slug": "ain-benian"
+    },
+    "code": {
+      "id": "DZ044_hammam-righa_ain-benian",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_hammam-righa",
+      "level": 2,
+      "name": {
+        "local": "حمام ريغة",
+        "en": "Hammam Righa",
+        "slug": "hammam-righa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_hammam-righa",
+        "level": 2,
+        "name": {
+          "local": "حمام ريغة",
+          "en": "Hammam Righa",
+          "slug": "hammam-righa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44035"
+    ],
+    "geo": {
+      "lat": "36.796",
+      "lon": "2.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_hammam-righa_ain-torki",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين التركي",
+      "en": "Ain-Torki",
+      "slug": "ain-torki"
+    },
+    "code": {
+      "id": "DZ044_hammam-righa_ain-torki",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_hammam-righa",
+      "level": 2,
+      "name": {
+        "local": "حمام ريغة",
+        "en": "Hammam Righa",
+        "slug": "hammam-righa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_hammam-righa",
+        "level": 2,
+        "name": {
+          "local": "حمام ريغة",
+          "en": "Hammam Righa",
+          "slug": "hammam-righa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44020"
+    ],
+    "geo": {
+      "lat": "36.346",
+      "lon": "2.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_hammam-righa_hammam-righa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام ريغة",
+      "en": "Hammam-Righa",
+      "slug": "hammam-righa"
+    },
+    "code": {
+      "id": "DZ044_hammam-righa_hammam-righa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_hammam-righa",
+      "level": 2,
+      "name": {
+        "local": "حمام ريغة",
+        "en": "Hammam Righa",
+        "slug": "hammam-righa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_hammam-righa",
+        "level": 2,
+        "name": {
+          "local": "حمام ريغة",
+          "en": "Hammam Righa",
+          "slug": "hammam-righa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44023"
+    ],
+    "geo": {
+      "lat": "36.397",
+      "lon": "2.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

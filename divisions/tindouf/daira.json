@@ -1,0 +1,49 @@
+[
+  {
+    "id": "DZ037_tindouf",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تندوف",
+      "en": "Tindouf",
+      "slug": "tindouf"
+    },
+    "code": {
+      "id": "DZ037_tindouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "تندوف",
+        "en": "Tindouf",
+        "slug": "tindouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "تندوف",
+          "en": "Tindouf",
+          "slug": "tindouf"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.598",
+      "lon": "-6.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

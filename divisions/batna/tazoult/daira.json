@@ -1,0 +1,47 @@
+{
+  "id": "DZ005_tazoult",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تازولت",
+    "en": "Tazoult",
+    "slug": "tazoult"
+  },
+  "code": {
+    "id": "DZ005_tazoult",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ005",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ005",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.51",
+    "lon": "6.307"
+  },
+  "metadata": {},
+  "source": {}
+}

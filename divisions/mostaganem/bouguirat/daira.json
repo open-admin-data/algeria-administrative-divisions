@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_bouguirat",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوقيراط",
+    "en": "Bouguirat",
+    "slug": "bouguirat"
+  },
+  "code": {
+    "id": "DZ027_bouguirat",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.807",
+    "lon": "0.284"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ027007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Slimane",
+    "en": "Beni Slimane",
+    "slug": "beni-slimane-dz027007"
+  },
+  "code": {
+    "id": "DZ027007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.221",
+    "lon": "3.299"
+  },
+  "metadata": {},
+  "source": {}
+}

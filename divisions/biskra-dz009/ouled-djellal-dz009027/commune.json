@@ -1,0 +1,45 @@
+{
+  "id": "DZ009027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Djellal",
+    "en": "Ouled Djellal",
+    "slug": "ouled-djellal-dz009027"
+  },
+  "code": {
+    "id": "DZ009027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.425",
+    "lon": "5.101"
+  },
+  "metadata": {},
+  "source": {}
+}

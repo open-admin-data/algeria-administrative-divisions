@@ -1,0 +1,45 @@
+{
+  "id": "DZ025021",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Makhlouf",
+    "en": "Sidi Makhlouf",
+    "slug": "sidi-makhlouf-dz025021"
+  },
+  "code": {
+    "id": "DZ025021",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.071",
+    "lon": "2.862"
+  },
+  "metadata": {},
+  "source": {}
+}

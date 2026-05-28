@@ -1,0 +1,45 @@
+{
+  "id": "DZ001003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Aougrout",
+    "en": "Aougrout",
+    "slug": "aougrout-dz001003"
+  },
+  "code": {
+    "id": "DZ001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.937",
+    "lon": "1.141"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ046020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Theniet El Had",
+    "en": "Theniet El Had",
+    "slug": "theniet-el-had-dz046020"
+  },
+  "code": {
+    "id": "DZ046020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.85",
+    "lon": "2.056"
+  },
+  "metadata": {},
+  "source": {}
+}

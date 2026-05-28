@@ -1,0 +1,45 @@
+{
+  "id": "DZ048016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Semiel",
+    "en": "Beni Semiel",
+    "slug": "beni-semiel-dz048016"
+  },
+  "code": {
+    "id": "DZ048016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ048",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen-dz048"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ048",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen-dz048"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.789",
+    "lon": "-1.094"
+  },
+  "metadata": {},
+  "source": {}
+}

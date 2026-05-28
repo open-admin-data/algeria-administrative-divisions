@@ -1,0 +1,45 @@
+{
+  "id": "DZ020010",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hassi Lefhal",
+    "en": "Hassi Lefhal",
+    "slug": "hassi-lefhal-dz020010"
+  },
+  "code": {
+    "id": "DZ020010",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ020",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaia",
+      "slug": "ghardaia-dz020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ020",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaia",
+        "slug": "ghardaia-dz020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.758",
+    "lon": "3.39"
+  },
+  "metadata": {},
+  "source": {}
+}

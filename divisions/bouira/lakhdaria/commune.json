@@ -1,0 +1,338 @@
+[
+  {
+    "id": "DZ010_lakhdaria_bouderbala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بودربالة",
+      "en": "Bouderbala",
+      "slug": "bouderbala"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_bouderbala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10016"
+    ],
+    "geo": {
+      "lat": "36.57",
+      "lon": "3.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_lakhdaria_boukram",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوكرم",
+      "en": "Boukram",
+      "slug": "boukram"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_boukram",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10054"
+    ],
+    "geo": {
+      "lat": "36.521",
+      "lon": "3.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_lakhdaria_guerrouma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قرومة",
+      "en": "Guerrouma",
+      "slug": "guerrouma"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_guerrouma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10037"
+    ],
+    "geo": {
+      "lat": "36.471",
+      "lon": "3.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_lakhdaria_lakhdaria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الأخضرية",
+      "en": "Lakhdaria",
+      "slug": "lakhdaria"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_lakhdaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10002"
+    ],
+    "geo": {
+      "lat": "36.564",
+      "lon": "3.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_lakhdaria_maala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معلة",
+      "en": "Maala",
+      "slug": "maala"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_maala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10039"
+    ],
+    "geo": {
+      "lat": "36.496",
+      "lon": "3.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_lakhdaria_zbarbar-el-isseri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "زبربر",
+      "en": "Z'barbar (El Isseri )",
+      "slug": "zbarbar-el-isseri"
+    },
+    "code": {
+      "id": "DZ010_lakhdaria_zbarbar-el-isseri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_lakhdaria",
+      "level": 2,
+      "name": {
+        "local": "الأخضرية",
+        "en": "Lakhdaria",
+        "slug": "lakhdaria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_lakhdaria",
+        "level": 2,
+        "name": {
+          "local": "الأخضرية",
+          "en": "Lakhdaria",
+          "slug": "lakhdaria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10047"
+    ],
+    "geo": {
+      "lat": "36.524",
+      "lon": "3.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

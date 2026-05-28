@@ -1,0 +1,45 @@
+{
+  "id": "DZ023008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djemaa Beni Habibi",
+    "en": "Djemaa Beni Habibi",
+    "slug": "djemaa-beni-habibi-dz023008"
+  },
+  "code": {
+    "id": "DZ023008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ023",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel-dz023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ023",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel-dz023"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.804",
+    "lon": "6.097"
+  },
+  "metadata": {},
+  "source": {}
+}

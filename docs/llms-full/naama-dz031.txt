@@ -1,0 +1,69 @@
+# Naama — Algeria Administrative Divisions
+
+> 12 communes
+> Code: DZ031
+> Coordinates: 33.238, -0.82
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Communes
+
+### Ain Ben Khelil
+
+Code: DZ031001, Coordinates: 33.164, -0.95
+
+
+### Ain Sefra
+
+Code: DZ031002, Coordinates: 32.789, -0.622
+
+
+### Asla
+
+Code: DZ031003, Coordinates: 32.728, -0.169
+
+
+### Djenien Bourezg
+
+Code: DZ031004, Coordinates: 32.358, -0.94
+
+
+### El Biod
+
+Code: DZ031005, Coordinates: 33.914, -0.151
+
+
+### Kasdir
+
+Code: DZ031006, Coordinates: 33.642, -1.393
+
+
+### Mechria
+
+Code: DZ031007, Coordinates: 33.49, -0.169
+
+
+### Mekmen Ben Amar
+
+Code: DZ031008, Coordinates: 33.844, -0.774
+
+
+### Moghrar
+
+Code: DZ031009, Coordinates: 32.441, -0.548
+
+
+### Naama
+
+Code: DZ031010, Coordinates: 33.291, -0.302
+
+
+### Sfissifa
+
+Code: DZ031011, Coordinates: 32.792, -1.024
+
+
+### Tiout
+
+Code: DZ031012, Coordinates: 32.852, -0.388
+
+

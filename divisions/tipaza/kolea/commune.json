@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ042_kolea_attatba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحطاطبة",
+      "en": "Attatba",
+      "slug": "attatba"
+    },
+    "code": {
+      "id": "DZ042_kolea_attatba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_kolea",
+      "level": 2,
+      "name": {
+        "local": "القليعة",
+        "en": "Kolea",
+        "slug": "kolea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_kolea",
+        "level": 2,
+        "name": {
+          "local": "القليعة",
+          "en": "Kolea",
+          "slug": "kolea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42008"
+    ],
+    "geo": {
+      "lat": "36.621",
+      "lon": "2.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_kolea_chaiba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشعيبة",
+      "en": "Chaiba",
+      "slug": "chaiba"
+    },
+    "code": {
+      "id": "DZ042_kolea_chaiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_kolea",
+      "level": 2,
+      "name": {
+        "local": "القليعة",
+        "en": "Kolea",
+        "slug": "kolea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_kolea",
+        "level": 2,
+        "name": {
+          "local": "القليعة",
+          "en": "Kolea",
+          "slug": "kolea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42047"
+    ],
+    "geo": {
+      "lat": "36.613",
+      "lon": "2.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_kolea_kolea",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القليعة",
+      "en": "Kolea",
+      "slug": "kolea"
+    },
+    "code": {
+      "id": "DZ042_kolea_kolea",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_kolea",
+      "level": 2,
+      "name": {
+        "local": "القليعة",
+        "en": "Kolea",
+        "slug": "kolea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_kolea",
+        "level": 2,
+        "name": {
+          "local": "القليعة",
+          "en": "Kolea",
+          "slug": "kolea"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42003"
+    ],
+    "geo": {
+      "lat": "36.629",
+      "lon": "2.788"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

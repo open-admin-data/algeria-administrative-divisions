@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ023_chetaibi_chetaibi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شطايبي",
+      "en": "Chetaibi",
+      "slug": "chetaibi"
+    },
+    "code": {
+      "id": "DZ023_chetaibi_chetaibi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_chetaibi",
+      "level": 2,
+      "name": {
+        "local": "شطايبي",
+        "en": "Chetaibi",
+        "slug": "chetaibi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_chetaibi",
+        "level": 2,
+        "name": {
+          "local": "شطايبي",
+          "en": "Chetaibi",
+          "slug": "chetaibi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23014"
+    ],
+    "geo": {
+      "lat": "37.012",
+      "lon": "7.405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

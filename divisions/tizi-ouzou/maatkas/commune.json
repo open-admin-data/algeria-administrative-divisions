@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ015_maatkas_maatkas",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معـــاتقة",
+      "en": "Maatkas",
+      "slug": "maatkas"
+    },
+    "code": {
+      "id": "DZ015_maatkas_maatkas",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_maatkas",
+      "level": 2,
+      "name": {
+        "local": "معاتقة",
+        "en": "Maatkas",
+        "slug": "maatkas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_maatkas",
+        "level": 2,
+        "name": {
+          "local": "معاتقة",
+          "en": "Maatkas",
+          "slug": "maatkas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15017"
+    ],
+    "geo": {
+      "lat": "36.605",
+      "lon": "4.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_maatkas_souk-el-tenine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق الإثنين",
+      "en": "Souk-El-Tenine",
+      "slug": "souk-el-tenine"
+    },
+    "code": {
+      "id": "DZ015_maatkas_souk-el-tenine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_maatkas",
+      "level": 2,
+      "name": {
+        "local": "معاتقة",
+        "en": "Maatkas",
+        "slug": "maatkas"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_maatkas",
+        "level": 2,
+        "name": {
+          "local": "معاتقة",
+          "en": "Maatkas",
+          "slug": "maatkas"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15123"
+    ],
+    "geo": {
+      "lat": "36.605",
+      "lon": "4.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ014002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Merane",
+    "en": "Ain Merane",
+    "slug": "ain-merane-dz014002"
+  },
+  "code": {
+    "id": "DZ014002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "الشلف",
+      "en": "Chlef",
+      "slug": "chlef-dz014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "الشلف",
+        "en": "Chlef",
+        "slug": "chlef-dz014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.179",
+    "lon": "0.973"
+  },
+  "metadata": {},
+  "source": {}
+}

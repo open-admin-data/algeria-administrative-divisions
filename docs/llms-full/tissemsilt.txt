@@ -1,0 +1,137 @@
+# Tissemsilt — Algeria Administrative Divisions
+
+> 8 dairas, 22 communes
+> Code: DZ038
+> Coordinates: 35.788, 1.833
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عماري (Ammari)
+
+Code: DZ038_ammari, Coordinates: 35.658, 1.623
+Communes: 3
+
+#### عماري (Ammari)
+
+Code: DZ038_ammari_ammari, Postal: 38012, Coordinates: 35.617, 1.651
+
+#### المعاصم (Maacem)
+
+Code: DZ038_ammari_maacem, Postal: 38023, Coordinates: 35.644, 1.542
+
+#### سيدي عابد (Sidi Abed)
+
+Code: DZ038_ammari_sidi-abed, Postal: 38025, Coordinates: 35.713, 1.676
+
+### برج بونعامة (Bordj Bounaama)
+
+Code: DZ038_bordj-bounaama, Coordinates: 35.833, 1.714
+Communes: 4
+
+#### بني شعيب (Beni Chaib)
+
+Code: DZ038_bordj-bounaama_beni-chaib, Postal: 38019, Coordinates: 35.827, 1.795
+
+#### بني لحسن (Beni Lahcene)
+
+Code: DZ038_bordj-bounaama_beni-lahcene, Postal: 38020, Coordinates: 35.793, 1.716
+
+#### برج بونعامة (Bordj Bounaama)
+
+Code: DZ038_bordj-bounaama_bordj-bounaama, Postal: 38001, Coordinates: 35.855, 1.623
+
+#### سيدي سليمان (Sidi Slimane)
+
+Code: DZ038_bordj-bounaama_sidi-slimane, Postal: 30030, Coordinates: 35.857, 1.723
+
+### برج الأمير عبد القادر (Bordj Emir Abdelkader)
+
+Code: DZ038_bordj-emir-abdelkader, Coordinates: 35.861, 2.181
+Communes: 2
+
+#### برج الأمير عبد القادر (Bordj El Emir Abdelkader)
+
+Code: DZ038_bordj-emir-abdelkader_bordj-el-emir-abdelkader, Postal: 38041, Coordinates: 35.824, 2.236
+
+#### اليوسفية (Youssoufia)
+
+Code: DZ038_bordj-emir-abdelkader_youssoufia, Postal: 38031, Coordinates: 35.899, 2.126
+
+### خميستي (Khemisti)
+
+Code: DZ038_khemisti, Coordinates: 35.678, 2.002
+Communes: 2
+
+#### خميستي (Khemisti)
+
+Code: DZ038_khemisti_khemisti, Postal: 38016, Coordinates: 35.688, 1.94
+
+#### العيون (Layoune)
+
+Code: DZ038_khemisti_layoune, Postal: 38007, Coordinates: 35.668, 2.064
+
+### لرجام (Lardjem)
+
+Code: DZ038_lardjem, Coordinates: 35.739, 1.412
+Communes: 4
+
+#### لرجام (Lardjem)
+
+Code: DZ038_lardjem_lardjem, Postal: 38002, Coordinates: 35.79, 1.467
+
+#### الملعب (Melaab)
+
+Code: DZ038_lardjem_melaab, Postal: 38013, Coordinates: 35.719, 1.321
+
+#### سيدي العنتري (Sidi Lantri)
+
+Code: DZ038_lardjem_sidi-lantri, Postal: 38027, Coordinates: 35.708, 1.447
+
+#### تملاحت (Tamellahet)
+
+Code: DZ038_lardjem_tamellahet, Postal: 38029, Coordinates: 35.739, 1.412
+
+### الأزهرية (Lazharia)
+
+Code: DZ038_lazharia, Coordinates: 35.927, 1.571
+Communes: 3
+
+#### بوقائد (Boucaid)
+
+Code: DZ038_lazharia_boucaid, Postal: 38005, Coordinates: 35.905, 1.684
+
+#### الأربعاء (Larbaa)
+
+Code: DZ038_lazharia_larbaa, Postal: 09002, Coordinates: 35.914, 1.462
+
+#### الأزهرية (Lazharia)
+
+Code: DZ038_lazharia_lazharia, Postal: 38008, Coordinates: 35.961, 1.568
+
+### ثنية الاحد (Theniet El Had)
+
+Code: DZ038_theniet-el-had, Coordinates: 35.838, 1.989
+Communes: 2
+
+#### سيدي بوتوشنت (Sidi Boutouchent)
+
+Code: DZ038_theniet-el-had_sidi-boutouchent, Postal: 38026, Coordinates: 35.825, 1.922
+
+#### ثنية الاحد (Theniet El Had)
+
+Code: DZ038_theniet-el-had_theniet-el-had, Postal: 38003, Coordinates: 35.85, 2.056
+
+### تيسمسيلت (Tissemsilt)
+
+Code: DZ038_tissemsilt, Coordinates: 35.614, 1.826
+Communes: 2
+
+#### أولاد بسام (Ouled Bessam)
+
+Code: DZ038_tissemsilt_ouled-bessam, Postal: 38014, Coordinates: 35.614, 1.826
+
+#### تيسمسيلت (Tissemsilt)
+
+Code: DZ038_tissemsilt_tissemsilt, Postal: 38000, Coordinates: 35.614, 1.826
+

@@ -1,0 +1,47 @@
+{
+  "id": "DZ027_sidi-ali",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي علي",
+    "en": "Sidi Ali",
+    "slug": "sidi-ali"
+  },
+  "code": {
+    "id": "DZ027_sidi-ali",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "مستغانم",
+      "en": "Mostaganem",
+      "slug": "mostaganem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "مستغانم",
+        "en": "Mostaganem",
+        "slug": "mostaganem"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.08",
+    "lon": "0.529"
+  },
+  "metadata": {},
+  "source": {}
+}

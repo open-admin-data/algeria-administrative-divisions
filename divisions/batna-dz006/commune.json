@@ -1,0 +1,2747 @@
+[
+  {
+    "id": "DZ006001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Djasser",
+      "en": "Ain Djasser",
+      "slug": "ain-djasser-dz006001"
+    },
+    "code": {
+      "id": "DZ006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.835",
+      "lon": "5.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Touta",
+      "en": "Ain Touta",
+      "slug": "ain-touta-dz006002"
+    },
+    "code": {
+      "id": "DZ006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.367",
+      "lon": "5.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Yagout",
+      "en": "Ain Yagout",
+      "slug": "ain-yagout-dz006003"
+    },
+    "code": {
+      "id": "DZ006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.788",
+      "lon": "6.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arris",
+      "en": "Arris",
+      "slug": "arris-dz006004"
+    },
+    "code": {
+      "id": "DZ006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.315",
+      "lon": "6.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barika",
+      "en": "Barika",
+      "slug": "barika-dz006005"
+    },
+    "code": {
+      "id": "DZ006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.374",
+      "lon": "5.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Batna",
+      "en": "Batna",
+      "slug": "batna-dz006006"
+    },
+    "code": {
+      "id": "DZ006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.58",
+      "lon": "6.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Foudhala El Hakania",
+      "en": "Beni Foudhala El Hakania",
+      "slug": "beni-foudhala-el-hakania-dz006007"
+    },
+    "code": {
+      "id": "DZ006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.381",
+      "lon": "6.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bitam",
+      "en": "Bitam",
+      "slug": "bitam-dz006008"
+    },
+    "code": {
+      "id": "DZ006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.177",
+      "lon": "5.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boulehilet",
+      "en": "Boulehilet",
+      "slug": "boulehilet-dz006009"
+    },
+    "code": {
+      "id": "DZ006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.726",
+      "lon": "6.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumaguer",
+      "en": "Boumaguer",
+      "slug": "boumaguer-dz006010"
+    },
+    "code": {
+      "id": "DZ006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.5",
+      "lon": "5.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boumia",
+      "en": "Boumia",
+      "slug": "boumia-dz006011"
+    },
+    "code": {
+      "id": "DZ006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.709",
+      "lon": "6.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouzina",
+      "en": "Bouzina",
+      "slug": "bouzina-dz006012"
+    },
+    "code": {
+      "id": "DZ006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.28",
+      "lon": "6.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chemora",
+      "en": "Chemora",
+      "slug": "chemora-dz006013"
+    },
+    "code": {
+      "id": "DZ006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.633",
+      "lon": "6.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chir",
+      "en": "Chir",
+      "slug": "chir-dz006014"
+    },
+    "code": {
+      "id": "DZ006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.22",
+      "lon": "6.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djerma",
+      "en": "Djerma",
+      "slug": "djerma-dz006015"
+    },
+    "code": {
+      "id": "DZ006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.688",
+      "lon": "6.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djezzar",
+      "en": "Djezzar",
+      "slug": "djezzar-dz006016"
+    },
+    "code": {
+      "id": "DZ006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.517",
+      "lon": "5.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hassi",
+      "en": "El Hassi",
+      "slug": "el-hassi-dz006017"
+    },
+    "code": {
+      "id": "DZ006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.783",
+      "lon": "5.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Madher",
+      "en": "El Madher",
+      "slug": "el-madher-dz006018"
+    },
+    "code": {
+      "id": "DZ006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.642",
+      "lon": "6.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fesdis",
+      "en": "Fesdis",
+      "slug": "fesdis-dz006019"
+    },
+    "code": {
+      "id": "DZ006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.62",
+      "lon": "6.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Foum Toub",
+      "en": "Foum Toub",
+      "slug": "foum-toub-dz006020"
+    },
+    "code": {
+      "id": "DZ006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.39",
+      "lon": "6.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghassira",
+      "en": "Ghassira",
+      "slug": "ghassira-dz006021"
+    },
+    "code": {
+      "id": "DZ006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.064",
+      "lon": "6.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gosbat",
+      "en": "Gosbat",
+      "slug": "gosbat-dz006022"
+    },
+    "code": {
+      "id": "DZ006022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.623",
+      "lon": "5.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guigba",
+      "en": "Guigba",
+      "slug": "guigba-dz006023"
+    },
+    "code": {
+      "id": "DZ006023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.744",
+      "lon": "5.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hidoussa",
+      "en": "Hidoussa",
+      "slug": "hidoussa-dz006024"
+    },
+    "code": {
+      "id": "DZ006024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.531",
+      "lon": "5.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ichemoul",
+      "en": "Ichemoul",
+      "slug": "ichemoul-dz006025"
+    },
+    "code": {
+      "id": "DZ006025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.308",
+      "lon": "6.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inoughissene",
+      "en": "Inoughissene",
+      "slug": "inoughissene-dz006026"
+    },
+    "code": {
+      "id": "DZ006026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.28",
+      "lon": "6.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kimmel",
+      "en": "Kimmel",
+      "slug": "kimmel-dz006027"
+    },
+    "code": {
+      "id": "DZ006027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.002",
+      "lon": "6.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar Belezma",
+      "en": "Ksar Belezma",
+      "slug": "ksar-belezma-dz006028"
+    },
+    "code": {
+      "id": "DZ006028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.731",
+      "lon": "5.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larbaa",
+      "en": "Larbaa",
+      "slug": "larbaa-dz006029"
+    },
+    "code": {
+      "id": "DZ006029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.338",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lazrou",
+      "en": "Lazrou",
+      "slug": "lazrou-dz006030"
+    },
+    "code": {
+      "id": "DZ006030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.808",
+      "lon": "6.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lemcen",
+      "en": "Lemcen",
+      "slug": "lemcen-dz006031"
+    },
+    "code": {
+      "id": "DZ006031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.642",
+      "lon": "5.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Doukal",
+      "en": "M'Doukal",
+      "slug": "mdoukal-dz006033"
+    },
+    "code": {
+      "id": "DZ006033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.115",
+      "lon": "5.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maafa",
+      "en": "Maafa",
+      "slug": "maafa-dz006032"
+    },
+    "code": {
+      "id": "DZ006032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.279",
+      "lon": "5.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Menaa",
+      "en": "Menaa",
+      "slug": "menaa-dz006034"
+    },
+    "code": {
+      "id": "DZ006034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.14",
+      "lon": "6.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merouana",
+      "en": "Merouana",
+      "slug": "merouana-dz006035"
+    },
+    "code": {
+      "id": "DZ006035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.644",
+      "lon": "5.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Metkaouak",
+      "en": "Metkaouak",
+      "slug": "metkaouak-dz006036"
+    },
+    "code": {
+      "id": "DZ006036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.328",
+      "lon": "5.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Gaous",
+      "en": "N'Gaous",
+      "slug": "ngaous-dz006037"
+    },
+    "code": {
+      "id": "DZ006037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.555",
+      "lon": "5.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Chaaba",
+      "en": "Oued Chaaba",
+      "slug": "oued-chaaba-dz006038"
+    },
+    "code": {
+      "id": "DZ006038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.526",
+      "lon": "6.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Ma",
+      "en": "Oued El Ma",
+      "slug": "oued-el-ma-dz006039"
+    },
+    "code": {
+      "id": "DZ006039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.671",
+      "lon": "6.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Taga",
+      "en": "Oued Taga",
+      "slug": "oued-taga-dz006040"
+    },
+    "code": {
+      "id": "DZ006040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.422",
+      "lon": "6.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Ammar",
+      "en": "Ouled Ammar",
+      "slug": "ouled-ammar-dz006041"
+    },
+    "code": {
+      "id": "DZ006041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.466",
+      "lon": "5.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Aouf",
+      "en": "Ouled Aouf",
+      "slug": "ouled-aouf-dz006042"
+    },
+    "code": {
+      "id": "DZ006042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Fadel",
+      "en": "Ouled Fadel",
+      "slug": "ouled-fadel-dz006043"
+    },
+    "code": {
+      "id": "DZ006043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.557",
+      "lon": "6.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Sellam",
+      "en": "Ouled Sellam",
+      "slug": "ouled-sellam-dz006044"
+    },
+    "code": {
+      "id": "DZ006044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.851",
+      "lon": "5.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Si Slimane",
+      "en": "Ouled Si Slimane",
+      "slug": "ouled-si-slimane-dz006045"
+    },
+    "code": {
+      "id": "DZ006045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.569",
+      "lon": "5.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouyoun El Assafir",
+      "en": "Ouyoun El Assafir",
+      "slug": "ouyoun-el-assafir-dz006046"
+    },
+    "code": {
+      "id": "DZ006046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.55",
+      "lon": "6.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rahbat",
+      "en": "Rahbat",
+      "slug": "rahbat-dz006047"
+    },
+    "code": {
+      "id": "DZ006047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.727",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ras El Aioun",
+      "en": "Ras El Aioun",
+      "slug": "ras-el-aioun-dz006048"
+    },
+    "code": {
+      "id": "DZ006048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.656",
+      "lon": "5.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sefiane",
+      "en": "Sefiane",
+      "slug": "sefiane-dz006049"
+    },
+    "code": {
+      "id": "DZ006049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.429",
+      "lon": "5.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seggana",
+      "en": "Seggana",
+      "slug": "seggana-dz006050"
+    },
+    "code": {
+      "id": "DZ006050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.341",
+      "lon": "5.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seriana",
+      "en": "Seriana",
+      "slug": "seriana-dz006051"
+    },
+    "code": {
+      "id": "DZ006051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.719",
+      "lon": "6.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006060",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "T'Kout",
+      "en": "T'Kout",
+      "slug": "tkout-dz006060"
+    },
+    "code": {
+      "id": "DZ006060",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.157",
+      "lon": "6.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talkhemt",
+      "en": "Talkhemt",
+      "slug": "talkhemt-dz006052"
+    },
+    "code": {
+      "id": "DZ006052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.727",
+      "lon": "5.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006053",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taxlent",
+      "en": "Taxlent",
+      "slug": "taxlent-dz006053"
+    },
+    "code": {
+      "id": "DZ006053",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.564",
+      "lon": "5.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006054",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tazoult",
+      "en": "Tazoult",
+      "slug": "tazoult-dz006054"
+    },
+    "code": {
+      "id": "DZ006054",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.47",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006055",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Theniet El Abed",
+      "en": "Theniet El Abed",
+      "slug": "theniet-el-abed-dz006055"
+    },
+    "code": {
+      "id": "DZ006055",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.29",
+      "lon": "6.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006056",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tighanimine",
+      "en": "Tighanimine",
+      "slug": "tighanimine-dz006056"
+    },
+    "code": {
+      "id": "DZ006056",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.188",
+      "lon": "6.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006057",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tigharghar",
+      "en": "Tigharghar",
+      "slug": "tigharghar-dz006057"
+    },
+    "code": {
+      "id": "DZ006057",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.08",
+      "lon": "5.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006058",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tilatou",
+      "en": "Tilatou",
+      "slug": "tilatou-dz006058"
+    },
+    "code": {
+      "id": "DZ006058",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.315",
+      "lon": "5.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006059",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timgad",
+      "en": "Timgad",
+      "slug": "timgad-dz006059"
+    },
+    "code": {
+      "id": "DZ006059",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.529",
+      "lon": "6.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006061",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zana El Beida",
+      "en": "Zana El Beida",
+      "slug": "zana-el-beida-dz006061"
+    },
+    "code": {
+      "id": "DZ006061",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna-dz006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.797",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

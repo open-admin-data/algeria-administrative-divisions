@@ -1,0 +1,47 @@
+{
+  "id": "DZ010_ain-bessem",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عين بسام",
+    "en": "Ain Bessem",
+    "slug": "ain-bessem"
+  },
+  "code": {
+    "id": "DZ010_ain-bessem",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ010",
+    "level": 1,
+    "name": {
+      "local": "البويرة",
+      "en": "Bouira",
+      "slug": "bouira"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ010",
+      "level": 1,
+      "name": {
+        "local": "البويرة",
+        "en": "Bouira",
+        "slug": "bouira"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.536",
+    "lon": "1.885"
+  },
+  "metadata": {},
+  "source": {}
+}

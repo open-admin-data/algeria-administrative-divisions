@@ -1,0 +1,45 @@
+{
+  "id": "DZ030034",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Madhi",
+    "en": "Ouled Madhi",
+    "slug": "ouled-madhi-dz030034"
+  },
+  "code": {
+    "id": "DZ030034",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.492",
+    "lon": "4.603"
+  },
+  "metadata": {},
+  "source": {}
+}

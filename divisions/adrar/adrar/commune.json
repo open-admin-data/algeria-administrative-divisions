@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ001_adrar_adrar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    },
+    "code": {
+      "id": "DZ001_adrar_adrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_adrar",
+      "level": 2,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_adrar",
+        "level": 2,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01000"
+    ],
+    "geo": {
+      "lat": "27.942",
+      "lon": "-0.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_adrar_bouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بودة",
+      "en": "Bouda",
+      "slug": "bouda"
+    },
+    "code": {
+      "id": "DZ001_adrar_bouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_adrar",
+      "level": 2,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_adrar",
+        "level": 2,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01023"
+    ],
+    "geo": {
+      "lat": "28.017",
+      "lon": "-1.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ001_adrar_ouled-ahmed-timmi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد أحمد تيمي",
+      "en": "Ouled Ahmed Timmi",
+      "slug": "ouled-ahmed-timmi"
+    },
+    "code": {
+      "id": "DZ001_adrar_ouled-ahmed-timmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ001_adrar",
+      "level": 2,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ001",
+        "level": 1,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      },
+      {
+        "id": "DZ001_adrar",
+        "level": 2,
+        "name": {
+          "local": "أدرار",
+          "en": "Adrar",
+          "slug": "adrar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "01025"
+    ],
+    "geo": {
+      "lat": "27.98",
+      "lon": "-0.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

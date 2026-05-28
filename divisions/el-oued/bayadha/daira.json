@@ -1,0 +1,47 @@
+{
+  "id": "DZ039_bayadha",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "البياضة",
+    "en": "Bayadha",
+    "slug": "bayadha"
+  },
+  "code": {
+    "id": "DZ039_bayadha",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "الوادي",
+      "en": "El Oued",
+      "slug": "el-oued"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "الوادي",
+        "en": "El Oued",
+        "slug": "el-oued"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.326",
+    "lon": "6.901"
+  },
+  "metadata": {},
+  "source": {}
+}

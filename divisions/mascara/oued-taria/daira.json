@@ -1,0 +1,47 @@
+{
+  "id": "DZ029_oued-taria",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "وادي التاغية",
+    "en": "Oued Taria",
+    "slug": "oued-taria"
+  },
+  "code": {
+    "id": "DZ029_oued-taria",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ029",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ029",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.198",
+    "lon": "0.08"
+  },
+  "metadata": {},
+  "source": {}
+}

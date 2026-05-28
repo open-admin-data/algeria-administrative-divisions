@@ -1,0 +1,3017 @@
+[
+  {
+    "id": "DZ047001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abi Youcef",
+      "en": "Abi Youcef",
+      "slug": "abi-youcef-dz047001"
+    },
+    "code": {
+      "id": "DZ047001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.525",
+      "lon": "4.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghni Goughran",
+      "en": "Aghni Goughran",
+      "slug": "aghni-goughran-dz047002"
+    },
+    "code": {
+      "id": "DZ047002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.507",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aghrib",
+      "en": "Aghrib",
+      "slug": "aghrib-dz047003"
+    },
+    "code": {
+      "id": "DZ047003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.822",
+      "lon": "4.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Hammam",
+      "en": "Ain El Hammam",
+      "slug": "ain-el-hammam-dz047004"
+    },
+    "code": {
+      "id": "DZ047004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.576",
+      "lon": "4.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zaouia",
+      "en": "Ain Zaouia",
+      "slug": "ain-zaouia-dz047005"
+    },
+    "code": {
+      "id": "DZ047005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.578",
+      "lon": "3.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Aggouacha",
+      "en": "Ait Aggouacha",
+      "slug": "ait-aggouacha-dz047006"
+    },
+    "code": {
+      "id": "DZ047006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.624",
+      "lon": "4.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Aissa Mimoun",
+      "en": "Ait Aissa Mimoun",
+      "slug": "ait-aissa-mimoun-dz047007"
+    },
+    "code": {
+      "id": "DZ047007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.754",
+      "lon": "4.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Bouadou",
+      "en": "Ait Bouadou",
+      "slug": "ait-bouadou-dz047008"
+    },
+    "code": {
+      "id": "DZ047008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.506",
+      "lon": "4.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Boumahdi",
+      "en": "Ait Boumahdi",
+      "slug": "ait-boumahdi-dz047009"
+    },
+    "code": {
+      "id": "DZ047009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.49",
+      "lon": "4.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Chaffaa",
+      "en": "Ait Chaffaa",
+      "slug": "ait-chaffaa-dz047010"
+    },
+    "code": {
+      "id": "DZ047010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.827",
+      "lon": "4.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Khelili",
+      "en": "Ait Khelili",
+      "slug": "ait-khelili-dz047011"
+    },
+    "code": {
+      "id": "DZ047011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.678",
+      "lon": "4.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Mahmoud",
+      "en": "Ait Mahmoud",
+      "slug": "ait-mahmoud-dz047012"
+    },
+    "code": {
+      "id": "DZ047012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.613",
+      "lon": "4.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Oumalou",
+      "en": "Ait Oumalou",
+      "slug": "ait-oumalou-dz047013"
+    },
+    "code": {
+      "id": "DZ047013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.658",
+      "lon": "4.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Toudert",
+      "en": "Ait Toudert",
+      "slug": "ait-toudert-dz047014"
+    },
+    "code": {
+      "id": "DZ047014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.533",
+      "lon": "4.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Yahia",
+      "en": "Ait Yahia",
+      "slug": "ait-yahia-dz047015"
+    },
+    "code": {
+      "id": "DZ047015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.603",
+      "lon": "4.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Yahia Moussa",
+      "en": "Ait Yahia Moussa",
+      "slug": "ait-yahia-moussa-dz047016"
+    },
+    "code": {
+      "id": "DZ047016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.644",
+      "lon": "3.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akbil",
+      "en": "Akbil",
+      "slug": "akbil-dz047017"
+    },
+    "code": {
+      "id": "DZ047017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.507",
+      "lon": "4.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Akerrou",
+      "en": "Akerrou",
+      "slug": "akerrou-dz047018"
+    },
+    "code": {
+      "id": "DZ047018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.811",
+      "lon": "4.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Assi Youcef",
+      "en": "Assi Youcef",
+      "slug": "assi-youcef-dz047019"
+    },
+    "code": {
+      "id": "DZ047019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.502",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azazga",
+      "en": "Azazga",
+      "slug": "azazga-dz047020"
+    },
+    "code": {
+      "id": "DZ047020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.744",
+      "lon": "4.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azeffoun",
+      "en": "Azeffoun",
+      "slug": "azeffoun-dz047021"
+    },
+    "code": {
+      "id": "DZ047021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.87",
+      "lon": "4.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Aissi",
+      "en": "Beni Aissi",
+      "slug": "beni-aissi-dz047022"
+    },
+    "code": {
+      "id": "DZ047022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.661",
+      "lon": "4.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Douala",
+      "en": "Beni Douala",
+      "slug": "beni-douala-dz047023"
+    },
+    "code": {
+      "id": "DZ047023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.625",
+      "lon": "4.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Yenni",
+      "en": "Beni Yenni",
+      "slug": "beni-yenni-dz047024"
+    },
+    "code": {
+      "id": "DZ047024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.581",
+      "lon": "4.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ziki",
+      "en": "Beni Ziki",
+      "slug": "beni-ziki-dz047025"
+    },
+    "code": {
+      "id": "DZ047025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.561",
+      "lon": "4.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Zmenzer",
+      "en": "Beni Zmenzer",
+      "slug": "beni-zmenzer-dz047026"
+    },
+    "code": {
+      "id": "DZ047026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.642",
+      "lon": "4.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boghni",
+      "en": "Boghni",
+      "slug": "boghni-dz047027"
+    },
+    "code": {
+      "id": "DZ047027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.517",
+      "lon": "3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudjima",
+      "en": "Boudjima",
+      "slug": "boudjima-dz047028"
+    },
+    "code": {
+      "id": "DZ047028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.807",
+      "lon": "4.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bounouh",
+      "en": "Bounouh",
+      "slug": "bounouh-dz047029"
+    },
+    "code": {
+      "id": "DZ047029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.495",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouzguen",
+      "en": "Bouzguen",
+      "slug": "bouzguen-dz047030"
+    },
+    "code": {
+      "id": "DZ047030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.62",
+      "lon": "4.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Draa Ben Khedda",
+      "en": "Draa Ben Khedda",
+      "slug": "draa-ben-khedda-dz047031"
+    },
+    "code": {
+      "id": "DZ047031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.724",
+      "lon": "3.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Draa El Mizan",
+      "en": "Draa El Mizan",
+      "slug": "draa-el-mizan-dz047032"
+    },
+    "code": {
+      "id": "DZ047032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.549",
+      "lon": "3.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Freha",
+      "en": "Freha",
+      "slug": "freha-dz047033"
+    },
+    "code": {
+      "id": "DZ047033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.764",
+      "lon": "4.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Frikat",
+      "en": "Frikat",
+      "slug": "frikat-dz047034"
+    },
+    "code": {
+      "id": "DZ047034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.5",
+      "lon": "3.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iboudraren",
+      "en": "Iboudraren",
+      "slug": "iboudraren-dz047035"
+    },
+    "code": {
+      "id": "DZ047035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.514",
+      "lon": "4.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Idjeur",
+      "en": "Idjeur",
+      "slug": "idjeur-dz047036"
+    },
+    "code": {
+      "id": "DZ047036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.677",
+      "lon": "4.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iferhounene",
+      "en": "Iferhounene",
+      "slug": "iferhounene-dz047037"
+    },
+    "code": {
+      "id": "DZ047037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.524",
+      "lon": "4.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifigha",
+      "en": "Ifigha",
+      "slug": "ifigha-dz047038"
+    },
+    "code": {
+      "id": "DZ047038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.667",
+      "lon": "4.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iflissen",
+      "en": "Iflissen",
+      "slug": "iflissen-dz047039"
+    },
+    "code": {
+      "id": "DZ047039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.873",
+      "lon": "4.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Illilten",
+      "en": "Illilten",
+      "slug": "illilten-dz047040"
+    },
+    "code": {
+      "id": "DZ047040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.513",
+      "lon": "4.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iloula Oumalou",
+      "en": "Iloula Oumalou",
+      "slug": "iloula-oumalou-dz047041"
+    },
+    "code": {
+      "id": "DZ047041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.568",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imsouhal",
+      "en": "Imsouhal",
+      "slug": "imsouhal-dz047042"
+    },
+    "code": {
+      "id": "DZ047042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.583",
+      "lon": "4.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Irdjen",
+      "en": "Irdjen",
+      "slug": "irdjen-dz047043"
+    },
+    "code": {
+      "id": "DZ047043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.671",
+      "lon": "4.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larba Nait Irathen",
+      "en": "Larba Nait Irathen",
+      "slug": "larba-nait-irathen-dz047044"
+    },
+    "code": {
+      "id": "DZ047044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.64",
+      "lon": "4.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Kira",
+      "en": "M'Kira",
+      "slug": "mkira-dz047050"
+    },
+    "code": {
+      "id": "DZ047050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.634",
+      "lon": "3.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maatka",
+      "en": "Maatka",
+      "slug": "maatka-dz047045"
+    },
+    "code": {
+      "id": "DZ047045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.614",
+      "lon": "3.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makouda",
+      "en": "Makouda",
+      "slug": "makouda-dz047046"
+    },
+    "code": {
+      "id": "DZ047046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.796",
+      "lon": "4.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mechtrass",
+      "en": "Mechtrass",
+      "slug": "mechtrass-dz047047"
+    },
+    "code": {
+      "id": "DZ047047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.556",
+      "lon": "3.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mekla",
+      "en": "Mekla",
+      "slug": "mekla-dz047048"
+    },
+    "code": {
+      "id": "DZ047048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.679",
+      "lon": "4.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mizrana",
+      "en": "Mizrana",
+      "slug": "mizrana-dz047049"
+    },
+    "code": {
+      "id": "DZ047049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.863",
+      "lon": "4.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouacif",
+      "en": "Ouacif",
+      "slug": "ouacif-dz047051"
+    },
+    "code": {
+      "id": "DZ047051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.52",
+      "lon": "4.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouadhia",
+      "en": "Ouadhia",
+      "slug": "ouadhia-dz047052"
+    },
+    "code": {
+      "id": "DZ047052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.568",
+      "lon": "4.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047053",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouaguenoun",
+      "en": "Ouaguenoun",
+      "slug": "ouaguenoun-dz047053"
+    },
+    "code": {
+      "id": "DZ047053",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.762",
+      "lon": "4.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047054",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Naamane",
+      "en": "Sidi Naamane",
+      "slug": "sidi-naamane-dz047054"
+    },
+    "code": {
+      "id": "DZ047054",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.781",
+      "lon": "4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047055",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souamaa",
+      "en": "Souamaa",
+      "slug": "souamaa-dz047055"
+    },
+    "code": {
+      "id": "DZ047055",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.675",
+      "lon": "4.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047056",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk El Tenine",
+      "en": "Souk El Tenine",
+      "slug": "souk-el-tenine-dz047056"
+    },
+    "code": {
+      "id": "DZ047056",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.605",
+      "lon": "4.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047057",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadmait",
+      "en": "Tadmait",
+      "slug": "tadmait-dz047057"
+    },
+    "code": {
+      "id": "DZ047057",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.721",
+      "lon": "3.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047058",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tigzirt",
+      "en": "Tigzirt",
+      "slug": "tigzirt-dz047058"
+    },
+    "code": {
+      "id": "DZ047058",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.864",
+      "lon": "4.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047059",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timizart",
+      "en": "Timizart",
+      "slug": "timizart-dz047059"
+    },
+    "code": {
+      "id": "DZ047059",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.8",
+      "lon": "4.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047060",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tirmitine",
+      "en": "Tirmitine",
+      "slug": "tirmitine-dz047060"
+    },
+    "code": {
+      "id": "DZ047060",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.671",
+      "lon": "3.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047061",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi Ghenif",
+      "en": "Tizi Ghenif",
+      "slug": "tizi-ghenif-dz047061"
+    },
+    "code": {
+      "id": "DZ047061",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.59",
+      "lon": "3.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047062",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi N'Thleta",
+      "en": "Tizi N'Thleta",
+      "slug": "tizi-nthleta-dz047062"
+    },
+    "code": {
+      "id": "DZ047062",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.562",
+      "lon": "4.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047063",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi Ouzou",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047063"
+    },
+    "code": {
+      "id": "DZ047063",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.702",
+      "lon": "4.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047064",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi Rached",
+      "en": "Tizi Rached",
+      "slug": "tizi-rached-dz047064"
+    },
+    "code": {
+      "id": "DZ047064",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.69",
+      "lon": "4.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047065",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yakouren",
+      "en": "Yakouren",
+      "slug": "yakouren-dz047065"
+    },
+    "code": {
+      "id": "DZ047065",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.739",
+      "lon": "4.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047066",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yatafen",
+      "en": "Yatafen",
+      "slug": "yatafen-dz047066"
+    },
+    "code": {
+      "id": "DZ047066",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.509",
+      "lon": "4.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047067",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zekri",
+      "en": "Zekri",
+      "slug": "zekri-dz047067"
+    },
+    "code": {
+      "id": "DZ047067",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou-dz047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.792",
+      "lon": "4.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

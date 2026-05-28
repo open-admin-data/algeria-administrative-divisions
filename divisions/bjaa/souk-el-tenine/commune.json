@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ006_souk-el-tenine_melbou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مالبو",
+      "en": "Melbou",
+      "slug": "melbou"
+    },
+    "code": {
+      "id": "DZ006_souk-el-tenine_melbou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_souk-el-tenine",
+      "level": 2,
+      "name": {
+        "local": "سوق الإثنين",
+        "en": "Souk El Tenine",
+        "slug": "souk-el-tenine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_souk-el-tenine",
+        "level": 2,
+        "name": {
+          "local": "سوق الإثنين",
+          "en": "Souk El Tenine",
+          "slug": "souk-el-tenine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06076"
+    ],
+    "geo": {
+      "lat": "36.622",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_souk-el-tenine_souk-el-tenine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق لإثنين",
+      "en": "Souk El Tenine",
+      "slug": "souk-el-tenine"
+    },
+    "code": {
+      "id": "DZ006_souk-el-tenine_souk-el-tenine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_souk-el-tenine",
+      "level": 2,
+      "name": {
+        "local": "سوق الإثنين",
+        "en": "Souk El Tenine",
+        "slug": "souk-el-tenine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_souk-el-tenine",
+        "level": 2,
+        "name": {
+          "local": "سوق الإثنين",
+          "en": "Souk El Tenine",
+          "slug": "souk-el-tenine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06012"
+    ],
+    "geo": {
+      "lat": "36.605",
+      "lon": "4.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_souk-el-tenine_tamridjet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامريجت",
+      "en": "Tamridjet",
+      "slug": "tamridjet"
+    },
+    "code": {
+      "id": "DZ006_souk-el-tenine_tamridjet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_souk-el-tenine",
+      "level": 2,
+      "name": {
+        "local": "سوق الإثنين",
+        "en": "Souk El Tenine",
+        "slug": "souk-el-tenine"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_souk-el-tenine",
+        "level": 2,
+        "name": {
+          "local": "سوق الإثنين",
+          "en": "Souk El Tenine",
+          "slug": "souk-el-tenine"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06077"
+    ],
+    "geo": {
+      "lat": "36.575",
+      "lon": "5.416"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

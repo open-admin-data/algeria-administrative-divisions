@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ023_annaba_annaba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عنابة",
+      "en": "Annaba",
+      "slug": "annaba"
+    },
+    "code": {
+      "id": "DZ023_annaba_annaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_annaba",
+      "level": 2,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_annaba",
+        "level": 2,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23000"
+    ],
+    "geo": {
+      "lat": "36.92",
+      "lon": "7.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ023_annaba_seraidi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سرايدي",
+      "en": "Seraidi",
+      "slug": "seraidi"
+    },
+    "code": {
+      "id": "DZ023_annaba_seraidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ023_annaba",
+      "level": 2,
+      "name": {
+        "local": "عنابة",
+        "en": "Annaba",
+        "slug": "annaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ023",
+        "level": 1,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      },
+      {
+        "id": "DZ023_annaba",
+        "level": 2,
+        "name": {
+          "local": "عنابة",
+          "en": "Annaba",
+          "slug": "annaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23015"
+    ],
+    "geo": {
+      "lat": "36.945",
+      "lon": "7.642"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

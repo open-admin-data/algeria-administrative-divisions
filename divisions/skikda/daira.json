@@ -1,0 +1,613 @@
+[
+  {
+    "id": "DZ021_ain-kechra",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عين قشرة",
+      "en": "Ain Kechra",
+      "slug": "ain-kechra"
+    },
+    "code": {
+      "id": "DZ021_ain-kechra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_azzaba",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "عزابة",
+      "en": "Azzaba",
+      "slug": "azzaba"
+    },
+    "code": {
+      "id": "DZ021_azzaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.726",
+      "lon": "7.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ben-azzouz",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بن عزوز",
+      "en": "Ben Azzouz",
+      "slug": "ben-azzouz"
+    },
+    "code": {
+      "id": "DZ021_ben-azzouz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.867",
+      "lon": "7.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_collo",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "القل",
+      "en": "Collo",
+      "slug": "collo"
+    },
+    "code": {
+      "id": "DZ021_collo",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.978",
+      "lon": "6.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-hadaiek",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحدائق",
+      "en": "El Hadaiek",
+      "slug": "el-hadaiek"
+    },
+    "code": {
+      "id": "DZ021_el-hadaiek",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.864",
+      "lon": "6.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_el-harrouch",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحروش",
+      "en": "El Harrouch",
+      "slug": "el-harrouch"
+    },
+    "code": {
+      "id": "DZ021_el-harrouch",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.641",
+      "lon": "6.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ouled-attia",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أولاد عطية",
+      "en": "Ouled Attia",
+      "slug": "ouled-attia"
+    },
+    "code": {
+      "id": "DZ021_ouled-attia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.957",
+      "lon": "6.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_oum-toub",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "أم الطوب",
+      "en": "Oum Toub",
+      "slug": "oum-toub"
+    },
+    "code": {
+      "id": "DZ021_oum-toub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.704",
+      "lon": "6.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_ramdane-djamel",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "رمضان جمال",
+      "en": "Ramdane Djamel",
+      "slug": "ramdane-djamel"
+    },
+    "code": {
+      "id": "DZ021_ramdane-djamel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.759",
+      "lon": "6.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_sidi-mezghiche",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي مزغيش",
+      "en": "Sidi Mezghiche",
+      "slug": "sidi-mezghiche"
+    },
+    "code": {
+      "id": "DZ021_sidi-mezghiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.655",
+      "lon": "6.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_skikda",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda"
+    },
+    "code": {
+      "id": "DZ021_skikda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.881",
+      "lon": "6.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_tamalous",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "تمالوس",
+      "en": "Tamalous",
+      "slug": "tamalous"
+    },
+    "code": {
+      "id": "DZ021_tamalous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.857",
+      "lon": "6.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ021_zitouna",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الزيتونة",
+      "en": "Zitouna",
+      "slug": "zitouna"
+    },
+    "code": {
+      "id": "DZ021_zitouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ021",
+        "level": 1,
+        "name": {
+          "local": "سكيكدة",
+          "en": "Skikda",
+          "slug": "skikda"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.02",
+      "lon": "6.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

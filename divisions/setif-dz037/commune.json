@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "DZ037001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Abessa",
+      "en": "Ain Abessa",
+      "slug": "ain-abessa-dz037001"
+    },
+    "code": {
+      "id": "DZ037001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.311",
+      "lon": "5.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Arnat",
+      "en": "Ain Arnat",
+      "slug": "ain-arnat-dz037002"
+    },
+    "code": {
+      "id": "DZ037002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.18",
+      "lon": "5.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Azal",
+      "en": "Ain Azal",
+      "slug": "ain-azal-dz037003"
+    },
+    "code": {
+      "id": "DZ037003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.82",
+      "lon": "5.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Kebira",
+      "en": "Ain El Kebira",
+      "slug": "ain-el-kebira-dz037004"
+    },
+    "code": {
+      "id": "DZ037004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.381",
+      "lon": "5.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Lagradj",
+      "en": "Ain Lagradj",
+      "slug": "ain-lagradj-dz037005"
+    },
+    "code": {
+      "id": "DZ037005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.412",
+      "lon": "4.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Lahdjar",
+      "en": "Ain Lahdjar",
+      "slug": "ain-lahdjar-dz037006"
+    },
+    "code": {
+      "id": "DZ037006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.963",
+      "lon": "5.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Oulmane",
+      "en": "Ain Oulmane",
+      "slug": "ain-oulmane-dz037007"
+    },
+    "code": {
+      "id": "DZ037007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.925",
+      "lon": "5.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Roua",
+      "en": "Ain Roua",
+      "slug": "ain-roua-dz037008"
+    },
+    "code": {
+      "id": "DZ037008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.322",
+      "lon": "5.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Sebt",
+      "en": "Ain Sebt",
+      "slug": "ain-sebt-dz037009"
+    },
+    "code": {
+      "id": "DZ037009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.497",
+      "lon": "5.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ait Tizi",
+      "en": "Ait Tizi",
+      "slug": "ait-tizi-dz037010"
+    },
+    "code": {
+      "id": "DZ037010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.538",
+      "lon": "5.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amoucha",
+      "en": "Amoucha",
+      "slug": "amoucha-dz037011"
+    },
+    "code": {
+      "id": "DZ037011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.379",
+      "lon": "5.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Babor",
+      "en": "Babor",
+      "slug": "babor-dz037012"
+    },
+    "code": {
+      "id": "DZ037012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.504",
+      "lon": "5.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bazer Sakra",
+      "en": "Bazer Sakra",
+      "slug": "bazer-sakra-dz037013"
+    },
+    "code": {
+      "id": "DZ037013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.083",
+      "lon": "5.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beidha Bordj",
+      "en": "Beidha Bordj",
+      "slug": "beidha-bordj-dz037014"
+    },
+    "code": {
+      "id": "DZ037014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.841",
+      "lon": "5.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bellaa",
+      "en": "Bellaa",
+      "slug": "bellaa-dz037015"
+    },
+    "code": {
+      "id": "DZ037015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.222",
+      "lon": "5.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Aziz",
+      "en": "Beni Aziz",
+      "slug": "beni-aziz-dz037016"
+    },
+    "code": {
+      "id": "DZ037016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.478",
+      "lon": "5.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Chebana",
+      "en": "Beni Chebana",
+      "slug": "beni-chebana-dz037017"
+    },
+    "code": {
+      "id": "DZ037017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.47",
+      "lon": "4.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Fouda",
+      "en": "Beni Fouda",
+      "slug": "beni-fouda-dz037018"
+    },
+    "code": {
+      "id": "DZ037018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.283",
+      "lon": "5.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Hocine",
+      "en": "Beni Hocine",
+      "slug": "beni-hocine-dz037019"
+    },
+    "code": {
+      "id": "DZ037019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.262",
+      "lon": "5.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Mouhli",
+      "en": "Beni Mouhli",
+      "slug": "beni-mouhli-dz037020"
+    },
+    "code": {
+      "id": "DZ037020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.516",
+      "lon": "4.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Ouartilane",
+      "en": "Beni Ouartilane",
+      "slug": "beni-ouartilane-dz037021"
+    },
+    "code": {
+      "id": "DZ037021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.435",
+      "lon": "4.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir El Arch",
+      "en": "Bir El Arch",
+      "slug": "bir-el-arch-dz037022"
+    },
+    "code": {
+      "id": "DZ037022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.103",
+      "lon": "5.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Haddada",
+      "en": "Bir Haddada",
+      "slug": "bir-haddada-dz037023"
+    },
+    "code": {
+      "id": "DZ037023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.964",
+      "lon": "5.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouandas",
+      "en": "Bouandas",
+      "slug": "bouandas-dz037024"
+    },
+    "code": {
+      "id": "DZ037024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.506",
+      "lon": "5.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougaa",
+      "en": "Bougaa",
+      "slug": "bougaa-dz037025"
+    },
+    "code": {
+      "id": "DZ037025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.344",
+      "lon": "5.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bousselam",
+      "en": "Bousselam",
+      "slug": "bousselam-dz037026"
+    },
+    "code": {
+      "id": "DZ037026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.496",
+      "lon": "5.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boutaleb",
+      "en": "Boutaleb",
+      "slug": "boutaleb-dz037027"
+    },
+    "code": {
+      "id": "DZ037027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.684",
+      "lon": "5.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dehamcha",
+      "en": "Dehamcha",
+      "slug": "dehamcha-dz037028"
+    },
+    "code": {
+      "id": "DZ037028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.381",
+      "lon": "5.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djemila",
+      "en": "Djemila",
+      "slug": "djemila-dz037029"
+    },
+    "code": {
+      "id": "DZ037029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.351",
+      "lon": "5.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Draa Kebila",
+      "en": "Draa Kebila",
+      "slug": "draa-kebila-dz037030"
+    },
+    "code": {
+      "id": "DZ037030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.424",
+      "lon": "4.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Eulma",
+      "en": "El Eulma",
+      "slug": "el-eulma-dz037031"
+    },
+    "code": {
+      "id": "DZ037031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.169",
+      "lon": "5.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Oueldja",
+      "en": "El Oueldja",
+      "slug": "el-oueldja-dz037032"
+    },
+    "code": {
+      "id": "DZ037032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.089",
+      "lon": "5.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ouricia",
+      "en": "El Ouricia",
+      "slug": "el-ouricia-dz037033"
+    },
+    "code": {
+      "id": "DZ037033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.272",
+      "lon": "5.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guellal",
+      "en": "Guellal",
+      "slug": "guellal-dz037034"
+    },
+    "code": {
+      "id": "DZ037034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.039",
+      "lon": "5.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guelta Zerga",
+      "en": "Guelta Zerga",
+      "slug": "guelta-zerga-dz037035"
+    },
+    "code": {
+      "id": "DZ037035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.208",
+      "lon": "5.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guenzet Tassameurt",
+      "en": "Guenzet Tassameurt",
+      "slug": "guenzet-tassameurt-dz037036"
+    },
+    "code": {
+      "id": "DZ037036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.338",
+      "lon": "4.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidjel",
+      "en": "Guidjel",
+      "slug": "guidjel-dz037037"
+    },
+    "code": {
+      "id": "DZ037037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.083",
+      "lon": "5.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamma",
+      "en": "Hamma",
+      "slug": "hamma-dz037038"
+    },
+    "code": {
+      "id": "DZ037038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.69",
+      "lon": "5.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037039",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Guergour",
+      "en": "Hammam Guergour",
+      "slug": "hammam-guergour-dz037039"
+    },
+    "code": {
+      "id": "DZ037039",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "5.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037040",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammam Skhouna",
+      "en": "Hammam Skhouna",
+      "slug": "hammam-skhouna-dz037040"
+    },
+    "code": {
+      "id": "DZ037040",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.949",
+      "lon": "5.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037041",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Harbil",
+      "en": "Harbil",
+      "slug": "harbil-dz037041"
+    },
+    "code": {
+      "id": "DZ037041",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.349",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037042",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ksar El Abtal",
+      "en": "Ksar El Abtal",
+      "slug": "ksar-el-abtal-dz037042"
+    },
+    "code": {
+      "id": "DZ037042",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.98",
+      "lon": "5.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037046",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Zada",
+      "en": "M'Zada",
+      "slug": "mzada-dz037046"
+    },
+    "code": {
+      "id": "DZ037046",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.548",
+      "lon": "5.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037043",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maaouia",
+      "en": "Maaouia",
+      "slug": "maaouia-dz037043"
+    },
+    "code": {
+      "id": "DZ037043",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.377",
+      "lon": "5.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037044",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maouklane",
+      "en": "Maouklane",
+      "slug": "maouklane-dz037044"
+    },
+    "code": {
+      "id": "DZ037044",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.401",
+      "lon": "5.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037045",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mezloug",
+      "en": "Mezloug",
+      "slug": "mezloug-dz037045"
+    },
+    "code": {
+      "id": "DZ037045",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.104",
+      "lon": "5.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037047",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Bared",
+      "en": "Oued El Bared",
+      "slug": "oued-el-bared-dz037047"
+    },
+    "code": {
+      "id": "DZ037047",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.5",
+      "lon": "5.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037048",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Addouane",
+      "en": "Ouled Addouane",
+      "slug": "ouled-addouane-dz037048"
+    },
+    "code": {
+      "id": "DZ037048",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.336",
+      "lon": "5.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037049",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Sabor",
+      "en": "Ouled Sabor",
+      "slug": "ouled-sabor-dz037049"
+    },
+    "code": {
+      "id": "DZ037049",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.185",
+      "lon": "5.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037050",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Sidi Ahmed",
+      "en": "Ouled Sidi Ahmed",
+      "slug": "ouled-sidi-ahmed-dz037050"
+    },
+    "code": {
+      "id": "DZ037050",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.907",
+      "lon": "5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037051",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Tebben",
+      "en": "Ouled Tebben",
+      "slug": "ouled-tebben-dz037051"
+    },
+    "code": {
+      "id": "DZ037051",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.791",
+      "lon": "5.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037052",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rosfa",
+      "en": "Rosfa",
+      "slug": "rosfa-dz037052"
+    },
+    "code": {
+      "id": "DZ037052",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.782",
+      "lon": "5.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037053",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Salah Bey",
+      "en": "Salah Bey",
+      "slug": "salah-bey-dz037053"
+    },
+    "code": {
+      "id": "DZ037053",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.826",
+      "lon": "5.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037054",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Serdj El Ghoul",
+      "en": "Serdj El Ghoul",
+      "slug": "serdj-el-ghoul-dz037054"
+    },
+    "code": {
+      "id": "DZ037054",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.478",
+      "lon": "5.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037055",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Setif",
+      "en": "Setif",
+      "slug": "setif-dz037055"
+    },
+    "code": {
+      "id": "DZ037055",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.192",
+      "lon": "5.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037056",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tachouda",
+      "en": "Tachouda",
+      "slug": "tachouda-dz037056"
+    },
+    "code": {
+      "id": "DZ037056",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.268",
+      "lon": "5.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037057",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tala Ifacene",
+      "en": "Tala Ifacene",
+      "slug": "tala-ifacene-dz037057"
+    },
+    "code": {
+      "id": "DZ037057",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.455",
+      "lon": "5.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037058",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taya",
+      "en": "Taya",
+      "slug": "taya-dz037058"
+    },
+    "code": {
+      "id": "DZ037058",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.926",
+      "lon": "5.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037059",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tella",
+      "en": "Tella",
+      "slug": "tella-dz037059"
+    },
+    "code": {
+      "id": "DZ037059",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.965",
+      "lon": "5.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037060",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tizi N'Bechar",
+      "en": "Tizi N'Bechar",
+      "slug": "tizi-nbechar-dz037060"
+    },
+    "code": {
+      "id": "DZ037060",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Setif",
+          "slug": "setif-dz037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.434",
+      "lon": "5.365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

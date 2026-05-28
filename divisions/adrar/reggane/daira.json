@@ -1,0 +1,47 @@
+{
+  "id": "DZ001_reggane",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "رقان",
+    "en": "Reggane",
+    "slug": "reggane"
+  },
+  "code": {
+    "id": "DZ001_reggane",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.061",
+    "lon": "-2.034"
+  },
+  "metadata": {},
+  "source": {}
+}

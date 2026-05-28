@@ -1,0 +1,47 @@
+{
+  "id": "DZ031_boutlelis",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "بوتليليس",
+    "en": "Boutlelis",
+    "slug": "boutlelis"
+  },
+  "code": {
+    "id": "DZ031_boutlelis",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "وهران",
+      "en": "Oran",
+      "slug": "oran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "وهران",
+        "en": "Oran",
+        "slug": "oran"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.624",
+    "lon": "-0.923"
+  },
+  "metadata": {},
+  "source": {}
+}

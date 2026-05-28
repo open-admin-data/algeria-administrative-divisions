@@ -1,0 +1,45 @@
+{
+  "id": "DZ042017",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Ogla El Malha",
+    "en": "El Ogla El Malha",
+    "slug": "el-ogla-el-malha-dz042017"
+  },
+  "code": {
+    "id": "DZ042017",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ042",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.141",
+    "lon": "8.005"
+  },
+  "metadata": {},
+  "source": {}
+}

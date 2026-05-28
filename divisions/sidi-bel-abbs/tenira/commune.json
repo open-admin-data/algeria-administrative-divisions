@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ022_tenira_benachiba-chelia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن عشيبة شلية",
+      "en": "Benachiba Chelia",
+      "slug": "benachiba-chelia"
+    },
+    "code": {
+      "id": "DZ022_tenira_benachiba-chelia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tenira",
+      "level": 2,
+      "name": {
+        "local": "تنيرة",
+        "en": "Tenira",
+        "slug": "tenira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tenira",
+        "level": 2,
+        "name": {
+          "local": "تنيرة",
+          "en": "Tenira",
+          "slug": "tenira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22040"
+    ],
+    "geo": {
+      "lat": "34.964",
+      "lon": "-0.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tenira_hassi-dahou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي دحو",
+      "en": "Hassi Dahou",
+      "slug": "hassi-dahou"
+    },
+    "code": {
+      "id": "DZ022_tenira_hassi-dahou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tenira",
+      "level": 2,
+      "name": {
+        "local": "تنيرة",
+        "en": "Tenira",
+        "slug": "tenira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tenira",
+        "level": 2,
+        "name": {
+          "local": "تنيرة",
+          "en": "Tenira",
+          "slug": "tenira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22049"
+    ],
+    "geo": {
+      "lat": "34.989",
+      "lon": "-0.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tenira_oued-sefioun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي سفيون",
+      "en": "Oued Sefioun",
+      "slug": "oued-sefioun"
+    },
+    "code": {
+      "id": "DZ022_tenira_oued-sefioun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tenira",
+      "level": 2,
+      "name": {
+        "local": "تنيرة",
+        "en": "Tenira",
+        "slug": "tenira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tenira",
+        "level": 2,
+        "name": {
+          "local": "تنيرة",
+          "en": "Tenira",
+          "slug": "tenira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22055"
+    ],
+    "geo": {
+      "lat": "34.997",
+      "lon": "-0.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_tenira_tenira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تنيرة",
+      "en": "Tenira",
+      "slug": "tenira"
+    },
+    "code": {
+      "id": "DZ022_tenira_tenira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_tenira",
+      "level": 2,
+      "name": {
+        "local": "تنيرة",
+        "en": "Tenira",
+        "slug": "tenira"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_tenira",
+        "level": 2,
+        "name": {
+          "local": "تنيرة",
+          "en": "Tenira",
+          "slug": "tenira"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22021"
+    ],
+    "geo": {
+      "lat": "35.006",
+      "lon": "-0.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

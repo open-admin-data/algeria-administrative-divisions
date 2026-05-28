@@ -1,0 +1,29 @@
+{
+  "id": "DZ015",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "قسنطينة",
+    "en": "Constantine",
+    "slug": "constantine-dz015"
+  },
+  "code": {
+    "id": "DZ015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.36",
+    "lon": "6.668"
+  },
+  "metadata": {},
+  "source": {}
+}

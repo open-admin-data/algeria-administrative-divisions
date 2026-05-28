@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ005_seggana_seggana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سقانة",
+      "en": "Seggana",
+      "slug": "seggana"
+    },
+    "code": {
+      "id": "DZ005_seggana_seggana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_seggana",
+      "level": 2,
+      "name": {
+        "local": "سقانة",
+        "en": "Seggana",
+        "slug": "seggana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_seggana",
+        "level": 2,
+        "name": {
+          "local": "سقانة",
+          "en": "Seggana",
+          "slug": "seggana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05027"
+    ],
+    "geo": {
+      "lat": "35.341",
+      "lon": "5.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_seggana_tilatou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيلاطو",
+      "en": "Tilatou",
+      "slug": "tilatou"
+    },
+    "code": {
+      "id": "DZ005_seggana_tilatou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_seggana",
+      "level": 2,
+      "name": {
+        "local": "سقانة",
+        "en": "Seggana",
+        "slug": "seggana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_seggana",
+        "level": 2,
+        "name": {
+          "local": "سقانة",
+          "en": "Seggana",
+          "slug": "seggana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05127"
+    ],
+    "geo": {
+      "lat": "35.315",
+      "lon": "5.715"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

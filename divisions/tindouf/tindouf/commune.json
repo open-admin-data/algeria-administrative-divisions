@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ037_tindouf_oum-el-assel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أم العسل",
+      "en": "Oum El Assel",
+      "slug": "oum-el-assel"
+    },
+    "code": {
+      "id": "DZ037_tindouf_oum-el-assel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037_tindouf",
+      "level": 2,
+      "name": {
+        "local": "تندوف",
+        "en": "Tindouf",
+        "slug": "tindouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "تندوف",
+          "en": "Tindouf",
+          "slug": "tindouf"
+        }
+      },
+      {
+        "id": "DZ037_tindouf",
+        "level": 2,
+        "name": {
+          "local": "تندوف",
+          "en": "Tindouf",
+          "slug": "tindouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37003"
+    ],
+    "geo": {
+      "lat": "28.013",
+      "lon": "-5.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ037_tindouf_tindouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تندوف",
+      "en": "Tindouf",
+      "slug": "tindouf"
+    },
+    "code": {
+      "id": "DZ037_tindouf_tindouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ037_tindouf",
+      "level": 2,
+      "name": {
+        "local": "تندوف",
+        "en": "Tindouf",
+        "slug": "tindouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ037",
+        "level": 1,
+        "name": {
+          "local": "تندوف",
+          "en": "Tindouf",
+          "slug": "tindouf"
+        }
+      },
+      {
+        "id": "DZ037_tindouf",
+        "level": 2,
+        "name": {
+          "local": "تندوف",
+          "en": "Tindouf",
+          "slug": "tindouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37000"
+    ],
+    "geo": {
+      "lat": "27.182",
+      "lon": "-7.035"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

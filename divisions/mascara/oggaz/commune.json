@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_oggaz_alaimia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العلايمية",
+      "en": "Alaimia",
+      "slug": "alaimia"
+    },
+    "code": {
+      "id": "DZ029_oggaz_alaimia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oggaz",
+      "level": 2,
+      "name": {
+        "local": "عقاز",
+        "en": "Oggaz",
+        "slug": "oggaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oggaz",
+        "level": 2,
+        "name": {
+          "local": "عقاز",
+          "en": "Oggaz",
+          "slug": "oggaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29036"
+    ],
+    "geo": {
+      "lat": "35.687",
+      "lon": "-0.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oggaz_oggaz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عقاز",
+      "en": "Oggaz",
+      "slug": "oggaz"
+    },
+    "code": {
+      "id": "DZ029_oggaz_oggaz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oggaz",
+      "level": 2,
+      "name": {
+        "local": "عقاز",
+        "en": "Oggaz",
+        "slug": "oggaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oggaz",
+        "level": 2,
+        "name": {
+          "local": "عقاز",
+          "en": "Oggaz",
+          "slug": "oggaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29029"
+    ],
+    "geo": {
+      "lat": "35.574",
+      "lon": "-0.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_oggaz_ras-el-ain-amirouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رأس عين عميروش",
+      "en": "Ras El Ain Amirouche",
+      "slug": "ras-el-ain-amirouche"
+    },
+    "code": {
+      "id": "DZ029_oggaz_ras-el-ain-amirouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_oggaz",
+      "level": 2,
+      "name": {
+        "local": "عقاز",
+        "en": "Oggaz",
+        "slug": "oggaz"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_oggaz",
+        "level": 2,
+        "name": {
+          "local": "عقاز",
+          "en": "Oggaz",
+          "slug": "oggaz"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29060"
+    ],
+    "geo": {
+      "lat": "35.626",
+      "lon": "-0.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

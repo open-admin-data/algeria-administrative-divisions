@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ029_aouf_aouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عوف",
+      "en": "Aouf",
+      "slug": "aouf"
+    },
+    "code": {
+      "id": "DZ029_aouf_aouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_aouf",
+      "level": 2,
+      "name": {
+        "local": "عوف",
+        "en": "Aouf",
+        "slug": "aouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_aouf",
+        "level": 2,
+        "name": {
+          "local": "عوف",
+          "en": "Aouf",
+          "slug": "aouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29021"
+    ],
+    "geo": {
+      "lat": "35.127",
+      "lon": "0.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_aouf_benian",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بنيان",
+      "en": "Benian",
+      "slug": "benian"
+    },
+    "code": {
+      "id": "DZ029_aouf_benian",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_aouf",
+      "level": 2,
+      "name": {
+        "local": "عوف",
+        "en": "Aouf",
+        "slug": "aouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_aouf",
+        "level": 2,
+        "name": {
+          "local": "عوف",
+          "en": "Aouf",
+          "slug": "aouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29038"
+    ],
+    "geo": {
+      "lat": "35.086",
+      "lon": "0.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_aouf_gharrous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غروس",
+      "en": "Gharrous",
+      "slug": "gharrous"
+    },
+    "code": {
+      "id": "DZ029_aouf_gharrous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_aouf",
+      "level": 2,
+      "name": {
+        "local": "عوف",
+        "en": "Aouf",
+        "slug": "aouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_aouf",
+        "level": 2,
+        "name": {
+          "local": "عوف",
+          "en": "Aouf",
+          "slug": "aouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29047"
+    ],
+    "geo": {
+      "lat": "35.147",
+      "lon": "0.466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

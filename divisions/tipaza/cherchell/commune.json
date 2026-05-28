@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ042_cherchell_cherchell",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "شرشال",
+      "en": "Cherchell",
+      "slug": "cherchell"
+    },
+    "code": {
+      "id": "DZ042_cherchell_cherchell",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_cherchell",
+      "level": 2,
+      "name": {
+        "local": "شرشال",
+        "en": "Cherchell",
+        "slug": "cherchell"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_cherchell",
+        "level": 2,
+        "name": {
+          "local": "شرشال",
+          "en": "Cherchell",
+          "slug": "cherchell"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42002"
+    ],
+    "geo": {
+      "lat": "36.521",
+      "lon": "2.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_cherchell_hadjret-ennous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حجرة النص",
+      "en": "Hadjret Ennous",
+      "slug": "hadjret-ennous"
+    },
+    "code": {
+      "id": "DZ042_cherchell_hadjret-ennous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_cherchell",
+      "level": 2,
+      "name": {
+        "local": "شرشال",
+        "en": "Cherchell",
+        "slug": "cherchell"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_cherchell",
+        "level": 2,
+        "name": {
+          "local": "شرشال",
+          "en": "Cherchell",
+          "slug": "cherchell"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42029"
+    ],
+    "geo": {
+      "lat": "36.521",
+      "lon": "2.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_cherchell_sidi-ghiles",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي غيلاس",
+      "en": "Sidi Ghiles",
+      "slug": "sidi-ghiles"
+    },
+    "code": {
+      "id": "DZ042_cherchell_sidi-ghiles",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_cherchell",
+      "level": 2,
+      "name": {
+        "local": "شرشال",
+        "en": "Cherchell",
+        "slug": "cherchell"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_cherchell",
+        "level": 2,
+        "name": {
+          "local": "شرشال",
+          "en": "Cherchell",
+          "slug": "cherchell"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42021"
+    ],
+    "geo": {
+      "lat": "36.562",
+      "lon": "2.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042_cherchell_sidi-semiane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي سميان",
+      "en": "Sidi Semiane",
+      "slug": "sidi-semiane"
+    },
+    "code": {
+      "id": "DZ042_cherchell_sidi-semiane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042_cherchell",
+      "level": 2,
+      "name": {
+        "local": "شرشال",
+        "en": "Cherchell",
+        "slug": "cherchell"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تيبازة",
+          "en": "Tipaza",
+          "slug": "tipaza"
+        }
+      },
+      {
+        "id": "DZ042_cherchell",
+        "level": 2,
+        "name": {
+          "local": "شرشال",
+          "en": "Cherchell",
+          "slug": "cherchell"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42041"
+    ],
+    "geo": {
+      "lat": "36.48",
+      "lon": "2.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

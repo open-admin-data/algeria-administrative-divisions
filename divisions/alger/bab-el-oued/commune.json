@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ016_bab-el-oued_bab-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "باب الوادي",
+      "en": "Bab El Oued",
+      "slug": "bab-el-oued"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued_bab-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bab-el-oued",
+      "level": 2,
+      "name": {
+        "local": "باب الوادي",
+        "en": "Bab El Oued",
+        "slug": "bab-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bab-el-oued",
+        "level": 2,
+        "name": {
+          "local": "باب الوادي",
+          "en": "Bab El Oued",
+          "slug": "bab-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16008"
+    ],
+    "geo": {
+      "lat": "36.794",
+      "lon": "3.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bab-el-oued_bologhine-ibnou-ziri",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بولوغين بن زيري",
+      "en": "Bologhine Ibnou Ziri",
+      "slug": "bologhine-ibnou-ziri"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued_bologhine-ibnou-ziri",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bab-el-oued",
+      "level": 2,
+      "name": {
+        "local": "باب الوادي",
+        "en": "Bab El Oued",
+        "slug": "bab-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bab-el-oued",
+        "level": 2,
+        "name": {
+          "local": "باب الوادي",
+          "en": "Bab El Oued",
+          "slug": "bab-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16030"
+    ],
+    "geo": {
+      "lat": "36.794",
+      "lon": "3.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bab-el-oued_casbah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القصبة",
+      "en": "Casbah",
+      "slug": "casbah"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued_casbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bab-el-oued",
+      "level": 2,
+      "name": {
+        "local": "باب الوادي",
+        "en": "Bab El Oued",
+        "slug": "bab-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bab-el-oued",
+        "level": 2,
+        "name": {
+          "local": "باب الوادي",
+          "en": "Bab El Oued",
+          "slug": "bab-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16001"
+    ],
+    "geo": {
+      "lat": "36.786",
+      "lon": "3.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bab-el-oued_oued-koriche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي قريش",
+      "en": "Oued Koriche",
+      "slug": "oued-koriche"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued_oued-koriche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bab-el-oued",
+      "level": 2,
+      "name": {
+        "local": "باب الوادي",
+        "en": "Bab El Oued",
+        "slug": "bab-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bab-el-oued",
+        "level": 2,
+        "name": {
+          "local": "باب الوادي",
+          "en": "Bab El Oued",
+          "slug": "bab-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16182"
+    ],
+    "geo": {
+      "lat": "36.787",
+      "lon": "3.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bab-el-oued_rais-hamidou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الرايس حميدو",
+      "en": "Rais Hamidou",
+      "slug": "rais-hamidou"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued_rais-hamidou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bab-el-oued",
+      "level": 2,
+      "name": {
+        "local": "باب الوادي",
+        "en": "Bab El Oued",
+        "slug": "bab-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bab-el-oued",
+        "level": 2,
+        "name": {
+          "local": "باب الوادي",
+          "en": "Bab El Oued",
+          "slug": "bab-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16060"
+    ],
+    "geo": {
+      "lat": "36.809",
+      "lon": "3.006"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

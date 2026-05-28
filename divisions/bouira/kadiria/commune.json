@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ010_kadiria_aomar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أعمر",
+      "en": "Aomar",
+      "slug": "aomar"
+    },
+    "code": {
+      "id": "DZ010_kadiria_aomar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_kadiria",
+      "level": 2,
+      "name": {
+        "local": "القادرية",
+        "en": "Kadiria",
+        "slug": "kadiria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_kadiria",
+        "level": 2,
+        "name": {
+          "local": "القادرية",
+          "en": "Kadiria",
+          "slug": "kadiria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10010"
+    ],
+    "geo": {
+      "lat": "36.503",
+      "lon": "3.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_kadiria_djebahia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جباحية",
+      "en": "Djebahia",
+      "slug": "djebahia"
+    },
+    "code": {
+      "id": "DZ010_kadiria_djebahia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_kadiria",
+      "level": 2,
+      "name": {
+        "local": "القادرية",
+        "en": "Kadiria",
+        "slug": "kadiria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_kadiria",
+        "level": 2,
+        "name": {
+          "local": "القادرية",
+          "en": "Kadiria",
+          "slug": "kadiria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10036"
+    ],
+    "geo": {
+      "lat": "36.463",
+      "lon": "3.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ010_kadiria_kadiria",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "قادرية",
+      "en": "Kadiria",
+      "slug": "kadiria"
+    },
+    "code": {
+      "id": "DZ010_kadiria_kadiria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ010_kadiria",
+      "level": 2,
+      "name": {
+        "local": "القادرية",
+        "en": "Kadiria",
+        "slug": "kadiria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ010",
+        "level": 1,
+        "name": {
+          "local": "البويرة",
+          "en": "Bouira",
+          "slug": "bouira"
+        }
+      },
+      {
+        "id": "DZ010_kadiria",
+        "level": 2,
+        "name": {
+          "local": "القادرية",
+          "en": "Kadiria",
+          "slug": "kadiria"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10006"
+    ],
+    "geo": {
+      "lat": "36.527",
+      "lon": "3.625"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

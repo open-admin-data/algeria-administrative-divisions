@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ017_djelfa_djelfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    },
+    "code": {
+      "id": "DZ017_djelfa_djelfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017_djelfa",
+      "level": 2,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      },
+      {
+        "id": "DZ017_djelfa",
+        "level": 2,
+        "name": {
+          "local": "الجلفة",
+          "en": "Djelfa",
+          "slug": "djelfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17000"
+    ],
+    "geo": {
+      "lat": "34.672",
+      "lon": "3.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

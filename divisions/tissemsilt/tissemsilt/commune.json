@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ038_tissemsilt_ouled-bessam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد بسام",
+      "en": "Ouled Bessam",
+      "slug": "ouled-bessam"
+    },
+    "code": {
+      "id": "DZ038_tissemsilt_ouled-bessam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_tissemsilt",
+      "level": 2,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_tissemsilt",
+        "level": 2,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38014"
+    ],
+    "geo": {
+      "lat": "35.614",
+      "lon": "1.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ038_tissemsilt_tissemsilt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt"
+    },
+    "code": {
+      "id": "DZ038_tissemsilt_tissemsilt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ038_tissemsilt",
+      "level": 2,
+      "name": {
+        "local": "تيسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ038",
+        "level": 1,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      },
+      {
+        "id": "DZ038_tissemsilt",
+        "level": 2,
+        "name": {
+          "local": "تيسمسيلت",
+          "en": "Tissemsilt",
+          "slug": "tissemsilt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38000"
+    ],
+    "geo": {
+      "lat": "35.614",
+      "lon": "1.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

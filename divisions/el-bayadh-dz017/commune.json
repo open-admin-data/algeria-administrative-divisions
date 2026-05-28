@@ -1,0 +1,992 @@
+[
+  {
+    "id": "DZ017001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Orak",
+      "en": "Ain El Orak",
+      "slug": "ain-el-orak-dz017001"
+    },
+    "code": {
+      "id": "DZ017001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.423",
+      "lon": "0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arbaouat",
+      "en": "Arbaouat",
+      "slug": "arbaouat-dz017002"
+    },
+    "code": {
+      "id": "DZ017002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.142",
+      "lon": "0.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougtoub",
+      "en": "Bougtoub",
+      "slug": "bougtoub-dz017003"
+    },
+    "code": {
+      "id": "DZ017003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.031",
+      "lon": "0.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boussemghoun",
+      "en": "Boussemghoun",
+      "slug": "boussemghoun-dz017004"
+    },
+    "code": {
+      "id": "DZ017004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.814",
+      "lon": "0.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Brezina",
+      "en": "Brezina",
+      "slug": "brezina-dz017005"
+    },
+    "code": {
+      "id": "DZ017005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.536",
+      "lon": "1.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cheguig",
+      "en": "Cheguig",
+      "slug": "cheguig-dz017006"
+    },
+    "code": {
+      "id": "DZ017006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.982",
+      "lon": "1.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chellala",
+      "en": "Chellala",
+      "slug": "chellala-dz017007"
+    },
+    "code": {
+      "id": "DZ017007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.028",
+      "lon": "0.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Abiodh Sidi Cheikh",
+      "en": "El Abiodh Sidi Cheikh",
+      "slug": "el-abiodh-sidi-cheikh-dz017008"
+    },
+    "code": {
+      "id": "DZ017008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.104",
+      "lon": "1.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Bayadh",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017009"
+    },
+    "code": {
+      "id": "DZ017009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.647",
+      "lon": "1.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Bnoud",
+      "en": "El Bnoud",
+      "slug": "el-bnoud-dz017010"
+    },
+    "code": {
+      "id": "DZ017010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.71",
+      "lon": "0.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kheither",
+      "en": "El Kheither",
+      "slug": "el-kheither-dz017011"
+    },
+    "code": {
+      "id": "DZ017011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.221",
+      "lon": "0.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mehara",
+      "en": "El Mehara",
+      "slug": "el-mehara-dz017012"
+    },
+    "code": {
+      "id": "DZ017012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.272",
+      "lon": "0.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ghassoul",
+      "en": "Ghassoul",
+      "slug": "ghassoul-dz017013"
+    },
+    "code": {
+      "id": "DZ017013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.496",
+      "lon": "1.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hadj Mechri Boualem",
+      "en": "Hadj Mechri Boualem",
+      "slug": "hadj-mechri-boualem-dz017014"
+    },
+    "code": {
+      "id": "DZ017014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.695",
+      "lon": "1.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kef El Ahmar",
+      "en": "Kef El Ahmar",
+      "slug": "kef-el-ahmar-dz017015"
+    },
+    "code": {
+      "id": "DZ017015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.84",
+      "lon": "0.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Krakda",
+      "en": "Krakda",
+      "slug": "krakda-dz017016"
+    },
+    "code": {
+      "id": "DZ017016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.367",
+      "lon": "1.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rogassa",
+      "en": "Rogassa",
+      "slug": "rogassa-dz017017"
+    },
+    "code": {
+      "id": "DZ017017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.04",
+      "lon": "0.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ameur",
+      "en": "Sidi Ameur",
+      "slug": "sidi-ameur-dz017018"
+    },
+    "code": {
+      "id": "DZ017018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.614",
+      "lon": "1.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Slimane",
+      "en": "Sidi Slimane",
+      "slug": "sidi-slimane-dz017019"
+    },
+    "code": {
+      "id": "DZ017019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.786",
+      "lon": "1.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Tifour",
+      "en": "Sidi Tifour",
+      "slug": "sidi-tifour-dz017020"
+    },
+    "code": {
+      "id": "DZ017020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.63",
+      "lon": "1.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Stitten",
+      "en": "Stitten",
+      "slug": "stitten-dz017021"
+    },
+    "code": {
+      "id": "DZ017021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.838",
+      "lon": "1.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ017022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tousmouline",
+      "en": "Tousmouline",
+      "slug": "tousmouline-dz017022"
+    },
+    "code": {
+      "id": "DZ017022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ017",
+        "level": 1,
+        "name": {
+          "local": "البيض",
+          "en": "El Bayadh",
+          "slug": "el-bayadh-dz017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.62",
+      "lon": "0.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ026_ouzera_ben-chicao",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن شكاو",
+      "en": "Ben Chicao",
+      "slug": "ben-chicao"
+    },
+    "code": {
+      "id": "DZ026_ouzera_ben-chicao",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouzera",
+      "level": 2,
+      "name": {
+        "local": "وزرة",
+        "en": "Ouzera",
+        "slug": "ouzera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouzera",
+        "level": 2,
+        "name": {
+          "local": "وزرة",
+          "en": "Ouzera",
+          "slug": "ouzera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26012"
+    ],
+    "geo": {
+      "lat": "36.192",
+      "lon": "2.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouzera_el-hamdania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحمدانية",
+      "en": "El Hamdania",
+      "slug": "el-hamdania"
+    },
+    "code": {
+      "id": "DZ026_ouzera_el-hamdania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouzera",
+      "level": 2,
+      "name": {
+        "local": "وزرة",
+        "en": "Ouzera",
+        "slug": "ouzera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouzera",
+        "level": 2,
+        "name": {
+          "local": "وزرة",
+          "en": "Ouzera",
+          "slug": "ouzera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26060"
+    ],
+    "geo": {
+      "lat": "36.35",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouzera_ouzera",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وزرة",
+      "en": "Ouzera",
+      "slug": "ouzera"
+    },
+    "code": {
+      "id": "DZ026_ouzera_ouzera",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouzera",
+      "level": 2,
+      "name": {
+        "local": "وزرة",
+        "en": "Ouzera",
+        "slug": "ouzera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouzera",
+        "level": 2,
+        "name": {
+          "local": "وزرة",
+          "en": "Ouzera",
+          "slug": "ouzera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26019"
+    ],
+    "geo": {
+      "lat": "36.265",
+      "lon": "2.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_ouzera_tizi-mahdi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي مهدي",
+      "en": "Tizi Mahdi",
+      "slug": "tizi-mahdi"
+    },
+    "code": {
+      "id": "DZ026_ouzera_tizi-mahdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_ouzera",
+      "level": 2,
+      "name": {
+        "local": "وزرة",
+        "en": "Ouzera",
+        "slug": "ouzera"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_ouzera",
+        "level": 2,
+        "name": {
+          "local": "وزرة",
+          "en": "Ouzera",
+          "slug": "ouzera"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26076"
+    ],
+    "geo": {
+      "lat": "36.215",
+      "lon": "2.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

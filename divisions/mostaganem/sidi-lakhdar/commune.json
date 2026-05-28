@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ027_sidi-lakhdar_benabdelmalek-ramdane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بن عبد المالك رمضان",
+      "en": "Benabdelmalek Ramdane",
+      "slug": "benabdelmalek-ramdane"
+    },
+    "code": {
+      "id": "DZ027_sidi-lakhdar_benabdelmalek-ramdane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-lakhdar",
+      "level": 2,
+      "name": {
+        "local": "سيدي لخضر",
+        "en": "Sidi Lakhdar",
+        "slug": "sidi-lakhdar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-lakhdar",
+        "level": 2,
+        "name": {
+          "local": "سيدي لخضر",
+          "en": "Sidi Lakhdar",
+          "slug": "sidi-lakhdar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27008"
+    ],
+    "geo": {
+      "lat": "36.153",
+      "lon": "0.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-lakhdar_hadjadj",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حجاج",
+      "en": "Hadjadj",
+      "slug": "hadjadj"
+    },
+    "code": {
+      "id": "DZ027_sidi-lakhdar_hadjadj",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-lakhdar",
+      "level": 2,
+      "name": {
+        "local": "سيدي لخضر",
+        "en": "Sidi Lakhdar",
+        "slug": "sidi-lakhdar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-lakhdar",
+        "level": 2,
+        "name": {
+          "local": "سيدي لخضر",
+          "en": "Sidi Lakhdar",
+          "slug": "sidi-lakhdar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27015"
+    ],
+    "geo": {
+      "lat": "36.126",
+      "lon": "0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ027_sidi-lakhdar_sidi-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي لخضر",
+      "en": "Sidi-Lakhdar",
+      "slug": "sidi-lakhdar"
+    },
+    "code": {
+      "id": "DZ027_sidi-lakhdar_sidi-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ027_sidi-lakhdar",
+      "level": 2,
+      "name": {
+        "local": "سيدي لخضر",
+        "en": "Sidi Lakhdar",
+        "slug": "sidi-lakhdar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ027",
+        "level": 1,
+        "name": {
+          "local": "مستغانم",
+          "en": "Mostaganem",
+          "slug": "mostaganem"
+        }
+      },
+      {
+        "id": "DZ027_sidi-lakhdar",
+        "level": 2,
+        "name": {
+          "local": "سيدي لخضر",
+          "en": "Sidi Lakhdar",
+          "slug": "sidi-lakhdar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27007"
+    ],
+    "geo": {
+      "lat": "36.181",
+      "lon": "0.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

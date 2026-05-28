@@ -1,0 +1,613 @@
+[
+  {
+    "id": "DZ016_bab-el-oued",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "باب الوادي",
+      "en": "Bab El Oued",
+      "slug": "bab-el-oued"
+    },
+    "code": {
+      "id": "DZ016_bab-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.794",
+      "lon": "3.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_baraki",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "براقي",
+      "en": "Baraki",
+      "slug": "baraki"
+    },
+    "code": {
+      "id": "DZ016_baraki",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.653",
+      "lon": "3.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bir-mourad-rais",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر مراد رايس",
+      "en": "Bir Mourad Rais",
+      "slug": "bir-mourad-rais"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.739",
+      "lon": "3.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_birtouta",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بئر توتة",
+      "en": "Birtouta",
+      "slug": "birtouta"
+    },
+    "code": {
+      "id": "DZ016_birtouta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.612",
+      "lon": "2.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bouzareah",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "بوزريعة",
+      "en": "Bouzareah",
+      "slug": "bouzareah"
+    },
+    "code": {
+      "id": "DZ016_bouzareah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.777",
+      "lon": "3.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_cheraga",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الشراقة",
+      "en": "Cheraga",
+      "slug": "cheraga"
+    },
+    "code": {
+      "id": "DZ016_cheraga",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.392",
+      "lon": "5.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_dar-el-beida",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الدار البيضاء",
+      "en": "Dar El Beida",
+      "slug": "dar-el-beida"
+    },
+    "code": {
+      "id": "DZ016_dar-el-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.623",
+      "lon": "3.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_draria",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الدرارية",
+      "en": "Draria",
+      "slug": "draria"
+    },
+    "code": {
+      "id": "DZ016_draria",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.703",
+      "lon": "2.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_el-harrach",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الحراش",
+      "en": "El Harrach",
+      "slug": "el-harrach"
+    },
+    "code": {
+      "id": "DZ016_el-harrach",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.714",
+      "lon": "3.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_hussein-dey",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "حسين داي",
+      "en": "Hussein Dey",
+      "slug": "hussein-dey"
+    },
+    "code": {
+      "id": "DZ016_hussein-dey",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.733",
+      "lon": "3.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_rouiba",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "الرويبة",
+      "en": "Rouiba",
+      "slug": "rouiba"
+    },
+    "code": {
+      "id": "DZ016_rouiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.746",
+      "lon": "3.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_sidi-mhamed",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "سيدي امحمد",
+      "en": "Sidi M'hamed",
+      "slug": "sidi-mhamed"
+    },
+    "code": {
+      "id": "DZ016_sidi-mhamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.091",
+      "lon": "3.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_zeralda",
+    "level": 2,
+    "level_name": {
+      "local": "دائرة",
+      "en": "Daira"
+    },
+    "name": {
+      "local": "زرالدة",
+      "en": "Zeralda",
+      "slug": "zeralda"
+    },
+    "code": {
+      "id": "DZ016_zeralda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.709",
+      "lon": "2.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ045005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bou Ismail",
+    "en": "Bou Ismail",
+    "slug": "bou-ismail-dz045005"
+  },
+  "code": {
+    "id": "DZ045005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "تيبازة",
+      "en": "Tipaza",
+      "slug": "tipaza-dz045"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "تيبازة",
+        "en": "Tipaza",
+        "slug": "tipaza-dz045"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.644",
+    "lon": "2.706"
+  },
+  "metadata": {},
+  "source": {}
+}

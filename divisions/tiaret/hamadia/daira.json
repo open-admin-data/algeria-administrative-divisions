@@ -1,0 +1,47 @@
+{
+  "id": "DZ014_hamadia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "حمادية",
+    "en": "Hamadia",
+    "slug": "hamadia"
+  },
+  "code": {
+    "id": "DZ014_hamadia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.448",
+    "lon": "1.995"
+  },
+  "metadata": {},
+  "source": {}
+}

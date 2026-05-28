@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ015_ain-el-hammam_abi-youcef",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أبي يوسف",
+      "en": "Abi-Youcef",
+      "slug": "abi-youcef"
+    },
+    "code": {
+      "id": "DZ015_ain-el-hammam_abi-youcef",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ain-el-hammam",
+      "level": 2,
+      "name": {
+        "local": "عين الحمام",
+        "en": "Ain El Hammam",
+        "slug": "ain-el-hammam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ain-el-hammam",
+        "level": 2,
+        "name": {
+          "local": "عين الحمام",
+          "en": "Ain El Hammam",
+          "slug": "ain-el-hammam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.525",
+      "lon": "4.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ain-el-hammam_ain-el-hammam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحمام",
+      "en": "Ain-El-Hammam",
+      "slug": "ain-el-hammam"
+    },
+    "code": {
+      "id": "DZ015_ain-el-hammam_ain-el-hammam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ain-el-hammam",
+      "level": 2,
+      "name": {
+        "local": "عين الحمام",
+        "en": "Ain El Hammam",
+        "slug": "ain-el-hammam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ain-el-hammam",
+        "level": 2,
+        "name": {
+          "local": "عين الحمام",
+          "en": "Ain El Hammam",
+          "slug": "ain-el-hammam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15002"
+    ],
+    "geo": {
+      "lat": "36.576",
+      "lon": "4.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ain-el-hammam_ait-yahia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت يحيى",
+      "en": "Ait-Yahia",
+      "slug": "ait-yahia"
+    },
+    "code": {
+      "id": "DZ015_ain-el-hammam_ait-yahia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ain-el-hammam",
+      "level": 2,
+      "name": {
+        "local": "عين الحمام",
+        "en": "Ain El Hammam",
+        "slug": "ain-el-hammam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ain-el-hammam",
+        "level": 2,
+        "name": {
+          "local": "عين الحمام",
+          "en": "Ain El Hammam",
+          "slug": "ain-el-hammam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15072"
+    ],
+    "geo": {
+      "lat": "36.603",
+      "lon": "4.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ain-el-hammam_akbil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "اقبيل",
+      "en": "Akbil",
+      "slug": "akbil"
+    },
+    "code": {
+      "id": "DZ015_ain-el-hammam_akbil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ain-el-hammam",
+      "level": 2,
+      "name": {
+        "local": "عين الحمام",
+        "en": "Ain El Hammam",
+        "slug": "ain-el-hammam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ain-el-hammam",
+        "level": 2,
+        "name": {
+          "local": "عين الحمام",
+          "en": "Ain El Hammam",
+          "slug": "ain-el-hammam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15092"
+    ],
+    "geo": {
+      "lat": "36.507",
+      "lon": "4.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

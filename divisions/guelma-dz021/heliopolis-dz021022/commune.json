@@ -1,0 +1,45 @@
+{
+  "id": "DZ021022",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Heliopolis",
+    "en": "Heliopolis",
+    "slug": "heliopolis-dz021022"
+  },
+  "code": {
+    "id": "DZ021022",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.534",
+    "lon": "7.438"
+  },
+  "metadata": {},
+  "source": {}
+}

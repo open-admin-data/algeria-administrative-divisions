@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ015_ouadhias_agouni-gueghrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أقني قغران",
+      "en": "Agouni-Gueghrane",
+      "slug": "agouni-gueghrane"
+    },
+    "code": {
+      "id": "DZ015_ouadhias_agouni-gueghrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouadhias",
+      "level": 2,
+      "name": {
+        "local": "واضية",
+        "en": "Ouadhias",
+        "slug": "ouadhias"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouadhias",
+        "level": 2,
+        "name": {
+          "local": "واضية",
+          "en": "Ouadhias",
+          "slug": "ouadhias"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15022"
+    ],
+    "geo": {
+      "lat": "36.683",
+      "lon": "4.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouadhias_ait-bouaddou",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أيت بــوادو",
+      "en": "Ait Bouaddou",
+      "slug": "ait-bouaddou"
+    },
+    "code": {
+      "id": "DZ015_ouadhias_ait-bouaddou",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouadhias",
+      "level": 2,
+      "name": {
+        "local": "واضية",
+        "en": "Ouadhias",
+        "slug": "ouadhias"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouadhias",
+        "level": 2,
+        "name": {
+          "local": "واضية",
+          "en": "Ouadhias",
+          "slug": "ouadhias"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15024"
+    ],
+    "geo": {
+      "lat": "36.683",
+      "lon": "4.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouadhias_ouadhias",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "واضية",
+      "en": "Ouadhias",
+      "slug": "ouadhias"
+    },
+    "code": {
+      "id": "DZ015_ouadhias_ouadhias",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouadhias",
+      "level": 2,
+      "name": {
+        "local": "واضية",
+        "en": "Ouadhias",
+        "slug": "ouadhias"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouadhias",
+        "level": 2,
+        "name": {
+          "local": "واضية",
+          "en": "Ouadhias",
+          "slug": "ouadhias"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15016"
+    ],
+    "geo": {
+      "lat": "36.683",
+      "lon": "4.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_ouadhias_tizi-ntleta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي نثلاثة",
+      "en": "Tizi N'tleta",
+      "slug": "tizi-ntleta"
+    },
+    "code": {
+      "id": "DZ015_ouadhias_tizi-ntleta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_ouadhias",
+      "level": 2,
+      "name": {
+        "local": "واضية",
+        "en": "Ouadhias",
+        "slug": "ouadhias"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_ouadhias",
+        "level": 2,
+        "name": {
+          "local": "واضية",
+          "en": "Ouadhias",
+          "slug": "ouadhias"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15049"
+    ],
+    "geo": {
+      "lat": "36.683",
+      "lon": "4.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

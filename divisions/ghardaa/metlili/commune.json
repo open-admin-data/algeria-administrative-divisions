@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ047_metlili_metlili",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "متليلي",
+      "en": "Metlili",
+      "slug": "metlili"
+    },
+    "code": {
+      "id": "DZ047_metlili_metlili",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_metlili",
+      "level": 2,
+      "name": {
+        "local": "متليلي",
+        "en": "Metlili",
+        "slug": "metlili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_metlili",
+        "level": 2,
+        "name": {
+          "local": "متليلي",
+          "en": "Metlili",
+          "slug": "metlili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47002"
+    ],
+    "geo": {
+      "lat": "32.432",
+      "lon": "3.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ047_metlili_sebseb",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سبسب",
+      "en": "Sebseb",
+      "slug": "sebseb"
+    },
+    "code": {
+      "id": "DZ047_metlili_sebseb",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ047_metlili",
+      "level": 2,
+      "name": {
+        "local": "متليلي",
+        "en": "Metlili",
+        "slug": "metlili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ047",
+        "level": 1,
+        "name": {
+          "local": "غرداية",
+          "en": "Ghardaïa",
+          "slug": "ghardaa"
+        }
+      },
+      {
+        "id": "DZ047_metlili",
+        "level": 2,
+        "name": {
+          "local": "متليلي",
+          "en": "Metlili",
+          "slug": "metlili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47025"
+    ],
+    "geo": {
+      "lat": "32.309",
+      "lon": "2.867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

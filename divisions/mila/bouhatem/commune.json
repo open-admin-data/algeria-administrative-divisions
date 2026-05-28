@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ043_bouhatem_bouhatem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوحاتم",
+      "en": "Bouhatem",
+      "slug": "bouhatem"
+    },
+    "code": {
+      "id": "DZ043_bouhatem_bouhatem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_bouhatem",
+      "level": 2,
+      "name": {
+        "local": "بوحاتم",
+        "en": "Bouhatem",
+        "slug": "bouhatem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_bouhatem",
+        "level": 2,
+        "name": {
+          "local": "بوحاتم",
+          "en": "Bouhatem",
+          "slug": "bouhatem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43022"
+    ],
+    "geo": {
+      "lat": "36.317",
+      "lon": "6.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ043_bouhatem_derrahi-bousselah",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "دراحي بوصلاح",
+      "en": "Derrahi Bousselah",
+      "slug": "derrahi-bousselah"
+    },
+    "code": {
+      "id": "DZ043_bouhatem_derrahi-bousselah",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ043_bouhatem",
+      "level": 2,
+      "name": {
+        "local": "بوحاتم",
+        "en": "Bouhatem",
+        "slug": "bouhatem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ043",
+        "level": 1,
+        "name": {
+          "local": "ميلة",
+          "en": "Mila",
+          "slug": "mila"
+        }
+      },
+      {
+        "id": "DZ043_bouhatem",
+        "level": 2,
+        "name": {
+          "local": "بوحاتم",
+          "en": "Bouhatem",
+          "slug": "bouhatem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43046"
+    ],
+    "geo": {
+      "lat": "36.317",
+      "lon": "6.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

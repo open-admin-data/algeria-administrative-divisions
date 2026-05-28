@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ046_oulhassa-gheraba_oulhaca-el-gheraba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ولهاصة الغرابة",
+      "en": "Oulhaca El Gheraba",
+      "slug": "oulhaca-el-gheraba"
+    },
+    "code": {
+      "id": "DZ046_oulhassa-gheraba_oulhaca-el-gheraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_oulhassa-gheraba",
+      "level": 2,
+      "name": {
+        "local": "ولهاصة الغرابة",
+        "en": "Oulhassa Gheraba",
+        "slug": "oulhassa-gheraba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_oulhassa-gheraba",
+        "level": 2,
+        "name": {
+          "local": "ولهاصة الغرابة",
+          "en": "Oulhassa Gheraba",
+          "slug": "oulhassa-gheraba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46053"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "-0.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ046_oulhassa-gheraba_sidi-ouriache",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي ورياش",
+      "en": "Sidi Ouriache",
+      "slug": "sidi-ouriache"
+    },
+    "code": {
+      "id": "DZ046_oulhassa-gheraba_sidi-ouriache",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ046_oulhassa-gheraba",
+      "level": 2,
+      "name": {
+        "local": "ولهاصة الغرابة",
+        "en": "Oulhassa Gheraba",
+        "slug": "oulhassa-gheraba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ046",
+        "level": 1,
+        "name": {
+          "local": "عين تيموشنت",
+          "en": "Aïn Témouchent",
+          "slug": "an-tmouchent"
+        }
+      },
+      {
+        "id": "DZ046_oulhassa-gheraba",
+        "level": 2,
+        "name": {
+          "local": "ولهاصة الغرابة",
+          "en": "Oulhassa Gheraba",
+          "slug": "oulhassa-gheraba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46024"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "-0.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

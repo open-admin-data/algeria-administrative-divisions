@@ -1,0 +1,35 @@
+# Illizi — Algeria Administrative Divisions
+
+> 2 dairas, 4 communes
+> Code: DZ033
+> Coordinates: 26.526, 8.07
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### إيليزي (Illizi)
+
+Code: DZ033_illizi, Coordinates: 26.491, 8.349
+Communes: 1
+
+#### إيليزي (Illizi)
+
+Code: DZ033_illizi_illizi, Postal: 33000, Coordinates: 26.491, 8.349
+
+### إن أمناس (In Amenas)
+
+Code: DZ033_in-amenas, Coordinates: 28.583, 8.456
+Communes: 3
+
+#### برج عمر إدريس (Bordj Omar Driss)
+
+Code: DZ033_in-amenas_bordj-omar-driss, Postal: 33003, Coordinates: 28.206, 7.181
+
+#### دبداب (Debdeb)
+
+Code: DZ033_in-amenas_debdeb, Postal: 33004, Coordinates: 29.522, 8.897
+
+#### إن أمناس (In Amenas)
+
+Code: DZ033_in-amenas_in-amenas, Postal: 33001, Coordinates: 28.02, 9.289
+

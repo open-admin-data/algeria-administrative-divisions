@@ -1,0 +1,45 @@
+{
+  "id": "DZ046005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj El Emir Abdelkader",
+    "en": "Bordj El Emir Abdelkader",
+    "slug": "bordj-el-emir-abdelkader-dz046005"
+  },
+  "code": {
+    "id": "DZ046005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ046",
+    "level": 1,
+    "name": {
+      "local": "تسمسيلت",
+      "en": "Tissemsilt",
+      "slug": "tissemsilt-dz046"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ046",
+      "level": 1,
+      "name": {
+        "local": "تسمسيلت",
+        "en": "Tissemsilt",
+        "slug": "tissemsilt-dz046"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.824",
+    "lon": "2.236"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ031008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mekmen Ben Amar",
+    "en": "Mekmen Ben Amar",
+    "slug": "mekmen-ben-amar-dz031008"
+  },
+  "code": {
+    "id": "DZ031008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.844",
+    "lon": "-0.774"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ004033",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Mouradia",
+    "en": "El Mouradia",
+    "slug": "el-mouradia-dz004033"
+  },
+  "code": {
+    "id": "DZ004033",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ004",
+    "level": 1,
+    "name": {
+      "local": "الجزائر",
+      "en": "Alger",
+      "slug": "alger-dz004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ004",
+      "level": 1,
+      "name": {
+        "local": "الجزائر",
+        "en": "Alger",
+        "slug": "alger-dz004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.752",
+    "lon": "3.05"
+  },
+  "metadata": {},
+  "source": {}
+}

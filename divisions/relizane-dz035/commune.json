@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "DZ035001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Rahma",
+      "en": "Ain Rahma",
+      "slug": "ain-rahma-dz035001"
+    },
+    "code": {
+      "id": "DZ035001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.64",
+      "lon": "0.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Tarek",
+      "en": "Ain Tarek",
+      "slug": "ain-tarek-dz035002"
+    },
+    "code": {
+      "id": "DZ035002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.776",
+      "lon": "1.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ammi Moussa",
+      "en": "Ammi Moussa",
+      "slug": "ammi-moussa-dz035003"
+    },
+    "code": {
+      "id": "DZ035003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.84",
+      "lon": "1.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belaassel Bouzegza",
+      "en": "Belaassel Bouzegza",
+      "slug": "belaassel-bouzegza-dz035004"
+    },
+    "code": {
+      "id": "DZ035004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.824",
+      "lon": "0.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Daoud",
+      "en": "Ben Daoud",
+      "slug": "ben-daoud-dz035005"
+    },
+    "code": {
+      "id": "DZ035005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.652",
+      "lon": "0.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Dergoun",
+      "en": "Beni Dergoun",
+      "slug": "beni-dergoun-dz035006"
+    },
+    "code": {
+      "id": "DZ035006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.816",
+      "lon": "0.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beni Zentis",
+      "en": "Beni Zentis",
+      "slug": "beni-zentis-dz035007"
+    },
+    "code": {
+      "id": "DZ035007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.093",
+      "lon": "0.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar Ben Abdellah",
+      "en": "Dar Ben Abdellah",
+      "slug": "dar-ben-abdellah-dz035008"
+    },
+    "code": {
+      "id": "DZ035008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.683",
+      "lon": "0.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djidiouia",
+      "en": "Djidiouia",
+      "slug": "djidiouia-dz035009"
+    },
+    "code": {
+      "id": "DZ035009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.953",
+      "lon": "0.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Guettar",
+      "en": "El Guettar",
+      "slug": "el-guettar-dz035010"
+    },
+    "code": {
+      "id": "DZ035010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.084",
+      "lon": "0.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El H'Madna",
+      "en": "El H'Madna",
+      "slug": "el-hmadna-dz035013"
+    },
+    "code": {
+      "id": "DZ035013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.897",
+      "lon": "0.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hamri",
+      "en": "El Hamri",
+      "slug": "el-hamri-dz035011"
+    },
+    "code": {
+      "id": "DZ035011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.034",
+      "lon": "0.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hassi",
+      "en": "El Hassi",
+      "slug": "el-hassi-dz035012"
+    },
+    "code": {
+      "id": "DZ035012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.741",
+      "lon": "1.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Matmar",
+      "en": "El Matmar",
+      "slug": "el-matmar-dz035014"
+    },
+    "code": {
+      "id": "DZ035014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.722",
+      "lon": "0.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Oueldja",
+      "en": "El Oueldja",
+      "slug": "el-oueldja-dz035015"
+    },
+    "code": {
+      "id": "DZ035015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.938",
+      "lon": "1.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Had Chekkala",
+      "en": "Had Chekkala",
+      "slug": "had-chekkala-dz035016"
+    },
+    "code": {
+      "id": "DZ035016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.683",
+      "lon": "1.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalaa",
+      "en": "Kalaa",
+      "slug": "kalaa-dz035017"
+    },
+    "code": {
+      "id": "DZ035017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.608",
+      "lon": "0.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lahlef",
+      "en": "Lahlef",
+      "slug": "lahlef-dz035018"
+    },
+    "code": {
+      "id": "DZ035018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.899",
+      "lon": "0.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mazouna",
+      "en": "Mazouna",
+      "slug": "mazouna-dz035019"
+    },
+    "code": {
+      "id": "DZ035019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.11",
+      "lon": "0.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mediouna",
+      "en": "Mediouna",
+      "slug": "mediouna-dz035020"
+    },
+    "code": {
+      "id": "DZ035020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.142",
+      "lon": "0.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mendes",
+      "en": "Mendes",
+      "slug": "mendes-dz035021"
+    },
+    "code": {
+      "id": "DZ035021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.672",
+      "lon": "0.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merdjet Sidi Abed",
+      "en": "Merdjet Sidi Abed",
+      "slug": "merdjet-sidi-abed-dz035022"
+    },
+    "code": {
+      "id": "DZ035022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.001",
+      "lon": "1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouarizane",
+      "en": "Ouarizane",
+      "slug": "ouarizane-dz035023"
+    },
+    "code": {
+      "id": "DZ035023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.037",
+      "lon": "0.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued El Djemaa",
+      "en": "Oued El Djemaa",
+      "slug": "oued-el-djemaa-dz035024"
+    },
+    "code": {
+      "id": "DZ035024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.839",
+      "lon": "0.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Essalem",
+      "en": "Oued Essalem",
+      "slug": "oued-essalem-dz035025"
+    },
+    "code": {
+      "id": "DZ035025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.544",
+      "lon": "0.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oued Rhiou",
+      "en": "Oued Rhiou",
+      "slug": "oued-rhiou-dz035026"
+    },
+    "code": {
+      "id": "DZ035026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.972",
+      "lon": "0.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Sidi Mihoub",
+      "en": "Ouled Sidi Mihoub",
+      "slug": "ouled-sidi-mihoub-dz035027"
+    },
+    "code": {
+      "id": "DZ035027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.967",
+      "lon": "0.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Yaich",
+      "en": "Ouled Yaich",
+      "slug": "ouled-yaich-dz035028"
+    },
+    "code": {
+      "id": "DZ035028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.807",
+      "lon": "0.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035029",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ramka",
+      "en": "Ramka",
+      "slug": "ramka-dz035029"
+    },
+    "code": {
+      "id": "DZ035029",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.855",
+      "lon": "1.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035030",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Relizane",
+      "en": "Relizane",
+      "slug": "relizane-dz035030"
+    },
+    "code": {
+      "id": "DZ035030",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.728",
+      "lon": "0.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035031",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Khettab",
+      "en": "Sidi Khettab",
+      "slug": "sidi-khettab-dz035031"
+    },
+    "code": {
+      "id": "DZ035031",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.911",
+      "lon": "0.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035032",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Lazreg",
+      "en": "Sidi Lazreg",
+      "slug": "sidi-lazreg-dz035032"
+    },
+    "code": {
+      "id": "DZ035032",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.617",
+      "lon": "0.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035033",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi M'Hamed Ben Ali",
+      "en": "Sidi M'Hamed Ben Ali",
+      "slug": "sidi-mhamed-ben-ali-dz035033"
+    },
+    "code": {
+      "id": "DZ035033",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.173",
+      "lon": "0.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035034",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi M'Hamed Benaouda",
+      "en": "Sidi M'Hamed Benaouda",
+      "slug": "sidi-mhamed-benaouda-dz035034"
+    },
+    "code": {
+      "id": "DZ035034",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.574",
+      "lon": "0.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035035",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Saada",
+      "en": "Sidi Saada",
+      "slug": "sidi-saada-dz035035"
+    },
+    "code": {
+      "id": "DZ035035",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.702",
+      "lon": "0.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035036",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souk El Had",
+      "en": "Souk El Had",
+      "slug": "souk-el-had-dz035036"
+    },
+    "code": {
+      "id": "DZ035036",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.938",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035037",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yellel",
+      "en": "Yellel",
+      "slug": "yellel-dz035037"
+    },
+    "code": {
+      "id": "DZ035037",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.75",
+      "lon": "0.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035038",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zemmoura",
+      "en": "Zemmoura",
+      "slug": "zemmoura-dz035038"
+    },
+    "code": {
+      "id": "DZ035038",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035",
+      "level": 1,
+      "name": {
+        "local": "غليزان",
+        "en": "Relizane",
+        "slug": "relizane-dz035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "غليزان",
+          "en": "Relizane",
+          "slug": "relizane-dz035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.768",
+      "lon": "0.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

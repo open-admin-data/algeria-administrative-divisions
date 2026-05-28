@@ -1,0 +1,45 @@
+{
+  "id": "DZ037027",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boutaleb",
+    "en": "Boutaleb",
+    "slug": "boutaleb-dz037027"
+  },
+  "code": {
+    "id": "DZ037027",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.684",
+    "lon": "5.247"
+  },
+  "metadata": {},
+  "source": {}
+}

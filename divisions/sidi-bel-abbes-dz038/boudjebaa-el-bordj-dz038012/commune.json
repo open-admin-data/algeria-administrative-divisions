@@ -1,0 +1,45 @@
+{
+  "id": "DZ038012",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Boudjebaa El Bordj",
+    "en": "Boudjebaa El Bordj",
+    "slug": "boudjebaa-el-bordj-dz038012"
+  },
+  "code": {
+    "id": "DZ038012",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ038",
+    "level": 1,
+    "name": {
+      "local": "سيدي بلعباس",
+      "en": "Sidi Bel Abbes",
+      "slug": "sidi-bel-abbes-dz038"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ038",
+      "level": 1,
+      "name": {
+        "local": "سيدي بلعباس",
+        "en": "Sidi Bel Abbes",
+        "slug": "sidi-bel-abbes-dz038"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.325",
+    "lon": "-0.362"
+  },
+  "metadata": {},
+  "source": {}
+}

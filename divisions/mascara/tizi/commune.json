@@ -1,0 +1,168 @@
+[
+  {
+    "id": "DZ029_tizi_el-keurt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القرط",
+      "en": "El Keurt",
+      "slug": "el-keurt"
+    },
+    "code": {
+      "id": "DZ029_tizi_el-keurt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tizi",
+      "level": 2,
+      "name": {
+        "local": "تيزي",
+        "en": "Tizi",
+        "slug": "tizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tizi",
+        "level": 2,
+        "name": {
+          "local": "تيزي",
+          "en": "Tizi",
+          "slug": "tizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29043"
+    ],
+    "geo": {
+      "lat": "35.39",
+      "lon": "0.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tizi_froha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فروحة",
+      "en": "Froha",
+      "slug": "froha"
+    },
+    "code": {
+      "id": "DZ029_tizi_froha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tizi",
+      "level": 2,
+      "name": {
+        "local": "تيزي",
+        "en": "Tizi",
+        "slug": "tizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tizi",
+        "level": 2,
+        "name": {
+          "local": "تيزي",
+          "en": "Tizi",
+          "slug": "tizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29024"
+    ],
+    "geo": {
+      "lat": "35.28",
+      "lon": "0.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ029_tizi_tizi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيزي",
+      "en": "Tizi",
+      "slug": "tizi"
+    },
+    "code": {
+      "id": "DZ029_tizi_tizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ029_tizi",
+      "level": 2,
+      "name": {
+        "local": "تيزي",
+        "en": "Tizi",
+        "slug": "tizi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ029",
+        "level": 1,
+        "name": {
+          "local": "معسكر",
+          "en": "Mascara",
+          "slug": "mascara"
+        }
+      },
+      {
+        "id": "DZ029_tizi",
+        "level": 2,
+        "name": {
+          "local": "تيزي",
+          "en": "Tizi",
+          "slug": "tizi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.32",
+      "lon": "0.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

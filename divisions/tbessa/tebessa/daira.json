@@ -1,0 +1,47 @@
+{
+  "id": "DZ012_tebessa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "تبسة",
+    "en": "Tebessa",
+    "slug": "tebessa"
+  },
+  "code": {
+    "id": "DZ012_tebessa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.403",
+    "lon": "8.091"
+  },
+  "metadata": {},
+  "source": {}
+}

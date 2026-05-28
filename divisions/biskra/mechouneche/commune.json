@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ007_mechouneche_mchouneche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مشونش",
+      "en": "M'chouneche",
+      "slug": "mchouneche"
+    },
+    "code": {
+      "id": "DZ007_mechouneche_mchouneche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_mechouneche",
+      "level": 2,
+      "name": {
+        "local": "مشونش",
+        "en": "Mechouneche",
+        "slug": "mechouneche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_mechouneche",
+        "level": 2,
+        "name": {
+          "local": "مشونش",
+          "en": "Mechouneche",
+          "slug": "mechouneche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07010"
+    ],
+    "geo": {
+      "lat": "34.909",
+      "lon": "6.001"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

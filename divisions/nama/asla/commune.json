@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ045_asla_asla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عسلة",
+      "en": "Asla",
+      "slug": "asla"
+    },
+    "code": {
+      "id": "DZ045_asla_asla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_asla",
+      "level": 2,
+      "name": {
+        "local": "عسلة",
+        "en": "Asla",
+        "slug": "asla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_asla",
+        "level": 2,
+        "name": {
+          "local": "عسلة",
+          "en": "Asla",
+          "slug": "asla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45012"
+    ],
+    "geo": {
+      "lat": "32.728",
+      "lon": "-0.169"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

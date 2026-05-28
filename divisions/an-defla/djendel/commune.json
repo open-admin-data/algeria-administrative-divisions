@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_djendel_birbouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بربوش",
+      "en": "Birbouche",
+      "slug": "birbouche"
+    },
+    "code": {
+      "id": "DZ044_djendel_birbouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djendel",
+      "level": 2,
+      "name": {
+        "local": "جندل",
+        "en": "Djendel",
+        "slug": "djendel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djendel",
+        "level": 2,
+        "name": {
+          "local": "جندل",
+          "en": "Djendel",
+          "slug": "djendel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44042"
+    ],
+    "geo": {
+      "lat": "36.198",
+      "lon": "2.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djendel_djendel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جندل",
+      "en": "Djendel",
+      "slug": "djendel"
+    },
+    "code": {
+      "id": "DZ044_djendel_djendel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djendel",
+      "level": 2,
+      "name": {
+        "local": "جندل",
+        "en": "Djendel",
+        "slug": "djendel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djendel",
+        "level": 2,
+        "name": {
+          "local": "جندل",
+          "en": "Djendel",
+          "slug": "djendel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44005"
+    ],
+    "geo": {
+      "lat": "36.245",
+      "lon": "2.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djendel_oued-chorfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الشرفاء",
+      "en": "Oued Chorfa",
+      "slug": "oued-chorfa"
+    },
+    "code": {
+      "id": "DZ044_djendel_oued-chorfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djendel",
+      "level": 2,
+      "name": {
+        "local": "جندل",
+        "en": "Djendel",
+        "slug": "djendel"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djendel",
+        "level": 2,
+        "name": {
+          "local": "جندل",
+          "en": "Djendel",
+          "slug": "djendel"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44024"
+    ],
+    "geo": {
+      "lat": "36.152",
+      "lon": "2.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

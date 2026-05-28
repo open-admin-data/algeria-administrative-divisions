@@ -1,0 +1,45 @@
+{
+  "id": "DZ008013",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beni Maouche",
+    "en": "Beni Maouche",
+    "slug": "beni-maouche-dz008013"
+  },
+  "code": {
+    "id": "DZ008013",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.489",
+    "lon": "4.789"
+  },
+  "metadata": {},
+  "source": {}
+}

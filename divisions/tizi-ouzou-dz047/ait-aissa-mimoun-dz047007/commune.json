@@ -1,0 +1,45 @@
+{
+  "id": "DZ047007",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ait Aissa Mimoun",
+    "en": "Ait Aissa Mimoun",
+    "slug": "ait-aissa-mimoun-dz047007"
+  },
+  "code": {
+    "id": "DZ047007",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "تيزي وزو",
+      "en": "Tizi Ouzou",
+      "slug": "tizi-ouzou-dz047"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "تيزي وزو",
+        "en": "Tizi Ouzou",
+        "slug": "tizi-ouzou-dz047"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.754",
+    "lon": "4.112"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ039002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Cherchar",
+    "en": "Ain Cherchar",
+    "slug": "ain-cherchar-dz039002"
+  },
+  "code": {
+    "id": "DZ039002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.718",
+    "lon": "7.227"
+  },
+  "metadata": {},
+  "source": {}
+}

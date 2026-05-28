@@ -1,0 +1,47 @@
+{
+  "id": "DZ047_el-guerrara",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "القرارة",
+    "en": "El Guerrara",
+    "slug": "el-guerrara"
+  },
+  "code": {
+    "id": "DZ047_el-guerrara",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ047",
+    "level": 1,
+    "name": {
+      "local": "غرداية",
+      "en": "Ghardaïa",
+      "slug": "ghardaa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ047",
+      "level": 1,
+      "name": {
+        "local": "غرداية",
+        "en": "Ghardaïa",
+        "slug": "ghardaa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.78",
+    "lon": "4.555"
+  },
+  "metadata": {},
+  "source": {}
+}

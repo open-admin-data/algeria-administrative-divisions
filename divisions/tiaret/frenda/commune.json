@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ014_frenda_ain-el-hadid",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحديد",
+      "en": "Ain El Hadid",
+      "slug": "ain-el-hadid"
+    },
+    "code": {
+      "id": "DZ014_frenda_ain-el-hadid",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_frenda",
+      "level": 2,
+      "name": {
+        "local": "فرندة",
+        "en": "Frenda",
+        "slug": "frenda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_frenda",
+        "level": 2,
+        "name": {
+          "local": "فرندة",
+          "en": "Frenda",
+          "slug": "frenda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14008"
+    ],
+    "geo": {
+      "lat": "35.138",
+      "lon": "0.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_frenda_frenda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فرندة",
+      "en": "Frenda",
+      "slug": "frenda"
+    },
+    "code": {
+      "id": "DZ014_frenda_frenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_frenda",
+      "level": 2,
+      "name": {
+        "local": "فرندة",
+        "en": "Frenda",
+        "slug": "frenda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_frenda",
+        "level": 2,
+        "name": {
+          "local": "فرندة",
+          "en": "Frenda",
+          "slug": "frenda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14001"
+    ],
+    "geo": {
+      "lat": "35.082",
+      "lon": "1.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ014_frenda_takhemaret",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تخمرت",
+      "en": "Takhemaret",
+      "slug": "takhemaret"
+    },
+    "code": {
+      "id": "DZ014_frenda_takhemaret",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ014_frenda",
+      "level": 2,
+      "name": {
+        "local": "فرندة",
+        "en": "Frenda",
+        "slug": "frenda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ014",
+        "level": 1,
+        "name": {
+          "local": "تيارت",
+          "en": "Tiaret",
+          "slug": "tiaret"
+        }
+      },
+      {
+        "id": "DZ014_frenda",
+        "level": 2,
+        "name": {
+          "local": "فرندة",
+          "en": "Frenda",
+          "slug": "frenda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14015"
+    ],
+    "geo": {
+      "lat": "35.11",
+      "lon": "0.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

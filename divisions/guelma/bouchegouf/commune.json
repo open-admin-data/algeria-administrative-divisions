@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ024_bouchegouf_ain-ben-beida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين بن بيضاء",
+      "en": "Ain Ben Beida",
+      "slug": "ain-ben-beida"
+    },
+    "code": {
+      "id": "DZ024_bouchegouf_ain-ben-beida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_bouchegouf",
+      "level": 2,
+      "name": {
+        "local": "بوشقوف",
+        "en": "Bouchegouf",
+        "slug": "bouchegouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_bouchegouf",
+        "level": 2,
+        "name": {
+          "local": "بوشقوف",
+          "en": "Bouchegouf",
+          "slug": "bouchegouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24011"
+    ],
+    "geo": {
+      "lat": "36.589",
+      "lon": "7.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_bouchegouf_bouchegouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوشقوف",
+      "en": "Bouchegouf",
+      "slug": "bouchegouf"
+    },
+    "code": {
+      "id": "DZ024_bouchegouf_bouchegouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_bouchegouf",
+      "level": 2,
+      "name": {
+        "local": "بوشقوف",
+        "en": "Bouchegouf",
+        "slug": "bouchegouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_bouchegouf",
+        "level": 2,
+        "name": {
+          "local": "بوشقوف",
+          "en": "Bouchegouf",
+          "slug": "bouchegouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24002"
+    ],
+    "geo": {
+      "lat": "36.484",
+      "lon": "7.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_bouchegouf_medjez-sfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مجاز الصفاء",
+      "en": "Medjez Sfa",
+      "slug": "medjez-sfa"
+    },
+    "code": {
+      "id": "DZ024_bouchegouf_medjez-sfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_bouchegouf",
+      "level": 2,
+      "name": {
+        "local": "بوشقوف",
+        "en": "Bouchegouf",
+        "slug": "bouchegouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_bouchegouf",
+        "level": 2,
+        "name": {
+          "local": "بوشقوف",
+          "en": "Bouchegouf",
+          "slug": "bouchegouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24026"
+    ],
+    "geo": {
+      "lat": "36.448",
+      "lon": "7.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ024_bouchegouf_oued-ferragha",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي فراغة",
+      "en": "Oued Ferragha",
+      "slug": "oued-ferragha"
+    },
+    "code": {
+      "id": "DZ024_bouchegouf_oued-ferragha",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ024_bouchegouf",
+      "level": 2,
+      "name": {
+        "local": "بوشقوف",
+        "en": "Bouchegouf",
+        "slug": "bouchegouf"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ024",
+        "level": 1,
+        "name": {
+          "local": "قالمة",
+          "en": "Guelma",
+          "slug": "guelma"
+        }
+      },
+      {
+        "id": "DZ024_bouchegouf",
+        "level": 2,
+        "name": {
+          "local": "بوشقوف",
+          "en": "Bouchegouf",
+          "slug": "bouchegouf"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24038"
+    ],
+    "geo": {
+      "lat": "36.507",
+      "lon": "7.739"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

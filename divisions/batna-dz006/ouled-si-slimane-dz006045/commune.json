@@ -1,0 +1,45 @@
+{
+  "id": "DZ006045",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Si Slimane",
+    "en": "Ouled Si Slimane",
+    "slug": "ouled-si-slimane-dz006045"
+  },
+  "code": {
+    "id": "DZ006045",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ006",
+    "level": 1,
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna-dz006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ006",
+      "level": 1,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna-dz006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.569",
+    "lon": "5.684"
+  },
+  "metadata": {},
+  "source": {}
+}

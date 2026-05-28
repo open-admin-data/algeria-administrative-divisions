@@ -1,0 +1,45 @@
+{
+  "id": "DZ031004",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Djenien Bourezg",
+    "en": "Djenien Bourezg",
+    "slug": "djenien-bourezg-dz031004"
+  },
+  "code": {
+    "id": "DZ031004",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ031",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naama",
+      "slug": "naama-dz031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ031",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naama",
+        "slug": "naama-dz031"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.358",
+    "lon": "-0.94"
+  },
+  "metadata": {},
+  "source": {}
+}

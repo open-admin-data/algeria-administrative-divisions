@@ -1,0 +1,47 @@
+{
+  "id": "DZ013_fellaoucene",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "فلاوسن",
+    "en": "Fellaoucene",
+    "slug": "fellaoucene"
+  },
+  "code": {
+    "id": "DZ013_fellaoucene",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ013",
+    "level": 1,
+    "name": {
+      "local": "تلمسان",
+      "en": "Tlemcen",
+      "slug": "tlemcen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ013",
+      "level": 1,
+      "name": {
+        "local": "تلمسان",
+        "en": "Tlemcen",
+        "slug": "tlemcen"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.007",
+    "lon": "-1.634"
+  },
+  "metadata": {},
+  "source": {}
+}

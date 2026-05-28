@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ045_sfissifa_sfissifa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سفيسيفة",
+      "en": "Sfissifa",
+      "slug": "sfissifa"
+    },
+    "code": {
+      "id": "DZ045_sfissifa_sfissifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ045_sfissifa",
+      "level": 2,
+      "name": {
+        "local": "سفيسيفة",
+        "en": "Sfissifa",
+        "slug": "sfissifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ045",
+        "level": 1,
+        "name": {
+          "local": "النعامة",
+          "en": "Naâma",
+          "slug": "nama"
+        }
+      },
+      {
+        "id": "DZ045_sfissifa",
+        "level": 2,
+        "name": {
+          "local": "سفيسيفة",
+          "en": "Sfissifa",
+          "slug": "sfissifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45021"
+    ],
+    "geo": {
+      "lat": "32.792",
+      "lon": "-1.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

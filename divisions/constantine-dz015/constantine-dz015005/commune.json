@@ -1,0 +1,45 @@
+{
+  "id": "DZ015005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Constantine",
+    "en": "Constantine",
+    "slug": "constantine-dz015005"
+  },
+  "code": {
+    "id": "DZ015005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.356",
+    "lon": "6.61"
+  },
+  "metadata": {},
+  "source": {}
+}

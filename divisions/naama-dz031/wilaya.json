@@ -1,0 +1,29 @@
+{
+  "id": "DZ031",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "النعامة",
+    "en": "Naama",
+    "slug": "naama-dz031"
+  },
+  "code": {
+    "id": "DZ031",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.238",
+    "lon": "-0.82"
+  },
+  "metadata": {},
+  "source": {}
+}

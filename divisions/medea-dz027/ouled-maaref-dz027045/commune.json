@@ -1,0 +1,45 @@
+{
+  "id": "DZ027045",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Maaref",
+    "en": "Ouled Maaref",
+    "slug": "ouled-maaref-dz027045"
+  },
+  "code": {
+    "id": "DZ027045",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ027",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Medea",
+      "slug": "medea-dz027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ027",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Medea",
+        "slug": "medea-dz027"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.803",
+    "lon": "3.062"
+  },
+  "metadata": {},
+  "source": {}
+}

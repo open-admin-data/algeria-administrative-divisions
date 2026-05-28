@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ018_chekfa_bordj-thar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "برج الطهر",
+      "en": "Bordj T'har",
+      "slug": "bordj-thar"
+    },
+    "code": {
+      "id": "DZ018_chekfa_bordj-thar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_chekfa",
+      "level": 2,
+      "name": {
+        "local": "الشقفة",
+        "en": "Chekfa",
+        "slug": "chekfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_chekfa",
+        "level": 2,
+        "name": {
+          "local": "الشقفة",
+          "en": "Chekfa",
+          "slug": "chekfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18041"
+    ],
+    "geo": {
+      "lat": "36.803",
+      "lon": "6.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_chekfa_chekfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشقفة",
+      "en": "Chekfa",
+      "slug": "chekfa"
+    },
+    "code": {
+      "id": "DZ018_chekfa_chekfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_chekfa",
+      "level": 2,
+      "name": {
+        "local": "الشقفة",
+        "en": "Chekfa",
+        "slug": "chekfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_chekfa",
+        "level": 2,
+        "name": {
+          "local": "الشقفة",
+          "en": "Chekfa",
+          "slug": "chekfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18003"
+    ],
+    "geo": {
+      "lat": "36.762",
+      "lon": "5.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_chekfa_el-kennar-nouchfi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "القنار نشفي",
+      "en": "El Kennar Nouchfi",
+      "slug": "el-kennar-nouchfi"
+    },
+    "code": {
+      "id": "DZ018_chekfa_el-kennar-nouchfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_chekfa",
+      "level": 2,
+      "name": {
+        "local": "الشقفة",
+        "en": "Chekfa",
+        "slug": "chekfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_chekfa",
+        "level": 2,
+        "name": {
+          "local": "الشقفة",
+          "en": "Chekfa",
+          "slug": "chekfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18030"
+    ],
+    "geo": {
+      "lat": "36.813",
+      "lon": "5.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ018_chekfa_sidi-abdelaziz",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عبد العزيز",
+      "en": "Sidi Abdelaziz",
+      "slug": "sidi-abdelaziz"
+    },
+    "code": {
+      "id": "DZ018_chekfa_sidi-abdelaziz",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ018_chekfa",
+      "level": 2,
+      "name": {
+        "local": "الشقفة",
+        "en": "Chekfa",
+        "slug": "chekfa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ018",
+        "level": 1,
+        "name": {
+          "local": "جيجل",
+          "en": "Jijel",
+          "slug": "jijel"
+        }
+      },
+      {
+        "id": "DZ018_chekfa",
+        "level": 2,
+        "name": {
+          "local": "الشقفة",
+          "en": "Chekfa",
+          "slug": "chekfa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18017"
+    ],
+    "geo": {
+      "lat": "36.834",
+      "lon": "6.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

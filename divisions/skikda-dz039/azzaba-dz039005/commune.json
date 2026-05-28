@@ -1,0 +1,45 @@
+{
+  "id": "DZ039005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Azzaba",
+    "en": "Azzaba",
+    "slug": "azzaba-dz039005"
+  },
+  "code": {
+    "id": "DZ039005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ039",
+    "level": 1,
+    "name": {
+      "local": "سكيكدة",
+      "en": "Skikda",
+      "slug": "skikda-dz039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ039",
+      "level": 1,
+      "name": {
+        "local": "سكيكدة",
+        "en": "Skikda",
+        "slug": "skikda-dz039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.756",
+    "lon": "7.103"
+  },
+  "metadata": {},
+  "source": {}
+}

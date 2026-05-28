@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_maghnia_hammam-boughrara",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حمام بوغرارة",
+      "en": "Hammam Boughrara",
+      "slug": "hammam-boughrara"
+    },
+    "code": {
+      "id": "DZ013_maghnia_hammam-boughrara",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_maghnia",
+      "level": 2,
+      "name": {
+        "local": "مغنية",
+        "en": "Maghnia",
+        "slug": "maghnia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_maghnia",
+        "level": 2,
+        "name": {
+          "local": "مغنية",
+          "en": "Maghnia",
+          "slug": "maghnia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13036"
+    ],
+    "geo": {
+      "lat": "34.925",
+      "lon": "-1.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_maghnia_maghnia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مغنية",
+      "en": "Maghnia",
+      "slug": "maghnia"
+    },
+    "code": {
+      "id": "DZ013_maghnia_maghnia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_maghnia",
+      "level": 2,
+      "name": {
+        "local": "مغنية",
+        "en": "Maghnia",
+        "slug": "maghnia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_maghnia",
+        "level": 2,
+        "name": {
+          "local": "مغنية",
+          "en": "Maghnia",
+          "slug": "maghnia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13001"
+    ],
+    "geo": {
+      "lat": "34.838",
+      "lon": "-1.787"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

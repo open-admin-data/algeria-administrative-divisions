@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+DZ039_bayadha,البياضة,Bayadha,bayadha,DZ039_bayadha,1,33.326,6.901
+DZ039_debila,الدبيلة,Debila,debila,DZ039_debila,2,33.467,6.9
+DZ039_el-oued,الوادي,El Oued,el-oued,DZ039_el-oued,2,33.382,6.824
+DZ039_guemar,قمار,Guemar,guemar,DZ039_guemar,3,33.558,6.598
+DZ039_hassi-khalifa,حاسي خليفة,Hassi Khalifa,hassi-khalifa,DZ039_hassi-khalifa,2,33.258,7.128
+DZ039_magrane,المقرن,Magrane,magrane,DZ039_magrane,2,33.849,6.863
+DZ039_mih-ouensa,اميه وانسة,Mih Ouensa,mih-ouensa,DZ039_mih-ouensa,2,33.03,6.83
+DZ039_reguiba,الرقيبة,Reguiba,reguiba,DZ039_reguiba,2,33.977,6.479
+DZ039_robbah,الرباح,Robbah,robbah,DZ039_robbah,3,33.784,7.18
+DZ039_taleb-larbi,الطالب العربي,Taleb Larbi,taleb-larbi,DZ039_taleb-larbi,3,33.708,7.451

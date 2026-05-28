@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ002_ain-merane_ain-merane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين مران",
+      "en": "Ain Merane",
+      "slug": "ain-merane"
+    },
+    "code": {
+      "id": "DZ002_ain-merane_ain-merane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ain-merane",
+      "level": 2,
+      "name": {
+        "local": "عين مران",
+        "en": "Ain Merane",
+        "slug": "ain-merane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ain-merane",
+        "level": 2,
+        "name": {
+          "local": "عين مران",
+          "en": "Ain Merane",
+          "slug": "ain-merane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02004"
+    ],
+    "geo": {
+      "lat": "36.179",
+      "lon": "0.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_ain-merane_herenfa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الهرانفة",
+      "en": "Herenfa",
+      "slug": "herenfa"
+    },
+    "code": {
+      "id": "DZ002_ain-merane_herenfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_ain-merane",
+      "level": 2,
+      "name": {
+        "local": "عين مران",
+        "en": "Ain Merane",
+        "slug": "ain-merane"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_ain-merane",
+        "level": 2,
+        "name": {
+          "local": "عين مران",
+          "en": "Ain Merane",
+          "slug": "ain-merane"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02038"
+    ],
+    "geo": {
+      "lat": "36.245",
+      "lon": "1.061"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

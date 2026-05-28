@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ006_adekar_adekar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أدكار",
+      "en": "Adekar",
+      "slug": "adekar"
+    },
+    "code": {
+      "id": "DZ006_adekar_adekar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_adekar",
+      "level": 2,
+      "name": {
+        "local": "أدكار",
+        "en": "Adekar",
+        "slug": "adekar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_adekar",
+        "level": 2,
+        "name": {
+          "local": "أدكار",
+          "en": "Adekar",
+          "slug": "adekar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06021"
+    ],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_adekar_beni-ksila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني كسيلة",
+      "en": "Beni K'sila",
+      "slug": "beni-ksila"
+    },
+    "code": {
+      "id": "DZ006_adekar_beni-ksila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_adekar",
+      "level": 2,
+      "name": {
+        "local": "أدكار",
+        "en": "Adekar",
+        "slug": "adekar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_adekar",
+        "level": 2,
+        "name": {
+          "local": "أدكار",
+          "en": "Adekar",
+          "slug": "adekar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06027"
+    ],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_adekar_taourit-ighil",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تاوريرت إغيل",
+      "en": "Taourit Ighil",
+      "slug": "taourit-ighil"
+    },
+    "code": {
+      "id": "DZ006_adekar_taourit-ighil",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_adekar",
+      "level": 2,
+      "name": {
+        "local": "أدكار",
+        "en": "Adekar",
+        "slug": "adekar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_adekar",
+        "level": 2,
+        "name": {
+          "local": "أدكار",
+          "en": "Adekar",
+          "slug": "adekar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06035"
+    ],
+    "geo": {
+      "lat": "36.737",
+      "lon": "4.566"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

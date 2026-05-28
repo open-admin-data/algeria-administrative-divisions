@@ -1,0 +1,45 @@
+{
+  "id": "DZ021002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Larbi",
+    "en": "Ain Larbi",
+    "slug": "ain-larbi-dz021002"
+  },
+  "code": {
+    "id": "DZ021002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ021",
+    "level": 1,
+    "name": {
+      "local": "قالمة",
+      "en": "Guelma",
+      "slug": "guelma-dz021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ021",
+      "level": 1,
+      "name": {
+        "local": "قالمة",
+        "en": "Guelma",
+        "slug": "guelma-dz021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.288",
+    "lon": "7.392"
+  },
+  "metadata": {},
+  "source": {}
+}

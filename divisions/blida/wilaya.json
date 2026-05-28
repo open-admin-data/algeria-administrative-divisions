@@ -1,0 +1,30 @@
+{
+  "id": "DZ009",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "البليدة",
+    "en": "Blida",
+    "slug": "blida"
+  },
+  "code": {
+    "id": "DZ009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 10,
+    "commune": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.504",
+    "lon": "2.956"
+  },
+  "metadata": {},
+  "source": {}
+}

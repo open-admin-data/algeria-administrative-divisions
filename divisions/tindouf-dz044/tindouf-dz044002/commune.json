@@ -1,0 +1,45 @@
+{
+  "id": "DZ044002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tindouf",
+    "en": "Tindouf",
+    "slug": "tindouf-dz044002"
+  },
+  "code": {
+    "id": "DZ044002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ044",
+    "level": 1,
+    "name": {
+      "local": "تندوف",
+      "en": "Tindouf",
+      "slug": "tindouf-dz044"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ044",
+      "level": 1,
+      "name": {
+        "local": "تندوف",
+        "en": "Tindouf",
+        "slug": "tindouf-dz044"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.182",
+    "lon": "-7.035"
+  },
+  "metadata": {},
+  "source": {}
+}

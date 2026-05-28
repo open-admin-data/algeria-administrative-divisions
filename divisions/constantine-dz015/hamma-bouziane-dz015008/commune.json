@@ -1,0 +1,45 @@
+{
+  "id": "DZ015008",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Hamma Bouziane",
+    "en": "Hamma Bouziane",
+    "slug": "hamma-bouziane-dz015008"
+  },
+  "code": {
+    "id": "DZ015008",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.43",
+    "lon": "6.575"
+  },
+  "metadata": {},
+  "source": {}
+}

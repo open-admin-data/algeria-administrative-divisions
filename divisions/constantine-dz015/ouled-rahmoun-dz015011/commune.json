@@ -1,0 +1,45 @@
+{
+  "id": "DZ015011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Rahmoun",
+    "en": "Ouled Rahmoun",
+    "slug": "ouled-rahmoun-dz015011"
+  },
+  "code": {
+    "id": "DZ015011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ015",
+    "level": 1,
+    "name": {
+      "local": "قسنطينة",
+      "en": "Constantine",
+      "slug": "constantine-dz015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ015",
+      "level": 1,
+      "name": {
+        "local": "قسنطينة",
+        "en": "Constantine",
+        "slug": "constantine-dz015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.182",
+    "lon": "6.697"
+  },
+  "metadata": {},
+  "source": {}
+}

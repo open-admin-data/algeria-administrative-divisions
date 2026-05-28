@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ009_ouled-yaich_beni-mered",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني مراد",
+      "en": "Beni Mered",
+      "slug": "beni-mered"
+    },
+    "code": {
+      "id": "DZ009_ouled-yaich_beni-mered",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_ouled-yaich",
+      "level": 2,
+      "name": {
+        "local": "أولاد يعيش",
+        "en": "Ouled Yaich",
+        "slug": "ouled-yaich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_ouled-yaich",
+        "level": 2,
+        "name": {
+          "local": "أولاد يعيش",
+          "en": "Ouled Yaich",
+          "slug": "ouled-yaich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09003"
+    ],
+    "geo": {
+      "lat": "36.536",
+      "lon": "2.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_ouled-yaich_chrea",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الشريعة",
+      "en": "Chrea",
+      "slug": "chrea"
+    },
+    "code": {
+      "id": "DZ009_ouled-yaich_chrea",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_ouled-yaich",
+      "level": 2,
+      "name": {
+        "local": "أولاد يعيش",
+        "en": "Ouled Yaich",
+        "slug": "ouled-yaich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_ouled-yaich",
+        "level": 2,
+        "name": {
+          "local": "أولاد يعيش",
+          "en": "Ouled Yaich",
+          "slug": "ouled-yaich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09027"
+    ],
+    "geo": {
+      "lat": "36.429",
+      "lon": "2.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ009_ouled-yaich_ouled-yaich",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد يعيش",
+      "en": "Ouled Yaich",
+      "slug": "ouled-yaich"
+    },
+    "code": {
+      "id": "DZ009_ouled-yaich_ouled-yaich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ009_ouled-yaich",
+      "level": 2,
+      "name": {
+        "local": "أولاد يعيش",
+        "en": "Ouled Yaich",
+        "slug": "ouled-yaich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ009",
+        "level": 1,
+        "name": {
+          "local": "البليدة",
+          "en": "Blida",
+          "slug": "blida"
+        }
+      },
+      {
+        "id": "DZ009_ouled-yaich",
+        "level": 2,
+        "name": {
+          "local": "أولاد يعيش",
+          "en": "Ouled Yaich",
+          "slug": "ouled-yaich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "09015"
+    ],
+    "geo": {
+      "lat": "35.807",
+      "lon": "0.971"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "DZ030020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khettouti Sed El Djir",
+    "en": "Khettouti Sed El Djir",
+    "slug": "khettouti-sed-el-djir-dz030020"
+  },
+  "code": {
+    "id": "DZ030020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.681",
+    "lon": "4.259"
+  },
+  "metadata": {},
+  "source": {}
+}

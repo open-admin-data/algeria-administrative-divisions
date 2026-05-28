@@ -1,0 +1,47 @@
+{
+  "id": "DZ026_chahbounia",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الشهبونية",
+    "en": "Chahbounia",
+    "slug": "chahbounia"
+  },
+  "code": {
+    "id": "DZ026_chahbounia",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "المدية",
+      "en": "Médéa",
+      "slug": "mda"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "المدية",
+        "en": "Médéa",
+        "slug": "mda"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.649",
+    "lon": "2.606"
+  },
+  "metadata": {},
+  "source": {}
+}

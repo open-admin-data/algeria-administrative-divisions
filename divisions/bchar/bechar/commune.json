@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ008_bechar_bechar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar"
+    },
+    "code": {
+      "id": "DZ008_bechar_bechar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ008_bechar",
+      "level": 2,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ008",
+        "level": 1,
+        "name": {
+          "local": "بشار",
+          "en": "Béchar",
+          "slug": "bchar"
+        }
+      },
+      {
+        "id": "DZ008_bechar",
+        "level": 2,
+        "name": {
+          "local": "بشار",
+          "en": "Bechar",
+          "slug": "bechar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08000"
+    ],
+    "geo": {
+      "lat": "31.615",
+      "lon": "-1.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_si-mahdjoub_bouaichoune",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوعيشون",
+      "en": "Bouaichoune",
+      "slug": "bouaichoune"
+    },
+    "code": {
+      "id": "DZ026_si-mahdjoub_bouaichoune",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_si-mahdjoub",
+      "level": 2,
+      "name": {
+        "local": "سي المحجوب",
+        "en": "Si Mahdjoub",
+        "slug": "si-mahdjoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_si-mahdjoub",
+        "level": 2,
+        "name": {
+          "local": "سي المحجوب",
+          "en": "Si Mahdjoub",
+          "slug": "si-mahdjoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26055"
+    ],
+    "geo": {
+      "lat": "36.139",
+      "lon": "2.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_si-mahdjoub_ouled-bouachra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد بوعشرة",
+      "en": "Ouled Bouachra",
+      "slug": "ouled-bouachra"
+    },
+    "code": {
+      "id": "DZ026_si-mahdjoub_ouled-bouachra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_si-mahdjoub",
+      "level": 2,
+      "name": {
+        "local": "سي المحجوب",
+        "en": "Si Mahdjoub",
+        "slug": "si-mahdjoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_si-mahdjoub",
+        "level": 2,
+        "name": {
+          "local": "سي المحجوب",
+          "en": "Si Mahdjoub",
+          "slug": "si-mahdjoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26064"
+    ],
+    "geo": {
+      "lat": "36.102",
+      "lon": "2.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_si-mahdjoub_si-mahdjoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سي المحجوب",
+      "en": "Si Mahdjoub",
+      "slug": "si-mahdjoub"
+    },
+    "code": {
+      "id": "DZ026_si-mahdjoub_si-mahdjoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_si-mahdjoub",
+      "level": 2,
+      "name": {
+        "local": "سي المحجوب",
+        "en": "Si Mahdjoub",
+        "slug": "si-mahdjoub"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_si-mahdjoub",
+        "level": 2,
+        "name": {
+          "local": "سي المحجوب",
+          "en": "Si Mahdjoub",
+          "slug": "si-mahdjoub"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26045"
+    ],
+    "geo": {
+      "lat": "36.175",
+      "lon": "2.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

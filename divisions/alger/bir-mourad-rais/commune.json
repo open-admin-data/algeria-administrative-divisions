@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ016_bir-mourad-rais_bir-mourad-rais",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر مراد رايس",
+      "en": "Bir Mourad Rais",
+      "slug": "bir-mourad-rais"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais_bir-mourad-rais",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bir-mourad-rais",
+      "level": 2,
+      "name": {
+        "local": "بئر مراد رايس",
+        "en": "Bir Mourad Rais",
+        "slug": "bir-mourad-rais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bir-mourad-rais",
+        "level": 2,
+        "name": {
+          "local": "بئر مراد رايس",
+          "en": "Bir Mourad Rais",
+          "slug": "bir-mourad-rais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16013"
+    ],
+    "geo": {
+      "lat": "36.734",
+      "lon": "3.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bir-mourad-rais_birkhadem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر خادم",
+      "en": "Birkhadem",
+      "slug": "birkhadem"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais_birkhadem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bir-mourad-rais",
+      "level": 2,
+      "name": {
+        "local": "بئر مراد رايس",
+        "en": "Bir Mourad Rais",
+        "slug": "bir-mourad-rais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bir-mourad-rais",
+        "level": 2,
+        "name": {
+          "local": "بئر مراد رايس",
+          "en": "Bir Mourad Rais",
+          "slug": "bir-mourad-rais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16100"
+    ],
+    "geo": {
+      "lat": "36.739",
+      "lon": "3.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bir-mourad-rais_djasr-kasentina",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جسر قسنطينة",
+      "en": "Djasr Kasentina",
+      "slug": "djasr-kasentina"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais_djasr-kasentina",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bir-mourad-rais",
+      "level": 2,
+      "name": {
+        "local": "بئر مراد رايس",
+        "en": "Bir Mourad Rais",
+        "slug": "bir-mourad-rais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bir-mourad-rais",
+        "level": 2,
+        "name": {
+          "local": "بئر مراد رايس",
+          "en": "Bir Mourad Rais",
+          "slug": "bir-mourad-rais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16173"
+    ],
+    "geo": {
+      "lat": "36.739",
+      "lon": "3.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bir-mourad-rais_hydra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حيدرة",
+      "en": "Hydra",
+      "slug": "hydra"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais_hydra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bir-mourad-rais",
+      "level": 2,
+      "name": {
+        "local": "بئر مراد رايس",
+        "en": "Bir Mourad Rais",
+        "slug": "bir-mourad-rais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bir-mourad-rais",
+        "level": 2,
+        "name": {
+          "local": "بئر مراد رايس",
+          "en": "Bir Mourad Rais",
+          "slug": "bir-mourad-rais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16016"
+    ],
+    "geo": {
+      "lat": "36.744",
+      "lon": "3.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ016_bir-mourad-rais_sehaoula",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "السحاولة",
+      "en": "Sehaoula",
+      "slug": "sehaoula"
+    },
+    "code": {
+      "id": "DZ016_bir-mourad-rais_sehaoula",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ016_bir-mourad-rais",
+      "level": 2,
+      "name": {
+        "local": "بئر مراد رايس",
+        "en": "Bir Mourad Rais",
+        "slug": "bir-mourad-rais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ016",
+        "level": 1,
+        "name": {
+          "local": "الجزائر",
+          "en": "Alger",
+          "slug": "alger"
+        }
+      },
+      {
+        "id": "DZ016_bir-mourad-rais",
+        "level": 2,
+        "name": {
+          "local": "بئر مراد رايس",
+          "en": "Bir Mourad Rais",
+          "slug": "bir-mourad-rais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16095"
+    ],
+    "geo": {
+      "lat": "36.739",
+      "lon": "3.039"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

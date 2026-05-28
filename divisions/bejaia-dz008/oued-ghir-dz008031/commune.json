@@ -1,0 +1,45 @@
+{
+  "id": "DZ008031",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Ghir",
+    "en": "Oued Ghir",
+    "slug": "oued-ghir-dz008031"
+  },
+  "code": {
+    "id": "DZ008031",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.717",
+    "lon": "4.988"
+  },
+  "metadata": {},
+  "source": {}
+}

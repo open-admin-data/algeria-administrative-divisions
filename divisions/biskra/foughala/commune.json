@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ007_foughala_el-ghrous",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الغروس",
+      "en": "El Ghrous",
+      "slug": "el-ghrous"
+    },
+    "code": {
+      "id": "DZ007_foughala_el-ghrous",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_foughala",
+      "level": 2,
+      "name": {
+        "local": "فوغالة",
+        "en": "Foughala",
+        "slug": "foughala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_foughala",
+        "level": 2,
+        "name": {
+          "local": "فوغالة",
+          "en": "Foughala",
+          "slug": "foughala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07027"
+    ],
+    "geo": {
+      "lat": "34.722",
+      "lon": "5.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ007_foughala_foughala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فوغالة",
+      "en": "Foughala",
+      "slug": "foughala"
+    },
+    "code": {
+      "id": "DZ007_foughala_foughala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_foughala",
+      "level": 2,
+      "name": {
+        "local": "فوغالة",
+        "en": "Foughala",
+        "slug": "foughala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_foughala",
+        "level": 2,
+        "name": {
+          "local": "فوغالة",
+          "en": "Foughala",
+          "slug": "foughala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07031"
+    ],
+    "geo": {
+      "lat": "34.764",
+      "lon": "5.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

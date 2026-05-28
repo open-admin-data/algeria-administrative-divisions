@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_oued-fodda_beni-rached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني راشد",
+      "en": "Beni Rached",
+      "slug": "beni-rached"
+    },
+    "code": {
+      "id": "DZ002_oued-fodda_beni-rached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_oued-fodda",
+      "level": 2,
+      "name": {
+        "local": "وادي الفضة",
+        "en": "Oued Fodda",
+        "slug": "oued-fodda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_oued-fodda",
+        "level": 2,
+        "name": {
+          "local": "وادي الفضة",
+          "en": "Oued Fodda",
+          "slug": "oued-fodda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02035"
+    ],
+    "geo": {
+      "lat": "36.296",
+      "lon": "1.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_oued-fodda_oued-fodda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الفضة",
+      "en": "Oued Fodda",
+      "slug": "oued-fodda"
+    },
+    "code": {
+      "id": "DZ002_oued-fodda_oued-fodda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_oued-fodda",
+      "level": 2,
+      "name": {
+        "local": "وادي الفضة",
+        "en": "Oued Fodda",
+        "slug": "oued-fodda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_oued-fodda",
+        "level": 2,
+        "name": {
+          "local": "وادي الفضة",
+          "en": "Oued Fodda",
+          "slug": "oued-fodda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02001"
+    ],
+    "geo": {
+      "lat": "36.204",
+      "lon": "1.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_oued-fodda_ouled-abbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عباس",
+      "en": "Ouled Abbes",
+      "slug": "ouled-abbes"
+    },
+    "code": {
+      "id": "DZ002_oued-fodda_ouled-abbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_oued-fodda",
+      "level": 2,
+      "name": {
+        "local": "وادي الفضة",
+        "en": "Oued Fodda",
+        "slug": "oued-fodda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_oued-fodda",
+        "level": 2,
+        "name": {
+          "local": "وادي الفضة",
+          "en": "Oued Fodda",
+          "slug": "oued-fodda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02029"
+    ],
+    "geo": {
+      "lat": "36.216",
+      "lon": "1.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

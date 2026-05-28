@@ -1,0 +1,45 @@
+{
+  "id": "DZ030006",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Belaiba",
+    "en": "Belaiba",
+    "slug": "belaiba-dz030006"
+  },
+  "code": {
+    "id": "DZ030006",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "المسيلة",
+      "en": "M'Sila",
+      "slug": "msila-dz030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "المسيلة",
+        "en": "M'Sila",
+        "slug": "msila-dz030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.572",
+    "lon": "5.181"
+  },
+  "metadata": {},
+  "source": {}
+}

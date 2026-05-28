@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_batna_batna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "باتنة",
+      "en": "Batna",
+      "slug": "batna"
+    },
+    "code": {
+      "id": "DZ005_batna_batna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_batna",
+      "level": 2,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_batna",
+        "level": 2,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05000"
+    ],
+    "geo": {
+      "lat": "35.58",
+      "lon": "6.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_batna_fesdis",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "فسديس",
+      "en": "Fesdis",
+      "slug": "fesdis"
+    },
+    "code": {
+      "id": "DZ005_batna_fesdis",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_batna",
+      "level": 2,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_batna",
+        "level": 2,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05077"
+    ],
+    "geo": {
+      "lat": "35.62",
+      "lon": "6.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_batna_oued-chaaba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الشعبة",
+      "en": "Oued Chaaba",
+      "slug": "oued-chaaba"
+    },
+    "code": {
+      "id": "DZ005_batna_oued-chaaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_batna",
+      "level": 2,
+      "name": {
+        "local": "باتنة",
+        "en": "Batna",
+        "slug": "batna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_batna",
+        "level": 2,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05054"
+    ],
+    "geo": {
+      "lat": "35.526",
+      "lon": "6.035"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

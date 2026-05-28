@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ040_ouled-rechache_el-mahmal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المحمل",
+      "en": "El Mahmal",
+      "slug": "el-mahmal"
+    },
+    "code": {
+      "id": "DZ040_ouled-rechache_el-mahmal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_ouled-rechache",
+      "level": 2,
+      "name": {
+        "local": "أولاد رشاش",
+        "en": "Ouled Rechache",
+        "slug": "ouled-rechache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_ouled-rechache",
+        "level": 2,
+        "name": {
+          "local": "أولاد رشاش",
+          "en": "Ouled Rechache",
+          "slug": "ouled-rechache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40012"
+    ],
+    "geo": {
+      "lat": "35.246",
+      "lon": "7.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ040_ouled-rechache_ouled-rechache",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد رشاش",
+      "en": "Ouled Rechache",
+      "slug": "ouled-rechache"
+    },
+    "code": {
+      "id": "DZ040_ouled-rechache_ouled-rechache",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ040_ouled-rechache",
+      "level": 2,
+      "name": {
+        "local": "أولاد رشاش",
+        "en": "Ouled Rechache",
+        "slug": "ouled-rechache"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ040",
+        "level": 1,
+        "name": {
+          "local": "خنشلة",
+          "en": "Khenchela",
+          "slug": "khenchela"
+        }
+      },
+      {
+        "id": "DZ040_ouled-rechache",
+        "level": 2,
+        "name": {
+          "local": "أولاد رشاش",
+          "en": "Ouled Rechache",
+          "slug": "ouled-rechache"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40013"
+    ],
+    "geo": {
+      "lat": "35.205",
+      "lon": "7.349"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

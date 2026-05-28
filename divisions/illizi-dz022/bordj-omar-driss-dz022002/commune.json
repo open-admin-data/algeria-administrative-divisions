@@ -1,0 +1,45 @@
+{
+  "id": "DZ022002",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj Omar Driss",
+    "en": "Bordj Omar Driss",
+    "slug": "bordj-omar-driss-dz022002"
+  },
+  "code": {
+    "id": "DZ022002",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ022",
+    "level": 1,
+    "name": {
+      "local": "اليزي",
+      "en": "Illizi",
+      "slug": "illizi-dz022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ022",
+      "level": 1,
+      "name": {
+        "local": "اليزي",
+        "en": "Illizi",
+        "slug": "illizi-dz022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "28.206",
+    "lon": "7.181"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ012_el-kouif",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "الكويف",
+    "en": "El Kouif",
+    "slug": "el-kouif"
+  },
+  "code": {
+    "id": "DZ012_el-kouif",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ012",
+    "level": 1,
+    "name": {
+      "local": "تبسة",
+      "en": "Tébessa",
+      "slug": "tbessa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ012",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tébessa",
+        "slug": "tbessa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.468",
+    "lon": "8.21"
+  },
+  "metadata": {},
+  "source": {}
+}

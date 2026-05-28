@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ044_djelida_bourached",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بوراشد",
+      "en": "Bourached",
+      "slug": "bourached"
+    },
+    "code": {
+      "id": "DZ044_djelida_bourached",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djelida",
+      "level": 2,
+      "name": {
+        "local": "جليدة",
+        "en": "Djelida",
+        "slug": "djelida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djelida",
+        "level": 2,
+        "name": {
+          "local": "جليدة",
+          "en": "Djelida",
+          "slug": "djelida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44044"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "1.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djelida_djelida",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جليدة",
+      "en": "Djelida",
+      "slug": "djelida"
+    },
+    "code": {
+      "id": "DZ044_djelida_djelida",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djelida",
+      "level": 2,
+      "name": {
+        "local": "جليدة",
+        "en": "Djelida",
+        "slug": "djelida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djelida",
+        "level": 2,
+        "name": {
+          "local": "جليدة",
+          "en": "Djelida",
+          "slug": "djelida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44009"
+    ],
+    "geo": {
+      "lat": "36.175",
+      "lon": "2.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ044_djelida_djemaa-ouled-cheikh",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جمعة أولاد الشيخ",
+      "en": "Djemaa Ouled Cheikh",
+      "slug": "djemaa-ouled-cheikh"
+    },
+    "code": {
+      "id": "DZ044_djelida_djemaa-ouled-cheikh",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ044_djelida",
+      "level": 2,
+      "name": {
+        "local": "جليدة",
+        "en": "Djelida",
+        "slug": "djelida"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ044",
+        "level": 1,
+        "name": {
+          "local": "عين الدفلة",
+          "en": "Aïn Defla",
+          "slug": "an-defla"
+        }
+      },
+      {
+        "id": "DZ044_djelida",
+        "level": 2,
+        "name": {
+          "local": "جليدة",
+          "en": "Djelida",
+          "slug": "djelida"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44047"
+    ],
+    "geo": {
+      "lat": "36.073",
+      "lon": "1.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

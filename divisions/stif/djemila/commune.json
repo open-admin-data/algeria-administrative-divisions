@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ019_djemila_beni-fouda",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني فودة",
+      "en": "Beni Fouda",
+      "slug": "beni-fouda"
+    },
+    "code": {
+      "id": "DZ019_djemila_beni-fouda",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_djemila",
+      "level": 2,
+      "name": {
+        "local": "جميلة",
+        "en": "Djemila",
+        "slug": "djemila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_djemila",
+        "level": 2,
+        "name": {
+          "local": "جميلة",
+          "en": "Djemila",
+          "slug": "djemila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19023"
+    ],
+    "geo": {
+      "lat": "36.283",
+      "lon": "5.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ019_djemila_djemila",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جميلة",
+      "en": "Djemila",
+      "slug": "djemila"
+    },
+    "code": {
+      "id": "DZ019_djemila_djemila",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ019_djemila",
+      "level": 2,
+      "name": {
+        "local": "جميلة",
+        "en": "Djemila",
+        "slug": "djemila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ019",
+        "level": 1,
+        "name": {
+          "local": "سطيف",
+          "en": "Sétif",
+          "slug": "stif"
+        }
+      },
+      {
+        "id": "DZ019_djemila",
+        "level": 2,
+        "name": {
+          "local": "جميلة",
+          "en": "Djemila",
+          "slug": "djemila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "19025"
+    ],
+    "geo": {
+      "lat": "36.351",
+      "lon": "5.765"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

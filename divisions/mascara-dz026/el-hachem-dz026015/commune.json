@@ -1,0 +1,45 @@
+{
+  "id": "DZ026015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "El Hachem",
+    "en": "El Hachem",
+    "slug": "el-hachem-dz026015"
+  },
+  "code": {
+    "id": "DZ026015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.365",
+    "lon": "0.542"
+  },
+  "metadata": {},
+  "source": {}
+}

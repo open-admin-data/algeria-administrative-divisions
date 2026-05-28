@@ -1,0 +1,103 @@
+# Adrar — Algeria Administrative Divisions
+
+> 6 dairas, 16 communes
+> Code: DZ001
+> Coordinates: 25.91, -1.916
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### أدرار (Adrar)
+
+Code: DZ001_adrar, Coordinates: 27.98, -0.702
+Communes: 3
+
+#### أدرار (Adrar)
+
+Code: DZ001_adrar_adrar, Postal: 01000, Coordinates: 27.942, -0.215
+
+#### بودة (Bouda)
+
+Code: DZ001_adrar_bouda, Postal: 01023, Coordinates: 28.017, -1.188
+
+#### أولاد أحمد تيمي (Ouled Ahmed Timmi)
+
+Code: DZ001_adrar_ouled-ahmed-timmi, Postal: 01025, Coordinates: 27.98, -0.702
+
+### أولف (Aoulef)
+
+Code: DZ001_aoulef, Coordinates: 26.826, 1.16
+Communes: 4
+
+#### اقبلي (Akabli)
+
+Code: DZ001_aoulef_akabli, Postal: 01044, Coordinates: 26.826, 1.16
+
+#### أولف (Aoulef)
+
+Code: DZ001_aoulef_aoulef, Postal: 01003, Coordinates: 26.624, 0.862
+
+#### تيمقتن (Timekten)
+
+Code: DZ001_aoulef_timekten, Postal: 01041, Coordinates: 26.826, 1.16
+
+#### تيت (Tit)
+
+Code: DZ001_aoulef_tit, Postal: 01031, Coordinates: 27.029, 1.458
+
+### فنوغيل (Fenoughil)
+
+Code: DZ001_fenoughil, Coordinates: 27.529, -1.325
+Communes: 3
+
+#### فنوغيل (Fenoughil)
+
+Code: DZ001_fenoughil_fenoughil, Postal: 01008, Coordinates: 27.611, -1.242
+
+#### تامنطيط (Tamantit)
+
+Code: DZ001_fenoughil_tamantit, Postal: 01021, Coordinates: 27.529, -1.325
+
+#### تامست (Tamest)
+
+Code: DZ001_fenoughil_tamest, Postal: 01020, Coordinates: 27.448, -1.409
+
+### رقان (Reggane)
+
+Code: DZ001_reggane, Coordinates: 26.061, -2.034
+Communes: 2
+
+#### رقان (Reggane)
+
+Code: DZ001_reggane_reggane, Postal: 01004, Coordinates: 25.383, -2.03
+
+#### سالي (Sali)
+
+Code: DZ001_reggane_sali, Postal: 01009, Coordinates: 26.74, -2.039
+
+### تسابيت (Tsabit)
+
+Code: DZ001_tsabit, Coordinates: 28.467, -0.661
+Communes: 2
+
+#### السبع (Sebaa)
+
+Code: DZ001_tsabit_sebaa, Postal: 01022, Coordinates: 28.255, -0.038
+
+#### تسابيت (Tsabit)
+
+Code: DZ001_tsabit_tsabit, Postal: 01011, Coordinates: 28.679, -1.284
+
+### زاوية كنتة (Zaouiat Kounta)
+
+Code: DZ001_zaouiat-kounta, Coordinates: 27.241, -1.332
+Communes: 2
+
+#### إن زغمير (In Zghmir)
+
+Code: DZ001_zaouiat-kounta_in-zghmir, Postal: 01047, Coordinates: 27.241, -1.332
+
+#### زاوية كنتة (Zaouiet Kounta)
+
+Code: DZ001_zaouiat-kounta_zaouiet-kounta, Postal: 01007, Coordinates: 27.241, -1.332
+

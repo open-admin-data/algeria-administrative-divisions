@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ055_touggourt_nezla",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "النزلة",
+      "en": "Nezla",
+      "slug": "nezla"
+    },
+    "code": {
+      "id": "DZ055_touggourt_nezla",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_touggourt",
+      "level": 2,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_touggourt",
+        "level": 2,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30004"
+    ],
+    "geo": {
+      "lat": "33.072",
+      "lon": "5.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_touggourt_tebesbest",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تبسبست",
+      "en": "Tebesbest",
+      "slug": "tebesbest"
+    },
+    "code": {
+      "id": "DZ055_touggourt_tebesbest",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_touggourt",
+      "level": 2,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_touggourt",
+        "level": 2,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30058"
+    ],
+    "geo": {
+      "lat": "33.116",
+      "lon": "6.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_touggourt_touggourt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تقرت",
+      "en": "Touggourt",
+      "slug": "touggourt"
+    },
+    "code": {
+      "id": "DZ055_touggourt_touggourt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_touggourt",
+      "level": 2,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_touggourt",
+        "level": 2,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30002"
+    ],
+    "geo": {
+      "lat": "33.131",
+      "lon": "5.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ055_touggourt_zaouia-el-abidia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الزاوية العابدية",
+      "en": "Zaouia El Abidia",
+      "slug": "zaouia-el-abidia"
+    },
+    "code": {
+      "id": "DZ055_touggourt_zaouia-el-abidia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ055_touggourt",
+      "level": 2,
+      "name": {
+        "local": "تقرت",
+        "en": "Touggourt",
+        "slug": "touggourt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ055",
+        "level": 1,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      },
+      {
+        "id": "DZ055_touggourt",
+        "level": 2,
+        "name": {
+          "local": "تقرت",
+          "en": "Touggourt",
+          "slug": "touggourt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30018"
+    ],
+    "geo": {
+      "lat": "33.157",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_el-karimia_beni-bouattab",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني بوعتاب",
+      "en": "Beni  Bouattab",
+      "slug": "beni-bouattab"
+    },
+    "code": {
+      "id": "DZ002_el-karimia_beni-bouattab",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_el-karimia",
+      "level": 2,
+      "name": {
+        "local": "الكريمية",
+        "en": "El Karimia",
+        "slug": "el-karimia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_el-karimia",
+        "level": 2,
+        "name": {
+          "local": "الكريمية",
+          "en": "El Karimia",
+          "slug": "el-karimia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02071"
+    ],
+    "geo": {
+      "lat": "35.992",
+      "lon": "1.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_el-karimia_el-karimia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الكريمية",
+      "en": "El Karimia",
+      "slug": "el-karimia"
+    },
+    "code": {
+      "id": "DZ002_el-karimia_el-karimia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_el-karimia",
+      "level": 2,
+      "name": {
+        "local": "الكريمية",
+        "en": "El Karimia",
+        "slug": "el-karimia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_el-karimia",
+        "level": 2,
+        "name": {
+          "local": "الكريمية",
+          "en": "El Karimia",
+          "slug": "el-karimia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02008"
+    ],
+    "geo": {
+      "lat": "36.079",
+      "lon": "1.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_el-karimia_harchoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حرشون",
+      "en": "Harchoun",
+      "slug": "harchoun"
+    },
+    "code": {
+      "id": "DZ002_el-karimia_harchoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_el-karimia",
+      "level": 2,
+      "name": {
+        "local": "الكريمية",
+        "en": "El Karimia",
+        "slug": "el-karimia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_el-karimia",
+        "level": 2,
+        "name": {
+          "local": "الكريمية",
+          "en": "El Karimia",
+          "slug": "el-karimia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02031"
+    ],
+    "geo": {
+      "lat": "36.122",
+      "lon": "1.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

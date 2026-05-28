@@ -1,0 +1,133 @@
+# Khenchela — Algeria Administrative Divisions
+
+> 8 dairas, 21 communes
+> Code: DZ040
+> Coordinates: 34.916, 6.904
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين الطويلة (Ain Touila)
+
+Code: DZ040_ain-touila, Coordinates: 35.524, 7.316
+Communes: 2
+
+#### عين الطويلة (Ain Touila)
+
+Code: DZ040_ain-touila_ain-touila, Postal: 40028, Coordinates: 35.48, 7.374
+
+#### متوسة (M&#39;toussa)
+
+Code: DZ040_ain-touila_mtoussa, Postal: 40021, Coordinates: 35.568, 7.257
+
+### بابار (Babar)
+
+Code: DZ040_babar, Coordinates: 34.766, 7.282
+Communes: 1
+
+#### بابار (Babar)
+
+Code: DZ040_babar_babar, Postal: 40006, Coordinates: 34.766, 7.282
+
+### بوحمامة (Bouhmama)
+
+Code: DZ040_bouhmama, Coordinates: 35.294, 6.74
+Communes: 4
+
+#### بوحمامة (Bouhmama)
+
+Code: DZ040_bouhmama_bouhmama, Postal: 40007, Coordinates: 35.213, 6.822
+
+#### شلية (Chelia)
+
+Code: DZ040_bouhmama_chelia, Postal: 40030, Coordinates: 35.412, 6.834
+
+#### مصارة (M&#39;sara)
+
+Code: DZ040_bouhmama_msara, Postal: 40039, Coordinates: 35.156, 6.66
+
+#### يابوس (Yabous)
+
+Code: DZ040_bouhmama_yabous, Postal: 40023, Coordinates: 35.395, 6.644
+
+### ششار (Chechar)
+
+Code: DZ040_chechar, Coordinates: 35.326, 6.527
+Communes: 4
+
+#### ششار (Chechar)
+
+Code: DZ040_chechar_chechar, Postal: 40008, Coordinates: 35.326, 6.527
+
+#### جلال (Djellal)
+
+Code: DZ040_chechar_djellal, Postal: 40015, Coordinates: 34.877, 6.852
+
+#### الولجة (El Oueldja)
+
+Code: DZ040_chechar_el-oueldja, Coordinates: 36.089, 5.922
+
+#### خيران (Khirane)
+
+Code: DZ040_chechar_khirane, Postal: 40036, Coordinates: 35.012, 6.806
+
+### الحامة (El Hamma)
+
+Code: DZ040_el-hamma, Coordinates: 35.407, 7.063
+Communes: 4
+
+#### بغاي (Baghai)
+
+Code: DZ040_el-hamma_baghai, Postal: 40014, Coordinates: 35.52, 7.185
+
+#### الحامة (El Hamma)
+
+Code: DZ040_el-hamma_el-hamma, Postal: 40031, Coordinates: 35.473, 7.085
+
+#### انسيغة (Ensigha)
+
+Code: DZ040_el-hamma_ensigha, Postal: 40043, Coordinates: 35.339, 7.061
+
+#### طامزة (Tamza)
+
+Code: DZ040_el-hamma_tamza, Postal: 40024, Coordinates: 35.297, 6.923
+
+### قايس (Kais)
+
+Code: DZ040_kais, Coordinates: 35.512, 6.876
+Communes: 3
+
+#### قايس (Kais)
+
+Code: DZ040_kais_kais, Postal: 40001, Coordinates: 35.507, 6.947
+
+#### الرميلة (Remila)
+
+Code: DZ040_kais_remila, Postal: 40041, Coordinates: 35.589, 6.903
+
+#### تاوزيانت (Taouzianat)
+
+Code: DZ040_kais_taouzianat, Postal: 40011, Coordinates: 35.439, 6.777
+
+### خنشلة (Khenchela)
+
+Code: DZ040_khenchela, Coordinates: 35.439, 7.138
+Communes: 1
+
+#### خنشلة (Khenchela)
+
+Code: DZ040_khenchela_khenchela, Postal: 40000, Coordinates: 35.439, 7.138
+
+### أولاد رشاش (Ouled Rechache)
+
+Code: DZ040_ouled-rechache, Coordinates: 35.225, 7.298
+Communes: 2
+
+#### المحمل (El Mahmal)
+
+Code: DZ040_ouled-rechache_el-mahmal, Postal: 40012, Coordinates: 35.246, 7.247
+
+#### أولاد رشاش (Ouled Rechache)
+
+Code: DZ040_ouled-rechache_ouled-rechache, Postal: 40013, Coordinates: 35.205, 7.349
+

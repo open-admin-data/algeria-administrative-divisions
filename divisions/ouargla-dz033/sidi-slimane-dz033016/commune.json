@@ -1,0 +1,45 @@
+{
+  "id": "DZ033016",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Slimane",
+    "en": "Sidi Slimane",
+    "slug": "sidi-slimane-dz033016"
+  },
+  "code": {
+    "id": "DZ033016",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ033",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla-dz033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ033",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla-dz033"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.311",
+    "lon": "5.933"
+  },
+  "metadata": {},
+  "source": {}
+}

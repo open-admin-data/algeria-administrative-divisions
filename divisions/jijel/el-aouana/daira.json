@@ -1,0 +1,47 @@
+{
+  "id": "DZ018_el-aouana",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "العوانة",
+    "en": "El Aouana",
+    "slug": "el-aouana"
+  },
+  "code": {
+    "id": "DZ018_el-aouana",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ018",
+    "level": 1,
+    "name": {
+      "local": "جيجل",
+      "en": "Jijel",
+      "slug": "jijel"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ018",
+      "level": 1,
+      "name": {
+        "local": "جيجل",
+        "en": "Jijel",
+        "slug": "jijel"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.742",
+    "lon": "5.634"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ001_adrar",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "أدرار",
+    "en": "Adrar",
+    "slug": "adrar"
+  },
+  "code": {
+    "id": "DZ001_adrar",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرار",
+      "en": "Adrar",
+      "slug": "adrar"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرار",
+        "en": "Adrar",
+        "slug": "adrar"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.98",
+    "lon": "-0.702"
+  },
+  "metadata": {},
+  "source": {}
+}

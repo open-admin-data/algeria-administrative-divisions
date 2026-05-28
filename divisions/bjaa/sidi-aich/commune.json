@@ -1,0 +1,282 @@
+[
+  {
+    "id": "DZ006_sidi-aich_leflaye",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الفلاي",
+      "en": "Leflaye",
+      "slug": "leflaye"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich_leflaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_sidi-aich",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيش",
+        "en": "Sidi Aich",
+        "slug": "sidi-aich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_sidi-aich",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيش",
+          "en": "Sidi Aich",
+          "slug": "sidi-aich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06043"
+    ],
+    "geo": {
+      "lat": "36.6",
+      "lon": "4.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_sidi-aich_sidi-ayad",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عياد",
+      "en": "Sidi Ayad",
+      "slug": "sidi-ayad"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich_sidi-ayad",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_sidi-aich",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيش",
+        "en": "Sidi Aich",
+        "slug": "sidi-aich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_sidi-aich",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيش",
+          "en": "Sidi Aich",
+          "slug": "sidi-aich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06085"
+    ],
+    "geo": {
+      "lat": "36.611",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_sidi-aich_sidi-aich",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي عيش",
+      "en": "Sidi-Aich",
+      "slug": "sidi-aich"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich_sidi-aich",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_sidi-aich",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيش",
+        "en": "Sidi Aich",
+        "slug": "sidi-aich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_sidi-aich",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيش",
+          "en": "Sidi Aich",
+          "slug": "sidi-aich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06005"
+    ],
+    "geo": {
+      "lat": "36.624",
+      "lon": "4.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_sidi-aich_tifra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيفرة",
+      "en": "Tifra",
+      "slug": "tifra"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich_tifra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_sidi-aich",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيش",
+        "en": "Sidi Aich",
+        "slug": "sidi-aich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_sidi-aich",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيش",
+          "en": "Sidi Aich",
+          "slug": "sidi-aich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06028"
+    ],
+    "geo": {
+      "lat": "36.662",
+      "lon": "4.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ006_sidi-aich_tinebdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تينبدار",
+      "en": "Tinebdar",
+      "slug": "tinebdar"
+    },
+    "code": {
+      "id": "DZ006_sidi-aich_tinebdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ006_sidi-aich",
+      "level": 2,
+      "name": {
+        "local": "سيدي عيش",
+        "en": "Sidi Aich",
+        "slug": "sidi-aich"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ006",
+        "level": 1,
+        "name": {
+          "local": " بجاية",
+          "en": "Béjaïa",
+          "slug": "bjaa"
+        }
+      },
+      {
+        "id": "DZ006_sidi-aich",
+        "level": 2,
+        "name": {
+          "local": "سيدي عيش",
+          "en": "Sidi Aich",
+          "slug": "sidi-aich"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "06037"
+    ],
+    "geo": {
+      "lat": "36.636",
+      "lon": "4.696"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ020_el-hassasna_ain-sekhouna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين السخونة",
+      "en": "Ain Sekhouna",
+      "slug": "ain-sekhouna"
+    },
+    "code": {
+      "id": "DZ020_el-hassasna_ain-sekhouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_el-hassasna",
+      "level": 2,
+      "name": {
+        "local": "الحساسنة",
+        "en": "El Hassasna",
+        "slug": "el-hassasna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_el-hassasna",
+        "level": 2,
+        "name": {
+          "local": "الحساسنة",
+          "en": "El Hassasna",
+          "slug": "el-hassasna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20009"
+    ],
+    "geo": {
+      "lat": "34.68",
+      "lon": "0.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_el-hassasna_el-hassasna",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحساسنة",
+      "en": "El Hassasna",
+      "slug": "el-hassasna"
+    },
+    "code": {
+      "id": "DZ020_el-hassasna_el-hassasna",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_el-hassasna",
+      "level": 2,
+      "name": {
+        "local": "الحساسنة",
+        "en": "El Hassasna",
+        "slug": "el-hassasna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_el-hassasna",
+        "level": 2,
+        "name": {
+          "local": "الحساسنة",
+          "en": "El Hassasna",
+          "slug": "el-hassasna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20003"
+    ],
+    "geo": {
+      "lat": "34.754",
+      "lon": "0.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_el-hassasna_maamora",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "المعمورة",
+      "en": "Maamora",
+      "slug": "maamora"
+    },
+    "code": {
+      "id": "DZ020_el-hassasna_maamora",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_el-hassasna",
+      "level": 2,
+      "name": {
+        "local": "الحساسنة",
+        "en": "El Hassasna",
+        "slug": "el-hassasna"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_el-hassasna",
+        "level": 2,
+        "name": {
+          "local": "الحساسنة",
+          "en": "El Hassasna",
+          "slug": "el-hassasna"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10071"
+    ],
+    "geo": {
+      "lat": "34.606",
+      "lon": "0.524"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

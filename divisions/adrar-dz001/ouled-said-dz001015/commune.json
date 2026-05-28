@@ -1,0 +1,45 @@
+{
+  "id": "DZ001015",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ouled Said",
+    "en": "Ouled Said",
+    "slug": "ouled-said-dz001015"
+  },
+  "code": {
+    "id": "DZ001015",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.431",
+    "lon": "0.286"
+  },
+  "metadata": {},
+  "source": {}
+}

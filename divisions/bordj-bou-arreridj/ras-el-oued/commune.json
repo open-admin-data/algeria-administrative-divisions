@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ034_ras-el-oued_ain-tesra",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين تسرة",
+      "en": "Ain Tesra",
+      "slug": "ain-tesra"
+    },
+    "code": {
+      "id": "DZ034_ras-el-oued_ain-tesra",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_ras-el-oued",
+      "level": 2,
+      "name": {
+        "local": "رأس الوادي",
+        "en": "Ras El Oued",
+        "slug": "ras-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_ras-el-oued",
+        "level": 2,
+        "name": {
+          "local": "رأس الوادي",
+          "en": "Ras El Oued",
+          "slug": "ras-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34027"
+    ],
+    "geo": {
+      "lat": "35.918",
+      "lon": "5.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_ras-el-oued_ouled-brahem",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد أبراهم",
+      "en": "Ouled Brahem",
+      "slug": "ouled-brahem"
+    },
+    "code": {
+      "id": "DZ034_ras-el-oued_ouled-brahem",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_ras-el-oued",
+      "level": 2,
+      "name": {
+        "local": "رأس الوادي",
+        "en": "Ras El Oued",
+        "slug": "ras-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_ras-el-oued",
+        "level": 2,
+        "name": {
+          "local": "رأس الوادي",
+          "en": "Ras El Oued",
+          "slug": "ras-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34032"
+    ],
+    "geo": {
+      "lat": "35.9",
+      "lon": "5.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ034_ras-el-oued_ras-el-oued",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "رأس الوادي",
+      "en": "Ras El Oued",
+      "slug": "ras-el-oued"
+    },
+    "code": {
+      "id": "DZ034_ras-el-oued_ras-el-oued",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ034_ras-el-oued",
+      "level": 2,
+      "name": {
+        "local": "رأس الوادي",
+        "en": "Ras El Oued",
+        "slug": "ras-el-oued"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ034",
+        "level": 1,
+        "name": {
+          "local": "برج بوعريريج",
+          "en": "Bordj Bou Arreridj",
+          "slug": "bordj-bou-arreridj"
+        }
+      },
+      {
+        "id": "DZ034_ras-el-oued",
+        "level": 2,
+        "name": {
+          "local": "رأس الوادي",
+          "en": "Ras El Oued",
+          "slug": "ras-el-oued"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34001"
+    ],
+    "geo": {
+      "lat": "35.937",
+      "lon": "5.026"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ052_beni-abbes_beni-abbes",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني عباس",
+      "en": "Beni-Abbes",
+      "slug": "beni-abbes"
+    },
+    "code": {
+      "id": "DZ052_beni-abbes_beni-abbes",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_beni-abbes",
+      "level": 2,
+      "name": {
+        "local": "بني عباس",
+        "en": "Beni Abbes",
+        "slug": "beni-abbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_beni-abbes",
+        "level": 2,
+        "name": {
+          "local": "بني عباس",
+          "en": "Beni Abbes",
+          "slug": "beni-abbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08002"
+    ],
+    "geo": {
+      "lat": "30.071",
+      "lon": "-2.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ052_beni-abbes_tamtert",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تامترت",
+      "en": "Tamtert",
+      "slug": "tamtert"
+    },
+    "code": {
+      "id": "DZ052_beni-abbes_tamtert",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ052_beni-abbes",
+      "level": 2,
+      "name": {
+        "local": "بني عباس",
+        "en": "Beni Abbes",
+        "slug": "beni-abbes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ052",
+        "level": 1,
+        "name": {
+          "local": "بني عباس",
+          "en": "Béni Abbès",
+          "slug": "bni-abbs"
+        }
+      },
+      {
+        "id": "DZ052_beni-abbes",
+        "level": 2,
+        "name": {
+          "local": "بني عباس",
+          "en": "Beni Abbes",
+          "slug": "beni-abbes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "08046"
+    ],
+    "geo": {
+      "lat": "30.071",
+      "lon": "-2.58"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

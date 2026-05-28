@@ -1,0 +1,202 @@
+# Mila — Algeria Administrative Divisions
+
+> 13 dairas, 32 communes
+> Code: DZ043
+> Coordinates: 36.252, 6.165
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### عين البيضاء أحريش (Ain Beida Harriche)
+
+Code: DZ043_ain-beida-harriche, Coordinates: 36.415, 5.846
+Communes: 2
+
+####  عين البيضاء أحريش (Ain Beida Harriche)
+
+Code: DZ043_ain-beida-harriche_ain-beida-harriche, Postal: 43014, Coordinates: 36.39, 5.869
+
+#### العياضي برباس (El Ayadi Barbes)
+
+Code: DZ043_ain-beida-harriche_el-ayadi-barbes, Postal: 43050, Coordinates: 36.44, 5.824
+
+### بوحاتم (Bouhatem)
+
+Code: DZ043_bouhatem, Coordinates: 36.317, 6.053
+Communes: 2
+
+#### بوحاتم (Bouhatem)
+
+Code: DZ043_bouhatem_bouhatem, Postal: 43022, Coordinates: 36.317, 6.053
+
+#### دراحي بوصلاح (Derrahi Bousselah)
+
+Code: DZ043_bouhatem_derrahi-bousselah, Postal: 43046, Coordinates: 36.317, 6.053
+
+### شلغوم العيد (Chelghoum Laid)
+
+Code: DZ043_chelghoum-laid, Coordinates: 36.22, 6.16
+Communes: 3
+
+#### عين الملوك (Ain Mellouk)
+
+Code: DZ043_chelghoum-laid_ain-mellouk, Postal: 43015, Coordinates: 36.275, 6.146
+
+#### شلغوم العيد (Chelghoum Laid)
+
+Code: DZ043_chelghoum-laid_chelghoum-laid, Postal: 43001, Coordinates: 36.165, 6.174
+
+#### وادي العثمانية (Oued Athmenia)
+
+Code: DZ043_chelghoum-laid_oued-athmenia, Postal: 43005, Coordinates: 36.22, 6.16
+
+### فرجيوة (Ferdjioua)
+
+Code: DZ043_ferdjioua, Coordinates: 36.408, 5.939
+Communes: 2
+
+#### فرجيوة (Ferdjioua)
+
+Code: DZ043_ferdjioua_ferdjioua, Postal: 43002, Coordinates: 36.408, 5.939
+
+#### يحي بني قشة (Yahia Beniguecha)
+
+Code: DZ043_ferdjioua_yahia-beniguecha, Postal: 43071, Coordinates: 36.408, 5.939
+
+### القرارم قوقة (Grarem Gouga)
+
+Code: DZ043_grarem-gouga, Coordinates: 36.559, 6.369
+Communes: 2
+
+#### القرارم قوقة (Grarem Gouga)
+
+Code: DZ043_grarem-gouga_grarem-gouga, Postal: 43004, Coordinates: 36.535, 6.39
+
+#### حمالة (Hamala)
+
+Code: DZ043_grarem-gouga_hamala, Postal: 43052, Coordinates: 36.583, 6.348
+
+### ميلة (Mila)
+
+Code: DZ043_mila, Coordinates: 36.408, 6.28
+Communes: 3
+
+#### عين التين (Ain Tine)
+
+Code: DZ043_mila_ain-tine, Postal: 43016, Coordinates: 36.416, 6.328
+
+#### ميلة (Mila)
+
+Code: DZ043_mila_mila, Postal: 43000, Coordinates: 36.44, 6.249
+
+#### سيدي خليفة (Sidi Khelifa)
+
+Code: DZ043_mila_sidi-khelifa, Postal: 43058, Coordinates: 36.367, 6.262
+
+### وادي النجاء (Oued Endja)
+
+Code: DZ043_oued-endja, Coordinates: 36.468, 6.139
+Communes: 3
+
+#### أحمد راشدي (Ahmed Rachedi)
+
+Code: DZ043_oued-endja_ahmed-rachedi, Postal: 43013, Coordinates: 36.468, 6.139
+
+#### وادي النجاء (Oued Endja)
+
+Code: DZ043_oued-endja_oued-endja, Postal: 43006, Coordinates: 36.454, 6.109
+
+#### زغاية (Zeghaia)
+
+Code: DZ043_oued-endja_zeghaia, Postal: 43012, Coordinates: 36.483, 6.168
+
+### الرواشد (Rouached)
+
+Code: DZ043_rouached, Coordinates: 36.438, 6.028
+Communes: 2
+
+#### الرواشد (Rouached)
+
+Code: DZ043_rouached_rouached, Postal: 43009, Coordinates: 36.476, 5.997
+
+#### تيبرقنت (Tiberguent)
+
+Code: DZ043_rouached_tiberguent, Postal: 43035, Coordinates: 36.4, 6.06
+
+### سيدي مروان (Sidi Merouane)
+
+Code: DZ043_sidi-merouane, Coordinates: 36.515, 6.26
+Communes: 2
+
+#### الشيقارة (Chigara)
+
+Code: DZ043_sidi-merouane_chigara, Postal: 43025, Coordinates: 36.515, 6.26
+
+#### سيدي مروان (Sidi Merouane)
+
+Code: DZ043_sidi-merouane_sidi-merouane, Postal: 43010, Coordinates: 36.515, 6.26
+
+### تاجنانت (Tadjenanet)
+
+Code: DZ043_tadjenanet, Coordinates: 36.133, 6.02
+Communes: 3
+
+#### بن يحي عبد الرحمن (Benyahia Abderrahmane)
+
+Code: DZ043_tadjenanet_benyahia-abderrahmane, Postal: 43020, Coordinates: 36.217, 6.011
+
+#### أولاد اخلوف (Ouled Khalouf)
+
+Code: DZ043_tadjenanet_ouled-khalouf, Postal: 43032, Coordinates: 36.133, 6.02
+
+#### تاجنانت (Tadjenanet)
+
+Code: DZ043_tadjenanet_tadjenanet, Postal: 43007, Coordinates: 36.049, 6.029
+
+### تسدان حدادة (Tassadane Haddada)
+
+Code: DZ043_tassadane-haddada, Coordinates: 36.528, 5.869
+Communes: 2
+
+#### مينار زارزة (Minar Zarza)
+
+Code: DZ043_tassadane-haddada_minar-zarza, Postal: 43036, Coordinates: 36.538, 5.913
+
+#### تسدان حدادة (Tassadane Haddada)
+
+Code: DZ043_tassadane-haddada_tassadane-haddada, Postal: 43033, Coordinates: 36.518, 5.825
+
+### التلاغمة (Teleghma)
+
+Code: DZ043_teleghma, Coordinates: 36.204, 6.458
+Communes: 3
+
+#### مشيرة (El Mechira)
+
+Code: DZ043_teleghma_el-mechira, Postal: 43026, Coordinates: 36.204, 6.458
+
+#### وادي سقان (Oued Seguen)
+
+Code: DZ043_teleghma_oued-seguen, Postal: 43031, Coordinates: 36.204, 6.458
+
+#### التلاغمة (Teleghma)
+
+Code: DZ043_teleghma_teleghma, Postal: 43008, Coordinates: 36.204, 6.458
+
+### ترعي باينان (Terrai Bainen)
+
+Code: DZ043_terrai-bainen, Coordinates: 36.555, 6.059
+Communes: 3
+
+#### اعميرة اراس (Amira Arres)
+
+Code: DZ043_terrai-bainen_amira-arres, Postal: 43017, Coordinates: 36.555, 6.059
+
+#### تسالة لمطاعي (Tassala Lematai)
+
+Code: DZ043_terrai-bainen_tassala-lematai, Postal: 43034, Coordinates: 36.555, 6.059
+
+#### ترعي باينان (Terrai Bainen)
+
+Code: DZ043_terrai-bainen_terrai-bainen, Postal: 43018, Coordinates: 36.555, 6.059
+

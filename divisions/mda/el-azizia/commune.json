@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ026_el-azizia_el-azizia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "العزيزية",
+      "en": "El Azizia",
+      "slug": "el-azizia"
+    },
+    "code": {
+      "id": "DZ026_el-azizia_el-azizia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_el-azizia",
+      "level": 2,
+      "name": {
+        "local": "العزيزية",
+        "en": "El Azizia",
+        "slug": "el-azizia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_el-azizia",
+        "level": 2,
+        "name": {
+          "local": "العزيزية",
+          "en": "El Azizia",
+          "slug": "el-azizia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26018"
+    ],
+    "geo": {
+      "lat": "36.319",
+      "lon": "3.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_el-azizia_maghraoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مغراوة",
+      "en": "Maghraoua",
+      "slug": "maghraoua"
+    },
+    "code": {
+      "id": "DZ026_el-azizia_maghraoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_el-azizia",
+      "level": 2,
+      "name": {
+        "local": "العزيزية",
+        "en": "El Azizia",
+        "slug": "el-azizia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_el-azizia",
+        "level": 2,
+        "name": {
+          "local": "العزيزية",
+          "en": "El Azizia",
+          "slug": "el-azizia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26063"
+    ],
+    "geo": {
+      "lat": "36.383",
+      "lon": "3.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ026_el-azizia_mihoub",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ميهوب",
+      "en": "Mihoub",
+      "slug": "mihoub"
+    },
+    "code": {
+      "id": "DZ026_el-azizia_mihoub",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ026_el-azizia",
+      "level": 2,
+      "name": {
+        "local": "العزيزية",
+        "en": "El Azizia",
+        "slug": "el-azizia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ026",
+        "level": 1,
+        "name": {
+          "local": "المدية",
+          "en": "Médéa",
+          "slug": "mda"
+        }
+      },
+      {
+        "id": "DZ026_el-azizia",
+        "level": 2,
+        "name": {
+          "local": "العزيزية",
+          "en": "El Azizia",
+          "slug": "el-azizia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26032"
+    ],
+    "geo": {
+      "lat": "36.389",
+      "lon": "3.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

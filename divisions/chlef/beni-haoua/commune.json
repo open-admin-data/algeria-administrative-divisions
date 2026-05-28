@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ002_beni-haoua_beni-haoua",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني حواء",
+      "en": "Beni Haoua",
+      "slug": "beni-haoua"
+    },
+    "code": {
+      "id": "DZ002_beni-haoua_beni-haoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_beni-haoua",
+      "level": 2,
+      "name": {
+        "local": "بني حواء",
+        "en": "Beni Haoua",
+        "slug": "beni-haoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_beni-haoua",
+        "level": 2,
+        "name": {
+          "local": "بني حواء",
+          "en": "Beni Haoua",
+          "slug": "beni-haoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02017"
+    ],
+    "geo": {
+      "lat": "36.494",
+      "lon": "1.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_beni-haoua_breira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بريرة",
+      "en": "Breira",
+      "slug": "breira"
+    },
+    "code": {
+      "id": "DZ002_beni-haoua_breira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_beni-haoua",
+      "level": 2,
+      "name": {
+        "local": "بني حواء",
+        "en": "Beni Haoua",
+        "slug": "beni-haoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_beni-haoua",
+        "level": 2,
+        "name": {
+          "local": "بني حواء",
+          "en": "Beni Haoua",
+          "slug": "beni-haoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02070"
+    ],
+    "geo": {
+      "lat": "36.451",
+      "lon": "1.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ002_beni-haoua_oued-goussine",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي قوسين",
+      "en": "Oued Goussine",
+      "slug": "oued-goussine"
+    },
+    "code": {
+      "id": "DZ002_beni-haoua_oued-goussine",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ002_beni-haoua",
+      "level": 2,
+      "name": {
+        "local": "بني حواء",
+        "en": "Beni Haoua",
+        "slug": "beni-haoua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ002",
+        "level": 1,
+        "name": {
+          "local": " الشلف",
+          "en": "Chlef",
+          "slug": "chlef"
+        }
+      },
+      {
+        "id": "DZ002_beni-haoua",
+        "level": 2,
+        "name": {
+          "local": "بني حواء",
+          "en": "Beni Haoua",
+          "slug": "beni-haoua"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "02061"
+    ],
+    "geo": {
+      "lat": "36.472",
+      "lon": "1.566"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

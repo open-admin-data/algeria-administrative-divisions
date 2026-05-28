@@ -1,0 +1,45 @@
+{
+  "id": "DZ007011",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kerzaz",
+    "en": "Kerzaz",
+    "slug": "kerzaz-dz007011"
+  },
+  "code": {
+    "id": "DZ007011",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ007",
+    "level": 1,
+    "name": {
+      "local": "بشار",
+      "en": "Bechar",
+      "slug": "bechar-dz007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ007",
+      "level": 1,
+      "name": {
+        "local": "بشار",
+        "en": "Bechar",
+        "slug": "bechar-dz007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.839",
+    "lon": "-0.946"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ005_tkout_ghassira",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "غسيرة",
+      "en": "Ghassira",
+      "slug": "ghassira"
+    },
+    "code": {
+      "id": "DZ005_tkout_ghassira",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_tkout",
+      "level": 2,
+      "name": {
+        "local": "تكوت",
+        "en": "Tkout",
+        "slug": "tkout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_tkout",
+        "level": 2,
+        "name": {
+          "local": "تكوت",
+          "en": "Tkout",
+          "slug": "tkout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05043"
+    ],
+    "geo": {
+      "lat": "35.064",
+      "lon": "6.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_tkout_kimmel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "كيمل",
+      "en": "Kimmel",
+      "slug": "kimmel"
+    },
+    "code": {
+      "id": "DZ005_tkout_kimmel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_tkout",
+      "level": 2,
+      "name": {
+        "local": "تكوت",
+        "en": "Tkout",
+        "slug": "tkout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_tkout",
+        "level": 2,
+        "name": {
+          "local": "تكوت",
+          "en": "Tkout",
+          "slug": "tkout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05079"
+    ],
+    "geo": {
+      "lat": "35.002",
+      "lon": "6.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_tkout_t-kout",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تكوت",
+      "en": "T Kout",
+      "slug": "t-kout"
+    },
+    "code": {
+      "id": "DZ005_tkout_t-kout",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_tkout",
+      "level": 2,
+      "name": {
+        "local": "تكوت",
+        "en": "Tkout",
+        "slug": "tkout"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_tkout",
+        "level": 2,
+        "name": {
+          "local": "تكوت",
+          "en": "Tkout",
+          "slug": "tkout"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05020"
+    ],
+    "geo": {
+      "lat": "35.033",
+      "lon": "6.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

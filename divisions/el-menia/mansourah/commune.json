@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ058_mansourah_hassi-fehal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "حاسي الفحل",
+      "en": "Hassi Fehal",
+      "slug": "hassi-fehal"
+    },
+    "code": {
+      "id": "DZ058_mansourah_hassi-fehal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ058_mansourah",
+      "level": 2,
+      "name": {
+        "local": "المنصورة",
+        "en": "Mansourah",
+        "slug": "mansourah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ058",
+        "level": 1,
+        "name": {
+          "local": "المنيعة",
+          "en": "El Menia",
+          "slug": "el-menia"
+        }
+      },
+      {
+        "id": "DZ058_mansourah",
+        "level": 2,
+        "name": {
+          "local": "المنصورة",
+          "en": "Mansourah",
+          "slug": "mansourah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47021"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

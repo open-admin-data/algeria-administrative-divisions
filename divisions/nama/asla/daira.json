@@ -1,0 +1,47 @@
+{
+  "id": "DZ045_asla",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "عسلة",
+    "en": "Asla",
+    "slug": "asla"
+  },
+  "code": {
+    "id": "DZ045_asla",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naâma",
+      "slug": "nama"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naâma",
+        "slug": "nama"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.728",
+    "lon": "-0.169"
+  },
+  "metadata": {},
+  "source": {}
+}

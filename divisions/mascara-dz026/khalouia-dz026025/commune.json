@@ -1,0 +1,45 @@
+{
+  "id": "DZ026025",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Khalouia",
+    "en": "Khalouia",
+    "slug": "khalouia-dz026025"
+  },
+  "code": {
+    "id": "DZ026025",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ026",
+    "level": 1,
+    "name": {
+      "local": "معسكر",
+      "en": "Mascara",
+      "slug": "mascara-dz026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ026",
+      "level": 1,
+      "name": {
+        "local": "معسكر",
+        "en": "Mascara",
+        "slug": "mascara-dz026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.462",
+    "lon": "0.298"
+  },
+  "metadata": {},
+  "source": {}
+}

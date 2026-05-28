@@ -1,0 +1,47 @@
+{
+  "id": "DZ030_el-borma",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "البرمة",
+    "en": "El Borma",
+    "slug": "el-borma"
+  },
+  "code": {
+    "id": "DZ030_el-borma",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ030",
+    "level": 1,
+    "name": {
+      "local": "ورقلة",
+      "en": "Ouargla",
+      "slug": "ouargla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ030",
+      "level": 1,
+      "name": {
+        "local": "ورقلة",
+        "en": "Ouargla",
+        "slug": "ouargla"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.325",
+    "lon": "7.953"
+  },
+  "metadata": {},
+  "source": {}
+}

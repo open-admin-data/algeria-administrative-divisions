@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_sedrata_ain-soltane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين سلطان",
+      "en": "Ain Soltane",
+      "slug": "ain-soltane"
+    },
+    "code": {
+      "id": "DZ041_sedrata_ain-soltane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_sedrata",
+      "level": 2,
+      "name": {
+        "local": "سدراتة",
+        "en": "Sedrata",
+        "slug": "sedrata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_sedrata",
+        "level": 2,
+        "name": {
+          "local": "سدراتة",
+          "en": "Sedrata",
+          "slug": "sedrata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20029"
+    ],
+    "geo": {
+      "lat": "36.182",
+      "lon": "7.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_sedrata_khemissa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "خميسة",
+      "en": "Khemissa",
+      "slug": "khemissa"
+    },
+    "code": {
+      "id": "DZ041_sedrata_khemissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_sedrata",
+      "level": 2,
+      "name": {
+        "local": "سدراتة",
+        "en": "Sedrata",
+        "slug": "sedrata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_sedrata",
+        "level": 2,
+        "name": {
+          "local": "سدراتة",
+          "en": "Sedrata",
+          "slug": "sedrata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41031"
+    ],
+    "geo": {
+      "lat": "36.189",
+      "lon": "7.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_sedrata_sedrata",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سدراتة",
+      "en": "Sedrata",
+      "slug": "sedrata"
+    },
+    "code": {
+      "id": "DZ041_sedrata_sedrata",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_sedrata",
+      "level": 2,
+      "name": {
+        "local": "سدراتة",
+        "en": "Sedrata",
+        "slug": "sedrata"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_sedrata",
+        "level": 2,
+        "name": {
+          "local": "سدراتة",
+          "en": "Sedrata",
+          "slug": "sedrata"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41006"
+    ],
+    "geo": {
+      "lat": "36.148",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "DZ034",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "برج بوعريريج",
+    "en": "Bordj Bou Arreridj",
+    "slug": "bordj-bou-arreridj"
+  },
+  "code": {
+    "id": "DZ034",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "daira": 10,
+    "commune": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.043",
+    "lon": "4.57"
+  },
+  "metadata": {},
+  "source": {}
+}

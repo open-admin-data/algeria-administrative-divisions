@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ012_el-malabiod_el-malabiod",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الماء الابيض",
+      "en": "El Malabiod",
+      "slug": "el-malabiod"
+    },
+    "code": {
+      "id": "DZ012_el-malabiod_el-malabiod",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-malabiod",
+      "level": 2,
+      "name": {
+        "local": "الماء الابيض",
+        "en": "El Malabiod",
+        "slug": "el-malabiod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-malabiod",
+        "level": 2,
+        "name": {
+          "local": "الماء الابيض",
+          "en": "El Malabiod",
+          "slug": "el-malabiod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12014"
+    ],
+    "geo": {
+      "lat": "35.24",
+      "lon": "8.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ012_el-malabiod_el-houidjbet",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الحويجبات",
+      "en": "El-Houidjbet",
+      "slug": "el-houidjbet"
+    },
+    "code": {
+      "id": "DZ012_el-malabiod_el-houidjbet",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ012_el-malabiod",
+      "level": 2,
+      "name": {
+        "local": "الماء الابيض",
+        "en": "El Malabiod",
+        "slug": "el-malabiod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ012",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tébessa",
+          "slug": "tbessa"
+        }
+      },
+      {
+        "id": "DZ012_el-malabiod",
+        "level": 2,
+        "name": {
+          "local": "الماء الابيض",
+          "en": "El Malabiod",
+          "slug": "el-malabiod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12038"
+    ],
+    "geo": {
+      "lat": "35.24",
+      "lon": "8.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

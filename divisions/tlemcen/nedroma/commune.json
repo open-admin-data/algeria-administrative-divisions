@@ -1,0 +1,114 @@
+[
+  {
+    "id": "DZ013_nedroma_djebala",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "جبالة",
+      "en": "Djebala",
+      "slug": "djebala"
+    },
+    "code": {
+      "id": "DZ013_nedroma_djebala",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_nedroma",
+      "level": 2,
+      "name": {
+        "local": "ندرومة",
+        "en": "Nedroma",
+        "slug": "nedroma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_nedroma",
+        "level": 2,
+        "name": {
+          "local": "ندرومة",
+          "en": "Nedroma",
+          "slug": "nedroma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13029"
+    ],
+    "geo": {
+      "lat": "34.963",
+      "lon": "-1.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_nedroma_nedroma",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ندرومة",
+      "en": "Nedroma",
+      "slug": "nedroma"
+    },
+    "code": {
+      "id": "DZ013_nedroma_nedroma",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_nedroma",
+      "level": 2,
+      "name": {
+        "local": "ندرومة",
+        "en": "Nedroma",
+        "slug": "nedroma"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_nedroma",
+        "level": 2,
+        "name": {
+          "local": "ندرومة",
+          "en": "Nedroma",
+          "slug": "nedroma"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13004"
+    ],
+    "geo": {
+      "lat": "35.047",
+      "lon": "-1.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

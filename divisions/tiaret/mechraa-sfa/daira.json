@@ -1,0 +1,47 @@
+{
+  "id": "DZ014_mechraa-sfa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "مشرع الصفا",
+    "en": "Mechraa Sfa",
+    "slug": "mechraa-sfa"
+  },
+  "code": {
+    "id": "DZ014_mechraa-sfa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ014",
+    "level": 1,
+    "name": {
+      "local": "تيارت",
+      "en": "Tiaret",
+      "slug": "tiaret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ014",
+      "level": 1,
+      "name": {
+        "local": "تيارت",
+        "en": "Tiaret",
+        "slug": "tiaret"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.356",
+    "lon": "0.896"
+  },
+  "metadata": {},
+  "source": {}
+}

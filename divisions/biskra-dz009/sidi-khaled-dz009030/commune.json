@@ -1,0 +1,45 @@
+{
+  "id": "DZ009030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Khaled",
+    "en": "Sidi Khaled",
+    "slug": "sidi-khaled-dz009030"
+  },
+  "code": {
+    "id": "DZ009030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ009",
+    "level": 1,
+    "name": {
+      "local": "بسكرة",
+      "en": "Biskra",
+      "slug": "biskra-dz009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ009",
+      "level": 1,
+      "name": {
+        "local": "بسكرة",
+        "en": "Biskra",
+        "slug": "biskra-dz009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.389",
+    "lon": "4.967"
+  },
+  "metadata": {},
+  "source": {}
+}

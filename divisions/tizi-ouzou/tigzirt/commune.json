@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ015_tigzirt_iflissen",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "إفليـــسن",
+      "en": "Iflissen",
+      "slug": "iflissen"
+    },
+    "code": {
+      "id": "DZ015_tigzirt_iflissen",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tigzirt",
+      "level": 2,
+      "name": {
+        "local": "تيقزيرت",
+        "en": "Tigzirt",
+        "slug": "tigzirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tigzirt",
+        "level": 2,
+        "name": {
+          "local": "تيقزيرت",
+          "en": "Tigzirt",
+          "slug": "tigzirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15068"
+    ],
+    "geo": {
+      "lat": "36.873",
+      "lon": "4.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_tigzirt_mizrana",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ميزرانـــة",
+      "en": "Mizrana",
+      "slug": "mizrana"
+    },
+    "code": {
+      "id": "DZ015_tigzirt_mizrana",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tigzirt",
+      "level": 2,
+      "name": {
+        "local": "تيقزيرت",
+        "en": "Tigzirt",
+        "slug": "tigzirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tigzirt",
+        "level": 2,
+        "name": {
+          "local": "تيقزيرت",
+          "en": "Tigzirt",
+          "slug": "tigzirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15061"
+    ],
+    "geo": {
+      "lat": "36.863",
+      "lon": "4.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ015_tigzirt_tigzirt",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيقـزيرت",
+      "en": "Tigzirt",
+      "slug": "tigzirt"
+    },
+    "code": {
+      "id": "DZ015_tigzirt_tigzirt",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ015_tigzirt",
+      "level": 2,
+      "name": {
+        "local": "تيقزيرت",
+        "en": "Tigzirt",
+        "slug": "tigzirt"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ015",
+        "level": 1,
+        "name": {
+          "local": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "slug": "tizi-ouzou"
+        }
+      },
+      {
+        "id": "DZ015_tigzirt",
+        "level": 2,
+        "name": {
+          "local": "تيقزيرت",
+          "en": "Tigzirt",
+          "slug": "tigzirt"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15019"
+    ],
+    "geo": {
+      "lat": "36.864",
+      "lon": "4.146"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

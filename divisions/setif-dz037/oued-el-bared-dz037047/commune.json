@@ -1,0 +1,45 @@
+{
+  "id": "DZ037047",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued El Bared",
+    "en": "Oued El Bared",
+    "slug": "oued-el-bared-dz037047"
+  },
+  "code": {
+    "id": "DZ037047",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.5",
+    "lon": "5.405"
+  },
+  "metadata": {},
+  "source": {}
+}

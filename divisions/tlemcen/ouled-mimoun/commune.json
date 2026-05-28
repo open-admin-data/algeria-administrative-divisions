@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ013_ouled-mimoun_beni-smiel",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني صميل",
+      "en": "Beni Smiel",
+      "slug": "beni-smiel"
+    },
+    "code": {
+      "id": "DZ013_ouled-mimoun_beni-smiel",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ouled-mimoun",
+      "level": 2,
+      "name": {
+        "local": "أولاد ميمون",
+        "en": "Ouled Mimoun",
+        "slug": "ouled-mimoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ouled-mimoun",
+        "level": 2,
+        "name": {
+          "local": "أولاد ميمون",
+          "en": "Ouled Mimoun",
+          "slug": "ouled-mimoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13086"
+    ],
+    "geo": {
+      "lat": "34.901",
+      "lon": "-1.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ouled-mimoun_oued-lakhdar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "وادي الخضر",
+      "en": "Oued Lakhdar",
+      "slug": "oued-lakhdar"
+    },
+    "code": {
+      "id": "DZ013_ouled-mimoun_oued-lakhdar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ouled-mimoun",
+      "level": 2,
+      "name": {
+        "local": "أولاد ميمون",
+        "en": "Ouled Mimoun",
+        "slug": "ouled-mimoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ouled-mimoun",
+        "level": 2,
+        "name": {
+          "local": "أولاد ميمون",
+          "en": "Ouled Mimoun",
+          "slug": "ouled-mimoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13068"
+    ],
+    "geo": {
+      "lat": "34.901",
+      "lon": "-1.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ013_ouled-mimoun_ouled-mimoun",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد ميمون",
+      "en": "Ouled Mimoun",
+      "slug": "ouled-mimoun"
+    },
+    "code": {
+      "id": "DZ013_ouled-mimoun_ouled-mimoun",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ013_ouled-mimoun",
+      "level": 2,
+      "name": {
+        "local": "أولاد ميمون",
+        "en": "Ouled Mimoun",
+        "slug": "ouled-mimoun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ013",
+        "level": 1,
+        "name": {
+          "local": "تلمسان",
+          "en": "Tlemcen",
+          "slug": "tlemcen"
+        }
+      },
+      {
+        "id": "DZ013_ouled-mimoun",
+        "level": 2,
+        "name": {
+          "local": "أولاد ميمون",
+          "en": "Ouled Mimoun",
+          "slug": "ouled-mimoun"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "13010"
+    ],
+    "geo": {
+      "lat": "34.901",
+      "lon": "-1.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

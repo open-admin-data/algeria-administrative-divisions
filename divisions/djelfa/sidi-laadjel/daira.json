@@ -1,0 +1,47 @@
+{
+  "id": "DZ017_sidi-laadjel",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سيدي لعجال",
+    "en": "Sidi Laadjel",
+    "slug": "sidi-laadjel"
+  },
+  "code": {
+    "id": "DZ017_sidi-laadjel",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "الجلفة",
+      "en": "Djelfa",
+      "slug": "djelfa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "الجلفة",
+        "en": "Djelfa",
+        "slug": "djelfa"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.395",
+    "lon": "2.58"
+  },
+  "metadata": {},
+  "source": {}
+}

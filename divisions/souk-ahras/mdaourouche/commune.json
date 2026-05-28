@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ041_mdaourouche_mdaourouche",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مداوروش",
+      "en": "M'daourouche",
+      "slug": "mdaourouche"
+    },
+    "code": {
+      "id": "DZ041_mdaourouche_mdaourouche",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_mdaourouche",
+      "level": 2,
+      "name": {
+        "local": "مداوروش",
+        "en": "M'daourouche",
+        "slug": "mdaourouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_mdaourouche",
+        "level": 2,
+        "name": {
+          "local": "مداوروش",
+          "en": "M'daourouche",
+          "slug": "mdaourouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41001"
+    ],
+    "geo": {
+      "lat": "36.066",
+      "lon": "7.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_mdaourouche_ragouba",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الراقوبة",
+      "en": "Ragouba",
+      "slug": "ragouba"
+    },
+    "code": {
+      "id": "DZ041_mdaourouche_ragouba",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_mdaourouche",
+      "level": 2,
+      "name": {
+        "local": "مداوروش",
+        "en": "M'daourouche",
+        "slug": "mdaourouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_mdaourouche",
+        "level": 2,
+        "name": {
+          "local": "مداوروش",
+          "en": "M'daourouche",
+          "slug": "mdaourouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41033"
+    ],
+    "geo": {
+      "lat": "36.119",
+      "lon": "7.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ041_mdaourouche_tiffech",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "تيفاش",
+      "en": "Tiffech",
+      "slug": "tiffech"
+    },
+    "code": {
+      "id": "DZ041_mdaourouche_tiffech",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ041_mdaourouche",
+      "level": 2,
+      "name": {
+        "local": "مداوروش",
+        "en": "M'daourouche",
+        "slug": "mdaourouche"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ041",
+        "level": 1,
+        "name": {
+          "local": "سوق أهراس",
+          "en": "Souk Ahras",
+          "slug": "souk-ahras"
+        }
+      },
+      {
+        "id": "DZ041_mdaourouche",
+        "level": 2,
+        "name": {
+          "local": "مداوروش",
+          "en": "M'daourouche",
+          "slug": "mdaourouche"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41038"
+    ],
+    "geo": {
+      "lat": "36.172",
+      "lon": "7.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

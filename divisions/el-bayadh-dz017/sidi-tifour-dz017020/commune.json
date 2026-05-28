@@ -1,0 +1,45 @@
+{
+  "id": "DZ017020",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Tifour",
+    "en": "Sidi Tifour",
+    "slug": "sidi-tifour-dz017020"
+  },
+  "code": {
+    "id": "DZ017020",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.63",
+    "lon": "1.727"
+  },
+  "metadata": {},
+  "source": {}
+}

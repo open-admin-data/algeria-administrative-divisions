@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DZ007_el-outaya_el-outaya",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الوطاية",
+      "en": "El Outaya",
+      "slug": "el-outaya"
+    },
+    "code": {
+      "id": "DZ007_el-outaya_el-outaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ007_el-outaya",
+      "level": 2,
+      "name": {
+        "local": "الوطاية",
+        "en": "El Outaya",
+        "slug": "el-outaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ007",
+        "level": 1,
+        "name": {
+          "local": "بسكرة",
+          "en": "Biskra",
+          "slug": "biskra"
+        }
+      },
+      {
+        "id": "DZ007_el-outaya",
+        "level": 2,
+        "name": {
+          "local": "الوطاية",
+          "en": "El Outaya",
+          "slug": "el-outaya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "07030"
+    ],
+    "geo": {
+      "lat": "34.98",
+      "lon": "5.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

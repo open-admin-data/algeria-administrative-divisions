@@ -1,0 +1,226 @@
+[
+  {
+    "id": "DZ005_ain-touta_ain-touta",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين التوتة",
+      "en": "Ain Touta",
+      "slug": "ain-touta"
+    },
+    "code": {
+      "id": "DZ005_ain-touta_ain-touta",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-touta",
+      "level": 2,
+      "name": {
+        "local": "عين التوتة",
+        "en": "Ain Touta",
+        "slug": "ain-touta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-touta",
+        "level": 2,
+        "name": {
+          "local": "عين التوتة",
+          "en": "Ain Touta",
+          "slug": "ain-touta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05002"
+    ],
+    "geo": {
+      "lat": "35.367",
+      "lon": "5.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ain-touta_beni-foudhala-el-hakania",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني فضالة الحقانية",
+      "en": "Beni Foudhala El Hakania",
+      "slug": "beni-foudhala-el-hakania"
+    },
+    "code": {
+      "id": "DZ005_ain-touta_beni-foudhala-el-hakania",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-touta",
+      "level": 2,
+      "name": {
+        "local": "عين التوتة",
+        "en": "Ain Touta",
+        "slug": "ain-touta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-touta",
+        "level": 2,
+        "name": {
+          "local": "عين التوتة",
+          "en": "Ain Touta",
+          "slug": "ain-touta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05141"
+    ],
+    "geo": {
+      "lat": "35.381",
+      "lon": "6.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ain-touta_maafa",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "معافة",
+      "en": "Maafa",
+      "slug": "maafa"
+    },
+    "code": {
+      "id": "DZ005_ain-touta_maafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-touta",
+      "level": 2,
+      "name": {
+        "local": "عين التوتة",
+        "en": "Ain Touta",
+        "slug": "ain-touta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-touta",
+        "level": 2,
+        "name": {
+          "local": "عين التوتة",
+          "en": "Ain Touta",
+          "slug": "ain-touta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05123"
+    ],
+    "geo": {
+      "lat": "35.279",
+      "lon": "5.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ005_ain-touta_ouled-aouf",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "أولاد عوف",
+      "en": "Ouled Aouf",
+      "slug": "ouled-aouf"
+    },
+    "code": {
+      "id": "DZ005_ain-touta_ouled-aouf",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ005_ain-touta",
+      "level": 2,
+      "name": {
+        "local": "عين التوتة",
+        "en": "Ain Touta",
+        "slug": "ain-touta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ005",
+        "level": 1,
+        "name": {
+          "local": "باتنة",
+          "en": "Batna",
+          "slug": "batna"
+        }
+      },
+      {
+        "id": "DZ005_ain-touta",
+        "level": 2,
+        "name": {
+          "local": "عين التوتة",
+          "en": "Ain Touta",
+          "slug": "ain-touta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "05122"
+    ],
+    "geo": {
+      "lat": "35.476",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

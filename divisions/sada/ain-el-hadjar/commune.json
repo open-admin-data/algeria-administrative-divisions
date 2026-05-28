@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ020_ain-el-hadjar_ain-el-hadjar",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عين الحجر",
+      "en": "Ain El Hadjar",
+      "slug": "ain-el-hadjar"
+    },
+    "code": {
+      "id": "DZ020_ain-el-hadjar_ain-el-hadjar",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ain-el-hadjar",
+      "level": 2,
+      "name": {
+        "local": "عين الحجر",
+        "en": "Ain El Hadjar",
+        "slug": "ain-el-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ain-el-hadjar",
+        "level": 2,
+        "name": {
+          "local": "عين الحجر",
+          "en": "Ain El Hadjar",
+          "slug": "ain-el-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10031"
+    ],
+    "geo": {
+      "lat": "34.763",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_ain-el-hadjar_moulay-larbi",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مولاي العربي",
+      "en": "Moulay Larbi",
+      "slug": "moulay-larbi"
+    },
+    "code": {
+      "id": "DZ020_ain-el-hadjar_moulay-larbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ain-el-hadjar",
+      "level": 2,
+      "name": {
+        "local": "عين الحجر",
+        "en": "Ain El Hadjar",
+        "slug": "ain-el-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ain-el-hadjar",
+        "level": 2,
+        "name": {
+          "local": "عين الحجر",
+          "en": "Ain El Hadjar",
+          "slug": "ain-el-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20014"
+    ],
+    "geo": {
+      "lat": "34.598",
+      "lon": "-0.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ020_ain-el-hadjar_sidi-ahmed",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي احمد",
+      "en": "Sidi Ahmed",
+      "slug": "sidi-ahmed"
+    },
+    "code": {
+      "id": "DZ020_ain-el-hadjar_sidi-ahmed",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ020_ain-el-hadjar",
+      "level": 2,
+      "name": {
+        "local": "عين الحجر",
+        "en": "Ain El Hadjar",
+        "slug": "ain-el-hadjar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ020",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saïda",
+          "slug": "sada"
+        }
+      },
+      {
+        "id": "DZ020_ain-el-hadjar",
+        "level": 2,
+        "name": {
+          "local": "عين الحجر",
+          "en": "Ain El Hadjar",
+          "slug": "ain-el-hadjar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20012"
+    ],
+    "geo": {
+      "lat": "34.54",
+      "lon": "0.224"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

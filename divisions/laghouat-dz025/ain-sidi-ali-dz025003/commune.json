@@ -1,0 +1,45 @@
+{
+  "id": "DZ025003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Sidi Ali",
+    "en": "Ain Sidi Ali",
+    "slug": "ain-sidi-ali-dz025003"
+  },
+  "code": {
+    "id": "DZ025003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ025",
+    "level": 1,
+    "name": {
+      "local": "الأغواط",
+      "en": "Laghouat",
+      "slug": "laghouat-dz025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ025",
+      "level": 1,
+      "name": {
+        "local": "الأغواط",
+        "en": "Laghouat",
+        "slug": "laghouat-dz025"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.165",
+    "lon": "1.562"
+  },
+  "metadata": {},
+  "source": {}
+}

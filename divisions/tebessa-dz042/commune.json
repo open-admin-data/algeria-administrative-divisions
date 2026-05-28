@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "DZ042001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Zerga",
+      "en": "Ain Zerga",
+      "slug": "ain-zerga-dz042001"
+    },
+    "code": {
+      "id": "DZ042001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.633",
+      "lon": "8.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bedjene",
+      "en": "Bedjene",
+      "slug": "bedjene-dz042002"
+    },
+    "code": {
+      "id": "DZ042002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.341",
+      "lon": "7.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekkaria",
+      "en": "Bekkaria",
+      "slug": "bekkaria-dz042003"
+    },
+    "code": {
+      "id": "DZ042003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.381",
+      "lon": "8.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Dheheb",
+      "en": "Bir Dheheb",
+      "slug": "bir-dheheb-dz042004"
+    },
+    "code": {
+      "id": "DZ042004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.562",
+      "lon": "7.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir El Ater",
+      "en": "Bir El Ater",
+      "slug": "bir-el-ater-dz042005"
+    },
+    "code": {
+      "id": "DZ042005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.685",
+      "lon": "8.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bir Mokadem",
+      "en": "Bir Mokadem",
+      "slug": "bir-mokadem-dz042006"
+    },
+    "code": {
+      "id": "DZ042006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.408",
+      "lon": "7.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boukhadra",
+      "en": "Boukhadra",
+      "slug": "boukhadra-dz042007"
+    },
+    "code": {
+      "id": "DZ042007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.792",
+      "lon": "8.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boulhaf Dyr",
+      "en": "Boulhaf Dyr",
+      "slug": "boulhaf-dyr-dz042008"
+    },
+    "code": {
+      "id": "DZ042008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.524",
+      "lon": "8.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cheria",
+      "en": "Cheria",
+      "slug": "cheria-dz042009"
+    },
+    "code": {
+      "id": "DZ042009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.251",
+      "lon": "7.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Aouinet",
+      "en": "El Aouinet",
+      "slug": "el-aouinet-dz042010"
+    },
+    "code": {
+      "id": "DZ042010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.868",
+      "lon": "7.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Houidjbet",
+      "en": "El Houidjbet",
+      "slug": "el-houidjbet-dz042011"
+    },
+    "code": {
+      "id": "DZ042011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "8.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Kouif",
+      "en": "El Kouif",
+      "slug": "el-kouif-dz042012"
+    },
+    "code": {
+      "id": "DZ042012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.498",
+      "lon": "8.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ma Labiod",
+      "en": "El Ma Labiod",
+      "slug": "el-ma-labiod-dz042013"
+    },
+    "code": {
+      "id": "DZ042013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.252",
+      "lon": "8.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Mazeraa",
+      "en": "El Mazeraa",
+      "slug": "el-mazeraa-dz042014"
+    },
+    "code": {
+      "id": "DZ042014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.156",
+      "lon": "7.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Meridj",
+      "en": "El Meridj",
+      "slug": "el-meridj-dz042015"
+    },
+    "code": {
+      "id": "DZ042015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.824",
+      "lon": "8.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ogla",
+      "en": "El Ogla",
+      "slug": "el-ogla-dz042016"
+    },
+    "code": {
+      "id": "DZ042016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.243",
+      "lon": "7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042017",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ogla El Malha",
+      "en": "El Ogla El Malha",
+      "slug": "el-ogla-el-malha-dz042017"
+    },
+    "code": {
+      "id": "DZ042017",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.141",
+      "lon": "8.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042018",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Ouenza",
+      "en": "El Ouenza",
+      "slug": "el-ouenza-dz042018"
+    },
+    "code": {
+      "id": "DZ042018",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.945",
+      "lon": "8.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042019",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ferkane",
+      "en": "Ferkane",
+      "slug": "ferkane-dz042019"
+    },
+    "code": {
+      "id": "DZ042019",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.495",
+      "lon": "7.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042020",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gourigueur",
+      "en": "Gourigueur",
+      "slug": "gourigueur-dz042020"
+    },
+    "code": {
+      "id": "DZ042020",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.451",
+      "lon": "7.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042021",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hammamet",
+      "en": "Hammamet",
+      "slug": "hammamet-dz042021"
+    },
+    "code": {
+      "id": "DZ042021",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "7.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042022",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morsot",
+      "en": "Morsot",
+      "slug": "morsot-dz042022"
+    },
+    "code": {
+      "id": "DZ042022",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.678",
+      "lon": "8.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042023",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Negrine",
+      "en": "Negrine",
+      "slug": "negrine-dz042023"
+    },
+    "code": {
+      "id": "DZ042023",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.397",
+      "lon": "7.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042024",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oum Ali",
+      "en": "Oum Ali",
+      "slug": "oum-ali-dz042024"
+    },
+    "code": {
+      "id": "DZ042024",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.087",
+      "lon": "8.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042025",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Safsaf El Ouesra",
+      "en": "Safsaf El Ouesra",
+      "slug": "safsaf-el-ouesra-dz042025"
+    },
+    "code": {
+      "id": "DZ042025",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.929",
+      "lon": "8.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042026",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Stah Guentis",
+      "en": "Stah Guentis",
+      "slug": "stah-guentis-dz042026"
+    },
+    "code": {
+      "id": "DZ042026",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.835",
+      "lon": "7.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042027",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tebessa",
+      "en": "Tebessa",
+      "slug": "tebessa-dz042027"
+    },
+    "code": {
+      "id": "DZ042027",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.403",
+      "lon": "8.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ042028",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Thlidjene",
+      "en": "Thlidjene",
+      "slug": "thlidjene-dz042028"
+    },
+    "code": {
+      "id": "DZ042028",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ042",
+      "level": 1,
+      "name": {
+        "local": "تبسة",
+        "en": "Tebessa",
+        "slug": "tebessa-dz042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ042",
+        "level": 1,
+        "name": {
+          "local": "تبسة",
+          "en": "Tebessa",
+          "slug": "tebessa-dz042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.838",
+      "lon": "7.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

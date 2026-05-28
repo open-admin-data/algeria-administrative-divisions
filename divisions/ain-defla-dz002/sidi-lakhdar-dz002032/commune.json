@@ -1,0 +1,45 @@
+{
+  "id": "DZ002032",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sidi Lakhdar",
+    "en": "Sidi Lakhdar",
+    "slug": "sidi-lakhdar-dz002032"
+  },
+  "code": {
+    "id": "DZ002032",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.261",
+    "lon": "2.144"
+  },
+  "metadata": {},
+  "source": {}
+}

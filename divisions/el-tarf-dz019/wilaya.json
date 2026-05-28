@@ -1,0 +1,29 @@
+{
+  "id": "DZ019",
+  "level": 1,
+  "level_name": {
+    "local": "ولاية",
+    "en": "Wilaya"
+  },
+  "name": {
+    "local": "الطارف",
+    "en": "El-Tarf",
+    "slug": "el-tarf-dz019"
+  },
+  "code": {
+    "id": "DZ019",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.672",
+    "lon": "8.072"
+  },
+  "metadata": {},
+  "source": {}
+}

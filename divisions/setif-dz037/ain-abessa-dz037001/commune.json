@@ -1,0 +1,45 @@
+{
+  "id": "DZ037001",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ain Abessa",
+    "en": "Ain Abessa",
+    "slug": "ain-abessa-dz037001"
+  },
+  "code": {
+    "id": "DZ037001",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ037",
+    "level": 1,
+    "name": {
+      "local": "سطيف",
+      "en": "Setif",
+      "slug": "setif-dz037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ037",
+      "level": 1,
+      "name": {
+        "local": "سطيف",
+        "en": "Setif",
+        "slug": "setif-dz037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.311",
+    "lon": "5.3"
+  },
+  "metadata": {},
+  "source": {}
+}

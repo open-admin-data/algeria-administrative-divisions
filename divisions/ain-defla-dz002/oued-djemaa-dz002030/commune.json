@@ -1,0 +1,45 @@
+{
+  "id": "DZ002030",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Oued Djemaa",
+    "en": "Oued Djemaa",
+    "slug": "oued-djemaa-dz002030"
+  },
+  "code": {
+    "id": "DZ002030",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ002",
+    "level": 1,
+    "name": {
+      "local": "عين الدفلى",
+      "en": "Ain-Defla",
+      "slug": "ain-defla-dz002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ002",
+      "level": 1,
+      "name": {
+        "local": "عين الدفلى",
+        "en": "Ain-Defla",
+        "slug": "ain-defla-dz002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.044",
+    "lon": "2.372"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "DZ045_sfissifa",
+  "level": 2,
+  "level_name": {
+    "local": "دائرة",
+    "en": "Daira"
+  },
+  "name": {
+    "local": "سفيسيفة",
+    "en": "Sfissifa",
+    "slug": "sfissifa"
+  },
+  "code": {
+    "id": "DZ045_sfissifa",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ045",
+    "level": 1,
+    "name": {
+      "local": "النعامة",
+      "en": "Naâma",
+      "slug": "nama"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ045",
+      "level": 1,
+      "name": {
+        "local": "النعامة",
+        "en": "Naâma",
+        "slug": "nama"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.792",
+    "lon": "-1.024"
+  },
+  "metadata": {},
+  "source": {}
+}

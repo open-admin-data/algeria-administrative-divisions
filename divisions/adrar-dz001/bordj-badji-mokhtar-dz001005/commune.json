@@ -1,0 +1,45 @@
+{
+  "id": "DZ001005",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bordj Badji Mokhtar",
+    "en": "Bordj Badji Mokhtar",
+    "slug": "bordj-badji-mokhtar-dz001005"
+  },
+  "code": {
+    "id": "DZ001005",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ001",
+    "level": 1,
+    "name": {
+      "local": "أدرا",
+      "en": "Adrar",
+      "slug": "adrar-dz001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ001",
+      "level": 1,
+      "name": {
+        "local": "أدرا",
+        "en": "Adrar",
+        "slug": "adrar-dz001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.142",
+    "lon": "-0.263"
+  },
+  "metadata": {},
+  "source": {}
+}

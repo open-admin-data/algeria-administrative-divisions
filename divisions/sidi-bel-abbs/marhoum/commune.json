@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DZ022_marhoum_bir-el-hammam",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بئر الحمام",
+      "en": "Bir El Hammam",
+      "slug": "bir-el-hammam"
+    },
+    "code": {
+      "id": "DZ022_marhoum_bir-el-hammam",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_marhoum",
+      "level": 2,
+      "name": {
+        "local": "مرحوم",
+        "en": "Marhoum",
+        "slug": "marhoum"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_marhoum",
+        "level": 2,
+        "name": {
+          "local": "مرحوم",
+          "en": "Marhoum",
+          "slug": "marhoum"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22041"
+    ],
+    "geo": {
+      "lat": "34.452",
+      "lon": "-0.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_marhoum_marhoum",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "مرحوم",
+      "en": "Marhoum",
+      "slug": "marhoum"
+    },
+    "code": {
+      "id": "DZ022_marhoum_marhoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_marhoum",
+      "level": 2,
+      "name": {
+        "local": "مرحوم",
+        "en": "Marhoum",
+        "slug": "marhoum"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_marhoum",
+        "level": 2,
+        "name": {
+          "local": "مرحوم",
+          "en": "Marhoum",
+          "slug": "marhoum"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22011"
+    ],
+    "geo": {
+      "lat": "34.332",
+      "lon": "-0.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ022_marhoum_sidi-chaib",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سيدي شعيب",
+      "en": "Sidi Chaib",
+      "slug": "sidi-chaib"
+    },
+    "code": {
+      "id": "DZ022_marhoum_sidi-chaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ022_marhoum",
+      "level": 2,
+      "name": {
+        "local": "مرحوم",
+        "en": "Marhoum",
+        "slug": "marhoum"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ022",
+        "level": 1,
+        "name": {
+          "local": "سيدي بلعباس",
+          "en": "Sidi Bel Abbès",
+          "slug": "sidi-bel-abbs"
+        }
+      },
+      {
+        "id": "DZ022_marhoum",
+        "level": 2,
+        "name": {
+          "local": "مرحوم",
+          "en": "Marhoum",
+          "slug": "marhoum"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22061"
+    ],
+    "geo": {
+      "lat": "34.572",
+      "lon": "-0.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

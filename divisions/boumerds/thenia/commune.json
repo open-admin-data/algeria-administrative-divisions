@@ -1,0 +1,224 @@
+[
+  {
+    "id": "DZ035_thenia_ammal",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "عمال",
+      "en": "Ammal",
+      "slug": "ammal"
+    },
+    "code": {
+      "id": "DZ035_thenia_ammal",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_thenia",
+      "level": 2,
+      "name": {
+        "local": "الثنية",
+        "en": "Thenia",
+        "slug": "thenia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_thenia",
+        "level": 2,
+        "name": {
+          "local": "الثنية",
+          "en": "Thenia",
+          "slug": "thenia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35031"
+    ],
+    "geo": {
+      "lat": "36.622",
+      "lon": "3.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_thenia_beni-amrane",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "بني عمران",
+      "en": "Beni Amrane",
+      "slug": "beni-amrane"
+    },
+    "code": {
+      "id": "DZ035_thenia_beni-amrane",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_thenia",
+      "level": 2,
+      "name": {
+        "local": "الثنية",
+        "en": "Thenia",
+        "slug": "thenia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_thenia",
+        "level": 2,
+        "name": {
+          "local": "الثنية",
+          "en": "Thenia",
+          "slug": "thenia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35006"
+    ],
+    "geo": {
+      "lat": "36.662",
+      "lon": "3.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_thenia_souk-el-had",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "سوق الحد",
+      "en": "Souk El Had",
+      "slug": "souk-el-had"
+    },
+    "code": {
+      "id": "DZ035_thenia_souk-el-had",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_thenia",
+      "level": 2,
+      "name": {
+        "local": "الثنية",
+        "en": "Thenia",
+        "slug": "thenia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_thenia",
+        "level": 2,
+        "name": {
+          "local": "الثنية",
+          "en": "Thenia",
+          "slug": "thenia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.938",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ035_thenia_thenia",
+    "level": 3,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "الثنية",
+      "en": "Thenia",
+      "slug": "thenia"
+    },
+    "code": {
+      "id": "DZ035_thenia_thenia",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ035_thenia",
+      "level": 2,
+      "name": {
+        "local": "الثنية",
+        "en": "Thenia",
+        "slug": "thenia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ035",
+        "level": 1,
+        "name": {
+          "local": "بومرداس",
+          "en": "Boumerdès",
+          "slug": "boumerds"
+        }
+      },
+      {
+        "id": "DZ035_thenia",
+        "level": 2,
+        "name": {
+          "local": "الثنية",
+          "en": "Thenia",
+          "slug": "thenia"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35005"
+    ],
+    "geo": {
+      "lat": "36.737",
+      "lon": "3.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

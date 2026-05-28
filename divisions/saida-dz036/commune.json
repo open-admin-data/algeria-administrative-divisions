@@ -1,0 +1,722 @@
+[
+  {
+    "id": "DZ036001",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain El Hadjar",
+      "en": "Ain El Hadjar",
+      "slug": "ain-el-hadjar-dz036001"
+    },
+    "code": {
+      "id": "DZ036001",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.763",
+      "lon": "0.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036002",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Skhouna",
+      "en": "Ain Skhouna",
+      "slug": "ain-skhouna-dz036002"
+    },
+    "code": {
+      "id": "DZ036002",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.543",
+      "lon": "0.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036003",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ain Soltane",
+      "en": "Ain Soltane",
+      "slug": "ain-soltane-dz036003"
+    },
+    "code": {
+      "id": "DZ036003",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.982",
+      "lon": "0.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036004",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doui Thabet",
+      "en": "Doui Thabet",
+      "slug": "doui-thabet-dz036004"
+    },
+    "code": {
+      "id": "DZ036004",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "-0.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036005",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Hassasna",
+      "en": "El Hassasna",
+      "slug": "el-hassasna-dz036005"
+    },
+    "code": {
+      "id": "DZ036005",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.754",
+      "lon": "0.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036006",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hounet",
+      "en": "Hounet",
+      "slug": "hounet-dz036006"
+    },
+    "code": {
+      "id": "DZ036006",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.091",
+      "lon": "-0.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036007",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maamora",
+      "en": "Maamora",
+      "slug": "maamora-dz036007"
+    },
+    "code": {
+      "id": "DZ036007",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.606",
+      "lon": "0.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036008",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moulay Larbi",
+      "en": "Moulay Larbi",
+      "slug": "moulay-larbi-dz036008"
+    },
+    "code": {
+      "id": "DZ036008",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.598",
+      "lon": "-0.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036009",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Brahim",
+      "en": "Ouled Brahim",
+      "slug": "ouled-brahim-dz036009"
+    },
+    "code": {
+      "id": "DZ036009",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.037",
+      "lon": "0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036010",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouled Khaled",
+      "en": "Ouled Khaled",
+      "slug": "ouled-khaled-dz036010"
+    },
+    "code": {
+      "id": "DZ036010",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.924",
+      "lon": "0.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036011",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saida",
+      "en": "Saida",
+      "slug": "saida-dz036011"
+    },
+    "code": {
+      "id": "DZ036011",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.847",
+      "lon": "0.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036012",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Ahmed",
+      "en": "Sidi Ahmed",
+      "slug": "sidi-ahmed-dz036012"
+    },
+    "code": {
+      "id": "DZ036012",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.54",
+      "lon": "0.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036013",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Amar",
+      "en": "Sidi Amar",
+      "slug": "sidi-amar-dz036013"
+    },
+    "code": {
+      "id": "DZ036013",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.003",
+      "lon": "0.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036014",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidi Boubekeur",
+      "en": "Sidi Boubekeur",
+      "slug": "sidi-boubekeur-dz036014"
+    },
+    "code": {
+      "id": "DZ036014",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.002",
+      "lon": "-0.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036015",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tircine",
+      "en": "Tircine",
+      "slug": "tircine-dz036015"
+    },
+    "code": {
+      "id": "DZ036015",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.973",
+      "lon": "0.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "DZ036016",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Youb",
+      "en": "Youb",
+      "slug": "youb-dz036016"
+    },
+    "code": {
+      "id": "DZ036016",
+      "iso": null
+    },
+    "parent": {
+      "id": "DZ036",
+      "level": 1,
+      "name": {
+        "local": "سعيدة",
+        "en": "Saida",
+        "slug": "saida-dz036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "DZ036",
+        "level": 1,
+        "name": {
+          "local": "سعيدة",
+          "en": "Saida",
+          "slug": "saida-dz036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.888",
+      "lon": "-0.224"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

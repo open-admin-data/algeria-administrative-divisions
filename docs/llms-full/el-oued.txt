@@ -1,0 +1,147 @@
+# El Oued — Algeria Administrative Divisions
+
+> 10 dairas, 22 communes
+> Code: DZ039
+> Coordinates: 33.258, 7.128
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Dairas
+
+### البياضة (Bayadha)
+
+Code: DZ039_bayadha, Coordinates: 33.326, 6.901
+Communes: 1
+
+#### البياضة (Bayadha)
+
+Code: DZ039_bayadha_bayadha, Postal: 39007, Coordinates: 33.326, 6.901
+
+### الدبيلة (Debila)
+
+Code: DZ039_debila, Coordinates: 33.467, 6.9
+Communes: 2
+
+#### الدبيلة (Debila)
+
+Code: DZ039_debila_debila, Postal: 39003, Coordinates: 33.467, 6.9
+
+#### حساني عبد الكريم (Hassani Abdelkrim)
+
+Code: DZ039_debila_hassani-abdelkrim, Postal: 39020, Coordinates: 33.467, 6.9
+
+### الوادي (El Oued)
+
+Code: DZ039_el-oued, Coordinates: 33.382, 6.824
+Communes: 2
+
+#### الوادي (El-Oued)
+
+Code: DZ039_el-oued_el-oued, Postal: 39000, Coordinates: 33.366, 6.867
+
+#### كوينين (Kouinine)
+
+Code: DZ039_el-oued_kouinine, Postal: 39014, Coordinates: 33.397, 6.781
+
+### قمار (Guemar)
+
+Code: DZ039_guemar, Coordinates: 33.558, 6.598
+Communes: 3
+
+#### قمار (Guemar)
+
+Code: DZ039_guemar_guemar, Postal: 39002, Coordinates: 33.82, 6.689
+
+#### ورماس (Ourmes)
+
+Code: DZ039_guemar_ourmes, Postal: 39035, Coordinates: 33.353, 6.54
+
+#### تغزوت (Taghzout)
+
+Code: DZ039_guemar_taghzout, Postal: 10055, Coordinates: 33.5, 6.565
+
+### حاسي خليفة (Hassi Khalifa)
+
+Code: DZ039_hassi-khalifa, Coordinates: 33.258, 7.128
+Communes: 2
+
+#### حاسي خليفة (Hassi Khalifa)
+
+Code: DZ039_hassi-khalifa_hassi-khalifa, Postal: 39013, Coordinates: 33.258, 7.128
+
+#### الطريفاوي (Trifaoui)
+
+Code: DZ039_hassi-khalifa_trifaoui, Postal: 39044, Coordinates: 33.258, 7.128
+
+### المقرن (Magrane)
+
+Code: DZ039_magrane, Coordinates: 33.849, 6.863
+Communes: 2
+
+#### المقرن (Magrane)
+
+Code: DZ039_magrane_magrane, Postal: 39015, Coordinates: 33.797, 6.916
+
+#### سيدي عون (Sidi Aoun)
+
+Code: DZ039_magrane_sidi-aoun, Postal: 39037, Coordinates: 33.902, 6.81
+
+### اميه وانسة (Mih Ouensa)
+
+Code: DZ039_mih-ouensa, Coordinates: 33.03, 6.83
+Communes: 2
+
+#### اميه وانسة (Mih Ouansa)
+
+Code: DZ039_mih-ouensa_mih-ouansa, Postal: 39030, Coordinates: 33.03, 6.83
+
+#### وادي العلندة (Oued El Alenda)
+
+Code: DZ039_mih-ouensa_oued-el-alenda, Postal: 39033, Coordinates: 33.03, 6.83
+
+### الرقيبة (Reguiba)
+
+Code: DZ039_reguiba, Coordinates: 33.977, 6.479
+Communes: 2
+
+#### الحمراية (Hamraia)
+
+Code: DZ039_reguiba_hamraia, Postal: 39061, Coordinates: 34.182, 6.494
+
+#### الرقيبة (Reguiba)
+
+Code: DZ039_reguiba_reguiba, Postal: 39016, Coordinates: 33.771, 6.465
+
+### الرباح (Robbah)
+
+Code: DZ039_robbah, Coordinates: 33.784, 7.18
+Communes: 3
+
+#### العقلة (El Ogla)
+
+Code: DZ039_robbah_el-ogla, Postal: 12015, Coordinates: 35.243, 7.448
+
+#### النخلة (Nakhla)
+
+Code: DZ039_robbah_nakhla, Postal: 39031, Coordinates: 33.174, 7.205
+
+#### الرباح (Robbah)
+
+Code: DZ039_robbah_robbah, Postal: 39017, Coordinates: 32.935, 6.886
+
+### الطالب العربي (Taleb Larbi)
+
+Code: DZ039_taleb-larbi, Coordinates: 33.708, 7.451
+Communes: 3
+
+#### بن  قشة (Ben Guecha)
+
+Code: DZ039_taleb-larbi_ben-guecha, Postal: 39048, Coordinates: 33.708, 7.451
+
+#### دوار الماء (Douar El Maa)
+
+Code: DZ039_taleb-larbi_douar-el-maa, Postal: 39024, Coordinates: 33.708, 7.451
+
+#### الطالب العربي (Taleb Larbi)
+
+Code: DZ039_taleb-larbi_taleb-larbi, Postal: 39019, Coordinates: 33.708, 7.451
+

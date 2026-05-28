@@ -1,0 +1,45 @@
+{
+  "id": "DZ017003",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bougtoub",
+    "en": "Bougtoub",
+    "slug": "bougtoub-dz017003"
+  },
+  "code": {
+    "id": "DZ017003",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ017",
+    "level": 1,
+    "name": {
+      "local": "البيض",
+      "en": "El Bayadh",
+      "slug": "el-bayadh-dz017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ017",
+      "level": 1,
+      "name": {
+        "local": "البيض",
+        "en": "El Bayadh",
+        "slug": "el-bayadh-dz017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.031",
+    "lon": "0.255"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DZ008038",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Souk El Thenine",
+    "en": "Souk El Thenine",
+    "slug": "souk-el-thenine-dz008038"
+  },
+  "code": {
+    "id": "DZ008038",
+    "iso": null
+  },
+  "parent": {
+    "id": "DZ008",
+    "level": 1,
+    "name": {
+      "local": "بجاية",
+      "en": "Bejaia",
+      "slug": "bejaia-dz008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "DZ008",
+      "level": 1,
+      "name": {
+        "local": "بجاية",
+        "en": "Bejaia",
+        "slug": "bejaia-dz008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.616",
+    "lon": "5.313"
+  },
+  "metadata": {},
+  "source": {}
+}
