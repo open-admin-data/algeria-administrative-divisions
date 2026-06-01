@@ -27,7 +27,11 @@
       "lon": "-1.916"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/adrar/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ002",
@@ -57,7 +61,11 @@
       "lon": "1.267"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/chlef/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ003",
@@ -87,7 +95,11 @@
       "lon": "2.639"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/laghouat/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ004",
@@ -117,7 +129,11 @@
       "lon": "7.017"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/oum-el-bouaghi/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ005",
@@ -147,7 +163,11 @@
       "lon": "5.731"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/batna/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ006",
@@ -177,7 +197,11 @@
       "lon": "4.791"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bjaa/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ007",
@@ -207,7 +231,11 @@
       "lon": "4.714"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/biskra/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ008",
@@ -237,7 +265,11 @@
       "lon": "-2.453"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bchar/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ009",
@@ -267,7 +299,11 @@
       "lon": "2.956"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/blida/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ010",
@@ -297,7 +333,11 @@
       "lon": "3.908"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bouira/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ011",
@@ -327,7 +367,11 @@
       "lon": "4.451"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tamanrasset/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ012",
@@ -357,7 +401,11 @@
       "lon": "7.944"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tbessa/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ013",
@@ -387,7 +435,11 @@
       "lon": "-1.299"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tlemcen/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ014",
@@ -417,7 +469,11 @@
       "lon": "1.591"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tiaret/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ015",
@@ -447,7 +503,11 @@
       "lon": "4.239"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tizi-ouzou/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ016",
@@ -477,7 +537,11 @@
       "lon": "3.032"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/alger/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ017",
@@ -507,7 +571,11 @@
       "lon": "3.212"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/djelfa/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ018",
@@ -537,7 +605,11 @@
       "lon": "5.961"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/jijel/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ019",
@@ -567,7 +639,11 @@
       "lon": "5.41"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/stif/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ020",
@@ -597,7 +673,11 @@
       "lon": "0.773"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/sada/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ021",
@@ -627,7 +707,11 @@
       "lon": "6.889"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/skikda/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ022",
@@ -657,7 +741,11 @@
       "lon": "-0.59"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/sidi-bel-abbs/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ023",
@@ -687,7 +775,11 @@
       "lon": "7.6"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/annaba/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ024",
@@ -717,7 +809,11 @@
       "lon": "7.412"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/guelma/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ025",
@@ -747,7 +843,11 @@
       "lon": "6.668"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/constantine/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ026",
@@ -777,7 +877,11 @@
       "lon": "2.957"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/mda/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ027",
@@ -807,7 +911,11 @@
       "lon": "0.368"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/mostaganem/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ028",
@@ -837,7 +945,11 @@
       "lon": "4.21"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/msila/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ029",
@@ -867,7 +979,11 @@
       "lon": "0.241"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/mascara/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ030",
@@ -897,7 +1013,11 @@
       "lon": "6.769"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/ouargla/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ031",
@@ -927,7 +1047,11 @@
       "lon": "-0.703"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/oran/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ032",
@@ -957,7 +1081,11 @@
       "lon": "1.11"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/el-bayadh/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ033",
@@ -987,7 +1115,11 @@
       "lon": "8.07"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/illizi/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ034",
@@ -1017,7 +1149,11 @@
       "lon": "4.57"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bordj-bou-arreridj/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ035",
@@ -1047,7 +1183,11 @@
       "lon": "3.549"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/boumerds/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ036",
@@ -1077,7 +1217,11 @@
       "lon": "7.664"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/el-tarf/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ037",
@@ -1107,7 +1251,11 @@
       "lon": "-6.252"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tindouf/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ038",
@@ -1137,7 +1285,11 @@
       "lon": "1.833"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tissemsilt/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ039",
@@ -1167,7 +1319,11 @@
       "lon": "7.128"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/el-oued/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ040",
@@ -1197,7 +1353,11 @@
       "lon": "6.904"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/khenchela/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ041",
@@ -1227,7 +1387,11 @@
       "lon": "7.886"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/souk-ahras/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ042",
@@ -1257,7 +1421,11 @@
       "lon": "2.17"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/tipaza/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ043",
@@ -1287,7 +1455,11 @@
       "lon": "6.165"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/mila/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ044",
@@ -1317,7 +1489,11 @@
       "lon": "2.232"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/an-defla/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ045",
@@ -1347,7 +1523,11 @@
       "lon": "-0.674"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/nama/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ046",
@@ -1377,7 +1557,11 @@
       "lon": "-0.732"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/an-tmouchent/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ047",
@@ -1407,7 +1591,11 @@
       "lon": "3.784"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/ghardaa/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ048",
@@ -1437,7 +1625,11 @@
       "lon": "0.911"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/relizane/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ049",
@@ -1467,7 +1659,11 @@
       "lon": "1.255"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/timimoun/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ050",
@@ -1497,7 +1693,11 @@
       "lon": "0.748"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bordj-badji-mokhtar/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ051",
@@ -1527,7 +1727,11 @@
       "lon": "4.012"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/ouled-djellal/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ052",
@@ -1557,7 +1761,11 @@
       "lon": "-1.671"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/bni-abbs/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ053",
@@ -1587,7 +1795,11 @@
       "lon": null
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/in-salah/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ054",
@@ -1617,7 +1829,11 @@
       "lon": null
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/in-guezzam/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ055",
@@ -1647,7 +1863,11 @@
       "lon": "5.693"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/touggourt/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ056",
@@ -1677,7 +1897,11 @@
       "lon": "10.135"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/djanet/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ057",
@@ -1707,7 +1931,11 @@
       "lon": "5.722"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/el-meghaier/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   },
   {
     "id": "DZ058",
@@ -1737,6 +1965,10 @@
       "lon": null
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/dz/wilayas/el-menia/",
+      "api": "https://openadmindata.org/api/dz/"
+    }
   }
 ]

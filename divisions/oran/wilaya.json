@@ -26,5 +26,9 @@
     "lon": "-0.703"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/oran/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

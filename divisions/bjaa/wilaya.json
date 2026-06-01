@@ -26,5 +26,9 @@
     "lon": "4.791"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bjaa/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

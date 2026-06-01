@@ -26,5 +26,9 @@
     "lon": "7.664"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/el-tarf/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "2.957"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/mda/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

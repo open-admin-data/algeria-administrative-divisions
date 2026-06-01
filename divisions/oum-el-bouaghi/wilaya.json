@@ -26,5 +26,9 @@
     "lon": "7.017"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/oum-el-bouaghi/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

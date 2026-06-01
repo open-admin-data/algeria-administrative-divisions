@@ -26,5 +26,9 @@
     "lon": "3.032"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/alger/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

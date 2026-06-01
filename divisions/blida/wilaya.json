@@ -26,5 +26,9 @@
     "lon": "2.956"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/blida/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "3.908"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bouira/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

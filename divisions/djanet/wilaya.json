@@ -26,5 +26,9 @@
     "lon": "10.135"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/djanet/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

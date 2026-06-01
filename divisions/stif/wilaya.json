@@ -26,5 +26,9 @@
     "lon": "5.41"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/stif/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

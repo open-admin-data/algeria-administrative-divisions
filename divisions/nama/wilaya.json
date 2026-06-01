@@ -26,5 +26,9 @@
     "lon": "-0.674"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/nama/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

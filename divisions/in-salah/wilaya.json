@@ -26,5 +26,9 @@
     "lon": null
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/in-salah/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

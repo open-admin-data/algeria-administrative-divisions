@@ -26,5 +26,9 @@
     "lon": "-0.59"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/sidi-bel-abbs/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

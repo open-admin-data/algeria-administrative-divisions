@@ -26,5 +26,9 @@
     "lon": "-1.671"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bni-abbs/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

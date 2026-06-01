@@ -26,5 +26,9 @@
     "lon": "5.693"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/touggourt/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

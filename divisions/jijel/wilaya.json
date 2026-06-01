@@ -26,5 +26,9 @@
     "lon": "5.961"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/jijel/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

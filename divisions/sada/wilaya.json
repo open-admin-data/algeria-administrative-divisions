@@ -26,5 +26,9 @@
     "lon": "0.773"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/sada/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

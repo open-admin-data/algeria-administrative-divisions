@@ -1,607 +1,608 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.wilaya,children_count.daira,children_count.commune,zip_codes,geo.lat,geo.lon
-DZ001,1,ولاية,Wilaya,أدرار,Adrar,adrar,DZ001,,,,,,6,16,,25.91,-1.916
-DZ001_adrar,2,دائرة,Daira,أدرار,Adrar,adrar,DZ001_adrar,,DZ001,أدرار,Adrar,,,3,,27.98,-0.702
-DZ001_aoulef,2,دائرة,Daira,أولف,Aoulef,aoulef,DZ001_aoulef,,DZ001,أدرار,Adrar,,,4,,26.826,1.16
-DZ001_fenoughil,2,دائرة,Daira,فنوغيل,Fenoughil,fenoughil,DZ001_fenoughil,,DZ001,أدرار,Adrar,,,3,,27.529,-1.325
-DZ001_reggane,2,دائرة,Daira,رقان,Reggane,reggane,DZ001_reggane,,DZ001,أدرار,Adrar,,,2,,26.061,-2.034
-DZ001_tsabit,2,دائرة,Daira,تسابيت,Tsabit,tsabit,DZ001_tsabit,,DZ001,أدرار,Adrar,,,2,,28.467,-0.661
-DZ001_zaouiat-kounta,2,دائرة,Daira,زاوية كنتة,Zaouiat Kounta,zaouiat-kounta,DZ001_zaouiat-kounta,,DZ001,أدرار,Adrar,,,2,,27.241,-1.332
-DZ002,1,ولاية,Wilaya, الشلف,Chlef,chlef,DZ002,,,,,,13,35,,36.205,1.267
-DZ002_abou-el-hassane,2,دائرة,Daira,أبو الحسن,Abou El Hassane,abou-el-hassane,DZ002_abou-el-hassane,,DZ002, الشلف,Chlef,,,3,,36.38,1.095
-DZ002_ain-merane,2,دائرة,Daira,عين مران,Ain Merane,ain-merane,DZ002_ain-merane,,DZ002, الشلف,Chlef,,,2,,36.212,1.017
-DZ002_beni-haoua,2,دائرة,Daira,بني حواء,Beni Haoua,beni-haoua,DZ002_beni-haoua,,DZ002, الشلف,Chlef,,,3,,36.472,1.566
-DZ002_boukadir,2,دائرة,Daira,بوقادير,Boukadir,boukadir,DZ002_boukadir,,DZ002, الشلف,Chlef,,,3,,36.072,1.13
-DZ002_chlef,2,دائرة,Daira,الشلف,Chlef,chlef,DZ002_chlef,,DZ002, الشلف,Chlef,,,3,,36.141,1.399
-DZ002_el-karimia,2,دائرة,Daira,الكريمية,El Karimia,el-karimia,DZ002_el-karimia,,DZ002, الشلف,Chlef,,,3,,36.064,1.578
-DZ002_el-marsa,2,دائرة,Daira,المرسى,El Marsa,el-marsa,DZ002_el-marsa,,DZ002, الشلف,Chlef,,,2,,36.681,4.155
-DZ002_oued-fodda,2,دائرة,Daira,وادي الفضة,Oued Fodda,oued-fodda,DZ002_oued-fodda,,DZ002, الشلف,Chlef,,,3,,36.239,1.526
-DZ002_ouled-ben-abdelkader,2,دائرة,Daira,أولاد بن عبد القادر,Ouled Ben Abdelkader,ouled-ben-abdelkader,DZ002_ouled-ben-abdelkader,,DZ002, الشلف,Chlef,,,2,,35.989,1.354
-DZ002_ouled-fares,2,دائرة,Daira,أولاد فارس,Ouled Fares,ouled-fares,DZ002_ouled-fares,,DZ002, الشلف,Chlef,,,3,,36.207,1.233
-DZ002_taougrit,2,دائرة,Daira,تاوقريت,Taougrit,taougrit,DZ002_taougrit,,DZ002, الشلف,Chlef,,,2,,36.279,0.79
-DZ002_tenes,2,دائرة,Daira,تنس,Tenes,tenes,DZ002_tenes,,DZ002, الشلف,Chlef,,,3,,35.83,1.249
-DZ002_zeboudja,2,دائرة,Daira,الزبوجة,Zeboudja,zeboudja,DZ002_zeboudja,,DZ002, الشلف,Chlef,,,3,,36.382,1.374
-DZ003,1,ولاية,Wilaya,الأغواط,Laghouat,laghouat,DZ003,,,,,,10,24,,33.75,2.639
-DZ003_aflou,2,دائرة,Daira,أفلو,Aflou,aflou,DZ003_aflou,,DZ003,الأغواط,Laghouat,,,3,,34.181,2.084
-DZ003_ain-madhi,2,دائرة,Daira,عين ماضي,Ain Madhi,ain-madhi,DZ003_ain-madhi,,DZ003,الأغواط,Laghouat,,,5,,33.606,2.449
-DZ003_brida,2,دائرة,Daira,بريدة,Brida,brida,DZ003_brida,,DZ003,الأغواط,Laghouat,,,3,,33.998,1.66
-DZ003_el-ghicha,2,دائرة,Daira,الغيشة,El Ghicha,el-ghicha,DZ003_el-ghicha,,DZ003,الأغواط,Laghouat,,,1,,33.877,2.134
-DZ003_gueltat-sidi-saad,2,دائرة,Daira,قتلة سيدي سعيد,Gueltat Sidi Saad,gueltat-sidi-saad,DZ003_gueltat-sidi-saad,,DZ003,الأغواط,Laghouat,,,3,,34.22,1.7
-DZ003_hassi-rmel,2,دائرة,Daira,حاسي الرمل,Hassi R'mel,hassi-rmel,DZ003_hassi-rmel,,DZ003,الأغواط,Laghouat,,,2,,33.141,3.27
-DZ003_ksar-el-hirane,2,دائرة,Daira,قصر الحيران,Ksar El Hirane,ksar-el-hirane,DZ003_ksar-el-hirane,,DZ003,الأغواط,Laghouat,,,2,,33.707,3.221
-DZ003_laghouat,2,دائرة,Daira,الأغواط,Laghouat,laghouat,DZ003_laghouat,,DZ003,الأغواط,Laghouat,,,1,,33.845,2.836
-DZ003_oued-morra,2,دائرة,Daira,وادي مرة,Oued Morra,oued-morra,DZ003_oued-morra,,DZ003,الأغواط,Laghouat,,,2,,34.123,2.333
-DZ003_sidi-makhlouf,2,دائرة,Daira,سيدي مخلوف,Sidi Makhlouf,sidi-makhlouf,DZ003_sidi-makhlouf,,DZ003,الأغواط,Laghouat,,,2,,33.989,2.977
-DZ004,1,ولاية,Wilaya,أم البواقي,Oum El Bouaghi,oum-el-bouaghi,DZ004,,,,,,12,29,,35.813,7.017
-DZ004_ain-babouche,2,دائرة,Daira,عين ببوش,Ain Babouche,ain-babouche,DZ004_ain-babouche,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.999,7.098
-DZ004_ain-beida,2,دائرة,Daira,عين البيضاء,Ain Beida,ain-beida,DZ004_ain-beida,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.854,7.367
-DZ004_ain-fekroun,2,دائرة,Daira,عين فكرون,Ain Fekroun,ain-fekroun,DZ004_ain-fekroun,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.813,7.017
-DZ004_ain-kercha,2,دائرة,Daira,عين كرشة,Ain Kercha,ain-kercha,DZ004_ain-kercha,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.904,6.689
-DZ004_ain-mlila,2,دائرة,Daira,عين مليلة,Ain M'lila,ain-mlila,DZ004_ain-mlila,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,36.05,6.57
-DZ004_dhalaa,2,دائرة,Daira,الضلعة,Dhalaa,dhalaa,DZ004_dhalaa,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.513,7.561
-DZ004_fkirina,2,دائرة,Daira,فكيرينة,F'kirina,fkirina,DZ004_fkirina,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.647,7.365
-DZ004_ksar-sbahi,2,دائرة,Daira,قصر الصباحي,Ksar Sbahi,ksar-sbahi,DZ004_ksar-sbahi,,DZ004,أم البواقي,Oum El Bouaghi,,,1,,36.066,7.256
-DZ004_meskiana,2,دائرة,Daira,مسكيانة,Meskiana,meskiana,DZ004_meskiana,,DZ004,أم البواقي,Oum El Bouaghi,,,4,,35.705,7.714
-DZ004_oum-el-bouaghi,2,دائرة,Daira,أم البواقي,Oum El Bouaghi,oum-el-bouaghi,DZ004_oum-el-bouaghi,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.778,7.107
-DZ004_sigus,2,دائرة,Daira,سيقوس,Sigus,sigus,DZ004_sigus,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,36.092,6.832
-DZ004_souk-naamane,2,دائرة,Daira,سوق نعمان,Souk Naamane,souk-naamane,DZ004_souk-naamane,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.911,6.384
-DZ005,1,ولاية,Wilaya,باتنة,Batna,batna,DZ005,,,,,,21,61,,35.341,5.731
-DZ005_ain-djasser,2,دائرة,Daira,عين جاسر,Ain Djasser,ain-djasser,DZ005_ain-djasser,,DZ005,باتنة,Batna,,,2,,35.788,3.503
-DZ005_ain-touta,2,دائرة,Daira,عين التوتة,Ain Touta,ain-touta,DZ005_ain-touta,,DZ005,باتنة,Batna,,,4,,35.376,5.902
-DZ005_arris,2,دائرة,Daira,أريس,Arris,arris,DZ005_arris,,DZ005,باتنة,Batna,,,2,,35.252,6.309
-DZ005_barika,2,دائرة,Daira,بريكة,Barika,barika,DZ005_barika,,DZ005,باتنة,Batna,,,3,,35.276,5.319
-DZ005_batna,2,دائرة,Daira,باتنة,Batna,batna,DZ005_batna,,DZ005,باتنة,Batna,,,3,,35.575,6.141
-DZ005_bouzina,2,دائرة,Daira,بوزينة,Bouzina,bouzina,DZ005_bouzina,,DZ005,باتنة,Batna,,,2,,35.597,3.784
-DZ005_chemora,2,دائرة,Daira,الشمرة,Chemora,chemora,DZ005_chemora,,DZ005,باتنة,Batna,,,2,,35.633,6.608
-DZ005_djezzar,2,دائرة,Daira,الجزار,Djezzar,djezzar,DZ005_djezzar,,DZ005,باتنة,Batna,,,3,,35.492,5.246
-DZ005_el-madher,2,دائرة,Daira,المعذر,El Madher,el-madher,DZ005_el-madher,,DZ005,باتنة,Batna,,,4,,35.707,6.396
-DZ005_ichemoul,2,دائرة,Daira,إشمول,Ichemoul,ichemoul,DZ005_ichemoul,,DZ005,باتنة,Batna,,,3,,35.349,6.49
-DZ005_menaa,2,دائرة,Daira,منعة,Menaa,menaa,DZ005_menaa,,DZ005,باتنة,Batna,,,2,,35.108,4.848
-DZ005_merouana,2,دائرة,Daira,مروانة,Merouana,merouana,DZ005_merouana,,DZ005,باتنة,Batna,,,4,,35.615,5.95
-DZ005_ngaous,2,دائرة,Daira,نقاوس,N'gaous,ngaous,DZ005_ngaous,,DZ005,باتنة,Batna,,,3,,35.429,5.582
-DZ005_ouled-si-slimane,2,دائرة,Daira,أولاد سي سليمان,Ouled Si Slimane,ouled-si-slimane,DZ005_ouled-si-slimane,,DZ005,باتنة,Batna,,,3,,35.567,5.742
-DZ005_ras-el-aioun,2,دائرة,Daira,رأس العيون,Ras El Aioun,ras-el-aioun,DZ005_ras-el-aioun,,DZ005,باتنة,Batna,,,6,,35.688,5.574
-DZ005_seggana,2,دائرة,Daira,سقانة,Seggana,seggana,DZ005_seggana,,DZ005,باتنة,Batna,,,2,,35.328,5.634
-DZ005_seriana,2,دائرة,Daira,سريانة,Seriana,seriana,DZ005_seriana,,DZ005,باتنة,Batna,,,3,,35.764,6.235
-DZ005_tazoult,2,دائرة,Daira,تازولت,Tazoult,tazoult,DZ005_tazoult,,DZ005,باتنة,Batna,,,2,,35.51,6.307
-DZ005_theniet-el-abed,2,دائرة,Daira,ثنية العابد,Theniet El Abed,theniet-el-abed,DZ005_theniet-el-abed,,DZ005,باتنة,Batna,,,3,,35.321,6.263
-DZ005_timgad,2,دائرة,Daira,تيمقاد,Timgad,timgad,DZ005_timgad,,DZ005,باتنة,Batna,,,2,,35.543,6.589
-DZ005_tkout,2,دائرة,Daira,تكوت,Tkout,tkout,DZ005_tkout,,DZ005,باتنة,Batna,,,3,,35.033,6.36
-DZ006,1,ولاية,Wilaya, بجاية,Béjaïa,bjaa,DZ006,,,,,,19,52,,36.575,4.791
-DZ006_adekar,2,دائرة,Daira,أدكار,Adekar,adekar,DZ006_adekar,,DZ006, بجاية,Béjaïa,,,3,,36.737,4.566
-DZ006_akbou,2,دائرة,Daira,أقبو,Akbou,akbou,DZ006_akbou,,DZ006, بجاية,Béjaïa,,,4,,36.445,4.548
-DZ006_amizour,2,دائرة,Daira,أميزور,Amizour,amizour,DZ006_amizour,,DZ006, بجاية,Béjaïa,,,4,,36.606,4.866
-DZ006_aokas,2,دائرة,Daira,أوقاس,Aokas,aokas,DZ006_aokas,,DZ006, بجاية,Béjaïa,,,2,,36.606,5.237
-DZ006_barbacha,2,دائرة,Daira,برباشة,Barbacha,barbacha,DZ006_barbacha,,DZ006, بجاية,Béjaïa,,,2,,36.564,4.991
-DZ006_bejaia,2,دائرة,Daira,بجاية,Bejaia,bejaia,DZ006_bejaia,,DZ006, بجاية,Béjaïa,,,2,,36.745,5.007
-DZ006_beni-maouche,2,دائرة,Daira,بني معوش,Beni Maouche,beni-maouche,DZ006_beni-maouche,,DZ006, بجاية,Béjaïa,,,1,,36.575,4.791
-DZ006_chemini,2,دائرة,Daira,شميني,Chemini,chemini,DZ006_chemini,,DZ006, بجاية,Béjaïa,,,4,,36.615,4.63
-DZ006_darguina,2,دائرة,Daira,درقينة,Darguina,darguina,DZ006_darguina,,DZ006, بجاية,Béjaïa,,,3,,36.557,5.295
-DZ006_el-kseur,2,دائرة,Daira,القصر,El Kseur,el-kseur,DZ006_el-kseur,,DZ006, بجاية,Béjaïa,,,3,,36.755,4.845
-DZ006_ifri-ouzellaguene,2,دائرة,Daira,إفري أوزلاقن,Ifri Ouzellaguene,ifri-ouzellaguene,DZ006_ifri-ouzellaguene,,DZ006, بجاية,Béjaïa,,,1,,36.549,4.578
-DZ006_ighil-ali,2,دائرة,Daira,إغيل علي,Ighil Ali,ighil-ali,DZ006_ighil-ali,,DZ006, بجاية,Béjaïa,,,2,,36.34,4.522
-DZ006_kherrata,2,دائرة,Daira,خراطة,Kherrata,kherrata,DZ006_kherrata,,DZ006, بجاية,Béjaïa,,,2,,36.474,5.286
-DZ006_seddouk,2,دائرة,Daira,صدوق,Seddouk,seddouk,DZ006_seddouk,,DZ006, بجاية,Béjaïa,,,4,,36.486,4.659
-DZ006_sidi-aich,2,دائرة,Daira,سيدي عيش,Sidi Aich,sidi-aich,DZ006_sidi-aich,,DZ006, بجاية,Béjaïa,,,5,,36.627,4.7
-DZ006_souk-el-tenine,2,دائرة,Daira,سوق الإثنين,Souk El Tenine,souk-el-tenine,DZ006_souk-el-tenine,,DZ006, بجاية,Béjaïa,,,3,,36.601,4.939
-DZ006_tazmalt,2,دائرة,Daira,تازملت,Tazmalt,tazmalt,DZ006_tazmalt,,DZ006, بجاية,Béjaïa,,,3,,36.362,4.42
-DZ006_tichy,2,دائرة,Daira,تيشي,Tichy,tichy,DZ006_tichy,,DZ006, بجاية,Béjaïa,,,3,,36.667,5.046
-DZ006_timezrit,2,دائرة,Daira,تيمزريت,Timezrit,timezrit,DZ006_timezrit,,DZ006, بجاية,Béjaïa,,,1,,36.666,3.79
-DZ007,1,ولاية,Wilaya,بسكرة,Biskra,biskra,DZ007,,,,,,10,27,,34.323,4.714
-DZ007_biskra,2,دائرة,Daira,بسكرة,Biskra,biskra,DZ007_biskra,,DZ007,بسكرة,Biskra,,,2,,34.852,5.726
-DZ007_djemorah,2,دائرة,Daira,جمورة,Djemorah,djemorah,DZ007_djemorah,,DZ007,بسكرة,Biskra,,,2,,35.038,5.742
-DZ007_el-kantara,2,دائرة,Daira,القنطرة,El Kantara,el-kantara,DZ007_el-kantara,,DZ007,بسكرة,Biskra,,,2,,35.189,5.764
-DZ007_el-outaya,2,دائرة,Daira,الوطاية,El Outaya,el-outaya,DZ007_el-outaya,,DZ007,بسكرة,Biskra,,,1,,34.98,5.553
-DZ007_foughala,2,دائرة,Daira,فوغالة,Foughala,foughala,DZ007_foughala,,DZ007,بسكرة,Biskra,,,2,,34.743,5.273
-DZ007_mechouneche,2,دائرة,Daira,مشونش,Mechouneche,mechouneche,DZ007_mechouneche,,DZ007,بسكرة,Biskra,,,1,,34.909,6.001
-DZ007_ourlal,2,دائرة,Daira,أورلال,Ourlal,ourlal,DZ007_ourlal,,DZ007,بسكرة,Biskra,,,5,,34.57,5.532
-DZ007_sidi-okba,2,دائرة,Daira,سيدي عقبة,Sidi Okba,sidi-okba,DZ007_sidi-okba,,DZ007,بسكرة,Biskra,,,4,,34.714,5.985
-DZ007_tolga,2,دائرة,Daira,طولقة,Tolga,tolga,DZ007_tolga,,DZ007,بسكرة,Biskra,,,4,,34.794,5.34
-DZ007_zeribet-el-oued,2,دائرة,Daira,زريبة الوادي,Zeribet El Oued,zeribet-el-oued,DZ007_zeribet-el-oued,,DZ007,بسكرة,Biskra,,,4,,34.593,6.491
-DZ008,1,ولاية,Wilaya,بشار,Béchar,bchar,DZ008,,,,,,7,12,,31.202,-2.453
-DZ008_abadla,2,دائرة,Daira,العبادلة,Abadla,abadla,DZ008_abadla,,DZ008,بشار,Béchar,,,3,,30.965,-2.961
-DZ008_bechar,2,دائرة,Daira,بشار,Bechar,bechar,DZ008_bechar,,DZ008,بشار,Béchar,,,1,,31.615,-1.92
-DZ008_beni-ounif,2,دائرة,Daira,بني ونيف,Beni Ounif,beni-ounif,DZ008_beni-ounif,,DZ008,بشار,Béchar,,,1,,31.556,-0.904
-DZ008_kenadsa,2,دائرة,Daira,القنادسة,Kenadsa,kenadsa,DZ008_kenadsa,,DZ008,بشار,Béchar,,,2,,31.522,-2.901
-DZ008_lahmar,2,دائرة,Daira,لحمر,Lahmar,lahmar,DZ008_lahmar,,DZ008,بشار,Béchar,,,3,,31.917,-2.444
-DZ008_tabelbala,2,دائرة,Daira,تبلبالة,Tabelbala,tabelbala,DZ008_tabelbala,,DZ008,بشار,Béchar,,,1,,28.961,-3.42
-DZ008_taghit,2,دائرة,Daira,تاغيت,Taghit,taghit,DZ008_taghit,,DZ008,بشار,Béchar,,,1,,31.077,-1.677
-DZ009,1,ولاية,Wilaya,البليدة,Blida,blida,DZ009,,,,,,10,25,,36.504,2.956
-DZ009_blida,2,دائرة,Daira,البليدة,Blida,blida,DZ009_blida,,DZ009,البليدة,Blida,,,2,,36.45,2.8
-DZ009_boufarik,2,دائرة,Daira,بوفاريك,Boufarik,boufarik,DZ009_boufarik,,DZ009,البليدة,Blida,,,3,,36.192,3.529
-DZ009_bougara,2,دائرة,Daira,بوقرة,Bougara,bougara,DZ009_bougara,,DZ009,البليدة,Blida,,,3,,36.032,2.558
-DZ009_bouinan,2,دائرة,Daira,بوعينان,Bouinan,bouinan,DZ009_bouinan,,DZ009,البليدة,Blida,,,2,,36.546,3.004
-DZ009_el-affroun,2,دائرة,Daira,العفرون,El Affroun,el-affroun,DZ009_el-affroun,,DZ009,البليدة,Blida,,,2,,36.438,2.582
-DZ009_larbaa,2,دائرة,Daira,الأربعاء,Larbaa,larbaa,DZ009_larbaa,,DZ009,البليدة,Blida,,,2,,36.222,2.356
-DZ009_meftah,2,دائرة,Daira,مفتاح,Meftah,meftah,DZ009_meftah,,DZ009,البليدة,Blida,,,2,,36.606,3.244
-DZ009_mouzaia,2,دائرة,Daira,موزاية,Mouzaia,mouzaia,DZ009_mouzaia,,DZ009,البليدة,Blida,,,3,,36.449,2.693
-DZ009_oued-el-alleug,2,دائرة,Daira,وادي العلايق,Oued El Alleug,oued-el-alleug,DZ009_oued-el-alleug,,DZ009,البليدة,Blida,,,3,,36.549,2.795
-DZ009_ouled-yaich,2,دائرة,Daira,أولاد يعيش,Ouled Yaich,ouled-yaich,DZ009_ouled-yaich,,DZ009,البليدة,Blida,,,3,,36.257,2.238
-DZ010,1,ولاية,Wilaya,البويرة,Bouira,bouira,DZ010,,,,,,12,45,,36.233,3.908
-DZ010_ain-bessem,2,دائرة,Daira,عين بسام,Ain Bessem,ain-bessem,DZ010_ain-bessem,,DZ010,البويرة,Bouira,,,3,,35.536,1.885
-DZ010_bechloul,2,دائرة,Daira,بشلول,Bechloul,bechloul,DZ010_bechloul,,DZ010,البويرة,Bouira,,,5,,36.315,4.082
-DZ010_bir-ghbalou,2,دائرة,Daira,بئر غبالو,Bir Ghbalou,bir-ghbalou,DZ010_bir-ghbalou,,DZ010,البويرة,Bouira,,,3,,36.268,3.602
-DZ010_bordj-okhriss,2,دائرة,Daira,برج أوخريص,Bordj Okhriss,bordj-okhriss,DZ010_bordj-okhriss,,DZ010,البويرة,Bouira,,,4,,36.012,3.941
-DZ010_bouira,2,دائرة,Daira,البويرة,Bouira,bouira,DZ010_bouira,,DZ010,البويرة,Bouira,,,3,,36.187,2.332
-DZ010_el-hachimia,2,دائرة,Daira,الهاشمية,El Hachimia,el-hachimia,DZ010_el-hachimia,,DZ010,البويرة,Bouira,,,2,,36.242,3.864
-DZ010_haizer,2,دائرة,Daira,الحيزر,Haizer,haizer,DZ010_haizer,,DZ010,البويرة,Bouira,,,2,,34.954,5.298
-DZ010_kadiria,2,دائرة,Daira,القادرية,Kadiria,kadiria,DZ010_kadiria,,DZ010,البويرة,Bouira,,,3,,36.498,3.704
-DZ010_lakhdaria,2,دائرة,Daira,الأخضرية,Lakhdaria,lakhdaria,DZ010_lakhdaria,,DZ010,البويرة,Bouira,,,6,,36.524,3.49
-DZ010_mchedallah,2,دائرة,Daira,مشد الله,M'chedallah,mchedallah,DZ010_mchedallah,,DZ010,البويرة,Bouira,,,6,,36.171,3.385
-DZ010_souk-el-khemis,2,دائرة,Daira,سوق الخميس,Souk El Khemis,souk-el-khemis,DZ010_souk-el-khemis,,DZ010,البويرة,Bouira,,,2,,36.413,3.622
-DZ010_sour-el-ghozlane,2,دائرة,Daira,سور الغزلان,Sour El Ghozlane,sour-el-ghozlane,DZ010_sour-el-ghozlane,,DZ010,البويرة,Bouira,,,6,,35.848,3.133
-DZ011,1,ولاية,Wilaya,تمنراست,Tamanrasset,tamanrasset,DZ011,,,,,,3,5,,24.355,4.451
-DZ011_silet,2,دائرة,Daira,سيلت,Silet,silet,DZ011_silet,,DZ011,تمنراست,Tamanrasset,,,1,,24.355,4.451
-DZ011_tamanrasset,2,دائرة,Daira,تمنراست,Tamanrasset,tamanrasset,DZ011_tamanrasset,,DZ011,تمنراست,Tamanrasset,,,2,,22.271,5.775
-DZ011_tazrouk,2,دائرة,Daira,تاظروك,Tazrouk,tazrouk,DZ011_tazrouk,,DZ011,تمنراست,Tamanrasset,,,2,,24.017,7.045
-DZ012,1,ولاية,Wilaya,تبسة,Tébessa,tbessa,DZ012,,,,,,12,28,,35.284,7.944
-DZ012_bir-el-ater,2,دائرة,Daira,بئر العاتر,Bir El Ater,bir-el-ater,DZ012_bir-el-ater,,DZ012,تبسة,Tébessa,,,2,,34.913,8.017
-DZ012_bir-mokadem,2,دائرة,Daira,بئر مقدم,Bir Mokadem,bir-mokadem,DZ012_bir-mokadem,,DZ012,تبسة,Tébessa,,,3,,35.476,7.954
-DZ012_cheria,2,دائرة,Daira,الشريعة,Cheria,cheria,DZ012_cheria,,DZ012,تبسة,Tébessa,,,2,,35.251,7.771
-DZ012_el-aouinet,2,دائرة,Daira,العوينات,El Aouinet,el-aouinet,DZ012_el-aouinet,,DZ012,تبسة,Tébessa,,,2,,35.83,7.992
-DZ012_el-kouif,2,دائرة,Daira,الكويف,El Kouif,el-kouif,DZ012_el-kouif,,DZ012,تبسة,Tébessa,,,3,,35.468,8.21
-DZ012_el-malabiod,2,دائرة,Daira,الماء الابيض,El Malabiod,el-malabiod,DZ012_el-malabiod,,DZ012,تبسة,Tébessa,,,2,,35.24,8.336
-DZ012_el-ogla,2,دائرة,Daira,العقلة,El Ogla,el-ogla,DZ012_el-ogla,,DZ012,تبسة,Tébessa,,,4,,35.14,7.475
-DZ012_morsott,2,دائرة,Daira,مرسط,Morsott,morsott,DZ012_morsott,,DZ012,تبسة,Tébessa,,,2,,35.562,7.915
-DZ012_negrine,2,دائرة,Daira,نقرين,Negrine,negrine,DZ012_negrine,,DZ012,تبسة,Tébessa,,,2,,34.446,7.505
-DZ012_ouenza,2,دائرة,Daira,الونزة,Ouenza,ouenza,DZ012_ouenza,,DZ012,تبسة,Tébessa,,,3,,35.728,8.22
-DZ012_oum-ali,2,دائرة,Daira,أم علي,Oum Ali,oum-ali,DZ012_oum-ali,,DZ012,تبسة,Tébessa,,,2,,35.087,8.294
-DZ012_tebessa,2,دائرة,Daira,تبسة,Tebessa,tebessa,DZ012_tebessa,,DZ012,تبسة,Tébessa,,,1,,35.403,8.091
-DZ013,1,ولاية,Wilaya,تلمسان,Tlemcen,tlemcen,DZ013,,,,,,20,53,,34.673,-1.299
-DZ013_ain-tellout,2,دائرة,Daira,عين تالوت,Ain Tellout,ain-tellout,DZ013_ain-tellout,,DZ013,تلمسان,Tlemcen,,,2,,35.035,-0.988
-DZ013_bab-el-assa,2,دائرة,Daira,باب العسة,Bab El Assa,bab-el-assa,DZ013_bab-el-assa,,DZ013,تلمسان,Tlemcen,,,3,,34.954,-1.972
-DZ013_beni-boussaid,2,دائرة,Daira,بني بوسعيد,Beni Boussaid,beni-boussaid,DZ013_beni-boussaid,,DZ013,تلمسان,Tlemcen,,,2,,34.697,-1.681
-DZ013_beni-snous,2,دائرة,Daira,بني سنوس,Beni Snous,beni-snous,DZ013_beni-snous,,DZ013,تلمسان,Tlemcen,,,3,,34.671,-1.533
-DZ013_bensekrane,2,دائرة,Daira,بن سكران,Bensekrane,bensekrane,DZ013_bensekrane,,DZ013,تلمسان,Tlemcen,,,2,,35.081,-1.159
-DZ013_chetouane,2,دائرة,Daira,شتوان,Chetouane,chetouane,DZ013_chetouane,,DZ013,تلمسان,Tlemcen,,,3,,34.944,-1.25
-DZ013_fellaoucene,2,دائرة,Daira,فلاوسن,Fellaoucene,fellaoucene,DZ013_fellaoucene,,DZ013,تلمسان,Tlemcen,,,3,,35.007,-1.634
-DZ013_ghazaouet,2,دائرة,Daira,الغزوات,Ghazaouet,ghazaouet,DZ013_ghazaouet,,DZ013,تلمسان,Tlemcen,,,4,,35.058,-1.879
-DZ013_hennaya,2,دائرة,Daira,الحناية,Hennaya,hennaya,DZ013_hennaya,,DZ013,تلمسان,Tlemcen,,,3,,34.993,-1.478
-DZ013_honnaine,2,دائرة,Daira,هنين,Honnaine,honnaine,DZ013_honnaine,,DZ013,تلمسان,Tlemcen,,,2,,35.184,-1.588
-DZ013_maghnia,2,دائرة,Daira,مغنية,Maghnia,maghnia,DZ013_maghnia,,DZ013,تلمسان,Tlemcen,,,2,,34.882,-1.746
-DZ013_mansourah,2,دائرة,Daira,منصورة,Mansourah,mansourah,DZ013_mansourah,,DZ013,تلمسان,Tlemcen,,,4,,34.835,-1.394
-DZ013_marsa-ben-mehdi,2,دائرة,Daira,مرسى بن مهيدي,Marsa Ben Mehdi,marsa-ben-mehdi,DZ013_marsa-ben-mehdi,,DZ013,تلمسان,Tlemcen,,,2,,35.023,-2.088
-DZ013_nedroma,2,دائرة,Daira,ندرومة,Nedroma,nedroma,DZ013_nedroma,,DZ013,تلمسان,Tlemcen,,,2,,35.005,-1.791
-DZ013_ouled-mimoun,2,دائرة,Daira,أولاد ميمون,Ouled Mimoun,ouled-mimoun,DZ013_ouled-mimoun,,DZ013,تلمسان,Tlemcen,,,3,,34.901,-1.045
-DZ013_remchi,2,دائرة,Daira,الرمشي,Remchi,remchi,DZ013_remchi,,DZ013,تلمسان,Tlemcen,,,5,,35.106,-1.423
-DZ013_sabra,2,دائرة,Daira,صبرة,Sabra,sabra,DZ013_sabra,,DZ013,تلمسان,Tlemcen,,,2,,34.831,-1.569
-DZ013_sebdou,2,دائرة,Daira,سبدو,Sebdou,sebdou,DZ013_sebdou,,DZ013,تلمسان,Tlemcen,,,3,,34.53,-1.18
-DZ013_sidi-djillali,2,دائرة,Daira,سيدي الجيلالي,Sidi Djillali,sidi-djillali,DZ013_sidi-djillali,,DZ013,تلمسان,Tlemcen,,,2,,34.421,-1.499
-DZ013_tlemcen,2,دائرة,Daira,تلمسان,Tlemcen,tlemcen,DZ013_tlemcen,,DZ013,تلمسان,Tlemcen,,,1,,34.898,-1.316
-DZ014,1,ولاية,Wilaya,تيارت,Tiaret,tiaret,DZ014,,,,,,14,42,,34.897,1.591
-DZ014_ain-deheb,2,دائرة,Daira,عين الذهب,Ain Deheb,ain-deheb,DZ014_ain-deheb,,DZ014,تيارت,Tiaret,,,3,,34.659,1.568
-DZ014_ain-kermes,2,دائرة,Daira,عين كرمس,Ain Kermes,ain-kermes,DZ014_ain-kermes,,DZ014,تيارت,Tiaret,,,5,,34.786,1.014
-DZ014_dahmouni,2,دائرة,Daira,دحموني,Dahmouni,dahmouni,DZ014_dahmouni,,DZ014,تيارت,Tiaret,,,2,,35.393,1.453
-DZ014_frenda,2,دائرة,Daira,فرندة,Frenda,frenda,DZ014_frenda,,DZ014,تيارت,Tiaret,,,3,,35.11,0.952
-DZ014_hamadia,2,دائرة,Daira,حمادية,Hamadia,hamadia,DZ014_hamadia,,DZ014,تيارت,Tiaret,,,3,,35.448,1.995
-DZ014_ksar-chellala,2,دائرة,Daira,قصر الشلالة,Ksar Chellala,ksar-chellala,DZ014_ksar-chellala,,DZ014,تيارت,Tiaret,,,3,,35.23,2.415
-DZ014_mahdia,2,دائرة,Daira,مهدية,Mahdia,mahdia,DZ014_mahdia,,DZ014,تيارت,Tiaret,,,4,,35.379,1.751
-DZ014_mechraa-sfa,2,دائرة,Daira,مشرع الصفا,Mechraa Sfa,mechraa-sfa,DZ014_mechraa-sfa,,DZ014,تيارت,Tiaret,,,3,,35.356,0.896
-DZ014_medroussa,2,دائرة,Daira,مدروسة,Medroussa,medroussa,DZ014_medroussa,,DZ014,تيارت,Tiaret,,,3,,35.222,1.142
-DZ014_meghila,2,دائرة,Daira,مغيلة,Meghila,meghila,DZ014_meghila,,DZ014,تيارت,Tiaret,,,3,,35.596,1.439
-DZ014_oued-lili,2,دائرة,Daira,وادي ليلي,Oued Lili,oued-lili,DZ014_oued-lili,,DZ014,تيارت,Tiaret,,,3,,35.573,1.233
-DZ014_rahouia,2,دائرة,Daira,رحوية,Rahouia,rahouia,DZ014_rahouia,,DZ014,تيارت,Tiaret,,,2,,35.492,1.091
-DZ014_sougueur,2,دائرة,Daira,السوقر,Sougueur,sougueur,DZ014_sougueur,,DZ014,تيارت,Tiaret,,,4,,35.073,1.568
-DZ014_tiaret,2,دائرة,Daira,تيارت,Tiaret,tiaret,DZ014_tiaret,,DZ014,تيارت,Tiaret,,,1,,35.349,1.332
-DZ015,1,ولاية,Wilaya,تيزي وزو,Tizi Ouzou,tizi-ouzou,DZ015,,,,,,21,67,,36.683,4.239
-DZ015_ain-el-hammam,2,دائرة,Daira,عين الحمام,Ain El Hammam,ain-el-hammam,DZ015_ain-el-hammam,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.553,4.32
-DZ015_azazga,2,دائرة,Daira,عزازقة,Azazga,azazga,DZ015_azazga,,DZ015,تيزي وزو,Tizi Ouzou,,,5,,36.742,4.423
-DZ015_azeffoun,2,دائرة,Daira,أزفون,Azeffoun,azeffoun,DZ015_azeffoun,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.84,4.421
-DZ015_beni-douala,2,دائرة,Daira,بني دوالة,Beni Douala,beni-douala,DZ015_beni-douala,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.635,4.083
-DZ015_benni-yenni,2,دائرة,Daira,بني يني,Benni Yenni,benni-yenni,DZ015_benni-yenni,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.581,4.201
-DZ015_boghni,2,دائرة,Daira,بوغني,Boghni,boghni,DZ015_boghni,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.505,3.978
-DZ015_bouzeguene,2,دائرة,Daira,بوزقن,Bouzeguene,bouzeguene,DZ015_bouzeguene,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.677,4.538
-DZ015_draa-ben-khedda,2,دائرة,Daira,ذراع بن خدة,Draa Ben Khedda,draa-ben-khedda,DZ015_draa-ben-khedda,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.705,3.936
-DZ015_draa-el-mizan,2,دائرة,Daira,ذراع الميزان,Draa El Mizan,draa-el-mizan,DZ015_draa-el-mizan,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.568,3.872
-DZ015_iferhounene,2,دائرة,Daira,إفرحونان,Iferhounene,iferhounene,DZ015_iferhounene,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.54,4.389
-DZ015_larbaa-nath-iraten,2,دائرة,Daira,الأربعاء ناث إيراثن,Larbaa Nath Iraten,larbaa-nath-iraten,DZ015_larbaa-nath-iraten,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.648,4.197
-DZ015_maatkas,2,دائرة,Daira,معاتقة,Maatkas,maatkas,DZ015_maatkas,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.605,4.015
-DZ015_makouda,2,دائرة,Daira,ماكودة,Makouda,makouda,DZ015_makouda,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.802,4.105
-DZ015_mekla,2,دائرة,Daira,مقلع,Mekla,mekla,DZ015_mekla,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.679,4.267
-DZ015_ouacif,2,دائرة,Daira,واسيف,Ouacif,ouacif,DZ015_ouacif,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.514,4.193
-DZ015_ouadhias,2,دائرة,Daira,واضية,Ouadhias,ouadhias,DZ015_ouadhias,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.683,4.239
-DZ015_ouaguenoun,2,دائرة,Daira,واقنون,Ouaguenoun,ouaguenoun,DZ015_ouaguenoun,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.772,4.177
-DZ015_tigzirt,2,دائرة,Daira,تيقزيرت,Tigzirt,tigzirt,DZ015_tigzirt,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.867,4.15
-DZ015_tizi-ghenif,2,دائرة,Daira,تيزي غنيف,Tizi-Ghenif,tizi-ghenif,DZ015_tizi-ghenif,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.634,3.784
-DZ015_tizi-ouzou,2,دائرة,Daira,تيزي وزو,Tizi Ouzou,tizi-ouzou,DZ015_tizi-ouzou,,DZ015,تيزي وزو,Tizi Ouzou,,,1,,36.702,4.056
-DZ015_tizi-rached,2,دائرة,Daira,تيزي راشد,Tizi Rached,tizi-rached,DZ015_tizi-rached,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.674,4.21
-DZ016,1,ولاية,Wilaya,الجزائر,Alger,alger,DZ016,,,,,,13,57,,36.702,3.032
-DZ016_bab-el-oued,2,دائرة,Daira,باب الوادي,Bab El Oued,bab-el-oued,DZ016_bab-el-oued,,DZ016,الجزائر,Alger,,,5,,36.794,3.04
-DZ016_baraki,2,دائرة,Daira,براقي,Baraki,baraki,DZ016_baraki,,DZ016,الجزائر,Alger,,,3,,36.653,3.122
-DZ016_bir-mourad-rais,2,دائرة,Daira,بئر مراد رايس,Bir Mourad Rais,bir-mourad-rais,DZ016_bir-mourad-rais,,DZ016,الجزائر,Alger,,,5,,36.739,3.039
-DZ016_birtouta,2,دائرة,Daira,بئر توتة,Birtouta,birtouta,DZ016_birtouta,,DZ016,الجزائر,Alger,,,3,,36.612,2.994
-DZ016_bouzareah,2,دائرة,Daira,بوزريعة,Bouzareah,bouzareah,DZ016_bouzareah,,DZ016,الجزائر,Alger,,,4,,36.777,3.007
-DZ016_cheraga,2,دائرة,Daira,الشراقة,Cheraga,cheraga,DZ016_cheraga,,DZ016,الجزائر,Alger,,,5,,36.392,5.014
-DZ016_dar-el-beida,2,دائرة,Daira,الدار البيضاء,Dar El Beida,dar-el-beida,DZ016_dar-el-beida,,DZ016,الجزائر,Alger,,,7,,36.623,3.361
-DZ016_draria,2,دائرة,Daira,الدرارية,Draria,draria,DZ016_draria,,DZ016,الجزائر,Alger,,,5,,36.703,2.986
-DZ016_el-harrach,2,دائرة,Daira,الحراش,El Harrach,el-harrach,DZ016_el-harrach,,DZ016,الجزائر,Alger,,,4,,36.714,3.153
-DZ016_hussein-dey,2,دائرة,Daira,حسين داي,Hussein Dey,hussein-dey,DZ016_hussein-dey,,DZ016,الجزائر,Alger,,,4,,36.733,3.097
-DZ016_rouiba,2,دائرة,Daira,الرويبة,Rouiba,rouiba,DZ016_rouiba,,DZ016,الجزائر,Alger,,,3,,36.746,3.32
-DZ016_sidi-mhamed,2,دائرة,Daira,سيدي امحمد,Sidi M'hamed,sidi-mhamed,DZ016_sidi-mhamed,,DZ016,الجزائر,Alger,,,4,,36.091,3.48
-DZ016_zeralda,2,دائرة,Daira,زرالدة,Zeralda,zeralda,DZ016_zeralda,,DZ016,الجزائر,Alger,,,5,,36.709,2.88
-DZ017,1,ولاية,Wilaya,الجلفة,Djelfa,djelfa,DZ017,,,,,,12,36,,34.347,3.212
-DZ017_ain-el-ibel,2,دائرة,Daira,عين الإبل,Ain El Ibel,ain-el-ibel,DZ017_ain-el-ibel,,DZ017,الجلفة,Djelfa,,,4,,34.431,3.184
-DZ017_ain-oussera,2,دائرة,Daira,عين وسارة,Ain Oussera,ain-oussera,DZ017_ain-oussera,,DZ017,الجلفة,Djelfa,,,2,,35.172,2.785
-DZ017_birine,2,دائرة,Daira,بيرين,Birine,birine,DZ017_birine,,DZ017,الجلفة,Djelfa,,,2,,35.579,3.155
-DZ017_charef,2,دائرة,Daira,الشارف,Charef,charef,DZ017_charef,,DZ017,الجلفة,Djelfa,,,3,,34.576,2.725
-DZ017_dar-chioukh,2,دائرة,Daira,دار الشيوخ,Dar Chioukh,dar-chioukh,DZ017_dar-chioukh,,DZ017,الجلفة,Djelfa,,,3,,34.952,3.458
-DZ017_djelfa,2,دائرة,Daira,الجلفة,Djelfa,djelfa,DZ017_djelfa,,DZ017,الجلفة,Djelfa,,,1,,34.672,3.208
-DZ017_el-idrissia,2,دائرة,Daira,الادريسية,El Idrissia,el-idrissia,DZ017_el-idrissia,,DZ017,الجلفة,Djelfa,,,3,,34.305,2.611
-DZ017_faidh-el-botma,2,دائرة,Daira,فيض البطمة,Faidh El Botma,faidh-el-botma,DZ017_faidh-el-botma,,DZ017,الجلفة,Djelfa,,,3,,33.668,4.45
-DZ017_had-sahary,2,دائرة,Daira,حد الصحاري,Had Sahary,had-sahary,DZ017_had-sahary,,DZ017,الجلفة,Djelfa,,,3,,35.331,3.345
-DZ017_hassi-bahbah,2,دائرة,Daira,حاسي بحبح,Hassi Bahbah,hassi-bahbah,DZ017_hassi-bahbah,,DZ017,الجلفة,Djelfa,,,4,,34.93,3.054
-DZ017_messaad,2,دائرة,Daira,مسعد,Messaad,messaad,DZ017_messaad,,DZ017,الجلفة,Djelfa,,,5,,33.856,3.711
-DZ017_sidi-laadjel,2,دائرة,Daira,سيدي لعجال,Sidi Laadjel,sidi-laadjel,DZ017_sidi-laadjel,,DZ017,الجلفة,Djelfa,,,3,,35.395,2.58
-DZ018,1,ولاية,Wilaya,جيجل,Jijel,jijel,DZ018,,,,,,11,28,,36.731,5.961
-DZ018_chekfa,2,دائرة,Daira,الشقفة,Chekfa,chekfa,DZ018_chekfa,,DZ018,جيجل,Jijel,,,4,,36.803,6.004
-DZ018_djimla,2,دائرة,Daira,جيملة,Djimla,djimla,DZ018_djimla,,DZ018,جيجل,Jijel,,,2,,36.731,5.961
-DZ018_el-ancer,2,دائرة,Daira,العنصر,El Ancer,el-ancer,DZ018_el-ancer,,DZ018,جيجل,Jijel,,,4,,36.767,6.126
-DZ018_el-aouana,2,دائرة,Daira,العوانة,El Aouana,el-aouana,DZ018_el-aouana,,DZ018,جيجل,Jijel,,,2,,36.742,5.634
-DZ018_el-milia,2,دائرة,Daira,الميلية,El Milia,el-milia,DZ018_el-milia,,DZ018,جيجل,Jijel,,,2,,36.807,6.289
-DZ018_jijel,2,دائرة,Daira,جيجل,Jijel,jijel,DZ018_jijel,,DZ018,جيجل,Jijel,,,1,,36.798,5.745
-DZ018_settara,2,دائرة,Daira,السطارة,Settara,settara,DZ018_settara,,DZ018,جيجل,Jijel,,,2,,36.707,6.363
-DZ018_sidi-marouf,2,دائرة,Daira,سيدي معروف,Sidi Marouf,sidi-marouf,DZ018_sidi-marouf,,DZ018,جيجل,Jijel,,,2,,36.627,6.176
-DZ018_taher,2,دائرة,Daira,الطاهير,Taher,taher,DZ018_taher,,DZ018,جيجل,Jijel,,,5,,36.719,5.899
-DZ018_texenna,2,دائرة,Daira,تاكسنة,Texenna,texenna,DZ018_texenna,,DZ018,جيجل,Jijel,,,2,,36.717,5.771
-DZ018_ziamah-mansouriah,2,دائرة,Daira,زيامة منصورية,Ziamah Mansouriah,ziamah-mansouriah,DZ018_ziamah-mansouriah,,DZ018,جيجل,Jijel,,,2,,36.731,5.961
-DZ019,1,ولاية,Wilaya,سطيف,Sétif,stif,DZ019,,,,,,20,60,,36.23,5.41
-DZ019_ain-arnat,2,دائرة,Daira,عين أرنات,Ain Arnat,ain-arnat,DZ019_ain-arnat,,DZ019,سطيف,Sétif,,,4,,36.217,5.317
-DZ019_ain-azel,2,دائرة,Daira,عين أزال,Ain Azel,ain-azel,DZ019_ain-azel,,DZ019,سطيف,Sétif,,,4,,35.923,5.562
-DZ019_ain-el-kebira,2,دائرة,Daira,عين الكبيرة,Ain El Kebira,ain-el-kebira,DZ019_ain-el-kebira,,DZ019,سطيف,Sétif,,,3,,36.366,5.532
-DZ019_ain-oulmene,2,دائرة,Daira,عين ولمان,Ain Oulmene,ain-oulmene,DZ019_ain-oulmene,,DZ019,سطيف,Sétif,,,4,,36.039,5.28
-DZ019_amoucha,2,دائرة,Daira,عموشة,Amoucha,amoucha,DZ019_amoucha,,DZ019,سطيف,Sétif,,,3,,36.438,5.397
-DZ019_babor,2,دائرة,Daira,بابور,Babor,babor,DZ019_babor,,DZ019,سطيف,Sétif,,,2,,36.491,5.559
-DZ019_beni-aziz,2,دائرة,Daira,بني عزيز,Beni Aziz,beni-aziz,DZ019_beni-aziz,,DZ019,سطيف,Sétif,,,3,,36.451,5.697
-DZ019_beni-ourtilane,2,دائرة,Daira,بني ورتيلان,Beni Ourtilane,beni-ourtilane,DZ019_beni-ourtilane,,DZ019,سطيف,Sétif,,,4,,36.493,4.905
-DZ019_bir-el-arch,2,دائرة,Daira,بئر العرش,Bir El Arch,bir-el-arch,DZ019_bir-el-arch,,DZ019,سطيف,Sétif,,,4,,36.198,5.805
-DZ019_bouandas,2,دائرة,Daira,بوعنداس,Bouandas,bouandas,DZ019_bouandas,,DZ019,سطيف,Sétif,,,4,,36.513,5.09
-DZ019_bougaa,2,دائرة,Daira,بوقاعة,Bougaa,bougaa,DZ019_bougaa,,DZ019,سطيف,Sétif,,,3,,36.333,5.161
-DZ019_djemila,2,دائرة,Daira,جميلة,Djemila,djemila,DZ019_djemila,,DZ019,سطيف,Sétif,,,2,,36.317,5.659
-DZ019_el-eulma,2,دائرة,Daira,العلمة,El Eulma,el-eulma,DZ019_el-eulma,,DZ019,سطيف,Sétif,,,3,,36.126,5.688
-DZ019_guenzet,2,دائرة,Daira,قنزات,Guenzet,guenzet,DZ019_guenzet,,DZ019,سطيف,Sétif,,,2,,36.349,4.925
-DZ019_guidjel,2,دائرة,Daira,قجال,Guidjel,guidjel,DZ019_guidjel,,DZ019,سطيف,Sétif,,,2,,36.134,5.517
-DZ019_hammam-guergour,2,دائرة,Daira,حمام قرقور,Hammam Guergour,hammam-guergour,DZ019_hammam-guergour,,DZ019,سطيف,Sétif,,,2,,36.387,5.016
-DZ019_hammam-sokhna,2,دائرة,Daira,حمام السخنة,Hammam Sokhna,hammam-sokhna,DZ019_hammam-sokhna,,DZ019,سطيف,Sétif,,,3,,35.946,5.829
-DZ019_maoklane,2,دائرة,Daira,ماوكلان,Maoklane,maoklane,DZ019_maoklane,,DZ019,سطيف,Sétif,,,2,,36.455,5.119
-DZ019_salah-bey,2,دائرة,Daira,صالح باي,Salah Bey,salah-bey,DZ019_salah-bey,,DZ019,سطيف,Sétif,,,5,,35.755,5.269
-DZ019_setif,2,دائرة,Daira,سطيف,Setif,setif,DZ019_setif,,DZ019,سطيف,Sétif,,,1,,36.192,5.418
-DZ020,1,ولاية,Wilaya,سعيدة,Saïda,sada,DZ020,,,,,,6,16,,35.044,0.773
-DZ020_ain-el-hadjar,2,دائرة,Daira,عين الحجر,Ain El Hadjar,ain-el-hadjar,DZ020_ain-el-hadjar,,DZ020,سعيدة,Saïda,,,3,,34.634,0.013
-DZ020_el-hassasna,2,دائرة,Daira,الحساسنة,El Hassasna,el-hassasna,DZ020_el-hassasna,,DZ020,سعيدة,Saïda,,,3,,34.68,0.431
-DZ020_ouled-brahim,2,دائرة,Daira,أولاد ابراهيم,Ouled Brahim,ouled-brahim,DZ020_ouled-brahim,,DZ020,سعيدة,Saïda,,,3,,35.397,2.83
-DZ020_saida,2,دائرة,Daira,سعيدة,Saida,saida,DZ020_saida,,DZ020,سعيدة,Saïda,,,1,,34.847,0.127
-DZ020_sidi-boubekeur,2,دائرة,Daira,سيدي بوبكر,Sidi Boubekeur,sidi-boubekeur,DZ020_sidi-boubekeur,,DZ020,سعيدة,Saïda,,,4,,35.394,0.578
-DZ020_youb,2,دائرة,Daira,يوب,Youb,youb,DZ020_youb,,DZ020,سعيدة,Saïda,,,2,,34.892,-0.118
-DZ021,1,ولاية,Wilaya,سكيكدة,Skikda,skikda,DZ021,,,,,,13,38,,36.755,6.889
-DZ021_ain-kechra,2,دائرة,Daira,عين قشرة,Ain Kechra,ain-kechra,DZ021_ain-kechra,,DZ021,سكيكدة,Skikda,,,2,,36.803,6.463
-DZ021_azzaba,2,دائرة,Daira,عزابة,Azzaba,azzaba,DZ021_azzaba,,DZ021,سكيكدة,Skikda,,,5,,36.726,7.065
-DZ021_ben-azzouz,2,دائرة,Daira,بن عزوز,Ben Azzouz,ben-azzouz,DZ021_ben-azzouz,,DZ021,سكيكدة,Skikda,,,3,,36.867,7.305
-DZ021_collo,2,دائرة,Daira,القل,Collo,collo,DZ021_collo,,DZ021,سكيكدة,Skikda,,,3,,36.978,6.515
-DZ021_el-hadaiek,2,دائرة,Daira,الحدائق,El Hadaiek,el-hadaiek,DZ021_el-hadaiek,,DZ021,سكيكدة,Skikda,,,3,,36.864,6.835
-DZ021_el-harrouch,2,دائرة,Daira,الحروش,El Harrouch,el-harrouch,DZ021_el-harrouch,,DZ021,سكيكدة,Skikda,,,5,,36.641,6.899
-DZ021_ouled-attia,2,دائرة,Daira,أولاد عطية,Ouled Attia,ouled-attia,DZ021_ouled-attia,,DZ021,سكيكدة,Skikda,,,3,,36.957,6.353
-DZ021_oum-toub,2,دائرة,Daira,أم الطوب,Oum Toub,oum-toub,DZ021_oum-toub,,DZ021,سكيكدة,Skikda,,,1,,36.704,6.511
-DZ021_ramdane-djamel,2,دائرة,Daira,رمضان جمال,Ramdane Djamel,ramdane-djamel,DZ021_ramdane-djamel,,DZ021,سكيكدة,Skikda,,,2,,36.759,6.93
-DZ021_sidi-mezghiche,2,دائرة,Daira,سيدي مزغيش,Sidi Mezghiche,sidi-mezghiche,DZ021_sidi-mezghiche,,DZ021,سكيكدة,Skikda,,,3,,36.655,6.691
-DZ021_skikda,2,دائرة,Daira,سكيكدة,Skikda,skikda,DZ021_skikda,,DZ021,سكيكدة,Skikda,,,3,,36.881,6.888
-DZ021_tamalous,2,دائرة,Daira,تمالوس,Tamalous,tamalous,DZ021_tamalous,,DZ021,سكيكدة,Skikda,,,3,,36.857,6.657
-DZ021_zitouna,2,دائرة,Daira,الزيتونة,Zitouna,zitouna,DZ021_zitouna,,DZ021,سكيكدة,Skikda,,,2,,37.02,6.444
-DZ022,1,ولاية,Wilaya,سيدي بلعباس,Sidi Bel Abbès,sidi-bel-abbs,DZ022,,,,,,15,52,,35.018,-0.59
-DZ022_ain-el-berd,2,دائرة,Daira,عين البرد,Ain El Berd,ain-el-berd,DZ022_ain-el-berd,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.345,-0.511
-DZ022_ben-badis,2,دائرة,Daira,بن باديس,Ben Badis,ben-badis,DZ022_ben-badis,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.98,-0.871
-DZ022_marhoum,2,دائرة,Daira,مرحوم,Marhoum,marhoum,DZ022_marhoum,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.452,-0.352
-DZ022_merine,2,دائرة,Daira,مرين,Merine,merine,DZ022_merine,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.674,-0.266
-DZ022_mostefa-ben-brahim,2,دائرة,Daira,مصطفى بن ابراهيم,Mostefa  Ben Brahim,mostefa-ben-brahim,DZ022_mostefa-ben-brahim,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.186,-0.44
-DZ022_moulay-slissen,2,دائرة,Daira,مولاي سليسن,Moulay Slissen,moulay-slissen,DZ022_moulay-slissen,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.753,-0.748
-DZ022_ras-el-ma,2,دائرة,Daira,راس الماء,Ras El Ma,ras-el-ma,DZ022_ras-el-ma,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.504,-0.789
-DZ022_sfisef,2,دائرة,Daira,سفيزف,Sfisef,sfisef,DZ022_sfisef,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.262,-0.285
-DZ022_sidi-ali-ben-youb,2,دائرة,Daira,سيدي علي بن يوب,Sidi Ali Ben Youb,sidi-ali-ben-youb,DZ022_sidi-ali-ben-youb,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.986,-0.736
-DZ022_sidi-ali-boussidi,2,دائرة,Daira,سيدي علي بوسيدي,Sidi Ali Boussidi,sidi-ali-boussidi,DZ022_sidi-ali-boussidi,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.108,-0.829
-DZ022_sidi-bel-abbes,2,دائرة,Daira,سيدي بلعباس,Sidi Bel Abbes,sidi-bel-abbes,DZ022_sidi-bel-abbes,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,1,,35.21,-0.631
-DZ022_sidi-lahcene,2,دائرة,Daira,سيدي لحسن,Sidi Lahcene,sidi-lahcene,DZ022_sidi-lahcene,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.146,-0.714
-DZ022_telagh,2,دائرة,Daira,تلاغ,Telagh,telagh,DZ022_telagh,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.797,-0.578
-DZ022_tenira,2,دائرة,Daira,تنيرة,Tenira,tenira,DZ022_tenira,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.989,-0.499
-DZ022_tessala,2,دائرة,Daira,تسالة,Tessala,tessala,DZ022_tessala,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,35.267,-0.779
-DZ023,1,ولاية,Wilaya,عنابة,Annaba,annaba,DZ023,,,,,,6,12,,36.846,7.6
-DZ023_ain-el-berda,2,دائرة,Daira,عين الباردة,Ain El Berda,ain-el-berda,DZ023_ain-el-berda,,DZ023,عنابة,Annaba,,,3,,36.446,6.637
-DZ023_annaba,2,دائرة,Daira,عنابة,Annaba,annaba,DZ023_annaba,,DZ023,عنابة,Annaba,,,2,,36.933,7.692
-DZ023_berrahal,2,دائرة,Daira,برحال,Berrahal,berrahal,DZ023_berrahal,,DZ023,عنابة,Annaba,,,3,,36.936,7.465
-DZ023_chetaibi,2,دائرة,Daira,شطايبي,Chetaibi,chetaibi,DZ023_chetaibi,,DZ023,عنابة,Annaba,,,1,,37.012,7.405
-DZ023_el-bouni,2,دائرة,Daira,البوني,El Bouni,el-bouni,DZ023_el-bouni,,DZ023,عنابة,Annaba,,,1,,36.843,7.75
-DZ023_el-hadjar,2,دائرة,Daira,الحجار,El Hadjar,el-hadjar,DZ023_el-hadjar,,DZ023,عنابة,Annaba,,,2,,36.669,5.002
-DZ024,1,ولاية,Wilaya,قالمة,Guelma,guelma,DZ024,,,,,,10,34,,36.349,7.412
-DZ024_ain-hessainia,2,دائرة,Daira,عين حساينية,Ain Hessainia,ain-hessainia,DZ024_ain-hessainia,,DZ024,قالمة,Guelma,,,4,,36.428,7.262
-DZ024_ain-makhlouf,2,دائرة,Daira,عين مخلوف,Ain Makhlouf,ain-makhlouf,DZ024_ain-makhlouf,,DZ024,قالمة,Guelma,,,3,,36.215,7.254
-DZ024_bouchegouf,2,دائرة,Daira,بوشقوف,Bouchegouf,bouchegouf,DZ024_bouchegouf,,DZ024,قالمة,Guelma,,,4,,36.507,7.739
-DZ024_guelaat-bousbaa,2,دائرة,Daira,قلعة بوصبع,Guelaat Bousbaa,guelaat-bousbaa,DZ024_guelaat-bousbaa,,DZ024,قالمة,Guelma,,,6,,36.493,7.541
-DZ024_guelma,2,دائرة,Daira,قالمة,Guelma,guelma,DZ024_guelma,,DZ024,قالمة,Guelma,,,2,,36.456,7.412
-DZ024_hammam-debagh,2,دائرة,Daira,حمام دباغ,Hammam Debagh,hammam-debagh,DZ024_hammam-debagh,,DZ024,قالمة,Guelma,,,3,,36.535,7.231
-DZ024_hammam-nbails,2,دائرة,Daira,حمام النبايل,Hammam N'bails,hammam-nbails,DZ024_hammam-nbails,,DZ024,قالمة,Guelma,,,3,,36.334,7.706
-DZ024_heliopolis,2,دائرة,Daira,هيليوبوليس,Heliopolis,heliopolis,DZ024_heliopolis,,DZ024,قالمة,Guelma,,,3,,36.556,7.39
-DZ024_khezaras,2,دائرة,Daira,خزارة,Khezaras,khezaras,DZ024_khezaras,,DZ024,قالمة,Guelma,,,3,,36.267,7.552
-DZ024_oued-zenati,2,دائرة,Daira,وادي الزناتي,Oued Zenati,oued-zenati,DZ024_oued-zenati,,DZ024,قالمة,Guelma,,,3,,36.355,7.119
-DZ025,1,ولاية,Wilaya,قسنطينة,Constantine,constantine,DZ025,,,,,,6,12,,36.36,6.668
-DZ025_ain-abid,2,دائرة,Daira,عين عبيد,Ain Abid,ain-abid,DZ025_ain-abid,,DZ025,قسنطينة,Constantine,,,2,,35.59,3.015
-DZ025_constantine,2,دائرة,Daira,قسنطينة,Constantine,constantine,DZ025_constantine,,DZ025,قسنطينة,Constantine,,,1,,36.356,6.61
-DZ025_el-khroub,2,دائرة,Daira,الخروب,El Khroub,el-khroub,DZ025_el-khroub,,DZ025,قسنطينة,Constantine,,,3,,36.254,6.632
-DZ025_hamma-bouziane,2,دائرة,Daira,حامة بوزيان,Hamma Bouziane,hamma-bouziane,DZ025_hamma-bouziane,,DZ025,قسنطينة,Constantine,,,2,,36.448,6.621
-DZ025_ibn-ziad,2,دائرة,Daira,ابن زياد,Ibn Ziad,ibn-ziad,DZ025_ibn-ziad,,DZ025,قسنطينة,Constantine,,,2,,36.374,6.427
-DZ025_zighoud-youcef,2,دائرة,Daira,زيغود يوسف,Zighoud Youcef,zighoud-youcef,DZ025_zighoud-youcef,,DZ025,قسنطينة,Constantine,,,2,,36.532,6.74
-DZ026,1,ولاية,Wilaya,المدية,Médéa,mda,DZ026,,,,,,19,64,,36.097,2.957
-DZ026_ain-boucif,2,دائرة,Daira,عين بوسيف,Ain Boucif,ain-boucif,DZ026_ain-boucif,,DZ026,المدية,Médéa,,,5,,35.884,3.208
-DZ026_aziz,2,دائرة,Daira,عزيز,Aziz,aziz,DZ026_aziz,,DZ026,المدية,Médéa,,,3,,35.8,2.437
-DZ026_beni-slimane,2,دائرة,Daira,بني سليمان,Beni Slimane,beni-slimane,DZ026_beni-slimane,,DZ026,المدية,Médéa,,,3,,36.209,3.258
-DZ026_berrouaghia,2,دائرة,Daira,البرواقية,Berrouaghia,berrouaghia,DZ026_berrouaghia,,DZ026,المدية,Médéa,,,3,,36.092,3.029
-DZ026_chahbounia,2,دائرة,Daira,الشهبونية,Chahbounia,chahbounia,DZ026_chahbounia,,DZ026,المدية,Médéa,,,3,,35.649,2.606
-DZ026_chellalat-el-adhaoura,2,دائرة,Daira,شلالة العذاورة,Chellalat El Adhaoura,chellalat-el-adhaoura,DZ026_chellalat-el-adhaoura,,DZ026,المدية,Médéa,,,4,,35.914,3.45
-DZ026_el-azizia,2,دائرة,Daira,العزيزية,El Azizia,el-azizia,DZ026_el-azizia,,DZ026,المدية,Médéa,,,3,,36.364,3.493
-DZ026_el-omaria,2,دائرة,Daira,العمارية,El Omaria,el-omaria,DZ026_el-omaria,,DZ026,المدية,Médéa,,,3,,35.906,2.219
-DZ026_guelb-el-kebir,2,دائرة,Daira,القلب الكبير,Guelb El Kebir,guelb-el-kebir,DZ026_guelb-el-kebir,,DZ026,المدية,Médéa,,,3,,36.252,3.427
-DZ026_ksar-el-boukhari,2,دائرة,Daira,قصر البخاري,Ksar El Boukhari,ksar-el-boukhari,DZ026_ksar-el-boukhari,,DZ026,المدية,Médéa,,,3,,35.869,2.826
-DZ026_medea,2,دائرة,Daira,المدية,Medea,medea,DZ026_medea,,DZ026,المدية,Médéa,,,3,,36.306,2.713
-DZ026_ouamri,2,دائرة,Daira,عوامري,Ouamri,ouamri,DZ026_ouamri,,DZ026,المدية,Médéa,,,3,,36.225,2.598
-DZ026_ouled-antar,2,دائرة,Daira,أولاد عنتر,Ouled Antar,ouled-antar,DZ026_ouled-antar,,DZ026,المدية,Médéa,,,3,,35.968,2.611
-DZ026_ouzera,2,دائرة,Daira,وزرة,Ouzera,ouzera,DZ026_ouzera,,DZ026,المدية,Médéa,,,4,,36.255,2.84
-DZ026_seghouane,2,دائرة,Daira,سغوان,Seghouane,seghouane,DZ026_seghouane,,DZ026,المدية,Médéa,,,4,,36.035,2.88
-DZ026_si-mahdjoub,2,دائرة,Daira,سي المحجوب,Si Mahdjoub,si-mahdjoub,DZ026_si-mahdjoub,,DZ026,المدية,Médéa,,,3,,36.139,2.705
-DZ026_sidi-naamane,2,دائرة,Daira,سيدي نعمان,Sidi Naamane,sidi-naamane,DZ026_sidi-naamane,,DZ026,المدية,Médéa,,,3,,36.403,3.444
-DZ026_souaghi,2,دائرة,Daira,السواقي,Souaghi,souaghi,DZ026_souaghi,,DZ026,المدية,Médéa,,,4,,36.084,3.316
-DZ026_tablat,2,دائرة,Daira,تابلاط,Tablat,tablat,DZ026_tablat,,DZ026,المدية,Médéa,,,4,,36.42,3.279
-DZ027,1,ولاية,Wilaya,مستغانم,Mostaganem,mostaganem,DZ027,,,,,,10,32,,36.004,0.368
-DZ027_achaacha,2,دائرة,Daira,عشعاشة,Achaacha,achaacha,DZ027_achaacha,,DZ027,مستغانم,Mostaganem,,,4,,36.244,0.631
-DZ027_ain-nouicy,2,دائرة,Daira,عين نويسي,Ain Nouicy,ain-nouicy,DZ027_ain-nouicy,,DZ027,مستغانم,Mostaganem,,,3,,35.758,-0.041
-DZ027_ain-tedeles,2,دائرة,Daira,عين تادلس,Ain Tedeles,ain-tedeles,DZ027_ain-tedeles,,DZ027,مستغانم,Mostaganem,,,4,,35.957,0.318
-DZ027_bouguirat,2,دائرة,Daira,بوقيراط,Bouguirat,bouguirat,DZ027_bouguirat,,DZ027,مستغانم,Mostaganem,,,4,,35.807,0.284
-DZ027_hassi-mameche,2,دائرة,Daira,حاسي ماماش,Hassi Mameche,hassi-mameche,DZ027_hassi-mameche,,DZ027,مستغانم,Mostaganem,,,3,,35.821,-0.008
-DZ027_kheir-eddine,2,دائرة,Daira,خير الدين,Kheir Eddine,kheir-eddine,DZ027_kheir-eddine,,DZ027,مستغانم,Mostaganem,,,3,,35.961,0.177
-DZ027_mesra,2,دائرة,Daira,ماسرة,Mesra,mesra,DZ027_mesra,,DZ027,مستغانم,Mostaganem,,,4,,35.587,-0.205
-DZ027_mostaganem,2,دائرة,Daira,مستغانم,Mostaganem,mostaganem,DZ027_mostaganem,,DZ027,مستغانم,Mostaganem,,,1,,35.978,0.109
-DZ027_sidi-ali,2,دائرة,Daira,سيدي علي,Sidi Ali,sidi-ali,DZ027_sidi-ali,,DZ027,مستغانم,Mostaganem,,,3,,36.08,0.529
-DZ027_sidi-lakhdar,2,دائرة,Daira,سيدي لخضر,Sidi Lakhdar,sidi-lakhdar,DZ027_sidi-lakhdar,,DZ027,مستغانم,Mostaganem,,,3,,36.153,0.387
-DZ028,1,ولاية,Wilaya,المسيلة,M'Sila,msila,DZ028,,,,,,15,47,,35.125,4.21
-DZ028_ain-el-hadjel,2,دائرة,Daira,عين الحجل,Ain El Hadjel,ain-el-hadjel,DZ028_ain-el-hadjel,,DZ028,المسيلة,M'Sila,,,2,,35.662,3.963
-DZ028_ain-el-melh,2,دائرة,Daira,عين الملح,Ain El Melh,ain-el-melh,DZ028_ain-el-melh,,DZ028,المسيلة,M'Sila,,,5,,34.772,4.321
-DZ028_ben-srour,2,دائرة,Daira,بن سرور,Ben Srour,ben-srour,DZ028_ben-srour,,DZ028,المسيلة,M'Sila,,,4,,34.942,4.637
-DZ028_bousaada,2,دائرة,Daira,بوسعادة,Bousaada,bousaada,DZ028_bousaada,,DZ028,المسيلة,M'Sila,,,3,,35.119,4.06
-DZ028_chellal,2,دائرة,Daira,شلال,Chellal,chellal,DZ028_chellal,,DZ028,المسيلة,M'Sila,,,4,,35.457,4.426
-DZ028_djebel-messaad,2,دائرة,Daira,جبل مساعد,Djebel Messaad,djebel-messaad,DZ028_djebel-messaad,,DZ028,المسيلة,M'Sila,,,2,,34.972,3.979
-DZ028_hammam-dalaa,2,دائرة,Daira,حمام الضلعة,Hammam Dalaa,hammam-dalaa,DZ028_hammam-dalaa,,DZ028,المسيلة,M'Sila,,,4,,35.776,4.329
-DZ028_khoubana,2,دائرة,Daira,خبانة,Khoubana,khoubana,DZ028_khoubana,,DZ028,المسيلة,M'Sila,,,3,,35.274,4.591
-DZ028_magra,2,دائرة,Daira,مقرة,Magra,magra,DZ028_magra,,DZ028,المسيلة,M'Sila,,,5,,35.621,5.055
-DZ028_medjedel,2,دائرة,Daira,امجدل,Medjedel,medjedel,DZ028_medjedel,,DZ028,المسيلة,M'Sila,,,2,,35.099,3.694
-DZ028_msila,2,دائرة,Daira,المسيلة,M'sila,msila,DZ028_msila,,DZ028,المسيلة,M'Sila,,,1,,35.723,4.505
-DZ028_ouled-derradj,2,دائرة,Daira,أولاد دراج,Ouled Derradj,ouled-derradj,DZ028_ouled-derradj,,DZ028,المسيلة,M'Sila,,,5,,35.902,4.691
-DZ028_ouled-sidi-brahim,2,دائرة,Daira,أولاد سيدي ابراهيم,Ouled Sidi Brahim,ouled-sidi-brahim,DZ028_ouled-sidi-brahim,,DZ028,المسيلة,M'Sila,,,2,,35.412,4.12
-DZ028_sidi-aissa,2,دائرة,Daira,سيدي عيسى,Sidi Aissa,sidi-aissa,DZ028_sidi-aissa,,DZ028,المسيلة,M'Sila,,,3,,35.747,3.743
-DZ028_sidi-ameur,2,دائرة,Daira,سيدي عامر,Sidi Ameur,sidi-ameur,DZ028_sidi-ameur,,DZ028,المسيلة,M'Sila,,,2,,35.287,3.874
-DZ029,1,ولاية,Wilaya,معسكر,Mascara,mascara,DZ029,,,,,,16,47,,35.4,0.241
-DZ029_ain-fares,2,دائرة,Daira,عين فارس,Ain Fares,ain-fares,DZ029_ain-fares,,DZ029,معسكر,Mascara,,,2,,35.106,2.312
-DZ029_ain-fekan,2,دائرة,Daira,عين فكان,Ain Fekan,ain-fekan,DZ029_ain-fekan,,DZ029,معسكر,Mascara,,,2,,35.189,-0.089
-DZ029_aouf,2,دائرة,Daira,عوف,Aouf,aouf,DZ029_aouf,,DZ029,معسكر,Mascara,,,3,,35.12,0.35
-DZ029_bouhanifia,2,دائرة,Daira,بوحنيفية,Bouhanifia,bouhanifia,DZ029_bouhanifia,,DZ029,معسكر,Mascara,,,3,,35.38,-0.043
-DZ029_el-bordj,2,دائرة,Daira,البرج,El Bordj,el-bordj,DZ029_el-bordj,,DZ029,معسكر,Mascara,,,3,,35.5,0.354
-DZ029_ghriss,2,دائرة,Daira,غريس,Ghriss,ghriss,DZ029_ghriss,,DZ029,معسكر,Mascara,,,5,,35.296,0.231
-DZ029_hachem,2,دائرة,Daira,الحشم,Hachem,hachem,DZ029_hachem,,DZ029,معسكر,Mascara,,,3,,35.365,0.542
-DZ029_mascara,2,دائرة,Daira,معسكر,Mascara,mascara,DZ029_mascara,,DZ029,معسكر,Mascara,,,1,,35.387,0.151
-DZ029_mohammadia,2,دائرة,Daira,المحمدية,Mohammadia,mohammadia,DZ029_mohammadia,,DZ029,معسكر,Mascara,,,6,,35.623,0.137
-DZ029_oggaz,2,دائرة,Daira,عقاز,Oggaz,oggaz,DZ029_oggaz,,DZ029,معسكر,Mascara,,,3,,35.629,-0.248
-DZ029_oued-el-abtal,2,دائرة,Daira,وادي الأبطال,Oued El Abtal,oued-el-abtal,DZ029_oued-el-abtal,,DZ029,معسكر,Mascara,,,3,,35.395,0.754
-DZ029_oued-taria,2,دائرة,Daira,وادي التاغية,Oued Taria,oued-taria,DZ029_oued-taria,,DZ029,معسكر,Mascara,,,2,,35.198,0.08
-DZ029_sig,2,دائرة,Daira,سيق,Sig,sig,DZ029_sig,,DZ029,معسكر,Mascara,,,3,,35.478,-0.182
-DZ029_tighennif,2,دائرة,Daira,تيغنيف,Tighennif,tighennif,DZ029_tighennif,,DZ029,معسكر,Mascara,,,3,,35.402,0.358
-DZ029_tizi,2,دائرة,Daira,تيزي,Tizi,tizi,DZ029_tizi,,DZ029,معسكر,Mascara,,,3,,35.33,0.074
-DZ029_zahana,2,دائرة,Daira,زهانة,Zahana,zahana,DZ029_zahana,,DZ029,معسكر,Mascara,,,2,,35.468,-0.372
-DZ030,1,ولاية,Wilaya,ورقلة,Ouargla,ouargla,DZ030,,,,,,5,8,,31.23,6.769
-DZ030_el-borma,2,دائرة,Daira,البرمة,El Borma,el-borma,DZ030_el-borma,,DZ030,ورقلة,Ouargla,,,1,,31.325,7.953
-DZ030_hassi-messaoud,2,دائرة,Daira,حاسي مسعود,Hassi Messaoud,hassi-messaoud,DZ030_hassi-messaoud,,DZ030,ورقلة,Ouargla,,,1,,30.54,5.44
-DZ030_ngoussa,2,دائرة,Daira,انقوسة,N'goussa,ngoussa,DZ030_ngoussa,,DZ030,ورقلة,Ouargla,,,1,,32.358,5.328
-DZ030_ouargla,2,دائرة,Daira,ورقلة,Ouargla,ouargla,DZ030_ouargla,,DZ030,ورقلة,Ouargla,,,2,,31.956,4.849
-DZ030_sidi-khouiled,2,دائرة,Daira,سيدي خويلد,Sidi Khouiled,sidi-khouiled,DZ030_sidi-khouiled,,DZ030,ورقلة,Ouargla,,,3,,33.348,6.208
-DZ031,1,ولاية,Wilaya,وهران,Oran,oran,DZ031,,,,,,9,26,,35.623,-0.703
-DZ031_ain-turk,2,دائرة,Daira,عين الترك,Ain Turk,ain-turk,DZ031_ain-turk,,DZ031,وهران,Oran,,,4,,35.715,-0.798
-DZ031_arzew,2,دائرة,Daira,أرزيو,Arzew,arzew,DZ031_arzew,,DZ031,وهران,Oran,,,2,,35.856,-0.335
-DZ031_bethioua,2,دائرة,Daira,بطيوة,Bethioua,bethioua,DZ031_bethioua,,DZ031,وهران,Oran,,,3,,35.758,-0.242
-DZ031_bir-el-djir,2,دائرة,Daira,بئر الجير,Bir El Djir,bir-el-djir,DZ031_bir-el-djir,,DZ031,وهران,Oran,,,3,,35.729,-0.508
-DZ031_boutlelis,2,دائرة,Daira,بوتليليس,Boutlelis,boutlelis,DZ031_boutlelis,,DZ031,وهران,Oran,,,3,,35.624,-0.923
-DZ031_es-senia,2,دائرة,Daira,السانية,Es Senia,es-senia,DZ031_es-senia,,DZ031,وهران,Oran,,,3,,35.656,-0.59
-DZ031_gdyel,2,دائرة,Daira,قديل,Gdyel,gdyel,DZ031_gdyel,,DZ031,وهران,Oran,,,3,,35.769,-0.399
-DZ031_oran,2,دائرة,Daira,وهران,Oran,oran,DZ031_oran,,DZ031,وهران,Oran,,,1,,35.71,-0.615
-DZ031_oued-tlelat,2,دائرة,Daira,وادي تليلات,Oued Tlelat,oued-tlelat,DZ031_oued-tlelat,,DZ031,وهران,Oran,,,4,,35.568,-0.47
-DZ032,1,ولاية,Wilaya,البيض,El Bayadh,el-bayadh,DZ032,,,,,,8,22,,32.608,1.11
-DZ032_boualem,2,دائرة,Daira,بوعلام,Boualem,boualem,DZ032_boualem,,DZ032,البيض,El Bayadh,,,5,,35.021,2.255
-DZ032_bougtoub,2,دائرة,Daira,بوقطب,Bougtoub,bougtoub,DZ032_bougtoub,,DZ032,البيض,El Bayadh,,,3,,33.825,0.283
-DZ032_boussemghoun,2,دائرة,Daira,بوسمغون,Boussemghoun,boussemghoun,DZ032_boussemghoun,,DZ032,البيض,El Bayadh,,,1,,32.814,0.051
-DZ032_brezina,2,دائرة,Daira,بريزينة,Brezina,brezina,DZ032_brezina,,DZ032,البيض,El Bayadh,,,3,,33.133,1.343
-DZ032_chellala,2,دائرة,Daira,شلالة,Chellala,chellala,DZ032_chellala,,DZ032,البيض,El Bayadh,,,2,,33.15,0.14
-DZ032_el-bayadh,2,دائرة,Daira,البيض,El Bayadh,el-bayadh,DZ032_el-bayadh,,DZ032,البيض,El Bayadh,,,1,,33.647,1.01
-DZ032_labiodh-sidi-cheikh,2,دائرة,Daira,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,labiodh-sidi-cheikh,DZ032_labiodh-sidi-cheikh,,DZ032,البيض,El Bayadh,,,4,,32.758,0.572
-DZ032_rogassa,2,دائرة,Daira,رقاصة,Rogassa,rogassa,DZ032_rogassa,,DZ032,البيض,El Bayadh,,,3,,33.954,0.856
-DZ033,1,ولاية,Wilaya,إليزي,Illizi,illizi,DZ033,,,,,,2,4,,26.526,8.07
-DZ033_illizi,2,دائرة,Daira,إيليزي,Illizi,illizi,DZ033_illizi,,DZ033,إليزي,Illizi,,,1,,26.491,8.349
-DZ033_in-amenas,2,دائرة,Daira,إن أمناس,In Amenas,in-amenas,DZ033_in-amenas,,DZ033,إليزي,Illizi,,,3,,28.583,8.456
-DZ034,1,ولاية,Wilaya,برج بوعريريج,Bordj Bou Arreridj,bordj-bou-arreridj,DZ034,,,,,,10,34,,36.043,4.57
-DZ034_ain-taghrout,2,دائرة,Daira,عين تاغروت,Ain Taghrout,ain-taghrout,DZ034_ain-taghrout,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,2,,36.091,5.112
-DZ034_bir-kasdali,2,دائرة,Daira,بئر قاصد علي,Bir Kasdali,bir-kasdali,DZ034_bir-kasdali,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,36.166,4.977
-DZ034_bordj-bou-arreridj,2,دائرة,Daira,برج بوعريريج,Bordj Bou Arreridj,bordj-bou-arreridj,DZ034_bordj-bou-arreridj,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,1,,36.043,4.57
-DZ034_bordj-ghedir,2,دائرة,Daira,برج الغدير,Bordj Ghedir,bordj-ghedir,DZ034_bordj-ghedir,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,5,,35.897,4.94
-DZ034_bordj-zemmoura,2,دائرة,Daira,برج زمورة,Bordj Zemmoura,bordj-zemmoura,DZ034_bordj-zemmoura,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,36.234,4.777
-DZ034_djaafra,2,دائرة,Daira,جعافرة,Djaafra,djaafra,DZ034_djaafra,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,36.309,4.68
-DZ034_el-hamadia,2,دائرة,Daira,الحمادية,El Hamadia,el-hamadia,DZ034_el-hamadia,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,35.934,4.65
-DZ034_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ034_mansourah,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,5,,35.874,3.532
-DZ034_medjana,2,دائرة,Daira,مجانة,Medjana,medjana,DZ034_medjana,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,36.128,4.706
-DZ034_ras-el-oued,2,دائرة,Daira,رأس الوادي,Ras El Oued,ras-el-oued,DZ034_ras-el-oued,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,35.918,5.053
-DZ035,1,ولاية,Wilaya,بومرداس,Boumerdès,boumerds,DZ035,,,,,,9,32,,36.707,3.549
-DZ035_baghlia,2,دائرة,Daira,بغلية,Baghlia,baghlia,DZ035_baghlia,,DZ035,بومرداس,Boumerdès,,,3,,36.82,3.88
-DZ035_bordj-menaiel,2,دائرة,Daira,برج منايل,Bordj Menaiel,bordj-menaiel,DZ035_bordj-menaiel,,DZ035,بومرداس,Boumerdès,,,4,,36.795,3.692
-DZ035_boudouaou,2,دائرة,Daira,بودواو,Boudouaou,boudouaou,DZ035_boudouaou,,DZ035,بومرداس,Boumerdès,,,5,,36.681,3.434
-DZ035_boumerdes,2,دائرة,Daira,بومرداس,Boumerdes,boumerdes,DZ035_boumerdes,,DZ035,بومرداس,Boumerdès,,,3,,36.737,3.478
-DZ035_dellys,2,دائرة,Daira,دلس,Dellys,dellys,DZ035_dellys,,DZ035,بومرداس,Boumerdès,,,3,,36.861,3.949
-DZ035_isser,2,دائرة,Daira,يسر,Isser,isser,DZ035_isser,,DZ035,بومرداس,Boumerdès,,,4,,36.684,3.695
-DZ035_khemis-el-khechna,2,دائرة,Daira,خميس الخشنة,Khemis El Khechna,khemis-el-khechna,DZ035_khemis-el-khechna,,DZ035,بومرداس,Boumerdès,,,4,,36.654,3.333
-DZ035_naciria,2,دائرة,Daira,الناصرية,Naciria,naciria,DZ035_naciria,,DZ035,بومرداس,Boumerdès,,,2,,36.77,3.817
-DZ035_thenia,2,دائرة,Daira,الثنية,Thenia,thenia,DZ035_thenia,,DZ035,بومرداس,Boumerdès,,,4,,36.49,2.996
-DZ036,1,ولاية,Wilaya,الطارف,El Tarf,el-tarf,DZ036,,,,,,7,24,,36.684,7.664
-DZ036_ben-mhidi,2,دائرة,Daira,بن مهيدي,Ben M'hidi,ben-mhidi,DZ036_ben-mhidi,,DZ036,الطارف,El Tarf,,,3,,36.825,7.966
-DZ036_besbes,2,دائرة,Daira,البسباس,Besbes,besbes,DZ036_besbes,,DZ036,الطارف,El Tarf,,,3,,36.698,7.901
-DZ036_bouhadjar,2,دائرة,Daira,بوحجار,Bouhadjar,bouhadjar,DZ036_bouhadjar,,DZ036,الطارف,El Tarf,,,4,,36.286,5.798
-DZ036_bouteldja,2,دائرة,Daira,بوثلجة,Bouteldja,bouteldja,DZ036_bouteldja,,DZ036,الطارف,El Tarf,,,3,,36.74,8.146
-DZ036_drean,2,دائرة,Daira,الذرعان,Drean,drean,DZ036_drean,,DZ036,الطارف,El Tarf,,,3,,36.65,7.796
-DZ036_el-kala,2,دائرة,Daira,القالة,El Kala,el-kala,DZ036_el-kala,,DZ036,الطارف,El Tarf,,,4,,36.851,8.535
-DZ036_el-tarf,2,دائرة,Daira,الطارف,El Tarf,el-tarf,DZ036_el-tarf,,DZ036,الطارف,El Tarf,,,4,,36.806,7.904
-DZ037,1,ولاية,Wilaya,تندوف,Tindouf,tindouf,DZ037,,,,,,1,2,,27.55,-6.252
-DZ037_tindouf,2,دائرة,Daira,تندوف,Tindouf,tindouf,DZ037_tindouf,,DZ037,تندوف,Tindouf,,,2,,27.598,-6.417
-DZ038,1,ولاية,Wilaya,تيسمسيلت,Tissemsilt,tissemsilt,DZ038,,,,,,8,22,,35.788,1.833
-DZ038_ammari,2,دائرة,Daira,عماري,Ammari,ammari,DZ038_ammari,,DZ038,تيسمسيلت,Tissemsilt,,,3,,35.658,1.623
-DZ038_bordj-bounaama,2,دائرة,Daira,برج بونعامة,Bordj Bounaama,bordj-bounaama,DZ038_bordj-bounaama,,DZ038,تيسمسيلت,Tissemsilt,,,4,,35.833,1.714
-DZ038_bordj-emir-abdelkader,2,دائرة,Daira,برج الأمير عبد القادر,Bordj Emir Abdelkader,bordj-emir-abdelkader,DZ038_bordj-emir-abdelkader,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.861,2.181
-DZ038_khemisti,2,دائرة,Daira,خميستي,Khemisti,khemisti,DZ038_khemisti,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.678,2.002
-DZ038_lardjem,2,دائرة,Daira,لرجام,Lardjem,lardjem,DZ038_lardjem,,DZ038,تيسمسيلت,Tissemsilt,,,4,,35.739,1.412
-DZ038_lazharia,2,دائرة,Daira,الأزهرية,Lazharia,lazharia,DZ038_lazharia,,DZ038,تيسمسيلت,Tissemsilt,,,3,,35.927,1.571
-DZ038_theniet-el-had,2,دائرة,Daira,ثنية الاحد,Theniet El Had,theniet-el-had,DZ038_theniet-el-had,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.838,1.989
-DZ038_tissemsilt,2,دائرة,Daira,تيسمسيلت,Tissemsilt,tissemsilt,DZ038_tissemsilt,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.614,1.826
-DZ039,1,ولاية,Wilaya,الوادي,El Oued,el-oued,DZ039,,,,,,10,22,,33.258,7.128
-DZ039_bayadha,2,دائرة,Daira,البياضة,Bayadha,bayadha,DZ039_bayadha,,DZ039,الوادي,El Oued,,,1,,33.326,6.901
-DZ039_debila,2,دائرة,Daira,الدبيلة,Debila,debila,DZ039_debila,,DZ039,الوادي,El Oued,,,2,,33.467,6.9
-DZ039_el-oued,2,دائرة,Daira,الوادي,El Oued,el-oued,DZ039_el-oued,,DZ039,الوادي,El Oued,,,2,,33.382,6.824
-DZ039_guemar,2,دائرة,Daira,قمار,Guemar,guemar,DZ039_guemar,,DZ039,الوادي,El Oued,,,3,,33.558,6.598
-DZ039_hassi-khalifa,2,دائرة,Daira,حاسي خليفة,Hassi Khalifa,hassi-khalifa,DZ039_hassi-khalifa,,DZ039,الوادي,El Oued,,,2,,33.258,7.128
-DZ039_magrane,2,دائرة,Daira,المقرن,Magrane,magrane,DZ039_magrane,,DZ039,الوادي,El Oued,,,2,,33.849,6.863
-DZ039_mih-ouensa,2,دائرة,Daira,اميه وانسة,Mih Ouensa,mih-ouensa,DZ039_mih-ouensa,,DZ039,الوادي,El Oued,,,2,,33.03,6.83
-DZ039_reguiba,2,دائرة,Daira,الرقيبة,Reguiba,reguiba,DZ039_reguiba,,DZ039,الوادي,El Oued,,,2,,33.977,6.479
-DZ039_robbah,2,دائرة,Daira,الرباح,Robbah,robbah,DZ039_robbah,,DZ039,الوادي,El Oued,,,3,,33.784,7.18
-DZ039_taleb-larbi,2,دائرة,Daira,الطالب العربي,Taleb Larbi,taleb-larbi,DZ039_taleb-larbi,,DZ039,الوادي,El Oued,,,3,,33.708,7.451
-DZ040,1,ولاية,Wilaya,خنشلة,Khenchela,khenchela,DZ040,,,,,,8,21,,34.916,6.904
-DZ040_ain-touila,2,دائرة,Daira,عين الطويلة,Ain Touila,ain-touila,DZ040_ain-touila,,DZ040,خنشلة,Khenchela,,,2,,35.524,7.316
-DZ040_babar,2,دائرة,Daira,بابار,Babar,babar,DZ040_babar,,DZ040,خنشلة,Khenchela,,,1,,34.766,7.282
-DZ040_bouhmama,2,دائرة,Daira,بوحمامة,Bouhmama,bouhmama,DZ040_bouhmama,,DZ040,خنشلة,Khenchela,,,4,,35.294,6.74
-DZ040_chechar,2,دائرة,Daira,ششار,Chechar,chechar,DZ040_chechar,,DZ040,خنشلة,Khenchela,,,4,,35.326,6.527
-DZ040_el-hamma,2,دائرة,Daira,الحامة,El Hamma,el-hamma,DZ040_el-hamma,,DZ040,خنشلة,Khenchela,,,4,,35.407,7.063
-DZ040_kais,2,دائرة,Daira,قايس,Kais,kais,DZ040_kais,,DZ040,خنشلة,Khenchela,,,3,,35.512,6.876
-DZ040_khenchela,2,دائرة,Daira,خنشلة,Khenchela,khenchela,DZ040_khenchela,,DZ040,خنشلة,Khenchela,,,1,,35.439,7.138
-DZ040_ouled-rechache,2,دائرة,Daira,أولاد رشاش,Ouled Rechache,ouled-rechache,DZ040_ouled-rechache,,DZ040,خنشلة,Khenchela,,,2,,35.225,7.298
-DZ041,1,ولاية,Wilaya,سوق أهراس,Souk Ahras,souk-ahras,DZ041,,,,,,10,26,,36.165,7.886
-DZ041_bir-bouhouche,2,دائرة,Daira,بئر بوحوش,Bir Bouhouche,bir-bouhouche,DZ041_bir-bouhouche,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.05,7.437
-DZ041_haddada,2,دائرة,Daira,الحدادة,Haddada,haddada,DZ041_haddada,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.284,8.284
-DZ041_mdaourouche,2,دائرة,Daira,مداوروش,M'daourouche,mdaourouche,DZ041_mdaourouche,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.119,7.809
-DZ041_mechroha,2,دائرة,Daira,المشروحة,Mechroha,mechroha,DZ041_mechroha,,DZ041,سوق أهراس,Souk Ahras,,,2,,36.165,7.886
-DZ041_merahna,2,دائرة,Daira,المراهنة,Merahna,merahna,DZ041_merahna,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.138,8.194
-DZ041_ouled-driss,2,دائرة,Daira,أولاد إدريس,Ouled Driss,ouled-driss,DZ041_ouled-driss,,DZ041,سوق أهراس,Souk Ahras,,,2,,36.389,8.136
-DZ041_oum-el-adhaim,2,دائرة,Daira,أم العظايم,Oum El Adhaim,oum-el-adhaim,DZ041_oum-el-adhaim,,DZ041,سوق أهراس,Souk Ahras,,,3,,35.95,7.639
-DZ041_sedrata,2,دائرة,Daira,سدراتة,Sedrata,sedrata,DZ041_sedrata,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.173,7.505
-DZ041_souk-ahras,2,دائرة,Daira,سوق أهراس,Souk Ahras,souk-ahras,DZ041_souk-ahras,,DZ041,سوق أهراس,Souk Ahras,,,1,,36.286,7.962
-DZ041_taoura,2,دائرة,Daira,تاورة,Taoura,taoura,DZ041_taoura,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.117,7.989
-DZ042,1,ولاية,Wilaya,تيبازة,Tipaza,tipaza,DZ042,,,,,,10,28,,36.53,2.17
-DZ042_ahmar-el-ain,2,دائرة,Daira,أحمر العين,Ahmar El Ain,ahmar-el-ain,DZ042_ahmar-el-ain,,DZ042,تيبازة,Tipaza,,,3,,36.515,2.54
-DZ042_bou-ismail,2,دائرة,Daira,بواسماعيل,Bou Ismail,bou-ismail,DZ042_bou-ismail,,DZ042,تيبازة,Tipaza,,,4,,36.309,2.419
-DZ042_cherchell,2,دائرة,Daira,شرشال,Cherchell,cherchell,DZ042_cherchell,,DZ042,تيبازة,Tipaza,,,4,,36.521,2.106
-DZ042_damous,2,دائرة,Daira,الداموس,Damous,damous,DZ042_damous,,DZ042,تيبازة,Tipaza,,,3,,36.508,1.756
-DZ042_fouka,2,دائرة,Daira,فوكة,Fouka,fouka,DZ042_fouka,,DZ042,تيبازة,Tipaza,,,2,,36.673,2.775
-DZ042_gouraya,2,دائرة,Daira,قوراية,Gouraya,gouraya,DZ042_gouraya,,DZ042,تيبازة,Tipaza,,,3,,36.512,1.921
-DZ042_hadjout,2,دائرة,Daira,حجوط,Hadjout,hadjout,DZ042_hadjout,,DZ042,تيبازة,Tipaza,,,2,,36.527,2.422
-DZ042_kolea,2,دائرة,Daira,القليعة,Kolea,kolea,DZ042_kolea,,DZ042,تيبازة,Tipaza,,,3,,36.621,2.76
-DZ042_sidi-amar,2,دائرة,Daira,سيدي أعمر,Sidi Amar,sidi-amar,DZ042_sidi-amar,,DZ042,تيبازة,Tipaza,,,3,,36.551,2.303
-DZ042_tipaza,2,دائرة,Daira,تيبازة,Tipaza,tipaza,DZ042_tipaza,,DZ042,تيبازة,Tipaza,,,1,,36.599,2.396
-DZ043,1,ولاية,Wilaya,ميلة,Mila,mila,DZ043,,,,,,13,32,,36.252,6.165
-DZ043_ain-beida-harriche,2,دائرة,Daira,عين البيضاء أحريش,Ain Beida Harriche,ain-beida-harriche,DZ043_ain-beida-harriche,,DZ043,ميلة,Mila,,,2,,36.415,5.846
-DZ043_bouhatem,2,دائرة,Daira,بوحاتم,Bouhatem,bouhatem,DZ043_bouhatem,,DZ043,ميلة,Mila,,,2,,36.317,6.053
-DZ043_chelghoum-laid,2,دائرة,Daira,شلغوم العيد,Chelghoum Laid,chelghoum-laid,DZ043_chelghoum-laid,,DZ043,ميلة,Mila,,,3,,36.22,6.16
-DZ043_ferdjioua,2,دائرة,Daira,فرجيوة,Ferdjioua,ferdjioua,DZ043_ferdjioua,,DZ043,ميلة,Mila,,,2,,36.408,5.939
-DZ043_grarem-gouga,2,دائرة,Daira,القرارم قوقة,Grarem Gouga,grarem-gouga,DZ043_grarem-gouga,,DZ043,ميلة,Mila,,,2,,36.559,6.369
-DZ043_mila,2,دائرة,Daira,ميلة,Mila,mila,DZ043_mila,,DZ043,ميلة,Mila,,,3,,36.408,6.28
-DZ043_oued-endja,2,دائرة,Daira,وادي النجاء,Oued Endja,oued-endja,DZ043_oued-endja,,DZ043,ميلة,Mila,,,3,,36.468,6.139
-DZ043_rouached,2,دائرة,Daira,الرواشد,Rouached,rouached,DZ043_rouached,,DZ043,ميلة,Mila,,,2,,36.438,6.028
-DZ043_sidi-merouane,2,دائرة,Daira,سيدي مروان,Sidi Merouane,sidi-merouane,DZ043_sidi-merouane,,DZ043,ميلة,Mila,,,2,,36.515,6.26
-DZ043_tadjenanet,2,دائرة,Daira,تاجنانت,Tadjenanet,tadjenanet,DZ043_tadjenanet,,DZ043,ميلة,Mila,,,3,,36.133,6.02
-DZ043_tassadane-haddada,2,دائرة,Daira,تسدان حدادة,Tassadane Haddada,tassadane-haddada,DZ043_tassadane-haddada,,DZ043,ميلة,Mila,,,2,,36.528,5.869
-DZ043_teleghma,2,دائرة,Daira,التلاغمة,Teleghma,teleghma,DZ043_teleghma,,DZ043,ميلة,Mila,,,3,,36.204,6.458
-DZ043_terrai-bainen,2,دائرة,Daira,ترعي باينان,Terrai Bainen,terrai-bainen,DZ043_terrai-bainen,,DZ043,ميلة,Mila,,,3,,36.555,6.059
-DZ044,1,ولاية,Wilaya,عين الدفلة,Aïn Defla,an-defla,DZ044,,,,,,14,36,,36.228,2.232
-DZ044_ain-defla,2,دائرة,Daira,عين الدفلى,Ain Defla,ain-defla,DZ044_ain-defla,,DZ044,عين الدفلة,Aïn Defla,,,1,,36.257,1.955
-DZ044_ain-lechiakh,2,دائرة,Daira,عين الاشياخ,Ain Lechiakh,ain-lechiakh,DZ044_ain-lechiakh,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.117,4.047
-DZ044_bathia,2,دائرة,Daira,بطحية,Bathia,bathia,DZ044_bathia,,DZ044,عين الدفلة,Aïn Defla,,,3,,35.977,1.793
-DZ044_bordj-el-emir-khaled,2,دائرة,Daira,برج الأمير خالد,Bordj El Emir Khaled,bordj-el-emir-khaled,DZ044_bordj-el-emir-khaled,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.044,2.164
-DZ044_boumedfaa,2,دائرة,Daira,بومدفع,Boumedfaa,boumedfaa,DZ044_boumedfaa,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.354,2.498
-DZ044_djelida,2,دائرة,Daira,جليدة,Djelida,djelida,DZ044_djelida,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.143,1.995
-DZ044_djendel,2,دائرة,Daira,جندل,Djendel,djendel,DZ044_djendel,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.198,2.478
-DZ044_el-abadia,2,دائرة,Daira,العبادية,El Abadia,el-abadia,DZ044_el-abadia,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.345,1.749
-DZ044_el-amra,2,دائرة,Daira,العامرة,El Amra,el-amra,DZ044_el-amra,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.351,1.954
-DZ044_el-attaf,2,دائرة,Daira,العطاف,El Attaf,el-attaf,DZ044_el-attaf,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.185,1.675
-DZ044_hammam-righa,2,دائرة,Daira,حمام ريغة,Hammam Righa,hammam-righa,DZ044_hammam-righa,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.513,2.528
-DZ044_khemis,2,دائرة,Daira,خميس,Khemis,khemis,DZ044_khemis,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.22,1.333
-DZ044_miliana,2,دائرة,Daira,مليانة,Miliana,miliana,DZ044_miliana,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.334,2.204
-DZ044_rouina,2,دائرة,Daira,الروينة,Rouina,rouina,DZ044_rouina,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.184,1.839
-DZ045,1,ولاية,Wilaya,النعامة,Naâma,nama,DZ045,,,,,,7,12,,32.962,-0.674
-DZ045_ain-sefra,2,دائرة,Daira,عين الصفراء,Ain Sefra,ain-sefra,DZ045_ain-sefra,,DZ045,النعامة,Naâma,,,2,,32.82,-0.505
-DZ045_asla,2,دائرة,Daira,عسلة,Asla,asla,DZ045_asla,,DZ045,النعامة,Naâma,,,1,,32.728,-0.169
-DZ045_mecheria,2,دائرة,Daira,المشرية,Mecheria,mecheria,DZ045_mecheria,,DZ045,النعامة,Naâma,,,3,,33.164,-0.95
-DZ045_mekmen-ben-amar,2,دائرة,Daira,مكمن بن عمار,Mekmen Ben Amar,mekmen-ben-amar,DZ045_mekmen-ben-amar,,DZ045,النعامة,Naâma,,,2,,33.642,-1.393
-DZ045_moghrar,2,دائرة,Daira,مغرار,Moghrar,moghrar,DZ045_moghrar,,DZ045,النعامة,Naâma,,,2,,32.441,-0.548
-DZ045_naama,2,دائرة,Daira,النعامة,Naama,naama,DZ045_naama,,DZ045,النعامة,Naâma,,,1,,33.291,-0.302
-DZ045_sfissifa,2,دائرة,Daira,سفيسيفة,Sfissifa,sfissifa,DZ045_sfissifa,,DZ045,النعامة,Naâma,,,1,,32.792,-1.024
-DZ046,1,ولاية,Wilaya,عين تيموشنت,Aïn Témouchent,an-tmouchent,DZ046,,,,,,8,28,,35.429,-0.732
-DZ046_ain-kihel,2,دائرة,Daira,عين الكيحل,Ain Kihel,ain-kihel,DZ046_ain-kihel,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.224,-1.167
-DZ046_ain-larbaa,2,دائرة,Daira,عين الأربعاء,Ain Larbaa,ain-larbaa,DZ046_ain-larbaa,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.389,-0.862
-DZ046_ain-temouchent,2,دائرة,Daira,عين تموشنت,Ain Temouchent,ain-temouchent,DZ046_ain-temouchent,,DZ046,عين تيموشنت,Aïn Témouchent,,,2,,35.297,-1.204
-DZ046_beni-saf,2,دائرة,Daira,بني صاف,Beni Saf,beni-saf,DZ046_beni-saf,,DZ046,عين تيموشنت,Aïn Témouchent,,,3,,35.78,1.047
-DZ046_el-amria,2,دائرة,Daira,العامرية,El Amria,el-amria,DZ046_el-amria,,DZ046,عين تيموشنت,Aïn Témouchent,,,5,,35.516,-1.085
-DZ046_el-maleh,2,دائرة,Daira,المالح,El Maleh,el-maleh,DZ046_el-maleh,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.386,-1.214
-DZ046_hammam-bou-hadjar,2,دائرة,Daira,حمام بوحجر,Hammam Bou Hadjar,hammam-bou-hadjar,DZ046_hammam-bou-hadjar,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.253,-0.985
-DZ046_oulhassa-gheraba,2,دائرة,Daira,ولهاصة الغرابة,Oulhassa Gheraba,oulhassa-gheraba,DZ046_oulhassa-gheraba,,DZ046,عين تيموشنت,Aïn Témouchent,,,2,,35.429,-0.732
-DZ047,1,ولاية,Wilaya,غرداية,Ghardaïa,ghardaa,DZ047,,,,,,8,10,,32.953,3.784
-DZ047_berriane,2,دائرة,Daira,بريان,Berriane,berriane,DZ047_berriane,,DZ047,غرداية,Ghardaïa,,,1,,32.892,3.753
-DZ047_bounoura,2,دائرة,Daira,بونورة,Bounoura,bounoura,DZ047_bounoura,,DZ047,غرداية,Ghardaïa,,,2,,32.522,3.621
-DZ047_dhayet-ben-dhahoua,2,دائرة,Daira,ضاية بن ضحوة,Dhayet Ben Dhahoua,dhayet-ben-dhahoua,DZ047_dhayet-ben-dhahoua,,DZ047,غرداية,Ghardaïa,,,1,,32.953,3.784
-DZ047_el-guerrara,2,دائرة,Daira,القرارة,El Guerrara,el-guerrara,DZ047_el-guerrara,,DZ047,غرداية,Ghardaïa,,,1,,32.78,4.555
-DZ047_ghardaia,2,دائرة,Daira,غرداية,Ghardaia,ghardaia,DZ047_ghardaia,,DZ047,غرداية,Ghardaïa,,,1,,32.602,3.721
-DZ047_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ047_mansourah,,DZ047,غرداية,Ghardaïa,,,1,,36.103,4.473
-DZ047_metlili,2,دائرة,Daira,متليلي,Metlili,metlili,DZ047_metlili,,DZ047,غرداية,Ghardaïa,,,2,,32.37,3.006
-DZ047_zelfana,2,دائرة,Daira,زلفانة,Zelfana,zelfana,DZ047_zelfana,,DZ047,غرداية,Ghardaïa,,,1,,32.411,4.296
-DZ048,1,ولاية,Wilaya,غليزان,Relizane,relizane,DZ048,,,,,,13,38,,35.839,0.911
-DZ048_ain-tarek,2,دائرة,Daira,عين طارق,Ain Tarek,ain-tarek,DZ048_ain-tarek,,DZ048,غليزان,Relizane,,,2,,35.776,1.168
-DZ048_ammi-moussa,2,دائرة,Daira,عمي موسى,Ammi Moussa,ammi-moussa,DZ048_ammi-moussa,,DZ048,غليزان,Relizane,,,4,,35.791,1.117
-DZ048_djidiouia,2,دائرة,Daira,جديوية,Djidiouia,djidiouia,DZ048_djidiouia,,DZ048,غليزان,Relizane,,,3,,35.96,0.748
-DZ048_el-hmadna,2,دائرة,Daira,الحمادنة,El H'madna,el-hmadna,DZ048_el-hmadna,,DZ048,غليزان,Relizane,,,2,,35.868,0.706
-DZ048_el-matmar,2,دائرة,Daira,المطمر,El Matmar,el-matmar,DZ048_el-matmar,,DZ048,غليزان,Relizane,,,4,,35.736,0.543
-DZ048_mazouna,2,دائرة,Daira,مازونة,Mazouna,mazouna,DZ048_mazouna,,DZ048,غليزان,Relizane,,,2,,36.097,0.86
-DZ048_mendes,2,دائرة,Daira,منداس,Mendes,mendes,DZ048_mendes,,DZ048,غليزان,Relizane,,,3,,35.611,0.852
-DZ048_oued-rhiou,2,دائرة,Daira,وادي رهيو,Oued Rhiou,oued-rhiou,DZ048_oued-rhiou,,DZ048,غليزان,Relizane,,,4,,35.969,0.918
-DZ048_ramka,2,دائرة,Daira,الرمكة,Ramka,ramka,DZ048_ramka,,DZ048,غليزان,Relizane,,,2,,35.897,1.296
-DZ048_relizane,2,دائرة,Daira,غليزان,Relizane,relizane,DZ048_relizane,,DZ048,غليزان,Relizane,,,2,,35.892,2.377
-DZ048_sidi-mhamed-ben-ali,2,دائرة,Daira,سيدي أمحمد بن علي,Sidi M'hamed Ben Ali,sidi-mhamed-ben-ali,DZ048_sidi-mhamed-ben-ali,,DZ048,غليزان,Relizane,,,3,,36.118,0.707
-DZ048_yellel,2,دائرة,Daira,يلل,Yellel,yellel,DZ048_yellel,,DZ048,غليزان,Relizane,,,4,,35.675,0.35
-DZ048_zemmoura,2,دائرة,Daira,زمورة,Zemmoura,zemmoura,DZ048_zemmoura,,DZ048,غليزان,Relizane,,,3,,35.792,0.829
-DZ049,1,ولاية,Wilaya,تيميمون,Timimoun,timimoun,DZ049,,,,,,4,10,,30.843,1.255
-DZ049_aougrout,2,دائرة,Daira,أوقروت,Aougrout,aougrout,DZ049_aougrout,,DZ049,تيميمون,Timimoun,,,3,,30.519,1.516
-DZ049_charouine,2,دائرة,Daira,شروين,Charouine,charouine,DZ049_charouine,,DZ049,تيميمون,Timimoun,,,3,,33.118,1.648
-DZ049_timimoun,2,دائرة,Daira,تيميمون,Timimoun,timimoun,DZ049_timimoun,,DZ049,تيميمون,Timimoun,,,2,,29.566,0.913
-DZ049_tinerkouk,2,دائرة,Daira,تنركوك,Tinerkouk,tinerkouk,DZ049_tinerkouk,,DZ049,تيميمون,Timimoun,,,2,,30.33,0.81
-DZ050,1,ولاية,Wilaya,برج باجي مختار,Bordj Badji Mokhtar,bordj-badji-mokhtar,DZ050,,,,,,1,2,,22.025,0.748
-DZ050_bordj-badji-mokhtar,2,دائرة,Daira,برج باجي مختار,Bordj Badji Mokhtar,bordj-badji-mokhtar,DZ050_bordj-badji-mokhtar,,DZ050,برج باجي مختار,Bordj Badji Mokhtar,,,2,,22.025,0.748
-DZ051,1,ولاية,Wilaya,أولاد جلال,Ouled Djellal,ouled-djellal,DZ051,,,,,,2,6,,35.5,4.012
-DZ051_ouled-djellal,2,دائرة,Daira,أولاد جلال,Ouled Djellal,ouled-djellal,DZ051_ouled-djellal,,DZ051,أولاد جلال,Ouled Djellal,,,3,,35.218,4.316
-DZ051_sidi-khaled,2,دائرة,Daira,سيدي  خالد,Sidi Khaled,sidi-khaled,DZ051_sidi-khaled,,DZ051,أولاد جلال,Ouled Djellal,,,3,,35.924,3.555
-DZ052,1,ولاية,Wilaya,بني عباس,Béni Abbès,bni-abbs,DZ052,,,,,,5,9,,29.887,-1.671
-DZ052_beni-abbes,2,دائرة,Daira,بني عباس,Beni Abbes,beni-abbes,DZ052_beni-abbes,,DZ052,بني عباس,Béni Abbès,,,2,,30.071,-2.58
-DZ052_el-ouata,2,دائرة,Daira,الواتة,El Ouata,el-ouata,DZ052_el-ouata,,DZ052,بني عباس,Béni Abbès,,,1,,30.121,-1.382
-DZ052_igli,2,دائرة,Daira,إقلي,Igli,igli,DZ052_igli,,DZ052,بني عباس,Béni Abbès,,,1,,30.479,-2.553
-DZ052_kerzaz,2,دائرة,Daira,كرزاز,Kerzaz,kerzaz,DZ052_kerzaz,,DZ052,بني عباس,Béni Abbès,,,3,,29.776,-1.222
-DZ052_ouled-khodeir,2,دائرة,Daira,أولاد خضير,Ouled Khodeir,ouled-khodeir,DZ052_ouled-khodeir,,DZ052,بني عباس,Béni Abbès,,,2,,29.099,-1.067
-DZ053,1,ولاية,Wilaya,عين صالح,In Salah,in-salah,DZ053,,,,,,2,3,,,
-DZ053_in-ghar,2,دائرة,Daira,إينغر,In Ghar,in-ghar,DZ053_in-ghar,,DZ053,عين صالح,In Salah,,,1,,,
-DZ053_in-salah,2,دائرة,Daira,عين صالح,In Salah,in-salah,DZ053_in-salah,,DZ053,عين صالح,In Salah,,,2,,,
-DZ054,1,ولاية,Wilaya,عين قزام,In Guezzam,in-guezzam,DZ054,,,,,,2,2,,,
-DZ054_in-guezzam,2,دائرة,Daira,عين قزام,In Guezzam,in-guezzam,DZ054_in-guezzam,,DZ054,عين قزام,In Guezzam,,,1,,,
-DZ054_tin-zouatine,2,دائرة,Daira,تين زواتين,Tin Zouatine,tin-zouatine,DZ054_tin-zouatine,,DZ054,عين قزام,In Guezzam,,,1,,,
-DZ055,1,ولاية,Wilaya,تقرت,Touggourt,touggourt,DZ055,,,,,,5,13,,33.312,5.693
-DZ055_el-hadjira,2,دائرة,Daira,الحجيرة,El-Hadjira,el-hadjira,DZ055_el-hadjira,,DZ055,تقرت,Touggourt,,,2,,32.749,5.835
-DZ055_megarine,2,دائرة,Daira,المقارين,Megarine,megarine,DZ055_megarine,,DZ055,تقرت,Touggourt,,,2,,34.531,3.841
-DZ055_taibet,2,دائرة,Daira,الطيبات,Taibet,taibet,DZ055_taibet,,DZ055,تقرت,Touggourt,,,3,,32.944,6.441
-DZ055_temacine,2,دائرة,Daira,تماسين,Temacine,temacine,DZ055_temacine,,DZ055,تقرت,Touggourt,,,2,,33.312,5.693
-DZ055_touggourt,2,دائرة,Daira,تقرت,Touggourt,touggourt,DZ055_touggourt,,DZ055,تقرت,Touggourt,,,4,,33.119,6.024
-DZ056,1,ولاية,Wilaya,جانت,Djanet,djanet,DZ056,,,,,,1,2,,23.78,10.135
-DZ056_djanet,2,دائرة,Daira,جانت,Djanet,djanet,DZ056_djanet,,DZ056,جانت,Djanet,,,2,,23.78,10.135
-DZ057,1,ولاية,Wilaya,المغير,El Meghaier,el-meghaier,DZ057,,,,,,2,8,,33.746,5.722
-DZ057_djamaa,2,دائرة,Daira,جامعة,Djamaa,djamaa,DZ057_djamaa,,DZ057,المغير,El Meghaier,,,4,,33.544,5.716
-DZ057_el-meghaier,2,دائرة,Daira,المغير,El Meghaier,el-meghaier,DZ057_el-meghaier,,DZ057,المغير,El Meghaier,,,4,,34.354,5.74
-DZ058,1,ولاية,Wilaya,المنيعة,El Menia,el-menia,DZ058,,,,,,2,3,,,
-DZ058_el-menia,2,دائرة,Daira,المنيعة,El Menia,el-menia,DZ058_el-menia,,DZ058,المنيعة,El Menia,,,2,,,
-DZ058_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ058_mansourah,,DZ058,المنيعة,El Menia,,,1,,,
+# Data from Open Admin Data (https://openadmindata.org/dz/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/algeria-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.wilaya,children_count.daira,children_count.commune,zip_codes,geo.lat,geo.lon,source_url
+DZ001,1,ولاية,Wilaya,أدرار,Adrar,adrar,DZ001,,,,,,6,16,,25.91,-1.916,https://openadmindata.org/dz/wilayas/adrar/
+DZ001_adrar,2,دائرة,Daira,أدرار,Adrar,adrar,DZ001_adrar,,DZ001,أدرار,Adrar,,,3,,27.98,-0.702,
+DZ001_aoulef,2,دائرة,Daira,أولف,Aoulef,aoulef,DZ001_aoulef,,DZ001,أدرار,Adrar,,,4,,26.826,1.16,
+DZ001_fenoughil,2,دائرة,Daira,فنوغيل,Fenoughil,fenoughil,DZ001_fenoughil,,DZ001,أدرار,Adrar,,,3,,27.529,-1.325,
+DZ001_reggane,2,دائرة,Daira,رقان,Reggane,reggane,DZ001_reggane,,DZ001,أدرار,Adrar,,,2,,26.061,-2.034,
+DZ001_tsabit,2,دائرة,Daira,تسابيت,Tsabit,tsabit,DZ001_tsabit,,DZ001,أدرار,Adrar,,,2,,28.467,-0.661,
+DZ001_zaouiat-kounta,2,دائرة,Daira,زاوية كنتة,Zaouiat Kounta,zaouiat-kounta,DZ001_zaouiat-kounta,,DZ001,أدرار,Adrar,,,2,,27.241,-1.332,
+DZ002,1,ولاية,Wilaya, الشلف,Chlef,chlef,DZ002,,,,,,13,35,,36.205,1.267,https://openadmindata.org/dz/wilayas/chlef/
+DZ002_abou-el-hassane,2,دائرة,Daira,أبو الحسن,Abou El Hassane,abou-el-hassane,DZ002_abou-el-hassane,,DZ002, الشلف,Chlef,,,3,,36.38,1.095,
+DZ002_ain-merane,2,دائرة,Daira,عين مران,Ain Merane,ain-merane,DZ002_ain-merane,,DZ002, الشلف,Chlef,,,2,,36.212,1.017,
+DZ002_beni-haoua,2,دائرة,Daira,بني حواء,Beni Haoua,beni-haoua,DZ002_beni-haoua,,DZ002, الشلف,Chlef,,,3,,36.472,1.566,
+DZ002_boukadir,2,دائرة,Daira,بوقادير,Boukadir,boukadir,DZ002_boukadir,,DZ002, الشلف,Chlef,,,3,,36.072,1.13,
+DZ002_chlef,2,دائرة,Daira,الشلف,Chlef,chlef,DZ002_chlef,,DZ002, الشلف,Chlef,,,3,,36.141,1.399,
+DZ002_el-karimia,2,دائرة,Daira,الكريمية,El Karimia,el-karimia,DZ002_el-karimia,,DZ002, الشلف,Chlef,,,3,,36.064,1.578,
+DZ002_el-marsa,2,دائرة,Daira,المرسى,El Marsa,el-marsa,DZ002_el-marsa,,DZ002, الشلف,Chlef,,,2,,36.681,4.155,
+DZ002_oued-fodda,2,دائرة,Daira,وادي الفضة,Oued Fodda,oued-fodda,DZ002_oued-fodda,,DZ002, الشلف,Chlef,,,3,,36.239,1.526,
+DZ002_ouled-ben-abdelkader,2,دائرة,Daira,أولاد بن عبد القادر,Ouled Ben Abdelkader,ouled-ben-abdelkader,DZ002_ouled-ben-abdelkader,,DZ002, الشلف,Chlef,,,2,,35.989,1.354,
+DZ002_ouled-fares,2,دائرة,Daira,أولاد فارس,Ouled Fares,ouled-fares,DZ002_ouled-fares,,DZ002, الشلف,Chlef,,,3,,36.207,1.233,
+DZ002_taougrit,2,دائرة,Daira,تاوقريت,Taougrit,taougrit,DZ002_taougrit,,DZ002, الشلف,Chlef,,,2,,36.279,0.79,
+DZ002_tenes,2,دائرة,Daira,تنس,Tenes,tenes,DZ002_tenes,,DZ002, الشلف,Chlef,,,3,,35.83,1.249,
+DZ002_zeboudja,2,دائرة,Daira,الزبوجة,Zeboudja,zeboudja,DZ002_zeboudja,,DZ002, الشلف,Chlef,,,3,,36.382,1.374,
+DZ003,1,ولاية,Wilaya,الأغواط,Laghouat,laghouat,DZ003,,,,,,10,24,,33.75,2.639,https://openadmindata.org/dz/wilayas/laghouat/
+DZ003_aflou,2,دائرة,Daira,أفلو,Aflou,aflou,DZ003_aflou,,DZ003,الأغواط,Laghouat,,,3,,34.181,2.084,
+DZ003_ain-madhi,2,دائرة,Daira,عين ماضي,Ain Madhi,ain-madhi,DZ003_ain-madhi,,DZ003,الأغواط,Laghouat,,,5,,33.606,2.449,
+DZ003_brida,2,دائرة,Daira,بريدة,Brida,brida,DZ003_brida,,DZ003,الأغواط,Laghouat,,,3,,33.998,1.66,
+DZ003_el-ghicha,2,دائرة,Daira,الغيشة,El Ghicha,el-ghicha,DZ003_el-ghicha,,DZ003,الأغواط,Laghouat,,,1,,33.877,2.134,
+DZ003_gueltat-sidi-saad,2,دائرة,Daira,قتلة سيدي سعيد,Gueltat Sidi Saad,gueltat-sidi-saad,DZ003_gueltat-sidi-saad,,DZ003,الأغواط,Laghouat,,,3,,34.22,1.7,
+DZ003_hassi-rmel,2,دائرة,Daira,حاسي الرمل,Hassi R'mel,hassi-rmel,DZ003_hassi-rmel,,DZ003,الأغواط,Laghouat,,,2,,33.141,3.27,
+DZ003_ksar-el-hirane,2,دائرة,Daira,قصر الحيران,Ksar El Hirane,ksar-el-hirane,DZ003_ksar-el-hirane,,DZ003,الأغواط,Laghouat,,,2,,33.707,3.221,
+DZ003_laghouat,2,دائرة,Daira,الأغواط,Laghouat,laghouat,DZ003_laghouat,,DZ003,الأغواط,Laghouat,,,1,,33.845,2.836,
+DZ003_oued-morra,2,دائرة,Daira,وادي مرة,Oued Morra,oued-morra,DZ003_oued-morra,,DZ003,الأغواط,Laghouat,,,2,,34.123,2.333,
+DZ003_sidi-makhlouf,2,دائرة,Daira,سيدي مخلوف,Sidi Makhlouf,sidi-makhlouf,DZ003_sidi-makhlouf,,DZ003,الأغواط,Laghouat,,,2,,33.989,2.977,
+DZ004,1,ولاية,Wilaya,أم البواقي,Oum El Bouaghi,oum-el-bouaghi,DZ004,,,,,,12,29,,35.813,7.017,https://openadmindata.org/dz/wilayas/oum-el-bouaghi/
+DZ004_ain-babouche,2,دائرة,Daira,عين ببوش,Ain Babouche,ain-babouche,DZ004_ain-babouche,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.999,7.098,
+DZ004_ain-beida,2,دائرة,Daira,عين البيضاء,Ain Beida,ain-beida,DZ004_ain-beida,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.854,7.367,
+DZ004_ain-fekroun,2,دائرة,Daira,عين فكرون,Ain Fekroun,ain-fekroun,DZ004_ain-fekroun,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.813,7.017,
+DZ004_ain-kercha,2,دائرة,Daira,عين كرشة,Ain Kercha,ain-kercha,DZ004_ain-kercha,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.904,6.689,
+DZ004_ain-mlila,2,دائرة,Daira,عين مليلة,Ain M'lila,ain-mlila,DZ004_ain-mlila,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,36.05,6.57,
+DZ004_dhalaa,2,دائرة,Daira,الضلعة,Dhalaa,dhalaa,DZ004_dhalaa,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.513,7.561,
+DZ004_fkirina,2,دائرة,Daira,فكيرينة,F'kirina,fkirina,DZ004_fkirina,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.647,7.365,
+DZ004_ksar-sbahi,2,دائرة,Daira,قصر الصباحي,Ksar Sbahi,ksar-sbahi,DZ004_ksar-sbahi,,DZ004,أم البواقي,Oum El Bouaghi,,,1,,36.066,7.256,
+DZ004_meskiana,2,دائرة,Daira,مسكيانة,Meskiana,meskiana,DZ004_meskiana,,DZ004,أم البواقي,Oum El Bouaghi,,,4,,35.705,7.714,
+DZ004_oum-el-bouaghi,2,دائرة,Daira,أم البواقي,Oum El Bouaghi,oum-el-bouaghi,DZ004_oum-el-bouaghi,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,35.778,7.107,
+DZ004_sigus,2,دائرة,Daira,سيقوس,Sigus,sigus,DZ004_sigus,,DZ004,أم البواقي,Oum El Bouaghi,,,2,,36.092,6.832,
+DZ004_souk-naamane,2,دائرة,Daira,سوق نعمان,Souk Naamane,souk-naamane,DZ004_souk-naamane,,DZ004,أم البواقي,Oum El Bouaghi,,,3,,35.911,6.384,
+DZ005,1,ولاية,Wilaya,باتنة,Batna,batna,DZ005,,,,,,21,61,,35.341,5.731,https://openadmindata.org/dz/wilayas/batna/
+DZ005_ain-djasser,2,دائرة,Daira,عين جاسر,Ain Djasser,ain-djasser,DZ005_ain-djasser,,DZ005,باتنة,Batna,,,2,,35.788,3.503,
+DZ005_ain-touta,2,دائرة,Daira,عين التوتة,Ain Touta,ain-touta,DZ005_ain-touta,,DZ005,باتنة,Batna,,,4,,35.376,5.902,
+DZ005_arris,2,دائرة,Daira,أريس,Arris,arris,DZ005_arris,,DZ005,باتنة,Batna,,,2,,35.252,6.309,
+DZ005_barika,2,دائرة,Daira,بريكة,Barika,barika,DZ005_barika,,DZ005,باتنة,Batna,,,3,,35.276,5.319,
+DZ005_batna,2,دائرة,Daira,باتنة,Batna,batna,DZ005_batna,,DZ005,باتنة,Batna,,,3,,35.575,6.141,
+DZ005_bouzina,2,دائرة,Daira,بوزينة,Bouzina,bouzina,DZ005_bouzina,,DZ005,باتنة,Batna,,,2,,35.597,3.784,
+DZ005_chemora,2,دائرة,Daira,الشمرة,Chemora,chemora,DZ005_chemora,,DZ005,باتنة,Batna,,,2,,35.633,6.608,
+DZ005_djezzar,2,دائرة,Daira,الجزار,Djezzar,djezzar,DZ005_djezzar,,DZ005,باتنة,Batna,,,3,,35.492,5.246,
+DZ005_el-madher,2,دائرة,Daira,المعذر,El Madher,el-madher,DZ005_el-madher,,DZ005,باتنة,Batna,,,4,,35.707,6.396,
+DZ005_ichemoul,2,دائرة,Daira,إشمول,Ichemoul,ichemoul,DZ005_ichemoul,,DZ005,باتنة,Batna,,,3,,35.349,6.49,
+DZ005_menaa,2,دائرة,Daira,منعة,Menaa,menaa,DZ005_menaa,,DZ005,باتنة,Batna,,,2,,35.108,4.848,
+DZ005_merouana,2,دائرة,Daira,مروانة,Merouana,merouana,DZ005_merouana,,DZ005,باتنة,Batna,,,4,,35.615,5.95,
+DZ005_ngaous,2,دائرة,Daira,نقاوس,N'gaous,ngaous,DZ005_ngaous,,DZ005,باتنة,Batna,,,3,,35.429,5.582,
+DZ005_ouled-si-slimane,2,دائرة,Daira,أولاد سي سليمان,Ouled Si Slimane,ouled-si-slimane,DZ005_ouled-si-slimane,,DZ005,باتنة,Batna,,,3,,35.567,5.742,
+DZ005_ras-el-aioun,2,دائرة,Daira,رأس العيون,Ras El Aioun,ras-el-aioun,DZ005_ras-el-aioun,,DZ005,باتنة,Batna,,,6,,35.688,5.574,
+DZ005_seggana,2,دائرة,Daira,سقانة,Seggana,seggana,DZ005_seggana,,DZ005,باتنة,Batna,,,2,,35.328,5.634,
+DZ005_seriana,2,دائرة,Daira,سريانة,Seriana,seriana,DZ005_seriana,,DZ005,باتنة,Batna,,,3,,35.764,6.235,
+DZ005_tazoult,2,دائرة,Daira,تازولت,Tazoult,tazoult,DZ005_tazoult,,DZ005,باتنة,Batna,,,2,,35.51,6.307,
+DZ005_theniet-el-abed,2,دائرة,Daira,ثنية العابد,Theniet El Abed,theniet-el-abed,DZ005_theniet-el-abed,,DZ005,باتنة,Batna,,,3,,35.321,6.263,
+DZ005_timgad,2,دائرة,Daira,تيمقاد,Timgad,timgad,DZ005_timgad,,DZ005,باتنة,Batna,,,2,,35.543,6.589,
+DZ005_tkout,2,دائرة,Daira,تكوت,Tkout,tkout,DZ005_tkout,,DZ005,باتنة,Batna,,,3,,35.033,6.36,
+DZ006,1,ولاية,Wilaya, بجاية,Béjaïa,bjaa,DZ006,,,,,,19,52,,36.575,4.791,https://openadmindata.org/dz/wilayas/bjaa/
+DZ006_adekar,2,دائرة,Daira,أدكار,Adekar,adekar,DZ006_adekar,,DZ006, بجاية,Béjaïa,,,3,,36.737,4.566,
+DZ006_akbou,2,دائرة,Daira,أقبو,Akbou,akbou,DZ006_akbou,,DZ006, بجاية,Béjaïa,,,4,,36.445,4.548,
+DZ006_amizour,2,دائرة,Daira,أميزور,Amizour,amizour,DZ006_amizour,,DZ006, بجاية,Béjaïa,,,4,,36.606,4.866,
+DZ006_aokas,2,دائرة,Daira,أوقاس,Aokas,aokas,DZ006_aokas,,DZ006, بجاية,Béjaïa,,,2,,36.606,5.237,
+DZ006_barbacha,2,دائرة,Daira,برباشة,Barbacha,barbacha,DZ006_barbacha,,DZ006, بجاية,Béjaïa,,,2,,36.564,4.991,
+DZ006_bejaia,2,دائرة,Daira,بجاية,Bejaia,bejaia,DZ006_bejaia,,DZ006, بجاية,Béjaïa,,,2,,36.745,5.007,
+DZ006_beni-maouche,2,دائرة,Daira,بني معوش,Beni Maouche,beni-maouche,DZ006_beni-maouche,,DZ006, بجاية,Béjaïa,,,1,,36.575,4.791,
+DZ006_chemini,2,دائرة,Daira,شميني,Chemini,chemini,DZ006_chemini,,DZ006, بجاية,Béjaïa,,,4,,36.615,4.63,
+DZ006_darguina,2,دائرة,Daira,درقينة,Darguina,darguina,DZ006_darguina,,DZ006, بجاية,Béjaïa,,,3,,36.557,5.295,
+DZ006_el-kseur,2,دائرة,Daira,القصر,El Kseur,el-kseur,DZ006_el-kseur,,DZ006, بجاية,Béjaïa,,,3,,36.755,4.845,
+DZ006_ifri-ouzellaguene,2,دائرة,Daira,إفري أوزلاقن,Ifri Ouzellaguene,ifri-ouzellaguene,DZ006_ifri-ouzellaguene,,DZ006, بجاية,Béjaïa,,,1,,36.549,4.578,
+DZ006_ighil-ali,2,دائرة,Daira,إغيل علي,Ighil Ali,ighil-ali,DZ006_ighil-ali,,DZ006, بجاية,Béjaïa,,,2,,36.34,4.522,
+DZ006_kherrata,2,دائرة,Daira,خراطة,Kherrata,kherrata,DZ006_kherrata,,DZ006, بجاية,Béjaïa,,,2,,36.474,5.286,
+DZ006_seddouk,2,دائرة,Daira,صدوق,Seddouk,seddouk,DZ006_seddouk,,DZ006, بجاية,Béjaïa,,,4,,36.486,4.659,
+DZ006_sidi-aich,2,دائرة,Daira,سيدي عيش,Sidi Aich,sidi-aich,DZ006_sidi-aich,,DZ006, بجاية,Béjaïa,,,5,,36.627,4.7,
+DZ006_souk-el-tenine,2,دائرة,Daira,سوق الإثنين,Souk El Tenine,souk-el-tenine,DZ006_souk-el-tenine,,DZ006, بجاية,Béjaïa,,,3,,36.601,4.939,
+DZ006_tazmalt,2,دائرة,Daira,تازملت,Tazmalt,tazmalt,DZ006_tazmalt,,DZ006, بجاية,Béjaïa,,,3,,36.362,4.42,
+DZ006_tichy,2,دائرة,Daira,تيشي,Tichy,tichy,DZ006_tichy,,DZ006, بجاية,Béjaïa,,,3,,36.667,5.046,
+DZ006_timezrit,2,دائرة,Daira,تيمزريت,Timezrit,timezrit,DZ006_timezrit,,DZ006, بجاية,Béjaïa,,,1,,36.666,3.79,
+DZ007,1,ولاية,Wilaya,بسكرة,Biskra,biskra,DZ007,,,,,,10,27,,34.323,4.714,https://openadmindata.org/dz/wilayas/biskra/
+DZ007_biskra,2,دائرة,Daira,بسكرة,Biskra,biskra,DZ007_biskra,,DZ007,بسكرة,Biskra,,,2,,34.852,5.726,
+DZ007_djemorah,2,دائرة,Daira,جمورة,Djemorah,djemorah,DZ007_djemorah,,DZ007,بسكرة,Biskra,,,2,,35.038,5.742,
+DZ007_el-kantara,2,دائرة,Daira,القنطرة,El Kantara,el-kantara,DZ007_el-kantara,,DZ007,بسكرة,Biskra,,,2,,35.189,5.764,
+DZ007_el-outaya,2,دائرة,Daira,الوطاية,El Outaya,el-outaya,DZ007_el-outaya,,DZ007,بسكرة,Biskra,,,1,,34.98,5.553,
+DZ007_foughala,2,دائرة,Daira,فوغالة,Foughala,foughala,DZ007_foughala,,DZ007,بسكرة,Biskra,,,2,,34.743,5.273,
+DZ007_mechouneche,2,دائرة,Daira,مشونش,Mechouneche,mechouneche,DZ007_mechouneche,,DZ007,بسكرة,Biskra,,,1,,34.909,6.001,
+DZ007_ourlal,2,دائرة,Daira,أورلال,Ourlal,ourlal,DZ007_ourlal,,DZ007,بسكرة,Biskra,,,5,,34.57,5.532,
+DZ007_sidi-okba,2,دائرة,Daira,سيدي عقبة,Sidi Okba,sidi-okba,DZ007_sidi-okba,,DZ007,بسكرة,Biskra,,,4,,34.714,5.985,
+DZ007_tolga,2,دائرة,Daira,طولقة,Tolga,tolga,DZ007_tolga,,DZ007,بسكرة,Biskra,,,4,,34.794,5.34,
+DZ007_zeribet-el-oued,2,دائرة,Daira,زريبة الوادي,Zeribet El Oued,zeribet-el-oued,DZ007_zeribet-el-oued,,DZ007,بسكرة,Biskra,,,4,,34.593,6.491,
+DZ008,1,ولاية,Wilaya,بشار,Béchar,bchar,DZ008,,,,,,7,12,,31.202,-2.453,https://openadmindata.org/dz/wilayas/bchar/
+DZ008_abadla,2,دائرة,Daira,العبادلة,Abadla,abadla,DZ008_abadla,,DZ008,بشار,Béchar,,,3,,30.965,-2.961,
+DZ008_bechar,2,دائرة,Daira,بشار,Bechar,bechar,DZ008_bechar,,DZ008,بشار,Béchar,,,1,,31.615,-1.92,
+DZ008_beni-ounif,2,دائرة,Daira,بني ونيف,Beni Ounif,beni-ounif,DZ008_beni-ounif,,DZ008,بشار,Béchar,,,1,,31.556,-0.904,
+DZ008_kenadsa,2,دائرة,Daira,القنادسة,Kenadsa,kenadsa,DZ008_kenadsa,,DZ008,بشار,Béchar,,,2,,31.522,-2.901,
+DZ008_lahmar,2,دائرة,Daira,لحمر,Lahmar,lahmar,DZ008_lahmar,,DZ008,بشار,Béchar,,,3,,31.917,-2.444,
+DZ008_tabelbala,2,دائرة,Daira,تبلبالة,Tabelbala,tabelbala,DZ008_tabelbala,,DZ008,بشار,Béchar,,,1,,28.961,-3.42,
+DZ008_taghit,2,دائرة,Daira,تاغيت,Taghit,taghit,DZ008_taghit,,DZ008,بشار,Béchar,,,1,,31.077,-1.677,
+DZ009,1,ولاية,Wilaya,البليدة,Blida,blida,DZ009,,,,,,10,25,,36.504,2.956,https://openadmindata.org/dz/wilayas/blida/
+DZ009_blida,2,دائرة,Daira,البليدة,Blida,blida,DZ009_blida,,DZ009,البليدة,Blida,,,2,,36.45,2.8,
+DZ009_boufarik,2,دائرة,Daira,بوفاريك,Boufarik,boufarik,DZ009_boufarik,,DZ009,البليدة,Blida,,,3,,36.192,3.529,
+DZ009_bougara,2,دائرة,Daira,بوقرة,Bougara,bougara,DZ009_bougara,,DZ009,البليدة,Blida,,,3,,36.032,2.558,
+DZ009_bouinan,2,دائرة,Daira,بوعينان,Bouinan,bouinan,DZ009_bouinan,,DZ009,البليدة,Blida,,,2,,36.546,3.004,
+DZ009_el-affroun,2,دائرة,Daira,العفرون,El Affroun,el-affroun,DZ009_el-affroun,,DZ009,البليدة,Blida,,,2,,36.438,2.582,
+DZ009_larbaa,2,دائرة,Daira,الأربعاء,Larbaa,larbaa,DZ009_larbaa,,DZ009,البليدة,Blida,,,2,,36.222,2.356,
+DZ009_meftah,2,دائرة,Daira,مفتاح,Meftah,meftah,DZ009_meftah,,DZ009,البليدة,Blida,,,2,,36.606,3.244,
+DZ009_mouzaia,2,دائرة,Daira,موزاية,Mouzaia,mouzaia,DZ009_mouzaia,,DZ009,البليدة,Blida,,,3,,36.449,2.693,
+DZ009_oued-el-alleug,2,دائرة,Daira,وادي العلايق,Oued El Alleug,oued-el-alleug,DZ009_oued-el-alleug,,DZ009,البليدة,Blida,,,3,,36.549,2.795,
+DZ009_ouled-yaich,2,دائرة,Daira,أولاد يعيش,Ouled Yaich,ouled-yaich,DZ009_ouled-yaich,,DZ009,البليدة,Blida,,,3,,36.257,2.238,
+DZ010,1,ولاية,Wilaya,البويرة,Bouira,bouira,DZ010,,,,,,12,45,,36.233,3.908,https://openadmindata.org/dz/wilayas/bouira/
+DZ010_ain-bessem,2,دائرة,Daira,عين بسام,Ain Bessem,ain-bessem,DZ010_ain-bessem,,DZ010,البويرة,Bouira,,,3,,35.536,1.885,
+DZ010_bechloul,2,دائرة,Daira,بشلول,Bechloul,bechloul,DZ010_bechloul,,DZ010,البويرة,Bouira,,,5,,36.315,4.082,
+DZ010_bir-ghbalou,2,دائرة,Daira,بئر غبالو,Bir Ghbalou,bir-ghbalou,DZ010_bir-ghbalou,,DZ010,البويرة,Bouira,,,3,,36.268,3.602,
+DZ010_bordj-okhriss,2,دائرة,Daira,برج أوخريص,Bordj Okhriss,bordj-okhriss,DZ010_bordj-okhriss,,DZ010,البويرة,Bouira,,,4,,36.012,3.941,
+DZ010_bouira,2,دائرة,Daira,البويرة,Bouira,bouira,DZ010_bouira,,DZ010,البويرة,Bouira,,,3,,36.187,2.332,
+DZ010_el-hachimia,2,دائرة,Daira,الهاشمية,El Hachimia,el-hachimia,DZ010_el-hachimia,,DZ010,البويرة,Bouira,,,2,,36.242,3.864,
+DZ010_haizer,2,دائرة,Daira,الحيزر,Haizer,haizer,DZ010_haizer,,DZ010,البويرة,Bouira,,,2,,34.954,5.298,
+DZ010_kadiria,2,دائرة,Daira,القادرية,Kadiria,kadiria,DZ010_kadiria,,DZ010,البويرة,Bouira,,,3,,36.498,3.704,
+DZ010_lakhdaria,2,دائرة,Daira,الأخضرية,Lakhdaria,lakhdaria,DZ010_lakhdaria,,DZ010,البويرة,Bouira,,,6,,36.524,3.49,
+DZ010_mchedallah,2,دائرة,Daira,مشد الله,M'chedallah,mchedallah,DZ010_mchedallah,,DZ010,البويرة,Bouira,,,6,,36.171,3.385,
+DZ010_souk-el-khemis,2,دائرة,Daira,سوق الخميس,Souk El Khemis,souk-el-khemis,DZ010_souk-el-khemis,,DZ010,البويرة,Bouira,,,2,,36.413,3.622,
+DZ010_sour-el-ghozlane,2,دائرة,Daira,سور الغزلان,Sour El Ghozlane,sour-el-ghozlane,DZ010_sour-el-ghozlane,,DZ010,البويرة,Bouira,,,6,,35.848,3.133,
+DZ011,1,ولاية,Wilaya,تمنراست,Tamanrasset,tamanrasset,DZ011,,,,,,3,5,,24.355,4.451,https://openadmindata.org/dz/wilayas/tamanrasset/
+DZ011_silet,2,دائرة,Daira,سيلت,Silet,silet,DZ011_silet,,DZ011,تمنراست,Tamanrasset,,,1,,24.355,4.451,
+DZ011_tamanrasset,2,دائرة,Daira,تمنراست,Tamanrasset,tamanrasset,DZ011_tamanrasset,,DZ011,تمنراست,Tamanrasset,,,2,,22.271,5.775,
+DZ011_tazrouk,2,دائرة,Daira,تاظروك,Tazrouk,tazrouk,DZ011_tazrouk,,DZ011,تمنراست,Tamanrasset,,,2,,24.017,7.045,
+DZ012,1,ولاية,Wilaya,تبسة,Tébessa,tbessa,DZ012,,,,,,12,28,,35.284,7.944,https://openadmindata.org/dz/wilayas/tbessa/
+DZ012_bir-el-ater,2,دائرة,Daira,بئر العاتر,Bir El Ater,bir-el-ater,DZ012_bir-el-ater,,DZ012,تبسة,Tébessa,,,2,,34.913,8.017,
+DZ012_bir-mokadem,2,دائرة,Daira,بئر مقدم,Bir Mokadem,bir-mokadem,DZ012_bir-mokadem,,DZ012,تبسة,Tébessa,,,3,,35.476,7.954,
+DZ012_cheria,2,دائرة,Daira,الشريعة,Cheria,cheria,DZ012_cheria,,DZ012,تبسة,Tébessa,,,2,,35.251,7.771,
+DZ012_el-aouinet,2,دائرة,Daira,العوينات,El Aouinet,el-aouinet,DZ012_el-aouinet,,DZ012,تبسة,Tébessa,,,2,,35.83,7.992,
+DZ012_el-kouif,2,دائرة,Daira,الكويف,El Kouif,el-kouif,DZ012_el-kouif,,DZ012,تبسة,Tébessa,,,3,,35.468,8.21,
+DZ012_el-malabiod,2,دائرة,Daira,الماء الابيض,El Malabiod,el-malabiod,DZ012_el-malabiod,,DZ012,تبسة,Tébessa,,,2,,35.24,8.336,
+DZ012_el-ogla,2,دائرة,Daira,العقلة,El Ogla,el-ogla,DZ012_el-ogla,,DZ012,تبسة,Tébessa,,,4,,35.14,7.475,
+DZ012_morsott,2,دائرة,Daira,مرسط,Morsott,morsott,DZ012_morsott,,DZ012,تبسة,Tébessa,,,2,,35.562,7.915,
+DZ012_negrine,2,دائرة,Daira,نقرين,Negrine,negrine,DZ012_negrine,,DZ012,تبسة,Tébessa,,,2,,34.446,7.505,
+DZ012_ouenza,2,دائرة,Daira,الونزة,Ouenza,ouenza,DZ012_ouenza,,DZ012,تبسة,Tébessa,,,3,,35.728,8.22,
+DZ012_oum-ali,2,دائرة,Daira,أم علي,Oum Ali,oum-ali,DZ012_oum-ali,,DZ012,تبسة,Tébessa,,,2,,35.087,8.294,
+DZ012_tebessa,2,دائرة,Daira,تبسة,Tebessa,tebessa,DZ012_tebessa,,DZ012,تبسة,Tébessa,,,1,,35.403,8.091,
+DZ013,1,ولاية,Wilaya,تلمسان,Tlemcen,tlemcen,DZ013,,,,,,20,53,,34.673,-1.299,https://openadmindata.org/dz/wilayas/tlemcen/
+DZ013_ain-tellout,2,دائرة,Daira,عين تالوت,Ain Tellout,ain-tellout,DZ013_ain-tellout,,DZ013,تلمسان,Tlemcen,,,2,,35.035,-0.988,
+DZ013_bab-el-assa,2,دائرة,Daira,باب العسة,Bab El Assa,bab-el-assa,DZ013_bab-el-assa,,DZ013,تلمسان,Tlemcen,,,3,,34.954,-1.972,
+DZ013_beni-boussaid,2,دائرة,Daira,بني بوسعيد,Beni Boussaid,beni-boussaid,DZ013_beni-boussaid,,DZ013,تلمسان,Tlemcen,,,2,,34.697,-1.681,
+DZ013_beni-snous,2,دائرة,Daira,بني سنوس,Beni Snous,beni-snous,DZ013_beni-snous,,DZ013,تلمسان,Tlemcen,,,3,,34.671,-1.533,
+DZ013_bensekrane,2,دائرة,Daira,بن سكران,Bensekrane,bensekrane,DZ013_bensekrane,,DZ013,تلمسان,Tlemcen,,,2,,35.081,-1.159,
+DZ013_chetouane,2,دائرة,Daira,شتوان,Chetouane,chetouane,DZ013_chetouane,,DZ013,تلمسان,Tlemcen,,,3,,34.944,-1.25,
+DZ013_fellaoucene,2,دائرة,Daira,فلاوسن,Fellaoucene,fellaoucene,DZ013_fellaoucene,,DZ013,تلمسان,Tlemcen,,,3,,35.007,-1.634,
+DZ013_ghazaouet,2,دائرة,Daira,الغزوات,Ghazaouet,ghazaouet,DZ013_ghazaouet,,DZ013,تلمسان,Tlemcen,,,4,,35.058,-1.879,
+DZ013_hennaya,2,دائرة,Daira,الحناية,Hennaya,hennaya,DZ013_hennaya,,DZ013,تلمسان,Tlemcen,,,3,,34.993,-1.478,
+DZ013_honnaine,2,دائرة,Daira,هنين,Honnaine,honnaine,DZ013_honnaine,,DZ013,تلمسان,Tlemcen,,,2,,35.184,-1.588,
+DZ013_maghnia,2,دائرة,Daira,مغنية,Maghnia,maghnia,DZ013_maghnia,,DZ013,تلمسان,Tlemcen,,,2,,34.882,-1.746,
+DZ013_mansourah,2,دائرة,Daira,منصورة,Mansourah,mansourah,DZ013_mansourah,,DZ013,تلمسان,Tlemcen,,,4,,34.835,-1.394,
+DZ013_marsa-ben-mehdi,2,دائرة,Daira,مرسى بن مهيدي,Marsa Ben Mehdi,marsa-ben-mehdi,DZ013_marsa-ben-mehdi,,DZ013,تلمسان,Tlemcen,,,2,,35.023,-2.088,
+DZ013_nedroma,2,دائرة,Daira,ندرومة,Nedroma,nedroma,DZ013_nedroma,,DZ013,تلمسان,Tlemcen,,,2,,35.005,-1.791,
+DZ013_ouled-mimoun,2,دائرة,Daira,أولاد ميمون,Ouled Mimoun,ouled-mimoun,DZ013_ouled-mimoun,,DZ013,تلمسان,Tlemcen,,,3,,34.901,-1.045,
+DZ013_remchi,2,دائرة,Daira,الرمشي,Remchi,remchi,DZ013_remchi,,DZ013,تلمسان,Tlemcen,,,5,,35.106,-1.423,
+DZ013_sabra,2,دائرة,Daira,صبرة,Sabra,sabra,DZ013_sabra,,DZ013,تلمسان,Tlemcen,,,2,,34.831,-1.569,
+DZ013_sebdou,2,دائرة,Daira,سبدو,Sebdou,sebdou,DZ013_sebdou,,DZ013,تلمسان,Tlemcen,,,3,,34.53,-1.18,
+DZ013_sidi-djillali,2,دائرة,Daira,سيدي الجيلالي,Sidi Djillali,sidi-djillali,DZ013_sidi-djillali,,DZ013,تلمسان,Tlemcen,,,2,,34.421,-1.499,
+DZ013_tlemcen,2,دائرة,Daira,تلمسان,Tlemcen,tlemcen,DZ013_tlemcen,,DZ013,تلمسان,Tlemcen,,,1,,34.898,-1.316,
+DZ014,1,ولاية,Wilaya,تيارت,Tiaret,tiaret,DZ014,,,,,,14,42,,34.897,1.591,https://openadmindata.org/dz/wilayas/tiaret/
+DZ014_ain-deheb,2,دائرة,Daira,عين الذهب,Ain Deheb,ain-deheb,DZ014_ain-deheb,,DZ014,تيارت,Tiaret,,,3,,34.659,1.568,
+DZ014_ain-kermes,2,دائرة,Daira,عين كرمس,Ain Kermes,ain-kermes,DZ014_ain-kermes,,DZ014,تيارت,Tiaret,,,5,,34.786,1.014,
+DZ014_dahmouni,2,دائرة,Daira,دحموني,Dahmouni,dahmouni,DZ014_dahmouni,,DZ014,تيارت,Tiaret,,,2,,35.393,1.453,
+DZ014_frenda,2,دائرة,Daira,فرندة,Frenda,frenda,DZ014_frenda,,DZ014,تيارت,Tiaret,,,3,,35.11,0.952,
+DZ014_hamadia,2,دائرة,Daira,حمادية,Hamadia,hamadia,DZ014_hamadia,,DZ014,تيارت,Tiaret,,,3,,35.448,1.995,
+DZ014_ksar-chellala,2,دائرة,Daira,قصر الشلالة,Ksar Chellala,ksar-chellala,DZ014_ksar-chellala,,DZ014,تيارت,Tiaret,,,3,,35.23,2.415,
+DZ014_mahdia,2,دائرة,Daira,مهدية,Mahdia,mahdia,DZ014_mahdia,,DZ014,تيارت,Tiaret,,,4,,35.379,1.751,
+DZ014_mechraa-sfa,2,دائرة,Daira,مشرع الصفا,Mechraa Sfa,mechraa-sfa,DZ014_mechraa-sfa,,DZ014,تيارت,Tiaret,,,3,,35.356,0.896,
+DZ014_medroussa,2,دائرة,Daira,مدروسة,Medroussa,medroussa,DZ014_medroussa,,DZ014,تيارت,Tiaret,,,3,,35.222,1.142,
+DZ014_meghila,2,دائرة,Daira,مغيلة,Meghila,meghila,DZ014_meghila,,DZ014,تيارت,Tiaret,,,3,,35.596,1.439,
+DZ014_oued-lili,2,دائرة,Daira,وادي ليلي,Oued Lili,oued-lili,DZ014_oued-lili,,DZ014,تيارت,Tiaret,,,3,,35.573,1.233,
+DZ014_rahouia,2,دائرة,Daira,رحوية,Rahouia,rahouia,DZ014_rahouia,,DZ014,تيارت,Tiaret,,,2,,35.492,1.091,
+DZ014_sougueur,2,دائرة,Daira,السوقر,Sougueur,sougueur,DZ014_sougueur,,DZ014,تيارت,Tiaret,,,4,,35.073,1.568,
+DZ014_tiaret,2,دائرة,Daira,تيارت,Tiaret,tiaret,DZ014_tiaret,,DZ014,تيارت,Tiaret,,,1,,35.349,1.332,
+DZ015,1,ولاية,Wilaya,تيزي وزو,Tizi Ouzou,tizi-ouzou,DZ015,,,,,,21,67,,36.683,4.239,https://openadmindata.org/dz/wilayas/tizi-ouzou/
+DZ015_ain-el-hammam,2,دائرة,Daira,عين الحمام,Ain El Hammam,ain-el-hammam,DZ015_ain-el-hammam,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.553,4.32,
+DZ015_azazga,2,دائرة,Daira,عزازقة,Azazga,azazga,DZ015_azazga,,DZ015,تيزي وزو,Tizi Ouzou,,,5,,36.742,4.423,
+DZ015_azeffoun,2,دائرة,Daira,أزفون,Azeffoun,azeffoun,DZ015_azeffoun,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.84,4.421,
+DZ015_beni-douala,2,دائرة,Daira,بني دوالة,Beni Douala,beni-douala,DZ015_beni-douala,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.635,4.083,
+DZ015_benni-yenni,2,دائرة,Daira,بني يني,Benni Yenni,benni-yenni,DZ015_benni-yenni,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.581,4.201,
+DZ015_boghni,2,دائرة,Daira,بوغني,Boghni,boghni,DZ015_boghni,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.505,3.978,
+DZ015_bouzeguene,2,دائرة,Daira,بوزقن,Bouzeguene,bouzeguene,DZ015_bouzeguene,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.677,4.538,
+DZ015_draa-ben-khedda,2,دائرة,Daira,ذراع بن خدة,Draa Ben Khedda,draa-ben-khedda,DZ015_draa-ben-khedda,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.705,3.936,
+DZ015_draa-el-mizan,2,دائرة,Daira,ذراع الميزان,Draa El Mizan,draa-el-mizan,DZ015_draa-el-mizan,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.568,3.872,
+DZ015_iferhounene,2,دائرة,Daira,إفرحونان,Iferhounene,iferhounene,DZ015_iferhounene,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.54,4.389,
+DZ015_larbaa-nath-iraten,2,دائرة,Daira,الأربعاء ناث إيراثن,Larbaa Nath Iraten,larbaa-nath-iraten,DZ015_larbaa-nath-iraten,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.648,4.197,
+DZ015_maatkas,2,دائرة,Daira,معاتقة,Maatkas,maatkas,DZ015_maatkas,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.605,4.015,
+DZ015_makouda,2,دائرة,Daira,ماكودة,Makouda,makouda,DZ015_makouda,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.802,4.105,
+DZ015_mekla,2,دائرة,Daira,مقلع,Mekla,mekla,DZ015_mekla,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.679,4.267,
+DZ015_ouacif,2,دائرة,Daira,واسيف,Ouacif,ouacif,DZ015_ouacif,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.514,4.193,
+DZ015_ouadhias,2,دائرة,Daira,واضية,Ouadhias,ouadhias,DZ015_ouadhias,,DZ015,تيزي وزو,Tizi Ouzou,,,4,,36.683,4.239,
+DZ015_ouaguenoun,2,دائرة,Daira,واقنون,Ouaguenoun,ouaguenoun,DZ015_ouaguenoun,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.772,4.177,
+DZ015_tigzirt,2,دائرة,Daira,تيقزيرت,Tigzirt,tigzirt,DZ015_tigzirt,,DZ015,تيزي وزو,Tizi Ouzou,,,3,,36.867,4.15,
+DZ015_tizi-ghenif,2,دائرة,Daira,تيزي غنيف,Tizi-Ghenif,tizi-ghenif,DZ015_tizi-ghenif,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.634,3.784,
+DZ015_tizi-ouzou,2,دائرة,Daira,تيزي وزو,Tizi Ouzou,tizi-ouzou,DZ015_tizi-ouzou,,DZ015,تيزي وزو,Tizi Ouzou,,,1,,36.702,4.056,
+DZ015_tizi-rached,2,دائرة,Daira,تيزي راشد,Tizi Rached,tizi-rached,DZ015_tizi-rached,,DZ015,تيزي وزو,Tizi Ouzou,,,2,,36.674,4.21,
+DZ016,1,ولاية,Wilaya,الجزائر,Alger,alger,DZ016,,,,,,13,57,,36.702,3.032,https://openadmindata.org/dz/wilayas/alger/
+DZ016_bab-el-oued,2,دائرة,Daira,باب الوادي,Bab El Oued,bab-el-oued,DZ016_bab-el-oued,,DZ016,الجزائر,Alger,,,5,,36.794,3.04,
+DZ016_baraki,2,دائرة,Daira,براقي,Baraki,baraki,DZ016_baraki,,DZ016,الجزائر,Alger,,,3,,36.653,3.122,
+DZ016_bir-mourad-rais,2,دائرة,Daira,بئر مراد رايس,Bir Mourad Rais,bir-mourad-rais,DZ016_bir-mourad-rais,,DZ016,الجزائر,Alger,,,5,,36.739,3.039,
+DZ016_birtouta,2,دائرة,Daira,بئر توتة,Birtouta,birtouta,DZ016_birtouta,,DZ016,الجزائر,Alger,,,3,,36.612,2.994,
+DZ016_bouzareah,2,دائرة,Daira,بوزريعة,Bouzareah,bouzareah,DZ016_bouzareah,,DZ016,الجزائر,Alger,,,4,,36.777,3.007,
+DZ016_cheraga,2,دائرة,Daira,الشراقة,Cheraga,cheraga,DZ016_cheraga,,DZ016,الجزائر,Alger,,,5,,36.392,5.014,
+DZ016_dar-el-beida,2,دائرة,Daira,الدار البيضاء,Dar El Beida,dar-el-beida,DZ016_dar-el-beida,,DZ016,الجزائر,Alger,,,7,,36.623,3.361,
+DZ016_draria,2,دائرة,Daira,الدرارية,Draria,draria,DZ016_draria,,DZ016,الجزائر,Alger,,,5,,36.703,2.986,
+DZ016_el-harrach,2,دائرة,Daira,الحراش,El Harrach,el-harrach,DZ016_el-harrach,,DZ016,الجزائر,Alger,,,4,,36.714,3.153,
+DZ016_hussein-dey,2,دائرة,Daira,حسين داي,Hussein Dey,hussein-dey,DZ016_hussein-dey,,DZ016,الجزائر,Alger,,,4,,36.733,3.097,
+DZ016_rouiba,2,دائرة,Daira,الرويبة,Rouiba,rouiba,DZ016_rouiba,,DZ016,الجزائر,Alger,,,3,,36.746,3.32,
+DZ016_sidi-mhamed,2,دائرة,Daira,سيدي امحمد,Sidi M'hamed,sidi-mhamed,DZ016_sidi-mhamed,,DZ016,الجزائر,Alger,,,4,,36.091,3.48,
+DZ016_zeralda,2,دائرة,Daira,زرالدة,Zeralda,zeralda,DZ016_zeralda,,DZ016,الجزائر,Alger,,,5,,36.709,2.88,
+DZ017,1,ولاية,Wilaya,الجلفة,Djelfa,djelfa,DZ017,,,,,,12,36,,34.347,3.212,https://openadmindata.org/dz/wilayas/djelfa/
+DZ017_ain-el-ibel,2,دائرة,Daira,عين الإبل,Ain El Ibel,ain-el-ibel,DZ017_ain-el-ibel,,DZ017,الجلفة,Djelfa,,,4,,34.431,3.184,
+DZ017_ain-oussera,2,دائرة,Daira,عين وسارة,Ain Oussera,ain-oussera,DZ017_ain-oussera,,DZ017,الجلفة,Djelfa,,,2,,35.172,2.785,
+DZ017_birine,2,دائرة,Daira,بيرين,Birine,birine,DZ017_birine,,DZ017,الجلفة,Djelfa,,,2,,35.579,3.155,
+DZ017_charef,2,دائرة,Daira,الشارف,Charef,charef,DZ017_charef,,DZ017,الجلفة,Djelfa,,,3,,34.576,2.725,
+DZ017_dar-chioukh,2,دائرة,Daira,دار الشيوخ,Dar Chioukh,dar-chioukh,DZ017_dar-chioukh,,DZ017,الجلفة,Djelfa,,,3,,34.952,3.458,
+DZ017_djelfa,2,دائرة,Daira,الجلفة,Djelfa,djelfa,DZ017_djelfa,,DZ017,الجلفة,Djelfa,,,1,,34.672,3.208,
+DZ017_el-idrissia,2,دائرة,Daira,الادريسية,El Idrissia,el-idrissia,DZ017_el-idrissia,,DZ017,الجلفة,Djelfa,,,3,,34.305,2.611,
+DZ017_faidh-el-botma,2,دائرة,Daira,فيض البطمة,Faidh El Botma,faidh-el-botma,DZ017_faidh-el-botma,,DZ017,الجلفة,Djelfa,,,3,,33.668,4.45,
+DZ017_had-sahary,2,دائرة,Daira,حد الصحاري,Had Sahary,had-sahary,DZ017_had-sahary,,DZ017,الجلفة,Djelfa,,,3,,35.331,3.345,
+DZ017_hassi-bahbah,2,دائرة,Daira,حاسي بحبح,Hassi Bahbah,hassi-bahbah,DZ017_hassi-bahbah,,DZ017,الجلفة,Djelfa,,,4,,34.93,3.054,
+DZ017_messaad,2,دائرة,Daira,مسعد,Messaad,messaad,DZ017_messaad,,DZ017,الجلفة,Djelfa,,,5,,33.856,3.711,
+DZ017_sidi-laadjel,2,دائرة,Daira,سيدي لعجال,Sidi Laadjel,sidi-laadjel,DZ017_sidi-laadjel,,DZ017,الجلفة,Djelfa,,,3,,35.395,2.58,
+DZ018,1,ولاية,Wilaya,جيجل,Jijel,jijel,DZ018,,,,,,11,28,,36.731,5.961,https://openadmindata.org/dz/wilayas/jijel/
+DZ018_chekfa,2,دائرة,Daira,الشقفة,Chekfa,chekfa,DZ018_chekfa,,DZ018,جيجل,Jijel,,,4,,36.803,6.004,
+DZ018_djimla,2,دائرة,Daira,جيملة,Djimla,djimla,DZ018_djimla,,DZ018,جيجل,Jijel,,,2,,36.731,5.961,
+DZ018_el-ancer,2,دائرة,Daira,العنصر,El Ancer,el-ancer,DZ018_el-ancer,,DZ018,جيجل,Jijel,,,4,,36.767,6.126,
+DZ018_el-aouana,2,دائرة,Daira,العوانة,El Aouana,el-aouana,DZ018_el-aouana,,DZ018,جيجل,Jijel,,,2,,36.742,5.634,
+DZ018_el-milia,2,دائرة,Daira,الميلية,El Milia,el-milia,DZ018_el-milia,,DZ018,جيجل,Jijel,,,2,,36.807,6.289,
+DZ018_jijel,2,دائرة,Daira,جيجل,Jijel,jijel,DZ018_jijel,,DZ018,جيجل,Jijel,,,1,,36.798,5.745,
+DZ018_settara,2,دائرة,Daira,السطارة,Settara,settara,DZ018_settara,,DZ018,جيجل,Jijel,,,2,,36.707,6.363,
+DZ018_sidi-marouf,2,دائرة,Daira,سيدي معروف,Sidi Marouf,sidi-marouf,DZ018_sidi-marouf,,DZ018,جيجل,Jijel,,,2,,36.627,6.176,
+DZ018_taher,2,دائرة,Daira,الطاهير,Taher,taher,DZ018_taher,,DZ018,جيجل,Jijel,,,5,,36.719,5.899,
+DZ018_texenna,2,دائرة,Daira,تاكسنة,Texenna,texenna,DZ018_texenna,,DZ018,جيجل,Jijel,,,2,,36.717,5.771,
+DZ018_ziamah-mansouriah,2,دائرة,Daira,زيامة منصورية,Ziamah Mansouriah,ziamah-mansouriah,DZ018_ziamah-mansouriah,,DZ018,جيجل,Jijel,,,2,,36.731,5.961,
+DZ019,1,ولاية,Wilaya,سطيف,Sétif,stif,DZ019,,,,,,20,60,,36.23,5.41,https://openadmindata.org/dz/wilayas/stif/
+DZ019_ain-arnat,2,دائرة,Daira,عين أرنات,Ain Arnat,ain-arnat,DZ019_ain-arnat,,DZ019,سطيف,Sétif,,,4,,36.217,5.317,
+DZ019_ain-azel,2,دائرة,Daira,عين أزال,Ain Azel,ain-azel,DZ019_ain-azel,,DZ019,سطيف,Sétif,,,4,,35.923,5.562,
+DZ019_ain-el-kebira,2,دائرة,Daira,عين الكبيرة,Ain El Kebira,ain-el-kebira,DZ019_ain-el-kebira,,DZ019,سطيف,Sétif,,,3,,36.366,5.532,
+DZ019_ain-oulmene,2,دائرة,Daira,عين ولمان,Ain Oulmene,ain-oulmene,DZ019_ain-oulmene,,DZ019,سطيف,Sétif,,,4,,36.039,5.28,
+DZ019_amoucha,2,دائرة,Daira,عموشة,Amoucha,amoucha,DZ019_amoucha,,DZ019,سطيف,Sétif,,,3,,36.438,5.397,
+DZ019_babor,2,دائرة,Daira,بابور,Babor,babor,DZ019_babor,,DZ019,سطيف,Sétif,,,2,,36.491,5.559,
+DZ019_beni-aziz,2,دائرة,Daira,بني عزيز,Beni Aziz,beni-aziz,DZ019_beni-aziz,,DZ019,سطيف,Sétif,,,3,,36.451,5.697,
+DZ019_beni-ourtilane,2,دائرة,Daira,بني ورتيلان,Beni Ourtilane,beni-ourtilane,DZ019_beni-ourtilane,,DZ019,سطيف,Sétif,,,4,,36.493,4.905,
+DZ019_bir-el-arch,2,دائرة,Daira,بئر العرش,Bir El Arch,bir-el-arch,DZ019_bir-el-arch,,DZ019,سطيف,Sétif,,,4,,36.198,5.805,
+DZ019_bouandas,2,دائرة,Daira,بوعنداس,Bouandas,bouandas,DZ019_bouandas,,DZ019,سطيف,Sétif,,,4,,36.513,5.09,
+DZ019_bougaa,2,دائرة,Daira,بوقاعة,Bougaa,bougaa,DZ019_bougaa,,DZ019,سطيف,Sétif,,,3,,36.333,5.161,
+DZ019_djemila,2,دائرة,Daira,جميلة,Djemila,djemila,DZ019_djemila,,DZ019,سطيف,Sétif,,,2,,36.317,5.659,
+DZ019_el-eulma,2,دائرة,Daira,العلمة,El Eulma,el-eulma,DZ019_el-eulma,,DZ019,سطيف,Sétif,,,3,,36.126,5.688,
+DZ019_guenzet,2,دائرة,Daira,قنزات,Guenzet,guenzet,DZ019_guenzet,,DZ019,سطيف,Sétif,,,2,,36.349,4.925,
+DZ019_guidjel,2,دائرة,Daira,قجال,Guidjel,guidjel,DZ019_guidjel,,DZ019,سطيف,Sétif,,,2,,36.134,5.517,
+DZ019_hammam-guergour,2,دائرة,Daira,حمام قرقور,Hammam Guergour,hammam-guergour,DZ019_hammam-guergour,,DZ019,سطيف,Sétif,,,2,,36.387,5.016,
+DZ019_hammam-sokhna,2,دائرة,Daira,حمام السخنة,Hammam Sokhna,hammam-sokhna,DZ019_hammam-sokhna,,DZ019,سطيف,Sétif,,,3,,35.946,5.829,
+DZ019_maoklane,2,دائرة,Daira,ماوكلان,Maoklane,maoklane,DZ019_maoklane,,DZ019,سطيف,Sétif,,,2,,36.455,5.119,
+DZ019_salah-bey,2,دائرة,Daira,صالح باي,Salah Bey,salah-bey,DZ019_salah-bey,,DZ019,سطيف,Sétif,,,5,,35.755,5.269,
+DZ019_setif,2,دائرة,Daira,سطيف,Setif,setif,DZ019_setif,,DZ019,سطيف,Sétif,,,1,,36.192,5.418,
+DZ020,1,ولاية,Wilaya,سعيدة,Saïda,sada,DZ020,,,,,,6,16,,35.044,0.773,https://openadmindata.org/dz/wilayas/sada/
+DZ020_ain-el-hadjar,2,دائرة,Daira,عين الحجر,Ain El Hadjar,ain-el-hadjar,DZ020_ain-el-hadjar,,DZ020,سعيدة,Saïda,,,3,,34.634,0.013,
+DZ020_el-hassasna,2,دائرة,Daira,الحساسنة,El Hassasna,el-hassasna,DZ020_el-hassasna,,DZ020,سعيدة,Saïda,,,3,,34.68,0.431,
+DZ020_ouled-brahim,2,دائرة,Daira,أولاد ابراهيم,Ouled Brahim,ouled-brahim,DZ020_ouled-brahim,,DZ020,سعيدة,Saïda,,,3,,35.397,2.83,
+DZ020_saida,2,دائرة,Daira,سعيدة,Saida,saida,DZ020_saida,,DZ020,سعيدة,Saïda,,,1,,34.847,0.127,
+DZ020_sidi-boubekeur,2,دائرة,Daira,سيدي بوبكر,Sidi Boubekeur,sidi-boubekeur,DZ020_sidi-boubekeur,,DZ020,سعيدة,Saïda,,,4,,35.394,0.578,
+DZ020_youb,2,دائرة,Daira,يوب,Youb,youb,DZ020_youb,,DZ020,سعيدة,Saïda,,,2,,34.892,-0.118,
+DZ021,1,ولاية,Wilaya,سكيكدة,Skikda,skikda,DZ021,,,,,,13,38,,36.755,6.889,https://openadmindata.org/dz/wilayas/skikda/
+DZ021_ain-kechra,2,دائرة,Daira,عين قشرة,Ain Kechra,ain-kechra,DZ021_ain-kechra,,DZ021,سكيكدة,Skikda,,,2,,36.803,6.463,
+DZ021_azzaba,2,دائرة,Daira,عزابة,Azzaba,azzaba,DZ021_azzaba,,DZ021,سكيكدة,Skikda,,,5,,36.726,7.065,
+DZ021_ben-azzouz,2,دائرة,Daira,بن عزوز,Ben Azzouz,ben-azzouz,DZ021_ben-azzouz,,DZ021,سكيكدة,Skikda,,,3,,36.867,7.305,
+DZ021_collo,2,دائرة,Daira,القل,Collo,collo,DZ021_collo,,DZ021,سكيكدة,Skikda,,,3,,36.978,6.515,
+DZ021_el-hadaiek,2,دائرة,Daira,الحدائق,El Hadaiek,el-hadaiek,DZ021_el-hadaiek,,DZ021,سكيكدة,Skikda,,,3,,36.864,6.835,
+DZ021_el-harrouch,2,دائرة,Daira,الحروش,El Harrouch,el-harrouch,DZ021_el-harrouch,,DZ021,سكيكدة,Skikda,,,5,,36.641,6.899,
+DZ021_ouled-attia,2,دائرة,Daira,أولاد عطية,Ouled Attia,ouled-attia,DZ021_ouled-attia,,DZ021,سكيكدة,Skikda,,,3,,36.957,6.353,
+DZ021_oum-toub,2,دائرة,Daira,أم الطوب,Oum Toub,oum-toub,DZ021_oum-toub,,DZ021,سكيكدة,Skikda,,,1,,36.704,6.511,
+DZ021_ramdane-djamel,2,دائرة,Daira,رمضان جمال,Ramdane Djamel,ramdane-djamel,DZ021_ramdane-djamel,,DZ021,سكيكدة,Skikda,,,2,,36.759,6.93,
+DZ021_sidi-mezghiche,2,دائرة,Daira,سيدي مزغيش,Sidi Mezghiche,sidi-mezghiche,DZ021_sidi-mezghiche,,DZ021,سكيكدة,Skikda,,,3,,36.655,6.691,
+DZ021_skikda,2,دائرة,Daira,سكيكدة,Skikda,skikda,DZ021_skikda,,DZ021,سكيكدة,Skikda,,,3,,36.881,6.888,
+DZ021_tamalous,2,دائرة,Daira,تمالوس,Tamalous,tamalous,DZ021_tamalous,,DZ021,سكيكدة,Skikda,,,3,,36.857,6.657,
+DZ021_zitouna,2,دائرة,Daira,الزيتونة,Zitouna,zitouna,DZ021_zitouna,,DZ021,سكيكدة,Skikda,,,2,,37.02,6.444,
+DZ022,1,ولاية,Wilaya,سيدي بلعباس,Sidi Bel Abbès,sidi-bel-abbs,DZ022,,,,,,15,52,,35.018,-0.59,https://openadmindata.org/dz/wilayas/sidi-bel-abbs/
+DZ022_ain-el-berd,2,دائرة,Daira,عين البرد,Ain El Berd,ain-el-berd,DZ022_ain-el-berd,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.345,-0.511,
+DZ022_ben-badis,2,دائرة,Daira,بن باديس,Ben Badis,ben-badis,DZ022_ben-badis,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.98,-0.871,
+DZ022_marhoum,2,دائرة,Daira,مرحوم,Marhoum,marhoum,DZ022_marhoum,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.452,-0.352,
+DZ022_merine,2,دائرة,Daira,مرين,Merine,merine,DZ022_merine,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.674,-0.266,
+DZ022_mostefa-ben-brahim,2,دائرة,Daira,مصطفى بن ابراهيم,Mostefa  Ben Brahim,mostefa-ben-brahim,DZ022_mostefa-ben-brahim,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.186,-0.44,
+DZ022_moulay-slissen,2,دائرة,Daira,مولاي سليسن,Moulay Slissen,moulay-slissen,DZ022_moulay-slissen,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.753,-0.748,
+DZ022_ras-el-ma,2,دائرة,Daira,راس الماء,Ras El Ma,ras-el-ma,DZ022_ras-el-ma,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.504,-0.789,
+DZ022_sfisef,2,دائرة,Daira,سفيزف,Sfisef,sfisef,DZ022_sfisef,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.262,-0.285,
+DZ022_sidi-ali-ben-youb,2,دائرة,Daira,سيدي علي بن يوب,Sidi Ali Ben Youb,sidi-ali-ben-youb,DZ022_sidi-ali-ben-youb,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,34.986,-0.736,
+DZ022_sidi-ali-boussidi,2,دائرة,Daira,سيدي علي بوسيدي,Sidi Ali Boussidi,sidi-ali-boussidi,DZ022_sidi-ali-boussidi,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.108,-0.829,
+DZ022_sidi-bel-abbes,2,دائرة,Daira,سيدي بلعباس,Sidi Bel Abbes,sidi-bel-abbes,DZ022_sidi-bel-abbes,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,1,,35.21,-0.631,
+DZ022_sidi-lahcene,2,دائرة,Daira,سيدي لحسن,Sidi Lahcene,sidi-lahcene,DZ022_sidi-lahcene,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,35.146,-0.714,
+DZ022_telagh,2,دائرة,Daira,تلاغ,Telagh,telagh,DZ022_telagh,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.797,-0.578,
+DZ022_tenira,2,دائرة,Daira,تنيرة,Tenira,tenira,DZ022_tenira,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,4,,34.989,-0.499,
+DZ022_tessala,2,دائرة,Daira,تسالة,Tessala,tessala,DZ022_tessala,,DZ022,سيدي بلعباس,Sidi Bel Abbès,,,3,,35.267,-0.779,
+DZ023,1,ولاية,Wilaya,عنابة,Annaba,annaba,DZ023,,,,,,6,12,,36.846,7.6,https://openadmindata.org/dz/wilayas/annaba/
+DZ023_ain-el-berda,2,دائرة,Daira,عين الباردة,Ain El Berda,ain-el-berda,DZ023_ain-el-berda,,DZ023,عنابة,Annaba,,,3,,36.446,6.637,
+DZ023_annaba,2,دائرة,Daira,عنابة,Annaba,annaba,DZ023_annaba,,DZ023,عنابة,Annaba,,,2,,36.933,7.692,
+DZ023_berrahal,2,دائرة,Daira,برحال,Berrahal,berrahal,DZ023_berrahal,,DZ023,عنابة,Annaba,,,3,,36.936,7.465,
+DZ023_chetaibi,2,دائرة,Daira,شطايبي,Chetaibi,chetaibi,DZ023_chetaibi,,DZ023,عنابة,Annaba,,,1,,37.012,7.405,
+DZ023_el-bouni,2,دائرة,Daira,البوني,El Bouni,el-bouni,DZ023_el-bouni,,DZ023,عنابة,Annaba,,,1,,36.843,7.75,
+DZ023_el-hadjar,2,دائرة,Daira,الحجار,El Hadjar,el-hadjar,DZ023_el-hadjar,,DZ023,عنابة,Annaba,,,2,,36.669,5.002,
+DZ024,1,ولاية,Wilaya,قالمة,Guelma,guelma,DZ024,,,,,,10,34,,36.349,7.412,https://openadmindata.org/dz/wilayas/guelma/
+DZ024_ain-hessainia,2,دائرة,Daira,عين حساينية,Ain Hessainia,ain-hessainia,DZ024_ain-hessainia,,DZ024,قالمة,Guelma,,,4,,36.428,7.262,
+DZ024_ain-makhlouf,2,دائرة,Daira,عين مخلوف,Ain Makhlouf,ain-makhlouf,DZ024_ain-makhlouf,,DZ024,قالمة,Guelma,,,3,,36.215,7.254,
+DZ024_bouchegouf,2,دائرة,Daira,بوشقوف,Bouchegouf,bouchegouf,DZ024_bouchegouf,,DZ024,قالمة,Guelma,,,4,,36.507,7.739,
+DZ024_guelaat-bousbaa,2,دائرة,Daira,قلعة بوصبع,Guelaat Bousbaa,guelaat-bousbaa,DZ024_guelaat-bousbaa,,DZ024,قالمة,Guelma,,,6,,36.493,7.541,
+DZ024_guelma,2,دائرة,Daira,قالمة,Guelma,guelma,DZ024_guelma,,DZ024,قالمة,Guelma,,,2,,36.456,7.412,
+DZ024_hammam-debagh,2,دائرة,Daira,حمام دباغ,Hammam Debagh,hammam-debagh,DZ024_hammam-debagh,,DZ024,قالمة,Guelma,,,3,,36.535,7.231,
+DZ024_hammam-nbails,2,دائرة,Daira,حمام النبايل,Hammam N'bails,hammam-nbails,DZ024_hammam-nbails,,DZ024,قالمة,Guelma,,,3,,36.334,7.706,
+DZ024_heliopolis,2,دائرة,Daira,هيليوبوليس,Heliopolis,heliopolis,DZ024_heliopolis,,DZ024,قالمة,Guelma,,,3,,36.556,7.39,
+DZ024_khezaras,2,دائرة,Daira,خزارة,Khezaras,khezaras,DZ024_khezaras,,DZ024,قالمة,Guelma,,,3,,36.267,7.552,
+DZ024_oued-zenati,2,دائرة,Daira,وادي الزناتي,Oued Zenati,oued-zenati,DZ024_oued-zenati,,DZ024,قالمة,Guelma,,,3,,36.355,7.119,
+DZ025,1,ولاية,Wilaya,قسنطينة,Constantine,constantine,DZ025,,,,,,6,12,,36.36,6.668,https://openadmindata.org/dz/wilayas/constantine/
+DZ025_ain-abid,2,دائرة,Daira,عين عبيد,Ain Abid,ain-abid,DZ025_ain-abid,,DZ025,قسنطينة,Constantine,,,2,,35.59,3.015,
+DZ025_constantine,2,دائرة,Daira,قسنطينة,Constantine,constantine,DZ025_constantine,,DZ025,قسنطينة,Constantine,,,1,,36.356,6.61,
+DZ025_el-khroub,2,دائرة,Daira,الخروب,El Khroub,el-khroub,DZ025_el-khroub,,DZ025,قسنطينة,Constantine,,,3,,36.254,6.632,
+DZ025_hamma-bouziane,2,دائرة,Daira,حامة بوزيان,Hamma Bouziane,hamma-bouziane,DZ025_hamma-bouziane,,DZ025,قسنطينة,Constantine,,,2,,36.448,6.621,
+DZ025_ibn-ziad,2,دائرة,Daira,ابن زياد,Ibn Ziad,ibn-ziad,DZ025_ibn-ziad,,DZ025,قسنطينة,Constantine,,,2,,36.374,6.427,
+DZ025_zighoud-youcef,2,دائرة,Daira,زيغود يوسف,Zighoud Youcef,zighoud-youcef,DZ025_zighoud-youcef,,DZ025,قسنطينة,Constantine,,,2,,36.532,6.74,
+DZ026,1,ولاية,Wilaya,المدية,Médéa,mda,DZ026,,,,,,19,64,,36.097,2.957,https://openadmindata.org/dz/wilayas/mda/
+DZ026_ain-boucif,2,دائرة,Daira,عين بوسيف,Ain Boucif,ain-boucif,DZ026_ain-boucif,,DZ026,المدية,Médéa,,,5,,35.884,3.208,
+DZ026_aziz,2,دائرة,Daira,عزيز,Aziz,aziz,DZ026_aziz,,DZ026,المدية,Médéa,,,3,,35.8,2.437,
+DZ026_beni-slimane,2,دائرة,Daira,بني سليمان,Beni Slimane,beni-slimane,DZ026_beni-slimane,,DZ026,المدية,Médéa,,,3,,36.209,3.258,
+DZ026_berrouaghia,2,دائرة,Daira,البرواقية,Berrouaghia,berrouaghia,DZ026_berrouaghia,,DZ026,المدية,Médéa,,,3,,36.092,3.029,
+DZ026_chahbounia,2,دائرة,Daira,الشهبونية,Chahbounia,chahbounia,DZ026_chahbounia,,DZ026,المدية,Médéa,,,3,,35.649,2.606,
+DZ026_chellalat-el-adhaoura,2,دائرة,Daira,شلالة العذاورة,Chellalat El Adhaoura,chellalat-el-adhaoura,DZ026_chellalat-el-adhaoura,,DZ026,المدية,Médéa,,,4,,35.914,3.45,
+DZ026_el-azizia,2,دائرة,Daira,العزيزية,El Azizia,el-azizia,DZ026_el-azizia,,DZ026,المدية,Médéa,,,3,,36.364,3.493,
+DZ026_el-omaria,2,دائرة,Daira,العمارية,El Omaria,el-omaria,DZ026_el-omaria,,DZ026,المدية,Médéa,,,3,,35.906,2.219,
+DZ026_guelb-el-kebir,2,دائرة,Daira,القلب الكبير,Guelb El Kebir,guelb-el-kebir,DZ026_guelb-el-kebir,,DZ026,المدية,Médéa,,,3,,36.252,3.427,
+DZ026_ksar-el-boukhari,2,دائرة,Daira,قصر البخاري,Ksar El Boukhari,ksar-el-boukhari,DZ026_ksar-el-boukhari,,DZ026,المدية,Médéa,,,3,,35.869,2.826,
+DZ026_medea,2,دائرة,Daira,المدية,Medea,medea,DZ026_medea,,DZ026,المدية,Médéa,,,3,,36.306,2.713,
+DZ026_ouamri,2,دائرة,Daira,عوامري,Ouamri,ouamri,DZ026_ouamri,,DZ026,المدية,Médéa,,,3,,36.225,2.598,
+DZ026_ouled-antar,2,دائرة,Daira,أولاد عنتر,Ouled Antar,ouled-antar,DZ026_ouled-antar,,DZ026,المدية,Médéa,,,3,,35.968,2.611,
+DZ026_ouzera,2,دائرة,Daira,وزرة,Ouzera,ouzera,DZ026_ouzera,,DZ026,المدية,Médéa,,,4,,36.255,2.84,
+DZ026_seghouane,2,دائرة,Daira,سغوان,Seghouane,seghouane,DZ026_seghouane,,DZ026,المدية,Médéa,,,4,,36.035,2.88,
+DZ026_si-mahdjoub,2,دائرة,Daira,سي المحجوب,Si Mahdjoub,si-mahdjoub,DZ026_si-mahdjoub,,DZ026,المدية,Médéa,,,3,,36.139,2.705,
+DZ026_sidi-naamane,2,دائرة,Daira,سيدي نعمان,Sidi Naamane,sidi-naamane,DZ026_sidi-naamane,,DZ026,المدية,Médéa,,,3,,36.403,3.444,
+DZ026_souaghi,2,دائرة,Daira,السواقي,Souaghi,souaghi,DZ026_souaghi,,DZ026,المدية,Médéa,,,4,,36.084,3.316,
+DZ026_tablat,2,دائرة,Daira,تابلاط,Tablat,tablat,DZ026_tablat,,DZ026,المدية,Médéa,,,4,,36.42,3.279,
+DZ027,1,ولاية,Wilaya,مستغانم,Mostaganem,mostaganem,DZ027,,,,,,10,32,,36.004,0.368,https://openadmindata.org/dz/wilayas/mostaganem/
+DZ027_achaacha,2,دائرة,Daira,عشعاشة,Achaacha,achaacha,DZ027_achaacha,,DZ027,مستغانم,Mostaganem,,,4,,36.244,0.631,
+DZ027_ain-nouicy,2,دائرة,Daira,عين نويسي,Ain Nouicy,ain-nouicy,DZ027_ain-nouicy,,DZ027,مستغانم,Mostaganem,,,3,,35.758,-0.041,
+DZ027_ain-tedeles,2,دائرة,Daira,عين تادلس,Ain Tedeles,ain-tedeles,DZ027_ain-tedeles,,DZ027,مستغانم,Mostaganem,,,4,,35.957,0.318,
+DZ027_bouguirat,2,دائرة,Daira,بوقيراط,Bouguirat,bouguirat,DZ027_bouguirat,,DZ027,مستغانم,Mostaganem,,,4,,35.807,0.284,
+DZ027_hassi-mameche,2,دائرة,Daira,حاسي ماماش,Hassi Mameche,hassi-mameche,DZ027_hassi-mameche,,DZ027,مستغانم,Mostaganem,,,3,,35.821,-0.008,
+DZ027_kheir-eddine,2,دائرة,Daira,خير الدين,Kheir Eddine,kheir-eddine,DZ027_kheir-eddine,,DZ027,مستغانم,Mostaganem,,,3,,35.961,0.177,
+DZ027_mesra,2,دائرة,Daira,ماسرة,Mesra,mesra,DZ027_mesra,,DZ027,مستغانم,Mostaganem,,,4,,35.587,-0.205,
+DZ027_mostaganem,2,دائرة,Daira,مستغانم,Mostaganem,mostaganem,DZ027_mostaganem,,DZ027,مستغانم,Mostaganem,,,1,,35.978,0.109,
+DZ027_sidi-ali,2,دائرة,Daira,سيدي علي,Sidi Ali,sidi-ali,DZ027_sidi-ali,,DZ027,مستغانم,Mostaganem,,,3,,36.08,0.529,
+DZ027_sidi-lakhdar,2,دائرة,Daira,سيدي لخضر,Sidi Lakhdar,sidi-lakhdar,DZ027_sidi-lakhdar,,DZ027,مستغانم,Mostaganem,,,3,,36.153,0.387,
+DZ028,1,ولاية,Wilaya,المسيلة,M'Sila,msila,DZ028,,,,,,15,47,,35.125,4.21,https://openadmindata.org/dz/wilayas/msila/
+DZ028_ain-el-hadjel,2,دائرة,Daira,عين الحجل,Ain El Hadjel,ain-el-hadjel,DZ028_ain-el-hadjel,,DZ028,المسيلة,M'Sila,,,2,,35.662,3.963,
+DZ028_ain-el-melh,2,دائرة,Daira,عين الملح,Ain El Melh,ain-el-melh,DZ028_ain-el-melh,,DZ028,المسيلة,M'Sila,,,5,,34.772,4.321,
+DZ028_ben-srour,2,دائرة,Daira,بن سرور,Ben Srour,ben-srour,DZ028_ben-srour,,DZ028,المسيلة,M'Sila,,,4,,34.942,4.637,
+DZ028_bousaada,2,دائرة,Daira,بوسعادة,Bousaada,bousaada,DZ028_bousaada,,DZ028,المسيلة,M'Sila,,,3,,35.119,4.06,
+DZ028_chellal,2,دائرة,Daira,شلال,Chellal,chellal,DZ028_chellal,,DZ028,المسيلة,M'Sila,,,4,,35.457,4.426,
+DZ028_djebel-messaad,2,دائرة,Daira,جبل مساعد,Djebel Messaad,djebel-messaad,DZ028_djebel-messaad,,DZ028,المسيلة,M'Sila,,,2,,34.972,3.979,
+DZ028_hammam-dalaa,2,دائرة,Daira,حمام الضلعة,Hammam Dalaa,hammam-dalaa,DZ028_hammam-dalaa,,DZ028,المسيلة,M'Sila,,,4,,35.776,4.329,
+DZ028_khoubana,2,دائرة,Daira,خبانة,Khoubana,khoubana,DZ028_khoubana,,DZ028,المسيلة,M'Sila,,,3,,35.274,4.591,
+DZ028_magra,2,دائرة,Daira,مقرة,Magra,magra,DZ028_magra,,DZ028,المسيلة,M'Sila,,,5,,35.621,5.055,
+DZ028_medjedel,2,دائرة,Daira,امجدل,Medjedel,medjedel,DZ028_medjedel,,DZ028,المسيلة,M'Sila,,,2,,35.099,3.694,
+DZ028_msila,2,دائرة,Daira,المسيلة,M'sila,msila,DZ028_msila,,DZ028,المسيلة,M'Sila,,,1,,35.723,4.505,
+DZ028_ouled-derradj,2,دائرة,Daira,أولاد دراج,Ouled Derradj,ouled-derradj,DZ028_ouled-derradj,,DZ028,المسيلة,M'Sila,,,5,,35.902,4.691,
+DZ028_ouled-sidi-brahim,2,دائرة,Daira,أولاد سيدي ابراهيم,Ouled Sidi Brahim,ouled-sidi-brahim,DZ028_ouled-sidi-brahim,,DZ028,المسيلة,M'Sila,,,2,,35.412,4.12,
+DZ028_sidi-aissa,2,دائرة,Daira,سيدي عيسى,Sidi Aissa,sidi-aissa,DZ028_sidi-aissa,,DZ028,المسيلة,M'Sila,,,3,,35.747,3.743,
+DZ028_sidi-ameur,2,دائرة,Daira,سيدي عامر,Sidi Ameur,sidi-ameur,DZ028_sidi-ameur,,DZ028,المسيلة,M'Sila,,,2,,35.287,3.874,
+DZ029,1,ولاية,Wilaya,معسكر,Mascara,mascara,DZ029,,,,,,16,47,,35.4,0.241,https://openadmindata.org/dz/wilayas/mascara/
+DZ029_ain-fares,2,دائرة,Daira,عين فارس,Ain Fares,ain-fares,DZ029_ain-fares,,DZ029,معسكر,Mascara,,,2,,35.106,2.312,
+DZ029_ain-fekan,2,دائرة,Daira,عين فكان,Ain Fekan,ain-fekan,DZ029_ain-fekan,,DZ029,معسكر,Mascara,,,2,,35.189,-0.089,
+DZ029_aouf,2,دائرة,Daira,عوف,Aouf,aouf,DZ029_aouf,,DZ029,معسكر,Mascara,,,3,,35.12,0.35,
+DZ029_bouhanifia,2,دائرة,Daira,بوحنيفية,Bouhanifia,bouhanifia,DZ029_bouhanifia,,DZ029,معسكر,Mascara,,,3,,35.38,-0.043,
+DZ029_el-bordj,2,دائرة,Daira,البرج,El Bordj,el-bordj,DZ029_el-bordj,,DZ029,معسكر,Mascara,,,3,,35.5,0.354,
+DZ029_ghriss,2,دائرة,Daira,غريس,Ghriss,ghriss,DZ029_ghriss,,DZ029,معسكر,Mascara,,,5,,35.296,0.231,
+DZ029_hachem,2,دائرة,Daira,الحشم,Hachem,hachem,DZ029_hachem,,DZ029,معسكر,Mascara,,,3,,35.365,0.542,
+DZ029_mascara,2,دائرة,Daira,معسكر,Mascara,mascara,DZ029_mascara,,DZ029,معسكر,Mascara,,,1,,35.387,0.151,
+DZ029_mohammadia,2,دائرة,Daira,المحمدية,Mohammadia,mohammadia,DZ029_mohammadia,,DZ029,معسكر,Mascara,,,6,,35.623,0.137,
+DZ029_oggaz,2,دائرة,Daira,عقاز,Oggaz,oggaz,DZ029_oggaz,,DZ029,معسكر,Mascara,,,3,,35.629,-0.248,
+DZ029_oued-el-abtal,2,دائرة,Daira,وادي الأبطال,Oued El Abtal,oued-el-abtal,DZ029_oued-el-abtal,,DZ029,معسكر,Mascara,,,3,,35.395,0.754,
+DZ029_oued-taria,2,دائرة,Daira,وادي التاغية,Oued Taria,oued-taria,DZ029_oued-taria,,DZ029,معسكر,Mascara,,,2,,35.198,0.08,
+DZ029_sig,2,دائرة,Daira,سيق,Sig,sig,DZ029_sig,,DZ029,معسكر,Mascara,,,3,,35.478,-0.182,
+DZ029_tighennif,2,دائرة,Daira,تيغنيف,Tighennif,tighennif,DZ029_tighennif,,DZ029,معسكر,Mascara,,,3,,35.402,0.358,
+DZ029_tizi,2,دائرة,Daira,تيزي,Tizi,tizi,DZ029_tizi,,DZ029,معسكر,Mascara,,,3,,35.33,0.074,
+DZ029_zahana,2,دائرة,Daira,زهانة,Zahana,zahana,DZ029_zahana,,DZ029,معسكر,Mascara,,,2,,35.468,-0.372,
+DZ030,1,ولاية,Wilaya,ورقلة,Ouargla,ouargla,DZ030,,,,,,5,8,,31.23,6.769,https://openadmindata.org/dz/wilayas/ouargla/
+DZ030_el-borma,2,دائرة,Daira,البرمة,El Borma,el-borma,DZ030_el-borma,,DZ030,ورقلة,Ouargla,,,1,,31.325,7.953,
+DZ030_hassi-messaoud,2,دائرة,Daira,حاسي مسعود,Hassi Messaoud,hassi-messaoud,DZ030_hassi-messaoud,,DZ030,ورقلة,Ouargla,,,1,,30.54,5.44,
+DZ030_ngoussa,2,دائرة,Daira,انقوسة,N'goussa,ngoussa,DZ030_ngoussa,,DZ030,ورقلة,Ouargla,,,1,,32.358,5.328,
+DZ030_ouargla,2,دائرة,Daira,ورقلة,Ouargla,ouargla,DZ030_ouargla,,DZ030,ورقلة,Ouargla,,,2,,31.956,4.849,
+DZ030_sidi-khouiled,2,دائرة,Daira,سيدي خويلد,Sidi Khouiled,sidi-khouiled,DZ030_sidi-khouiled,,DZ030,ورقلة,Ouargla,,,3,,33.348,6.208,
+DZ031,1,ولاية,Wilaya,وهران,Oran,oran,DZ031,,,,,,9,26,,35.623,-0.703,https://openadmindata.org/dz/wilayas/oran/
+DZ031_ain-turk,2,دائرة,Daira,عين الترك,Ain Turk,ain-turk,DZ031_ain-turk,,DZ031,وهران,Oran,,,4,,35.715,-0.798,
+DZ031_arzew,2,دائرة,Daira,أرزيو,Arzew,arzew,DZ031_arzew,,DZ031,وهران,Oran,,,2,,35.856,-0.335,
+DZ031_bethioua,2,دائرة,Daira,بطيوة,Bethioua,bethioua,DZ031_bethioua,,DZ031,وهران,Oran,,,3,,35.758,-0.242,
+DZ031_bir-el-djir,2,دائرة,Daira,بئر الجير,Bir El Djir,bir-el-djir,DZ031_bir-el-djir,,DZ031,وهران,Oran,,,3,,35.729,-0.508,
+DZ031_boutlelis,2,دائرة,Daira,بوتليليس,Boutlelis,boutlelis,DZ031_boutlelis,,DZ031,وهران,Oran,,,3,,35.624,-0.923,
+DZ031_es-senia,2,دائرة,Daira,السانية,Es Senia,es-senia,DZ031_es-senia,,DZ031,وهران,Oran,,,3,,35.656,-0.59,
+DZ031_gdyel,2,دائرة,Daira,قديل,Gdyel,gdyel,DZ031_gdyel,,DZ031,وهران,Oran,,,3,,35.769,-0.399,
+DZ031_oran,2,دائرة,Daira,وهران,Oran,oran,DZ031_oran,,DZ031,وهران,Oran,,,1,,35.71,-0.615,
+DZ031_oued-tlelat,2,دائرة,Daira,وادي تليلات,Oued Tlelat,oued-tlelat,DZ031_oued-tlelat,,DZ031,وهران,Oran,,,4,,35.568,-0.47,
+DZ032,1,ولاية,Wilaya,البيض,El Bayadh,el-bayadh,DZ032,,,,,,8,22,,32.608,1.11,https://openadmindata.org/dz/wilayas/el-bayadh/
+DZ032_boualem,2,دائرة,Daira,بوعلام,Boualem,boualem,DZ032_boualem,,DZ032,البيض,El Bayadh,,,5,,35.021,2.255,
+DZ032_bougtoub,2,دائرة,Daira,بوقطب,Bougtoub,bougtoub,DZ032_bougtoub,,DZ032,البيض,El Bayadh,,,3,,33.825,0.283,
+DZ032_boussemghoun,2,دائرة,Daira,بوسمغون,Boussemghoun,boussemghoun,DZ032_boussemghoun,,DZ032,البيض,El Bayadh,,,1,,32.814,0.051,
+DZ032_brezina,2,دائرة,Daira,بريزينة,Brezina,brezina,DZ032_brezina,,DZ032,البيض,El Bayadh,,,3,,33.133,1.343,
+DZ032_chellala,2,دائرة,Daira,شلالة,Chellala,chellala,DZ032_chellala,,DZ032,البيض,El Bayadh,,,2,,33.15,0.14,
+DZ032_el-bayadh,2,دائرة,Daira,البيض,El Bayadh,el-bayadh,DZ032_el-bayadh,,DZ032,البيض,El Bayadh,,,1,,33.647,1.01,
+DZ032_labiodh-sidi-cheikh,2,دائرة,Daira,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,labiodh-sidi-cheikh,DZ032_labiodh-sidi-cheikh,,DZ032,البيض,El Bayadh,,,4,,32.758,0.572,
+DZ032_rogassa,2,دائرة,Daira,رقاصة,Rogassa,rogassa,DZ032_rogassa,,DZ032,البيض,El Bayadh,,,3,,33.954,0.856,
+DZ033,1,ولاية,Wilaya,إليزي,Illizi,illizi,DZ033,,,,,,2,4,,26.526,8.07,https://openadmindata.org/dz/wilayas/illizi/
+DZ033_illizi,2,دائرة,Daira,إيليزي,Illizi,illizi,DZ033_illizi,,DZ033,إليزي,Illizi,,,1,,26.491,8.349,
+DZ033_in-amenas,2,دائرة,Daira,إن أمناس,In Amenas,in-amenas,DZ033_in-amenas,,DZ033,إليزي,Illizi,,,3,,28.583,8.456,
+DZ034,1,ولاية,Wilaya,برج بوعريريج,Bordj Bou Arreridj,bordj-bou-arreridj,DZ034,,,,,,10,34,,36.043,4.57,https://openadmindata.org/dz/wilayas/bordj-bou-arreridj/
+DZ034_ain-taghrout,2,دائرة,Daira,عين تاغروت,Ain Taghrout,ain-taghrout,DZ034_ain-taghrout,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,2,,36.091,5.112,
+DZ034_bir-kasdali,2,دائرة,Daira,بئر قاصد علي,Bir Kasdali,bir-kasdali,DZ034_bir-kasdali,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,36.166,4.977,
+DZ034_bordj-bou-arreridj,2,دائرة,Daira,برج بوعريريج,Bordj Bou Arreridj,bordj-bou-arreridj,DZ034_bordj-bou-arreridj,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,1,,36.043,4.57,
+DZ034_bordj-ghedir,2,دائرة,Daira,برج الغدير,Bordj Ghedir,bordj-ghedir,DZ034_bordj-ghedir,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,5,,35.897,4.94,
+DZ034_bordj-zemmoura,2,دائرة,Daira,برج زمورة,Bordj Zemmoura,bordj-zemmoura,DZ034_bordj-zemmoura,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,36.234,4.777,
+DZ034_djaafra,2,دائرة,Daira,جعافرة,Djaafra,djaafra,DZ034_djaafra,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,36.309,4.68,
+DZ034_el-hamadia,2,دائرة,Daira,الحمادية,El Hamadia,el-hamadia,DZ034_el-hamadia,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,35.934,4.65,
+DZ034_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ034_mansourah,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,5,,35.874,3.532,
+DZ034_medjana,2,دائرة,Daira,مجانة,Medjana,medjana,DZ034_medjana,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,4,,36.128,4.706,
+DZ034_ras-el-oued,2,دائرة,Daira,رأس الوادي,Ras El Oued,ras-el-oued,DZ034_ras-el-oued,,DZ034,برج بوعريريج,Bordj Bou Arreridj,,,3,,35.918,5.053,
+DZ035,1,ولاية,Wilaya,بومرداس,Boumerdès,boumerds,DZ035,,,,,,9,32,,36.707,3.549,https://openadmindata.org/dz/wilayas/boumerds/
+DZ035_baghlia,2,دائرة,Daira,بغلية,Baghlia,baghlia,DZ035_baghlia,,DZ035,بومرداس,Boumerdès,,,3,,36.82,3.88,
+DZ035_bordj-menaiel,2,دائرة,Daira,برج منايل,Bordj Menaiel,bordj-menaiel,DZ035_bordj-menaiel,,DZ035,بومرداس,Boumerdès,,,4,,36.795,3.692,
+DZ035_boudouaou,2,دائرة,Daira,بودواو,Boudouaou,boudouaou,DZ035_boudouaou,,DZ035,بومرداس,Boumerdès,,,5,,36.681,3.434,
+DZ035_boumerdes,2,دائرة,Daira,بومرداس,Boumerdes,boumerdes,DZ035_boumerdes,,DZ035,بومرداس,Boumerdès,,,3,,36.737,3.478,
+DZ035_dellys,2,دائرة,Daira,دلس,Dellys,dellys,DZ035_dellys,,DZ035,بومرداس,Boumerdès,,,3,,36.861,3.949,
+DZ035_isser,2,دائرة,Daira,يسر,Isser,isser,DZ035_isser,,DZ035,بومرداس,Boumerdès,,,4,,36.684,3.695,
+DZ035_khemis-el-khechna,2,دائرة,Daira,خميس الخشنة,Khemis El Khechna,khemis-el-khechna,DZ035_khemis-el-khechna,,DZ035,بومرداس,Boumerdès,,,4,,36.654,3.333,
+DZ035_naciria,2,دائرة,Daira,الناصرية,Naciria,naciria,DZ035_naciria,,DZ035,بومرداس,Boumerdès,,,2,,36.77,3.817,
+DZ035_thenia,2,دائرة,Daira,الثنية,Thenia,thenia,DZ035_thenia,,DZ035,بومرداس,Boumerdès,,,4,,36.49,2.996,
+DZ036,1,ولاية,Wilaya,الطارف,El Tarf,el-tarf,DZ036,,,,,,7,24,,36.684,7.664,https://openadmindata.org/dz/wilayas/el-tarf/
+DZ036_ben-mhidi,2,دائرة,Daira,بن مهيدي,Ben M'hidi,ben-mhidi,DZ036_ben-mhidi,,DZ036,الطارف,El Tarf,,,3,,36.825,7.966,
+DZ036_besbes,2,دائرة,Daira,البسباس,Besbes,besbes,DZ036_besbes,,DZ036,الطارف,El Tarf,,,3,,36.698,7.901,
+DZ036_bouhadjar,2,دائرة,Daira,بوحجار,Bouhadjar,bouhadjar,DZ036_bouhadjar,,DZ036,الطارف,El Tarf,,,4,,36.286,5.798,
+DZ036_bouteldja,2,دائرة,Daira,بوثلجة,Bouteldja,bouteldja,DZ036_bouteldja,,DZ036,الطارف,El Tarf,,,3,,36.74,8.146,
+DZ036_drean,2,دائرة,Daira,الذرعان,Drean,drean,DZ036_drean,,DZ036,الطارف,El Tarf,,,3,,36.65,7.796,
+DZ036_el-kala,2,دائرة,Daira,القالة,El Kala,el-kala,DZ036_el-kala,,DZ036,الطارف,El Tarf,,,4,,36.851,8.535,
+DZ036_el-tarf,2,دائرة,Daira,الطارف,El Tarf,el-tarf,DZ036_el-tarf,,DZ036,الطارف,El Tarf,,,4,,36.806,7.904,
+DZ037,1,ولاية,Wilaya,تندوف,Tindouf,tindouf,DZ037,,,,,,1,2,,27.55,-6.252,https://openadmindata.org/dz/wilayas/tindouf/
+DZ037_tindouf,2,دائرة,Daira,تندوف,Tindouf,tindouf,DZ037_tindouf,,DZ037,تندوف,Tindouf,,,2,,27.598,-6.417,
+DZ038,1,ولاية,Wilaya,تيسمسيلت,Tissemsilt,tissemsilt,DZ038,,,,,,8,22,,35.788,1.833,https://openadmindata.org/dz/wilayas/tissemsilt/
+DZ038_ammari,2,دائرة,Daira,عماري,Ammari,ammari,DZ038_ammari,,DZ038,تيسمسيلت,Tissemsilt,,,3,,35.658,1.623,
+DZ038_bordj-bounaama,2,دائرة,Daira,برج بونعامة,Bordj Bounaama,bordj-bounaama,DZ038_bordj-bounaama,,DZ038,تيسمسيلت,Tissemsilt,,,4,,35.833,1.714,
+DZ038_bordj-emir-abdelkader,2,دائرة,Daira,برج الأمير عبد القادر,Bordj Emir Abdelkader,bordj-emir-abdelkader,DZ038_bordj-emir-abdelkader,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.861,2.181,
+DZ038_khemisti,2,دائرة,Daira,خميستي,Khemisti,khemisti,DZ038_khemisti,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.678,2.002,
+DZ038_lardjem,2,دائرة,Daira,لرجام,Lardjem,lardjem,DZ038_lardjem,,DZ038,تيسمسيلت,Tissemsilt,,,4,,35.739,1.412,
+DZ038_lazharia,2,دائرة,Daira,الأزهرية,Lazharia,lazharia,DZ038_lazharia,,DZ038,تيسمسيلت,Tissemsilt,,,3,,35.927,1.571,
+DZ038_theniet-el-had,2,دائرة,Daira,ثنية الاحد,Theniet El Had,theniet-el-had,DZ038_theniet-el-had,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.838,1.989,
+DZ038_tissemsilt,2,دائرة,Daira,تيسمسيلت,Tissemsilt,tissemsilt,DZ038_tissemsilt,,DZ038,تيسمسيلت,Tissemsilt,,,2,,35.614,1.826,
+DZ039,1,ولاية,Wilaya,الوادي,El Oued,el-oued,DZ039,,,,,,10,22,,33.258,7.128,https://openadmindata.org/dz/wilayas/el-oued/
+DZ039_bayadha,2,دائرة,Daira,البياضة,Bayadha,bayadha,DZ039_bayadha,,DZ039,الوادي,El Oued,,,1,,33.326,6.901,
+DZ039_debila,2,دائرة,Daira,الدبيلة,Debila,debila,DZ039_debila,,DZ039,الوادي,El Oued,,,2,,33.467,6.9,
+DZ039_el-oued,2,دائرة,Daira,الوادي,El Oued,el-oued,DZ039_el-oued,,DZ039,الوادي,El Oued,,,2,,33.382,6.824,
+DZ039_guemar,2,دائرة,Daira,قمار,Guemar,guemar,DZ039_guemar,,DZ039,الوادي,El Oued,,,3,,33.558,6.598,
+DZ039_hassi-khalifa,2,دائرة,Daira,حاسي خليفة,Hassi Khalifa,hassi-khalifa,DZ039_hassi-khalifa,,DZ039,الوادي,El Oued,,,2,,33.258,7.128,
+DZ039_magrane,2,دائرة,Daira,المقرن,Magrane,magrane,DZ039_magrane,,DZ039,الوادي,El Oued,,,2,,33.849,6.863,
+DZ039_mih-ouensa,2,دائرة,Daira,اميه وانسة,Mih Ouensa,mih-ouensa,DZ039_mih-ouensa,,DZ039,الوادي,El Oued,,,2,,33.03,6.83,
+DZ039_reguiba,2,دائرة,Daira,الرقيبة,Reguiba,reguiba,DZ039_reguiba,,DZ039,الوادي,El Oued,,,2,,33.977,6.479,
+DZ039_robbah,2,دائرة,Daira,الرباح,Robbah,robbah,DZ039_robbah,,DZ039,الوادي,El Oued,,,3,,33.784,7.18,
+DZ039_taleb-larbi,2,دائرة,Daira,الطالب العربي,Taleb Larbi,taleb-larbi,DZ039_taleb-larbi,,DZ039,الوادي,El Oued,,,3,,33.708,7.451,
+DZ040,1,ولاية,Wilaya,خنشلة,Khenchela,khenchela,DZ040,,,,,,8,21,,34.916,6.904,https://openadmindata.org/dz/wilayas/khenchela/
+DZ040_ain-touila,2,دائرة,Daira,عين الطويلة,Ain Touila,ain-touila,DZ040_ain-touila,,DZ040,خنشلة,Khenchela,,,2,,35.524,7.316,
+DZ040_babar,2,دائرة,Daira,بابار,Babar,babar,DZ040_babar,,DZ040,خنشلة,Khenchela,,,1,,34.766,7.282,
+DZ040_bouhmama,2,دائرة,Daira,بوحمامة,Bouhmama,bouhmama,DZ040_bouhmama,,DZ040,خنشلة,Khenchela,,,4,,35.294,6.74,
+DZ040_chechar,2,دائرة,Daira,ششار,Chechar,chechar,DZ040_chechar,,DZ040,خنشلة,Khenchela,,,4,,35.326,6.527,
+DZ040_el-hamma,2,دائرة,Daira,الحامة,El Hamma,el-hamma,DZ040_el-hamma,,DZ040,خنشلة,Khenchela,,,4,,35.407,7.063,
+DZ040_kais,2,دائرة,Daira,قايس,Kais,kais,DZ040_kais,,DZ040,خنشلة,Khenchela,,,3,,35.512,6.876,
+DZ040_khenchela,2,دائرة,Daira,خنشلة,Khenchela,khenchela,DZ040_khenchela,,DZ040,خنشلة,Khenchela,,,1,,35.439,7.138,
+DZ040_ouled-rechache,2,دائرة,Daira,أولاد رشاش,Ouled Rechache,ouled-rechache,DZ040_ouled-rechache,,DZ040,خنشلة,Khenchela,,,2,,35.225,7.298,
+DZ041,1,ولاية,Wilaya,سوق أهراس,Souk Ahras,souk-ahras,DZ041,,,,,,10,26,,36.165,7.886,https://openadmindata.org/dz/wilayas/souk-ahras/
+DZ041_bir-bouhouche,2,دائرة,Daira,بئر بوحوش,Bir Bouhouche,bir-bouhouche,DZ041_bir-bouhouche,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.05,7.437,
+DZ041_haddada,2,دائرة,Daira,الحدادة,Haddada,haddada,DZ041_haddada,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.284,8.284,
+DZ041_mdaourouche,2,دائرة,Daira,مداوروش,M'daourouche,mdaourouche,DZ041_mdaourouche,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.119,7.809,
+DZ041_mechroha,2,دائرة,Daira,المشروحة,Mechroha,mechroha,DZ041_mechroha,,DZ041,سوق أهراس,Souk Ahras,,,2,,36.165,7.886,
+DZ041_merahna,2,دائرة,Daira,المراهنة,Merahna,merahna,DZ041_merahna,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.138,8.194,
+DZ041_ouled-driss,2,دائرة,Daira,أولاد إدريس,Ouled Driss,ouled-driss,DZ041_ouled-driss,,DZ041,سوق أهراس,Souk Ahras,,,2,,36.389,8.136,
+DZ041_oum-el-adhaim,2,دائرة,Daira,أم العظايم,Oum El Adhaim,oum-el-adhaim,DZ041_oum-el-adhaim,,DZ041,سوق أهراس,Souk Ahras,,,3,,35.95,7.639,
+DZ041_sedrata,2,دائرة,Daira,سدراتة,Sedrata,sedrata,DZ041_sedrata,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.173,7.505,
+DZ041_souk-ahras,2,دائرة,Daira,سوق أهراس,Souk Ahras,souk-ahras,DZ041_souk-ahras,,DZ041,سوق أهراس,Souk Ahras,,,1,,36.286,7.962,
+DZ041_taoura,2,دائرة,Daira,تاورة,Taoura,taoura,DZ041_taoura,,DZ041,سوق أهراس,Souk Ahras,,,3,,36.117,7.989,
+DZ042,1,ولاية,Wilaya,تيبازة,Tipaza,tipaza,DZ042,,,,,,10,28,,36.53,2.17,https://openadmindata.org/dz/wilayas/tipaza/
+DZ042_ahmar-el-ain,2,دائرة,Daira,أحمر العين,Ahmar El Ain,ahmar-el-ain,DZ042_ahmar-el-ain,,DZ042,تيبازة,Tipaza,,,3,,36.515,2.54,
+DZ042_bou-ismail,2,دائرة,Daira,بواسماعيل,Bou Ismail,bou-ismail,DZ042_bou-ismail,,DZ042,تيبازة,Tipaza,,,4,,36.309,2.419,
+DZ042_cherchell,2,دائرة,Daira,شرشال,Cherchell,cherchell,DZ042_cherchell,,DZ042,تيبازة,Tipaza,,,4,,36.521,2.106,
+DZ042_damous,2,دائرة,Daira,الداموس,Damous,damous,DZ042_damous,,DZ042,تيبازة,Tipaza,,,3,,36.508,1.756,
+DZ042_fouka,2,دائرة,Daira,فوكة,Fouka,fouka,DZ042_fouka,,DZ042,تيبازة,Tipaza,,,2,,36.673,2.775,
+DZ042_gouraya,2,دائرة,Daira,قوراية,Gouraya,gouraya,DZ042_gouraya,,DZ042,تيبازة,Tipaza,,,3,,36.512,1.921,
+DZ042_hadjout,2,دائرة,Daira,حجوط,Hadjout,hadjout,DZ042_hadjout,,DZ042,تيبازة,Tipaza,,,2,,36.527,2.422,
+DZ042_kolea,2,دائرة,Daira,القليعة,Kolea,kolea,DZ042_kolea,,DZ042,تيبازة,Tipaza,,,3,,36.621,2.76,
+DZ042_sidi-amar,2,دائرة,Daira,سيدي أعمر,Sidi Amar,sidi-amar,DZ042_sidi-amar,,DZ042,تيبازة,Tipaza,,,3,,36.551,2.303,
+DZ042_tipaza,2,دائرة,Daira,تيبازة,Tipaza,tipaza,DZ042_tipaza,,DZ042,تيبازة,Tipaza,,,1,,36.599,2.396,
+DZ043,1,ولاية,Wilaya,ميلة,Mila,mila,DZ043,,,,,,13,32,,36.252,6.165,https://openadmindata.org/dz/wilayas/mila/
+DZ043_ain-beida-harriche,2,دائرة,Daira,عين البيضاء أحريش,Ain Beida Harriche,ain-beida-harriche,DZ043_ain-beida-harriche,,DZ043,ميلة,Mila,,,2,,36.415,5.846,
+DZ043_bouhatem,2,دائرة,Daira,بوحاتم,Bouhatem,bouhatem,DZ043_bouhatem,,DZ043,ميلة,Mila,,,2,,36.317,6.053,
+DZ043_chelghoum-laid,2,دائرة,Daira,شلغوم العيد,Chelghoum Laid,chelghoum-laid,DZ043_chelghoum-laid,,DZ043,ميلة,Mila,,,3,,36.22,6.16,
+DZ043_ferdjioua,2,دائرة,Daira,فرجيوة,Ferdjioua,ferdjioua,DZ043_ferdjioua,,DZ043,ميلة,Mila,,,2,,36.408,5.939,
+DZ043_grarem-gouga,2,دائرة,Daira,القرارم قوقة,Grarem Gouga,grarem-gouga,DZ043_grarem-gouga,,DZ043,ميلة,Mila,,,2,,36.559,6.369,
+DZ043_mila,2,دائرة,Daira,ميلة,Mila,mila,DZ043_mila,,DZ043,ميلة,Mila,,,3,,36.408,6.28,
+DZ043_oued-endja,2,دائرة,Daira,وادي النجاء,Oued Endja,oued-endja,DZ043_oued-endja,,DZ043,ميلة,Mila,,,3,,36.468,6.139,
+DZ043_rouached,2,دائرة,Daira,الرواشد,Rouached,rouached,DZ043_rouached,,DZ043,ميلة,Mila,,,2,,36.438,6.028,
+DZ043_sidi-merouane,2,دائرة,Daira,سيدي مروان,Sidi Merouane,sidi-merouane,DZ043_sidi-merouane,,DZ043,ميلة,Mila,,,2,,36.515,6.26,
+DZ043_tadjenanet,2,دائرة,Daira,تاجنانت,Tadjenanet,tadjenanet,DZ043_tadjenanet,,DZ043,ميلة,Mila,,,3,,36.133,6.02,
+DZ043_tassadane-haddada,2,دائرة,Daira,تسدان حدادة,Tassadane Haddada,tassadane-haddada,DZ043_tassadane-haddada,,DZ043,ميلة,Mila,,,2,,36.528,5.869,
+DZ043_teleghma,2,دائرة,Daira,التلاغمة,Teleghma,teleghma,DZ043_teleghma,,DZ043,ميلة,Mila,,,3,,36.204,6.458,
+DZ043_terrai-bainen,2,دائرة,Daira,ترعي باينان,Terrai Bainen,terrai-bainen,DZ043_terrai-bainen,,DZ043,ميلة,Mila,,,3,,36.555,6.059,
+DZ044,1,ولاية,Wilaya,عين الدفلة,Aïn Defla,an-defla,DZ044,,,,,,14,36,,36.228,2.232,https://openadmindata.org/dz/wilayas/an-defla/
+DZ044_ain-defla,2,دائرة,Daira,عين الدفلى,Ain Defla,ain-defla,DZ044_ain-defla,,DZ044,عين الدفلة,Aïn Defla,,,1,,36.257,1.955,
+DZ044_ain-lechiakh,2,دائرة,Daira,عين الاشياخ,Ain Lechiakh,ain-lechiakh,DZ044_ain-lechiakh,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.117,4.047,
+DZ044_bathia,2,دائرة,Daira,بطحية,Bathia,bathia,DZ044_bathia,,DZ044,عين الدفلة,Aïn Defla,,,3,,35.977,1.793,
+DZ044_bordj-el-emir-khaled,2,دائرة,Daira,برج الأمير خالد,Bordj El Emir Khaled,bordj-el-emir-khaled,DZ044_bordj-el-emir-khaled,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.044,2.164,
+DZ044_boumedfaa,2,دائرة,Daira,بومدفع,Boumedfaa,boumedfaa,DZ044_boumedfaa,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.354,2.498,
+DZ044_djelida,2,دائرة,Daira,جليدة,Djelida,djelida,DZ044_djelida,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.143,1.995,
+DZ044_djendel,2,دائرة,Daira,جندل,Djendel,djendel,DZ044_djendel,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.198,2.478,
+DZ044_el-abadia,2,دائرة,Daira,العبادية,El Abadia,el-abadia,DZ044_el-abadia,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.345,1.749,
+DZ044_el-amra,2,دائرة,Daira,العامرة,El Amra,el-amra,DZ044_el-amra,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.351,1.954,
+DZ044_el-attaf,2,دائرة,Daira,العطاف,El Attaf,el-attaf,DZ044_el-attaf,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.185,1.675,
+DZ044_hammam-righa,2,دائرة,Daira,حمام ريغة,Hammam Righa,hammam-righa,DZ044_hammam-righa,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.513,2.528,
+DZ044_khemis,2,دائرة,Daira,خميس,Khemis,khemis,DZ044_khemis,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.22,1.333,
+DZ044_miliana,2,دائرة,Daira,مليانة,Miliana,miliana,DZ044_miliana,,DZ044,عين الدفلة,Aïn Defla,,,2,,36.334,2.204,
+DZ044_rouina,2,دائرة,Daira,الروينة,Rouina,rouina,DZ044_rouina,,DZ044,عين الدفلة,Aïn Defla,,,3,,36.184,1.839,
+DZ045,1,ولاية,Wilaya,النعامة,Naâma,nama,DZ045,,,,,,7,12,,32.962,-0.674,https://openadmindata.org/dz/wilayas/nama/
+DZ045_ain-sefra,2,دائرة,Daira,عين الصفراء,Ain Sefra,ain-sefra,DZ045_ain-sefra,,DZ045,النعامة,Naâma,,,2,,32.82,-0.505,
+DZ045_asla,2,دائرة,Daira,عسلة,Asla,asla,DZ045_asla,,DZ045,النعامة,Naâma,,,1,,32.728,-0.169,
+DZ045_mecheria,2,دائرة,Daira,المشرية,Mecheria,mecheria,DZ045_mecheria,,DZ045,النعامة,Naâma,,,3,,33.164,-0.95,
+DZ045_mekmen-ben-amar,2,دائرة,Daira,مكمن بن عمار,Mekmen Ben Amar,mekmen-ben-amar,DZ045_mekmen-ben-amar,,DZ045,النعامة,Naâma,,,2,,33.642,-1.393,
+DZ045_moghrar,2,دائرة,Daira,مغرار,Moghrar,moghrar,DZ045_moghrar,,DZ045,النعامة,Naâma,,,2,,32.441,-0.548,
+DZ045_naama,2,دائرة,Daira,النعامة,Naama,naama,DZ045_naama,,DZ045,النعامة,Naâma,,,1,,33.291,-0.302,
+DZ045_sfissifa,2,دائرة,Daira,سفيسيفة,Sfissifa,sfissifa,DZ045_sfissifa,,DZ045,النعامة,Naâma,,,1,,32.792,-1.024,
+DZ046,1,ولاية,Wilaya,عين تيموشنت,Aïn Témouchent,an-tmouchent,DZ046,,,,,,8,28,,35.429,-0.732,https://openadmindata.org/dz/wilayas/an-tmouchent/
+DZ046_ain-kihel,2,دائرة,Daira,عين الكيحل,Ain Kihel,ain-kihel,DZ046_ain-kihel,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.224,-1.167,
+DZ046_ain-larbaa,2,دائرة,Daira,عين الأربعاء,Ain Larbaa,ain-larbaa,DZ046_ain-larbaa,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.389,-0.862,
+DZ046_ain-temouchent,2,دائرة,Daira,عين تموشنت,Ain Temouchent,ain-temouchent,DZ046_ain-temouchent,,DZ046,عين تيموشنت,Aïn Témouchent,,,2,,35.297,-1.204,
+DZ046_beni-saf,2,دائرة,Daira,بني صاف,Beni Saf,beni-saf,DZ046_beni-saf,,DZ046,عين تيموشنت,Aïn Témouchent,,,3,,35.78,1.047,
+DZ046_el-amria,2,دائرة,Daira,العامرية,El Amria,el-amria,DZ046_el-amria,,DZ046,عين تيموشنت,Aïn Témouchent,,,5,,35.516,-1.085,
+DZ046_el-maleh,2,دائرة,Daira,المالح,El Maleh,el-maleh,DZ046_el-maleh,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.386,-1.214,
+DZ046_hammam-bou-hadjar,2,دائرة,Daira,حمام بوحجر,Hammam Bou Hadjar,hammam-bou-hadjar,DZ046_hammam-bou-hadjar,,DZ046,عين تيموشنت,Aïn Témouchent,,,4,,35.253,-0.985,
+DZ046_oulhassa-gheraba,2,دائرة,Daira,ولهاصة الغرابة,Oulhassa Gheraba,oulhassa-gheraba,DZ046_oulhassa-gheraba,,DZ046,عين تيموشنت,Aïn Témouchent,,,2,,35.429,-0.732,
+DZ047,1,ولاية,Wilaya,غرداية,Ghardaïa,ghardaa,DZ047,,,,,,8,10,,32.953,3.784,https://openadmindata.org/dz/wilayas/ghardaa/
+DZ047_berriane,2,دائرة,Daira,بريان,Berriane,berriane,DZ047_berriane,,DZ047,غرداية,Ghardaïa,,,1,,32.892,3.753,
+DZ047_bounoura,2,دائرة,Daira,بونورة,Bounoura,bounoura,DZ047_bounoura,,DZ047,غرداية,Ghardaïa,,,2,,32.522,3.621,
+DZ047_dhayet-ben-dhahoua,2,دائرة,Daira,ضاية بن ضحوة,Dhayet Ben Dhahoua,dhayet-ben-dhahoua,DZ047_dhayet-ben-dhahoua,,DZ047,غرداية,Ghardaïa,,,1,,32.953,3.784,
+DZ047_el-guerrara,2,دائرة,Daira,القرارة,El Guerrara,el-guerrara,DZ047_el-guerrara,,DZ047,غرداية,Ghardaïa,,,1,,32.78,4.555,
+DZ047_ghardaia,2,دائرة,Daira,غرداية,Ghardaia,ghardaia,DZ047_ghardaia,,DZ047,غرداية,Ghardaïa,,,1,,32.602,3.721,
+DZ047_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ047_mansourah,,DZ047,غرداية,Ghardaïa,,,1,,36.103,4.473,
+DZ047_metlili,2,دائرة,Daira,متليلي,Metlili,metlili,DZ047_metlili,,DZ047,غرداية,Ghardaïa,,,2,,32.37,3.006,
+DZ047_zelfana,2,دائرة,Daira,زلفانة,Zelfana,zelfana,DZ047_zelfana,,DZ047,غرداية,Ghardaïa,,,1,,32.411,4.296,
+DZ048,1,ولاية,Wilaya,غليزان,Relizane,relizane,DZ048,,,,,,13,38,,35.839,0.911,https://openadmindata.org/dz/wilayas/relizane/
+DZ048_ain-tarek,2,دائرة,Daira,عين طارق,Ain Tarek,ain-tarek,DZ048_ain-tarek,,DZ048,غليزان,Relizane,,,2,,35.776,1.168,
+DZ048_ammi-moussa,2,دائرة,Daira,عمي موسى,Ammi Moussa,ammi-moussa,DZ048_ammi-moussa,,DZ048,غليزان,Relizane,,,4,,35.791,1.117,
+DZ048_djidiouia,2,دائرة,Daira,جديوية,Djidiouia,djidiouia,DZ048_djidiouia,,DZ048,غليزان,Relizane,,,3,,35.96,0.748,
+DZ048_el-hmadna,2,دائرة,Daira,الحمادنة,El H'madna,el-hmadna,DZ048_el-hmadna,,DZ048,غليزان,Relizane,,,2,,35.868,0.706,
+DZ048_el-matmar,2,دائرة,Daira,المطمر,El Matmar,el-matmar,DZ048_el-matmar,,DZ048,غليزان,Relizane,,,4,,35.736,0.543,
+DZ048_mazouna,2,دائرة,Daira,مازونة,Mazouna,mazouna,DZ048_mazouna,,DZ048,غليزان,Relizane,,,2,,36.097,0.86,
+DZ048_mendes,2,دائرة,Daira,منداس,Mendes,mendes,DZ048_mendes,,DZ048,غليزان,Relizane,,,3,,35.611,0.852,
+DZ048_oued-rhiou,2,دائرة,Daira,وادي رهيو,Oued Rhiou,oued-rhiou,DZ048_oued-rhiou,,DZ048,غليزان,Relizane,,,4,,35.969,0.918,
+DZ048_ramka,2,دائرة,Daira,الرمكة,Ramka,ramka,DZ048_ramka,,DZ048,غليزان,Relizane,,,2,,35.897,1.296,
+DZ048_relizane,2,دائرة,Daira,غليزان,Relizane,relizane,DZ048_relizane,,DZ048,غليزان,Relizane,,,2,,35.892,2.377,
+DZ048_sidi-mhamed-ben-ali,2,دائرة,Daira,سيدي أمحمد بن علي,Sidi M'hamed Ben Ali,sidi-mhamed-ben-ali,DZ048_sidi-mhamed-ben-ali,,DZ048,غليزان,Relizane,,,3,,36.118,0.707,
+DZ048_yellel,2,دائرة,Daira,يلل,Yellel,yellel,DZ048_yellel,,DZ048,غليزان,Relizane,,,4,,35.675,0.35,
+DZ048_zemmoura,2,دائرة,Daira,زمورة,Zemmoura,zemmoura,DZ048_zemmoura,,DZ048,غليزان,Relizane,,,3,,35.792,0.829,
+DZ049,1,ولاية,Wilaya,تيميمون,Timimoun,timimoun,DZ049,,,,,,4,10,,30.843,1.255,https://openadmindata.org/dz/wilayas/timimoun/
+DZ049_aougrout,2,دائرة,Daira,أوقروت,Aougrout,aougrout,DZ049_aougrout,,DZ049,تيميمون,Timimoun,,,3,,30.519,1.516,
+DZ049_charouine,2,دائرة,Daira,شروين,Charouine,charouine,DZ049_charouine,,DZ049,تيميمون,Timimoun,,,3,,33.118,1.648,
+DZ049_timimoun,2,دائرة,Daira,تيميمون,Timimoun,timimoun,DZ049_timimoun,,DZ049,تيميمون,Timimoun,,,2,,29.566,0.913,
+DZ049_tinerkouk,2,دائرة,Daira,تنركوك,Tinerkouk,tinerkouk,DZ049_tinerkouk,,DZ049,تيميمون,Timimoun,,,2,,30.33,0.81,
+DZ050,1,ولاية,Wilaya,برج باجي مختار,Bordj Badji Mokhtar,bordj-badji-mokhtar,DZ050,,,,,,1,2,,22.025,0.748,https://openadmindata.org/dz/wilayas/bordj-badji-mokhtar/
+DZ050_bordj-badji-mokhtar,2,دائرة,Daira,برج باجي مختار,Bordj Badji Mokhtar,bordj-badji-mokhtar,DZ050_bordj-badji-mokhtar,,DZ050,برج باجي مختار,Bordj Badji Mokhtar,,,2,,22.025,0.748,
+DZ051,1,ولاية,Wilaya,أولاد جلال,Ouled Djellal,ouled-djellal,DZ051,,,,,,2,6,,35.5,4.012,https://openadmindata.org/dz/wilayas/ouled-djellal/
+DZ051_ouled-djellal,2,دائرة,Daira,أولاد جلال,Ouled Djellal,ouled-djellal,DZ051_ouled-djellal,,DZ051,أولاد جلال,Ouled Djellal,,,3,,35.218,4.316,
+DZ051_sidi-khaled,2,دائرة,Daira,سيدي  خالد,Sidi Khaled,sidi-khaled,DZ051_sidi-khaled,,DZ051,أولاد جلال,Ouled Djellal,,,3,,35.924,3.555,
+DZ052,1,ولاية,Wilaya,بني عباس,Béni Abbès,bni-abbs,DZ052,,,,,,5,9,,29.887,-1.671,https://openadmindata.org/dz/wilayas/bni-abbs/
+DZ052_beni-abbes,2,دائرة,Daira,بني عباس,Beni Abbes,beni-abbes,DZ052_beni-abbes,,DZ052,بني عباس,Béni Abbès,,,2,,30.071,-2.58,
+DZ052_el-ouata,2,دائرة,Daira,الواتة,El Ouata,el-ouata,DZ052_el-ouata,,DZ052,بني عباس,Béni Abbès,,,1,,30.121,-1.382,
+DZ052_igli,2,دائرة,Daira,إقلي,Igli,igli,DZ052_igli,,DZ052,بني عباس,Béni Abbès,,,1,,30.479,-2.553,
+DZ052_kerzaz,2,دائرة,Daira,كرزاز,Kerzaz,kerzaz,DZ052_kerzaz,,DZ052,بني عباس,Béni Abbès,,,3,,29.776,-1.222,
+DZ052_ouled-khodeir,2,دائرة,Daira,أولاد خضير,Ouled Khodeir,ouled-khodeir,DZ052_ouled-khodeir,,DZ052,بني عباس,Béni Abbès,,,2,,29.099,-1.067,
+DZ053,1,ولاية,Wilaya,عين صالح,In Salah,in-salah,DZ053,,,,,,2,3,,,,https://openadmindata.org/dz/wilayas/in-salah/
+DZ053_in-ghar,2,دائرة,Daira,إينغر,In Ghar,in-ghar,DZ053_in-ghar,,DZ053,عين صالح,In Salah,,,1,,,,
+DZ053_in-salah,2,دائرة,Daira,عين صالح,In Salah,in-salah,DZ053_in-salah,,DZ053,عين صالح,In Salah,,,2,,,,
+DZ054,1,ولاية,Wilaya,عين قزام,In Guezzam,in-guezzam,DZ054,,,,,,2,2,,,,https://openadmindata.org/dz/wilayas/in-guezzam/
+DZ054_in-guezzam,2,دائرة,Daira,عين قزام,In Guezzam,in-guezzam,DZ054_in-guezzam,,DZ054,عين قزام,In Guezzam,,,1,,,,
+DZ054_tin-zouatine,2,دائرة,Daira,تين زواتين,Tin Zouatine,tin-zouatine,DZ054_tin-zouatine,,DZ054,عين قزام,In Guezzam,,,1,,,,
+DZ055,1,ولاية,Wilaya,تقرت,Touggourt,touggourt,DZ055,,,,,,5,13,,33.312,5.693,https://openadmindata.org/dz/wilayas/touggourt/
+DZ055_el-hadjira,2,دائرة,Daira,الحجيرة,El-Hadjira,el-hadjira,DZ055_el-hadjira,,DZ055,تقرت,Touggourt,,,2,,32.749,5.835,
+DZ055_megarine,2,دائرة,Daira,المقارين,Megarine,megarine,DZ055_megarine,,DZ055,تقرت,Touggourt,,,2,,34.531,3.841,
+DZ055_taibet,2,دائرة,Daira,الطيبات,Taibet,taibet,DZ055_taibet,,DZ055,تقرت,Touggourt,,,3,,32.944,6.441,
+DZ055_temacine,2,دائرة,Daira,تماسين,Temacine,temacine,DZ055_temacine,,DZ055,تقرت,Touggourt,,,2,,33.312,5.693,
+DZ055_touggourt,2,دائرة,Daira,تقرت,Touggourt,touggourt,DZ055_touggourt,,DZ055,تقرت,Touggourt,,,4,,33.119,6.024,
+DZ056,1,ولاية,Wilaya,جانت,Djanet,djanet,DZ056,,,,,,1,2,,23.78,10.135,https://openadmindata.org/dz/wilayas/djanet/
+DZ056_djanet,2,دائرة,Daira,جانت,Djanet,djanet,DZ056_djanet,,DZ056,جانت,Djanet,,,2,,23.78,10.135,
+DZ057,1,ولاية,Wilaya,المغير,El Meghaier,el-meghaier,DZ057,,,,,,2,8,,33.746,5.722,https://openadmindata.org/dz/wilayas/el-meghaier/
+DZ057_djamaa,2,دائرة,Daira,جامعة,Djamaa,djamaa,DZ057_djamaa,,DZ057,المغير,El Meghaier,,,4,,33.544,5.716,
+DZ057_el-meghaier,2,دائرة,Daira,المغير,El Meghaier,el-meghaier,DZ057_el-meghaier,,DZ057,المغير,El Meghaier,,,4,,34.354,5.74,
+DZ058,1,ولاية,Wilaya,المنيعة,El Menia,el-menia,DZ058,,,,,,2,3,,,,https://openadmindata.org/dz/wilayas/el-menia/
+DZ058_el-menia,2,دائرة,Daira,المنيعة,El Menia,el-menia,DZ058_el-menia,,DZ058,المنيعة,El Menia,,,2,,,,
+DZ058_mansourah,2,دائرة,Daira,المنصورة,Mansourah,mansourah,DZ058_mansourah,,DZ058,المنيعة,El Menia,,,1,,,,

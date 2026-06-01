@@ -26,5 +26,9 @@
     "lon": "-2.453"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bchar/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "0.748"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bordj-badji-mokhtar/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

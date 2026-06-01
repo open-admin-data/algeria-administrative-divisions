@@ -26,5 +26,9 @@
     "lon": "0.911"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/relizane/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

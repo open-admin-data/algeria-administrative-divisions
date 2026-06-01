@@ -26,5 +26,9 @@
     "lon": "0.368"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/mostaganem/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

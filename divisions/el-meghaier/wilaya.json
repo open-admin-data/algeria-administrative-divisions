@@ -26,5 +26,9 @@
     "lon": "5.722"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/el-meghaier/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

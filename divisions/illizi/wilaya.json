@@ -26,5 +26,9 @@
     "lon": "8.07"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/illizi/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

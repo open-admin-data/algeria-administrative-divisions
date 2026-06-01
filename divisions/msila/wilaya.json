@@ -26,5 +26,9 @@
     "lon": "4.21"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/msila/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

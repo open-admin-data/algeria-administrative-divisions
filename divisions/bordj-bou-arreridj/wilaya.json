@@ -26,5 +26,9 @@
     "lon": "4.57"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/bordj-bou-arreridj/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }

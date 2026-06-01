@@ -26,5 +26,9 @@
     "lon": "0.241"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/dz/wilayas/mascara/",
+    "api": "https://openadmindata.org/api/dz/"
+  }
 }
