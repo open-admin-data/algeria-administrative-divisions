@@ -3,7 +3,7 @@
 > 21 dairas, 61 communes
 > Code: DZ005
 > Coordinates: 35.341, 5.731
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Dairas
 

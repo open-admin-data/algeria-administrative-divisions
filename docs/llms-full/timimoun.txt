@@ -3,7 +3,7 @@
 > 4 dairas, 10 communes
 > Code: DZ049
 > Coordinates: 30.843, 1.255
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Dairas
 

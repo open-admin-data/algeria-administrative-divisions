@@ -13,9 +13,10 @@
 | Postal Codes | ✅ Included (commune level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/dz](https://openadmindata.org/dz/) |
 | API | [openadmindata.org/api/dz](https://openadmindata.org/api/dz/) |
+| National Anthem | [🎵 Listen & Download Algeria National Anthem MP3](https://onlygames.me/national-anthems/dz/) |
 
 ## Browse by Wilaya
 
