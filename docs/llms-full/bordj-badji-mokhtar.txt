@@ -3,7 +3,7 @@
 > 1 dairas, 2 communes
 > Code: DZ050
 > Coordinates: 22.025, 0.748
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Dairas
 
